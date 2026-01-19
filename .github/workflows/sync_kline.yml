@@ -25,7 +25,7 @@ jobs:
 
       - name: Run sync script
         env:
-          SYNC_SYMBOL_LIMIT: "200"        # 每次最多同步 200 只，先保守一点
+          SYNC_SYMBOL_LIMIT: "5000"        # 每次最多同步 200 只，先保守一点
           SYNC_SLEEP_SECONDS: "0.5"       # 每只之间 sleep 0.5s
         run: |
           python scripts/sync_kline_yf.py
