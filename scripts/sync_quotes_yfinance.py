@@ -11,7 +11,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SYMBOLS_FILE = BASE_DIR / "symbols" / "us.txt"
 OUTPUT_FILE = BASE_DIR / "quotes" / "latest.json"
 
-CHUNK_SIZE = 200
+CHUNK_SIZE = 500
 
 
 def load_symbols() -> List[str]:
