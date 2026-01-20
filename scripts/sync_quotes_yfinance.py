@@ -11,7 +11,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SYMBOLS_FILE = BASE_DIR / "symbols" / "us.txt"
 OUTPUT_FILE = BASE_DIR / "quotes" / "latest.json"
 
-CHUNK_SIZE = 500
+CHUNK_SIZE = 300
 
 
 def load_symbols() -> List[str]:
@@ -71,56 +71,93 @@ def compute_change(
     return d, dp
 
 
+def format_quote(
+    c: float,
+    o: float,
+    h: float,
+    l: float,
+    pc: Optional[float],
+) -> Dict[str, Optional[float]]:
+    d, dp = compute_change(c, pc)
+    return {
+        "c": float(f"{c:.4f}"),
+        "d": float(f"{d:.4f}") if d is not None else None,
+        "dp": float(f"{dp:.4f}") if dp is not None else None,
+        "h": float(f"{h:.4f}"),
+        "l": float(f"{l:.4f}"),
+        "o": float(f"{o:.4f}"),
+        "pc": float(f"{pc:.4f}") if pc is not None else None,
+    }
+
+
+def fetch_single_quote(symbol: str) -> Optional[Dict[str, Optional[float]]]:
+    try:
+        df = yf.download(
+            symbol,
+            period="2d",
+            interval="1d",
+            group_by="ticker",
+            auto_adjust=False,
+            progress=False,
+            threads=False,
+        )
+    except Exception as e:
+        print(f"single failed for {symbol}: {e}")
+        return None
+    ohlc = extract_ohlc(df)
+    if ohlc is None:
+        return None
+    c, o, h, l, pc = ohlc
+    return format_quote(c, o, h, l, pc)
+
+
 def update_quotes_batch(
     symbols: List[str],
 ) -> Dict[str, Dict[str, Optional[float]]]:
     if not symbols:
         return {}
-    data = yf.download(
-        symbols,
-        period="2d",
-        interval="1d",
-        group_by="ticker",
-        auto_adjust=False,
-        progress=False,
-        threads=True,
-    )
+    try:
+        data = yf.download(
+            symbols,
+            period="2d",
+            interval="1d",
+            group_by="ticker",
+            auto_adjust=False,
+            progress=False,
+            threads=True,
+        )
+    except Exception as e:
+        print(f"batch download failed ({len(symbols)} symbols): {e}")
+        data = pd.DataFrame()
     result: Dict[str, Dict[str, Optional[float]]] = {}
+    missing: List[str] = []
     if isinstance(data.columns, pd.MultiIndex):
         for sym in symbols:
             if sym not in data.columns.levels[0]:
+                missing.append(sym)
                 continue
             df = data[sym]
             ohlc = extract_ohlc(df)
             if ohlc is None:
+                missing.append(sym)
                 continue
             c, o, h, l, pc = ohlc
-            d, dp = compute_change(c, pc)
-            result[sym] = {
-                "c": float(f"{c:.4f}"),
-                "d": float(f"{d:.4f}") if d is not None else None,
-                "dp": float(f"{dp:.4f}") if dp is not None else None,
-                "h": float(f"{h:.4f}"),
-                "l": float(f"{l:.4f}"),
-                "o": float(f"{o:.4f}"),
-                "pc": float(f"{pc:.4f}") if pc is not None else None,
-            }
+            result[sym] = format_quote(c, o, h, l, pc)
     else:
         ohlc = extract_ohlc(data)
         if ohlc is None:
-            return result
-        c, o, h, l, pc = ohlc
-        d, dp = compute_change(c, pc)
-        for sym in symbols:
-            result[sym] = {
-                "c": float(f"{c:.4f}"),
-                "d": float(f"{d:.4f}") if d is not None else None,
-                "dp": float(f"{dp:.4f}") if dp is not None else None,
-                "h": float(f"{h:.4f}"),
-                "l": float(f"{l:.4f}"),
-                "o": float(f"{o:.4f}"),
-                "pc": float(f"{pc:.4f}") if pc is not None else None,
-            }
+            missing.extend(symbols)
+        else:
+            c, o, h, l, pc = ohlc
+            quote = format_quote(c, o, h, l, pc)
+            for sym in symbols:
+                result[sym] = quote
+    if missing:
+        print(f"missing from batch: {len(missing)} symbols, fetching individually")
+        for sym in missing:
+            q = fetch_single_quote(sym)
+            if q is not None:
+                result[sym] = q
     return result
 
 
