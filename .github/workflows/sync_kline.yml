@@ -37,10 +37,26 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           if git status --porcelain | grep .; then
-            git add symbols candles
-            git commit -m "Update kline data $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
-            git push
+            echo "Changes detected"
           else
             echo "No changes to commit"
+            exit 0
           fi
+
+          git add symbols candles
+
+          if git diff --cached --quiet; then
+            echo "No staged changes"
+            exit 0
+          fi
+
+          git commit -m "Update kline data $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
+
+          BRANCH="${GITHUB_REF_NAME:-main}"
+
+          git fetch origin "${BRANCH}"
+          git pull --rebase origin "${BRANCH}" || true
+
+          git push origin "HEAD:${BRANCH}"
