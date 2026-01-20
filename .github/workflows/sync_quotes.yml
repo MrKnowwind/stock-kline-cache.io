@@ -36,18 +36,32 @@ jobs:
         # 如果你的脚本不在这个路径，改成实际路径即可
         run: python scripts/sync_quotes_yfinance.py
 
-      - name: Commit and push if changed
+      - name: Commit and push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # 这里只添加 quotes/latest.json，避免无关文件被提交
-          git add quotes/latest.json
+          if git status --porcelain | grep .; then
+            echo "Changes detected"
+          else
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git add quotes
 
           if git diff --cached --quiet; then
-            echo "No changes to commit."
+            echo "No staged changes"
             exit 0
           fi
 
           git commit -m "Update quotes from yfinance"
-          git push
+
+          BRANCH="${GITHUB_REF_NAME:-main}"
+
+          git fetch origin "${BRANCH}"
+          git pull --rebase origin "${BRANCH}" || true
+
+          git push origin "HEAD:${BRANCH}"
