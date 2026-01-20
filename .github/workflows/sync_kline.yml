@@ -18,7 +18,7 @@ jobs:
         with:
           python-version: "3.11"
           cache: "pip"        # 这一行开启 pip 缓存
-
+          cache-dependency-path: "scripts/sync_kline_yf.py"
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
