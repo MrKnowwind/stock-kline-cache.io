@@ -1,0 +1,53 @@
+name: Sync quotes from yfinance
+
+on:
+  # GitHub Actions 的 schedule 最小粒度是 5 分钟
+  schedule:
+    - cron: "*/5 * * * *"  # 每 5 分钟跑一次
+  workflow_dispatch:        # 允许你在 Actions 页面手动点“Run workflow”
+
+permissions:
+  contents: write  # 允许工作流向仓库写入 latest.json 并 push
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    concurrency:
+      # 避免上一次还没跑完，下一个定时任务又进来
+      group: sync-quotes-yfinance
+      cancel-in-progress: false
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install yfinance
+
+      - name: Generate quotes cache
+        # 如果你的脚本不在这个路径，改成实际路径即可
+        run: python scripts/sync_quotes_yfinance.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # 这里只添加 quotes/latest.json，避免无关文件被提交
+          git add quotes/latest.json
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Update quotes from yfinance"
+          git push
