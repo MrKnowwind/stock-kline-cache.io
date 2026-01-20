@@ -17,6 +17,7 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+          cache: "pip"        # 这一行开启 pip 缓存
 
       - name: Install dependencies
         run: |
@@ -25,8 +26,8 @@ jobs:
 
       - name: Run sync script
         env:
-          SYNC_SYMBOL_LIMIT: "5018"        # 每次最多同步 200 只，先保守一点
-          SYNC_SLEEP_SECONDS: "0.5"       # 每只之间 sleep 0.5s
+          SYNC_SYMBOL_LIMIT: "5018"
+          SYNC_SLEEP_SECONDS: "0.5"
         run: |
           python scripts/sync_kline_yf.py
 
