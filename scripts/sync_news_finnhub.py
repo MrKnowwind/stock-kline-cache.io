@@ -13,8 +13,8 @@ OUTPUT_FILE = BASE_DIR / "news" / "top.json"
 API_KEY = os.environ.get("FINNHUB_API_KEY", "").strip()
 BASE_URL = "https://finnhub.io/api/v1"
 
-MAX_ITEMS = 50
-MAX_AGE_SECONDS = 24 * 3600
+MAX_ITEMS = 100
+MAX_AGE_SECONDS = 30 * 24 * 3600
 
 
 def fetch_general_news() -> List[Dict[str, Any]]:
