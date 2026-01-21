@@ -30,7 +30,20 @@ def fetch_general_news() -> List[Dict[str, Any]]:
     return data
 
 
-def transform_items(items: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+def load_existing() -> List[Dict[str, Any]]:
+    if not OUTPUT_FILE.exists():
+        return []
+    try:
+        with OUTPUT_FILE.open("r", encoding="utf-8") as f:
+            data = json.load(f)
+        if isinstance(data, list):
+            return data
+        return []
+    except Exception:
+        return []
+
+
+def transform_raw_items(items: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
     now = int(time.time())
     result: List[Dict[str, Any]] = []
     for item in items:
@@ -51,9 +64,10 @@ def transform_items(items: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
         related = item.get("related") or []
         if not isinstance(related, list):
             related = []
+        entry_id = str(id_val) if id_val is not None else f"{ts}-{len(result)}"
         result.append(
             {
-                "id": str(id_val) if id_val is not None else f"{ts}-{len(result)}",
+                "id": entry_id,
                 "headline": headline,
                 "summary": summary,
                 "url": url,
@@ -62,6 +76,37 @@ def transform_items(items: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
                 "publishedAt": ts,
             }
         )
+    return result
+
+
+def merge_and_trim(
+    existing: List[Dict[str, Any]],
+    new_items: List[Dict[str, Any]],
+) -> List[Dict[str, Any]]:
+    now = int(time.time())
+    cutoff = now - MAX_AGE_SECONDS
+    merged: Dict[str, Dict[str, Any]] = {}
+    for item in existing:
+        ts = item.get("publishedAt")
+        if not isinstance(ts, int):
+            continue
+        if now - ts > MAX_AGE_SECONDS:
+            continue
+        entry_id = str(item.get("id") or "")
+        if not entry_id:
+            continue
+        merged[entry_id] = item
+    for item in new_items:
+        ts = item.get("publishedAt")
+        if not isinstance(ts, int):
+            continue
+        if now - ts > MAX_AGE_SECONDS:
+            continue
+        entry_id = str(item.get("id") or "")
+        if not entry_id:
+            continue
+        merged[entry_id] = item
+    result = list(merged.values())
     result.sort(key=lambda x: x["publishedAt"], reverse=True)
     if len(result) > MAX_ITEMS:
         result = result[:MAX_ITEMS]
@@ -77,9 +122,11 @@ def write_json_atomic(path: Path, data: List[Dict[str, Any]]) -> None:
 
 
 def main() -> None:
-    items = fetch_general_news()
-    transformed = transform_items(items)
-    write_json_atomic(OUTPUT_FILE, transformed)
+    existing = load_existing()
+    raw_items = fetch_general_news()
+    transformed_new = transform_raw_items(raw_items)
+    merged = merge_and_trim(existing, transformed_new)
+    write_json_atomic(OUTPUT_FILE, merged)
 
 
 if __name__ == "__main__":
