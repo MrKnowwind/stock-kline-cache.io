@@ -64,6 +64,7 @@ def transform_raw_items(items: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
         related = item.get("related") or []
         if not isinstance(related, list):
             related = []
+        image = item.get("image") or ""
         entry_id = str(id_val) if id_val is not None else f"{ts}-{len(result)}"
         result.append(
             {
@@ -72,6 +73,7 @@ def transform_raw_items(items: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
                 "summary": summary,
                 "url": url,
                 "source": source,
+                "image": image,
                 "relatedSymbols": related,
                 "publishedAt": ts,
             }
