@@ -606,7 +606,20 @@
     "source": "MarketWatch",
     "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
     "relatedSymbols": [],
-    "publishedAt": 1769006100
+    "publishedAt": 1769006100,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1769056693,
+      "sentiment": "neutral",
+      "confidence": 0.8,
+      "summary": "U.S. President Donald Trump clarified at the World Economic Forum in Davos that he would not use military force to acquire Greenland, instead advocating for negotiations. This comment alleviated some geopolitical concerns that had previously unsettled markets due to fears of international tension and instability. The announcement reflects a more measured and diplomatic stance in U.S. foreign policy regarding Greenland, a region with strategic and resource significance. Calm in this geopolitical area reduces uncertainty, which typically benefits market sentiment and investor confidence.",
+      "impact": "The calming of geopolitical tensions around Greenland is likely to have a neutral to mildly positive effect on market sentiment, reducing volatility related to geopolitical risk premiums. This stability could support steady valuations, particularly for industries linked to Arctic resources, mining, and defense sectors, though direct impacts on specific stocks are limited as the situation evolves diplomatically. In the short term, investors may see reduced risk aversion, supporting broader equity markets. Medium-term effects depend on further negotiation outcomes and policy clarity.",
+      "risks": [
+        "escalation of geopolitical tensions despite current statements",
+        "uncertainty in negotiations affecting resource development timelines",
+        "potential shifts in U.S. foreign policy with administrative changes"
+      ]
+    }
   },
   {
     "id": "7570221",
@@ -616,7 +629,21 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/108222450-1762446975226-gettyimages-2244831435-AFP_83AN7Q9.jpeg?v=1762447016&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1769005724
+    "publishedAt": 1769005724,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1769056699,
+      "sentiment": "bearish",
+      "confidence": 0.85,
+      "summary": "JPMorgan Chase CEO Jamie Dimon publicly opposed President Trump's proposal to cap credit card interest rates at 10%, warning it could drastically cut the credit card business and negatively affect consumers and other sectors. He suggested a test of this cap in Vermont and Massachusetts, states with influential senators supporting the cap, as a way to demonstrate potential negative consequences. Dimon's position reflects banking sector concerns that such price controls would reduce revenue and lead banks to cancel many credit card accounts, a scenario that has found some political support. Senator Elizabeth Warren also criticized banks for not voluntarily capping rates, emphasizing legislative action instead. The debate highlights regulatory uncertainty around credit card interest rates, which could affect lenders' earnings and broader economic activities given the reliance on credit card financing.",
+      "impact": "In the short term, the news may weigh on large credit card issuers and banking stocks as investors digest the potential regulatory pressure for interest rate caps that could reduce interest income. The suggestion of a pilot program in two states adds a layer of uncertainty, as the results could inform broader regulation. Medium-term earnings outlooks for affected lenders may weaken if legislative caps are implemented, increasing funding costs or reducing loan volumes. Valuations may be pressured due to heightened regulatory risk and potential reductions in credit card profitability, while investor sentiment could become cautious in this sector until clarity emerges.",
+      "risks": [
+        "regulatory approval risk for nationwide credit card interest rate caps",
+        "reputational risk related to public and political backlash",
+        "earnings volatility risk due to potential reductions in credit card interest income",
+        "credit portfolio risk if changes in pricing lead to altered consumer borrowing behavior"
+      ]
+    }
   },
   {
     "id": "7570222",
@@ -626,7 +653,21 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/108254385-17689274872026-01-20t124832z_629620600_rc205ja69ak1_rtrmadp_0_davos-meeting.jpeg?v=1768927510&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1769005453
+    "publishedAt": 1769005453,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1769056705,
+      "sentiment": "bullish",
+      "confidence": 0.85,
+      "summary": "The article highlights the strategic focus of AI startups OpenAI and Anthropic on expanding their enterprise customer base as a key revenue growth driver. OpenAI currently derives about 40% of its revenue from enterprise clients and expects this to grow to 50% within the year, supported by a large base of over 1 million business customers worldwide. Anthropic, with its emphasis on AI system safety and reliability, generates roughly 80% of its business from enterprises, rapidly growing from fewer than 1,000 to over 300,000 business customers in two years. Both companies have seen their valuations soar—OpenAI to $500 billion and Anthropic to $350 billion—driven by advances in AI technology and increasing market adoption. The enterprise focus provides a more predictable and stable revenue stream compared to consumer markets, reinforcing the companies' growth profiles and market positions in the competitive AI landscape.",
+      "impact": "This enterprise customer growth is likely to have a positive medium-term impact on the financial outlook and valuation of companies connected to OpenAI and Anthropic, as steady, recurring revenue improves earnings predictability and investor confidence. Increased enterprise adoption can also enhance partnerships with larger tech firms and potentially lead to expanded product offerings and integration opportunities. In the short term, heightened market sentiment around AI innovation and adoption may boost stock valuations of technology companies affiliated with these platforms, although direct investment exposure may be limited due to their private status. The expanding enterprise footprint suggests improving fundamentals, which could translate to stronger earnings outlooks for publicly traded companies investing in or collaborating with these AI platforms.",
+      "risks": [
+        "regulatory scrutiny or data privacy concerns in enterprise AI deployments",
+        "competition risk from other AI startups and established technology companies",
+        "execution risk in scaling enterprise solutions and maintaining AI safety and reliability",
+        "macroeconomic factors potentially slowing enterprise IT spending"
+      ]
+    }
   },
   {
     "id": "7570212",
@@ -636,7 +677,21 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/108254359-1768925885954-gettyimages-2256686492-AFP_93DT88C.jpeg?v=1769000926&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1769004408
+    "publishedAt": 1769004408,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1769056732,
+      "sentiment": "neutral",
+      "confidence": 0.75,
+      "summary": "The stock market experienced a notable selloff, driven largely by rising geopolitical concerns related to escalating Greenland tariff threats from former President Trump, which negatively affected broad market sentiment and pushed major indexes into negative territory for 2026. Corporate earnings and guidance updates showed mixed results: Johnson & Johnson beat full-year guidance but saw shares drop due to elevated expectations; Netflix posted positive Q4 results but faced a steep share price decline on weaker margin guidance and a paused buyback amid its Warner Bros Discovery acquisition bid. Analyst revisions reflect a cautious stance, with some upward price target adjustments for industrial and specialty chemicals companies like Linde and DuPont, while tech sector names like Microsoft and ServiceNow face tempered expectations due to AI budget uncertainties and sector disruption fears. Overall, the market faces a complex interplay of geopolitical risk, technological disruption concerns, and sector-specific fundamentals influencing near-term performance.",
+      "impact": "In the short term, stocks sensitive to geopolitical tensions, such as industrials and exporters, may face volatility due to tariff concerns, with tariffs potentially impacting earnings and supply chains. Pharmaceutical and healthcare names like Johnson & Johnson could see muted gains as strong results are partially priced in, which might pressure near-term valuation. Technology and software companies such as Microsoft, Netflix, and ServiceNow are likely to experience elevated uncertainty from AI budget impacts and shifting investor sentiment, leading to multiple contractions despite some operational strength. Conversely, specialty chemicals and industrial companies like Linde and DuPont may benefit from currency and sales environment improvements, supporting medium-term upside potential.",
+      "risks": [
+        "escalation of geopolitical tensions leading to broader market volatility",
+        "uncertainty in AI adoption and budget allocations impacting tech sector earnings multiples",
+        "potential tariff implementations affecting industrial and chemical companies' cost structures and demand",
+        "integration and cash flow risks related to Netflix's acquisition of Warner Bros Discovery"
+      ]
+    }
   },
   {
     "id": "7570202",
@@ -646,7 +701,21 @@
     "source": "MarketWatch",
     "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
     "relatedSymbols": [],
-    "publishedAt": 1769003040
+    "publishedAt": 1769003040,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1769056738,
+      "sentiment": "neutral",
+      "confidence": 0.8,
+      "summary": "The article discusses a personal financial issue where an individual is concerned about her husband being pressured by her brother-in-law to cosign a renovation loan. The husband feels guilty due to previous family financial assistance when purchasing their home. This situation highlights the complexities and interpersonal dynamics in personal finance, particularly related to borrowing and loan cosigning. While not directly related to publicly traded companies, such stories reflect broader consumer behavior and sentiment around debt, credit, and home improvement financing. These factors are part of the macroeconomic landscape influencing sectors like consumer finance, lending institutions, and home renovation markets.",
+      "impact": "There is no direct impact on specific stocks as this is a personal finance story without mention of any companies or market-sensitive information. However, the broader theme of borrowing for home renovations could influence demand for home improvement retailers and lenders in the home renovation financing space. In the medium term, increased consumer caution or reluctance to cosign loans might affect loan origination volumes or home renovation spending, though this is speculative and indirect. Market sentiment is unlikely to be affected by this individual anecdote.",
+      "risks": [
+        "consumer credit risk related to cosigned loans",
+        "demand fluctuation risk in home renovation financing",
+        "sentiment risk around family financial obligations and borrowing",
+        "potential tightening of consumer loan underwriting standards"
+      ]
+    }
   },
   {
     "id": "7570191",
