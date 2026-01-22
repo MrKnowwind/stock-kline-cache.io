@@ -14,7 +14,7 @@ OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY", "").strip()
 OPENAI_API_URL = "https://api.openai.com/v1/chat/completions"
 
 MODEL_NAME = "gpt-4o-mini"
-MAX_ANALYZE_PER_RUN = 20
+MAX_ANALYZE_PER_RUN = 5
 
 
 def load_news() -> List[Dict[str, Any]]:
