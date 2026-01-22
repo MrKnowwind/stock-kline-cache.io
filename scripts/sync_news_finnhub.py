@@ -86,7 +86,6 @@ def merge_and_trim(
     new_items: List[Dict[str, Any]],
 ) -> List[Dict[str, Any]]:
     now = int(time.time())
-    cutoff = now - MAX_AGE_SECONDS
     merged: Dict[str, Dict[str, Any]] = {}
     for item in existing:
         ts = item.get("publishedAt")
@@ -107,6 +106,11 @@ def merge_and_trim(
         entry_id = str(item.get("id") or "")
         if not entry_id:
             continue
+        existing_item = merged.get(entry_id)
+        if existing_item is not None:
+            analysis = existing_item.get("analysis")
+            if analysis is not None and item.get("analysis") is None:
+                item["analysis"] = analysis
         merged[entry_id] = item
     result = list(merged.values())
     result.sort(key=lambda x: x["publishedAt"], reverse=True)
