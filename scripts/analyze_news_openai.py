@@ -1,145 +1,235 @@
-import os
 import json
+import os
 import time
-from pathlib import Path
-from typing import List, Dict, Any
+from typing import Any, Dict, List, Optional
 
 import requests
+from bs4 import BeautifulSoup
+from readability import Document
+from openai import OpenAI
 
 
-BASE_DIR = Path(__file__).resolve().parent.parent
-NEWS_FILE = BASE_DIR / "news" / "top.json"
-
-OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY", "").strip()
-OPENAI_API_URL = "https://api.openai.com/v1/chat/completions"
-
-MODEL_NAME = "gpt-4o-mini"
-MAX_ANALYZE_PER_RUN = 5
+NEWS_FILE_PATH = os.getenv("NEWS_FILE_PATH", "news/top.json")
+MAX_ARTICLES_PER_RUN = int(os.getenv("MAX_ARTICLES_PER_RUN", "50"))
+OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-4.1-mini")
+ANALYSIS_VERSION = 2
 
 
-def load_news() -> List[Dict[str, Any]]:
-    if not NEWS_FILE.exists():
-        return []
-    with NEWS_FILE.open("r", encoding="utf-8") as f:
-        data = json.load(f)
-    if isinstance(data, list):
-        return data
-    return []
+def load_news(path: str) -> List[Dict[str, Any]]:
+    with open(path, "r", encoding="utf-8") as f:
+        return json.load(f)
 
 
-def write_news(items: List[Dict[str, Any]]) -> None:
-    tmp = NEWS_FILE.with_suffix(".tmp")
-    with tmp.open("w", encoding="utf-8") as f:
-        json.dump(items, f, ensure_ascii=False, separators=(",", ":"))
-    tmp.replace(NEWS_FILE)
+def save_news(path: str, items: List[Dict[str, Any]]) -> None:
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(items, f, ensure_ascii=False, indent=2)
 
 
-def select_items_to_analyze(items: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
-    result = []
-    for item in items:
-        analysis = item.get("analysis")
-        if isinstance(analysis, dict):
-            if analysis.get("version") == 1:
-                continue
-        result.append(item)
-        if len(result) >= MAX_ANALYZE_PER_RUN:
-            break
-    return result
+def fetch_article_html(url: str, timeout: int = 10) -> Optional[str]:
+    try:
+        headers = {
+            "User-Agent": (
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) "
+                "Chrome/120.0 Safari/537.36"
+            )
+        }
+        resp = requests.get(url, headers=headers, timeout=timeout)
+        if resp.status_code != 200:
+            return None
+        return resp.text
+    except Exception:
+        return None
 
 
-def build_prompt_for_item(item: Dict[str, Any]) -> List[Dict[str, str]]:
+def extract_main_text(html: str) -> Optional[str]:
+    try:
+        doc = Document(html)
+        summary_html = doc.summary()
+        soup = BeautifulSoup(summary_html, "html.parser")
+        text = " ".join(s.strip() for s in soup.stripped_strings)
+        if not text:
+            soup_full = BeautifulSoup(html, "html.parser")
+            text = " ".join(s.strip() for s in soup_full.stripped_strings)
+        return text or None
+    except Exception:
+        return None
+
+
+def truncate_text(text: str, max_chars: int = 6000) -> str:
+    if len(text) <= max_chars:
+        return text
+    return text[:max_chars]
+
+
+def build_prompt(item: Dict[str, Any], article_text: Optional[str]) -> str:
     headline = item.get("headline") or ""
     summary = item.get("summary") or ""
     source = item.get("source") or ""
-    url = item.get("url") or ""
     related = item.get("relatedSymbols") or []
-    related_text = ", ".join(related) if isinstance(related, list) else ""
-    content = (
-        "You are a financial assistant. Analyze the following market news and respond "
-        "with a strict JSON object in English using this schema:\n"
-        "{\n"
-        '  "version": 1,\n'
-        '  "sentiment": "bullish" | "bearish" | "neutral",\n'
-        '  "confidence": number between 0 and 1,\n'
-        '  "summary": "short explanation of the news content and key points",\n'
-        '  "impact": "short description of potential impact on related symbols and market",\n'
-        '  "risks": ["risk1", "risk2"]\n'
-        "}\n"
-        "Only output JSON, no extra text.\n\n"
-        f"Headline: {headline}\n"
-        f"Summary: {summary}\n"
-        f"Source: {source}\n"
-        f"URL: {url}\n"
-        f"Related symbols: {related_text}\n"
-    )
-    return [
-        {"role": "system", "content": "You are a precise financial news analyst."},
-        {"role": "user", "content": content},
+    url = item.get("url") or ""
+
+    base_info = [
+        f"Title: {headline}",
+        f"Source: {source}",
+        f"URL: {url}",
+        f"Related symbols: {', '.join(related) if related else 'N/A'}",
+        "",
+        f"Provider summary: {summary}",
     ]
 
+    if article_text:
+        base_info.append("")
+        base_info.append("Full article text:")
+        base_info.append(article_text)
 
-def call_openai(messages: List[Dict[str, str]]) -> Dict[str, Any]:
-    if not OPENAI_API_KEY:
+    info_block = "\n".join(base_info)
+
+    prompt = (
+        "You are a professional equity research analyst.\n"
+        "Based on the following news article, provide a detailed, "
+        "actionable analysis for stock traders.\n\n"
+        f"{info_block}\n\n"
+        "Return a JSON object with exactly these fields:\n"
+        "- sentiment: one of ['bullish', 'bearish', 'neutral']\n"
+        "- confidence: a number between 0 and 1\n"
+        "- summary: in English, 3-6 sentences, clearly explaining the key "
+        "events, background, and the logical chain from the news to the "
+        "business fundamentals or industry context.\n"
+        "- impact: in English, 2-4 sentences, concretely describing the "
+        "potential impact on the related stocks. Cover short-term and/or "
+        "medium-term effects, and mention drivers such as earnings outlook, "
+        "valuation, sentiment, liquidity, or macro factors when relevant.\n"
+        "- risks: an array of English strings. Each element is one specific "
+        "risk or uncertainty (for example: 'regulatory approval risk', "
+        "'integration risk', 'demand slowdown risk'). Prefer 2-4 concise "
+        "and concrete items when possible.\n"
+    )
+
+    return prompt
+
+
+def create_openai_client() -> OpenAI:
+    api_key = os.getenv("OPENAI_API_KEY")
+    if not api_key:
         raise RuntimeError("OPENAI_API_KEY is not set")
-    headers = {
-        "Authorization": f"Bearer {OPENAI_API_KEY}",
-        "Content-Type": "application/json",
-    }
-    payload = {
-        "model": MODEL_NAME,
-        "messages": messages,
-        "temperature": 0.2,
-        "response_format": {"type": "json_object"},
-    }
-    resp = requests.post(OPENAI_API_URL, headers=headers, json=payload, timeout=60)
-    resp.raise_for_status()
-    data = resp.json()
-    choices = data.get("choices") or []
-    if not choices:
-        raise RuntimeError("No choices in OpenAI response")
-    message = choices[0].get("message") or {}
-    content = message.get("content") or ""
-    return json.loads(content)
+    return OpenAI(api_key=api_key)
 
 
-def update_items_with_analysis(
-    items: List[Dict[str, Any]],
-    analyzed: Dict[str, Dict[str, Any]],
-) -> List[Dict[str, Any]]:
-    now = int(time.time())
-    result = []
+def analyze_with_openai(client: OpenAI, prompt: str) -> Dict[str, Any]:
+    resp = client.chat.completions.create(
+        model=OPENAI_MODEL,
+        response_format={"type": "json_object"},
+        messages=[
+            {
+                "role": "system",
+                "content": (
+                    "You are a professional equity research analyst. "
+                    "Always respond with a single JSON object and use English."
+                ),
+            },
+            {"role": "user", "content": prompt},
+        ],
+    )
+    content = resp.choices[0].message.content
+    data = json.loads(content)
+
+    sentiment = str(data.get("sentiment", "neutral")).lower()
+    if sentiment not in ["bullish", "bearish", "neutral"]:
+        sentiment = "neutral"
+
+    try:
+        confidence = float(data.get("confidence", 0.5))
+    except Exception:
+        confidence = 0.5
+    confidence = max(0.0, min(1.0, confidence))
+
+    summary = str(data.get("summary", "")).strip()
+    impact = str(data.get("impact", "")).strip()
+    risks_raw = data.get("risks", [])
+    if isinstance(risks_raw, list):
+        risks = [str(r).strip() for r in risks_raw if str(r).strip()]
+    elif isinstance(risks_raw, str) and risks_raw.strip():
+        risks = [r.strip() for r in risks_raw.split("\n") if r.strip()]
+    else:
+        risks = []
+
+    return {
+        "sentiment": sentiment,
+        "confidence": confidence,
+        "summary": summary,
+        "impact": impact,
+        "risks": risks,
+    }
+
+
+def build_analysis_object(model_output: Dict[str, Any]) -> Dict[str, Any]:
+    return {
+        "version": ANALYSIS_VERSION,
+        "generatedAt": int(time.time()),
+        "sentiment": model_output["sentiment"],
+        "confidence": model_output["confidence"],
+        "summary": model_output["summary"],
+        "impact": model_output["impact"],
+        "risks": model_output["risks"],
+    }
+
+
+def select_items_to_analyze(items: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    candidates = []
     for item in items:
-        item_id = str(item.get("id"))
-        analysis = analyzed.get(item_id)
-        if analysis is not None:
-            analysis["version"] = 1
-            analysis["generatedAt"] = now
-            item["analysis"] = analysis
-        result.append(item)
-    return result
+        url = item.get("url") or ""
+        if not url:
+            continue
+
+        analysis = item.get("analysis")
+        if analysis is None:
+            candidates.append(item)
+            continue
+
+        version = analysis.get("version")
+        if version is None or version < ANALYSIS_VERSION:
+            candidates.append(item)
+
+    return candidates[:MAX_ARTICLES_PER_RUN]
 
 
 def main() -> None:
-    items = load_news()
-    if not items:
+    items = load_news(NEWS_FILE_PATH)
+    client = create_openai_client()
+
+    to_analyze = select_items_to_analyze(items)
+    if not to_analyze:
+        print("No items to analyze")
         return
-    targets = select_items_to_analyze(items)
-    if not targets:
-        return
-    analyzed: Dict[str, Dict[str, Any]] = {}
-    for item in targets:
-        item_id = str(item.get("id"))
+
+    print(f"Analyzing {len(to_analyze)} items")
+
+    for idx, item in enumerate(to_analyze, start=1):
+        url = item.get("url")
+        print(f"[{idx}/{len(to_analyze)}] id={item.get('id')} url={url}")
+
+        html = fetch_article_html(url) if url else None
+        article_text = None
+        if html:
+            article_text = extract_main_text(html)
+            if article_text:
+                article_text = truncate_text(article_text, max_chars=6000)
+
+        prompt = build_prompt(item, article_text)
         try:
-            messages = build_prompt_for_item(item)
-            analysis = call_openai(messages)
-            analyzed[item_id] = analysis
-            time.sleep(1.0)
-        except Exception:
+            model_output = analyze_with_openai(client, prompt)
+        except Exception as e:
+            print(f"OpenAI error for id={item.get('id')}: {e}")
             continue
-    if not analyzed:
-        return
-    updated = update_items_with_analysis(items, analyzed)
-    write_news(updated)
+
+        analysis_obj = build_analysis_object(model_output)
+        item["analysis"] = analysis_obj
+
+        time.sleep(1.0)
+
+    save_news(NEWS_FILE_PATH, items)
+    print("Done")
 
 
 if __name__ == "__main__":
