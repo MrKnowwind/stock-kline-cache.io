@@ -1,5 +1,15 @@
 [
   {
+    "id": "7570723",
+    "headline": "Natural-gas prices see ‘historic’ surge as U.S. braces for winter storm. What that means for heating bills.",
+    "summary": "Consumers don’t yet have to worry about the three-session 62% spike in prices",
+    "url": "https://www.marketwatch.com/story/natural-gas-prices-see-historic-surge-as-u-s-braces-for-winter-storm-what-that-means-for-heating-bills-7e1b9fa2",
+    "source": "MarketWatch",
+    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+    "relatedSymbols": [],
+    "publishedAt": 1769116320
+  },
+  {
     "id": "7570710",
     "headline": "The S&P 500 is on fire — but a retreat to this level would unleash the bears",
     "summary": "Stock investors should be cautious if the S&P 500 declines toward 6,700.",
@@ -31,7 +41,21 @@
     "source": "MarketWatch",
     "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
     "relatedSymbols": [],
-    "publishedAt": 1769112840
+    "publishedAt": 1769112840,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1769119029,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "A significant winter storm is forecasted to hit a wide geographic area including Southern airports, posing a major logistical challenge for airlines. The impact is expected to disrupt flight schedules widely, causing delays and cancellations beyond typical winter storm regions. This disruption affects the airline industry's operational efficiency and can erode traveler confidence during a critical travel season. Consequently, the storm could negatively impact ticket sales, increase operational costs, and create a ripple effect on the broader travel and logistics sectors that depend on reliable air transportation.",
+      "impact": "In the short term, airlines may face increased costs related to rebooking, crew management, and airport congestion, which could pressure earnings and stock performance. The disruption might also weigh on investor sentiment due to anticipated revenue losses and operational inefficiencies. Medium-term effects could include slower recovery in passenger volumes if consumers opt for alternative travel methods or postpone trips due to weather-related reliability concerns. Airlines with extensive Southern route networks or less operational flexibility could be more adversely affected.",
+      "risks": [
+        "sustained flight cancellations and delays impacting revenue",
+        "higher operational costs related to crew and equipment repositioning",
+        "potential decline in passenger demand post-storm due to travel uncertainty",
+        "macro factors such as fuel price volatility exacerbating financial pressure"
+      ]
+    }
   },
   {
     "id": "7570693",
