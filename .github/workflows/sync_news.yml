@@ -46,7 +46,7 @@ jobs:
           MAX_ARTICLES_PER_RUN: "5"
           OPENAI_MODEL: gpt-4.1-mini
         run: |
-          python analyze_news_openai.py
+          python scripts/analyze_news_openai.py
       - name: Commit and push changes
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
