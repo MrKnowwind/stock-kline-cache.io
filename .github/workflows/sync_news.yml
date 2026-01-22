@@ -35,7 +35,10 @@ jobs:
 
       - name: Generate news cache
         run: python scripts/sync_news_finnhub.py
-
+      - name: Analyze news with OpenAI
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python scripts/analyze_news_openai.py
       - name: Commit and push changes
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
