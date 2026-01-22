@@ -1083,7 +1083,21 @@
     "source": "Bloomberg",
     "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
     "relatedSymbols": [],
-    "publishedAt": 1768968795
+    "publishedAt": 1768968795,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1769063305,
+      "sentiment": "bearish",
+      "confidence": 0.85,
+      "summary": "Reliance Industries has experienced a significant selloff, causing its stock to enter the deepest oversold territory in years, wiping out approximately $29 billion in market capitalization so far in 2026. This sharp decline suggests heightened investor concern, possibly stemming from broader market volatility, company-specific challenges, or sector-wide issues in India’s energy and conglomerate space. The oversold condition indicates that the stock price has fallen rapidly and may have deviated significantly from its intrinsic value. However, until there is clarity on the underlying causes or a stabilization in fundamentals, the market sentiment remains cautious.",
+      "impact": "In the short term, the steep price decline may lead to increased volatility and potential liquidity risks as investors reassess positions. Medium-term effects could include pressure on Reliance’s valuation multiples and investor confidence, affecting capital raising or strategic initiatives. If the oversold status corrects with positive earnings or sector recovery, a rebound could occur, but persistent negative catalyst or macroeconomic headwinds may prolong the downtrend.",
+      "risks": [
+        "macroeconomic headwinds impacting growth in India",
+        "commodity price volatility affecting energy segments",
+        "potential regulatory or policy changes in key business areas",
+        "continued investor sentiment shift leading to further valuation erosion"
+      ]
+    }
   },
   {
     "id": "7570035",
@@ -1093,7 +1107,21 @@
     "source": "MarketWatch",
     "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
     "relatedSymbols": [],
-    "publishedAt": 1768963260
+    "publishedAt": 1768963260,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1769063319,
+      "sentiment": "bearish",
+      "confidence": 0.85,
+      "summary": "Kraft Heinz disclosed that Berkshire Hathaway, its largest shareholder holding 27.5% of shares, may sell nearly its entire $7 billion stake. This potential sale follows the announcement that Kraft Heinz plans to unwind its 2015 merger by splitting into two publicly traded companies. Berkshire Hathaway’s exit signals a significant shift, especially since Warren Buffett was a key backer of the original merger. The news highlights strategic challenges and potential uncertainty around Kraft Heinz’s future operational structure and growth prospects.",
+      "impact": "In the short term, Kraft Heinz’s stock is likely to face downward pressure due to the large share sale prospect, increasing supply and dampening investor sentiment. Medium term, the planned breakup could lead to valuation repricing as investors reassess the earnings outlook and growth potential for the separate entities. The uncertainty created by Berkshire’s exit and the corporate restructuring may reduce liquidity and increase volatility, impacting trading dynamics.",
+      "risks": [
+        "large shareholder exit risk causing stock price volatility",
+        "execution risk related to the planned corporate breakup",
+        "uncertainty around future earnings performance post-split",
+        "market sentiment risk due to loss of confidence from Berkshire Hathaway’s divestment"
+      ]
+    }
   },
   {
     "id": "7570019",
@@ -1103,7 +1131,21 @@
     "source": "MarketWatch",
     "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
     "relatedSymbols": [],
-    "publishedAt": 1768953420
+    "publishedAt": 1768953420,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1769063324,
+      "sentiment": "neutral",
+      "confidence": 0.75,
+      "summary": "Investors are currently concerned about former President Trump's unexpected threat regarding Greenland, which has introduced geopolitical uncertainty. However, bond market participants largely believe he will refocus his attention on domestic affordability issues ahead of the midterm elections, reducing the likelihood of prolonged disruption linked to the Greenland issue. This anticipation of a pivot reflects expectations that political priorities will center more on economic policies rather than foreign acquisitions. As a result, the broader market is in a holding pattern, awaiting clearer policy signals before making significant moves. The uncertainty remains a key factor, but the prevailing view leans towards stability in near-term political risk.",
+      "impact": "In the short term, stocks, especially those sensitive to geopolitical risks or reliant on government policy, may experience increased volatility due to uncertainty. In the medium term, if Trump indeed shifts focus to affordability and economic concerns, market sentiment and earnings expectations could improve, particularly for consumer-focused sectors. Valuation multiples might stabilize or increase as risk premiums decline. However, until clarity emerges, liquidity may be somewhat cautious with selective trading patterns.",
+      "risks": [
+        "prolonged geopolitical uncertainty risk",
+        "policy shift delay risk",
+        "macroeconomic volatility risk",
+        "election outcome uncertainty risk"
+      ]
+    }
   },
   {
     "id": "7570018",
@@ -1113,7 +1155,21 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/107109967-1661524568032-NUP_198430_00186r.jpg?v=1690933351&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1768950801
+    "publishedAt": 1768950801,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1769063333,
+      "sentiment": "bearish",
+      "confidence": 0.85,
+      "summary": "Jim Cramer has observed a resurgence of speculative buying in certain segments of the U.S. stock market, especially in large-cap stocks that have soared at least 50% year-to-date yet have minimal earnings and sales. He highlights this phenomenon as reminiscent of late last summer’s market froth seen in sectors like quantum computing and alternative energy, which subsequently saw sharp corrections. Cramer strongly urges investors to take profits and convert some of these paper gains into cash, advocating a defensive posture rather than continued aggressive holding. This advice comes amid broader market uncertainty fueled by political rhetoric affecting trade policies. His perspective emphasizes caution to protect gains against potential sharp reversals in overvalued areas lacking fundamental support.",
+      "impact": "In the short term, stocks that have experienced parabolic gains with weak fundamentals could face selling pressure as investors heed profit-taking calls, leading to potential price volatility and downward corrections. Medium-term, sentiment in speculative sectors may remain fragile, increasing sensitivity to earnings reports and macroeconomic or geopolitical developments. Liquidity could shift towards more stable, earnings-positive stocks or cash, reducing upside momentum in frothy names. Overall, valuation concerns and risk aversion driven by political uncertainty may weigh on the performance of heavily speculated equities.",
+      "risks": [
+        "speculative bubble bursting risk",
+        "valuation correction risk",
+        "market liquidity shifting risk",
+        "geopolitical/trade policy risk"
+      ]
+    }
   },
   {
     "id": "7570012",
@@ -1123,7 +1179,21 @@
     "source": "MarketWatch",
     "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
     "relatedSymbols": [],
-    "publishedAt": 1768946880
+    "publishedAt": 1768946880,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1769063360,
+      "sentiment": "bearish",
+      "confidence": 0.85,
+      "summary": "The S&P 500 experienced its worst decline in three months, driven primarily by widespread investor concern following tough rhetoric from former President Donald Trump directed at U.S. allies. The negative sentiment spurred a broad sell-off across multiple sectors, reflecting apprehension about potential geopolitical tensions, trade disruptions, or changes in international relationships. This environment heightened market volatility and uncertainty, with investors reacting defensively by reducing exposure to equities perceived as sensitive to geopolitical risk. The sell-off also suggests a shift in market sentiment away from risk-taking toward caution, impacting investor confidence and potentially slowing capital inflows.",
+      "impact": "In the short term, stocks most sensitive to geopolitical tensions, including defense, industrials, and multinational companies, may face downward pressure on their share prices due to concerns over trade barriers or strained diplomatic ties. Medium-term fundamentals could be affected if tensions lead to disruptions in supply chains or increased regulatory scrutiny, potentially harming earnings outlooks. Valuations may temporarily compress as risk premiums rise, while overall market liquidity could decline amid heightened risk aversion. Traders should consider a defensive posture or seek hedges to manage increased volatility stemming from these macro-political developments.",
+      "risks": [
+        "escalation of geopolitical tensions impacting trade and supply chains",
+        "prolonged market volatility causing reduced liquidity and investor confidence",
+        "uncertainty in earnings due to potential regulatory or tariff changes",
+        "sentiment-driven sell-offs unrelated to company fundamentals"
+      ]
+    }
   },
   {
     "id": "7570013",
