@@ -129,16 +129,18 @@
     "relatedSymbols": [],
     "publishedAt": 1769029080,
     "analysis": {
-      "version": 1,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "GE's stock has recently lost its bullish momentum, raising concerns about its ability to recover despite upcoming earnings reports.",
-      "impact": "If earnings do not meet expectations, GE's stock may continue to decline, affecting investor sentiment and potentially leading to a broader market impact on related aerospace stocks.",
+      "version": 2,
+      "generatedAt": 1769052455,
+      "sentiment": "neutral",
+      "confidence": 0.75,
+      "summary": "General Electric's (GE) stock has recently lost its bullish momentum despite expectations around its upcoming earnings report, particularly from its Aerospace division. Investors appear cautious as they await earnings results that must demonstrate strong operational performance and growth prospects to reinvigorate investor enthusiasm. The Aerospace segment is critical as it serves as a major revenue and profit driver, and its earnings will be a key indicator of GE's recovery and underlying business strength. This situation reflects broader industry challenges including supply chain disruptions, demand variability in aerospace, and macroeconomic uncertainties. The article suggests that simply reporting earnings growth may not suffice for GE’s stock to regain upward momentum; underlying fundamentals and future guidance will be equally scrutinized.",
+      "impact": "In the short term, GE’s stock price is likely to exhibit volatility around the earnings announcement, as traders react to actual results versus expectations. Positive earnings surprises, especially within the Aerospace division, could provide a temporary boost, but sustained momentum will depend on management’s outlook on demand recovery and margin improvement. Medium-term impact hinges on GE's ability to address industry headwinds and demonstrate operational resilience, which could improve sentiment and valuation multiples. Conversely, any guidance that signals persistent challenges may weigh on the stock due to dampened earnings growth prospects and investor caution in the capital markets.",
       "risks": [
-        "disappointing earnings report",
-        "increased competition in aerospace sector"
-      ],
-      "generatedAt": 1769048920
+        "aerospace demand slowdown risk",
+        "supply chain disruption risk",
+        "earnings volatility risk",
+        "macroeconomic uncertainty risk"
+      ]
     }
   },
   {
@@ -151,16 +153,18 @@
     "relatedSymbols": [],
     "publishedAt": 1769029017,
     "analysis": {
-      "version": 1,
+      "version": 2,
+      "generatedAt": 1769052461,
       "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Jamie Dimon, CEO of JPMorgan Chase, has publicly criticized Trump's immigration policy, which is notable given that many CEOs have refrained from such direct commentary. This reflects a growing concern among business leaders about the implications of immigration policies on the economy.",
-      "impact": "Dimon's criticism may influence investor sentiment towards JPMorgan Chase and other financial institutions, as it highlights potential risks associated with political policies affecting the labor market and economic growth.",
+      "confidence": 0.8,
+      "summary": "Jamie Dimon, CEO of JPMorgan Chase, publicly criticized aspects of President Trump's immigration policies, marking a rare moment of direct opposition from a major U.S. corporate leader. While Dimon acknowledged improvements in border security with lower illegal crossings, he expressed concern over ICE enforcement actions and the broader impact on immigrant workers vital to the U.S. economy. Dimon has previously advocated for immigration reform to enhance economic growth and workforce availability, supporting merit-based green cards and citizenship for certain immigrant groups. This critique comes amid an environment where most CEOs have avoided public dissent due to political sensitivities and fears of retaliation from the Trump administration.",
+      "impact": "Dimon's comments could signal heightened attention to immigration policy risks affecting sectors reliant on immigrant labor, including banks, hospitality, healthcare, and agriculture. While JPMorgan's core financial fundamentals are unlikely to be immediately affected, sustained immigration policy uncertainty could influence labor market dynamics and consumer spending, indirectly impacting economic growth and credit demand. Investor sentiment around JPMorgan might remain stable, but broader market sensitivity to immigration debates could introduce volatility in the medium term as policies evolve. The public stance by a high-profile CEO may encourage further corporate dialogue on policy reforms, potentially shaping political and regulatory outcomes.",
       "risks": [
-        "political backlash",
-        "market volatility due to policy changes"
-      ],
-      "generatedAt": 1769050020
+        "regulatory and policy uncertainty risk related to immigration reform",
+        "potential labor shortages in immigrant-dependent industries",
+        "negative sentiment risk from political and social controversies",
+        "unexpected government enforcement actions impacting workforce stability"
+      ]
     }
   },
   {
@@ -173,16 +177,18 @@
     "relatedSymbols": [],
     "publishedAt": 1769028300,
     "analysis": {
-      "version": 1,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Recent discussions highlight the growing perception of elitism in airline boarding processes, particularly as airlines profit from premium travelers. A viral incident involving a United Airlines passenger has sparked debate on competitive boarding practices.",
-      "impact": "This sentiment may affect consumer perceptions of airlines, potentially influencing customer loyalty and ticket sales, particularly for airlines like United Airlines.",
+      "version": 2,
+      "generatedAt": 1769052467,
+      "sentiment": "bullish",
+      "confidence": 0.75,
+      "summary": "The article highlights how boarding planes has become perceived as 'elitist,' fueled by premium travelers aggressively securing priority boarding status. This behavior underscores a broader trend in the airline industry towards monetizing premium services and loyalty programs. Airlines like United have successfully leveraged these offerings to enhance ancillary revenues by charging for priority benefits and upgrading frequent flyers. The environment of competitive boarding reflects robust demand from higher-yield customers who contribute disproportionately to profitability. This trend also signals an increased focus on customer segmentation to maximize revenue per passenger amid ongoing operational and economic challenges in the sector.",
+      "impact": "In the near term, airlines with strong loyalty programs and premium boarding services could see improved ancillary revenue streams, supporting earnings recovery. The willingness of passengers to pay for priority boarding enhances cash flow and may improve margins despite cost pressures. Over the medium term, continued demand for premium travel experiences could bolster airline valuation multiples due to more predictable and diversified revenue bases. However, growing public discontent with the 'elitist' perception may pressure airlines to balance customer experience with monetization strategies to sustain long-term brand equity.",
       "risks": [
-        "negative consumer sentiment",
-        "potential regulatory scrutiny"
-      ],
-      "generatedAt": 1769050020
+        "customer dissatisfaction and brand reputation risk due to perceived unfair boarding practices",
+        "demand volatility risk from economic downturns impacting premium traveler volumes",
+        "competitive risk if rival carriers offer more attractive loyalty or boarding policies",
+        "regulatory risk if governments impose rules on boarding priority or ancillary fees"
+      ]
     }
   },
   {
@@ -195,16 +201,18 @@
     "relatedSymbols": [],
     "publishedAt": 1769028180,
     "analysis": {
-      "version": 1,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "Supreme Court Justice Brett Kavanaugh expressed concerns that firing Federal Reserve Governor Lisa Cook could lead to a cycle of partisan control over the Fed, with each party replacing central bankers when they gain power.",
-      "impact": "This could create instability in monetary policy, affecting investor confidence and potentially leading to volatility in financial markets and related symbols.",
+      "version": 2,
+      "generatedAt": 1769052493,
+      "sentiment": "neutral",
+      "confidence": 0.8,
+      "summary": "Supreme Court Justice Brett Kavanaugh warned that firing Federal Reserve Governor Lisa Cook could trigger a cycle where the party winning the White House removes Fed officials appointed by the opposing party. This dynamic suggests a politicization of the Fed leadership, alternating between Republican and Democratic appointees aligned with the incumbent administration’s economic priorities. Historically, the Fed has maintained a level of independence to ensure consistent monetary policy. The prospect of partisan Fed appointments could lead to changes in monetary policy direction with each administration, affecting interest rates, inflation control, and economic growth strategies. Such developments add uncertainty around the Federal Reserve’s policy continuity and have broader implications for market stability.",
+      "impact": "In the short term, the possibility of politicized Fed leadership may increase market volatility, as investors react to potential shifts in monetary policy depending on administrative control. Medium-term, uncertainty about Fed independence could affect sectors sensitive to interest rates such as financials, real estate, and consumer discretionary. This might cause cautious earnings outlooks and valuation adjustments as market participants price in greater policy risk. Overall, liquidity conditions and investor sentiment could be influenced by perceived risks of abrupt policy direction changes tied to political cycles.",
       "risks": [
-        "political instability",
-        "monetary policy uncertainty"
-      ],
-      "generatedAt": 1769050020
+        "politicization of Federal Reserve appointments increasing policy uncertainty",
+        "potential for more abrupt shifts in interest rate policy impacting earnings volatility",
+        "increased market volatility due to uncertainty around Fed independence",
+        "regulatory and political intervention risk affecting central bank decisions"
+      ]
     }
   },
   {
@@ -215,7 +223,21 @@
     "source": "MarketWatch",
     "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
     "relatedSymbols": [],
-    "publishedAt": 1769027220
+    "publishedAt": 1769027220,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1769052498,
+      "sentiment": "bullish",
+      "confidence": 0.85,
+      "summary": "AMD’s stock is experiencing a substantial rally driven by growing analyst optimism around its leadership in central processing units tailored for AI data centers. The momentum is supported by increasing demand for AI computing power, positioning AMD well against competitors in a fast-growing segment. Investors are responding positively to AMD’s execution in expanding its AI-centric product portfolio, which aligns with broader industry trends toward AI adoption. This bullish sentiment reflects confidence in AMD’s revenue growth prospects and market share gains in the data center CPU market.",
+      "impact": "In the short term, AMD’s stock is likely to continue appreciating as investor enthusiasm propels price momentum and trading volumes. Medium-term catalysts include potentially stronger earnings driven by AI-related demand, which could lead to multiple expansion and improved valuation multiples. Positive sentiment around AMD’s AI CPU capabilities enhances its competitive positioning, potentially attracting new institutional interest. However, broader macroeconomic factors and semiconductor supply constraints could moderate the pace of gains.",
+      "risks": [
+        "demand slowdown risk in AI data center market",
+        "competitive pressure from rivals like Intel and Nvidia",
+        "supply chain and manufacturing capacity constraints",
+        "valuation risk if stock price runs ahead of fundamentals"
+      ]
+    }
   },
   {
     "id": "7570352",
