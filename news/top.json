@@ -7,7 +7,21 @@
     "source": "MarketWatch",
     "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
     "relatedSymbols": [],
-    "publishedAt": 1769121120
+    "publishedAt": 1769121120,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1769123768,
+      "sentiment": "bearish",
+      "confidence": 0.75,
+      "summary": "Under Armour is currently investigating a potential data breach that may have affected millions of users. While there is no current evidence of stolen financial information or passwords, the breach could involve sensitive customer data, raising concerns about cybersecurity vulnerabilities. Under Armour, as a major player in the athleisure market, relies heavily on customer trust and brand reputation, so such an incident could deteriorate consumer confidence. Data breaches in the retail and apparel sectors have historically led to increased scrutiny and sometimes costly remediation efforts. This situation reflects broader industry risks related to digital security as companies increasingly handle large volumes of consumer data.",
+      "impact": "In the short term, the announcement of the investigation into the data breach could negatively affect Under Armour's stock price due to increased investor uncertainty and reputational concerns. Medium-term consequences might include higher security costs, potential regulatory scrutiny, or customer churn if trust erodes. While earnings might not be immediately impacted if financial data was not compromised, the incident could weigh on sentiment and investor confidence, possibly suppressing valuation multiples until more clarity is provided. Macro factors such as increasing regulation around data privacy could also amplify the impact on the company.",
+      "risks": [
+        "reputational damage risk",
+        "regulatory compliance risk",
+        "customer data security risk",
+        "increased operational and remediation costs"
+      ]
+    }
   },
   {
     "id": "7570742",
@@ -311,7 +325,21 @@
     "source": "MarketWatch",
     "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
     "relatedSymbols": [],
-    "publishedAt": 1769095560
+    "publishedAt": 1769095560,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1769123839,
+      "sentiment": "bullish",
+      "confidence": 0.75,
+      "summary": "The article highlights 20 stocks identified as strong candidates for momentum investors, emphasizing the persistence of momentum as a key market phenomenon. Momentum investing focuses on stocks exhibiting upward price trends, supported by market psychology and investor behavior, often leading to sustained gains. The mention of “big mo” as an eternal feature underscores that these stocks have been demonstrating consistent positive performance, suggesting favorable investor sentiment and potential fundamental strength or improving business outlooks. This situates these stocks within a broader industry context where momentum strategies continue to attract capital.",
+      "impact": "In the short term, these highlighted stocks may experience increased trading volume and price appreciation as momentum investors buy into the trend, potentially driving valuations higher. Medium-term effects could include strengthened investor confidence and possible upward revisions to earnings expectations if the underlying business fundamentals support sustained growth. However, momentum-driven moves can also increase volatility, and traders should watch for signs of overextension or market corrections. Overall, positive sentiment and liquidity flows are likely to support these stocks in the near future.",
+      "risks": [
+        "momentum reversal risk",
+        "valuation overheating risk",
+        "market volatility risk",
+        "sector rotation risk"
+      ]
+    }
   },
   {
     "id": "7570622",
