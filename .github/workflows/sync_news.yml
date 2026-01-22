@@ -35,10 +35,18 @@ jobs:
 
       - name: Generate news cache
         run: python scripts/sync_news_finnhub.py
+      - name: Install analysis deps
+        run: |
+          pip install "openai>=1.0.0" requests beautifulsoup4 readability-lxml
+
       - name: Analyze news with OpenAI
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: python scripts/analyze_news_openai.py
+          NEWS_FILE_PATH: news/top.json
+          MAX_ARTICLES_PER_RUN: "5"
+          OPENAI_MODEL: gpt-4.1-mini
+        run: |
+          python analyze_news_openai.py
       - name: Commit and push changes
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
