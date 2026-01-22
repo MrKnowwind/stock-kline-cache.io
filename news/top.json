@@ -1,5 +1,35 @@
 [
   {
+    "id": "7570756",
+    "headline": "Jim Cramer says he's not abandoning the Mag 7 stocks despite recent struggles. Here's why",
+    "summary": "\"I think that the money will ultimately flow back to most\" of the Magnificent Seven stocks, CNBC's Jim Cramer said.",
+    "url": "https://www.cnbc.com/2026/01/22/jim-cramer-says-hes-not-bailing-on-the-mag-7-amid-storage-stock-rally.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108180565-1754063685308-IMG_8831.jpg?v=1754063841&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1769124215
+  },
+  {
+    "id": "7570754",
+    "headline": "Bond investors should worry less about Treasury yields, and watch this move instead",
+    "summary": "Tensions between the U.S. and its NATO allies over Greenland put some investors on edge",
+    "url": "https://www.marketwatch.com/story/bond-investors-should-worry-less-about-treasury-yields-and-watch-this-move-instead-937fc339",
+    "source": "MarketWatch",
+    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+    "relatedSymbols": [],
+    "publishedAt": 1769124120
+  },
+  {
+    "id": "7570753",
+    "headline": "Wall Street clocks in a rally for second day across tech stocks, small caps and long-term Treasurys",
+    "summary": "Everything from technology stocks to small caps advancing on Thursday, while longer-term Treasurys eased for a second day.",
+    "url": "https://www.marketwatch.com/story/wall-street-clocks-in-a-rally-for-second-day-across-tech-stocks-small-caps-and-long-term-treasurys-294f1384",
+    "source": "MarketWatch",
+    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+    "relatedSymbols": [],
+    "publishedAt": 1769122860
+  },
+  {
     "id": "7570746",
     "headline": "Under Armour is investigating claims of a data breach. Here’s what customer info may have been compromised.",
     "summary": "Athleisure-wear maker Under Armour is looking into a possible cyberattack that may have compromised data for millions of users — although no evidence has emerged yet of stolen financial data or passwords",
@@ -31,7 +61,21 @@
     "source": "MarketWatch",
     "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
     "relatedSymbols": [],
-    "publishedAt": 1769119500
+    "publishedAt": 1769119500,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1769126128,
+      "sentiment": "bullish",
+      "confidence": 0.85,
+      "summary": "Clorox's acquisition of the Purell maker for over $2 billion signals a strategic move to strengthen its position in the high-demand hand sanitizer and healthcare supply market segment. The purchase aligns with growing and sustained demand for hygiene and infection prevention products, particularly in healthcare settings, where Purell dispensers are widely used. This acquisition enables Clorox to leverage Purell’s strong brand recognition and expand its footprint with an estimated 20 million hand-sanitizer dispensers. The deal reflects broader investor focus on steady, resilient sectors within healthcare that are less cyclical and have consistent demand drivers tied to health and safety trends.",
+      "impact": "In the short to medium term, Clorox's earnings outlook could benefit from increased revenue streams and market share in the healthcare hygiene segment, potentially leading to a positive re-rating by investors. Sentiment around the stock may improve due to the acquisition's alignment with long-term growth trends in sanitary products, although the sizable purchase price could temporarily pressure valuation multiples. The deal also reinforces Clorox's liquidity position and diversification strategy, potentially making the stock more attractive to defensive investors amid macroeconomic uncertainties.",
+      "risks": [
+        "integration risk due to blending two companies’ operations and cultures",
+        "regulatory approval risk that could delay or complicate the transaction",
+        "valuation risk if the purchase price does not translate into anticipated earnings growth",
+        "demand slowdown risk if hygiene product usage declines post-pandemic"
+      ]
+    }
   },
   {
     "id": "7570723",
@@ -893,6 +937,16 @@
         "potential delays or breakdowns in trade negotiations"
       ]
     }
+  },
+  {
+    "id": "7570760",
+    "headline": "Trump says Powell’s life ‘won’t be happy’ if he stays at Fed",
+    "summary": "Trump also said his search for a new Fed chair is nearing completion, with contenders including Rick Rieder, Kevin Hassett, Christopher Waller and Kevin Warsh",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-21/trump-warns-powell-won-t-be-very-happy-if-he-stays-on-at-fed",
+    "source": "Bloomberg",
+    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+    "relatedSymbols": [],
+    "publishedAt": 1769038825
   },
   {
     "id": "7570393",
