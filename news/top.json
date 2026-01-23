@@ -569,7 +569,21 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/108149156-1747892570097-gettyimages-2207552480-ama_forest_manu_rjb_174.jpeg?v=1769089796&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1769094452
+    "publishedAt": 1769094452,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1769151896,
+      "sentiment": "neutral",
+      "confidence": 0.75,
+      "summary": "Warner Bros. Discovery (WBD) is currently involved in a high-stakes takeover battle between Netflix and Paramount Skydance. Netflix has agreed to buy WBD's movie studio and streaming business for $27.75 per share, while Paramount has offered a higher $30 per share bid for the entire company, which includes valuable U.S. sports cable networks. Regulatory approval, particularly from European authorities, is critical and uncertain, with Paramount betting European regulators will block the Netflix deal due to antitrust concerns and cultural protectionism, while WBD is confident in EU approval. This decision is significant because it affects the control and future monetization of premium sports rights and streaming assets. The outcome hinges on how European regulators balance antitrust concerns and cultural policies, especially regarding local content and theatrical release windows.",
+      "impact": "The uncertainty surrounding European regulatory approval is a key driver of near-term stock price volatility for WBD and related media industry stocks. If European regulators block the Netflix deal, Paramount's higher offer might gain traction, potentially increasing shareholder value if the takeover succeeds. However, regulatory delays or rejections could depress valuations and create prolonged uncertainty. The decision will directly influence WBD’s earnings outlook, especially revenue from sports rights and streaming growth prospects, and may shape sentiment across U.S. media and tech stocks with exposure to global regulatory risks.",
+      "risks": [
+        "regulatory approval risk in Europe and the U.S. for both Netflix and Paramount deals",
+        "shareholder acceptance risk due to the contested bids",
+        "uncertainty around future content production and licensing conditions imposed by regulators",
+        "potential impact on earnings and valuation from deal delays or failure"
+      ]
+    }
   },
   {
     "id": "7570607",
@@ -589,7 +603,21 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/108247560-17673725152026-01-02t164639z_1879382193_rc22tia8ircc_rtrmadp_0_usa-stocks.jpeg?v=1767372579&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1769094037
+    "publishedAt": 1769094037,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1769151945,
+      "sentiment": "neutral",
+      "confidence": 0.85,
+      "summary": "The article reviews a volatile month on Wall Street marked by geopolitical events including a surprise U.S. military operation in Venezuela and tariff threats related to Greenland, which ultimately eased. Key macro factors like positive earnings and strong demand in the semiconductor and aerospace sectors drove significant gains in stocks like Qnity Electronics and Boeing. Conversely, enterprise software and tech giants such as Salesforce, CrowdStrike, and Apple faced headwinds due to AI disruption fears, regulatory pressures (notably CrowdStrike in China), and sector rotation away from megacaps. The market showed modest overall gains with S&P 500 and Nasdaq increasing slightly. Jim Cramer's comments emphasize a cautious but constructive outlook, highlighting selective value opportunities especially in AI partnerships.",
+      "impact": "Stocks tied to strong secular demand like Qnity Electronics and Boeing are likely to benefit in the medium term from favorable industry dynamics, including semiconductor expansion and aircraft orders, supporting earnings growth and positive sentiment. Texas Roadhouse’s recovery hinges on cost factors like beef prices but could see a boost from consumer spending trends. Conversely, Salesforce and CrowdStrike may face near-term pressure from AI-related business model concerns and regulatory challenges, respectively, but are still considered attractive long-term based on leadership and strategic acquisitions. Apple’s recent decline may present a buying opportunity due to its new AI collaboration with Alphabet, which could enhance its competitive position.",
+      "risks": [
+        "geopolitical risk from ongoing U.S.-Venezuela tensions",
+        "AI disruption impacting enterprise software licensing demand",
+        "regulatory risk in China for cybersecurity companies like CrowdStrike",
+        "commodity cost inflation affecting restaurant margins (e.g., beef prices for Texas Roadhouse)"
+      ]
+    }
   },
   {
     "id": "7570608",
@@ -1007,6 +1035,16 @@
         "risk of delayed revenue and cash flow from cancelled and postponed game releases"
       ]
     }
+  },
+  {
+    "id": "7570817",
+    "headline": "Sun Pharma is said to mull bid for women’s wellness firm Organon",
+    "summary": "Sun Pharma is exploring a potential bid for women's wellness firm Organon, but no final decision has been made.",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-22/sun-pharma-is-said-to-mull-bid-for-women-s-wellness-firm-organon",
+    "source": "Bloomberg",
+    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+    "relatedSymbols": [],
+    "publishedAt": 1769064581
   },
   {
     "id": "7570809",
