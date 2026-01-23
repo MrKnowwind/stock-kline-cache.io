@@ -1,5 +1,39 @@
 [
   {
+    "id": "7570902",
+    "headline": "Advisors to the ultra rich say AI isn't a gamechanger for landing new clients",
+    "summary": "Referrals are still the name of the game when it comes to earning the trust of the ultra-rich.",
+    "url": "https://www.cnbc.com/2026/01/23/wealth-client-prospecting-ria-ai.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108255056-1769013549916-gettyimages-1521580109-dsc00409.jpeg?v=1769017056&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1769171846
+  },
+  {
+    "id": "7570896",
+    "headline": "Gold is approaching $5,000, and ‘unavoidable uncertainty’ means it could go higher",
+    "summary": "RBC’s head of commodities says there could be paths even higher for gold in a “real risk-off scenario.”",
+    "url": "https://www.marketwatch.com/story/gold-is-approaching-5-000-and-unavoidable-uncertainty-means-it-could-go-higher-ec8480a4",
+    "source": "MarketWatch",
+    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+    "relatedSymbols": [],
+    "publishedAt": 1769170800,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1769175159,
+      "sentiment": "bullish",
+      "confidence": 0.85,
+      "summary": "Gold prices are rapidly approaching the $5,000 per ounce mark, driven by persistent global economic uncertainties and risk-off market sentiment. RBC’s head of commodities highlighted that in a real risk-off scenario, gold could see even higher prices, reflecting its traditional role as a safe-haven asset. Factors such as geopolitical tensions, inflationary pressures, and potential volatility in equity markets are contributing to strong investor demand for gold. This environment supports a bullish outlook for gold-related assets, as market participants seek stability amid ongoing macroeconomic challenges.",
+      "impact": "For gold mining companies and related ETFs, this bullish outlook suggests potential near-term appreciation as gold prices rise, positively affecting revenues and margins. Investor sentiment toward commodities may improve, enhancing liquidity and potentially driving multiple expansions in valuation. Medium-term gains depend on sustained macroeconomic uncertainty and inflation trends, which could lead to stronger earnings forecasts for gold miners. However, renewed risk appetite or policy changes could moderate this impact.",
+      "risks": [
+        "macroeconomic stabilization reducing safe-haven demand",
+        "monetary policy tightening increasing opportunity cost of holding gold",
+        "geopolitical risk de-escalation lowering risk premium",
+        "potential supply disruptions in gold mining impacting production timelines"
+      ]
+    }
+  },
+  {
     "id": "7570885",
     "headline": "Nvidia’s on-and-off China relationship appears to be on again",
     "summary": "The on-and-off saga involving Nvidia and China appears to be back on again, after a report that China’s government has given the go-ahead to big companies including Alibaba to buy the U.S. semiconductor maker’s chips.",
@@ -930,6 +964,16 @@
         "operational disruptions from fleet or supply chain issues"
       ]
     }
+  },
+  {
+    "id": "7570913",
+    "headline": "Gold pares losses after Goldman raises year-end price forecast",
+    "summary": "Goldman Sachs lifts its year-end gold price forecast to $5,400 an ounce from a previous estimate of $4,900, citing intensifying demand from private investors and central banks",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-21/gold-falls-after-trump-backs-away-from-tariffs-over-greenland",
+    "source": "Bloomberg",
+    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+    "relatedSymbols": [],
+    "publishedAt": 1769086800
   },
   {
     "id": "7570560",
