@@ -1,5 +1,15 @@
 [
   {
+    "id": "7570879",
+    "headline": "The case for a U.S. bear market was already building before Trump upset foreign investors",
+    "summary": "There are two important measures that point to a downturn for stocks, according to Longview Economics.",
+    "url": "https://www.marketwatch.com/story/the-case-for-a-u-s-bear-market-was-already-building-before-trump-upset-foreign-investors-1d4399ee",
+    "source": "MarketWatch",
+    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+    "relatedSymbols": [],
+    "publishedAt": 1769168340
+  },
+  {
     "id": "7570871",
     "headline": "Natural gas prices have overshot as deep freeze hits the U.S., says Goldman",
     "summary": "Goldman Sachs thinks the current natural gas price reflects a temporary imbalance and should eventually correct.",
@@ -7,7 +17,21 @@
     "source": "MarketWatch",
     "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
     "relatedSymbols": [],
-    "publishedAt": 1769165400
+    "publishedAt": 1769165400,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1769169313,
+      "sentiment": "bearish",
+      "confidence": 0.75,
+      "summary": "Goldman Sachs has indicated that the recent spike in natural gas prices due to an intense deep freeze in the U.S. is likely an overreaction representing a temporary supply-demand imbalance. The unusually cold weather has increased heating demand, pushing prices higher in the short term. However, Goldman expects prices to normalize as weather conditions moderate and inventories stabilize. This suggests the current elevated price levels are not sustainable and will correct once the immediate weather-driven demand subsides.",
+      "impact": "In the short term, natural gas producers and related energy stocks may see elevated revenues and potentially positive sentiment due to high prices. However, the anticipated price correction suggested by Goldman may pressure these stocks in the medium term as earnings expectations adjust downward. Traders should be cautious about entering long positions based solely on current prices, as valuations may be inflated by temporary factors rather than fundamental supply-demand dynamics. Additionally, energy consumers could benefit from eventual price declines, impacting the broader market sentiment.",
+      "risks": [
+        "weather persistence risk",
+        "inventory levels uncertainty",
+        "macro-economic demand fluctuations",
+        "geopolitical or supply disruption risk"
+      ]
+    }
   },
   {
     "id": "7570863",
@@ -17,7 +41,21 @@
     "source": "MarketWatch",
     "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
     "relatedSymbols": [],
-    "publishedAt": 1769163300
+    "publishedAt": 1769163300,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1769169361,
+      "sentiment": "neutral",
+      "confidence": 0.8,
+      "summary": "The article discusses an individual inheriting $250,000 from the sale of a family home and considering paying off student loans and credit-card debt. It explores whether such debt repayment could negatively impact the individual's credit score. While paying off debts can reduce interest expenses and improve net worth, changes in credit utilization and account mix might cause temporary credit score fluctuations. The broader economic context includes consumers managing personal debt levels cautiously amid inflation and interest rate concerns. This topic mainly pertains to personal finance advice rather than directly impacting specific listed companies or sectors.",
+      "impact": "There is likely minimal direct impact on specific stocks or the broader equity market from this individual personal finance event. However, the trend of consumers reducing their debt burdens can influence companies in the credit card, lending, and personal finance industries by potentially affecting loan demand and credit risk profiles. In the short term, credit score impacts are personal and credit market-wide effects are not expected. Medium-term consumer credit behavior may modestly influence earnings or valuation of financial service providers specializing in consumer lending.",
+      "risks": [
+        "personal credit score impact may vary by individual credit profile",
+        "macro factors such as rising interest rates could alter consumer borrowing behaviors",
+        "potential reduced demand for consumer credit products",
+        "uncertainty in consumer spending patterns affecting financial service companies"
+      ]
+    }
   },
   {
     "id": "7570860",
@@ -1036,6 +1074,16 @@
         "market sentiment reversal impacting liquidity"
       ]
     }
+  },
+  {
+    "id": "7570878",
+    "headline": "Tata set to invest $11 billion in Maharashtra AI innovation city",
+    "summary": "The positioning of Innovation City adjacent to the Navi Mumbai airport, a landmark project developed by the Adani Group, is expected to create a powerful synergy between global transit and high-tech industry",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-22/tata-set-to-invest-11-billion-in-maharashtra-ai-innovation-city",
+    "source": "Bloomberg",
+    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+    "relatedSymbols": [],
+    "publishedAt": 1769081393
   },
   {
     "id": "7570508",
