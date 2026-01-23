@@ -2,11 +2,11 @@ name: Sync news from Finnhub
 
 on:
   schedule:
-    - cron: "*/50 * * * *"  # 每 30 分钟运行一次（UTC）
-  workflow_dispatch:        # 手动触发
+    - cron: "*/50 * * * *"  # every 50 minutes (UTC)
+  workflow_dispatch:
 
 permissions:
-  contents: write  # 允许提交 news/top.json
+  contents: write  # allow committing news/top.json
 
 jobs:
   sync:
@@ -31,22 +31,20 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests
+          pip install requests beautifulsoup4 readability-lxml google-generativeai
 
       - name: Generate news cache
         run: python scripts/sync_news_finnhub.py
-      - name: Install analysis deps
-        run: |
-          pip install "openai>=1.0.0" requests beautifulsoup4 readability-lxml
 
-      - name: Analyze news with OpenAI
+      - name: Analyze news with Gemini
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           NEWS_FILE_PATH: news/top.json
-          MAX_ARTICLES_PER_RUN: "5"
-          OPENAI_MODEL: gpt-4.1-mini
+          MAX_ARTICLES_PER_RUN: "5"          # 先小量测试，有问题再看日志
+          GEMINI_MODEL: gemini-2.0-flash
         run: |
-          python scripts/analyze_news_openai.py
+          python analyze_news_gemini.py
+
       - name: Commit and push changes
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
