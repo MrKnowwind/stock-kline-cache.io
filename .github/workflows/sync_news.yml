@@ -43,7 +43,7 @@ jobs:
           MAX_ARTICLES_PER_RUN: "5"          # 先小量测试，有问题再看日志
           GEMINI_MODEL: gemini-2.0-flash
         run: |
-          python analyze_news_gemini.py
+          python scripts/analyze_news_gemini.py
 
       - name: Commit and push changes
         env:
