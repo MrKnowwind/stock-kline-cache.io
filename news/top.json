@@ -1,5 +1,15 @@
 [
   {
+    "id": "7570860",
+    "headline": "A year later, ‘General Hospital’ star Cameron Mathison talks about losing his home in L.A. fires",
+    "summary": "“General Hospital” star Cameron Mathison shared a heartbreaking video of the devastation caused when the blaze ripped through his home last year.",
+    "url": "https://www.marketwatch.com/story/a-year-later-general-hospital-star-cameron-mathison-talks-about-losing-his-home-in-l-a-fires-32d328aa",
+    "source": "MarketWatch",
+    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+    "relatedSymbols": [],
+    "publishedAt": 1769162400
+  },
+  {
     "id": "7570840",
     "headline": "Amazon reportedly to announce second wave of job cuts",
     "summary": "Amazon.com workers are bracing for another round of massive job cuts, with the company reportedly expected to announce those cuts as soon as next week.",
@@ -1041,6 +1051,16 @@
     }
   },
   {
+    "id": "7570861",
+    "headline": "‘This time is different’: How AI is redefining the memory market",
+    "summary": "AI is revolutionizing the memory market, leading to elevated valuations and persistent demand for memory and storage stocks.",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-22/-this-time-is-different-how-ai-is-redefining-the-memory-market",
+    "source": "Bloomberg",
+    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+    "relatedSymbols": [],
+    "publishedAt": 1769076562
+  },
+  {
     "id": "7570493",
     "headline": "‘The Pitt’ star Noah Wyle on his money struggles after ‘ER’ came to an end",
     "summary": "Before “The Pitt”, he was Dr. John Carter on the hit show “ER” and for 15 years, nothing he did seemed to mirror the success of that first major series.",
@@ -1336,7 +1356,21 @@
     "source": "Bloomberg",
     "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
     "relatedSymbols": [],
-    "publishedAt": 1769033937
+    "publishedAt": 1769033937,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1769163741,
+      "sentiment": "bullish",
+      "confidence": 0.85,
+      "summary": "Bloomberg reports that Apple is planning to revamp Siri with an advanced chatbot-based system under the codename 'Campos' for its next year’s version 27 operating systems across iPhone and Mac devices. This move positions Apple to better compete with OpenAI and other AI-driven assistants by integrating more conversational and intelligent AI capabilities into its ecosystem. The update suggests Apple is prioritizing AI innovation to enhance user experience, potentially increasing device attractiveness and ecosystem stickiness. This aligns with broader industry trends where leading tech companies are embedding generative AI into core products to maintain competitive advantage. Such an enhancement could drive increased usage of Apple services and hardware, supporting longer-term revenue growth.",
+      "impact": "In the short term, the announcement could boost investor sentiment by signaling Apple's commitment to AI, potentially positively influencing stock price due to heightened expectations of innovation. Medium-term, successful integration of chatbot-based Siri could enhance Apple's competitive positioning in smart assistants, supporting increased device sales and higher service engagement, which may improve earnings growth prospects. However, developers and analysts will watch the implementation closely to assess user adoption and execution risks. Overall, this development could justify a premium valuation multiple if it strengthens Apple's ecosystem and revenue diversification.",
+      "risks": [
+        "execution risk related to the development and deployment of advanced AI features",
+        "consumer adoption risk if users do not embrace the revamped Siri experience",
+        "competitive risk from other tech giants advancing their AI assistant capabilities",
+        "potential regulatory scrutiny around AI technologies and data privacy"
+      ]
+    }
   },
   {
     "id": "7570373",
