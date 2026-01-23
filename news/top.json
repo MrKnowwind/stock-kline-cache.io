@@ -7,7 +7,21 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/108180565-1754063685308-IMG_8831.jpg?v=1754063841&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1769124215
+    "publishedAt": 1769124215,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1769129866,
+      "sentiment": "bullish",
+      "confidence": 0.85,
+      "summary": "Jim Cramer expressed continued confidence in the Magnificent Seven tech stocks (Amazon, Alphabet, Apple, Microsoft, Meta Platforms, Nvidia, and Tesla) despite their recent sluggish performance in early 2026. He points to the strong fundamentals, significant financial resources, and strategic management of these companies as reasons why investment money will eventually flow back to them. The current rotation towards storage and semiconductor equipment stocks, such as Micron, Seagate, Sandisk, and Western Digital, is driven by a surge in demand for memory chips and storage critical for AI applications. However, Cramer believes this rally in storage stocks is unsustainable due to pricing pressures that are unlikely to persist indefinitely. Once these storage names peak, he expects renewed investor interest and upside in the Mag 7 stocks.",
+      "impact": "In the near term, investors may see continued volatility and pressure on the Mag 7 as capital rotates into high-performing storage and semiconductor equipment stocks capitalizing on AI-driven demand surges. However, medium-term outlooks for the Mag 7 remain positive due to their diversified revenue streams, strong balance sheets, and leadership positions in key technology areas including AI. Earnings growth potential and innovation should drive valuation support once the storage segment momentum slows. Sentiment may improve as storage price inflation stabilizes, encouraging a reallocation of funds back into these tech giants.",
+      "risks": [
+        "prolonged rotation away from large-cap tech could delay recovery in Mag 7 stock prices",
+        "supply chain or memory chip shortages may extend higher costs beyond current expectations",
+        "valuation risks if AI-driven growth expectations for Mag 7 fail to materialize",
+        "macroeconomic risks such as rising interest rates or recession that could impact tech spending"
+      ]
+    }
   },
   {
     "id": "7570754",
