@@ -1230,7 +1230,21 @@
     "source": "Bloomberg",
     "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
     "relatedSymbols": [],
-    "publishedAt": 1769038825
+    "publishedAt": 1769038825,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1769158229,
+      "sentiment": "bearish",
+      "confidence": 0.75,
+      "summary": "Former President Trump publicly criticized Federal Reserve Chair Jerome Powell, warning that Powell’s tenure at the Fed would be unpleasant if he remains in his position. Trump also indicated that his search for a new Fed chair is close to completion, mentioning potential candidates like Rick Rieder, Kevin Hassett, Christopher Waller, and Kevin Warsh. This signals potential leadership changes at the Fed, which could impact monetary policy direction. Given Powell's influence over interest rates and economic management, uncertainty about Fed leadership may increase market volatility and complicate economic outlooks.",
+      "impact": "The announcement creates short-term market uncertainty, particularly in sectors sensitive to interest rate changes such as financials, real estate, and consumer discretionary. A potential policy shift under a new Fed chair could lead to adjustments in liquidity conditions and borrowing costs, influencing earnings forecasts and valuation multiples. Traders may adopt a cautious stance until clearer signals on monetary policy emerge, affecting risk appetite and broad market sentiment in the medium term.",
+      "risks": [
+        "monetary policy uncertainty risk",
+        "leadership transition risk at the Federal Reserve",
+        "market volatility risk due to geopolitical and political statements",
+        "interest rate direction ambiguity risk"
+      ]
+    }
   },
   {
     "id": "7570393",
