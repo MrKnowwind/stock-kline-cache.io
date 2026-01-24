@@ -56,7 +56,7 @@ def extract_main_text(html: str) -> Optional[str]:
         return None
 
 
-def truncate_text(text: str, max_chars: int = 6000) -> str:
+def truncate_text(text: str, max_chars: int = 3000) -> str:
     if len(text) <= max_chars:
         return text
     return text[:max_chars]
@@ -214,7 +214,7 @@ def main() -> None:
         if html:
             article_text = extract_main_text(html)
             if article_text:
-                article_text = truncate_text(article_text, max_chars=6000)
+                article_text = truncate_text(article_text, max_chars=3000)
 
         prompt = build_prompt(item, article_text)
         try:
