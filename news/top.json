@@ -294,7 +294,21 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/108255975-1769113430998-gettyimages-2237798142-img_2043.jpeg?v=1769113459&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1769189623
+    "publishedAt": 1769189623,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1769223464,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Gold prices have soared to all-time highs, exceeding $4,900 an ounce, driven by significant geopolitical tensions and concerns over economic stability. The article emphasizes gold's status as a safe haven asset, with increased investor interest stemming from political events such as investigations into the Federal Reserve and military operations abroad. Financial experts suggest a balanced approach to owning gold, recommending a mix of physical and paper assets depending on individual circumstances and risk tolerance. The current market conditions suggest a growing demand for gold as a crucial commodity and hedge against financial uncertainties.",
+      "impact": "The soaring gold prices may positively impact gold mining stocks, as higher prices typically lead to increased revenues and profitability for these companies. Investors may see stronger earnings outlooks for firms in this sector, bolstering stock valuations in the medium term. Additionally, the bullish sentiment surrounding gold could lead to increased investments in precious metal ETFs, further driving demand and liquidity in the industry.",
+      "risks": [
+        "price volatility risk",
+        "supply chain disruptions",
+        "regulatory changes impacting gold trading",
+        "geopolitical escalation affecting market stability"
+      ]
+    }
   },
   {
     "id": "7570984",
@@ -352,7 +366,21 @@
     "source": "MarketWatch",
     "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
     "relatedSymbols": [],
-    "publishedAt": 1769189040
+    "publishedAt": 1769189040,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1769223504,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "The article emphasizes that many investors allow political considerations to overly influence their investment choices, which can lead to suboptimal portfolio performance. It argues that decisions should be based on fundamental analysis rather than political beliefs, suggesting that economic conditions, company performance, and market trends should be prioritized. The article serves as a reminder that political sentiment can lead to volatility but should not dictate investment strategies. Adopting a disciplined approach focused on core business fundamentals can yield better long-term results.",
+      "impact": "While the article does not mention specific stocks, it can imply that sectors that are often influenced by political changes, such as healthcare and renewable energy, might face increased volatility as political climates shift. Ignoring these dynamics can lead to missed opportunities; thus, investors should focus on earnings growth, valuation metrics, and the overall health of the sectors instead. In the short term, companies with politically sensitive business models may experience price fluctuations, but long-term investors may find resilience by ignoring political noise and concentrating on fundamentals.",
+      "risks": [
+        "market sentiment volatility due to political changes",
+        "regulatory changes impacting specific sectors",
+        "economic downturn risk if policy shifts lead to uncertainty",
+        "sector rotation risk as political events unfold"
+      ]
+    }
   },
   {
     "id": "7570983",
@@ -362,7 +390,21 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/108251053-1768220027078-gettyimages-2219338873-20250607-213756.jpeg?v=1768220098&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1769188599
+    "publishedAt": 1769188599,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1769223546,
+      "sentiment": "bullish",
+      "confidence": 0.75,
+      "summary": "Jim Cramer noted that a significant move is expected soon for Capital One following their mixed earnings report and a strategic acquisition of Brex, which could enhance their competitiveness in the corporate card sector. Also, the semiconductor space appears to be experiencing shifts with Nvidia facing volatility despite higher demand for its products in China, while Micron is gaining attention due to memory chip shortages. The overall sentiment remains positive regarding the Magnificent Seven stocks despite a recent rotation towards equipment stocks. Traders should watch key earnings reports and the Federal Reserve's policy stance coming up this week.",
+      "impact": "Capital One's recent acquisition may take time to show financial benefits but could stimulate investor confidence in the long-term growth of the stock. For Nvidia, while short-term volatility is expected, structural demand in the semiconductor space could support its stock price in the medium-term. If the upcoming earnings reports meet or exceed expectations, they could lead to positive momentum for stocks like Boeing, Starbucks, and Apple, benefiting from improved investor sentiment.",
+      "risks": [
+        "integration risk associated with the Brex acquisition",
+        "demand volatility for semiconductors due to geopolitical tensions",
+        "potential interest rate changes impacting market liquidity",
+        "earnings miss risk in the upcoming reports for major stocks"
+      ]
+    }
   },
   {
     "id": "7570979",
@@ -396,7 +438,21 @@
     "source": "MarketWatch",
     "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
     "relatedSymbols": [],
-    "publishedAt": 1769185920
+    "publishedAt": 1769185920,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1769223587,
+      "sentiment": "bullish",
+      "confidence": 0.75,
+      "summary": "Bank of America has indicated that the current economic environment is unfavorable for bonds, prompting a shift toward international stocks, emerging markets, and gold as more attractive investment options. This perspective aligns with a broader trend where investors are seeking assets that can provide better returns amid rising interest rates and inflationary pressures. The recommendation comes as a significant shift in asset allocation strategies, emphasizing the potential benefits of geographic diversification and exposure to commodities like gold. As such, these markets are expected to perform well in the second half of the 2020s, driven by solid demand and improving global economic conditions.",
+      "impact": "The shift away from bonds could lead to increased investment in international equities and commodities, potentially boosting the performance of related stocks in those sectors. Investors may see a positive earnings outlook for companies in emerging markets and those involved in commodities, as demand strengthens and liquidity improves. This could also enhance market sentiment towards these sectors, leading to revaluation and possible upside in share prices over both the short and medium term.",
+      "risks": [
+        "geopolitical instability impacting emerging markets",
+        "fluctuations in commodity prices affecting gold and related stocks",
+        "unexpected changes in interest rates impacting equity market movements",
+        "currency risk related to international investments"
+      ]
+    }
   },
   {
     "id": "7570971",
@@ -406,7 +462,21 @@
     "source": "MarketWatch",
     "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
     "relatedSymbols": [],
-    "publishedAt": 1769185200
+    "publishedAt": 1769185200,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1769223628,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "As reported, one in five Americans are unable to afford their heating bills this winter, with average costs nearing $1,000. This situation is exacerbated by a massive winter storm forecast that will further increase demand for heating. The rising utility costs are a reflection of broader inflationary pressures impacting consumer spending. The combination of soaring heating bills and economic strain on households poses a significant risk to discretionary spending in the retail sector.",
+      "impact": "In the short term, companies in the utilities and retail sectors are likely to face headwinds as consumer spending on non-essential goods could decline due to higher utility costs. Utility providers may see a strain on customer relationships as many individuals struggle to make payments, potentially impacting collections and profitability. In the medium term, ongoing economic pressure could lead to heightened scrutiny on utility prices, regulatory changes, or increased investments in alternative energy sources, influencing both earnings forecasts and stock valuations.",
+      "risks": [
+        "demand slowdown risk",
+        "macroeconomic uncertainty risk",
+        "regulatory scrutiny risk",
+        "increased operational costs risk"
+      ]
+    }
   },
   {
     "id": "7570959",
