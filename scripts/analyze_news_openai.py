@@ -227,7 +227,7 @@ def main() -> None:
         item["analysis"] = analysis_obj
 
         # 新增：防止 RPM 超限，每条之间停 25 秒
-        time.sleep(25)
+        time.sleep(35)
 
     save_news(NEWS_FILE_PATH, items)
     print("Done")
