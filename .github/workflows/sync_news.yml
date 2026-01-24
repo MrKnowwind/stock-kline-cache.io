@@ -40,7 +40,7 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           NEWS_FILE_PATH: news/top.json
-          MAX_ARTICLES_PER_RUN: "2"          # 先保守一点，有需要再调大
+          MAX_ARTICLES_PER_RUN: "0"          # 先保守一点，有需要再调大
           OPENAI_MODEL: gpt-4.1-mini
         run: |
           python scripts/analyze_news_openai.py
