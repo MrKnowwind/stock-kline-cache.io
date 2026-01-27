@@ -47,7 +47,7 @@ jobs:
           CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
           CF_MODEL: "@cf/meta/llama-3.1-8b-instruct-fp8"
         run: |
-          python scripts/analyze_news_openai.py
+          python scripts/analyze_news_CF.py
 
       - name: Commit and push changes
         env:
