@@ -1,5 +1,28 @@
 [
   {
+    "id": "7571457",
+    "headline": "South Korean auto, pharma stocks fall after Trump threatens to impose 25% tariffs",
+    "summary": "South Korean automaker and pharmaceutical stocks were falling after President Donald Trump late Monday threatened to raise tariffs on some Korean imports to 25% because that country’s government has been too slow to approve a trade deal reached last year.",
+    "url": "https://www.marketwatch.com/story/south-korean-auto-pharma-stocks-fall-after-trump-threatens-to-impose-25-tariffs-14d1b950",
+    "source": "MarketWatch",
+    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+    "relatedSymbols": [],
+    "publishedAt": 1769478900,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1769479817,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "South Korean auto and pharma stocks are falling due to President Trump's threat to impose 25% tariffs on Korean imports. The tariffs are a response to the slow approval of a trade deal reached last year. This development is a negative surprise for the industry, as it may lead to increased costs and reduced competitiveness for South Korean companies. The tariffs will likely impact companies such as Hyundai Motor and Kia Motors in the auto sector, as well as pharmaceutical companies like Samsung Biologics and Celltrion.",
+      "impact": "The tariffs may lead to a short-term decline in earnings for South Korean auto and pharma companies, as they will face increased costs and reduced demand. This may also lead to a decline in stock prices, particularly for companies with high exposure to the US market. In the medium term, the tariffs may impact the competitiveness of South Korean companies, leading to a decline in market share and revenue.",
+      "risks": [
+        "tariff risk",
+        "supply chain disruption risk",
+        "reduced demand risk"
+      ]
+    }
+  },
+  {
     "id": "7571436",
     "headline": "Why Nike is cutting hundreds of jobs, starting at its warehouses",
     "summary": "Nike Inc. plans to lay off around 775 people in an effort to make its warehouse and distribution network faster and more automated.",
@@ -19,6 +42,29 @@
         "job market risk",
         "automation risk",
         "retail sector competition risk"
+      ]
+    }
+  },
+  {
+    "id": "7571459",
+    "headline": "The lesson Jim Cramer wants investors to learn from Monday's market rally",
+    "summary": "\"Stocks don't go down because people are in a bad mood,\" CNBC's Jim Cramer said Monday.",
+    "url": "https://www.cnbc.com/2026/01/26/the-lesson-jim-cramer-wants-investors-to-learn-from-mondays-market-rally.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108157342-1749579722626-gettyimages-2191549528-AFP_36RV3Y7.jpeg?v=1761321146&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1769469230,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1769479864,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "CNBC's Jim Cramer emphasized that stock market movements are driven by fundamental business factors, not investor emotions. He highlighted that Sunday night futures market drops often don't reflect the actual market performance, as they are influenced by weekend fears and worries. Cramer believes that earnings season, particularly the upcoming reports from Apple, Microsoft, and Meta, will drive stock performance. He noted that the Magnificent Seven, a group of large-cap tech companies, have a significant impact on the S&P 500 index.",
+      "impact": "The upcoming earnings reports from Apple, Microsoft, and Meta are likely to drive stock performance, with potential short-term gains for these companies. The Magnificent Seven's influence on the S&P 500 index may also lead to increased investor attention and potential medium-term growth. Cramer's Charitable Trust, which owns stakes in these companies, may benefit from their performance. Investors may want to consider positioning themselves for a potential earnings-driven rally.",
+      "risks": [
+        "Earnings miss risk",
+        "Valuation risk",
+        "Market volatility risk"
       ]
     }
   },
@@ -170,7 +216,20 @@
     "source": "MarketWatch",
     "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
     "relatedSymbols": [],
-    "publishedAt": 1769458020
+    "publishedAt": 1769458020,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1769479909,
+      "sentiment": "neutral",
+      "confidence": 0.5,
+      "summary": "The US government is on the verge of another shutdown, which could disrupt the tax-filing season. This could lead to delays in tax refunds and potentially affect the economy. The impact on the stock market is uncertain, but a prolonged shutdown could negatively affect consumer spending and business confidence. The IRS typically relies on government funding to operate, and a shutdown would likely cause delays in tax processing and refunds.",
+      "impact": "A government shutdown could lead to a short-term decline in consumer spending, as individuals may delay discretionary purchases until their tax refunds are processed. This could negatively impact companies in the retail and consumer goods sectors, such as Walmart (WMT) and Target (TGT), which rely heavily on consumer spending. In the medium term, a prolonged shutdown could also impact business confidence and investment, potentially affecting the earnings outlook for companies in the financial sector, such as JPMorgan Chase (JPM) and Bank of America (BAC).",
+      "risks": [
+        "delayed tax refunds risk",
+        "consumer spending slowdown risk",
+        "business confidence risk"
+      ]
+    }
   },
   {
     "id": "7571391",
