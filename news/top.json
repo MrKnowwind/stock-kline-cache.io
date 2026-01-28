@@ -1,5 +1,47 @@
 [
   {
+    "id": "7571890",
+    "headline": "How both sides of the ‘Sell America’ debate can be right",
+    "summary": "There are two opposing views of whether the so-called “sell America” trade is happening.",
+    "url": "https://www.marketwatch.com/story/how-both-sides-of-the-sell-america-debate-can-be-right-fb17a0ab",
+    "source": "MarketWatch",
+    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+    "relatedSymbols": [],
+    "publishedAt": 1769596260,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1769598145,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "The article discusses the debate around the 'sell America' trade, where some investors are betting against the US economy due to concerns about its high valuation and potential decline. On one hand, the US economy has been growing steadily, with low unemployment and rising wages. However, some investors argue that the trade deficit and rising national debt could lead to a decline in the dollar and a subsequent increase in inflation. This could, in turn, lead to a decline in the US stock market. The article suggests that both sides of the debate can be right, as the US economy is complex and multifaceted, and different investors may have different perspectives on its future performance.",
+      "impact": "The potential impact on US stocks is uncertain, but a decline in the dollar could lead to a boost in exports and a subsequent increase in earnings for companies that rely heavily on international trade. This could be particularly beneficial for companies in the technology and consumer goods sectors. However, a decline in the stock market could also lead to a decrease in investor sentiment and a subsequent decline in stock prices. This could be particularly challenging for companies with high valuations and low profit margins.",
+      "risks": [
+        "decline in investor sentiment",
+        "increase in inflation",
+        "decrease in earnings for companies with high exposure to international trade"
+      ]
+    }
+  },
+  {
+    "id": "7571884",
+    "headline": "Despite questions about AI’s long-term profitability, OpenAI and Anthropic accelerate investment",
+    "summary": "OpenAI’s latest funding round suggests a valuation of up to $830 billion, while Anthropic’s implies $350 billion",
+    "url": "https://www.marketwatch.com/story/despite-questions-about-ais-long-term-profitability-openai-and-anthropic-accelerate-investment-ffbcec4a",
+    "source": "MarketWatch",
+    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+    "relatedSymbols": [],
+    "publishedAt": 1769594820,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1769598192,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "OpenAI's latest funding round values the company at up to $830 billion, while Anthropic's funding implies a valuation of $350 billion. This significant investment in AI companies suggests that investors remain optimistic about the long-term potential of artificial intelligence. Despite concerns about AI's profitability, the funding rounds indicate that investors are willing to take on the risk. This trend is likely driven by the growing demand for AI solutions in various industries.",
+      "impact": "The investment in OpenAI and Anthropic could lead to a short-term increase in the stocks' valuations, potentially driving a rally in the AI sector. However, the medium-term impact may be influenced by the companies' ability to generate sustainable profits, which remains a concern. The increased investment may also lead to a surge in liquidity, making it easier for traders to buy and sell AI-related stocks.",
+      "risks": []
+    }
+  },
+  {
     "id": "7571871",
     "headline": "ASML bookings blow past estimates as SK Hynix plans capital-expenditure boost",
     "summary": "Rarely have two earnings reports so neatly aligned, as microchip equipment maker ASML Holding reported surprisingly strong orders growth as memory-chip producer SK Hynix said it would make a “considerable increase” in capital expenditure.",
@@ -111,6 +153,29 @@
         "The recovery may be short-lived if demand slows down or the company fails to execute on its growth plans",
         "The company's reliance on the semiconductor industry makes it vulnerable to broader macroeconomic trends and industry-specific risks",
         "The company's ability to maintain its revenue growth and profitability in a competitive market is a key risk"
+      ]
+    }
+  },
+  {
+    "id": "7571889",
+    "headline": "Miss the rally in memory stocks? Cramer sees an even better way to play the memory shortage",
+    "summary": "Cramer says avoid buying Micron, Western Digital, Seagate and Sandisk stocks right now.",
+    "url": "https://www.cnbc.com/2026/01/27/miss-the-rally-in-memory-stocks-cramer-sees-a-better-way-to-play-the-shortage.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108166439-1751384571596-gettyimages-2147904143-MICRON_TECHNOLOGY_HEADQUARTERS.jpeg?v=1769555941&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1769558299,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1769598253,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "CNBC's Jim Cramer advises investors to avoid buying memory stocks such as Micron, Western Digital, Seagate, and Sandisk due to their already significant price appreciation. Instead, he recommends investing in semiconductor capital equipment makers like ASML, Applied Materials, KLA Corp, and Lam Research, which will benefit from increased demand for manufacturing equipment as companies try to alleviate the memory supply crunch. This shift in focus is driven by the understanding that memory chipmakers will continue to invest in new factories to meet growing demand, and semiconductor capital equipment makers will be well-positioned to benefit from this trend. Cramer suggests considering buying ASML, Lam Research, or KLA if their shares dip after their quarterly earnings reports.",
+      "impact": "The recommendation to invest in semiconductor capital equipment makers could lead to a short-term dip in their shares if investors sell off after their earnings reports, providing a buying opportunity. In the medium term, these companies are likely to benefit from increased demand for their products as memory chipmakers continue to invest in new factories, potentially driving their stock prices up. The shift in focus away from memory stocks and towards semiconductor capital equipment makers could also lead to a decrease in liquidity for the former, making it more challenging for investors to buy and sell these stocks.",
+      "risks": [
+        "Earnings report risk: ASML, Lam Research, and KLA Corp may face high expectations and pressure to meet or beat analyst estimates, which could lead to a sell-off if they disappoint.",
+        "Valuation risk: The semiconductor capital equipment makers may already be overvalued given their significant price appreciation in the past year, making them vulnerable to a correction.",
+        "Supply chain risk: Disruptions in the global supply chain could impact the ability of memory chipmakers to invest in new factories and purchase semiconductor capital equipment, potentially hurting the stocks of these companies."
       ]
     }
   },
