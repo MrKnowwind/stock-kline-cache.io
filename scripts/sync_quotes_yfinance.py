@@ -16,10 +16,10 @@ OUTPUT_FILE = BASE_DIR / "quotes" / "latest.json"
 CHUNK_SIZE = 250
 
 # 正常批次之间的短暂停顿（秒），降低瞬时请求量
-BATCH_PAUSE_SECONDS = 1.0
+BATCH_PAUSE_SECONDS = 0.4
 
 # 检测到被限流（Too Many Requests / Rate limited）后，休眠再重试（秒）
-RATE_LIMIT_SLEEP_SECONDS = 60.0
+RATE_LIMIT_SLEEP_SECONDS = 45.0
 
 
 def load_symbols() -> List[str]:
