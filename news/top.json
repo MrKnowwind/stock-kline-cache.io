@@ -1,5 +1,61 @@
 [
   {
+    "id": "7572133",
+    "headline": "IBM beats fourth-quarter estimates, forecasts 5% revenue growth in 2026",
+    "summary": "IBM CEO Arvind Krishna said the company's generative artificial intelligence book of business hit more than $12.5 billion.",
+    "url": "https://www.cnbc.com/2026/01/28/ibm-earnings-q4-2025.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108094473-17381853142025-01-22t112733z_951578715_rc2yecalvcw1_rtrmadp_0_davos-meeting.jpeg?v=1738189844&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1769634697
+  },
+  {
+    "id": "7572130",
+    "headline": "10,000 flights canceled, a $200 million hit from the storm and a plunging stock: American Airlines’ bad week",
+    "summary": "American “is not in a position of strength as a business” to weather the reputational hit, which may further weaken customer preference for the airline, at least in the short term.",
+    "url": "https://www.marketwatch.com/story/10-000-flights-canceled-a-200-million-hit-from-the-storm-and-a-plunging-stock-american-airlines-bad-week-97c1d22f",
+    "source": "MarketWatch",
+    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+    "relatedSymbols": [],
+    "publishedAt": 1769634300,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1769637659,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "American Airlines has faced a severe reputational hit due to the cancellation of 10,000 flights and a $200 million loss. This incident has weakened the airline's business position, potentially leading to a decline in customer preference. The airline's ability to recover from this setback will be crucial in the short term. The incident highlights the airline's vulnerability to external factors such as severe weather events.",
+      "impact": "The potential impact on American Airlines' stock price is bearish, with a short-term decline likely due to the reputational damage and associated financial losses. The airline's earnings outlook may be negatively affected, leading to a decrease in valuation. The incident may also lead to a decline in investor sentiment, reducing liquidity and making the stock more volatile.",
+      "risks": [
+        "reputational damage risk",
+        "earnings decline risk",
+        "liquidity risk"
+      ]
+    }
+  },
+  {
+    "id": "7572131",
+    "headline": "How do I open a ‘Trump account’? The IRS has one simple solution for you.",
+    "summary": "People can’t contribute money to the tax-advantaged accounts for children until July, but they can start the process of opening one now",
+    "url": "https://www.marketwatch.com/story/how-do-i-open-a-trump-account-the-irs-has-one-simple-solution-for-you-41da00e3",
+    "source": "MarketWatch",
+    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+    "relatedSymbols": [],
+    "publishedAt": 1769634240,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1769637706,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The IRS has announced that individuals can start the process of opening a tax-advantaged 'Trump account' for their children now, even though contributions to these accounts won't be allowed until July. This means that parents can initiate the account setup and potentially take advantage of the tax benefits. The news does not directly impact the business fundamentals of any specific stock, but it may influence consumer behavior and savings habits. This could have a positive impact on the financial services industry in the long term.",
+      "impact": "The news may lead to increased interest in tax-advantaged savings accounts, potentially benefiting companies that offer these products, such as Fidelity (FIS), Charles Schwab (SCHW), and Vanguard (VZ). This could lead to higher demand for these services, driving revenue growth and potentially boosting the stocks in the short to medium term. However, the impact may be limited to the financial services sector and may not have a significant effect on the overall market.",
+      "risks": [
+        "consumer behavior may not change",
+        "regulatory changes could impact the program",
+        "market volatility could reduce demand for tax-advantaged savings accounts"
+      ]
+    }
+  },
+  {
     "id": "7572129",
     "headline": "ICE presence threatens small business in Minneapolis and Minnesota, some owners say: 'I can hardly do my normal job'",
     "summary": "Some Minneapolis small-business owners say they fear for their personal safety, their community's safety and their businesses' survival amid ICE's presence in the city.",
