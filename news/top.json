@@ -30,7 +30,20 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/108257498-1769518558364-gettyimages-2257849777-AFP_94443QW.jpeg?v=1769623142&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1769638782
+    "publishedAt": 1769638782,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1769644731,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "A CNBC survey of 34 C-suite executives found that many business leaders are hesitant to comment on the ICE Minneapolis crackdown, with 33% saying it's 'not relevant to their business'. Apple CEO Tim Cook and OpenAI CEO responded publicly, with Cook calling for de-escalation and expressing concern for the situation. However, some executives cited concerns about backlash from the Trump administration as a reason for not commenting. The survey suggests that many business leaders are prioritizing caution and avoiding taking a public stance on the issue.",
+      "impact": "The news may have a short-term impact on the sentiment of Apple (AAPL) and OpenAI, as their CEOs have publicly commented on the issue. However, the overall market impact is likely to be neutral, as the survey suggests that many business leaders are taking a cautious approach to commenting on the issue. In the medium term, the lack of public response from other CEOs may lead to a decrease in investor confidence in the broader market, potentially affecting stock prices.",
+      "risks": [
+        "regulatory risk",
+        "sentiment risk",
+        "macroeconomic uncertainty"
+      ]
+    }
   },
   {
     "id": "7572162",
