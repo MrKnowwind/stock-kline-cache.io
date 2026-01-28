@@ -1,5 +1,6 @@
 import json
 import math
+import time
 from pathlib import Path
 from typing import Dict, List, Iterable, Tuple, Optional
 
@@ -11,7 +12,14 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SYMBOLS_FILE = BASE_DIR / "symbols" / "us.txt"
 OUTPUT_FILE = BASE_DIR / "quotes" / "latest.json"
 
-CHUNK_SIZE = 300
+# 单次批量请求的最大 symbol 数
+CHUNK_SIZE = 200
+
+# 正常批次之间的短暂停顿（秒），降低瞬时请求量
+BATCH_PAUSE_SECONDS = 2.0
+
+# 检测到被限流（Too Many Requests / Rate limited）后，休眠再重试（秒）
+RATE_LIMIT_SLEEP_SECONDS = 60.0
 
 
 def load_symbols() -> List[str]:
@@ -102,8 +110,30 @@ def fetch_single_quote(symbol: str) -> Optional[Dict[str, Optional[float]]]:
             threads=False,
         )
     except Exception as e:
-        print(f"single failed for {symbol}: {e}")
-        return None
+        msg = str(e)
+        if "Rate limited" in msg or "Too Many Requests" in msg:
+            print(
+                f"single rate limited for {symbol}, "
+                f"sleeping {RATE_LIMIT_SLEEP_SECONDS}s then retry..."
+            )
+            time.sleep(RATE_LIMIT_SLEEP_SECONDS)
+            try:
+                df = yf.download(
+                    symbol,
+                    period="2d",
+                    interval="1d",
+                    group_by="ticker",
+                    auto_adjust=False,
+                    progress=False,
+                    threads=False,
+                )
+            except Exception as e2:
+                print(f"single failed after retry for {symbol}: {e2}")
+                return None
+        else:
+            print(f"single failed for {symbol}: {e}")
+            return None
+
     ohlc = extract_ohlc(df)
     if ohlc is None:
         return None
@@ -124,13 +154,38 @@ def update_quotes_batch(
             group_by="ticker",
             auto_adjust=False,
             progress=False,
-            threads=True,
+            threads=False,  # 关闭并发，降低瞬时请求压力
         )
     except Exception as e:
-        print(f"batch download failed ({len(symbols)} symbols): {e}")
-        data = pd.DataFrame()
+        msg = str(e)
+        if "Rate limited" in msg or "Too Many Requests" in msg:
+            print(
+                f"batch rate limited for {len(symbols)} symbols, "
+                f"sleeping {RATE_LIMIT_SLEEP_SECONDS}s then retry..."
+            )
+            time.sleep(RATE_LIMIT_SLEEP_SECONDS)
+            try:
+                data = yf.download(
+                    symbols,
+                    period="2d",
+                    interval="1d",
+                    group_by="ticker",
+                    auto_adjust=False,
+                    progress=False,
+                    threads=False,
+                )
+            except Exception as e2:
+                print(
+                    f"batch download failed after retry ({len(symbols)} symbols): {e2}"
+                )
+                data = pd.DataFrame()
+        else:
+            print(f"batch download failed ({len(symbols)} symbols): {e}")
+            data = pd.DataFrame()
+
     result: Dict[str, Dict[str, Optional[float]]] = {}
     missing: List[str] = []
+
     if isinstance(data.columns, pd.MultiIndex):
         for sym in symbols:
             if sym not in data.columns.levels[0]:
@@ -152,12 +207,14 @@ def update_quotes_batch(
             quote = format_quote(c, o, h, l, pc)
             for sym in symbols:
                 result[sym] = quote
+
     if missing:
         print(f"missing from batch: {len(missing)} symbols, fetching individually")
         for sym in missing:
             q = fetch_single_quote(sym)
             if q is not None:
                 result[sym] = q
+
     return result
 
 
@@ -169,6 +226,9 @@ def fetch_all_quotes(symbols: List[str]) -> Dict[str, Dict[str, Optional[float]]
             all_quotes.update(q)
         except Exception as e:
             print(f"batch failed ({len(batch)} symbols): {e}")
+        # 批次之间暂停一下，进一步降低触发限流的概率
+        if BATCH_PAUSE_SECONDS > 0:
+            time.sleep(BATCH_PAUSE_SECONDS)
     return all_quotes
 
 
