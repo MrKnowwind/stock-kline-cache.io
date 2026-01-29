@@ -13,10 +13,10 @@ SYMBOLS_FILE = BASE_DIR / "symbols" / "us.txt"
 OUTPUT_FILE = BASE_DIR / "quotes" / "latest.json"
 
 # 单次批量请求的最大 symbol 数
-CHUNK_SIZE = 250
+CHUNK_SIZE = 220
 
 # 正常批次之间的短暂停顿（秒），降低瞬时请求量
-BATCH_PAUSE_SECONDS = 0.4
+BATCH_PAUSE_SECONDS = 0.5
 
 # 检测到被限流（Too Many Requests / Rate limited）后，休眠再重试（秒）
 RATE_LIMIT_SLEEP_SECONDS = 45.0
