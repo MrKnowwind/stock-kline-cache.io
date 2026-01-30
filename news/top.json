@@ -1,5 +1,28 @@
 [
   {
+    "id": "7572579",
+    "headline": "Trump sues IRS, Treasury for $10 billion over leak of his tax returns",
+    "summary": "President Donald Trump filed a $10 billion lawsuit Thursday against the Internal Revenue Service and the Treasury Department — with the potential for U.S. taxpayers to pay for it.",
+    "url": "https://www.marketwatch.com/story/trump-sues-irs-treasury-for-10-billion-over-leak-of-his-tax-returns-761f27db",
+    "source": "MarketWatch",
+    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+    "relatedSymbols": [],
+    "publishedAt": 1769740440,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1769745740,
+      "sentiment": "bearish",
+      "confidence": 0.6,
+      "summary": "President Trump's lawsuit against the IRS and Treasury Department may lead to a prolonged legal battle, potentially distracting the government from other pressing issues. The lawsuit's potential financial burden on U.S. taxpayers could also impact government spending and fiscal policy. This news may not have a direct impact on specific stocks, but could influence the overall market sentiment and investor confidence. The outcome of the lawsuit may also set a precedent for future tax-related disputes.",
+      "impact": "The potential financial burden on U.S. taxpayers may lead to increased government spending, potentially weighing on the overall economy and corporate earnings. This could negatively impact the financial sector, particularly banks and other financial institutions with significant exposure to government debt. The lawsuit may also contribute to a more uncertain business environment, potentially affecting investor sentiment and market volatility.",
+      "risks": [
+        "Increased government spending risk",
+        "Uncertainty in fiscal policy risk",
+        "Market volatility risk"
+      ]
+    }
+  },
+  {
     "id": "7572571",
     "headline": "Trump throws down new tariff threats toward Canada and Mexico",
     "summary": "Canada may face 50% tariff on aircraft, Trump says, while also ordering tariffs against countries selling oil to Cuba",
@@ -1215,6 +1238,52 @@
         "interest rate sensitivity risk",
         "macroeconomic uncertainty risk",
         "Fed policy uncertainty risk"
+      ]
+    }
+  },
+  {
+    "id": "7572585",
+    "headline": "UK car output slumps to 70-year low; JLR cyberattack, US tariffs hit industry hard",
+    "summary": "Including commercial vehicles, total production dropped 16%, marking the worst performance since 1952, partly due to Stellantis closing its Vauxhall van plant in Luton",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-29/uk-car-production-drops-to-lowest-since-1956-after-jlr-shutdown",
+    "source": "Bloomberg",
+    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+    "relatedSymbols": [],
+    "publishedAt": 1769658037,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1769745787,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "UK car production has slumped to a 70-year low due to a combination of factors, including a cyberattack on JLR and US tariffs. This has led to a 16% drop in total production, the worst performance since 1952. Stellantis' closure of its Vauxhall van plant in Luton is also a contributing factor. The UK automotive industry is facing significant headwinds, with production levels unlikely to recover soon.",
+      "impact": "The news is likely to have a negative impact on the earnings outlook for companies in the UK automotive sector, particularly those with significant exposure to the UK market. JLR, which is already facing challenges, may see its valuation come under pressure as investors reassess its prospects. The UK's departure from the EU and the ongoing trade tensions with the US have created a challenging environment for the industry, which is likely to persist in the near term.",
+      "risks": [
+        "Earnings downgrade risk",
+        "Valuation multiple contraction risk",
+        "Supply chain disruption risk"
+      ]
+    }
+  },
+  {
+    "id": "7572580",
+    "headline": "Tesla pivots to AI and robotics with $20 billion investment, scales Robotaxi and Optimus",
+    "summary": "Tesla plans $20B investment in AI, robotics, and Robotaxi expansion, halts Model S/X, beats Q4 profit estimates, and grows FSD subscriptions 40%.",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-28/tesla-posts-fourth-quarter-profit-that-beats-expectations",
+    "source": "Bloomberg",
+    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+    "relatedSymbols": [],
+    "publishedAt": 1769654599,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1769745836,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Tesla is investing $20 billion in AI, robotics, and expanding its Robotaxi service, while halting production of the Model S and X. This significant investment in AI and robotics suggests Tesla's focus on autonomous driving and mobility services. The company has also reported a profit that beats expectations, driven by a 40% growth in Full Self-Driving (FSD) subscriptions. This news is a positive indicator of Tesla's growth prospects and its ability to execute on its vision for the future of transportation.",
+      "impact": "The investment in AI and robotics is likely to drive growth in Tesla's earnings outlook, potentially leading to increased revenue from its mobility services and autonomous driving capabilities. The halt in production of the Model S and X may impact short-term sales, but the long-term benefits of the investment in AI and robotics are likely to outweigh these costs. The stock price may see an increase in the short term due to the positive earnings surprise and the company's growing presence in the mobility services space.",
+      "risks": [
+        "Integration risk: the successful integration of AI and robotics capabilities into Tesla's existing products and services is crucial for the company's long-term success.",
+        "Regulatory approval risk: regulatory hurdles may slow down the development and deployment of Tesla's autonomous driving technology.",
+        "Competition risk: the autonomous driving and mobility services market is highly competitive, and Tesla faces competition from established players such as Waymo and traditional automakers."
       ]
     }
   },
