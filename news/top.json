@@ -1,5 +1,51 @@
 [
   {
+    "id": "7572733",
+    "headline": "Jim Cramer's top 10 things to watch in the stock market Friday",
+    "summary": "The S&P 500 was headed for a lower open this morning after President Trump nominated Kevin Warsh to be the new chair of the Federal Reserve.",
+    "url": "https://www.cnbc.com/2026/01/30/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108201259-1758289682418-gettyimages-2236258501-mms22737_4lnripmx.jpeg?v=1761662809&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1769781126,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1769783068,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The S&P 500 is expected to open lower due to concerns about Fed independence, but President Trump's nomination of Kevin Warsh as the new Fed chair may ease these concerns. Apple reported a strong quarter, driven by high demand for the iPhone and services unit. Sandisk soared after a tremendous quarter, with Goldman Sachs and Bernstein hiking their price targets. Other stocks, such as Broadcom, Honeywell, Caterpillar, and Starbucks, also received positive updates, including price target increases and upgrades.",
+      "impact": "The nomination of Kevin Warsh as Fed chair may lead to a short-term relief rally in the market, which could positively impact stocks like Apple and other tech companies. Medium-term, the strong earnings reports from Apple, Sandisk, and Caterpillar may boost investor sentiment and drive stock prices higher. Additionally, the upgrades and price target increases for Broadcom, Honeywell, and Starbucks may lead to increased investor interest and buying pressure.",
+      "risks": [
+        "memory shortage risk for Apple",
+        "valuation risk for Sandisk",
+        "regulatory risk for Broadcom due to its growth in tensor processing units"
+      ]
+    }
+  },
+  {
+    "id": "7572729",
+    "headline": "Wholesale prices rise sharply and show new Fed chief could confront stubborn inflation",
+    "summary": "The cost of wholesale goods and services rose sharply at the end of last year, underscoring the battle against inflation is far from over as President Trump gets set to name a new chairman of the Federal Reserve.",
+    "url": "https://www.marketwatch.com/story/wholesale-prices-rise-sharply-and-show-new-fed-chief-could-confront-stubborn-inflation-597b071b",
+    "source": "MarketWatch",
+    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+    "relatedSymbols": [],
+    "publishedAt": 1769780940,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1769783115,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Wholesale prices rose sharply at the end of last year, indicating that inflation remains a concern. This news comes as President Trump is set to name a new chairman of the Federal Reserve, which could lead to a shift in monetary policy. The new Fed chief may take a more aggressive stance against inflation, which could impact interest rates and the overall economy. This could be a negative for companies with high debt levels or those that rely heavily on consumer spending.",
+      "impact": "The sharp increase in wholesale prices could lead to higher interest rates in the short-term, making it more expensive for companies to borrow money. This could negatively impact companies with high debt levels, such as those in the retail or energy sectors. In the medium-term, a more aggressive Fed could lead to a stronger US dollar, making exports more expensive and potentially impacting companies that rely heavily on international trade.",
+      "risks": [
+        "higher interest rates risk",
+        "debt crisis risk for companies with high leverage",
+        "reduced consumer spending risk due to higher prices"
+      ]
+    }
+  },
+  {
     "id": "7572700",
     "headline": "Most of us make assumptions about growth and value stocks. Here’s what we get wrong.",
     "summary": "Reading too much into short-term market moves can land you in trouble.",
@@ -229,7 +275,16 @@
     "source": "MarketWatch",
     "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
     "relatedSymbols": [],
-    "publishedAt": 1769773020
+    "publishedAt": 1769773020,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1769783162,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Verizon Communications reported its best subscriber growth in six years under the leadership of new CEO, Dan Schulman, who has vowed to no longer allow the company to be a 'hunting ground' for its competitors. This shift in strategy is a positive sign for the company's future growth prospects, as it indicates a renewed focus on retaining existing customers and increasing market share. The news is a testament to Schulman's efforts to revamp the company's operations and improve its competitive position. As a result, investors may reevaluate their expectations for Verizon's earnings growth and valuation multiple.",
+      "impact": "The news is likely to have a positive impact on Verizon's stock price in the short-term, as investors react to the company's improved subscriber growth and renewed competitive stance. This could lead to a re-rating of the stock, with potential upside to earnings estimates and a higher valuation multiple. In the medium-term, Verizon's improved market position and increased focus on customer retention could lead to sustained growth in revenue and earnings, driving further stock price appreciation.",
+      "risks": []
+    }
   },
   {
     "id": "7572635",
