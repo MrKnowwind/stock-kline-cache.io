@@ -1,0 +1,1074 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AlphaAdvisor - Screenshots 500x1024</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Inter', sans-serif;
+            background: #1a1a2e;
+            padding: 40px;
+            min-height: 100vh;
+        }
+        
+        h1 {
+            text-align: center;
+            color: #fff;
+            margin-bottom: 10px;
+            font-size: 1.8rem;
+        }
+        
+        .subtitle {
+            text-align: center;
+            color: #888;
+            margin-bottom: 40px;
+            font-size: 0.9rem;
+        }
+        
+        .screenshots-container {
+            display: flex;
+            gap: 30px;
+            justify-content: center;
+            flex-wrap: wrap;
+            max-width: 100%;
+            overflow-x: auto;
+            padding: 20px 0;
+        }
+        
+        .screenshot {
+            width: 500px;
+            height: 1024px;
+            border-radius: 0;
+            overflow: hidden;
+            flex-shrink: 0;
+            box-shadow: 0 25px 80px rgba(0,0,0,0.5);
+            position: relative;
+        }
+        
+        /* Screenshot 1: Hero */
+        .screenshot-1 {
+            background: linear-gradient(180deg, #0a0a1a 0%, #1a1a3a 50%, #0f0f25 100%);
+        }
+        
+        .screenshot-1 .content {
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 80px 40px;
+        }
+        
+        .screenshot-1 .badge {
+            background: linear-gradient(135deg, rgba(0,212,170,0.2), rgba(0,212,170,0.05));
+            border: 1px solid rgba(0,212,170,0.3);
+            border-radius: 24px;
+            padding: 10px 24px;
+            font-size: 14px;
+            color: #00d4aa;
+            font-weight: 600;
+            margin-bottom: 40px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        
+        .screenshot-1 .logo-icon {
+            width: 130px;
+            height: 130px;
+            margin-bottom: 30px;
+        }
+        
+        .screenshot-1 .app-name {
+            font-size: 42px;
+            font-weight: 700;
+            color: #fff;
+            margin-bottom: 12px;
+        }
+        
+        .screenshot-1 .tagline {
+            font-size: 18px;
+            color: #00d4aa;
+            font-weight: 500;
+            margin-bottom: 60px;
+        }
+        
+        .screenshot-1 .hero-title {
+            font-size: 44px;
+            font-weight: 800;
+            color: #fff;
+            text-align: center;
+            line-height: 1.2;
+            margin-bottom: 20px;
+        }
+        
+        .screenshot-1 .hero-subtitle {
+            font-size: 18px;
+            color: #888;
+            text-align: center;
+            line-height: 1.6;
+            margin-bottom: 50px;
+            padding: 0 20px;
+        }
+        
+        .screenshot-1 .features-row {
+            display: flex;
+            gap: 16px;
+            margin-bottom: 50px;
+        }
+        
+        .screenshot-1 .feature-pill {
+            background: rgba(255,255,255,0.05);
+            border: 1px solid rgba(255,255,255,0.1);
+            border-radius: 24px;
+            padding: 14px 20px;
+            font-size: 14px;
+            color: #ccc;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        .screenshot-1 .feature-pill svg {
+            width: 18px;
+            height: 18px;
+        }
+        
+        .screenshot-1 .phone-mockup {
+            width: 340px;
+            height: 300px;
+            background: linear-gradient(145deg, #1e1e3a, #151530);
+            border-radius: 24px;
+            border: 3px solid rgba(255,255,255,0.1);
+            padding: 20px;
+            position: relative;
+        }
+        
+        .screenshot-1 .mockup-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 16px;
+        }
+        
+        .screenshot-1 .mockup-title {
+            font-size: 16px;
+            color: #fff;
+            font-weight: 600;
+        }
+        
+        .screenshot-1 .mockup-badge {
+            background: #00d4aa;
+            color: #000;
+            font-size: 11px;
+            padding: 4px 10px;
+            border-radius: 10px;
+            font-weight: 700;
+            text-transform: uppercase;
+        }
+        
+        .screenshot-1 .chart-area {
+            height: 200px;
+            position: relative;
+        }
+        
+        /* Screenshot 2: Expert 1-on-1 */
+        .screenshot-2 {
+            background: linear-gradient(180deg, #0a0a1a 0%, #1a1a3a 100%);
+        }
+        
+        .screenshot-2 .content {
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            padding: 70px 40px;
+        }
+        
+        .screenshot-2 .header-text {
+            text-align: center;
+            margin-bottom: 50px;
+        }
+        
+        .screenshot-2 .main-title {
+            font-size: 38px;
+            font-weight: 800;
+            color: #fff;
+            margin-bottom: 14px;
+        }
+        
+        .screenshot-2 .main-subtitle {
+            font-size: 18px;
+            color: #888;
+        }
+        
+        .screenshot-2 .expert-card {
+            background: linear-gradient(145deg, rgba(124,92,255,0.15), rgba(124,92,255,0.05));
+            border: 1px solid rgba(124,92,255,0.3);
+            border-radius: 24px;
+            padding: 30px;
+            margin-bottom: 30px;
+        }
+        
+        .screenshot-2 .expert-header {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            margin-bottom: 24px;
+        }
+        
+        .screenshot-2 .expert-avatar {
+            width: 70px;
+            height: 70px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, #7c5cff, #a78bff);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 30px;
+        }
+        
+        .screenshot-2 .expert-info h4 {
+            font-size: 22px;
+            color: #fff;
+            font-weight: 600;
+        }
+        
+        .screenshot-2 .expert-info p {
+            font-size: 16px;
+            color: #a78bff;
+        }
+        
+        .screenshot-2 .expert-stats {
+            display: flex;
+            gap: 30px;
+        }
+        
+        .screenshot-2 .stat {
+            text-align: center;
+        }
+        
+        .screenshot-2 .stat-value {
+            font-size: 28px;
+            font-weight: 700;
+            color: #00d4aa;
+        }
+        
+        .screenshot-2 .stat-label {
+            font-size: 12px;
+            color: #888;
+            text-transform: uppercase;
+        }
+        
+        .screenshot-2 .chat-preview {
+            background: rgba(255,255,255,0.03);
+            border-radius: 20px;
+            padding: 28px;
+            flex: 1;
+        }
+        
+        .screenshot-2 .chat-message {
+            margin-bottom: 24px;
+        }
+        
+        .screenshot-2 .chat-message.user {
+            text-align: right;
+        }
+        
+        .screenshot-2 .chat-bubble {
+            display: inline-block;
+            max-width: 85%;
+            padding: 18px 24px;
+            border-radius: 18px;
+            font-size: 16px;
+            line-height: 1.5;
+        }
+        
+        .screenshot-2 .chat-message.expert .chat-bubble {
+            background: rgba(124,92,255,0.2);
+            color: #e0d5ff;
+            border-bottom-left-radius: 6px;
+        }
+        
+        .screenshot-2 .chat-message.user .chat-bubble {
+            background: rgba(0,212,170,0.2);
+            color: #a0f5e0;
+            border-bottom-right-radius: 6px;
+        }
+        
+        .screenshot-2 .cta-button {
+            background: linear-gradient(135deg, #7c5cff, #a78bff);
+            border: none;
+            border-radius: 18px;
+            padding: 24px;
+            color: #fff;
+            font-size: 20px;
+            font-weight: 600;
+            text-align: center;
+            margin-top: 30px;
+        }
+        
+        /* Screenshot 3: Real-time Quotes */
+        .screenshot-3 {
+            background: linear-gradient(180deg, #0a0a1a 0%, #1a1a3a 100%);
+        }
+        
+        .screenshot-3 .content {
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            padding: 70px 32px;
+        }
+        
+        .screenshot-3 .header-text {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        
+        .screenshot-3 .main-title {
+            font-size: 38px;
+            font-weight: 800;
+            color: #fff;
+            margin-bottom: 12px;
+        }
+        
+        .screenshot-3 .main-subtitle {
+            font-size: 18px;
+            color: #888;
+        }
+        
+        .screenshot-3 .stock-list {
+            flex: 1;
+        }
+        
+        .screenshot-3 .stock-item {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 24px 0;
+            border-bottom: 1px solid rgba(255,255,255,0.05);
+        }
+        
+        .screenshot-3 .stock-left {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+        }
+        
+        .screenshot-3 .stock-dot {
+            width: 14px;
+            height: 14px;
+            border-radius: 50%;
+        }
+        
+        .screenshot-3 .stock-dot.green { background: #00d4aa; }
+        .screenshot-3 .stock-dot.red { background: #ff6b6b; }
+        
+        .screenshot-3 .stock-name {
+            font-size: 20px;
+            color: #fff;
+            font-weight: 600;
+        }
+        
+        .screenshot-3 .stock-symbol {
+            font-size: 14px;
+            color: #666;
+        }
+        
+        .screenshot-3 .stock-right {
+            text-align: right;
+        }
+        
+        .screenshot-3 .stock-price {
+            font-size: 20px;
+            color: #fff;
+            font-weight: 600;
+        }
+        
+        .screenshot-3 .stock-change {
+            font-size: 16px;
+            font-weight: 500;
+        }
+        
+        .screenshot-3 .stock-change.positive { color: #00d4aa; }
+        .screenshot-3 .stock-change.negative { color: #ff6b6b; }
+        
+        .screenshot-3 .mini-chart {
+            width: 80px;
+            height: 40px;
+        }
+        
+        /* Screenshot 4: AI Analysis Report */
+        .screenshot-4 {
+            background: linear-gradient(180deg, #0a0a1a 0%, #1a1a3a 100%);
+        }
+        
+        .screenshot-4 .content {
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            padding: 70px 32px;
+        }
+        
+        .screenshot-4 .header-text {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        
+        .screenshot-4 .main-title {
+            font-size: 38px;
+            font-weight: 800;
+            color: #fff;
+            margin-bottom: 12px;
+        }
+        
+        .screenshot-4 .main-subtitle {
+            font-size: 16px;
+            color: #888;
+        }
+        
+        .screenshot-4 .analysis-card {
+            background: rgba(255,255,255,0.03);
+            border: 1px solid rgba(255,255,255,0.08);
+            border-radius: 24px;
+            padding: 28px;
+            margin-bottom: 24px;
+        }
+        
+        .screenshot-4 .analysis-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 24px;
+        }
+        
+        .screenshot-4 .analysis-stock {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+        }
+        
+        .screenshot-4 .stock-icon {
+            width: 54px;
+            height: 54px;
+            border-radius: 14px;
+            background: linear-gradient(135deg, #333, #222);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 24px;
+            font-weight: 700;
+            color: #fff;
+        }
+        
+        .screenshot-4 .analysis-stock h4 {
+            font-size: 22px;
+            color: #fff;
+            font-weight: 600;
+        }
+        
+        .screenshot-4 .analysis-stock p {
+            font-size: 14px;
+            color: #666;
+        }
+        
+        .screenshot-4 .ai-badge {
+            background: linear-gradient(135deg, #00d4aa, #00f5c4);
+            color: #000;
+            font-size: 12px;
+            font-weight: 700;
+            padding: 8px 16px;
+            border-radius: 14px;
+            text-transform: uppercase;
+        }
+        
+        .screenshot-4 .metrics-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 16px;
+            margin-bottom: 24px;
+        }
+        
+        .screenshot-4 .metric {
+            text-align: center;
+            padding: 18px 10px;
+            background: rgba(0,212,170,0.08);
+            border-radius: 16px;
+        }
+        
+        .screenshot-4 .metric-value {
+            font-size: 22px;
+            font-weight: 700;
+            color: #00d4aa;
+        }
+        
+        .screenshot-4 .metric-label {
+            font-size: 12px;
+            color: #888;
+            margin-top: 4px;
+            text-transform: uppercase;
+        }
+        
+        .screenshot-4 .analysis-summary {
+            font-size: 16px;
+            color: #aaa;
+            line-height: 1.6;
+            padding: 18px;
+            background: rgba(0,212,170,0.05);
+            border-radius: 14px;
+            border-left: 4px solid #00d4aa;
+        }
+        
+        .screenshot-4 .rating-section {
+            background: rgba(255,255,255,0.03);
+            border-radius: 20px;
+            padding: 28px;
+            text-align: center;
+        }
+        
+        .screenshot-4 .rating-label {
+            font-size: 16px;
+            color: #888;
+            margin-bottom: 14px;
+            text-transform: uppercase;
+        }
+        
+        .screenshot-4 .rating-value {
+            font-size: 52px;
+            font-weight: 800;
+            color: #00d4aa;
+        }
+        
+        .screenshot-4 .rating-bar {
+            height: 10px;
+            background: rgba(255,255,255,0.1);
+            border-radius: 5px;
+            margin-top: 18px;
+            overflow: hidden;
+        }
+        
+        .screenshot-4 .rating-fill {
+            height: 100%;
+            width: 85%;
+            background: linear-gradient(90deg, #00d4aa, #00f5c4);
+            border-radius: 5px;
+        }
+        
+        /* Screenshot 5: News */
+        .screenshot-5 {
+            background: linear-gradient(180deg, #0a0a1a 0%, #1a1a3a 100%);
+        }
+        
+        .screenshot-5 .content {
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            padding: 70px 32px;
+        }
+        
+        .screenshot-5 .header-text {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        
+        .screenshot-5 .main-title {
+            font-size: 38px;
+            font-weight: 800;
+            color: #fff;
+            margin-bottom: 12px;
+        }
+        
+        .screenshot-5 .main-subtitle {
+            font-size: 18px;
+            color: #888;
+        }
+        
+        .screenshot-5 .news-list {
+            flex: 1;
+        }
+        
+        .screenshot-5 .news-item {
+            padding: 28px 0;
+            border-bottom: 1px solid rgba(255,255,255,0.05);
+        }
+        
+        .screenshot-5 .news-source {
+            font-size: 14px;
+            color: #00d4aa;
+            font-weight: 600;
+            margin-bottom: 10px;
+            text-transform: uppercase;
+        }
+        
+        .screenshot-5 .news-title {
+            font-size: 18px;
+            color: #fff;
+            font-weight: 600;
+            line-height: 1.4;
+            margin-bottom: 12px;
+        }
+        
+        .screenshot-5 .news-meta {
+            display: flex;
+            gap: 20px;
+            font-size: 14px;
+            color: #666;
+        }
+        
+        .screenshot-5 .news-tag {
+            background: rgba(124,92,255,0.2);
+            color: #a78bff;
+            padding: 4px 12px;
+            border-radius: 10px;
+            font-size: 12px;
+        }
+        
+        .screenshot-5 .download-cta {
+            background: linear-gradient(135deg, #00d4aa, #00f5c4);
+            border-radius: 20px;
+            padding: 30px;
+            text-align: center;
+            margin-top: 30px;
+        }
+        
+        .screenshot-5 .download-cta h4 {
+            color: #000;
+            font-size: 22px;
+            font-weight: 700;
+            margin-bottom: 8px;
+        }
+        
+        .screenshot-5 .download-cta p {
+            color: rgba(0,0,0,0.6);
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+    <h1>AlphaAdvisor - Google Play Screenshots</h1>
+    <p class="subtitle">Size: 500 × 1024 (Actual Size)</p>
+    
+    <div class="screenshots-container">
+        <!-- Screenshot 1: Hero -->
+        <div class="screenshot screenshot-1">
+            <div class="content">
+                <div class="badge">🚀 New Release</div>
+                
+                <svg class="logo-icon" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <defs>
+                        <linearGradient id="grad5" x1="0%" y1="100%" x2="100%" y2="0%">
+                            <stop offset="0%" style="stop-color:#00d4aa"/>
+                            <stop offset="100%" style="stop-color:#00f5c4"/>
+                        </linearGradient>
+                        <linearGradient id="grad5bg" x1="0%" y1="0%" x2="100%" y2="100%">
+                            <stop offset="0%" style="stop-color:#0a1628"/>
+                            <stop offset="100%" style="stop-color:#152238"/>
+                        </linearGradient>
+                    </defs>
+                    <rect width="120" height="120" rx="26" fill="url(#grad5bg)"/>
+                    <path d="M25 85L45 65L60 30L75 65L95 45" stroke="url(#grad5)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                    <path d="M25 85L45 65L60 30L75 65L95 45" stroke="url(#grad5)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.3"/>
+                    <circle cx="25" cy="85" r="4" fill="#00d4aa"/>
+                    <circle cx="45" cy="65" r="4" fill="#00d4aa"/>
+                    <circle cx="60" cy="30" r="6" fill="#00f5c4"/>
+                    <circle cx="75" cy="65" r="4" fill="#00d4aa"/>
+                    <circle cx="95" cy="45" r="4" fill="#00d4aa"/>
+                    <line x1="20" y1="90" x2="100" y2="90" stroke="rgba(0,212,170,0.15)" stroke-width="1"/>
+                    <line x1="20" y1="75" x2="100" y2="75" stroke="rgba(0,212,170,0.1)" stroke-width="1"/>
+                </svg>
+                
+                <div class="app-name">AlphaAdvisor</div>
+                <div class="tagline">AI Stock Analysis & Expert Advice</div>
+                
+                <div class="hero-title">Smart AI Analysis<br>+ Expert Guidance</div>
+                <div class="hero-subtitle">Combining AI-powered algorithms with expert insights to support your investment decisions</div>
+                
+                <div class="features-row">
+                    <div class="feature-pill">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="#00d4aa" stroke-width="2">
+                            <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/>
+                        </svg>
+                        AI Analysis
+                    </div>
+                    <div class="feature-pill">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="#7c5cff" stroke-width="2">
+                            <circle cx="12" cy="8" r="4"/>
+                            <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/>
+                        </svg>
+                        Expert Advisor
+                    </div>
+                    <div class="feature-pill">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="#ffd700" stroke-width="2">
+                            <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/>
+                        </svg>
+                        Free
+                    </div>
+                </div>
+                
+                <div class="phone-mockup">
+                    <div class="mockup-header">
+                        <span class="mockup-title">AAPL Analysis</span>
+                        <span class="mockup-badge">Buy</span>
+                    </div>
+                    <div class="chart-area">
+                        <svg width="100%" height="100%" viewBox="0 0 300 180">
+                            <defs>
+                                <linearGradient id="chartGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+                                    <stop offset="0%" style="stop-color:#00d4aa;stop-opacity:0.3"/>
+                                    <stop offset="100%" style="stop-color:#00d4aa;stop-opacity:0"/>
+                                </linearGradient>
+                            </defs>
+                            <path d="M0 140 Q40 130, 80 110 T160 80 T240 50 T300 30" stroke="#00d4aa" stroke-width="3" fill="none"/>
+                            <path d="M0 140 Q40 130, 80 110 T160 80 T240 50 T300 30 V180 H0 Z" fill="url(#chartGrad)"/>
+                        </svg>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Screenshot 2: Expert 1-on-1 -->
+        <div class="screenshot screenshot-2">
+            <div class="content">
+                <div class="header-text">
+                    <div class="main-title">1-on-1 Expert Advice</div>
+                    <div class="main-subtitle">Get personalized guidance from senior analysts</div>
+                </div>
+                
+                <div class="expert-card">
+                    <div class="expert-header">
+                        <div class="expert-avatar">👨‍💼</div>
+                        <div class="expert-info">
+                            <h4>James Chen</h4>
+                            <p>Senior Investment Analyst</p>
+                        </div>
+                    </div>
+                    <div class="expert-stats">
+                        <div class="stat">
+                            <div class="stat-value">12+</div>
+                            <div class="stat-label">Years Exp</div>
+                        </div>
+                        <div class="stat">
+                            <div class="stat-value">89%</div>
+                            <div class="stat-label">Accuracy</div>
+                        </div>
+                        <div class="stat">
+                            <div class="stat-value">5.2k</div>
+                            <div class="stat-label">Clients</div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="chat-preview">
+                    <div class="chat-message user">
+                        <div class="chat-bubble">Is META's valuation reasonable now? Good time to enter?</div>
+                    </div>
+                    <div class="chat-message expert">
+                        <div class="chat-bubble">META's P/E is around 23x. Given AI ad business growth potential, valuation is reasonable. Consider DCA, keep position under 15%.</div>
+                    </div>
+                    <div class="chat-message user">
+                        <div class="chat-bubble">What about technicals?</div>
+                    </div>
+                    <div class="chat-message expert">
+                        <div class="chat-bubble">Daily MACD golden cross, holding above 20MA. Short-term support at $710. Consider setting stop-loss there.</div>
+                    </div>
+                </div>
+                
+                <div class="cta-button">💬 Chat with Expert Now</div>
+            </div>
+        </div>
+        
+        <!-- Screenshot 3: Real-time Quotes -->
+        <div class="screenshot screenshot-3">
+            <div class="content">
+                <div class="header-text">
+                    <div class="main-title">Real-Time Tracking</div>
+                    <div class="main-subtitle">Global Markets · Live Updates</div>
+                </div>
+                
+                <div class="stock-list">
+                    <div class="stock-item">
+                        <div class="stock-left">
+                            <div class="stock-dot green"></div>
+                            <div>
+                                <div class="stock-name">Apple</div>
+                                <div class="stock-symbol">AAPL</div>
+                            </div>
+                        </div>
+                        <svg class="mini-chart" viewBox="0 0 80 40">
+                            <path d="M0 32 L16 24 L32 28 L48 16 L64 20 L80 8" stroke="#00d4aa" stroke-width="2" fill="none"/>
+                        </svg>
+                        <div class="stock-right">
+                            <div class="stock-price">$258.28</div>
+                            <div class="stock-change positive">+0.72%</div>
+                        </div>
+                    </div>
+                    
+                    <div class="stock-item">
+                        <div class="stock-left">
+                            <div class="stock-dot red"></div>
+                            <div>
+                                <div class="stock-name">Amazon</div>
+                                <div class="stock-symbol">AMZN</div>
+                            </div>
+                        </div>
+                        <svg class="mini-chart" viewBox="0 0 80 40">
+                            <path d="M0 12 L16 16 L32 20 L48 24 L64 22 L80 30" stroke="#ff6b6b" stroke-width="2" fill="none"/>
+                        </svg>
+                        <div class="stock-right">
+                            <div class="stock-price">$241.73</div>
+                            <div class="stock-change negative">-0.53%</div>
+                        </div>
+                    </div>
+                    
+                    <div class="stock-item">
+                        <div class="stock-left">
+                            <div class="stock-dot green"></div>
+                            <div>
+                                <div class="stock-name">Alphabet</div>
+                                <div class="stock-symbol">GOOGL</div>
+                            </div>
+                        </div>
+                        <svg class="mini-chart" viewBox="0 0 80 40">
+                            <path d="M0 30 L16 24 L32 26 L48 20 L64 16 L80 12" stroke="#00d4aa" stroke-width="2" fill="none"/>
+                        </svg>
+                        <div class="stock-right">
+                            <div class="stock-price">$338.25</div>
+                            <div class="stock-change positive">+0.67%</div>
+                        </div>
+                    </div>
+                    
+                    <div class="stock-item">
+                        <div class="stock-left">
+                            <div class="stock-dot green"></div>
+                            <div>
+                                <div class="stock-name">Meta</div>
+                                <div class="stock-symbol">META</div>
+                            </div>
+                        </div>
+                        <svg class="mini-chart" viewBox="0 0 80 40">
+                            <path d="M0 36 L16 30 L32 24 L48 16 L64 10 L80 5" stroke="#00d4aa" stroke-width="2" fill="none"/>
+                        </svg>
+                        <div class="stock-right">
+                            <div class="stock-price">$738.31</div>
+                            <div class="stock-change positive">+10.40%</div>
+                        </div>
+                    </div>
+                    
+                    <div class="stock-item">
+                        <div class="stock-left">
+                            <div class="stock-dot red"></div>
+                            <div>
+                                <div class="stock-name">Microsoft</div>
+                                <div class="stock-symbol">MSFT</div>
+                            </div>
+                        </div>
+                        <svg class="mini-chart" viewBox="0 0 80 40">
+                            <path d="M0 8 L16 14 L32 20 L48 26 L64 30 L80 34" stroke="#ff6b6b" stroke-width="2" fill="none"/>
+                        </svg>
+                        <div class="stock-right">
+                            <div class="stock-price">$433.50</div>
+                            <div class="stock-change negative">-9.99%</div>
+                        </div>
+                    </div>
+                    
+                    <div class="stock-item">
+                        <div class="stock-left">
+                            <div class="stock-dot red"></div>
+                            <div>
+                                <div class="stock-name">Netflix</div>
+                                <div class="stock-symbol">NFLX</div>
+                            </div>
+                        </div>
+                        <svg class="mini-chart" viewBox="0 0 80 40">
+                            <path d="M0 16 L16 20 L32 18 L48 24 L64 28 L80 26" stroke="#ff6b6b" stroke-width="2" fill="none"/>
+                        </svg>
+                        <div class="stock-right">
+                            <div class="stock-price">$83.16</div>
+                            <div class="stock-change negative">-1.75%</div>
+                        </div>
+                    </div>
+                    
+                    <div class="stock-item">
+                        <div class="stock-left">
+                            <div class="stock-dot green"></div>
+                            <div>
+                                <div class="stock-name">Nvidia</div>
+                                <div class="stock-symbol">NVDA</div>
+                            </div>
+                        </div>
+                        <svg class="mini-chart" viewBox="0 0 80 40">
+                            <path d="M0 26 L16 24 L32 20 L48 22 L64 18 L80 16" stroke="#00d4aa" stroke-width="2" fill="none"/>
+                        </svg>
+                        <div class="stock-right">
+                            <div class="stock-price">$192.51</div>
+                            <div class="stock-change positive">+0.52%</div>
+                        </div>
+                    </div>
+                    
+                    <div class="stock-item">
+                        <div class="stock-left">
+                            <div class="stock-dot red"></div>
+                            <div>
+                                <div class="stock-name">Tesla</div>
+                                <div class="stock-symbol">TSLA</div>
+                            </div>
+                        </div>
+                        <svg class="mini-chart" viewBox="0 0 80 40">
+                            <path d="M0 10 L16 14 L32 18 L48 16 L64 22 L80 26" stroke="#ff6b6b" stroke-width="2" fill="none"/>
+                        </svg>
+                        <div class="stock-right">
+                            <div class="stock-price">$416.56</div>
+                            <div class="stock-change negative">-3.45%</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Screenshot 4: AI Analysis Report -->
+        <div class="screenshot screenshot-4">
+            <div class="content">
+                <div class="header-text">
+                    <div class="main-title">AI Analysis Reports</div>
+                    <div class="main-subtitle">Deep Analysis · Recommendations · Risk Assessment</div>
+                </div>
+                
+                <div class="analysis-card">
+                    <div class="analysis-header">
+                        <div class="analysis-stock">
+                            <div class="stock-icon">🍎</div>
+                            <div>
+                                <h4>Apple Inc.</h4>
+                                <p>NASDAQ: AAPL</p>
+                            </div>
+                        </div>
+                        <div class="ai-badge">AI Report</div>
+                    </div>
+                    
+                    <div class="metrics-grid">
+                        <div class="metric">
+                            <div class="metric-value">Buy</div>
+                            <div class="metric-label">Rating</div>
+                        </div>
+                        <div class="metric">
+                            <div class="metric-value">$285</div>
+                            <div class="metric-label">Target</div>
+                        </div>
+                        <div class="metric">
+                            <div class="metric-value">Medium</div>
+                            <div class="metric-label">Risk</div>
+                        </div>
+                    </div>
+                    
+                    <div class="analysis-summary">
+                        <strong>AI Summary:</strong> Apple shows solid fundamentals with growing services revenue. iPhone 16 sales exceed expectations, AI integration may drive upgrade cycle. Consider building position in $250-260 range.
+                    </div>
+                </div>
+                
+                <div class="analysis-card">
+                    <div class="analysis-header">
+                        <div class="analysis-stock">
+                            <div class="stock-icon">Ⓜ️</div>
+                            <div>
+                                <h4>Meta Platforms</h4>
+                                <p>NASDAQ: META</p>
+                            </div>
+                        </div>
+                        <div class="ai-badge">AI Report</div>
+                    </div>
+                    
+                    <div class="metrics-grid">
+                        <div class="metric">
+                            <div class="metric-value">Strong Buy</div>
+                            <div class="metric-label">Rating</div>
+                        </div>
+                        <div class="metric">
+                            <div class="metric-value">$850</div>
+                            <div class="metric-label">Target</div>
+                        </div>
+                        <div class="metric">
+                            <div class="metric-value">Med-High</div>
+                            <div class="metric-label">Risk</div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="rating-section">
+                    <div class="rating-label">AI Confidence Score</div>
+                    <div class="rating-value">85%</div>
+                    <div class="rating-bar">
+                        <div class="rating-fill"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Screenshot 5: News -->
+        <div class="screenshot screenshot-5">
+            <div class="content">
+                <div class="header-text">
+                    <div class="main-title">Market News</div>
+                    <div class="main-subtitle">Breaking Updates · Real-Time Alerts</div>
+                </div>
+                
+                <div class="news-list">
+                    <div class="news-item">
+                        <div class="news-source">MarketWatch</div>
+                        <div class="news-title">Trump sues IRS, Treasury for $10 billion over leak of his tax returns</div>
+                        <div class="news-meta">
+                            <span>5 hours ago</span>
+                            <span class="news-tag">Politics</span>
+                        </div>
+                    </div>
+                    
+                    <div class="news-item">
+                        <div class="news-source">MarketWatch</div>
+                        <div class="news-title">Trump throws down new tariff threats toward Canada and Mexico</div>
+                        <div class="news-meta">
+                            <span>7 hours ago</span>
+                            <span class="news-tag">Trade</span>
+                        </div>
+                    </div>
+                    
+                    <div class="news-item">
+                        <div class="news-source">Wall Street Journal</div>
+                        <div class="news-title">OpenAI reportedly eyeing an IPO by year's end, ahead of Anthropic</div>
+                        <div class="news-meta">
+                            <span>7 hours ago</span>
+                            <span class="news-tag">Tech</span>
+                        </div>
+                    </div>
+                    
+                    <div class="news-item">
+                        <div class="news-source">MarketWatch</div>
+                        <div class="news-title">Apple's stock rises as Tim Cook gives just enough detail on AI plans</div>
+                        <div class="news-meta">
+                            <span>8 hours ago</span>
+                            <span class="news-tag">Earnings</span>
+                        </div>
+                    </div>
+                    
+                    <div class="news-item">
+                        <div class="news-source">CNBC</div>
+                        <div class="news-title">Cramer: Microsoft and Meta earnings offer different signals for investors</div>
+                        <div class="news-meta">
+                            <span>9 hours ago</span>
+                            <span class="news-tag">Analysis</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="download-cta">
+                    <h4>Download AlphaAdvisor</h4>
+                    <p>Start Your Smart Investing Journey</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

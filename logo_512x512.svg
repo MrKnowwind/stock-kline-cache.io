@@ -1,0 +1,27 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="grad5" x1="0%" y1="100%" x2="100%" y2="0%">
+            <stop offset="0%" style="stop-color:#00d4aa"/>
+            <stop offset="100%" style="stop-color:#00f5c4"/>
+        </linearGradient>
+        <linearGradient id="grad5bg" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#0a1628"/>
+            <stop offset="100%" style="stop-color:#152238"/>
+        </linearGradient>
+    </defs>
+    <rect width="512" height="512" rx="111" fill="url(#grad5bg)"/>
+    <!-- Chart line forming A shape -->
+    <path d="M107 363L192 277L256 128L320 277L405 192" stroke="url(#grad5)" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <!-- Glow effect -->
+    <path d="M107 363L192 277L256 128L320 277L405 192" stroke="url(#grad5)" stroke-width="34" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.3"/>
+    <!-- Data points -->
+    <circle cx="107" cy="363" r="17" fill="#00d4aa"/>
+    <circle cx="192" cy="277" r="17" fill="#00d4aa"/>
+    <circle cx="256" cy="128" r="26" fill="#00f5c4"/>
+    <circle cx="320" cy="277" r="17" fill="#00d4aa"/>
+    <circle cx="405" cy="192" r="17" fill="#00d4aa"/>
+    <!-- Horizontal lines -->
+    <line x1="85" y1="384" x2="427" y2="384" stroke="rgba(0,212,170,0.15)" stroke-width="4"/>
+    <line x1="85" y1="320" x2="427" y2="320" stroke="rgba(0,212,170,0.1)" stroke-width="4"/>
+    <line x1="85" y1="256" x2="427" y2="256" stroke="rgba(0,212,170,0.1)" stroke-width="4"/>
+</svg>

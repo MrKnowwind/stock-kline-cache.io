@@ -1,0 +1,568 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AlphaAdvisor - Feature Graphic 1024x500</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Inter', sans-serif;
+            background: #1a1a2e;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 40px;
+        }
+        
+        h1 {
+            color: #fff;
+            margin-bottom: 10px;
+            font-size: 1.5rem;
+        }
+        
+        .subtitle {
+            color: #888;
+            margin-bottom: 30px;
+            font-size: 0.9rem;
+        }
+        
+        .feature-graphic {
+            width: 1024px;
+            height: 500px;
+            border-radius: 0;
+            overflow: hidden;
+            position: relative;
+            background: linear-gradient(135deg, #0a0a1a 0%, #0d1525 30%, #1a1a3a 70%, #0f0f25 100%);
+            box-shadow: 0 30px 100px rgba(0,0,0,0.6);
+        }
+        
+        /* Background elements */
+        .bg-grid {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            opacity: 0.15;
+            background-image: 
+                linear-gradient(rgba(0,212,170,0.1) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(0,212,170,0.1) 1px, transparent 1px);
+            background-size: 40px 40px;
+        }
+        
+        .bg-glow-1 {
+            position: absolute;
+            width: 400px;
+            height: 400px;
+            background: radial-gradient(circle, rgba(0,212,170,0.15) 0%, transparent 70%);
+            top: -100px;
+            right: 100px;
+        }
+        
+        .bg-glow-2 {
+            position: absolute;
+            width: 300px;
+            height: 300px;
+            background: radial-gradient(circle, rgba(124,92,255,0.12) 0%, transparent 70%);
+            bottom: -50px;
+            left: 200px;
+        }
+        
+        /* Content layout */
+        .content {
+            position: relative;
+            z-index: 10;
+            display: flex;
+            height: 100%;
+            padding: 50px 60px;
+            align-items: center;
+        }
+        
+        .left-section {
+            flex: 1;
+            padding-right: 40px;
+        }
+        
+        .right-section {
+            flex: 0 0 420px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        /* Logo and branding */
+        .brand-row {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            margin-bottom: 24px;
+        }
+        
+        .logo-icon {
+            width: 60px;
+            height: 60px;
+        }
+        
+        .brand-text .app-name {
+            font-size: 28px;
+            font-weight: 800;
+            color: #fff;
+            letter-spacing: -0.5px;
+        }
+        
+        .brand-text .tagline {
+            font-size: 12px;
+            color: #00d4aa;
+            font-weight: 500;
+            margin-top: 2px;
+        }
+        
+        /* Main headline */
+        .headline {
+            font-size: 42px;
+            font-weight: 900;
+            color: #fff;
+            line-height: 1.15;
+            margin-bottom: 16px;
+            letter-spacing: -1px;
+        }
+        
+        .headline .highlight {
+            background: linear-gradient(90deg, #00d4aa, #00f5c4);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        
+        .headline .highlight-purple {
+            background: linear-gradient(90deg, #7c5cff, #a78bff);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        
+        .subheadline {
+            font-size: 15px;
+            color: #888;
+            line-height: 1.6;
+            margin-bottom: 28px;
+            max-width: 420px;
+        }
+        
+        /* Feature pills */
+        .features-row {
+            display: flex;
+            gap: 12px;
+        }
+        
+        .feature-pill {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            padding: 10px 16px;
+            background: rgba(255,255,255,0.05);
+            border: 1px solid rgba(255,255,255,0.1);
+            border-radius: 24px;
+            font-size: 12px;
+            color: #ccc;
+            font-weight: 500;
+        }
+        
+        .feature-pill svg {
+            width: 16px;
+            height: 16px;
+        }
+        
+        .feature-pill.highlight {
+            background: rgba(0,212,170,0.1);
+            border-color: rgba(0,212,170,0.3);
+            color: #00d4aa;
+        }
+        
+        /* Phone mockup */
+        .phone-mockup {
+            width: 220px;
+            height: 380px;
+            background: linear-gradient(145deg, #1e1e3a, #151530);
+            border-radius: 32px;
+            border: 3px solid rgba(255,255,255,0.1);
+            padding: 12px;
+            position: relative;
+            box-shadow: 
+                0 30px 60px rgba(0,0,0,0.4),
+                0 0 0 1px rgba(255,255,255,0.05),
+                inset 0 1px 0 rgba(255,255,255,0.1);
+        }
+        
+        .phone-notch {
+            width: 80px;
+            height: 24px;
+            background: #0a0a15;
+            border-radius: 12px;
+            margin: 0 auto 12px;
+        }
+        
+        .phone-screen {
+            background: #0a0a15;
+            border-radius: 20px;
+            height: calc(100% - 36px);
+            padding: 16px 12px;
+            overflow: hidden;
+        }
+        
+        .screen-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 16px;
+        }
+        
+        .screen-title {
+            font-size: 14px;
+            font-weight: 700;
+            color: #fff;
+        }
+        
+        .ai-badge {
+            background: linear-gradient(135deg, #00d4aa, #00f5c4);
+            color: #000;
+            font-size: 8px;
+            font-weight: 700;
+            padding: 4px 8px;
+            border-radius: 8px;
+            text-transform: uppercase;
+        }
+        
+        .stock-card {
+            background: rgba(255,255,255,0.03);
+            border: 1px solid rgba(255,255,255,0.08);
+            border-radius: 12px;
+            padding: 12px;
+            margin-bottom: 10px;
+        }
+        
+        .stock-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+        
+        .stock-info {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        .stock-icon {
+            width: 28px;
+            height: 28px;
+            background: linear-gradient(135deg, #333, #222);
+            border-radius: 6px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 12px;
+        }
+        
+        .stock-name {
+            font-size: 12px;
+            font-weight: 600;
+            color: #fff;
+        }
+        
+        .stock-symbol {
+            font-size: 9px;
+            color: #666;
+        }
+        
+        .stock-price {
+            text-align: right;
+        }
+        
+        .price-value {
+            font-size: 12px;
+            font-weight: 700;
+            color: #fff;
+        }
+        
+        .price-change {
+            font-size: 10px;
+            color: #00d4aa;
+            font-weight: 500;
+        }
+        
+        .stock-metrics {
+            display: flex;
+            gap: 8px;
+        }
+        
+        .metric {
+            flex: 1;
+            text-align: center;
+            padding: 8px 4px;
+            background: rgba(0,212,170,0.08);
+            border-radius: 8px;
+        }
+        
+        .metric-value {
+            font-size: 11px;
+            font-weight: 700;
+            color: #00d4aa;
+        }
+        
+        .metric-label {
+            font-size: 7px;
+            color: #888;
+            text-transform: uppercase;
+            margin-top: 2px;
+        }
+        
+        .chart-preview {
+            margin-top: 12px;
+            height: 60px;
+            position: relative;
+        }
+        
+        /* Floating elements */
+        .float-card {
+            position: absolute;
+            background: rgba(20,20,40,0.95);
+            border: 1px solid rgba(255,255,255,0.1);
+            border-radius: 12px;
+            padding: 10px 14px;
+            backdrop-filter: blur(10px);
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+        }
+        
+        .float-card-1 {
+            top: 60px;
+            right: -30px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        .float-card-1 .icon {
+            width: 28px;
+            height: 28px;
+            background: linear-gradient(135deg, #7c5cff, #a78bff);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 12px;
+        }
+        
+        .float-card-1 .text {
+            font-size: 10px;
+            color: #fff;
+            font-weight: 600;
+        }
+        
+        .float-card-1 .subtext {
+            font-size: 8px;
+            color: #a78bff;
+        }
+        
+        .float-card-2 {
+            bottom: 80px;
+            left: -40px;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+        
+        .float-card-2 .signal {
+            width: 8px;
+            height: 8px;
+            background: #00d4aa;
+            border-radius: 50%;
+            animation: pulse 2s infinite;
+        }
+        
+        @keyframes pulse {
+            0%, 100% { opacity: 1; transform: scale(1); }
+            50% { opacity: 0.5; transform: scale(1.2); }
+        }
+        
+        .float-card-2 .text {
+            font-size: 10px;
+            color: #00d4aa;
+            font-weight: 600;
+        }
+    </style>
+</head>
+<body>
+    <h1>AlphaAdvisor - Feature Graphic</h1>
+    <p class="subtitle">Google Play Store Banner (1024 × 500) - Actual Size</p>
+    
+    <div class="feature-graphic">
+        <!-- Background elements -->
+        <div class="bg-grid"></div>
+        <div class="bg-glow-1"></div>
+        <div class="bg-glow-2"></div>
+        
+        <div class="content">
+            <div class="left-section">
+                <!-- Brand -->
+                <div class="brand-row">
+                    <svg class="logo-icon" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <defs>
+                            <linearGradient id="grad5" x1="0%" y1="100%" x2="100%" y2="0%">
+                                <stop offset="0%" style="stop-color:#00d4aa"/>
+                                <stop offset="100%" style="stop-color:#00f5c4"/>
+                            </linearGradient>
+                            <linearGradient id="grad5bg" x1="0%" y1="0%" x2="100%" y2="100%">
+                                <stop offset="0%" style="stop-color:#0a1628"/>
+                                <stop offset="100%" style="stop-color:#152238"/>
+                            </linearGradient>
+                        </defs>
+                        <rect width="120" height="120" rx="26" fill="url(#grad5bg)"/>
+                        <path d="M25 85L45 65L60 30L75 65L95 45" stroke="url(#grad5)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                        <path d="M25 85L45 65L60 30L75 65L95 45" stroke="url(#grad5)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.3"/>
+                        <circle cx="25" cy="85" r="4" fill="#00d4aa"/>
+                        <circle cx="45" cy="65" r="4" fill="#00d4aa"/>
+                        <circle cx="60" cy="30" r="6" fill="#00f5c4"/>
+                        <circle cx="75" cy="65" r="4" fill="#00d4aa"/>
+                        <circle cx="95" cy="45" r="4" fill="#00d4aa"/>
+                        <line x1="20" y1="90" x2="100" y2="90" stroke="rgba(0,212,170,0.15)" stroke-width="1"/>
+                        <line x1="20" y1="75" x2="100" y2="75" stroke="rgba(0,212,170,0.1)" stroke-width="1"/>
+                    </svg>
+                    <div class="brand-text">
+                        <div class="app-name">AlphaAdvisor</div>
+                        <div class="tagline">AI Stock Analysis & Expert Advice</div>
+                    </div>
+                </div>
+                
+                <!-- Headline -->
+                <div class="headline">
+                    <span class="highlight">AI-Powered</span> Analysis<br>
+                    <span class="highlight-purple">Expert</span> Guidance
+                </div>
+                
+                <div class="subheadline">
+                    Get instant AI stock predictions and personalized 1-on-1 advice from senior investment analysts.
+                </div>
+                
+                <!-- Features -->
+                <div class="features-row">
+                    <div class="feature-pill highlight">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/>
+                        </svg>
+                        AI Analysis
+                    </div>
+                    <div class="feature-pill">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="#7c5cff" stroke-width="2">
+                            <circle cx="12" cy="8" r="4"/>
+                            <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/>
+                        </svg>
+                        1-on-1 Expert
+                    </div>
+                    <div class="feature-pill">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="#ffd700" stroke-width="2">
+                            <path d="M22 12h-4l-3 9L9 3l-3 9H2"/>
+                        </svg>
+                        Real-Time Data
+                    </div>
+                </div>
+            </div>
+            
+            <div class="right-section">
+                <div class="phone-mockup">
+                    <div class="phone-notch"></div>
+                    <div class="phone-screen">
+                        <div class="screen-header">
+                            <span class="screen-title">AI Analysis</span>
+                            <span class="ai-badge">Live</span>
+                        </div>
+                        
+                        <div class="stock-card">
+                            <div class="stock-header">
+                                <div class="stock-info">
+                                    <div class="stock-icon">🍎</div>
+                                    <div>
+                                        <div class="stock-name">Apple Inc.</div>
+                                        <div class="stock-symbol">AAPL</div>
+                                    </div>
+                                </div>
+                                <div class="stock-price">
+                                    <div class="price-value">$258.28</div>
+                                    <div class="price-change">+0.72%</div>
+                                </div>
+                            </div>
+                            <div class="stock-metrics">
+                                <div class="metric">
+                                    <div class="metric-value">Buy</div>
+                                    <div class="metric-label">Rating</div>
+                                </div>
+                                <div class="metric">
+                                    <div class="metric-value">$285</div>
+                                    <div class="metric-label">Target</div>
+                                </div>
+                                <div class="metric">
+                                    <div class="metric-value">85%</div>
+                                    <div class="metric-label">Confidence</div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="stock-card">
+                            <div class="stock-header">
+                                <div class="stock-info">
+                                    <div class="stock-icon">Ⓜ️</div>
+                                    <div>
+                                        <div class="stock-name">Meta</div>
+                                        <div class="stock-symbol">META</div>
+                                    </div>
+                                </div>
+                                <div class="stock-price">
+                                    <div class="price-value">$738.31</div>
+                                    <div class="price-change">+10.40%</div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="chart-preview">
+                            <svg width="100%" height="100%" viewBox="0 0 200 60" preserveAspectRatio="none">
+                                <defs>
+                                    <linearGradient id="chartGradBanner" x1="0%" y1="0%" x2="0%" y2="100%">
+                                        <stop offset="0%" style="stop-color:#00d4aa;stop-opacity:0.3"/>
+                                        <stop offset="100%" style="stop-color:#00d4aa;stop-opacity:0"/>
+                                    </linearGradient>
+                                </defs>
+                                <path d="M0 50 Q30 45, 50 35 T100 28 T150 18 T200 10" stroke="#00d4aa" stroke-width="2" fill="none"/>
+                                <path d="M0 50 Q30 45, 50 35 T100 28 T150 18 T200 10 V60 H0 Z" fill="url(#chartGradBanner)"/>
+                            </svg>
+                        </div>
+                    </div>
+                    
+                    <!-- Floating cards -->
+                    <div class="float-card float-card-1">
+                        <div class="icon">👨‍💼</div>
+                        <div>
+                            <div class="text">Expert Online</div>
+                            <div class="subtext">Ready to help</div>
+                        </div>
+                    </div>
+                    
+                    <div class="float-card float-card-2">
+                        <div class="signal"></div>
+                        <div class="text">Live Analysis</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
