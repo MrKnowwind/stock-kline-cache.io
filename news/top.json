@@ -1,5 +1,120 @@
 [
   {
+    "id": "7573746",
+    "headline": "Why the market is worried about Lilly's earnings but cautiously optimistic about housing stocks",
+    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+    "url": "https://www.cnbc.com/2026/02/03/why-the-market-is-worried-about-lillys-earnings-but-cautiously-optimistic-on-housing.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108074395-1733921894135-01_Ro_1920x1080.png?v=1736786634&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1770150340,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770153602,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "The market is concerned about Eli Lilly's upcoming earnings due to the disappointing guidance from Novo Nordisk, a major competitor in the GLP-1 market. Novo's weak forecast was driven by a decline in US sales due to lower realized prices and increased competition. This has raised concerns that Eli Lilly's pricing and volume trends may not be enough to offset the decline in prices. The market is bracing for some disappointment from Eli Lilly's earnings, which could lead to a sell-off in the stock.",
+      "impact": "The potential impact on Eli Lilly's stock is a short-term sell-off, potentially driven by the market's expectation of disappointing earnings. This could lead to a decline in the stock price, affecting its valuation and sentiment. The medium-term impact will depend on the company's ability to offset the decline in prices with increased volumes and patient access. The overall market sentiment towards the pharmaceutical industry could also be affected by the earnings results.",
+      "risks": [
+        "disappointing earnings risk",
+        "pricing pressure risk",
+        "competition risk"
+      ]
+    }
+  },
+  {
+    "id": "7573744",
+    "headline": "These 2 charts show why buying a house is the hardest it’s been in decades",
+    "summary": "Home buyers across America have had little relief from sky-high home prices over the last few years. Two charts explain why that’s not likely to change soon.",
+    "url": "https://www.marketwatch.com/story/these-2-charts-show-why-buying-a-house-is-the-hardest-its-been-in-decades-b291d44d",
+    "source": "MarketWatch",
+    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+    "relatedSymbols": [],
+    "publishedAt": 1770150240,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770153648,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The article highlights the challenging environment for homebuyers in the US, citing two charts that illustrate the difficulties in purchasing a house. The charts show that home prices have been increasing steadily over the past few years, with little relief in sight. This is largely due to a shortage of housing supply, driven by a combination of factors including low construction rates and high demand. As a result, homebuyers are facing significant challenges in affording homes, which is likely to have a negative impact on the housing market and related industries.",
+      "impact": "The news is likely to have a negative impact on homebuilders and real estate companies, as they may face reduced demand and lower sales. This could lead to a decline in earnings for these companies in the short-term, as they struggle to adapt to the changing market conditions. In the medium-term, the reduced demand may also lead to a decrease in housing prices, which could further exacerbate the challenges faced by homebuyers.",
+      "risks": [
+        "housing market slowdown risk",
+        "reduced demand risk",
+        "earnings decline risk"
+      ]
+    }
+  },
+  {
+    "id": "7573745",
+    "headline": "Apple adds agents from Anthropic and OpenAI to its coding tool",
+    "summary": "Apple is introducing agentic coding to Xcode, jumping into one of the biggest trends in technology.",
+    "url": "https://www.cnbc.com/2026/02/03/apple-adds-agentic-coding-from-anthropic-and-openai-to-xcode.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108156731-1749494285081-gettyimages-2218819408-APPLE_WWDC.jpeg?v=1770148506&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1770150233,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770153698,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Apple is introducing agentic coding to its Xcode tool, leveraging AI software from Anthropic and OpenAI. This move positions Apple as a leader in the AI-powered coding trend, which is gaining traction among iPhone developers. The integration will allow programmers to use AI to build, test, and fix projects, and Apple's open standard will enable the use of other compatible agents and AI tools. This development is a step forward for Apple's developer environment, Xcode, and is likely to increase its appeal to developers.",
+      "impact": "The introduction of agentic coding in Xcode is likely to have a positive impact on Apple's earnings outlook, particularly in the medium term. As more developers adopt AI-powered coding, Apple's Xcode will become an even more essential tool, potentially leading to increased revenue and market share. The move may also boost Apple's sentiment and valuation, as investors become more optimistic about the company's innovation and leadership in the tech industry.",
+      "risks": [
+        "Integration risk: the successful adoption of agentic coding in Xcode relies on the seamless integration of Anthropic's Claude Agent and OpenAI's Codex, which may face technical challenges or delays.",
+        "Dependence on AI technology risk: Apple's reliance on AI-powered coding tools may increase its dependence on these technologies, which are still evolving and may pose risks to the company's operations and revenue.",
+        "Competition risk: other tech companies may follow Apple's lead and introduce similar AI-powered coding tools, potentially increasing competition in the market."
+      ]
+    }
+  },
+  {
+    "id": "7573741",
+    "headline": "Oracle’s monster $25 billion debt financing points to anxieties around AI funding",
+    "summary": "Oracle plans to raise up to another $25 billion this year but said the sales would be either equity or equity-linked issuances.",
+    "url": "https://www.marketwatch.com/story/oracles-monster-25-billion-debt-financing-points-to-anxieties-around-ai-funding-b92c634b",
+    "source": "MarketWatch",
+    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+    "relatedSymbols": [],
+    "publishedAt": 1770149520,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770153748,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Oracle's plan to raise up to $25 billion in debt financing, with the option to issue equity or equity-linked securities, suggests that the company is facing significant funding anxieties related to its AI investments. This move may indicate that Oracle is struggling to generate sufficient cash flow from its existing operations to support its AI initiatives. The company's reliance on debt financing could lead to increased interest expenses and reduced profitability, potentially impacting its earnings outlook. This development may also raise concerns about the viability of Oracle's AI strategy and its ability to compete with other tech giants in the space.",
+      "impact": "The potential impact on Oracle's stock could be negative in the short term, as investors may view the company's increased reliance on debt as a sign of financial strain. This could lead to a decrease in the stock price and a reevaluation of the company's valuation. In the medium term, Oracle's earnings outlook may be impacted by the increased interest expenses associated with its debt financing, potentially leading to lower earnings per share and a reduced stock price.",
+      "risks": [
+        "Increased interest expenses risk",
+        "Reduced profitability risk",
+        "Earnings outlook risk"
+      ]
+    }
+  },
+  {
+    "id": "7573742",
+    "headline": "Bye-bye, Bahama Breeze: Olive Garden parent gives up on restaurant chain after years of struggles",
+    "summary": "The Bahama Breeze restaurant chain is closing, with half of the restaurants being shuttered and the other half converting to parent company Darden’s other brands.",
+    "url": "https://www.marketwatch.com/story/bye-bye-bahama-breeze-olive-garden-parent-gives-up-on-restaurant-chain-after-years-of-struggles-8386861a",
+    "source": "MarketWatch",
+    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+    "relatedSymbols": [],
+    "publishedAt": 1770149280,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770153797,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Darden Restaurants, the parent company of Olive Garden, is closing the Bahama Breeze restaurant chain after years of struggles. The company will shutter half of the locations and convert the remaining half to its other brands. This move is a strategic shift in response to declining sales and increased competition in the casual dining industry. The closure of Bahama Breeze is a sign of the challenges faced by traditional casual dining chains, which have been struggling to adapt to changing consumer preferences and increased competition from fast-casual and quick-service restaurants.",
+      "impact": "The closure of Bahama Breeze is likely to have a negative impact on Darden's earnings outlook, as the chain's sales and profitability will be removed from the company's financials. This could lead to a short-term decline in Darden's stock price, particularly if investors were expecting the Bahama Breeze brand to continue contributing to the company's revenue. However, the conversion of remaining locations to other Darden brands may help to mitigate some of the negative impact on earnings. Medium-term, the closure of Bahama Breeze may also lead to a re-evaluation of Darden's brand portfolio and potentially lead to further consolidation in the casual dining industry.",
+      "risks": [
+        "declining sales risk",
+        "increased competition risk",
+        "brand portfolio risk"
+      ]
+    }
+  },
+  {
     "id": "7573718",
     "headline": "Software stocks sink, extending their historic underperformance. What comes next?",
     "summary": "“Momentum is a powerful force in capital markets,” an analyst says, and right now it’s not on the side of software stocks.",
