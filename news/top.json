@@ -1,5 +1,51 @@
 [
   {
+    "id": "7573392",
+    "headline": "Trump says DOJ should continue Fed Chair Powell probe 'to the end'",
+    "summary": "Sen. Thom Tillis said he would oppose any new Fed nominees until the Powell probe is resolved, the same day Trump announced Kevin Warsh as his Fed chair pick.",
+    "url": "https://www.cnbc.com/2026/02/02/trump-powell-pirro-warsh-fed-tillis.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108260448-17700708562026-02-02t221829z_656758974_rc2xdjase9p1_rtrmadp_0_usa-trump.jpeg?v=1770070894&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1770074660,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770076879,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "President Trump has expressed support for the ongoing investigation into Federal Reserve Chairman Jerome Powell, led by U.S. Attorney Jeanine Pirro. This comes as a response to Sen. Thom Tillis's vow to block Trump's Fed chair replacement pick, Kevin Warsh, unless the probe is dropped. The investigation, which has been ongoing since January, is related to the renovation of the Fed's Washington headquarters and has been criticized by Trump, who has suggested incompetence or corruption. The probe's resolution will impact the Fed's leadership and potentially influence the central bank's monetary policy decisions.",
+      "impact": "The ongoing investigation and potential delays in the Fed's leadership transition may lead to increased uncertainty in the market, negatively impacting the S&P 500 and the overall economy. This could result in a short-term decline in investor sentiment and a potential decrease in stock prices. The medium-term impact may be a shift in the Fed's monetary policy, which could affect interest rates and the overall economy. The lack of a clear timeline for the probe's resolution adds to the uncertainty, making it challenging for investors to make informed decisions.",
+      "risks": [
+        "Regulatory uncertainty risk",
+        "Monetary policy risk",
+        "Market sentiment risk"
+      ]
+    }
+  },
+  {
+    "id": "7573391",
+    "headline": "AMD’s stock rises ahead of earnings. Why investors are feeling upbeat.",
+    "summary": "AMD could do a better job than Intel at capitalizing on the AI-fueled boom in traditional server chips.",
+    "url": "https://www.marketwatch.com/story/amds-stock-rises-ahead-of-earnings-why-investors-are-feeling-upbeat-e027e473",
+    "source": "MarketWatch",
+    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+    "relatedSymbols": [],
+    "publishedAt": 1770073260,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770076927,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "AMD's stock price is rising ahead of its earnings release, driven by investor optimism that the company can capitalize on the growing demand for AI-fueled server chips. This optimism stems from the increasing adoption of artificial intelligence in various industries, which is expected to drive growth in the server chip market. AMD has been gaining ground on Intel in this space, and investors are hoping that the company will continue to gain market share. The company's recent partnerships and investments in AI-related technologies have also contributed to the positive sentiment.",
+      "impact": "The potential impact on AMD's stock is positive, with a possible short-term price increase driven by investor optimism. In the medium term, a strong earnings report could lead to a re-rating of the stock, as investors reassess the company's growth prospects. This could also have a positive impact on the overall semiconductor sector, with other companies such as Intel and NVIDIA potentially benefiting from the trend towards AI-fueled server chips.",
+      "risks": [
+        "Intel's response to AMD's gains in the server chip market",
+        "Potential delays or setbacks in the development of new AI-related technologies",
+        "Increased competition from other players in the server chip market"
+      ]
+    }
+  },
+  {
     "id": "7573388",
     "headline": "SpaceX officially acquires xAI. Here’s how Elon Musk justifies the move.",
     "summary": "Musk says the newest merger of companies he owns is necessary to create “a sentient sun to understand the universe.”",
@@ -122,7 +168,20 @@
     "source": "MarketWatch",
     "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
     "relatedSymbols": [],
-    "publishedAt": 1770065880
+    "publishedAt": 1770065880,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770076973,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The article discusses the software sector, highlighting ServiceNow, Shopify, and Twilio as potential beneficiaries of a potential rebound. However, some analysts believe it's too soon to buy, citing the beaten-down sector's current state. The article suggests that these stocks could rise by as much as 75%, but investors should carefully consider the timing. The software sector has been impacted by the pandemic, leading to a decline in demand and a subsequent drop in stock prices.",
+      "impact": "The article's mention of ServiceNow, Shopify, and Twilio as potential beneficiaries of a rebound could lead to increased investor interest and potentially higher stock prices in the short-term. However, the article's cautionary tone may temper enthusiasm, and investors may be hesitant to buy into the sector. The medium-term impact will depend on the sector's ability to recover from the pandemic-driven decline and the companies' ability to adapt to changing market conditions.",
+      "risks": [
+        "sector recovery risk",
+        "earnings slowdown risk",
+        "valuation risk"
+      ]
+    }
   },
   {
     "id": "7573343",
@@ -132,7 +191,20 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/108146162-1747325587631-gettyimages-2214387536-martinpresser.jpeg?v=1747325614&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1770065584
+    "publishedAt": 1770065584,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770077020,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Ed Martin, a key figure in the Trump administration's DOJ, has been sidelined from investigations and will now work as the U.S. pardon attorney. This move comes after a protracted feud with Deputy Attorney General Todd Blanche. Martin's role in the DOJ's weaponization working group, where he was accused of wielding investigative powers aggressively against Trump's enemies, has been eliminated. This development may indicate a shift in the DOJ's priorities and approach under the Biden administration.",
+      "impact": "The news may have a negative impact on the stocks of companies that have been or may be targeted by the DOJ's investigations, as the reduced presence of Martin may lead to a decrease in the scrutiny and potential penalties they face. However, the medium-term impact may be neutral, as the DOJ's priorities and approach are likely to evolve under the new administration. The news may also have a negative impact on the stock of companies that benefit from the DOJ's aggressive approach, such as those in the defense and law enforcement industries.",
+      "risks": [
+        "regulatory risk",
+        "valuation risk",
+        "sentiment risk"
+      ]
+    }
   },
   {
     "id": "7573338",
@@ -142,7 +214,20 @@
     "source": "MarketWatch",
     "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
     "relatedSymbols": [],
-    "publishedAt": 1770064680
+    "publishedAt": 1770064680,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770077067,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Micron Technology's stock price is significantly above its long-term trend tracker, reminiscent of the dot-com bubble and the Windows 95 craze. This suggests that the stock may be overvalued and due for a correction. Historically, such extreme deviations from trend have led to significant price declines. The article highlights the potential for a reversal in the stock's fortunes, which could have implications for the broader semiconductor industry.",
+      "impact": "The potential correction in Micron's stock price could have a negative impact on the company's valuation, making it less attractive to investors. This, in turn, could lead to a decline in the company's stock price, which may have a ripple effect on the broader semiconductor industry. The correction could also lead to a decrease in investor sentiment, making it more challenging for other companies in the industry to attract investment. The impact may be short-term, with the stock price potentially stabilizing once the correction is complete.",
+      "risks": [
+        "valuation risk",
+        "sentiment risk",
+        "market correction risk"
+      ]
+    }
   },
   {
     "id": "7573336",
