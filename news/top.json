@@ -237,7 +237,20 @@
     "source": "MarketWatch",
     "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
     "relatedSymbols": [],
-    "publishedAt": 1770063900
+    "publishedAt": 1770063900,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770089222,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The January jobs report, a crucial indicator of the US labor market's health, has been delayed due to the ongoing partial government shutdown. This delay is not unprecedented, as similar instances have occurred in the past. However, the postponement may still cause some market volatility, particularly if investors were expecting the report to provide clarity on the state of the economy. The Bureau of Labor Statistics (BLS) has stated that they will release the report as soon as possible, but no specific date has been announced.",
+      "impact": "The delayed jobs report may lead to increased uncertainty and volatility in the short term, potentially affecting the overall market sentiment and investor confidence. This may result in a temporary decline in stock prices of companies that are heavily reliant on the labor market, such as those in the retail and hospitality sectors. In the medium term, the delayed report may lead to a reevaluation of earnings outlook for companies that are sensitive to economic growth and labor market conditions.",
+      "risks": [
+        "Increased market volatility",
+        "Uncertainty around earnings outlook",
+        "Potential decline in investor confidence"
+      ]
+    }
   },
   {
     "id": "7573337",
@@ -247,7 +260,20 @@
     "source": "MarketWatch",
     "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
     "relatedSymbols": [],
-    "publishedAt": 1770063660
+    "publishedAt": 1770063660,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770089269,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Kevin Warsh, a Federal Reserve Governor, is expected to face pressure from President Trump to influence the Fed's monetary policy decisions based on electoral considerations. However, Warsh has emphasized the importance of keeping the Fed out of politics, adhering to its non-partisan role. This stance is crucial in maintaining the Fed's independence and credibility. The article highlights the potential challenges Warsh may face in balancing his responsibilities as a Fed Governor with the pressure from the administration. The background of the story is the ongoing debate about the Fed's role in shaping monetary policy, particularly under the current administration.",
+      "impact": "The news is unlikely to have a direct impact on the stock market in the short term. However, it may contribute to a medium-term increase in volatility in the financial sector, particularly for stocks related to the banking and financial services industry, as investors monitor the potential implications of the Fed's independence on the overall economic outlook. The article's focus on the Fed's role in monetary policy may also influence investor sentiment towards the US dollar and Treasury bonds, potentially affecting the price of these assets.",
+      "risks": [
+        "Increased political pressure on the Fed",
+        "Potential erosion of the Fed's independence",
+        "Volatility in the financial sector"
+      ]
+    }
   },
   {
     "id": "7573332",
@@ -267,7 +293,20 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/108216686-17613229862025-10-24t161127z_525246053_rc2giha5fjds_rtrmadp_0_usa-trump-james.jpeg?v=1761323018&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1770062566
+    "publishedAt": 1770062566,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770089329,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "New York Attorney General Letitia James has issued a warning to consumers about the risks of unregulated prediction markets ahead of the Super Bowl. Prediction markets, such as Kalshi and Polymarket, allow users to trade on various events, including game outcomes and commercial advertisements. James is concerned that these platforms lack consumer protections and may operate as unregulated gambling. She urges New Yorkers to be cautious and protect their money. The warning highlights the risks of insider trading and the lack of regulatory review for these platforms.",
+      "impact": "The warning may lead to increased scrutiny of prediction markets, potentially impacting the valuation of companies associated with these platforms. Kalshi and Polymarket may face regulatory challenges, affecting their business operations and investor sentiment. The news may also raise awareness among consumers, potentially reducing trading volume and revenue for these platforms in the short term. However, the long-term impact on the industry and related stocks remains uncertain.",
+      "risks": [
+        "Regulatory approval risk for Kalshi and Polymarket",
+        "Potential decline in trading volume and revenue for prediction market platforms",
+        "Increased scrutiny and reputational risk for companies associated with prediction markets"
+      ]
+    }
   },
   {
     "id": "7573330",
@@ -277,7 +316,20 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/108260003-1770014784086-gettyimages-2211325932-IMF_WORLD_BANK.jpeg?v=1770052948&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1770061538
+    "publishedAt": 1770061538,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770089377,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Kevin Warsh, a former Fed governor, has been nominated by President Trump to succeed Jerome Powell as Fed chairman. Warsh's past views on monetary policy have been inconsistent, as he was a hawk in 2007 but now advocates for lower rates. This inconsistency may raise concerns about his potential policy decisions. Despite this, Warsh's views on the current economic situation, particularly the potential for a productivity boom due to AI and data center growth, may be seen as positive for the economy.",
+      "impact": "The nomination of Warsh as Fed chairman may have a neutral to slightly positive impact on the overall market, as his views on the economy and monetary policy may align with the current growth trajectory. However, the inconsistency in his past views may raise concerns about his ability to make effective policy decisions, which could lead to increased volatility in the market. This may impact the stock prices of companies that are sensitive to interest rates, such as banks and financial institutions.",
+      "risks": [
+        "Policy uncertainty risk",
+        "Inconsistency in decision-making risk",
+        "Interest rate sensitivity risk"
+      ]
+    }
   },
   {
     "id": "7573323",
