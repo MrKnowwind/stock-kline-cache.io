@@ -1,5 +1,28 @@
 [
   {
+    "id": "7573831",
+    "headline": "Pinterest CEO rebukes, fires 'obstructionist' employees who created tool to track layoffs",
+    "summary": "Pinterest CEO Bill Ready lashed out at staffers who created an internal tool to track layoffs at the company, and fired those involved.",
+    "url": "https://www.cnbc.com/2026/02/03/pinterest-ceo-puts-staffers-on-blast-who-created-tool-to-track-layoffs.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108141285-1746481606912-gettyimages-2213037058-AFP_44KM3X7.jpeg?v=1770149131&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1770168430,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770170474,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Pinterest CEO Bill Ready fired several employees who created an internal tool to track layoffs, citing 'obstructionism'. The layoffs are part of a broader restructuring aimed at directing resources towards AI projects. The company has been investing heavily in AI to compete with Meta and Google. The news comes as investors have raised concerns about the impact of AI-powered chatbots on Pinterest's user base and ad revenue.",
+      "impact": "The news is likely to weigh on Pinterest's stock in the short term, as the layoffs and firings may indicate a lack of confidence in the company's ability to execute its restructuring plans. The medium-term impact will depend on the success of Pinterest's AI initiatives, but the company's increasing investment in AI may lead to increased costs and decreased profitability. The news may also exacerbate concerns about the competitive landscape, particularly from AI-powered chatbots, which could lead to a further decline in Pinterest's stock price.",
+      "risks": [
+        "execution risk: Pinterest's ability to successfully execute its restructuring plans and AI initiatives",
+        "competitive risk: increased competition from AI-powered chatbots and other social media platforms",
+        "valuation risk: Pinterest's stock price may decline further due to concerns about the company's ability to compete in a rapidly changing market"
+      ]
+    }
+  },
+  {
     "id": "7573800",
     "headline": "Stocks fall as S&P 500 dragged down by tech. Is the selling over?",
     "summary": "An ETF focused on software stocks just saw its worst day since April 2025.",
@@ -19,6 +42,29 @@
         "interest rate risk",
         "inflation risk",
         "sector rotation risk"
+      ]
+    }
+  },
+  {
+    "id": "7573824",
+    "headline": "AI disruption fears rock software stocks again. How Jim Cramer is navigating the sell-off",
+    "summary": "CNBC's Jim Cramer said the sell-off in software reflects a shift in how investors value future growth rather than a collapse in earnings.",
+    "url": "https://www.cnbc.com/2026/02/03/ai-disruption-fears-rock-software-stocks-how-jim-cramer-navigating-sell-off.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/107113452-NUP_198430_00216r.jpg?v=1697496575&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1770162047,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770170525,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Software stocks are experiencing a sell-off due to concerns about AI-driven disruption to their business models. CNBC's Jim Cramer attributes the sell-off to a shift in investor valuation, where investors are paying less for software companies' earnings due to fears about the future. This is not a collapse in earnings, but rather a decrease in the multiple investors are willing to pay for those earnings. Cramer notes that software stocks are being lumped in with companies that are more susceptible to AI disruption, despite the fact that their earnings are not collapsing.",
+      "impact": "The sell-off in software stocks could lead to a short-term decline in share prices, particularly for companies that are heavily reliant on software sales. This could also impact the overall tech-heavy Nasdaq Composite, which slid 1.4% on Tuesday. In the medium term, the decreased valuation of software companies could lead to a decrease in M&A activity and investment in the sector. Additionally, companies that are heavily invested in software may struggle to maintain their growth trajectory if investors continue to undervalue their earnings.",
+      "risks": [
+        "valuation risk: investors may continue to undervalue software companies, leading to further declines in share price",
+        "earnings growth risk: software companies may struggle to maintain their growth trajectory if investors continue to focus on the potential impact of AI disruption",
+        "sector rotation risk: investors may rotate out of software stocks and into other sectors, such as industrials or consumer staples, leading to a decrease in demand for software companies' products"
       ]
     }
   },
@@ -1178,6 +1224,29 @@
         "Over-reliance on AI technology and potential disruption from new entrants in the industry",
         "Fluctuations in semiconductor demand and potential impact on the company's revenue",
         "Integration risk from the company's continued adoption of AI technology"
+      ]
+    }
+  },
+  {
+    "id": "7573827",
+    "headline": "US-India trade agreement lifts outlook for stocks and rupee; GIFT Nifty jumps 4.5%",
+    "summary": "Market participants see the accord, combined with a pro-growth Union Budget, as a catalyst for renewed foreign inflows after months of underperformance and record outflows",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-02/us-trade-deal-win-may-spark-foreign-buying-rush-in-indian-stocks",
+    "source": "Bloomberg",
+    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+    "relatedSymbols": [],
+    "publishedAt": 1770079398,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770170575,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The US-India trade agreement has lifted the outlook for Indian stocks, with the GIFT Nifty jumping 4.5% in response. This development, combined with a pro-growth Union Budget, is expected to attract renewed foreign inflows into Indian markets after months of underperformance and record outflows. The agreement is seen as a catalyst for increased foreign investment, which could boost earnings prospects for Indian companies. This, in turn, could lead to higher valuations and improved sentiment in the market.",
+      "impact": "The potential impact on Indian stocks is positive, with the US-India trade agreement likely to lead to increased foreign buying, driving up stock prices in the short term. This could result in improved earnings outlook for companies with significant exposure to international trade, such as export-oriented sectors. In the medium term, the agreement could lead to increased foreign investment, further boosting earnings growth and valuations. This could also lead to improved liquidity in the market, making it easier for investors to buy and sell stocks.",
+      "risks": [
+        "Potential volatility in global trade relations",
+        "Dependence on foreign investment",
+        "Uncertainty around the effectiveness of the trade agreement"
       ]
     }
   },
