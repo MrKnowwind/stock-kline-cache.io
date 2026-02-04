@@ -1,5 +1,74 @@
 [
   {
+    "id": "7574030",
+    "headline": "The most important Amazon earnings figure comes with a high bar this time",
+    "summary": "To impress investors, Amazon will need to show continued momentum in its cloud-computing business. But the real number to beat may be higher than the consensus view of 21% growth.",
+    "url": "https://www.marketwatch.com/story/the-most-important-amazon-earnings-figure-comes-with-a-high-bar-this-time-f0a63767",
+    "source": "MarketWatch",
+    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+    "relatedSymbols": [],
+    "publishedAt": 1770214440,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770215611,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "Amazon's upcoming earnings report is expected to focus on its cloud-computing business, which has been a key driver of growth. The consensus view is that the cloud-computing segment will see 21% growth, but the article suggests that this number may be too low. This implies that Amazon may need to exceed expectations to impress investors. The article highlights the importance of Amazon's cloud-computing business in driving growth and profitability.",
+      "impact": "The potential for Amazon's cloud-computting business to exceed expectations could lead to a short-term boost in the stock price, driven by increased sentiment and improved earnings outlook. However, if Amazon fails to meet expectations, it could lead to a decline in the stock price, potentially affecting the overall tech sector. The medium-term impact will depend on the company's ability to sustain growth in its cloud-computing business and its effect on the overall valuation of the company.",
+      "risks": [
+        "Failure to meet or exceed cloud-computing growth expectations",
+        "Increased competition in the cloud-computing market",
+        "Dependence on a single business segment"
+      ]
+    }
+  },
+  {
+    "id": "7574021",
+    "headline": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
+    "summary": "The S&P 500 edged higher ahead of the opening bell following a losing session on Wall Street.",
+    "url": "https://www.cnbc.com/2026/02/04/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108248734-1767708572744-gettyimages-2254217333-AFP_89PZ9WR.jpeg?v=1770211968&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1770213779,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770215659,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "The S&P 500 edged higher ahead of the opening bell, driven by a mixed bag of news. Enterprise software stocks, such as Salesforce, were under pressure due to concerns about AI taking away business. Private equity companies with investments in enterprise software are also vulnerable to Anthropic's business-to-business AI strategy. Meanwhile, Nvidia is nearing a deal to invest $20 billion in OpenAI's latest funding round. AMD's shares dropped despite a quarterly beat and stronger-than-expected guidance, while Eli Lilly's stock jumped after crushing earnings estimates. Chipotle's stock sank after projecting flat same-store sales growth.",
+      "impact": "The news has a neutral impact on the market, with some stocks being affected positively and others negatively. Nvidia's potential investment in OpenAI could be a positive for the company, but also raises concerns about the impact of AI on enterprise software stocks. AMD's disappointing stock performance despite strong earnings may indicate that the market is pricing in a slowdown in the tech sector. Eli Lilly's strong earnings could lead to a short-term rally in the company's stock.",
+      "risks": [
+        "AI adoption risk for enterprise software companies",
+        "valuation risk for AMD",
+        "earnings slowdown risk for Chipotle"
+      ]
+    }
+  },
+  {
+    "id": "7574016",
+    "headline": "Another missile maker partners with the Trump administration, and the stock rises to record heights",
+    "summary": "RTX’s Raytheon unit announced five agreements with the Pentagon to boost capacity and deliveries of Tomahawk and interceptor missiles.",
+    "url": "https://www.marketwatch.com/story/another-missile-maker-partners-with-the-trump-administration-and-the-stock-rises-to-record-heights-d34c84a8",
+    "source": "MarketWatch",
+    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+    "relatedSymbols": [],
+    "publishedAt": 1770213060,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770215705,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Raytheon Technologies' (RTX) unit has secured five agreements with the Pentagon to enhance production and delivery of Tomahawk and interceptor missiles. This partnership aims to boost the US military's missile capabilities, driven by the Trump administration's defense spending initiatives. The agreements are likely to increase demand for Raytheon's missile systems, leading to higher sales and revenue for the company. This development is a positive indicator for RTX's earnings outlook, particularly in the defense sector.",
+      "impact": "The partnership is expected to drive short-term growth in RTX's revenue and earnings, as the company benefits from increased demand for its missile systems. Medium-term, this deal could lead to a re-rating of RTX's valuation multiples, as investors factor in the company's growing market share and increased earnings potential. The partnership is also likely to boost investor sentiment towards RTX, leading to increased liquidity and trading volume.",
+      "risks": [
+        "Regulatory risk associated with government contracts",
+        "Dependence on defense spending",
+        "Potential delays in production and delivery"
+      ]
+    }
+  },
+  {
     "id": "7574005",
     "headline": "ADP jobs report shows paltry 22,000 increase in private hiring. Sluggish labor market not getting any better.",
     "summary": "Job creation has plummeted since trade wars and immigration crackdown",
@@ -123,7 +192,20 @@
     "source": "MarketWatch",
     "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
     "relatedSymbols": [],
-    "publishedAt": 1770207840
+    "publishedAt": 1770207840,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770215750,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Nomura's Charlie McElligott warns that second-order AI disruption worries have arrived earlier than expected, implying a potential negative impact on the market. This is based on his analysis of investor positioning and market data. McElligott suggests that investors should prepare for the consequences of this disruption. The exact nature of the disruption is not specified, but it is clear that it could have significant effects on various industries and companies.",
+      "impact": "The potential impact on related stocks could be significant, with a possible short-term decline in earnings due to increased competition and disruption. Medium-term, the effects on valuation and sentiment could be more pronounced, leading to a decrease in stock prices. Liquidity could also be affected as investors reassess their positions and adjust to the new reality. The exact extent of the impact will depend on the specific industries and companies affected.",
+      "risks": [
+        "disruption risk",
+        "increased competition risk",
+        "valuation risk"
+      ]
+    }
   },
   {
     "id": "7573965",
@@ -133,7 +215,20 @@
     "source": "MarketWatch",
     "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
     "relatedSymbols": [],
-    "publishedAt": 1770207660
+    "publishedAt": 1770207660,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770215798,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Eli Lilly reported that sales of its diabetes medications Mounjaro and Zepbound grew by at least 110% year-over-year, driving a rally in the company's stock. This growth is a significant positive indicator for the company's diabetes treatment segment. Mounjaro and Zepbound are key products in Eli Lilly's pipeline, and their strong sales performance suggests a robust demand for these treatments. The company also provided a positive outlook for 2026, with strong growth expected to continue.",
+      "impact": "The strong sales growth of Mounjaro and Zepbound is likely to have a positive impact on Eli Lilly's earnings outlook, potentially leading to higher revenue and profit margins. This could also boost the company's valuation, as investors become more optimistic about its growth prospects. The rally in the stock price may also increase liquidity, attracting more investors and potentially driving further price appreciation. In the medium term, this could lead to increased competition for Eli Lilly in the diabetes treatment market, as other companies may try to replicate its success.",
+      "risks": [
+        "Increased competition from other pharmaceutical companies developing similar treatments",
+        "Potential regulatory scrutiny of diabetes treatment market",
+        "Dependence on a few key products for revenue growth"
+      ]
+    }
   },
   {
     "id": "7573942",
