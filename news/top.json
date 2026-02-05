@@ -1,5 +1,71 @@
 [
   {
+    "id": "7574413",
+    "headline": "Super Bowl AI ad spat heats up as Altman lashes out at Anthropic campaign",
+    "summary": "OpenAI recently announced plans to begin testing ads with some ChatGPT users.",
+    "url": "https://www.cnbc.com/2026/02/05/super-bowl-ai-ad-altman-anthropic-open-ai.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108204530-1758900517239-gettyimages-2236544077-STARGATE_DATA_CENTER.jpeg?v=1770299976&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1770303037,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770305269,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "OpenAI CEO Sam Altman responded to a Super Bowl ad campaign by Anthropic, a rival AI company, criticizing OpenAI's plan to introduce ads to its ChatGPT service. Anthropic's ad implies that OpenAI will display intrusive ads, which Altman denies. The two companies have a history of rivalry, with Anthropic founded by former OpenAI researchers. OpenAI has stated that ads will be clearly labeled and will not influence ChatGPT's responses. The ad campaign is a marketing move by both companies to attract users and enterprise customers.",
+      "impact": "The news is unlikely to have a significant impact on the short-term stock prices of either company, but it may influence the sentiment and perception of their services. The ad campaign may attract more attention to both companies, potentially increasing their user base and enterprise customers. However, the rivalry between the two companies may also lead to a negative perception of their services, potentially affecting their valuation and earnings outlook in the medium term.",
+      "risks": []
+    }
+  },
+  {
+    "id": "7574411",
+    "headline": "Bitcoin crashes below $70,000 for first time in over a year. Is crypto headed for a market reset?",
+    "summary": "Bitcoin prices fell below $70,000 a coin on Thursday as a painful crypto rout deepened, sending the price of the pioneering digital asset to its lowest level in 15 months.",
+    "url": "https://www.marketwatch.com/story/bitcoin-crashes-below-70-000-for-first-time-in-over-a-year-is-crypto-headed-for-a-market-reset-2b42564e",
+    "source": "MarketWatch",
+    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+    "relatedSymbols": [],
+    "publishedAt": 1770302880,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770305319,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The recent decline in Bitcoin prices below $70,000 marks a significant downturn in the cryptocurrency market. This drop is part of a broader crypto rout that has been unfolding over the past few weeks. The last time Bitcoin prices were this low was 15 months ago, indicating a potential market reset. This development may be attributed to a combination of factors, including increased regulatory scrutiny and a decrease in investor confidence. The market's reaction suggests a shift in investor sentiment, with some investors potentially reevaluating their exposure to cryptocurrencies.",
+      "impact": "The decline in Bitcoin prices could have a negative impact on related stocks, particularly those in the cryptocurrency and blockchain sectors. This may lead to a decrease in investor sentiment and a subsequent decline in stock prices, potentially affecting companies like Coinbase Global, Inc. (COIN) and MicroStrategy Incorporated (MSTR). The medium-term effect may be a decrease in investment in the sector, leading to reduced revenue and earnings for these companies. Additionally, the decline in Bitcoin prices may also lead to a decrease in the value of companies that have invested heavily in the cryptocurrency, such as Tesla, Inc. (TSLA).",
+      "risks": [
+        "Decrease in investor confidence risk",
+        "Regulatory scrutiny risk",
+        "Market volatility risk",
+        "Decrease in investment in the sector risk"
+      ]
+    }
+  },
+  {
+    "id": "7574414",
+    "headline": "Jim Cramer's top 10 things to watch in the stock market Thursday",
+    "summary": "The S&P 500 was headed for a much lower open. Bitcoin fell below $70,000 for the first time since Nov. 2024.",
+    "url": "https://www.cnbc.com/2026/02/05/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108148268-1753295355541-108148268-1747770060321-AP25140650056473.jpg?v=1753295363&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1770300991,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770305367,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The market is expected to be bearish on Thursday, with the S&P 500 futures tumbling on weakness in Big Tech and Bitcoin falling below $70,000 for the first time since November 2024. The job market is showing signs of weakness, with planned layoffs at American companies at their highest January total since the global financial crisis. Alphabet's quarterly earnings were impressive, but the stock is falling due to a broader market rotation out of tech. Sony's quarterly earnings beat expectations, but the company's reliance on memory chips could be a concern. Bank of America downgraded Qualcomm, citing share losses and a weak handset market.",
+      "impact": "The bearish sentiment could lead to short-term losses for tech stocks, including Alphabet and Qualcomm. The job market weakness could also impact consumer spending and overall economic growth, potentially affecting stocks like Eli Lilly, which relies on prescription medication sales. The decline in oil prices could also benefit energy stocks, but the overall market uncertainty makes it difficult to predict the impact. The rotation out of tech could create opportunities for gaming stocks like Take-Two Interactive Software.",
+      "risks": [
+        "tech sector rotation risk",
+        "job market slowdown risk",
+        "oil price volatility risk"
+      ]
+    }
+  },
+  {
     "id": "7574376",
     "headline": "Peloton is losing money again as subscriptions keep falling. The stock is tumbling.",
     "summary": "Peloton’s stock falls as the maker of home-fitness products again reported quarterly losses, and as connected-fitness subscriptions fell to a more than four-year low.",
