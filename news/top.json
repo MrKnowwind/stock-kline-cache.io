@@ -1077,7 +1077,20 @@
     "source": "Bloomberg",
     "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
     "relatedSymbols": [],
-    "publishedAt": 1770208707
+    "publishedAt": 1770208707,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770302305,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Indian government officials have moved to reassure the public that the recently signed trade deal with the US will not have a negative impact on the country's farm sector. They emphasized that the deal includes protections for Indian farmers, alleviating concerns over increased American agricultural access. This move is seen as a response to growing public anxiety over the deal's potential effects on India's domestic agricultural industry. The government's efforts aim to ease fears and maintain investor confidence in the Indian economy.",
+      "impact": "The news is likely to have a positive impact on Indian stocks, particularly those related to the agricultural sector. Companies such as Tata Consultancy Services (TCS) and Infosys, which have significant exposure to the Indian economy, may benefit from the government's efforts to reassure investors. The deal's potential to boost investor confidence and stabilize the Indian rupee could also have a positive impact on the country's overall economic outlook, leading to increased spending and investment in the short to medium term.",
+      "risks": [
+        "Potential backlash from farmers and rural communities if the deal is perceived as favoring American agricultural interests",
+        "Uncertainty surrounding the deal's implementation and potential changes to the agreement",
+        "Risk of increased competition from American agricultural products in the Indian market"
+      ]
+    }
   },
   {
     "id": "7573969",
