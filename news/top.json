@@ -1,5 +1,51 @@
 [
   {
+    "id": "7574723",
+    "headline": "Amazon’s stock drops as investors question whether $200 billion can buy an AI edge",
+    "summary": "It’s not just that Amazon is pouring tons of money into capital expenditures, notes an analyst. It’s that the company seems to be playing defense.",
+    "url": "https://www.marketwatch.com/story/amazons-stock-drops-as-investors-question-whether-200-billion-can-buy-an-ai-edge-3fde04a9",
+    "source": "MarketWatch",
+    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+    "relatedSymbols": [],
+    "publishedAt": 1770387000,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770388246,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Amazon's stock price has dropped as investors question whether the company's $200 billion investment in capital expenditures, particularly in artificial intelligence (AI), will yield a competitive edge. The investment is seen as a defensive move by some analysts, aimed at maintaining Amazon's market position rather than driving growth. This has raised concerns about the company's ability to generate returns on its massive investment. The AI push is part of Amazon's broader strategy to stay ahead in the e-commerce and cloud computing spaces.",
+      "impact": "The news may lead to a short-term decline in Amazon's stock price as investors reassess the company's valuation. In the medium term, the increased investment in AI could lead to higher expenses, potentially affecting Amazon's profit margins and earnings outlook. This may also impact the stock's liquidity, as investors become more cautious about the company's ability to generate returns on its massive investment.",
+      "risks": [
+        "Increased expenses due to AI investment",
+        "Potential decline in profit margins",
+        "Uncertainty around returns on investment"
+      ]
+    }
+  },
+  {
+    "id": "7574724",
+    "headline": "Jim Cramer's top 10 things to watch in the stock market Friday",
+    "summary": "Stocks look to rebound Friday after a turbulent, three-day slide.",
+    "url": "https://www.cnbc.com/2026/02/06/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108231161-1764011282199-gettyimages-2247717735-US_STOCKS.jpeg?v=1764011302&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1770386993,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770388294,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Stocks are expected to rebound on Friday after a three-day decline, with Nasdaq futures in the green despite Amazon's post-earnings losses. Amazon's capital expenditures plan and profit forecast miss sent its stock down 8%, but cloud growth continued to reaccelerate in the final quarter of 2025. Enterprise software stocks, including Salesforce, have been crushed this week amid fears of AI replacing their services. The FDA blocked Hims & Hers' copycat GLP-1 drugs, citing safety risks, while Stellantis took a massive restructuring charge and pulled back on electric vehicle plans.",
+      "impact": "The rebound in stocks may lead to a short-term increase in Amazon's stock price as investors reassess its growth prospects. However, the company's capital expenditures plan and profit forecast miss may still weigh on its valuation. Enterprise software stocks, including Salesforce, may continue to decline in the short term due to fears of AI replacing their services. In the medium term, the FDA's decision on Hims & Hers' GLP-1 drugs may impact the company's stock price and the broader pharmaceutical industry.",
+      "risks": [
+        "Regulatory approval risk for Hims & Hers' GLP-1 drugs",
+        "AI adoption risk for enterprise software companies",
+        "Competition risk in the cloud computing market for Amazon"
+      ]
+    }
+  },
+  {
     "id": "7574705",
     "headline": "Under Armour turns a surprise profit, even as turnaround plan costs keep rising",
     "summary": "Under Armour’s stock rallies toward a six-month high, after the athletic gear seller reported a surprise quarterly profit and raised its full-year outlook.",
@@ -119,7 +165,16 @@
     "source": "MarketWatch",
     "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
     "relatedSymbols": [],
-    "publishedAt": 1770378420
+    "publishedAt": 1770378420,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770388342,
+      "sentiment": "bullish",
+      "confidence": 0.7,
+      "summary": "The tech sector has been hit hard by recent market volatility, causing the software ETF to reach extremely oversold levels. This has created a buying opportunity for investors, as the sector is due for a bounce. The software ETF's oversold levels are a contrarian indicator, suggesting that the market has overreacted to recent negative news. This could lead to a short-term rebound in the sector, driven by investors looking to capitalize on the oversold condition. The sector's fundamentals remain strong, with a stable earnings outlook and a history of resilience in downturns.",
+      "impact": "The potential bounce in the software sector could lead to a short-term rally in related stocks, driven by improved sentiment and a reduction in oversold conditions. This could also lead to a medium-term increase in investor confidence, as the sector's fundamentals remain strong. The rally could be driven by a combination of factors, including a rebound in earnings estimates, a decrease in valuation multiples, and an increase in liquidity. Additionally, a bounce in the software sector could have a positive impact on the overall market, as it is a key component of the S&P 500 index.",
+      "risks": []
+    }
   },
   {
     "id": "7574676",
@@ -129,7 +184,20 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/108099400-1738953241476-AP24142287309268.jpg?v=1738953354&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1770378270
+    "publishedAt": 1770378270,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770388390,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Hims & Hers' stock has plummeted after Novo Nordisk threatened to take legal action against the telehealth company for launching a cheaper, copycat version of its weight loss pill, Wegovy. The move is seen as a risk to patient safety by Novo, which claims Hims & Hers' version is 'illegal'. Hims & Hers argues that its version is 'personalized' in dosage, but Novo has previously warned the company about its deceptive advertising. The launch of the copycat pill is a significant development in the weight loss market, where Hims & Hers has been a key player.",
+      "impact": "The news is likely to weigh on Hims & Hers' stock in the short term, potentially leading to a further decline in its already volatile price. The company's business model is inherently tied to its ability to sell weight loss drugs, and regulatory issues could impact its earnings outlook. The launch of the copycat pill may also raise concerns about the company's long-term viability in the market. In the medium term, the news may lead to increased scrutiny of Hims & Hers' business practices and potentially impact its relationships with regulatory bodies.",
+      "risks": [
+        "regulatory approval risk",
+        "legal liability risk",
+        "reputation risk"
+      ]
+    }
   },
   {
     "id": "7574662",
