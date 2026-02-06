@@ -7,7 +7,20 @@
     "source": "MarketWatch",
     "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
     "relatedSymbols": [],
-    "publishedAt": 1770393840
+    "publishedAt": 1770393840,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770398923,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "The article highlights the growing concern of the increasing expenses on restaurant-delivery apps among low- and middle-income households. This trend is a result of the rising cost of living in the US, where Americans are struggling to afford necessities. The article mentions DoorDash and UberEats as examples of popular delivery apps, but does not specifically mention any related stocks. The increasing expenses on delivery apps are expected to put pressure on household budgets, potentially leading to reduced discretionary spending.",
+      "impact": "The growing expenses on delivery apps are likely to negatively impact the earnings outlook for companies like GrubHub (GRUB) and Uber Technologies (UBER), which operate in the food delivery space. The increased competition and reduced consumer spending could lead to a decrease in valuation multiples for these companies. The article's focus on the financial strain caused by delivery apps may also negatively impact sentiment towards the industry, leading to a decrease in investor confidence and potentially lower stock prices.",
+      "risks": [
+        "Reduced consumer spending risk",
+        "Increased competition risk",
+        "Valuation multiple compression risk"
+      ]
+    }
   },
   {
     "id": "7574746",
