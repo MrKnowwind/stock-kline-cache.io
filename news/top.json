@@ -1,5 +1,51 @@
 [
   {
+    "id": "7575171",
+    "headline": "What's driving Procter & Gamble's monster start to 2026 — and how it can continue",
+    "summary": "P&G's resurgence is driven not just by the market rotation but also by improving fundamentals.",
+    "url": "https://www.cnbc.com/2026/02/09/whats-driving-pgs-monster-start-to-2026-and-how-it-can-continue.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108177837-1753717152204-gettyimages-2226754436-US_STOCKS.jpeg?v=1770657885&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1770666215,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770666850,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Procter & Gamble's stock has surged 10% this year, driven by a rotation from tech stocks and improving fundamentals. The consumer staples sector, which includes P&G, has seen a 6% increase last week and is up 12% year-to-date, its best start since 1997. Bank of America attributes this to a shift in investor sentiment, with investors moving away from high-growth tech stocks due to concerns over AI's impact and massive capital expenditures. P&G's diversified portfolio, cost control, and pricing power have historically protected its margins during economic uncertainty.",
+      "impact": "The rotation from tech to consumer staples stocks could lead to short-term gains for P&G, with its stock price potentially continuing to rise as investors seek safe-haven names. In the medium term, improving fundamentals, such as strength in emerging markets and a weaker US dollar, could boost P&G's sales and earnings. The company's ability to manage its business during market and economic uncertainty could also attract more investors, increasing liquidity and sentiment around the stock.",
+      "risks": [
+        "Potential reversal of rotation from tech to consumer staples stocks",
+        "Uncertainty around the impact of AI on traditional enterprise software",
+        "Risk of increased competition from other consumer staples companies"
+      ]
+    }
+  },
+  {
+    "id": "7575165",
+    "headline": "The stock market looks expensive — but this chart shows why AI bubble fears in tech may be overblown",
+    "summary": "The S&P 500’s tech sector has seen the smallest increase of any group in its price-to-earnings ratio relative to its 10-year average, DataTrek found.",
+    "url": "https://www.marketwatch.com/story/the-stock-market-looks-expensive-but-this-chart-shows-why-ai-bubble-fears-in-tech-may-be-overblown-13f556d1",
+    "source": "MarketWatch",
+    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+    "relatedSymbols": [],
+    "publishedAt": 1770661800,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770666899,
+      "sentiment": "bullish",
+      "confidence": 0.7,
+      "summary": "The article suggests that the tech sector's price-to-earnings ratio is not as overvalued as some investors fear, as it has seen the smallest increase relative to its 10-year average. This is according to DataTrek's analysis of the S&P 500's tech sector. The data implies that the sector's valuation is more in line with historical norms, which could alleviate concerns about an AI bubble. This could be due to the sector's strong fundamentals, such as growing earnings and innovation.",
+      "impact": "The article's findings may lead investors to reassess their valuation expectations for tech stocks, potentially leading to a more optimistic outlook for the sector. This could result in increased buying pressure and higher stock prices in the short-term. Medium-term, the article's analysis could lead to a more stable valuation multiple for tech stocks, reducing the risk of a sharp correction.",
+      "risks": [
+        "valuation multiple expansion risk",
+        "earnings growth slowdown risk",
+        "macroeconomic downturn risk"
+      ]
+    }
+  },
+  {
     "id": "7575159",
     "headline": "‘Sell America’ fears drag dollar toward 4-year low on Japan election, China report",
     "summary": "Japan’s election and a report on China’s efforts to move away from U.S. assets has the “sell America” theme back  on traders’ minds.",
@@ -237,7 +283,20 @@
     "source": "MarketWatch",
     "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
     "relatedSymbols": [],
-    "publishedAt": 1770654600
+    "publishedAt": 1770654600,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770666943,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "The company's earnings report highlighted a 'choppy' sales environment, indicating potential challenges for the firm. The news comes as a concern for investors who view the company as a 'poster child' for AI-disruption fears. Despite noting benefits from AI, the company's caution on sales suggests a tough market. This development may impact the company's ability to meet earnings expectations.",
+      "impact": "The news may lead to a short-term decline in the stock price as investors reassess the company's growth prospects. Medium-term, the company's ability to adapt to a 'choppy' sales environment could impact its earnings outlook and valuation. The company's sentiment as a 'poster child' for AI-disruption fears may also contribute to a negative market perception.",
+      "risks": [
+        "earnings slowdown risk",
+        "valuation risk",
+        "sentiment risk"
+      ]
+    }
   },
   {
     "id": "7575126",
@@ -247,7 +306,20 @@
     "source": "MarketWatch",
     "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
     "relatedSymbols": [],
-    "publishedAt": 1770651840
+    "publishedAt": 1770651840,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770666990,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Barclays analysts argue that the recent AI selloff is not a major warning sign for the market, citing it as a sector-specific event rather than an inflection point for the broader market. The AI sector experienced a meltdown last week, but Barclays believes this is not indicative of a larger market downturn. The analysts suggest that investors should remain positive, as the AI sector is not representative of the overall market. This view is based on the idea that the AI sector is a niche area and its performance does not necessarily reflect the performance of the broader market.",
+      "impact": "The potential impact of this news on AI-related stocks is positive, as it suggests that the recent selloff was not a major warning sign for the market. This could lead to increased investor confidence in the AI sector, potentially driving up stock prices in the short term. In the medium term, this news may also lead to increased investment in the AI sector, as investors see it as a growth area. The analysts' positive view may also contribute to a more positive sentiment towards the overall market, potentially leading to a broader market rally.",
+      "risks": [
+        "valuation risk",
+        "sentiment risk",
+        "regulatory risk"
+      ]
+    }
   },
   {
     "id": "7575121",
@@ -395,7 +467,20 @@
     "source": "MarketWatch",
     "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
     "relatedSymbols": [],
-    "publishedAt": 1770644160
+    "publishedAt": 1770644160,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770667042,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Kroger's stock has surged after the company announced Greg Foran as its new CEO, ending a nearly yearlong search. Foran previously served as the leader of Walmart U.S., bringing experience in the grocery industry. This appointment is seen as a positive development for Kroger, as it aims to improve its operational efficiency and competitiveness in the market. The new CEO's experience in transforming Walmart's U.S. business could be beneficial for Kroger's turnaround efforts. The appointment is expected to have a positive impact on the company's stock price and overall performance.",
+      "impact": "The appointment of a seasoned CEO like Foran is likely to boost investor confidence in Kroger, leading to a short-term increase in the stock price. In the medium term, Foran's experience in improving operational efficiency and competitiveness could lead to improved earnings and revenue growth for Kroger, making the stock more attractive to investors. The company's improved leadership and direction could also lead to increased investor sentiment and liquidity in the stock.",
+      "risks": [
+        "Integration risk: The success of Foran's leadership will depend on his ability to integrate with the existing management team and implement his vision for the company.",
+        "Execution risk: Foran's plans and strategies may not materialize as expected, leading to disappointment among investors.",
+        "Industry competition risk: Kroger operates in a highly competitive grocery market, and Foran's efforts may not be enough to overcome the challenges posed by competitors like Amazon and Walmart."
+      ]
+    }
   },
   {
     "id": "7575080",
