@@ -1,5 +1,51 @@
 [
   {
+    "id": "7575857",
+    "headline": "Bill Ackman reveals stake in Meta, says it has 'deeply discounted valuation'",
+    "summary": "The position amounts to 10% of Pershing Square's capital as of the end of 2025.",
+    "url": "https://www.cnbc.com/2026/02/11/bill-ackman-meta-valuation.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108141843-17465632702025-05-06t202629z_837142669_rc2gceazdgz9_rtrmadp_0_harvard-ackman-milken.jpeg?v=1746563504&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1770835915,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770839042,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Bill Ackman's Pershing Square has revealed a 10% stake in Meta, citing a 'deeply discounted valuation' due to concerns around AI-related spending. Meta's stock has declined 16% over the last 12 months, but Pershing believes the company's long-term upside potential from AI is being underestimated. The fund notes that Meta trades at a lower forward P/E ratio compared to peers like Alphabet, Apple, and Nvidia, suggesting a potential buying opportunity.",
+      "impact": "The news could lead to a short-term bounce in Meta's stock price as investors reassess the company's valuation. In the medium term, a successful AI strategy could drive earnings growth, further justifying Pershing's investment thesis. The increased confidence in Meta's prospects may also boost sentiment among investors, potentially attracting more buyers to the stock.",
+      "risks": [
+        "AI-related spending initiatives may not yield expected returns",
+        "Meta's valuation may be re-rated downwards if AI growth fails to materialize",
+        "Increased competition in the AI space could erode Meta's market share"
+      ]
+    }
+  },
+  {
+    "id": "7575854",
+    "headline": "The latest jobs report is bad news if you’re looking for work — except in these fields",
+    "summary": "January’s jobs report easily surpassed Wall Street expectations, giving a temporary boost to stocks Wednesday — but it was downbeat data for many Americans who are unemployed and looking for work.",
+    "url": "https://www.marketwatch.com/story/the-latest-jobs-report-is-bad-news-if-youre-looking-for-work-except-in-these-fields-e20d78c9",
+    "source": "MarketWatch",
+    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+    "relatedSymbols": [],
+    "publishedAt": 1770835140,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770839088,
+      "sentiment": "bullish",
+      "confidence": 0.6,
+      "summary": "The latest jobs report exceeded expectations, giving a temporary boost to stocks. However, the report was downbeat for job seekers, indicating a challenging labor market. The strong jobs report is a positive indicator for the overall economy, suggesting sustained growth. This is particularly beneficial for companies in the service sector, which may see increased demand for their products and services.",
+      "impact": "The strong jobs report may lead to increased investor confidence and a short-term boost in stock prices for companies in the service sector, such as consumer staples and retail. In the medium term, a sustained labor market growth may lead to higher earnings expectations for these companies, potentially driving up their stock prices. However, the report's downbeat tone for job seekers may also lead to increased wage pressure and higher labor costs for companies, potentially offsetting the benefits of a strong economy.",
+      "risks": [
+        "wage pressure risk",
+        "labor cost inflation risk",
+        "macroeconomic slowdown risk"
+      ]
+    }
+  },
+  {
     "id": "7575847",
     "headline": "A budget airline cancelled my flight and gave me a $25 voucher and a hotel room. Is this normal?",
     "summary": "“After cancelling, they put me on a different flight that had no TVs.”",
@@ -486,7 +532,20 @@
     "source": "MarketWatch",
     "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
     "relatedSymbols": [],
-    "publishedAt": 1770816300
+    "publishedAt": 1770816300,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770839134,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Bank of America's internal data suggests that the middle class is feeling the pain of the K-shaped economy, with a lackluster retail sales report on Tuesday further alarming investors. The data indicates that the economic recovery is uneven, with some segments experiencing growth while others are struggling. This trend is concerning for the overall economy, as it may lead to reduced consumer spending and a slower economic growth rate. The Bank of America data may be a warning sign that the economic recovery is not as robust as previously thought.",
+      "impact": "The potential impact on the economy and related stocks is significant, with a slowdown in consumer spending likely to affect companies in the retail and consumer discretionary sectors. This may lead to reduced earnings growth and lower valuations for these companies in the short-term. Medium-term, the impact may be felt across the entire market, as a slower economy can lead to reduced investor sentiment and liquidity.",
+      "risks": [
+        "reduced consumer spending risk",
+        "slower economic growth risk",
+        "reduced investor sentiment risk"
+      ]
+    }
   },
   {
     "id": "7575715",
