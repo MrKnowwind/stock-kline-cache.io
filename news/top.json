@@ -1,5 +1,28 @@
 [
   {
+    "id": "7575877",
+    "headline": "The jobs picture still looks muddy, even with surprisingly strong January growth",
+    "summary": "January job gains were better than anything the U.S. economy saw in 2025 but not still enough to sound an all-clear.",
+    "url": "https://www.cnbc.com/2026/02/11/the-jobs-picture-still-looks-muddy-even-with-surprisingly-strong-january-growth.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108264377-1770816237492-gettyimages-2260442960-US_JOBS.jpeg?v=1770816317&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1770841340,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770844904,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "The January jobs report showed a surprisingly strong gain of 130,000 nonfarm payrolls, but the labor market remains stagnant due to a concentration of hiring in a few fields and revisions that indicate no growth in the second half of 2025. The unemployment rate dropped to 4.3%, the lowest since August. However, the job growth is expected to be subdued for the rest of the year, with some economists predicting gains of less than 50,000 per month. The report also raised concerns about the income growth prospects for consumers, with average hourly earnings increasing by only 3.71% annually, the lowest since July 2024.",
+      "impact": "The jobs report may have a muted impact on the stock market in the short term, but it could lead to a reevaluation of earnings outlook for companies in the healthcare sector, which drove the majority of the job gains. This could result in a slight increase in valuations for these companies, but also raise concerns about their ability to sustain growth. The subdued job growth expectations may also lead to a decrease in investor sentiment, potentially affecting the overall market. Additionally, the report's focus on income growth prospects may lead to a decrease in consumer spending, which could have a negative impact on retail and consumer-facing companies.",
+      "risks": [
+        "subdued job growth risk",
+        "income growth prospects risk",
+        "consumer spending slowdown risk"
+      ]
+    }
+  },
+  {
     "id": "7575867",
     "headline": "We're raising our price targets on 3 picks and shovel data center buildout stocks",
     "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
@@ -16,6 +39,29 @@
       "summary": "The Investing Club has raised price targets on three data center buildout stocks: Eaton, GE Vernova, and Corning. The decision was driven by strong earnings from power and cooling equipment company Vertiv, which reported 252% organic year-over-year growth in orders. This growth is a positive sign for the AI infrastructure stocks, including Eaton, GE Vernova, and Corning, which provide power management solutions and natural gas turbines to data centers. The stocks have made new record highs, with Eaton and GE Vernova up 3-4% in the session.",
       "impact": "The price target increases for Eaton and GE Vernova could lead to short-term gains, as investors may buy into the stocks in anticipation of continued growth. In the medium term, the strong earnings and price target increases could boost the stocks' valuations and sentiment, making them more attractive to investors. The news is also a positive sign for the data center buildout industry, which is expected to continue growing as more companies invest in cloud infrastructure.",
       "risks": []
+    }
+  },
+  {
+    "id": "7575878",
+    "headline": "10-year Treasury yield moves higher on stronger-than-expected January jobs report",
+    "summary": "U.S. Treasury yields moved higher Wednesday in response to January job creation that was more than double what Wall Street was expecting.",
+    "url": "https://www.cnbc.com/2026/02/11/us-treasury-yields-investors-await-delayed-january-jobs-report.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108262716-1770403451402-gettyimages-2259635545-FARM_IPO.jpeg?v=1770405026&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1770838576,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770844951,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "The 10-year Treasury yield rose after the January jobs report showed stronger-than-expected job growth, with 130,000 new jobs created, exceeding the 55,000 consensus estimate. This indicates a labor market in a low-growth mode, but with some signs of stability. The report may reduce expectations for Federal Reserve interest rate reductions, causing yields to rise. The labor market's stability is a positive sign for the economy and the market, but the report's impact is tempered by recent softness in other data points.",
+      "impact": "The rise in Treasury yields may lead to a decrease in investor sentiment towards growth stocks, as higher interest rates can increase borrowing costs and reduce the attractiveness of equities. However, the labor market's stability may also support corporate earnings growth, which could be a positive for the stock market in the medium term. The report's impact on individual stocks will depend on their specific exposure to interest rates and the labor market.",
+      "risks": [
+        "interest rate risk",
+        "earnings slowdown risk",
+        "macroeconomic uncertainty risk"
+      ]
     }
   },
   {
