@@ -1,5 +1,75 @@
 [
   {
+    "id": "7576212",
+    "headline": "Cisco stock has worst day since 2022 as memory prices pressure margins",
+    "summary": "Cisco shares plunged 12% Thursday after the company issued lukewarm guidance as memory prices weigh on profit margins",
+    "url": "https://www.cnbc.com/2026/02/12/cisco-stock-has-worst-day-since-2022-as-memory-prices-pressure-margins.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/107371686-1707502003048-107371686-1707501820943-gettyimages-1973070059-ise_20240130_r5_3830_photocescmaymo_g31cauky.jpeg?v=1770921268&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1770926069,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770926700,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Cisco's stock plummeted 12% after the company's earnings call, driven by rising memory prices that are pressuring profit margins. The shortage of memory, caused by strong demand for AI chips from Nvidia, has limited production capacity for other devices, including smartphones. Cisco plans to raise prices, revise contracts, and negotiate terms to mitigate the impact, but the company's product gross margin has already declined by 130 bps year-over-year. The company's forecast was also mediocre, contributing to the stock's decline.",
+      "impact": "The news is likely to have a short-term negative impact on Cisco's stock price, driven by the decline in earnings outlook and the pressure on profit margins. The company's valuation may also be affected as investors reassess the stock's growth prospects. In the medium term, the memory shortage could lead to a broader industry-wide impact, affecting other tech companies that rely on memory components, such as Apple and Dell.",
+      "risks": [
+        "Memory shortage risk",
+        "Earnings outlook risk",
+        "Valuation risk"
+      ]
+    }
+  },
+  {
+    "id": "7576213",
+    "headline": "What the EPA's flip on climate change means for automakers",
+    "summary": "Automakers have long criticized emissions regulations they consider too restrictive. Some auto industry analysts say backing off EVs will isolate America.",
+    "url": "https://www.cnbc.com/2026/02/12/epa-climate-change-automakers.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108265192-1770924493800-gettyimages-2261294146-090a8747_i6mbazn4.jpeg?v=1770924532&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1770925860,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770926747,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The EPA's reversal of its endangerment finding on greenhouse gases may undermine the US auto industry's shift towards electric vehicles (EVs). This move could lead to a decrease in EV adoption, as the industry had relied on federal incentives and regulations to drive growth. Automakers had been pushing for a more relaxed regulatory environment, but some analysts argue that this could isolate the US industry from global trends and make it less competitive. The reversal is part of a broader effort by the Trump administration to undo rules and incentives aimed at reducing emissions and promoting EVs.",
+      "impact": "The short-term impact on EV stocks, such as Tesla, could be negative as the removal of federal incentives may lead to a decrease in demand. Medium-term, the lack of a clear regulatory framework may lead to increased uncertainty and volatility in the industry, potentially affecting the earnings outlook for automakers. The reversal may also lead to a shift in investor sentiment, as some investors may view the move as a negative for the industry's long-term prospects.",
+      "risks": [
+        "regulatory uncertainty risk",
+        "decrease in demand risk",
+        "shift in investor sentiment risk",
+        "increased competition from foreign automakers"
+      ]
+    }
+  },
+  {
+    "id": "7576206",
+    "headline": "Social Security could run out of money in just 6 years — even sooner than originally feared",
+    "summary": "Higher inflation and lower income taxes on benefits may weigh on the program’s trust funds.",
+    "url": "https://www.marketwatch.com/story/social-security-could-run-out-of-money-in-just-6-years-even-sooner-than-originally-feared-c28eb5a5",
+    "source": "MarketWatch",
+    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+    "relatedSymbols": [],
+    "publishedAt": 1770924780,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770926795,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The Social Security program's trust funds may be depleted in just 6 years, a faster timeline than previously estimated. This is due to higher inflation and lower income taxes on benefits. The Social Security Administration's projections assume an average annual return of 2% on the trust funds, which may not be sufficient to keep pace with inflation. This news has implications for the broader economy and the government's fiscal policy. The program's financial health has been a concern for policymakers, and this development may lead to increased scrutiny and potential reforms.",
+      "impact": "The potential depletion of Social Security's trust funds could negatively impact the overall economy, leading to increased government borrowing and higher interest rates. This may also lead to a decrease in consumer spending and confidence, as retirees and beneficiaries rely heavily on Social Security benefits. Additionally, the news may lead to increased scrutiny of government spending and fiscal policy, potentially weighing on the stock market's sentiment and valuations. In the short term, this news may lead to a flight to safety, with investors seeking safer assets and potentially driving down stocks with high government exposure.",
+      "risks": [
+        "Increased government borrowing risk",
+        "Higher interest rates risk",
+        "Decreased consumer spending risk"
+      ]
+    }
+  },
+  {
     "id": "7576200",
     "headline": "Stocks are swinging like crazy while the S&P 500 goes nowhere in 2026. Investors might not like what comes next.",
     "summary": "At first blush, there doesn’t appear to be a whole lot happening with the S&P 500 in 2026. But dig a little bit deeper, and it is a whole different story.",
@@ -43,6 +113,25 @@
         "Increased demand for delivery services",
         "Slight delays in delivery services"
       ]
+    }
+  },
+  {
+    "id": "7576207",
+    "headline": "AI disruption fears slam new corners of the market, and Google reminds us why we own it",
+    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+    "url": "https://www.cnbc.com/2026/02/12/ai-disruption-fears-slam-new-corners-of-the-market-and-google-reminds-us-why-we-own-it.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108125020-1743609382599-gettyimages-2207556581-AFP_38UP2DA.jpeg?v=1743609492&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1770923895,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770926842,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The market is experiencing a sell-off due to fears of AI disruption across various industries, including software, financials, office real estate, and trucking/logistics. However, Alphabet (Google) is bucking the trend, with its stock rising after announcing a major upgrade to its AI model, Gemini 3 Deep Think. This upgrade positions Alphabet as a leader in the AI frontier and reinforces the company's competitive advantage. Existing home sales data is mixed, with a decline in January sales, but the analyst is cautious not to read too much into this single report due to abnormal weather conditions.",
+      "impact": "The sell-off in the market is likely to impact stocks that are perceived as vulnerable to AI disruption, potentially leading to a short-term decline in their stock prices. However, Alphabet's strength in AI and its recent upgrade may lead to increased investor interest and potential price appreciation. The analyst is considering adding to their position in Alphabet on weakness, as indicated earlier. The existing home sales data may not have a significant impact on Home Depot's stock price in the short term, but it may affect the company's earnings outlook if the housing market recovery is delayed.",
+      "risks": []
     }
   },
   {
@@ -122,7 +211,20 @@
     "source": "MarketWatch",
     "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
     "relatedSymbols": [],
-    "publishedAt": 1770922440
+    "publishedAt": 1770922440,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770926888,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "QuantumScape's stock is falling after its earnings report failed to meet Wall Street's expectations. The company is developing solid-state batteries, a technology that promises to lower the cost of electric vehicles, but the path to achieving this goal will be expensive. The high costs associated with developing this technology will likely weigh on the company's earnings and profitability. As a result, investors are reevaluating their expectations for QuantumScape's future performance.",
+      "impact": "The disappointing earnings report and high costs associated with developing solid-state batteries will likely lead to a short-term decline in QuantumScape's stock price. This could also impact the overall sentiment towards the EV battery maker, potentially leading to a decrease in investor confidence and a subsequent decline in the stock's valuation. The medium-term impact will depend on QuantumScape's ability to manage costs and achieve its development goals, but for now, the outlook appears bleak.",
+      "risks": [
+        "High R&D costs risk",
+        "Earnings pressure risk",
+        "Valuation multiple compression risk"
+      ]
+    }
   },
   {
     "id": "7576189",
@@ -22943,102 +23045,6 @@
         "macroeconomic slowdown risk",
         "earnings miss risk",
         "market sentiment reversal risk"
-      ]
-    }
-  },
-  {
-    "id": "7569379",
-    "headline": "S&P 500 has gained 16% in Trump’s first year back in office. How that compares with other presidents.",
-    "summary": "Donald Trump’s first year back in the White House shook the U.S. stock market — but it’s still way up.",
-    "url": "https://www.marketwatch.com/story/s-p-500-has-gained-16-in-trumps-first-year-back-in-office-how-that-compares-with-other-presidents-a9746686",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1768651200,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1769246255,
-      "sentiment": "bullish",
-      "confidence": 0.75,
-      "summary": "Donald Trump’s return to the presidency has coincided with a robust 16% gain in the S&P 500, indicative of strong investor sentiment and confidence in the market. Comparatively, this performance aligns favorably against the historical returns achieved in the first year of other presidential administrations. This increase may be driven by factors such as tax reforms, regulatory rollbacks, and a potentially pro-business government, setting a positive precedent for investors. The general atmosphere is one of optimism, significantly impacting market behavior and leading to heightened trading activity.",
-      "impact": "In the short term, this bullish sentiment is likely to propel stock prices as investors seek to capitalize on perceived upward momentum. Positive earnings outlooks tied to favorable macroeconomic conditions may lead to upward revisions in company valuations, especially in sectors highly influenced by policy changes. Medium-term effects could also stem from sustained liquidity in the market, with potential capital inflows as more investors opt for equities over fixed income in pursuit of returns.",
-      "risks": [
-        "regulatory changes impacting business operations",
-        "geopolitical tensions affecting market stability",
-        "economic slowdown due to unforeseen factors",
-        "market fatigue leading to profit-taking"
-      ]
-    }
-  },
-  {
-    "id": "7569424",
-    "headline": "Govt green-lights plan to buy 114 French Rafale jets",
-    "summary": "The purchase would be a significant upgrade for the Indian Air Force, whose fighter fleet, largely of Russian origin, is dwindling",
-    "url": "https://www.bloomberg.com/news/articles/2026-01-16/india-inches-closer-to-buying-114-french-rafale-jets",
-    "source": "Bloomberg",
-    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
-    "relatedSymbols": [],
-    "publishedAt": 1768628280,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1769246296,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "India's government has approved a plan to acquire 114 Rafale jets from France, a move aimed at modernizing the Indian Air Force's fleet, which has been predominantly Russian-made and is facing inventory shortages. This purchase signifies a strategic pivot in defense procurement, aligning with India's goal to enhance its aerial capability and reduce dependency on Russian military hardware. The deal not only bolsters bilateral relations between India and France but also reflects broader geopolitical shifts in defense partnerships in the region. As the Indian military enhances its operational readiness, this acquisition could signal increased defense spending in other areas, creating longer-term opportunities for defense contractors globally.",
-      "impact": "In the short term, defense contractors involved in manufacturing, support, and logistics for the Rafale jets may see a positive impact on their stock price due to heightened investor sentiment driven by government contracts. Companies like Dassault Aviation, among others, could benefit from improved earnings outlooks as a result of this deal. In the medium term, as India seeks to fulfill its modernization goals, related stocks may continue to show growth potential, particularly if the trend of increasing defense spending persists amidst regional security dynamics.",
-      "risks": [
-        "execution risk related to the integration of new aircraft into the existing fleet",
-        "currency fluctuation risk affecting the cost of imports",
-        "political risk surrounding defense budget allocations or changes in government",
-        "timeline delays in delivery impacting operational readiness"
-      ]
-    }
-  },
-  {
-    "id": "7569361",
-    "headline": "From Iran to Venezuela, why the oil market is on edge this weekend",
-    "summary": "Weekends now seem to be the worse time for oil traders to let their guard down.",
-    "url": "https://www.marketwatch.com/story/from-iran-to-venezuela-why-the-oil-market-is-on-edge-this-weekend-cf5e1ddb",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1768614360,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1769246335,
-      "sentiment": "bearish",
-      "confidence": 0.75,
-      "summary": "Recent geopolitical tensions involving key oil-producing nations like Iran and Venezuela have created heightened uncertainty in the oil market. With potential disruptions in supply and sanctions impacting production levels, traders are apprehensive about significant price volatility. The oil market's sensitivity to weekend news adds a layer of unpredictability, prompting traders to adopt a cautious stance. Given these developments, the likelihood of fluctuating oil prices in the near term seems elevated.",
-      "impact": "Stocks of oil companies may face downward pressure due to the increased volatility in oil prices. In the short term, energy sector earnings could be negatively impacted by uncertain supply conditions and reduced market confidence. This environment could lead to lower valuations as investors factor in the risks associated with geopolitical tensions and their potential to disrupt oil supply and pricing.",
-      "risks": [
-        "geopolitical instability risk",
-        "supply disruption risk",
-        "currency fluctuation risk",
-        "demand destruction risk"
-      ]
-    }
-  },
-  {
-    "id": "7569354",
-    "headline": "Cramer's week ahead: Earnings from Netflix, Intel, Capital One, McCormick",
-    "summary": "CNBC's Jim Cramer walked investors through next week on Wall Street.",
-    "url": "https://www.cnbc.com/2026/01/16/cramers-week-ahead-earnings-from-netflix-intel-capital-one-mccormick.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/104741387-IMG_8445-jim-cramer.jpg?v=1696458439&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1768605154,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1769246381,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "Next week, key earnings reports will come from major players including Netflix, Intel, Capital One, and McCormick as the earnings season unfolds. Jim Cramer highlights potential volatility, especially in sectors like housing and food, with a cautious tone on Netflix's significant acquisition plans and Intel's performance amid fierce semiconductor competition. Notably, Cramer sees potential in 3M and United Airlines given recent positive trends, while also keeping an eye on J&J's transformation into a pharmaceutical company and the resilience of Charles Schwab amidst wealth transfers. Macroeconomic indicators like the PCE price index will also be closely monitored.",
-      "impact": "Investors may experience mixed reactions to the upcoming earnings, with potential short-term volatility particularly for Netflix and Intel, depending on their earnings surprises or disappointments. Positive sentiment around 3M and United Airlines may offer buying opportunities, while J&J and Schwab could maintain stability amidst broader market uncertainties. The results may also influence sector allocations, especially if PCE inflation data aligns with Cramer's expectations of a restrained outlook, impacting overall market sentiment in the short to medium term.",
-      "risks": [
-        "earnings miss risk",
-        "competitive pressures in the semiconductor space",
-        "regulatory risks related to acquisitions",
-        "macroeconomic instability affecting consumer spending"
       ]
     }
   }
