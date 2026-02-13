@@ -1,5 +1,28 @@
 [
   {
+    "id": "7576537",
+    "headline": "Amazon’s stock just clinched its worst losing streak in nearly 20 years. It’s giving investors AWS déjà vu.",
+    "summary": "As shares of Amazon deepen into a bear market, investors are once again weighing if the company’s spending plans will pay off.",
+    "url": "https://www.marketwatch.com/story/amazons-stock-just-clinched-its-worst-losing-streak-in-nearly-two-decades-its-giving-investors-aws-deja-vu-2f239fe3",
+    "source": "MarketWatch",
+    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+    "relatedSymbols": [],
+    "publishedAt": 1771020840,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1771024609,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Amazon's stock has entered its worst losing streak in nearly 20 years, sparking concerns among investors about the company's spending plans. This bear market downturn is reminiscent of the company's struggles with its AWS division, which has historically been a key growth driver. As a result, investors are reevaluating whether Amazon's ongoing investments in areas like cloud computing, advertising, and physical retail will yield returns. The company's high valuation and recent underperformance have heightened concerns about its earnings outlook and long-term growth prospects.",
+      "impact": "The prolonged losing streak is likely to put pressure on Amazon's stock price in the short term, potentially leading to a further decline in valuation. In the medium term, the company's earnings outlook may be impacted by the need to justify its high spending plans, which could lead to a decrease in investor sentiment and a subsequent decline in stock price. The bear market also increases the risk of a liquidity crisis, making it more challenging for Amazon to raise capital or execute large-scale acquisitions.",
+      "risks": [
+        "valuation risk",
+        "earnings outlook risk",
+        "liquidity risk"
+      ]
+    }
+  },
+  {
     "id": "7576528",
     "headline": "Trump’s affordability agenda has a car problem it needs to fix",
     "summary": "Americans had an auto-dealer transparency law that could have saved them $3.4 billion. An appeals court struck it down.",
@@ -22960,30 +22983,6 @@
         "potential implementation of retaliatory tariffs by European Union impacting multinational revenues and supply chains",
         "uncertainty over U.S. trade policy trajectory leading to market volatility and investor risk aversion",
         "risk of accelerated U.S. dollar depreciation affecting corporate earnings and foreign investment flows"
-      ]
-    }
-  },
-  {
-    "id": "7569846",
-    "headline": "Amazon CEO Jassy says Trump's tariffs have started to 'creep' into prices",
-    "summary": "Sellers tried to absorb the tariff shock by buying stock ahead of time, but much of that inventory has run out, forcing some businesses to raise prices.",
-    "url": "https://www.cnbc.com/2026/01/20/amazon-jassy-trump-tariffs-prices-shoppers.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108107707-1740584303333-gettyimages-2201489447-ALEXA_AI_UNVEILING.jpeg?v=1761592602&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1768917021,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1769082999,
-      "sentiment": "bearish",
-      "confidence": 0.85,
-      "summary": "Amazon CEO Andy Jassy acknowledged that tariffs imposed under the Trump administration are increasingly impacting consumer prices on the platform. Initially, Amazon and its third-party sellers pre-purchased inventory to mitigate tariff cost shocks, but that inventory has largely depleted, forcing sellers to pass some costs onto consumers. As Amazon operates on thin operating margins, especially in retail, there is limited ability to absorb these tariff-related cost increases without raising prices. Consumer behavior is shifting, with some buyers opting for lower-priced alternatives or delaying discretionary purchases. This news reflects broader trade tensions contributing to inflationary pressures in retail and supply chain challenges.",
-      "impact": "In the short to medium term, Amazon may face margin pressures as tariffs drive costs higher and sellers pass price increases to consumers, potentially dampening sales volume for higher-end or discretionary goods. The delicate balance between absorbing costs and maintaining competitive pricing will challenge profit margins and could weigh on Amazon’s earnings outlook. Investors may also react negatively to potential sales shifts and inflation-related margin erosion, leading to heightened stock volatility. Conversely, resilience in consumer spending noted by Jassy may moderate some downside risk but overall sentiment is likely cautious.",
-      "risks": [
-        "margin compression risk from higher tariff-driven costs",
-        "demand slowdown risk due to consumer price sensitivity",
-        "supply chain disruption risk affecting inventory availability",
-        "macroeconomic risk from escalating trade tensions and inflation"
       ]
     }
   }
