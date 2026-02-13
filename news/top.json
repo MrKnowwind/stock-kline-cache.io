@@ -1,5 +1,28 @@
 [
   {
+    "id": "7576437",
+    "headline": "The Investing Club's top 10 things to watch in the stock market Friday",
+    "summary": "The January consumer price index report came in slightly cooler than expected.",
+    "url": "https://www.cnbc.com/2026/02/13/the-investing-clubs-top-10-things-to-watch-in-the-stock-market-friday.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108249452-17678049242026-01-07t165209z_290545539_rc2dwiagni1x_rtrmadp_0_usa-stocks.jpeg?v=1767805134&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1770991512,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770993088,
+      "sentiment": "bullish",
+      "confidence": 0.7,
+      "summary": "The January consumer price index report came in slightly cooler than expected, with a 2.4% year-over-year increase, down from 2.7% in December. This news has had a mixed impact on the market, with some stocks reacting positively to the lower inflation rate. Applied Materials and Arista Networks reported strong earnings and issued positive outlooks, while DraftKings and Coinbase faced disappointing results. Additionally, the news of President Trump's plan to roll back some tariffs on steel and aluminum has affected US steelmakers such as Nucor and Cleveland-Cliffs.",
+      "impact": "The lower inflation rate may have a positive impact on the market, potentially leading to increased consumer spending and economic growth. This could benefit companies like Applied Materials and Arista Networks, which have reported strong earnings and issued positive outlooks. However, the news also highlights the ongoing challenges faced by DraftKings and Coinbase, which may struggle to maintain their growth momentum. The roll back of tariffs on steel and aluminum may also have a negative impact on US steelmakers like Nucor and Cleveland-Cliffs.",
+      "risks": [
+        "inflation rate uncertainty",
+        "tariff policy uncertainty",
+        "competitive threats in the semiconductor and cybersecurity industries"
+      ]
+    }
+  },
+  {
     "id": "7576417",
     "headline": "The ‘golden age’ of aero engines is just getting started. These are the stocks to play, says JPMorgan",
     "summary": "JPMorgan says aero engines is a hot sector and not about to go away, with GE Aerospace among its picks.",
@@ -122,7 +145,20 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/108264650-1770839435386-DHL_StretchRobot_2.jpg?v=1770839728&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1770985801
+    "publishedAt": 1770985801,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770993135,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The article discusses the increasing adoption of automation in the logistics and shipping industry, with companies like UPS, FedEx, and DHL leveraging autonomous robots and artificial intelligence to improve efficiency and reduce labor costs. This trend is driven by the need to grow the business while facing labor and space constraints. The companies mentioned are deploying automation at scale, with DHL reporting a 95% adoption rate and UPS planning to increase its automated facilities to 68% of its network by the end of the year. The global warehouse automation market is expected to exceed $51 billion by 2030, indicating a significant growth opportunity.",
+      "impact": "The news is likely to have a positive impact on the stocks of UPS, FedEx, and DHL, as automation is expected to drive efficiency and cost savings. This could lead to an increase in earnings and potentially boost the companies' valuations. Additionally, the growth of the automation market could create new opportunities for these companies to expand their services and offerings.",
+      "risks": [
+        "integration risk",
+        "scalability risk",
+        "regulatory risk"
+      ]
+    }
   },
   {
     "id": "7576333",
@@ -132,7 +168,16 @@
     "source": "MarketWatch",
     "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
     "relatedSymbols": [],
-    "publishedAt": 1770983880
+    "publishedAt": 1770983880,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770993183,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Pinterest's shares are declining due to a disappointing revenue outlook and quarterly growth. The company's struggles with AI disruption concerns have persisted, with some analysts questioning its ability to rescue the platform with its 619 million users. This is a significant concern as Pinterest has been investing heavily in AI to enhance its features and compete with other social media platforms. The company's quarterly growth and revenue outlook have fallen short of expectations, exacerbating the bearish sentiment.",
+      "impact": "The decline in Pinterest's shares is likely to have a short-term negative impact on the stock price, potentially leading to a decrease in valuation. In the medium term, the company's struggles with AI disruption may lead to a decline in user engagement and ad revenue, further pressuring the stock. The bearish sentiment and disappointing quarterly growth may also lead to a decrease in investor confidence, reducing liquidity and making it harder for the company to raise capital. The macro factor of increasing competition in the social media space may also contribute to Pinterest's struggles.",
+      "risks": []
+    }
   },
   {
     "id": "7576334",
@@ -142,7 +187,20 @@
     "source": "MarketWatch",
     "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
     "relatedSymbols": [],
-    "publishedAt": 1770983580
+    "publishedAt": 1770983580,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770993231,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Morgan Stanley's identification of key themes such as AI adoption, energy, societal changes, and multipolarity may accelerate investment flows towards European stocks. This shift is driven by the potential for these themes to drive growth and innovation in Europe, particularly in the energy and technology sectors. The report highlights the increasing importance of Europe as a hub for AI adoption, with the region poised to benefit from the growing demand for energy and technological advancements. This trend is expected to lead to increased investment and economic growth in Europe.",
+      "impact": "The potential investment flows towards European stocks may lead to increased earnings for companies in the energy and technology sectors, driving up valuations and sentiment. This could also lead to improved liquidity and increased investor interest in European stocks, particularly those with exposure to AI adoption and energy. In the medium term, this trend may drive growth and innovation in Europe, leading to increased economic activity and investment opportunities.",
+      "risks": [
+        "Regulatory risks associated with the adoption of new technologies and energy policies",
+        "Potential for increased competition from US-based companies",
+        "Dependence on global economic trends and macro factors"
+      ]
+    }
   },
   {
     "id": "7576335",
@@ -152,7 +210,20 @@
     "source": "MarketWatch",
     "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
     "relatedSymbols": [],
-    "publishedAt": 1770981300
+    "publishedAt": 1770981300,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770993278,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Capgemini's CEO emphasizes that AI is a catalyst for growth, rather than a threat, as clients are seeking to leverage AI to enhance their business operations. This statement suggests that the company is well-positioned to capitalize on the growing demand for AI consulting services. The CEO's comments imply that investors' concerns about AI disrupting the industry are unfounded, and instead, AI is driving new opportunities for Capgemini. This sentiment is a positive indicator for the company's growth prospects.",
+      "impact": "The CEO's statement is likely to boost investor sentiment towards Capgemini, potentially leading to a short-term increase in stock price as investors become more optimistic about the company's growth prospects. In the medium term, this could lead to increased demand for Capgemini's AI consulting services, driving revenue growth and potentially higher earnings. The company's valuation may also benefit from the improved sentiment, making it an attractive investment opportunity.",
+      "risks": [
+        "over-reliance on AI trend",
+        "failure to execute on growth opportunities",
+        "intensifying competition in AI consulting services"
+      ]
+    }
   },
   {
     "id": "7576336",
@@ -22925,30 +22996,6 @@
         "interest rate risk if yields do not stabilize",
         "market volatility from shifting investor sentiment",
         "global economic uncertainties impacting domestic stability"
-      ]
-    }
-  },
-  {
-    "id": "7569666",
-    "headline": "Stock futures slump as U.S.-Europe trade tensions ramp up over Trump’s Greenland demands",
-    "summary": "Wall Street braced for losses when regular trading resumes Tuesday, as U.S. stock futures fell over the holiday weekend following President Donald Trump’s latest tariff threats against Europe.",
-    "url": "https://www.marketwatch.com/story/stock-futures-slump-as-u-s-europe-trade-tensions-ramp-up-over-trumps-greenland-demands-2fdf8af8",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1768864860,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1769234173,
-      "sentiment": "bearish",
-      "confidence": 0.75,
-      "summary": "U.S. stock futures fell as trade tensions escalated over President Trump's demands regarding Greenland, which has raised concerns about potential tariffs on European imports. This comes at a time when markets are already sensitive to trade negotiations and global economic growth prospects. Investors are particularly wary of how these tensions could impact corporate earnings and consumer sentiment. A sustained escalation in trade disputes could hinder economic recovery and lead to volatility in the stock market.",
-      "impact": "The immediate impact on related stocks is likely to be negative, as increased trade tensions may lead to market corrections and a risk-off sentiment among investors. Sectors heavily reliant on trade, such as consumer goods and technology, could see pressure on earnings outlooks if tariffs are imposed, which could affect stock valuations and liquidity in the short term. Longer-term, companies may need to adjust their supply chains and pricing strategies, which could weigh on profitability and investor sentiment.",
-      "risks": [
-        "escalating trade tensions with Europe",
-        "increased tariffs impacting consumer goods",
-        "uncertainties in global economic growth",
-        "supply chain disruptions"
       ]
     }
   }
