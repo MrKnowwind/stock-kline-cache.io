@@ -1,5 +1,24 @@
 [
   {
+    "id": "7576277",
+    "headline": "DraftKings’ stock sinks as investors balk at the high cost of a push into prediction markets",
+    "summary": "The sports-betting company sees “a massive, incremental opportunity” in the hot world of prediction markets.",
+    "url": "https://www.marketwatch.com/story/draftkings-stock-sinks-as-investors-balk-at-the-high-cost-of-a-push-into-prediction-markets-79bb7fc2",
+    "source": "MarketWatch",
+    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+    "relatedSymbols": [],
+    "publishedAt": 1770939360,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770940961,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "DraftKings' stock price has declined due to investor concerns over the high costs associated with expanding into prediction markets. The company believes there is a significant opportunity in this space, but investors are hesitant to invest in this high-risk, high-reward area. DraftKings is betting on the growth of prediction markets, which are expected to be a major trend in the sports-betting industry. This expansion could potentially disrupt the company's core business and lead to increased competition.",
+      "impact": "The stock price decline may indicate a short-term negative impact on DraftKings' valuation, potentially affecting its earnings outlook. However, if the prediction market expansion is successful, it could lead to significant growth and increased market share in the long term. The company's willingness to invest in this area may also boost investor sentiment and liquidity in the medium term.",
+      "risks": []
+    }
+  },
+  {
     "id": "7576273",
     "headline": "Amazon’s stock just entered a bear market. This ‘Magnificent Seven’ name could be next.",
     "summary": "Big Tech stocks are being pummeled by fears of AI overspending, but some are more at risk than others",
@@ -7,7 +26,20 @@
     "source": "MarketWatch",
     "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
     "relatedSymbols": [],
-    "publishedAt": 1770936600
+    "publishedAt": 1770936600,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770941008,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Amazon's stock has entered a bear market, sparking concerns about the broader tech sector. The article suggests that some 'Magnificent Seven' stocks, a group of high-growth tech companies, may be at risk of similar declines. The 'Magnificent Seven' include Amazon, Microsoft, Alphabet, Facebook, Apple, NVIDIA, and Tesla. The decline is attributed to fears of AI overspending, which is causing investors to reassess the sector's growth prospects.",
+      "impact": "The article's prediction that Amazon's stock decline may be followed by a similar decline in other 'Magnificent Seven' stocks could lead to a sector-wide sell-off, negatively impacting the stocks' valuations and earnings outlook. This could be exacerbated by the current fears of AI overspending, which may lead to reduced investor sentiment and decreased liquidity in the sector. In the short term, this could result in a decline in stock prices, while in the medium term, it may lead to a reevaluation of the sector's growth prospects and potential changes in investor expectations.",
+      "risks": [
+        "valuation risk",
+        "earnings slowdown risk",
+        "sentiment risk"
+      ]
+    }
   },
   {
     "id": "7576274",
@@ -109,7 +141,21 @@
     "source": "MarketWatch",
     "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
     "relatedSymbols": [],
-    "publishedAt": 1770934560
+    "publishedAt": 1770934560,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770941053,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Apple's delayed rollout of an advanced Siri version has sparked concerns about the company's ability to innovate and compete in the AI space. This setback could impact Apple's earnings outlook, particularly in the near term. The company's valuation, which has been high, may also come under pressure. The delay could also affect investor sentiment towards Apple, making it a less attractive investment option.",
+      "impact": "The news may lead to a short-term decline in Apple's stock price, potentially wiping out $200 billion in market capitalization. In the medium term, Apple's earnings growth may be impacted, as the delayed Siri rollout could lead to reduced sales and revenue. The company's high valuation may also make it more vulnerable to a price correction. Liquidity in Apple's stock may decrease as investors become more cautious.",
+      "risks": [
+        "Delayed Siri rollout risk",
+        "Earnings growth slowdown risk",
+        "Valuation risk",
+        "Investor sentiment risk"
+      ]
+    }
   },
   {
     "id": "7576266",
@@ -119,7 +165,20 @@
     "source": "MarketWatch",
     "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
     "relatedSymbols": [],
-    "publishedAt": 1770934560
+    "publishedAt": 1770934560,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1770941099,
+      "sentiment": "bearish",
+      "confidence": 0.6,
+      "summary": "Coinbase reported a surprise loss due to a sharp decline in cryptocurrency prices, which led to a decrease in trading volumes and revenue. The company's stock bounced back from a two-year low, but this may be a temporary reprieve. The crypto market's volatility and decline in investor interest pose a significant challenge for Coinbase, which relies heavily on transaction fees. The company's ability to adapt to this changing market and maintain its user base will be crucial to its long-term success.",
+      "impact": "The surprise loss and decline in cryptocurrency prices may lead to a short-term sell-off in Coinbase's stock, potentially affecting its valuation and earnings outlook. In the medium term, the company's ability to navigate the crypto market's volatility and maintain its user base will be crucial to its success. The decline in investor interest may also impact Coinbase's liquidity and sentiment, making it more challenging for the company to raise capital or attract new investors.",
+      "risks": [
+        "decline in cryptocurrency prices risk",
+        "investor interest risk",
+        "liquidity risk"
+      ]
+    }
   },
   {
     "id": "7576252",
@@ -22977,30 +23036,6 @@
         "uncertainty about tariff timelines",
         "impact on consumer spending",
         "potential retaliatory measures from other countries"
-      ]
-    }
-  },
-  {
-    "id": "7569697",
-    "headline": "Jane Street’s India unit saw trading gains soar 494% before curbs",
-    "summary": "The financial results cast new light on the scale of Jane Street’s trading operations in India, where the company is currently facing investigations by the stock market regulator.",
-    "url": "https://www.bloomberg.com/news/articles/2026-01-19/jane-street-india-unit-saw-trading-gains-soar-494-before-curbs",
-    "source": "Bloomberg",
-    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
-    "relatedSymbols": [],
-    "publishedAt": 1768796593,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1769239437,
-      "sentiment": "bearish",
-      "confidence": 0.75,
-      "summary": "Jane Street's India unit reported an astounding 494% increase in trading gains, highlighting the potential for significant profits within the Indian market. However, this surge occurs concurrently with investigations by the stock market regulator, casting a shadow over the implications of such growth. Regulatory scrutiny suggests that Jane Street might face operational limitations which could hinder future performance. The juxtaposition of soaring profits and potential restrictions indicates a precarious situation for investors.",
-      "impact": "In the short term, the significant increase in trading gains may attract positive attention, but the ongoing regulatory investigations could lead to increased volatility and uncertainty regarding Jane Street's operations in India. If the investigations result in curbs or fines, this could adversely impact earnings outlook and stock performance, likely leading to bearish sentiment among investors. In the medium term, the ongoing legal issues may deter possible partnerships or expansion strategies in the region, affecting overall valuation.",
-      "risks": [
-        "regulatory scrutiny risk",
-        "operational limitation risk",
-        "market sentiment fluctuation risk",
-        "potential fines and sanctions risk"
       ]
     }
   }
