@@ -1,5 +1,28 @@
 [
   {
+    "id": "7577100",
+    "headline": "Sandisk’s stock falls as Western Digital plans to sell shares. What investors need to know.",
+    "summary": "The move, while not unexpected, will allow Western Digital to bolster its balance sheet and reduce debt.",
+    "url": "https://www.marketwatch.com/story/sandisks-stock-falls-as-western-digital-plans-to-sell-shares-what-investors-need-to-know-5f4c8d48",
+    "source": "MarketWatch",
+    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+    "relatedSymbols": [],
+    "publishedAt": 1771370820,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1771372930,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Western Digital plans to sell shares of SanDisk, which will likely lead to a decrease in the company's market capitalization and potentially impact its earnings per share. This move is not unexpected, as Western Digital has been looking to bolster its balance sheet and reduce debt. The sale of SanDisk shares will likely result in a decrease in the value of Western Digital's stake in the company. This could have a negative impact on Western Digital's financials and potentially lead to a decrease in its stock price.",
+      "impact": "The short-term impact of this news is likely to be a decrease in Western Digital's stock price, potentially in the range of 5-10% due to the dilution of its stake in SanDisk. In the medium term, this could lead to a reevaluation of Western Digital's earnings outlook, potentially impacting its valuation and liquidity. Investors should be cautious and monitor the situation closely.",
+      "risks": [
+        "valuation risk",
+        "earnings outlook risk",
+        "liquidity risk"
+      ]
+    }
+  },
+  {
     "id": "7577096",
     "headline": "What the 10-year Treasury’s move toward 4% says about AI anxiety in markets",
     "summary": "The S&P 500 on Tuesday finished only 1.9% away from its record finish in January, but that’s masking a lot of AI turbulence",
@@ -30,7 +53,20 @@
     "source": "MarketWatch",
     "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
     "relatedSymbols": [],
-    "publishedAt": 1771367160
+    "publishedAt": 1771367160,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1771372975,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Appaloosa Management, a hedge fund, increased its stake in American Airlines during the fourth quarter. This move indicates a positive outlook on the airline industry. American Airlines is a major player in the US airline market, and a boost in stake by a prominent investor could lead to increased investor confidence. The fund also added to its positions in Big Tech names, suggesting a positive view on the tech sector.",
+      "impact": "The increased stake in American Airlines could lead to short-term price appreciation due to increased investor interest and sentiment. The move may also positively impact the airline's earnings outlook, as a major investor's confidence in the company can influence investor sentiment and drive up stock prices. Additionally, the fund's increased exposure to Big Tech names may indicate a medium-term growth potential in the sector, which could positively impact related stocks.",
+      "risks": [
+        "Airline industry volatility due to factors like fuel prices and travel demand",
+        "Potential impact of global economic downturn on airline industry",
+        "Increased competition from low-cost carriers"
+      ]
+    }
   },
   {
     "id": "7577091",
@@ -22840,30 +22876,6 @@
         "integration risk",
         "valuation and leverage risk",
         "escalation in bidding leading to overpayment"
-      ]
-    }
-  },
-  {
-    "id": "7570420",
-    "headline": "Trump’s tariff reversal sparked a market rally — but the violent swing in stocks is a warning of what lies ahead for investors",
-    "summary": "Investors are getting accustomed to a familiar pattern known on Wall Street as ‘TACO’  — the assumption that the president eventually reverses policies that threaten to sink the market",
-    "url": "https://www.marketwatch.com/story/trumps-tariff-reversal-sparked-a-market-rally-but-the-violent-swing-in-stocks-is-a-warning-of-what-lies-ahead-for-investors-f88aff09",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1769042760,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1769052271,
-      "sentiment": "neutral",
-      "confidence": 0.75,
-      "summary": "The article highlights that President Trump’s reversal on tariff policies triggered a significant market rally, reflecting investor relief and optimism about reduced trade tensions. However, the ensuing volatile swings also serve as a warning about the instability and unpredictability of market reactions to political decisions. This ‘TACO’ pattern—expecting the administration to backtrack on threatening economic policies—has become ingrained in investor behavior, potentially masking underlying trade-related uncertainties. The frequent policy reversals contribute to short-term market rallies but also increase volatility, complicating fundamental investment analysis. The broader context is a market grappling with political risks impacting trade, supply chains, and corporate margins.",
-      "impact": "In the short term, stocks sensitive to trade policies, including industrials, technology, and manufacturing sectors, may benefit from rallying sentiment whenever tariff relaxations are announced. However, the persistent volatility signals caution for traders relying on sustained market momentum, as earnings forecasts may remain uncertain due to fluctuating policy environments. Medium-term impacts could include reevaluations of global supply chains and cost structures, with companies potentially adjusting capital expenditure plans in response to tariff uncertainty and geopolitical risks.",
-      "risks": [
-        "policy reversal risk leading to sudden market swings",
-        "trade tension escalation impacting global supply chains",
-        "earnings volatility due to unpredictable cost inputs",
-        "investor sentiment swings causing liquidity fluctuations"
       ]
     }
   }
