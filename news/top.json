@@ -980,7 +980,20 @@
     "source": "Bloomberg",
     "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
     "relatedSymbols": [],
-    "publishedAt": 1771385321
+    "publishedAt": 1771385321,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1771483312,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The article reports on the progress in US-Iran nuclear talks, which has led to a stabilization in oil prices. The background is that crude oil prices have risen this year due to geopolitical concerns, including tensions over Iran. The news suggests that the talks may ease some of the concerns, potentially leading to a decrease in oil prices. However, the global market still faces a potential glut, which could offset the impact of the diplomatic progress.",
+      "impact": "The news is likely to have a mixed impact on the energy sector. In the short-term, the stabilization of oil prices may lead to a slight increase in the earnings of oil producers, as their costs are largely fixed. However, the medium-term impact may be negative if the global glut persists, leading to a decrease in oil prices and subsequently affecting the earnings of oil producers. The news is unlikely to have a significant impact on the valuation of energy stocks, as the sector's fundamentals remain uncertain.",
+      "risks": [
+        "global glut risk",
+        "geopolitical risk",
+        "valuation uncertainty"
+      ]
+    }
   },
   {
     "id": "7577452",
@@ -990,7 +1003,20 @@
     "source": "Bloomberg",
     "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
     "relatedSymbols": [],
-    "publishedAt": 1771384958
+    "publishedAt": 1771384958,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1771483362,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "The US has renewed its threat to withdraw from the International Energy Agency (IEA) due to the organization's climate advocacy. The IEA's latest report reintroduced a 'Current Policies Scenario' which assumes existing conditions and tempered forecasts on an imminent peak in oil demand. This move is seen as a pushback against the IEA's climate-focused stance. The US has been a key player in the IEA and its withdrawal could have significant implications for the organization's influence and credibility.",
+      "impact": "The potential withdrawal of the US from the IEA could lead to a short-term increase in oil prices as the market digests the news and assesses the implications for global oil demand. In the medium term, this could have a negative impact on the earnings outlook for oil majors such as ExxonMobil and Chevron, as well as other companies with significant exposure to the US market. The news may also lead to a decrease in investor sentiment towards these companies, potentially affecting their stock prices and liquidity.",
+      "risks": [
+        "regulatory risk",
+        "geopolitical risk",
+        "energy price volatility risk"
+      ]
+    }
   },
   {
     "id": "7577113",
