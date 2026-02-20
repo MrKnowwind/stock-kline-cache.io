@@ -99,7 +99,20 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/108248734-1767708572744-gettyimages-2254217333-AFP_89PZ9WR.jpeg?v=1770211968&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1771620713
+    "publishedAt": 1771620713,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1771628613,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The upcoming week is expected to be significant for the market, with several key events including earnings reports from Home Depot, Workday, and Nvidia. The tensions in the Middle East and potential US-Iran conflict may lead to a volatile market situation. However, the analyst is optimistic about the potential for rate cuts and the impact of AI on software companies. Workday's earnings report is particularly important, as the company is facing competition from AI-powered agents that could potentially disrupt its business model.",
+      "impact": "The analyst is bullish on Alphabet and Diamondback Energy due to their potential to benefit from a volatile market and rising oil prices. Workday's earnings report may have a significant impact on the company's stock price, as investors will be watching for signs of how the company is adapting to the threat of AI-powered agents. The analyst expects rates to come down, which could benefit Home Depot and other companies with high interest rates. Nvidia's earnings report may also have a significant impact on the stock price, as investors will be watching for signs of growth and innovation in the AI space.",
+      "risks": [
+        "US-Iran conflict risk",
+        "AI disruption risk for Workday",
+        "Interest rate hike risk for Home Depot"
+      ]
+    }
   },
   {
     "id": "7578012",
