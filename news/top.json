@@ -1,5 +1,51 @@
 [
   {
+    "id": "7577939",
+    "headline": "The economy caught a chill from Winter Storm Fern and tariffs are a lingering problem, S&P finds",
+    "summary": "The U.S. economy got sidetracked in February by tariff-related price increases, sluggish sales and the previous month’s Winter Storm Fern, but top executives were also more optimistic that business will improve later in the year.",
+    "url": "https://www.marketwatch.com/story/the-economy-caught-a-chill-from-winter-storm-fern-and-tariffs-are-a-lingering-problem-s-p-finds-d9b2b05c",
+    "source": "MarketWatch",
+    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+    "relatedSymbols": [],
+    "publishedAt": 1771603620,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1771604430,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "The US economy was negatively impacted in February by the lingering effects of Winter Storm Fern and tariff-related price increases, leading to sluggish sales. This news is concerning for businesses that rely on consumer spending and international trade. The S&P survey also found that top executives are less optimistic about the current state of the economy, which may lead to reduced investment and hiring. However, executives are cautiously optimistic about the future, expecting business to improve later in the year.",
+      "impact": "The news is likely to have a negative impact on the stock market in the short-term, particularly for companies that rely heavily on consumer spending and international trade. This may lead to reduced earnings outlook and lower stock prices. In the medium-term, a recovery in the economy could lead to a rebound in stock prices, but this is uncertain and depends on various factors such as the resolution of the trade tensions and the impact of the winter storm on consumer spending.",
+      "risks": [
+        "Tariff-related price increases",
+        "Sluggish sales due to Winter Storm Fern",
+        "Uncertainty around future economic growth"
+      ]
+    }
+  },
+  {
+    "id": "7577938",
+    "headline": "Trump tariffs: U.S. could owe more than $175 billion in refunds after Supreme Court ruling, estimate says",
+    "summary": "Supreme Court Justice Brett Kavanaugh, in his dissent, warned that \"the refund process\" for tariffs \"is likely to be a 'mess,' \" citing oral arguments",
+    "url": "https://www.cnbc.com/2026/02/20/supreme-court-trump-tariffs-us-refunds.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108267901-17716010862026-02-20t150547z_1740825863_rc2xpdati91f_rtrmadp_0_usa-trump-tariffs.jpeg?v=1771602326&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1771602995,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1771604479,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The US Supreme Court ruled that tariffs unilaterally imposed by President Trump are illegal, which could lead to refunds of over $175 billion to importers. This decision was made in a 6-3 ruling, with Justice Kavanaugh warning of the potential logistical difficulty of refunding tariffs already collected. The tariffs were imposed without Congressional authorization under the International Emergency Economic Powers Act. This ruling may impact trade deals worth trillions of dollars, causing uncertainty regarding future trade arrangements.",
+      "impact": "The potential refunds could lead to a short-term increase in cash flow for importers, but may also create uncertainty and potential volatility in the market. In the medium term, the reduced tariff rates could lead to increased imports and potentially negatively impact companies that rely on tariffs for revenue. This could also lead to a reevaluation of the earnings outlook for companies that have benefited from the tariffs, potentially weighing on their stock prices.",
+      "risks": [
+        "uncertainty regarding future trade arrangements",
+        "potential volatility in the market",
+        "reduced tariff revenue for companies that rely on it"
+      ]
+    }
+  },
+  {
     "id": "7577926",
     "headline": "Supreme Court rejects Trump’s tariffs. Here’s what the president could try to use instead.",
     "summary": "The U.S. Supreme Court said President Trump exceeded his authority in using a 1977 law to justify a large swath of his tariffs, but that does not mean that he’s now unable to slap tariffs on other countries’ products.",
@@ -112,6 +158,25 @@
         "demand slowdown risk",
         "valuation risk"
       ]
+    }
+  },
+  {
+    "id": "7577935",
+    "headline": "We're exiting our position in this restaurant stock — here's why",
+    "summary": "The market is cheering Friday, but we see limited upside from here.",
+    "url": "https://www.cnbc.com/2026/02/20/were-exiting-our-position-in-this-restaurant-stock-heres-why.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108266901-1771437546575-Traders-OB-Photo-20260218-CC-PRESS-7.jpg?v=1771437734&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1771596014,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1771604525,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Texas Roadhouse reported a disappointing Q4, missing revenue, comparable restaurant sales, and earnings per share estimates. Despite this, the stock is rallying on strong comp sales acceleration. However, high beef inflation is expected to continue, which will pressure margins and earnings leverage. Management's reiteration of 7% commodity inflation in 2026 is a concern, as markets typically look ahead 12-16 months.",
+      "impact": "The strong comp sales acceleration may lead to a short-term rally, but we expect the stock to face challenges in the medium term due to high beef inflation. This could pressure earnings and valuation, potentially leading to a decline in the stock price. The lack of conviction in a near-term reversal of beef prices will also hinder the potential for increased forward earnings estimates. As a result, we expect the stock to underperform in the coming months.",
+      "risks": []
     }
   },
   {
@@ -22662,78 +22727,6 @@
         "public relations risk due to unrest",
         "potential regulatory changes affecting business operations",
         "economic slowdown in Minnesota impacting local sales"
-      ]
-    }
-  },
-  {
-    "id": "7571152",
-    "headline": "Here are the 2 big things we're watching in the stock market in the week ahead",
-    "summary": "While the East Coast is digging out from a winter storm, the temperature is set to heat up on Wall Street.",
-    "url": "https://www.cnbc.com/2026/01/25/here-are-the-2-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/105103367-GettyImages-901294272.jpg?v=1769368388&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1769368801,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1769370804,
-      "sentiment": "bullish",
-      "confidence": 0.75,
-      "summary": "The upcoming week is pivotal for the stock market with significant earnings reports from major companies, including Boeing, Meta Platforms, and Apple, expected to impact sentiment. Additionally, the Federal Reserve's two-day meeting is set to conclude with a policy statement, where the market anticipates no rate change, providing a favorable backdrop for equities. With the Fed's dovish stance, investor sentiment may improve, setting the tone for the upcoming earnings season. Boeing's recent performance and strong order announcements have heightened expectations for their Q4 earnings.",
-      "impact": "The anticipated positive earnings from Boeing could solidify its upward momentum, reinforcing bullish sentiment in the aerospace sector. Similarly, with major tech companies like Meta and Apple reporting soon, their performances could influence broader market trends and investor sentiment. If these companies exceed expectations, it could lead to renewed interest in tech stocks, potentially boosting their valuations and driving overall market gains in the short term.",
-      "risks": [
-        "earnings disappointment risk",
-        "interest rate policy shift risk",
-        "market volatility due to macroeconomic data",
-        "supply chain disruption risk"
-      ]
-    }
-  },
-  {
-    "id": "7571144",
-    "headline": "Here’s what investors want even more than a Fed interest-rate cut this week",
-    "summary": "Investors are rotating out of tech stocks and into other sectors of the market as the U.S. economy chugs along.",
-    "url": "https://www.marketwatch.com/story/heres-what-investors-want-even-more-than-a-fed-interest-rate-cut-this-week-1279f03f",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1769360400,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1769363590,
-      "sentiment": "bearish",
-      "confidence": 0.75,
-      "summary": "The article indicates a notable shift in investor sentiment as they pivot away from tech stocks in light of a resilient U.S. economy. This trend suggests that investors are seeking opportunities in sectors less sensitive to interest rates and potential economic fluctuations. The current economic indicators might lead to a belief that a Fed interest-rate cut, which was once a primary focus, is no longer the top priority for investors who are now more concerned about sector rotation and fundamentals. Such a shift could reflect broader market dynamics impacting valuation ratios across various sectors.",
-      "impact": "The rotation out of tech stocks could lead to short-term pressure on large-cap technology companies as selling accelerates in this sector. In the medium term, this could create potential undervaluation in tech if sentiment shifts back, but for now, companies outside the tech space may benefit from inflows. This sector rotation could impact earnings revisions for both tech and non-tech companies, influencing overall market liquidity as capital repositions amidst changing market dynamics.",
-      "risks": [
-        "continued sector rotation risk",
-        "interest rate increase risk despite current sentiment",
-        "potential earnings misses in tech companies",
-        "global economic slowdown risk affecting market fundamentals"
-      ]
-    }
-  },
-  {
-    "id": "7571137",
-    "headline": "30-year-old quit her job to open a bake shop—now her 2 storefronts bring in 7 figures yearly: 'I always knew I wanted to work for myself'",
-    "summary": "Abi Caswell started baking cookies at home in 2021. Five years later, she's the founder of two successful bakeries.",
-    "url": "https://www.cnbc.com/2026/01/25/30-year-old-quit-her-job-to-open-a-bake-shopnow-her-2-storefronts-bring-in-7-figures-yearly.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108254460-1768932887301-Abi_Caswell_cupcake_original.jpeg?v=1768933044&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1769351642,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1769353897,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Abi Caswell's journey from a home baker to the owner of two successful bakeries, 'Batter', highlights the rising trend of small, local businesses in the retail food sector. Capitalizing on the cookie craze and leveraging her business administration background, Caswell quickly built a strong local customer base and transitioned her side hustle into a full-fledged operation after experiencing strong demand at local markets. Her story reflects the broader growth in food entrepreneurship and consumer preference for unique, quality food experiences, positioning her company favorably in a competitive market.",
-      "impact": "The success of Caswell's bakeries could signal a bullish trend for small businesses in the retail food industry, indicating strong growth potential and consumer spending in this sector. The increase in sales and establishment of a local brand may positively influence investor sentiment, potentially attracting investments into similar businesses or franchises. The overarching trend of local, artisanal food shops gaining traction could suggest a longer-term improvement in earnings outlook for companies focusing on niche markets.",
-      "risks": [
-        "competitive pressure from larger bakeries and chains",
-        "fluctuations in raw ingredient costs",
-        "supply chain disruptions affecting product availability",
-        "consumer preference shifts away from baked goods"
       ]
     }
   }
