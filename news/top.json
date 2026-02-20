@@ -1,5 +1,28 @@
 [
   {
+    "id": "7577858",
+    "headline": "The economy just flashed a Goldilocks signal — and it’s been doing a lot of that lately",
+    "summary": "The tone of U.S. economic data has a Goldilocks feel, a strategist says.",
+    "url": "https://www.marketwatch.com/story/the-economy-just-flashed-a-goldilocks-signal-and-its-been-doing-a-lot-of-that-lately-447289d4",
+    "source": "MarketWatch",
+    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+    "relatedSymbols": [],
+    "publishedAt": 1771587600,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1771588936,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "The article discusses the 'Goldilocks signal' in the US economic data, indicating a moderate pace of growth, not too hot and not too cold. This signal has been consistent in recent times, suggesting a stable economic environment. The strategist's comment highlights the importance of this signal in understanding the economy's trajectory. The Goldilocks signal is a reference to the classic children's story where the porridge is neither too hot nor too cold, but just right. This analogy is used to describe the US economy's growth rate, which is not too fast or too slow, but rather at a moderate pace.",
+      "impact": "The Goldilocks signal in the US economic data may have a positive impact on the overall market sentiment, as it suggests a stable economic environment. This could lead to increased investor confidence and potentially boost stock prices in the short term. However, the medium-term impact may be more nuanced, as the stable growth rate may not lead to significant earnings growth for companies, potentially keeping valuations in check.",
+      "risks": [
+        "slowdown risk in earnings growth",
+        "valuation risk due to stable growth rate",
+        "macroeconomic uncertainty risk"
+      ]
+    }
+  },
+  {
     "id": "7577855",
     "headline": "Citigroup’s plan to survive AI aftershocks: Bet on bonds and small-cap stocks",
     "summary": "Smaller companies, cyclicals and bonds will help protect investors in a market that’s teeming with AI uncertainties, says Citigroup.",
@@ -22724,30 +22747,6 @@
         "potential shift in college sports dynamics",
         "volatile market sentiment towards college sports funding",
         "competition from alternative leagues and global opportunities"
-      ]
-    }
-  },
-  {
-    "id": "7571076",
-    "headline": "These 4 charts capture the whirlwind action in global markets so far this year",
-    "summary": "Investors are facing tumult in Japan’s bond market, a big rally in small-cap stocks, and surging prices for natural gas, gold and silver. And the year has only just begun.",
-    "url": "https://www.marketwatch.com/story/these-4-charts-capture-the-whirlwind-action-in-global-markets-so-far-this-year-8f71103d",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1769259600,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1769260928,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "The recent turmoil in Japan's bond market highlights potential fragilities within global financial systems, indicating investor uncertainty. Small-cap stocks have rallied, suggesting a risk-on sentiment among traders looking for growth opportunities. However, the dramatic increases in natural gas, gold, and silver prices point to inflationary pressures and possible supply constraints that could impact broader market stability. These factors collectively illustrate a complex macroeconomic landscape where traditional safe havens are becoming attractive amidst volatility.",
-      "impact": "Short-term, the increased volatility in global markets may lead to heightened caution among investors, driving a potential sell-off in equities influenced by rising commodity prices. In the medium term, companies reliant on natural resources may see improved earnings outlook due to higher prices, while those in consumer sectors may face margin pressures, thereby impacting valuations. Sentiment could shift rapidly as traders react to economic indicators related to inflation and interest rates, influencing liquidity conditions.",
-      "risks": [
-        "interest rate hike risk",
-        "inflationary pressure risk",
-        "global economic slowdown risk",
-        "currency fluctuation risk"
       ]
     }
   }
