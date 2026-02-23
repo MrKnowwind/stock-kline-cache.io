@@ -1,5 +1,28 @@
 [
   {
+    "id": "7578160",
+    "headline": "Is private equity the next market crisis? How we got here and what's next",
+    "summary": "As always, I want to avoid a sweeping declarations.",
+    "url": "https://www.cnbc.com/2026/02/22/jim-cramer-looks-at-whether-private-equity-the-next-market-crisis.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/107200469-1677528554271-NUP_200782_00155.jpg?v=1721682202&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1771803119,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1771812439,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The article discusses the potential risks associated with private equity and private debt, as investors begin to question the creditworthiness of companies in these sectors. Private equity firms have invested in tech companies that may have underestimated credit risk, and some have also lent money to small- and medium-sized businesses through business development companies. This has raised concerns about the transparency and safety of these investments. The article suggests that private equity companies may be taking on too much risk, which could have negative consequences for their stocks.",
+      "impact": "The potential impact on related stocks could be significant, with a short-term decline in stock prices as investors become more cautious. Medium-term, the earnings outlook for private equity firms may be affected as they struggle to recover from bad debt. The sector's valuation may also be impacted as investors reassess the risks associated with private equity and private debt. Liquidity could be affected as investors withdraw their investments from the sector.",
+      "risks": [
+        "credit risk",
+        "regulatory scrutiny",
+        "valuation risk"
+      ]
+    }
+  },
+  {
     "id": "7578153",
     "headline": "U.S. stock futures flat as investors await clarity on Trump’s latest tariff plans",
     "summary": "U.S. stock-market futures were little changed on Sunday, as investors grappled with the implications of Friday’s Supreme Court ruling that overturned most of President Donald Trump’s tariffs.",
@@ -22661,29 +22684,6 @@
         "Earnings miss risk",
         "Valuation risk",
         "Market volatility risk"
-      ]
-    }
-  },
-  {
-    "id": "7571434",
-    "headline": "Silver is having a meme-stock moment. Just look at these 3 charts.",
-    "summary": "Silver traders: Welcome to your meme-stock moment.",
-    "url": "https://www.marketwatch.com/story/silver-is-having-a-meme-stock-moment-just-look-at-these-3-charts-06de0d97",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1769466660,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1769479366,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Silver prices have surged in recent days, with the metal's price increasing by over 10% in the past week. This price movement is reminiscent of the meme-stock phenomenon, where a stock's price is driven by speculation and social media hype rather than fundamental analysis. The article cites charts showing the rapid price appreciation of silver, with some analysts attributing the move to a short squeeze and others to a speculative bubble. The silver market has historically been subject to price volatility, and this recent surge may be driven by a combination of factors, including investor sentiment and market speculation.",
-      "impact": "The recent price surge in silver may have a positive impact on mining companies that produce the metal, such as Pan American Silver Corp. (PAAS) and Hecla Mining Company (HL). If the price of silver continues to rise, these companies may see an increase in revenue and profitability, potentially leading to higher stock prices. However, the short-term impact may be muted as the market digests the news and adjusts to the new price levels. Medium-term, the surge in silver prices may lead to increased investment in the silver mining sector, driving further growth and expansion.",
-      "risks": [
-        "price volatility risk",
-        "speculative bubble risk",
-        "market sentiment risk"
       ]
     }
   }
