@@ -1,5 +1,28 @@
 [
   {
+    "id": "7578310",
+    "headline": "Jim Cramer's top 10 things to watch in the stock market Monday",
+    "summary": "President Trump is raising his threatened global tariff to 15%, and Eli Lilly triumphs over obesity rival Novo Nordisk once again.",
+    "url": "https://www.cnbc.com/2026/02/23/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108230191-17637574202025-11-21t203348z_1528530032_rc231ianvoco_rtrmadp_0_usa-stocks.jpeg?v=1763757480&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1771855612,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1771857722,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The US President has raised the global tariff rate to 15%, which may lead to a down open on Wall Street. Eli Lilly's obesity drug Zepbound has triumphed over Novo Nordisk's CagriSema in a head-to-head trial, causing a 15% drop in Novo Nordisk's shares and a 3% increase in Eli Lilly's shares. This news is bullish for Eli Lilly and bearish for Novo Nordisk. Additionally, several upgrades were announced, including RBC Capital Markets upgrading Banco Santander to buy, Wells Fargo upgrading Alphabet to buy, and UBS upgrading BlackRock to buy.",
+      "impact": "Eli Lilly's stock may continue to rise due to its successful obesity drug, while Novo Nordisk's stock may remain bearish in the short-term. The upgrades of Banco Santander, Alphabet, and BlackRock may also lead to increased investor interest and potentially higher stock prices. However, the downgrades of VF Corp, Workday, and Deere may lead to short-term selling pressure. The AI-related concerns and potential disruption in the software industry may also impact the stocks of companies like Salesforce and Intuit.",
+      "risks": [
+        "AI-related disruption risk",
+        "valuation risk for Deere and VF Corp",
+        "sentiment risk for Novo Nordisk"
+      ]
+    }
+  },
+  {
     "id": "7578287",
     "headline": "Fed’s Waller says next jobs report, not Supreme Court ruling, will be key for March interest rate decision",
     "summary": "The February jobs report, and not the Supreme Court ruling overturning a large part of President Donald Trump’s tariffs on imported goods, will be key to whether the Federal Reserve needs to cut interest rates in March, Federal Reserve Governor Christopher Waller said on Monday.",
@@ -118,7 +141,20 @@
     "source": "MarketWatch",
     "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
     "relatedSymbols": [],
-    "publishedAt": 1771849680
+    "publishedAt": 1771849680,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1771857771,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Lowe's has outperformed Home Depot in the past year, with its stock price increasing by 45% compared to Home Depot's 25% gain. This outperformance is attributed to Lowe's successful execution of its turnaround strategy, which includes investments in e-commerce and store remodels. The company's focus on improving its online shopping experience and enhancing customer service has resonated with investors. As both companies are set to report quarterly results this week, investors will be closely watching for any signs of continued growth and margin expansion.",
+      "impact": "The outperformance of Lowe's stock may lead to increased investor confidence in the company, driving further price appreciation in the short term. In the medium term, this could result in a re-rating of the company's valuation, potentially making it more attractive to value investors. Additionally, the comparison of quarterly results between Lowe's and Home Depot may impact sentiment in the home improvement retail sector, with Lowe's potentially benefiting from a positive earnings surprise.",
+      "risks": [
+        "Home Depot's strong brand recognition and loyal customer base may limit Lowe's ability to gain market share",
+        "Lowe's reliance on e-commerce growth may be vulnerable to changes in consumer behavior or technological disruptions",
+        "The home improvement retail sector is highly competitive, with other players such as Menards and 77 Baggers potentially disrupting the market"
+      ]
+    }
   },
   {
     "id": "7578244",
@@ -128,7 +164,20 @@
     "source": "MarketWatch",
     "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
     "relatedSymbols": [],
-    "publishedAt": 1771848780
+    "publishedAt": 1771848780,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1771857823,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Gilead's $7.8 billion buyout of Arcellx demonstrates its confidence in the latter's cancer treatment, which is a key area of focus for the biotech industry. This deal highlights the growing importance of targeted cancer therapies, driven by the increasing prevalence of cancer and the need for more effective treatments. The acquisition is expected to expand Gilead's presence in the oncology market, potentially leading to increased revenue and market share. Arcellx's stock is likely to benefit from this deal, potentially reaching a record high.",
+      "impact": "The acquisition is expected to have a positive impact on Arcellx's stock price in the short term, potentially leading to a record high. In the medium term, the deal could lead to increased revenue and market share for Gilead, potentially driving growth in its stock price. The buyout also highlights the growing importance of targeted cancer therapies, which could lead to increased demand for similar treatments and a positive sentiment shift in the biotech industry.",
+      "risks": [
+        "Integration risk: The successful integration of Arcellx's technology and personnel into Gilead's existing operations is crucial for the deal's success.",
+        "Regulatory approval risk: The acquisition is subject to regulatory approval, which could be a potential hurdle.",
+        "Competition risk: The biotech industry is highly competitive, and Gilead may face competition from other companies developing similar cancer treatments."
+      ]
+    }
   },
   {
     "id": "7578245",
@@ -138,7 +187,20 @@
     "source": "MarketWatch",
     "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
     "relatedSymbols": [],
-    "publishedAt": 1771847100
+    "publishedAt": 1771847100,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1771857870,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "A report from Citrini Research suggests that a booming AI economy may have a negative impact on the broader economy. This is the latest in a series of 'AI-doom' posts, which have caused significant market volatility. The report's findings have led to a sharp decline in the S&P 500, with a nearly 40% drop. This development is a concern for investors, as it implies that the rapid growth of AI may be unsustainable and potentially lead to economic instability.",
+      "impact": "The potential impact on the market is significant, with a sharp decline in the S&P 500. This could lead to a short-term sell-off in technology stocks, particularly those related to AI and related industries. Medium-term, the earnings outlook for these companies may be impacted as investors become increasingly cautious about the sector. The decline in the S&P 500 may also lead to a decrease in liquidity, making it more difficult for investors to trade.",
+      "risks": [
+        "Economic instability risk",
+        "Decreased investor sentiment risk",
+        "Valuation risk for technology stocks"
+      ]
+    }
   },
   {
     "id": "7578246",
@@ -148,7 +210,20 @@
     "source": "MarketWatch",
     "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
     "relatedSymbols": [],
-    "publishedAt": 1771846200
+    "publishedAt": 1771846200,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1771857919,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "A stepmother allegedly cheated her stepchild out of $500,000 from the child's father's estate. The stepchild claims they were unaware of the alleged fraud until after the deadline to contest the will had expired. The stepchild received an email from the stepmother stating she would not share any assets. This news does not have a direct connection to any specific stocks or industries, but it may have a broader impact on the public's perception of family dynamics and estate planning.",
+      "impact": "This news may have a negative impact on the sentiment towards estate planning and family trusts, potentially leading to increased scrutiny and calls for reform. However, this is a highly specific and isolated incident and is unlikely to have a significant impact on the broader financial markets or specific stocks. In the short-term, this news may lead to increased volatility in the shares of companies that provide estate planning services, such as law firms or financial institutions.",
+      "risks": [
+        "Increased regulatory scrutiny of estate planning practices",
+        "Potential for increased competition in the estate planning industry",
+        "Negative impact on the reputation of companies that provide estate planning services"
+      ]
+    }
   },
   {
     "id": "7578242",
@@ -22608,25 +22683,6 @@
         "The impact of artificial intelligence on business investment and productivity is uncertain and could be a double-edged sword.",
         "The next Fed chair's actual policies could differ from the survey's expectations, leading to a more significant rate cut or hike."
       ]
-    }
-  },
-  {
-    "id": "7571601",
-    "headline": "Here’s how Microsoft can prove the doubters wrong this earnings season",
-    "summary": "Increasing its cloud capacity is key for Microsoft, as the company can’t currently meet all is AI demand due to a shortage of graphics processing units.",
-    "url": "https://www.marketwatch.com/story/heres-how-microsoft-can-prove-the-doubters-wrong-this-earnings-season-7e4a5a18",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1769519100,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1769521036,
-      "sentiment": "bullish",
-      "confidence": 0.7,
-      "summary": "Microsoft is facing a shortage of graphics processing units (GPUs) that is hindering its ability to meet the high demand for its AI products. To address this issue, the company plans to increase its cloud capacity. This move is crucial for Microsoft as it looks to prove its doubters wrong this earnings season. The company's ability to meet AI demand is a key driver of its growth, and increasing cloud capacity will likely have a positive impact on its earnings outlook.",
-      "impact": "The potential increase in cloud capacity could lead to an upside surprise in Microsoft's earnings this quarter, driving the stock price higher in the short-term. In the medium-term, this move could also lead to increased investor confidence, as it demonstrates Microsoft's ability to adapt to growing demand and invest in its infrastructure. This could positively impact the stock's valuation, potentially leading to a re-rating by analysts and investors.",
-      "risks": []
     }
   }
 ]
