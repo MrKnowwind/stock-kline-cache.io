@@ -1,5 +1,84 @@
 [
   {
+    "id": "7578443",
+    "headline": "Mortgage rates fall below 6%—how to decide if refinancing is worth it for you",
+    "summary": "A $400,000 mortgage refinanced at today’s rates could lower monthly payments by roughly $260, though closing costs can offset those savings.",
+    "url": "https://www.cnbc.com/2026/02/23/mortgage-rates-fall-bellow-6-percent-how-to-decide-if-refinancing-is-worth-it-for-you.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108268654-1771870151625-gettyimages-1222021811-pi-2048401.jpeg?v=1771870228&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1771878832
+  },
+  {
+    "id": "7578438",
+    "headline": "Paramount looks to put itself in the driver’s seat on Warner Bros. deal with increased bid",
+    "summary": "Paramount Skydance CEO David Ellison will have to put all his chips in by a midnight Monday deadline if he wants to pry Warner Bros. Discovery from Netflix’s hands.",
+    "url": "https://www.marketwatch.com/story/paramount-looks-to-put-itself-in-the-drivers-seat-on-warner-bros-deal-with-increased-bid-b11c0c74",
+    "source": "MarketWatch",
+    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+    "relatedSymbols": [],
+    "publishedAt": 1771878600,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1771882228,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Paramount's increased bid for Warner Bros. Discovery suggests a strong interest in acquiring the studio, which could lead to a significant shift in the media and entertainment industry landscape. This move comes as a response to Netflix's initial bid, forcing Skydance CEO David Ellison to reassess his strategy. The midnight Monday deadline adds a sense of urgency to the situation, with Paramount looking to take control of the deal. This development may indicate a willingness to pay a premium for the acquisition, which could impact the valuation of related stocks.",
+      "impact": "The increased bid by Paramount could lead to a short-term boost in the stock prices of media and entertainment companies, as investors react to the potential for a significant consolidation in the industry. In the medium term, the acquisition could lead to increased competition for Netflix, potentially impacting its earnings outlook and valuation. The deal may also create opportunities for Paramount to expand its content offerings and improve its market position, leading to increased investor interest and sentiment.",
+      "risks": [
+        "Integration risk: Paramount's ability to successfully integrate Warner Bros. Discovery's assets and operations",
+        "Competition risk: Increased competition from Paramount could lead to a decline in Netflix's market share and earnings",
+        "Regulatory approval risk: The deal may face regulatory hurdles, potentially delaying or blocking the acquisition"
+      ]
+    }
+  },
+  {
+    "id": "7578436",
+    "headline": "Epstein files: Longevity guru Peter Attia quits CBS News after email fallout",
+    "summary": "Peter Attia is the latest person on a growing list to leave high-profile posts as a result of their communications with notorious sex offender Jeffrey Epstein.",
+    "url": "https://www.cnbc.com/2026/02/23/epstein-files-peter-attia-cbs-news.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108268718-1771874870807-AP22320309487793.jpg?v=1771874917&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1771878208,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1771882275,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Dr. Peter Attia, a longevity guru and CBS News contributor, resigned amid fallout over his past email correspondence with convicted sex offender Jeffrey Epstein. The emails were released by the Department of Justice, leading to the cancellation of a '60 Minutes' segment featuring Attia. Attia has not been accused of wrongdoing but apologized for the embarrassment caused by the emails. This incident is part of a growing list of high-profile individuals leaving their posts due to their connections to Epstein. The news is largely a corporate governance and social media story rather than a direct business or industry development.",
+      "impact": "The news is unlikely to have a significant impact on the stock market or CBS's business fundamentals in the short term. However, it may lead to a temporary decline in the network's reputation and potentially affect its ability to attract high-profile contributors in the future. The incident may also influence public perception of CBS's leadership and its ability to manage crisis situations.",
+      "risks": [
+        "reputation risk",
+        "talent acquisition risk",
+        "sentiment risk"
+      ]
+    }
+  },
+  {
+    "id": "7578433",
+    "headline": "Bitcoin ETFs are hemorrhaging billions. Here’s what investors awaiting a crypto turnaround should watch for.",
+    "summary": "Investors have pulled roughly $4.3 billion out of spot bitcoin ETFs in the past five weeks, according to Dow Jones Market Data.",
+    "url": "https://www.marketwatch.com/story/bitcoin-etfs-are-hemorrhaging-billions-heres-what-investors-awaiting-a-crypto-turnaround-should-watch-for-33d31eed",
+    "source": "MarketWatch",
+    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+    "relatedSymbols": [],
+    "publishedAt": 1771877760,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1771882321,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The article reports that investors have withdrawn approximately $4.3 billion from spot bitcoin ETFs over the past five weeks, indicating a significant decline in investor confidence in the cryptocurrency market. This outflow is likely a result of the recent market downturn and the lack of clear direction for the cryptocurrency market. The article suggests that investors awaiting a turnaround in the crypto market should watch for signs of stabilization and potential catalysts for growth. A sustained decline in investor confidence could have negative implications for companies involved in the cryptocurrency space.",
+      "impact": "The outflow of capital from bitcoin ETFs could negatively impact the earnings outlook for companies involved in the cryptocurrency market, such as Coinbase, which has seen a decline in trading volumes and revenue. In the short-term, this could lead to a decrease in stock price and liquidity for these companies. In the medium-term, a sustained decline in investor confidence could lead to a decrease in investment and research in the cryptocurrency space, further exacerbating the bearish sentiment.",
+      "risks": [
+        "Investor confidence risk",
+        "Market downturn risk",
+        "Regulatory uncertainty risk"
+      ]
+    }
+  },
+  {
     "id": "7578432",
     "headline": "PayPal’s stock pops on takeover hopes. Here’s who could swoop in with a purchase.",
     "summary": "Analysts think private-equity firms or other strategic buyers might see more value in PayPal than its $40 billion market cap currently reflects.",
@@ -21,6 +100,39 @@
         "Competition risk: A takeover could lead to increased competition in the digital payments market, potentially affecting PayPal's market share and revenue growth."
       ]
     }
+  },
+  {
+    "id": "7578435",
+    "headline": "Mexico violence after cartel boss killing slows cross-border trade, hitting air freight, trucking, ports",
+    "summary": "Violence across Mexico after the killing of a cartel boss is hitting trucks, ports and air freight for a critical trading partner to the U.S.",
+    "url": "https://www.cnbc.com/2026/02/23/mexico-violence-cartel-boss-killing-freight-trade.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108268414-1771851618219-2026-02-23T022824Z_1735401018_RC2ERJARFBG3_RTRMADP_3_MEXICO-VIOLENCE-DRONE.JPG?v=1771851688&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1771876258,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1771882372,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The killing of a cartel boss in Mexico has led to outbreaks of violence and attacks on public infrastructure, impacting air and trucking routes. This has resulted in flight cancellations, including freighter operations, and road blockades that have cut off freight corridors. The Port of Manzanillo, Mexico's busiest container port, was temporarily closed due to blockades and fires. The violence is expected to continue, with the US State Department issuing a shelter-in-place order for several states. This has led to logistics companies such as Kuehne + Nagel and CH Robinson to have employees work from home and face challenges with delivering and picking up cargo.",
+      "impact": "The potential impact on the logistics and transportation industry is significant, with short-term disruptions to air freight and trucking routes likely to affect companies such as FedEx, UPS, and J.B. Hunt. In the medium term, the violence could lead to a decline in trade between the US and Mexico, impacting companies such as US-based manufacturers and retailers that rely on Mexican imports. The cancellation of flights and road blockages could also lead to increased costs for logistics companies, potentially affecting their earnings outlook. The situation may also lead to a decline in investor sentiment, potentially impacting stock prices.",
+      "risks": [
+        "Disruption to air freight and trucking routes",
+        "Increased costs for logistics companies",
+        "Decline in trade between the US and Mexico"
+      ]
+    }
+  },
+  {
+    "id": "7578437",
+    "headline": "The market is so on edge about AI that it's selling off Monday on an unlikely source",
+    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+    "url": "https://www.cnbc.com/2026/02/23/the-market-is-so-on-edge-about-ai-that-its-selling-off-monday-on-an-unlikely-source.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/107398931-1712694528124-gettyimages-2148057485-_s1_2776_oceqk9jy.jpeg?v=1771875800&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1771876015
   },
   {
     "id": "7578421",
@@ -22558,144 +22670,6 @@
         "increased competition from Amazon's Whole Foods expansion",
         "potential negative impact on Costco's membership renewal rates",
         "valuation risk if Amazon's earnings growth is not met"
-      ]
-    }
-  },
-  {
-    "id": "7571748",
-    "headline": "Trump’s ‘not a huge fan’ of raiding your 401(k) to buy a home — and he’s right",
-    "summary": "Workers shouldn’t focus on homeownership at the expense of other financial goals.",
-    "url": "https://www.marketwatch.com/story/trumps-not-a-huge-fan-of-raiding-your-401-k-to-buy-a-home-and-hes-right-058d4f64",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1769540400,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1769545132,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "President Trump expressed skepticism about using 401(k) funds to buy a home, citing potential financial risks. This statement aligns with the general advice from financial experts, who recommend prioritizing long-term financial goals over short-term housing needs. The advice is not directly related to any specific company or industry, but it may influence consumer behavior and spending patterns. The article does not provide a clear link to any business fundamentals or industry context.",
-      "impact": "The potential impact of this news on the financial services industry is limited, as it is more of a general advisory message. However, it may lead to a cautious approach among consumers when considering using 401(k) funds for non-essential purposes, potentially reducing demand for related financial products and services. This could have a short-term negative impact on companies that offer mortgage and home equity loans, such as banks and financial institutions.",
-      "risks": [
-        "demand slowdown risk",
-        "reduced consumer spending risk",
-        "negative sentiment impact on financial services"
-      ]
-    }
-  },
-  {
-    "id": "7571742",
-    "headline": "When Tesla reports earnings, this could be the biggest highlight",
-    "summary": "The Elon Musk-led EV maker has had trouble selling cars the way it once did. But a growing energy business and AI plans are helping pick up the slack.",
-    "url": "https://www.marketwatch.com/story/when-tesla-reports-earnings-this-could-be-the-biggest-highlight-7f6a0fcd",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1769539800,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1769541426,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Tesla's earnings report is expected to highlight the growth of its energy business and AI plans, which are helping to offset the decline in car sales. The company has faced challenges in selling cars at the same pace as before, but its diversification into energy and AI is providing a new revenue stream. This shift in focus is expected to have a positive impact on Tesla's earnings, as the energy business is growing rapidly. The AI plans, which include autonomous driving and other applications, also have significant potential for growth.",
-      "impact": "The positive earnings report is likely to boost Tesla's stock price in the short term, driven by improved sentiment and increased confidence in the company's growth prospects. The energy business and AI plans are expected to contribute significantly to Tesla's revenue growth, leading to a revaluation of the company's stock. This could also attract new investors and increase liquidity in the stock, making it more attractive to traders and investors.",
-      "risks": [
-        "regulatory approval risk for energy business expansion",
-        "integration risk for AI plans",
-        "macroeconomic risk due to potential economic downturn"
-      ]
-    }
-  },
-  {
-    "id": "7571731",
-    "headline": "This chart shows why upward pressure on long-term Treasury yields matters to borrowers and stocks",
-    "summary": "If the 10-year Treasury yield reaches or exceeds 4.5%, it could be a challenge to the market, says BNY",
-    "url": "https://www.marketwatch.com/story/this-chart-shows-why-upward-pressure-on-long-term-treasury-yields-matters-to-borrowers-and-stocks-7043ff30",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1769538360,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1769539302,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "The article reports that BNY warns that upward pressure on long-term Treasury yields could be a challenge to the market if the 10-year yield reaches or exceeds 4.5%. The 10-year Treasury yield is a key benchmark for borrowing costs, and higher yields make borrowing more expensive for consumers and businesses. This could lead to a decrease in consumer spending and business investment, ultimately affecting the overall economy. If the 10-year yield reaches 4.5%, it may indicate a shift in market expectations, potentially leading to a decrease in stock prices.",
-      "impact": "The potential increase in borrowing costs due to higher Treasury yields could lead to a decrease in consumer spending and business investment, negatively impacting companies with high debt levels or sensitive to interest rate changes. This could result in lower earnings and valuation multiples for these companies, particularly those in industries such as housing, autos, and consumer discretionary. In the short-term, we expect a decrease in stock prices of companies with high debt levels or sensitive to interest rate changes, while in the medium-term, we expect a broader market impact as the effects of higher borrowing costs filter through the economy.",
-      "risks": [
-        "Increased borrowing costs for consumers and businesses",
-        "Decrease in consumer spending and business investment",
-        "Lower earnings and valuation multiples for companies with high debt levels or sensitive to interest rate changes"
-      ]
-    }
-  },
-  {
-    "id": "7571732",
-    "headline": "Here’s what happens to your HSA when you go on Medicare — and how to keep the tax savings going",
-    "summary": "Tax planning becomes a priority if you’re still working and can no longer fund an HSA.",
-    "url": "https://www.marketwatch.com/story/heres-what-happens-to-your-hsa-when-you-go-on-medicare-and-how-to-keep-the-tax-savings-going-9e97fd20",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1769537580,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1769539350,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The article discusses the implications of transitioning from a Health Savings Account (HSA) to Medicare, focusing on tax savings and planning strategies. For individuals who can no longer fund an HSA due to Medicare enrollment, tax planning becomes a priority. The article advises on how to maintain tax savings by converting HSAs to other tax-advantaged accounts or using the funds for qualified medical expenses. This situation affects individuals, not directly impacting the broader market or specific stocks.",
-      "impact": "The article's content may lead to increased interest in tax planning and financial services, potentially benefiting companies that offer HSA conversion or tax advisory services, such as financial planners or tax preparation software providers. However, the impact on specific stocks is limited, as the article does not mention any particular companies or industries. The article's focus on individual tax planning may not have a significant short-term effect on the market or earnings outlook.",
-      "risks": [
-        "Individuals may not be aware of the tax implications and planning strategies, leading to potential missed opportunities or unnecessary tax liabilities.",
-        "The article's advice may not be applicable to all individuals, depending on their specific financial situations and tax circumstances.",
-        "The tax landscape is subject to change, which could impact the effectiveness of the strategies outlined in the article."
-      ]
-    }
-  },
-  {
-    "id": "7571719",
-    "headline": "Here’s how Amazon is looking to take on Walmart at its own game",
-    "summary": "Amazon is looking into opening a supercenter retail location, while closing its Amazon Go and Amazon Fresh physical stores.",
-    "url": "https://www.marketwatch.com/story/heres-how-amazon-is-looking-to-take-on-walmart-at-its-own-game-3db54d28",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1769537220,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1769539398,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Amazon is reportedly considering opening a supercenter retail location, a move that could help the company directly compete with Walmart. This development comes as Amazon is closing its Amazon Go and Amazon Fresh physical stores, indicating a shift in its retail strategy. The supercenter concept could allow Amazon to offer a more traditional retail experience, potentially attracting price-conscious customers who value low prices. This move is a significant development in the retail space, as Amazon seeks to expand its brick-and-mortar presence and challenge Walmart's dominance.",
-      "impact": "This news is likely to have a positive impact on Amazon's stock in the short term, as investors view the company's willingness to invest in physical retail as a sign of its commitment to growth. The move could also lead to increased competition for Walmart, potentially affecting its earnings outlook and valuation. However, the success of Amazon's supercenter concept is uncertain, and the company's ability to execute on this strategy will be crucial in determining its long-term impact.",
-      "risks": [
-        "execution risk, as Amazon may struggle to replicate the success of Walmart's supercenter model",
-        "integration risk, as the company will need to integrate its online and offline channels effectively",
-        "commodity price risk, as Amazon's supercenters may be vulnerable to fluctuations in the prices of goods it sells"
-      ]
-    }
-  },
-  {
-    "id": "7571716",
-    "headline": "Everyone’s looking for political fireworks from Powell’s press conference. Here’s what to expect.",
-    "summary": "Experts debate Fed Chair Jerome Powell’s future ahead of his Wednesday remarks, which will follow the central bank’s decision on interest rates.",
-    "url": "https://www.marketwatch.com/story/everyones-looking-for-political-fireworks-from-powells-press-conference-heres-what-to-expect-4c79bf55",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1769536440,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1769539484,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Federal Reserve Chair Jerome Powell's press conference on Wednesday follows the central bank's interest rate decision. Experts are speculating about Powell's future and the implications for monetary policy. Powell's remarks may provide insight into the Fed's stance on inflation, economic growth, and interest rates. This could influence market expectations and sentiment around the US economy. The press conference is a key event for investors to gauge the Fed's intentions and adjust their strategies accordingly.",
-      "impact": "The press conference may lead to short-term volatility in the market, particularly for interest-rate sensitive stocks such as banks and real estate investment trusts (REITs). A hawkish tone from Powell could boost the US dollar and increase bond yields, while a dovish tone could lead to a decline in the dollar and bond yields. The medium-term impact will depend on the Fed's future policy decisions and the resulting market expectations.",
-      "risks": [
-        "Interest rate hike risk",
-        "Inflation expectations risk",
-        "Market sentiment shift risk"
       ]
     }
   }
