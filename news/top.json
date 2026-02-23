@@ -1,5 +1,98 @@
 [
   {
+    "id": "7578463",
+    "headline": "Here’s what airlines, hotels and Airbnb actually owe travelers stranded in Mexico",
+    "summary": "U.S. airlines canceled flights to and from the Mexican cities of Puerto Vallarta and Guadalajara on Monday amid cartel-related violence over the weekend, leaving tourists stranded.",
+    "url": "https://www.marketwatch.com/story/heres-what-airlines-hotels-and-airbnb-actually-owe-travelers-stranded-in-mexico-51655025",
+    "source": "MarketWatch",
+    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+    "relatedSymbols": [],
+    "publishedAt": 1771883700,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1771885640,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "US airlines canceled flights to and from Puerto Vallarta and Guadalajara due to cartel-related violence, stranding tourists. This disruption is likely a temporary issue, but it may impact airlines' operational efficiency and customer satisfaction in the short term. The incident highlights the ongoing security concerns in Mexico, which could affect travel demand and airline earnings. Airlines may need to adjust their routes and schedules to minimize future disruptions.",
+      "impact": "The cancellation of flights may lead to short-term earnings pressure for airlines operating in the region, such as American Airlines (AAL) and Delta Air Lines (DAL). The incident may also impact hotel and Airbnb bookings in affected areas, potentially affecting companies like Hilton Worldwide (HLT) and Airbnb Inc. (ABNB). In the medium term, the incident may influence travel demand and airline earnings, particularly if security concerns persist.",
+      "risks": [
+        "short-term earnings pressure for airlines operating in the region",
+        "potential decline in hotel and Airbnb bookings",
+        "long-term impact on travel demand due to security concerns"
+      ]
+    }
+  },
+  {
+    "id": "7578465",
+    "headline": "'Old economy' stocks look expensive and software screams cheap. Is that enough to end the rotation?",
+    "summary": "Some sectors in the S&P 500 have valuations out of step with their history. That doesn't mean the shakeup will stop soon.",
+    "url": "https://www.cnbc.com/2026/02/23/old-economy-stocks-look-expensive-software-screams-cheap-how-to-proceed.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108265648-17709999452026-02-13t161908z_935707471_rc21ljalfjvr_rtrmadp_0_usa-stocks.jpeg?v=1771000057&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1771883646,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1771885690,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The recent price target cuts for software stocks, particularly Workday, Autodesk, Salesforce, and Snowflake, indicate a shift in investor sentiment. Analysts are reevaluating the valuations of these stocks, which have been driven up by the 'Heavy Asset, Low Obsolescence' (HALO) theme. This theme suggests that companies with tangible assets, such as manufacturing and infrastructure, are less susceptible to disruption by AI. However, without tangible benefits from AI driving earnings growth, investors may be overpaying for these stocks.",
+      "impact": "The potential impact on software stocks is a short-term sell-off, as investors reassess their valuations and earnings expectations. This could lead to a rotation back into cyclical, old economy names, which have seen their valuations increase over the past six months. The medium-term impact will depend on the ability of software companies to demonstrate tangible benefits from AI, such as margin expansion and earnings growth. If they fail to deliver, investors may continue to push these stocks down, leading to further undervaluation.",
+      "risks": [
+        "valuation risk: investors may be overpaying for software stocks",
+        "earnings growth risk: software companies may struggle to demonstrate tangible benefits from AI",
+        "sentiment-driven momentum trade risk: investors may be chasing a trend rather than fundamental value"
+      ]
+    }
+  },
+  {
+    "id": "7578450",
+    "headline": "Why software stocks lost more than $200 billion in market cap today",
+    "summary": "For investors to wade back into the software sector, they “want and need to see the stocks stop trading down on new AI headlines,” one analyst says.",
+    "url": "https://www.marketwatch.com/story/why-software-stocks-lost-more-than-200-billion-in-market-cap-today-3f146cc3",
+    "source": "MarketWatch",
+    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+    "relatedSymbols": [],
+    "publishedAt": 1771882740,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1771885734,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The software sector experienced a significant decline in market capitalization, losing over $200 billion, due to the market's reaction to AI-related headlines. This decline was triggered by investors' concerns about the impact of AI on software stocks. Analysts believe that investors will be cautious about re-entering the software sector until they see a stabilization in stock prices following AI-related news. The sector's performance is closely tied to the perception of AI's influence on software companies.",
+      "impact": "The decline in the software sector is likely to have a short-term impact on stocks, with potential downward pressure on earnings outlook and valuation multiples. Investors may become increasingly risk-averse, leading to reduced liquidity and increased volatility. In the medium term, the sector's performance will depend on how software companies adapt to the AI trend and innovate to maintain their competitiveness.",
+      "risks": [
+        "AI adoption risk",
+        "valuation multiple compression risk",
+        "earnings slowdown risk"
+      ]
+    }
+  },
+  {
+    "id": "7578449",
+    "headline": "Congress contemplates its role on tariffs after Supreme Court decision",
+    "summary": "Some congressional Republicans had already cooled to the president's trade policy before the Supreme Court decision on Friday.",
+    "url": "https://www.cnbc.com/2026/02/23/trump-trade-supreme-court-congress-tariffs.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108048042-1729019798143-gettyimages-2170520527-776202608_gyi-0910-hill-gop-conference_KKN.jpeg?v=1771880799&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1771882112,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1771885784,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The Supreme Court's decision to strike down President Trump's tariffs has dealt a significant blow to his economic agenda, and congressional Republicans are now facing a difficult vote on an unpopular issue. This could lead to a challenging environment for the president's trade policy, particularly with midterms approaching. Democrats are vowing to disrupt attempts to extend Trump's trade policy, and Republicans are showing signs of frustration. The stakes are high, with polls showing that American voters are strongly against tariffs. This could have significant implications for the president's economic agenda and the overall business environment.",
+      "impact": "The potential impact on related stocks is bearish in the short-term, as the uncertainty around tariffs and trade policy could lead to increased volatility and reduced investor confidence. This could negatively affect earnings outlook for companies that rely heavily on international trade, particularly those in the manufacturing and agriculture sectors. The medium-term impact could be more significant, as a change in trade policy could lead to a shift in consumer spending and investment patterns.",
+      "risks": [
+        "Increased trade tensions and uncertainty",
+        "Potential disruption to global supply chains",
+        "Impact on earnings outlook for companies reliant on international trade",
+        "Shift in consumer spending and investment patterns"
+      ]
+    }
+  },
+  {
     "id": "7578443",
     "headline": "Mortgage rates fall below 6%—how to decide if refinancing is worth it for you",
     "summary": "A $400,000 mortgage refinanced at today’s rates could lower monthly payments by roughly $260, though closing costs can offset those savings.",
@@ -7,7 +100,20 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/108268654-1771870151625-gettyimages-1222021811-pi-2048401.jpeg?v=1771870228&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1771878832
+    "publishedAt": 1771878832,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1771885831,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "Mortgage rates have fallen below 6%, making refinancing a potentially attractive option for homeowners with high-interest rates. This trend is driven by a decline in the 10-year Treasury yield, a benchmark for mortgage rates. Homeowners with rates above 6% may consider refinancing to lower their monthly payments, but the decision depends on the upfront costs and the length of time they plan to stay in the home. Refinancing can also reset the loan term, potentially increasing the total interest paid over time.",
+      "impact": "The decline in mortgage rates may positively impact banks and mortgage lenders, such as Wells Fargo (WFC) and JPMorgan Chase (JPM), as refinancing activity increases. However, the impact may be short-term, as the industry is already experiencing a surge in refinancing applications. The decision to refinance may also influence consumer spending and housing market activity, but the effect on the broader economy is uncertain.",
+      "risks": [
+        "Interest rate volatility risk",
+        "Economic slowdown risk",
+        "Consumer spending slowdown risk"
+      ]
+    }
   },
   {
     "id": "7578438",
@@ -22582,94 +22688,6 @@
         "Regulatory scrutiny and potential penalties",
         "Loss of customer trust and reputation damage",
         "Increased marketing expenses and reduced profit margins"
-      ]
-    }
-  },
-  {
-    "id": "7571768",
-    "headline": "The market thinks BlackRock's Rick Rieder will be the next Fed chair. Here's what's at stake",
-    "summary": "A five-month process of finding the next Fed chair appears to be down to its final days, with one candidate emerging as the betting favorite.",
-    "url": "https://www.cnbc.com/2026/01/27/market-thinks-blackrocks-rieder-will-next-chair-the-fed-whats-at-stake.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108257783-17695414842026-01-27t191227z_119077712_rc2u9jahyqgq_rtrmadp_0_usa-fed-kalshi.jpeg?v=1769541505&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1769549001,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1769550879,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "BlackRock's Rick Rieder is seen as the frontrunner to replace Jerome Powell as the Federal Reserve chair, with a 48% chance according to prediction markets. However, sentiment has been volatile, and some analysts are unconvinced, citing Trump's emphasis on loyalty as a criterion and Rieder's lack of loyalty to the president. Analysts Tobin Marcus and former Fed Vice Chair Roger Ferguson think the decision may come down to one of the 'Kevins', referencing Kevin Warsh or Kevin Hassett. The outcome is uncertain, with Trump's comments and preferences being unpredictable.",
-      "impact": "The potential appointment of Rick Rieder as the next Fed chair could lead to a short-term increase in BlackRock's stock price due to the positive sentiment surrounding Rieder's appointment. However, the outcome is uncertain, and a change in the Fed chair could also lead to increased volatility in the financial markets, potentially affecting the stock prices of banks and other financial institutions. The medium-term impact will depend on Rieder's policies and decisions as the Fed chair, which could influence interest rates, inflation, and economic growth.",
-      "risks": []
-    }
-  },
-  {
-    "id": "7571755",
-    "headline": "No need to wait for Trump accounts—you can open a 529 college savings plan now",
-    "summary": "If you expect to pay for your child's education, you don't need to wait to open a Trump Account. You can start now with a 529 college savings plan.",
-    "url": "https://www.cnbc.com/2026/01/27/trump-accounts-versus-529-college-savings-plans.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108252010-1768343448328-gettyimages-2255568011-AFP_92LE2YW.jpeg?v=1769265618&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1769543193,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1769545087,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "The article discusses the introduction of Trump accounts, a new type of tax-advantaged savings account for children. However, experts recommend not waiting to start saving for education expenses, as 529 college savings plans offer tax-free growth and withdrawals for qualified education costs. 529 plans can be used to save for education expenses, and funds can be rolled over into retirement accounts, making them a more suitable option for education savings. This news does not directly impact the stock market, but it may influence consumer behavior and savings habits.",
-      "impact": "The article does not directly impact the stock market, but it may influence consumer behavior and savings habits. In the long term, this could lead to increased demand for education services and products, potentially benefiting companies in the education sector. However, in the short term, the impact is likely to be minimal, as the Trump accounts are not yet available and the 529 plans are already established.",
-      "risks": [
-        "uncertainty around Trump account implementation",
-        "potential changes to tax laws affecting 529 plans",
-        "increased competition for education services and products"
-      ]
-    }
-  },
-  {
-    "id": "7571753",
-    "headline": "Investors aren’t scared of record gold and silver prices. Wall Street’s price targets are struggling to keep up.",
-    "summary": "Price pullbacks in gold and silver are being treated as opportunities — and that says a lot about investor confidence.",
-    "url": "https://www.marketwatch.com/story/investors-arent-scared-of-record-gold-and-silver-prices-wall-streets-price-targets-are-struggling-to-keep-up-14c88219",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1769542620,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1769543857,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Investors are not spooked by record gold and silver prices, viewing pullbacks as buying opportunities. This investor confidence is a positive sign for the precious metals market, indicating a strong demand for gold and silver. The article highlights that Wall Street's price targets are struggling to keep up with the rising prices, suggesting that analysts are underestimating the market's potential. This could lead to further price appreciation as investors continue to buy into the sector.",
-      "impact": "The bullish sentiment and investor confidence in gold and silver could lead to higher prices in the short term, potentially benefiting mining companies such as Newmont Goldcorp (NEM) and Barrick Gold (GOLD). This could also lead to increased demand for gold and silver ETFs, such as SPDR Gold Shares (GLD) and iShares Silver Trust (SLV). The medium-term impact could be a re-rating of the sector, with analysts revising their price targets upwards to reflect the new market reality.",
-      "risks": [
-        "Potential for a sharp price correction if investor sentiment shifts",
-        "Increased volatility in the precious metals market",
-        "Rise in interest rates could negatively impact gold and silver prices"
-      ]
-    }
-  },
-  {
-    "id": "7571754",
-    "headline": "What Amazon's move to close its Go and Fresh stores means for investors (and Costco)",
-    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-    "url": "https://www.cnbc.com/2026/01/27/what-amazons-move-to-close-stores-means-for-investors-and-costco.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/107309306-1696008140711-gettyimages-1203051232-AMAZON_GO.jpeg?v=1698085345&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1769542298,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1769543905,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Amazon is closing its Amazon Go and Amazon Fresh stores and converting them into Whole Foods Market stores. This move is part of Amazon's strategy to prioritize investments and accelerate Whole Foods expansion plans, with over 100 new stores planned in the next few years. This upgrade to Amazon's physical store footprint is likely to be a more economic model, which is a positive development for the company. The move may also pressure Costco shares due to increased competition.",
-      "impact": "The news is likely to have a short-term positive impact on Amazon's stock price as investors view this move as an upgrade to its physical store footprint. However, in the medium term, Costco's shares may be negatively affected as Amazon's Whole Foods expansion plans increase competition. Amazon's earnings outlook and valuation may also be positively impacted, as the company prioritizes investments in its physical stores. The increased competition from Amazon's Whole Foods expansion may also negatively impact Costco's membership renewal rates over the next few quarters.",
-      "risks": [
-        "increased competition from Amazon's Whole Foods expansion",
-        "potential negative impact on Costco's membership renewal rates",
-        "valuation risk if Amazon's earnings growth is not met"
       ]
     }
   }
