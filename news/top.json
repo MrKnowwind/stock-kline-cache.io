@@ -1,5 +1,74 @@
 [
   {
+    "id": "7578714",
+    "headline": "I paid $20,000 to learn hard lessons about trading options",
+    "summary": "Read this before putting your money on options trades. Plus: Money tips from readers like you.",
+    "url": "https://www.marketwatch.com/story/i-paid-20-000-to-learn-hard-lessons-about-trading-options-c134a46d",
+    "source": "MarketWatch",
+    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+    "relatedSymbols": [],
+    "publishedAt": 1771946400,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1771947753,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The article shares a personal anecdote of an individual who spent $20,000 learning about trading options but ultimately lost money. The author highlights the importance of understanding the risks and complexities of options trading. The article serves as a cautionary tale for investors considering options trades. It emphasizes the need for thorough research and education before investing in options. The article does not mention specific stocks or companies.",
+      "impact": "The article's message is unlikely to have a direct impact on the stock market or specific stocks. However, it may contribute to a more cautious approach to options trading, potentially reducing the number of investors taking on excessive risk. This could lead to a decrease in trading volume and volatility in the options market. As a result, some option-based trading strategies may become less attractive to investors.",
+      "risks": [
+        "overtrading risk",
+        "lack of education risk",
+        "excessive risk-taking risk"
+      ]
+    }
+  },
+  {
+    "id": "7578712",
+    "headline": "Classic 'TACO'? Investors shrug off Trump's latest tariff announcement",
+    "summary": "Global equity markets were muted as Trump’s latest tariffs came into effect at 10%, a lower than expected rate.",
+    "url": "https://www.cnbc.com/2026/02/24/trump-tariff-rates-global-investors-taco-trade.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108268540-1771861472752-gettyimages-2262687762-AFP_98N38UP.jpeg?v=1771861491&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1771946072,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1771947801,
+      "sentiment": "neutral",
+      "confidence": 0.8,
+      "summary": "US President Donald Trump's latest tariff announcement has come into effect at 10%, lower than the initially stated 15% rate. This move has been met with a muted market reaction, with investors seemingly shrugging off the changes. Analysts point to the 'TACO' trade, referring to Trump's history of threatening tariffs only to ease or cancel them. This has led to a view that US tariffs will drift lower over time, with one analyst expecting the general tariff rate to fall to around 9% by year's end.",
+      "impact": "The muted market reaction suggests that the impact of the tariffs on US stocks will be limited in the short term. However, the medium-term effect could be an increase in import costs for US companies, potentially leading to lower earnings and reduced valuations. This could be a concern for companies with high import exposure, such as those in the consumer staples and industrials sectors.",
+      "risks": [
+        "Increased import costs risk",
+        "Lower earnings risk",
+        "Reduced valuations risk"
+      ]
+    }
+  },
+  {
+    "id": "7578711",
+    "headline": "How boomers became the richest generation — and why Gen X, Gen Z and millennials may never catch up",
+    "summary": "There’s never been a generation like the baby boomers — and there probably never will be again.",
+    "url": "https://www.marketwatch.com/story/how-boomers-became-the-richest-generation-and-why-gen-x-gen-z-and-millennials-may-never-catch-up-b3b45bf4",
+    "source": "MarketWatch",
+    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+    "relatedSymbols": [],
+    "publishedAt": 1771945200,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1771947848,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The article highlights the unique circumstances that led to the baby boomer generation becoming the richest generation in history. Born after World War II, they inherited a strong economy, low interest rates, and a housing boom, which contributed to their wealth accumulation. This generation's success is largely due to their ability to invest in the stock market during a period of rapid growth and take advantage of tax policies that favored homeownership. As a result, they have accumulated significant wealth, which may be difficult for younger generations to replicate.",
+      "impact": "The article's findings may lead to a reevaluation of the long-term earnings potential of companies that cater to the baby boomer demographic, such as healthcare and financial services providers. However, the impact on the stock market as a whole is likely to be neutral, as the article does not provide any new information that would alter the fundamental valuation of individual stocks. The article may, however, contribute to a shift in investor sentiment, with some investors becoming more cautious about the prospects of younger generations and their ability to accumulate wealth.",
+      "risks": [
+        "valuation risk for companies that rely on baby boomer demographics",
+        "sentiment-driven market volatility",
+        "macroeconomic uncertainty related to demographic shifts"
+      ]
+    }
+  },
+  {
     "id": "7578681",
     "headline": "Why the smartest move for Netflix and Paramount is to let the other guy win Warner Bros.",
     "summary": "History shows the “loser” in high-stakes bidding wars usually gets the last laugh — and the better stock performance.",
@@ -234,7 +303,20 @@
     "source": "MarketWatch",
     "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
     "relatedSymbols": [],
-    "publishedAt": 1771937400
+    "publishedAt": 1771937400,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1771947894,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "The article suggests that the trade war between the US and other countries may reach a cease-fire after the mid-term elections, but this could lead to a post-election battle that negatively impacts the market. The current trade tensions are seen as a cyclical phenomenon rather than a structural shift, implying that the market may be overreacting to the situation. This could lead to a correction in the market as investors reassess their positions. The article notes that the 'sell America' trade may be a short-term phenomenon rather than a long-term trend.",
+      "impact": "The potential cease-fire in the trade war could lead to a short-term relief rally in the market, but the post-election battle could lead to increased volatility and a decline in investor sentiment. This could negatively impact the earnings outlook for companies that have been impacted by the trade war, particularly those in the industrials and technology sectors. The article suggests that the market may be overvalued and due for a correction, which could lead to a decline in stock prices.",
+      "risks": [
+        "trade war escalation risk",
+        "economic slowdown risk",
+        "valuation risk"
+      ]
+    }
   },
   {
     "id": "7578600",
@@ -22616,75 +22698,6 @@
         "valuation risk: midcap stocks may be overbought if investors become overly enthusiastic about their growth potential",
         "sector concentration risk: midcap stocks may be concentrated in specific sectors, such as technology or healthcare, which could lead to increased volatility if those sectors experience downturns",
         "market sentiment risk: investor enthusiasm for midcap stocks could be short-lived if market conditions change"
-      ]
-    }
-  },
-  {
-    "id": "7572047",
-    "headline": "Loading up on your employer’s stock is tempting in a bull market. But how much is too much?",
-    "summary": "Employees face “double jeopardy” in the stock’s decline portfolio and increased job risk.",
-    "url": "https://www.marketwatch.com/story/loading-up-on-your-employers-stock-is-tempting-in-a-bull-market-but-how-much-is-too-much-ec90fec9",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1769615220,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1769616335,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "Employees may be tempted to buy more of their employer's stock in a bull market, but this can lead to 'double jeopardy' - a decline in the stock's value and increased job risk. This is because employees are exposed to both the stock's performance and their own employment status. As a result, they may become overly invested in the company's success, which can lead to a loss of objectivity and poor investment decisions. This can be particularly problematic in a bull market, where employees may feel pressure to keep up with the stock's performance.",
-      "impact": "This trend may lead to a short-term increase in trading activity in the company's stock, as employees buy more shares. However, in the medium term, this could lead to a decrease in the stock's value as employees sell their shares to cover living expenses or due to job loss. The increased job risk also poses a threat to the company's human capital and overall performance.",
-      "risks": [
-        "Overexposure to company-specific risk",
-        "Increased job risk leading to talent flight",
-        "Loss of objectivity in investment decisions"
-      ]
-    }
-  },
-  {
-    "id": "7572032",
-    "headline": "My wife and I are retiring to Mexico. Will she get Social Security survivor benefits on my record if I die first?",
-    "summary": "Social Security has different survivor rules for citizens and noncitizens residing abroad.",
-    "url": "https://www.marketwatch.com/story/my-wife-and-i-are-retiring-to-mexico-will-she-get-social-security-survivor-benefits-on-my-record-if-i-die-first-2ec783f3",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1769613960,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1769616380,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "The article discusses the rules for Social Security survivor benefits for noncitizens residing abroad. The key takeaway is that Social Security has different rules for citizens and noncitizens. The article does not provide any information that would impact the business fundamentals of any specific company. It is a general informational piece about Social Security rules.",
-      "impact": "The article does not have a direct impact on the stocks, but it may affect the financial planning and decisions of individuals who are considering retiring abroad. This may lead to increased demand for financial planning services and consulting, potentially benefiting companies that offer these services. However, this is a long-term and indirect effect, and it is difficult to estimate its magnitude.",
-      "risks": [
-        "regulatory risk",
-        "compliance risk",
-        "increased competition in financial planning services"
-      ]
-    }
-  },
-  {
-    "id": "7572033",
-    "headline": "Micron and other chip stocks are seeing a big boost after these comments",
-    "summary": "Seagate says prices could go higher for its storage products as supply remains tight due to AI.",
-    "url": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-are-seeing-a-big-boost-after-these-comments-a3570761",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1769613240,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1769616431,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Seagate's comments on potential price increases for its storage products due to tight supply caused by AI demand have boosted chip stocks, including Micron. This news is significant as it indicates a sustained demand for storage solutions, driven by the growing adoption of artificial intelligence. The tight supply situation suggests that companies like Micron, which are major suppliers of memory and storage solutions, may see increased revenue and profitability. This development is also relevant to the broader semiconductor industry, where AI-driven demand is a key growth driver.",
-      "impact": "The news is likely to have a positive impact on chip stocks in the short term, as investors react to the potential for increased revenue and profitability. This could lead to a short-term increase in stock prices for companies like Micron, as well as other chip stocks that supply storage solutions. In the medium term, the sustained demand for storage solutions driven by AI could lead to increased investment in the sector, further driving growth and profitability for companies like Micron.",
-      "risks": [
-        "Increased competition from new entrants in the storage solutions market",
-        "Potential for a slowdown in AI adoption, impacting demand for storage solutions",
-        "Supply chain disruptions or inventory management issues"
       ]
     }
   }
