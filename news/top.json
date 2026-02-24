@@ -1,5 +1,28 @@
 [
   {
+    "id": "7578776",
+    "headline": "AI jitters are turning discount chains and shampoo makers into the stock market’s hottest trade — and that’s risky",
+    "summary": "Consumer staples, long seen as a safety play when tech stocks sell off, are now among the riskier bets on Wall Street.",
+    "url": "https://www.marketwatch.com/story/ai-jitters-are-turning-discount-chains-and-shampoo-makers-into-the-stock-markets-hottest-trade-and-thats-risky-4f449854",
+    "source": "MarketWatch",
+    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+    "relatedSymbols": [],
+    "publishedAt": 1771962120,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1771963625,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "The article highlights a shift in market sentiment, where consumer staples, traditionally seen as a safe-haven, are now being viewed as riskier investments. This is due to the recent downturn in tech stocks, causing investors to reevaluate their portfolios. As a result, discount chains and shampoo makers, which were previously seen as stable, are now being traded aggressively. This shift in sentiment is driven by the perception that these companies are more vulnerable to economic downturns.",
+      "impact": "The potential impact on the related stocks is a short-term sell-off, as investors reassess their portfolios and seek safer havens. This could lead to a decline in stock prices for companies like discount chains and shampoo makers, making them more attractive to short sellers. The medium-term effect may be a reevaluation of the industry's growth prospects, potentially leading to a reassessment of valuations and earnings outlook. The increased trading activity may also lead to higher volatility and liquidity risks.",
+      "risks": [
+        "valuation risk",
+        "earnings slowdown risk",
+        "sentiment-driven trading risk"
+      ]
+    }
+  },
+  {
     "id": "7578775",
     "headline": "There’s a vital difference in how Medicare and Medicare Advantage prevent and treat strokes. What you should know.",
     "summary": "The healthcare that patients get before and after a stroke depends largely on the insurance they have — highlighting the differences between Medicare Advantage and traditional Medicare, a new study has found.",
@@ -30,7 +53,20 @@
     "source": "MarketWatch",
     "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
     "relatedSymbols": [],
-    "publishedAt": 1771959000
+    "publishedAt": 1771959000,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1771963674,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Waymo, the self-driving car unit of Alphabet, has solidified its position as a leader in the autonomous driving industry by launching commercial operations in four additional cities. This expansion comes after securing a $16 billion funding round, demonstrating the company's strong financial backing. The move is a significant step forward for Waymo, as it aims to establish a strong presence in the market. This development is a testament to Waymo's technological advancements and its ability to execute on its business strategy.",
+      "impact": "The news is likely to have a positive impact on Alphabet's stock price, as it reinforces the company's leadership in the autonomous driving space. This expansion may also put pressure on competitors like Tesla and Amazon, which have been investing heavily in autonomous driving technology. In the short term, the news may boost investor sentiment and drive up Waymo's stock price. In the medium term, this expansion could lead to increased revenue and earnings for Alphabet, potentially driving up the stock price.",
+      "risks": [
+        "Competition from other autonomous driving players could intensify, potentially eroding Waymo's market share",
+        "Regulatory challenges and changes in government policies could impact Waymo's operations",
+        "Technical issues or accidents related to Waymo's self-driving technology could damage the company's reputation"
+      ]
+    }
   },
   {
     "id": "7578757",
@@ -22657,29 +22693,6 @@
         "Implementation risk: the successful execution of assigned seating is crucial to realizing the expected benefits, and any operational challenges could impact profitability.",
         "Passenger acceptance risk: if passengers are not receptive to the change, it could lead to negative reviews and a decline in customer satisfaction.",
         "Competition risk: other airlines may respond to Southwest's move by introducing similar policies, potentially leading to a competitive pricing war."
-      ]
-    }
-  },
-  {
-    "id": "7572133",
-    "headline": "IBM beats fourth-quarter estimates, forecasts 5% revenue growth in 2026",
-    "summary": "IBM CEO Arvind Krishna said the company's generative artificial intelligence book of business hit more than $12.5 billion.",
-    "url": "https://www.cnbc.com/2026/01/28/ibm-earnings-q4-2025.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108094473-17381853142025-01-22t112733z_951578715_rc2yecalvcw1_rtrmadp_0_davos-meeting.jpeg?v=1738189844&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1769634697,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1769639456,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "IBM exceeded fourth-quarter estimates with a 12% revenue growth and a forecast of 5% revenue growth in 2026, slightly above analyst expectations. The company's generative artificial intelligence book of business hit over $12.5 billion, a strong indicator of its growing presence in the AI market. IBM's software revenue rose 14% due to automation, data, and Red Hat products, while infrastructure sales increased 21% with significant growth in its mainframe computers. The company's strong performance and dividend announcement are positive signals for investors.",
-      "impact": "The news is likely to boost IBM's stock price in the short term due to the better-than-expected earnings and revenue growth. The 5% revenue growth forecast for 2026 is also a positive sign, indicating that the company's business is stable and growing. This could lead to increased investor confidence and potentially drive the stock price up. Additionally, the strong performance of IBM's software and infrastructure segments may attract more investors to the company.",
-      "risks": [
-        "Dependence on AI market growth",
-        "Competition from other tech giants in the AI space",
-        "Potential disruption from emerging technologies"
       ]
     }
   }
