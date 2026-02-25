@@ -1,5 +1,51 @@
 [
   {
+    "id": "7578997",
+    "headline": "TJ Maxx parent’s earnings show discount clothes and home goods are still in high demand",
+    "summary": "TJ Maxx parent company TJX reported a triple beat with its fourth-quarter results on Wednesday, but shares of the off-price apparel and home-fashions retailer slipped as the outlook disappointed.",
+    "url": "https://www.marketwatch.com/story/tj-maxx-parents-earnings-show-discount-clothes-and-home-goods-are-still-in-high-demand-90fb804d",
+    "source": "MarketWatch",
+    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+    "relatedSymbols": [],
+    "publishedAt": 1772029620,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772030726,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "TJX, the parent company of TJ Maxx, reported a strong earnings beat in its fourth quarter, driven by high demand for discount clothes and home goods. The company's sales growth was impressive, but the outlook disappointed investors, causing the stock price to slip. The retailer's off-price business model has been successful in the current environment, where consumers are seeking value and affordability. The company's ability to maintain this model and adapt to changing consumer preferences will be crucial to its future success.",
+      "impact": "The disappointing outlook may lead to a short-term sell-off in TJX shares, potentially affecting its peer group, including Ross Stores (ROST) and Burlington Stores (BURL). However, the company's strong earnings and sales growth suggest that its business fundamentals remain solid, which could support a medium-term rebound. The demand for discount clothing and home goods is likely to persist, driven by consumer preferences for value and affordability.",
+      "risks": [
+        "Disappointing outlook may lead to short-term sell-off",
+        "Economic downturn or recession risk",
+        "Increased competition from online retailers"
+      ]
+    }
+  },
+  {
+    "id": "7578993",
+    "headline": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
+    "summary": "Workday's light guidance is sending the stock down big, and HP Inc. showed just how painful the memory-chip crisis is.",
+    "url": "https://www.cnbc.com/2026/02/25/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108199591-1758055673958-gettyimages-2235804696-dji_20250916100245_0510_d_4qip1ddc.jpeg?v=1772027569&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1772028038,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772030774,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The stock market is experiencing a bearish sentiment due to several negative news. Workday's disappointing guidance led to a 9% drop in its stock, with Cowen and Evercore downgrading the stock to hold from buy. The AI boom is driving a memory shortage, which is affecting HP Inc.'s personal computer division, leading to a 5% drop in its shares. Additionally, Lowe's shares are down 3.5% due to light guidance, while Diageo's shares plummeted 10% after cutting its sales outlook and dividend. These events are driven by the AI disruption threat and the resulting memory shortage, which is impacting various industries.",
+      "impact": "The potential impact on the related stocks is significant. Workday's disappointing guidance and HP Inc.'s struggles due to the memory shortage could lead to a short-term decline in their stock prices. In the medium term, the AI disruption threat may continue to affect various industries, including software and technology companies. Additionally, the memory shortage could lead to increased costs for companies that rely on memory and storage, such as HP Inc.",
+      "risks": [
+        "AI disruption risk",
+        "memory shortage risk",
+        "guidance risk"
+      ]
+    }
+  },
+  {
     "id": "7578980",
     "headline": "HSBC reports a beat and a raise as it leapfrogs Wells Fargo by market cap",
     "summary": "HSBC’s guidance for 2026 is pushing analysts to raise their stock-price estimates by around 6%",
@@ -1318,6 +1364,29 @@
         "valuation risk",
         "earnings disappointment risk",
         "sector-specific downturn risk"
+      ]
+    }
+  },
+  {
+    "id": "7578991",
+    "headline": "Tata defers call on Chairman’s term, signaling new power tussle",
+    "summary": "The latest decision on Tata Sons chairmanship highlights how Noel is increasingly asserting himself after taking over the Tata Trusts in 2024",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-24/tata-defers-vote-on-chairman-s-new-term-signaling-power-tussle",
+    "source": "Bloomberg",
+    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+    "relatedSymbols": [],
+    "publishedAt": 1771941497,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772030819,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Tata Sons, the holding company of the Tata Group, has deferred a vote on the chairman's term, signaling a potential power struggle within the conglomerate. Noel Tata, who took over the Tata Trusts in 2024, is increasingly asserting himself, which may lead to a shift in the company's leadership dynamics. This development could impact the group's decision-making process and potentially lead to changes in strategy. The Tata Group is a large and diversified conglomerate with interests in various sectors, including automotive, consumer goods, and services.",
+      "impact": "The deferred vote on the chairman's term may lead to short-term uncertainty and volatility in Tata Sons' stock price, potentially weighing on the overall Tata Group's valuation. In the medium term, a change in leadership or strategy could impact the group's earnings outlook, particularly in sectors where the company is undergoing significant transformations. The power struggle may also affect investor sentiment, potentially leading to a decrease in liquidity and market capitalization.",
+      "risks": [
+        "leadership uncertainty risk",
+        "strategy shift risk",
+        "valuation risk"
       ]
     }
   },
@@ -22633,71 +22702,6 @@
         "Security risks: The airline may still face safety concerns in Venezuela, which could impact operations and reputation.",
         "Competition risk: Other airlines, such as Delta and United, may also resume service to Venezuela, increasing competition for American Airlines."
       ]
-    }
-  },
-  {
-    "id": "7572466",
-    "headline": "The bond market is sending a clear signal about Fed independence",
-    "summary": "The U.S. bond market doesn’t seem all that anxious yet about President Trump’s efforts to sway the Federal Reserve’s monetary policy decisions.",
-    "url": "https://www.marketwatch.com/story/the-bond-market-is-sending-a-clear-signal-about-fed-independence-5a3142e9",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1769711160,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1769714654,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The article suggests that the US bond market is not reacting strongly to President Trump's attempts to influence the Federal Reserve's monetary policy decisions. This implies that the market believes the Fed remains independent and committed to its inflation-targeting mandate. The Fed's independence is crucial for maintaining the credibility of its monetary policy, which in turn supports the overall stability of the financial markets. The article highlights the bond market's calm response as a positive sign for the Fed's autonomy.",
-      "impact": "The news is likely to be positive for the overall market, particularly for financial stocks, as it reinforces the notion of the Fed's independence. This could lead to increased investor confidence in the market, potentially driving up stock prices in the short term. The article's sentiment is also a positive sign for the US dollar, as a strong and independent Fed is likely to support the currency's value. In the medium term, this could lead to increased economic growth and stability, benefiting various sectors, including financials and consumer discretionary.",
-      "risks": [
-        "Market volatility risk",
-        "Policy uncertainty risk",
-        "Global economic downturn risk"
-      ]
-    }
-  },
-  {
-    "id": "7572461",
-    "headline": "Trump says he’ll announce his Fed pick next week. Here’s who’s in the lead, according to prediction markets.",
-    "summary": "President Donald Trump said he’ll announce his nominee to chair the Federal Reserve next week — and prediction markets are pointing strongly to a Wall Street veteran getting the job.",
-    "url": "https://www.marketwatch.com/story/trump-says-hell-announce-his-fed-pick-next-week-heres-whos-in-the-lead-according-to-prediction-markets-ba80c732",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1769709840,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1769711030,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "President Trump's announcement of his Federal Reserve nominee next week has sent a strong signal, with prediction markets indicating a Wall Street veteran is likely to get the job. This development is significant as it could lead to a more business-friendly monetary policy, potentially boosting economic growth and stock markets. The nominee's background in Wall Street suggests a deep understanding of the financial markets, which could lead to more favorable policies for the financial sector. This could have a positive impact on the banks and financial institutions, particularly those with significant exposure to the US economy.",
-      "impact": "The announcement could lead to a short-term rally in the stock prices of banks and financial institutions, particularly those with significant exposure to the US economy. In the medium term, a more business-friendly monetary policy could lead to increased economic growth, potentially boosting earnings for these companies. This could also lead to a revaluation of the sector, as investors become more optimistic about the future prospects of the financial sector.",
-      "risks": [
-        "regulatory approval risk",
-        "market volatility risk",
-        "policy reversal risk"
-      ]
-    }
-  },
-  {
-    "id": "7572462",
-    "headline": "Should you ever cancel a credit card? Bilt’s confusing rewards shake-up puts renters in a tough spot.",
-    "summary": "A credit card aimed at renters is revamping its rewards program, leaving some users to wonder if the new version of the card is still worth it.",
-    "url": "https://www.marketwatch.com/story/should-you-ever-cancel-a-credit-card-bilts-confusing-rewards-shake-up-puts-renters-in-a-tough-spot-8b561d1b",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1769709780,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1769711075,
-      "sentiment": "neutral",
-      "confidence": 0.5,
-      "summary": "Bilt, a credit card aimed at renters, is revamping its rewards program, causing uncertainty among users about the card's value. The new program may be less attractive to renters, potentially leading to a decrease in card usage and revenue for Bilt's parent company, Earnin. This news may not have a direct impact on the broader credit card industry, but it could influence consumer behavior and spending habits. The revamp may also affect Bilt's partnerships with landlords and property managers, potentially leading to changes in the company's business model.",
-      "impact": "The short-term impact on Bilt's parent company, Earnin, may be minimal, but the medium-term effects could be more significant. The revamp may lead to a decrease in card usage and revenue, potentially affecting Earnin's earnings outlook. This could also impact the company's valuation and sentiment among investors. Additionally, the change may influence consumer behavior and spending habits, affecting the broader credit card industry.",
-      "risks": []
     }
   }
 ]
