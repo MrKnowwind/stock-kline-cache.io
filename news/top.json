@@ -1,5 +1,51 @@
 [
   {
+    "id": "7579127",
+    "headline": "House Dems project midterm optimism at annual policy retreat following State of the Union",
+    "summary": "House Democrats hammered home economic concerns ahead of 2026 elections at their annual policy conference, the day after President Trump's State of the Union.",
+    "url": "https://www.cnbc.com/2026/02/25/state-of-the-union-house-democrats-midterms-retreat.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108265868-17710169432026-02-13t204643z_1104577556_rc26lja0ve84_rtrmadp_0_usa-congress-shutdown.jpeg?v=1771016979&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1772056437,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772061382,
+      "sentiment": "bullish",
+      "confidence": 0.7,
+      "summary": "House Democrats are optimistic about their chances in the 2026 midterm elections, focusing on affordability and economic issues to win back power. They see a path to victory in the face of a razor-thin Republican majority and a cash advantage for the GOP. Democrats are rallying around cost-of-living issues and honing their messages to voters. Recent polling shows Americans souring on President Trump, and Democrats maintain a lead in the generic ballot. They need to net just three seats to flip the House.",
+      "impact": "The news is likely to boost sentiment for Democratic-leaning stocks, particularly those in the consumer staples and housing sectors. Medium-term, a Democratic takeover of the House could lead to increased government spending and regulations, potentially benefiting companies in these sectors. However, the path to victory is uncertain, and a Republican win is still possible, which could weigh on sentiment for Democratic-leaning stocks.",
+      "risks": [
+        "Republican counter-narrative risk",
+        "Voting rights legislation risk",
+        "Election outcome uncertainty"
+      ]
+    }
+  },
+  {
+    "id": "7579124",
+    "headline": "Urban Outfitters’ once-struggling namesake stores are now driving its sales gains",
+    "summary": "Shares of Urban Outfitters were up after hours on Wednesday, after the clothing retailer reported fourth-quarter results that beat estimates, helped by a turnaround at its namesake stores.",
+    "url": "https://www.marketwatch.com/story/urban-outfitters-once-struggling-namesake-stores-are-now-driving-its-sales-gains-a841972d",
+    "source": "MarketWatch",
+    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+    "relatedSymbols": [],
+    "publishedAt": 1772056080,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772061429,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Urban Outfitters reported fourth-quarter results that exceeded expectations, driven by a turnaround at its namesake stores. The company's same-store sales growth was impressive, indicating a significant improvement in its core business. This turnaround is a positive development for the company, as it has been struggling in recent years. The success of its namesake stores is a key driver of Urban Outfitters' sales gains, and this trend is expected to continue in the coming quarters.",
+      "impact": "The positive earnings surprise and improved sales trends are likely to boost investor sentiment and drive the stock price higher in the short term. The turnaround at the namesake stores also bodes well for the company's earnings outlook, potentially leading to upward revisions in estimates. As a result, we expect the stock to be re-rated by the market, with a potential increase in valuation multiples. This could lead to increased liquidity and trading volume in the stock.",
+      "risks": [
+        "Dependence on a single product category or store format",
+        "Intensifying competition in the retail industry",
+        "Potential slowdown in consumer spending"
+      ]
+    }
+  },
+  {
     "id": "7579116",
     "headline": "Salesforce’s stock falls as mixed earnings forecast fails to dispel AI gloom",
     "summary": "Salesforce announced a $50 billion share buyback and a new AI metric, but investors remain focused on the threat of AI disruption.",
@@ -22672,48 +22718,6 @@
         "Valuation risk",
         "Investor sentiment risk"
       ]
-    }
-  },
-  {
-    "id": "7572562",
-    "headline": "OpenAI reportedly eyeing an IPO by year’s end, ahead of Anthropic",
-    "summary": "OpenAI is eyeing an initial public offering before the end of the year, hoping to beat rival AI startup Anthropic to the punch, the Wall Street Journal reported late Thursday.",
-    "url": "https://www.marketwatch.com/story/openai-reportedly-eyeing-an-ipo-by-years-end-ahead-of-anthropic-7feb3766",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1769733000,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1769738115,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "OpenAI is reportedly planning to go public before the end of the year, aiming to beat rival AI startup Anthropic to the market. This development suggests that OpenAI is confident in its growth prospects and valuation, which could be driven by its leading position in the AI space. The company's decision to go public may also be influenced by the increasing demand for AI-related stocks, driven by the growing adoption of AI technologies. As a result, investors may expect OpenAI's valuation to increase, potentially leading to a higher stock price.",
-      "impact": "The potential IPO of OpenAI could have a positive impact on the stock market, particularly for companies in the AI space. Investors may increase their exposure to AI-related stocks, potentially driving up valuations and stock prices. However, the short-term impact may be limited due to the lack of specific details on the IPO, such as the offering size and pricing. Additionally, the medium-term impact may be influenced by the competitive landscape, as rival companies like Anthropic may also go public, potentially increasing competition and pressure on valuations.",
-      "risks": [
-        "valuation risk: OpenAI's high valuation may be unsustainable in the long term",
-        "regulatory risk: changes in AI regulations may impact OpenAI's business model",
-        "competitive risk: rival companies like Anthropic may also go public, increasing competition"
-      ]
-    }
-  },
-  {
-    "id": "7572553",
-    "headline": "Apple’s stock rises as Tim Cook gives just enough detail on Wall Street’s most burning question",
-    "summary": "The iPhone maker projected gross margins well ahead of Wall Street estimates, reassuring investors that it’s successfully managing the surge in memory prices",
-    "url": "https://www.marketwatch.com/story/apples-stock-rises-as-tim-cook-gives-just-enough-detail-on-wall-streets-most-burning-question-21e386af",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1769731920,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1769738160,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Apple's stock rose after CEO Tim Cook provided guidance on gross margins, exceeding Wall Street estimates. This suggests that Apple has effectively managed the increase in memory prices, a key component cost for the company's iPhones. The news is a relief to investors, who were concerned about the potential impact of rising memory prices on Apple's profit margins. As a result, investors are likely to reevaluate their expectations for Apple's earnings and potentially revise their price targets upwards.",
-      "impact": "The news is expected to have a positive impact on Apple's stock price in the short-term, potentially leading to a further increase in the coming days. In the medium-term, this news may also boost investor sentiment and contribute to a reevaluation of Apple's valuation multiples. The improved earnings outlook and reduced uncertainty around memory prices may also attract more investors to the stock, leading to increased liquidity and trading activity.",
-      "risks": []
     }
   }
 ]
