@@ -1,5 +1,51 @@
 [
   {
+    "id": "7578872",
+    "headline": "These are the ‘secret words’ Trump wants to hear as U.S., Iran prepare to meet this week",
+    "summary": "U.S. and Iranian negotiators are set to meet again later this week, and President Donald Trump made a clear ask of Tehran in his State of the Union speech on Tuesday night ahead of those talks.",
+    "url": "https://www.marketwatch.com/story/these-are-the-secret-words-trump-wants-to-hear-as-u-s-iran-prepare-to-meet-this-week-3457d46c",
+    "source": "MarketWatch",
+    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+    "relatedSymbols": [],
+    "publishedAt": 1771993800,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1771996544,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "US and Iranian negotiators are set to meet, with President Trump asking for specific concessions from Tehran. The talks aim to address ongoing tensions between the two nations. The State of the Union speech laid out Trump's conditions for a potential deal, which could impact regional stability and global oil markets. The outcome of these talks is uncertain, but a positive development could boost sentiment in the energy sector.",
+      "impact": "A positive outcome from the US-Iran talks could lead to increased stability in the Middle East, potentially benefiting energy stocks such as ExxonMobil (XOM) and Chevron (CVX). This could also have a positive impact on oil prices, which could in turn boost the earnings outlook for energy companies. However, a prolonged conflict or failure to reach an agreement could lead to increased volatility in the sector, negatively impacting sentiment and potentially leading to a short-term sell-off in energy stocks.",
+      "risks": [
+        "escalation of conflict risk",
+        "oil price volatility risk",
+        "geopolitical instability risk"
+      ]
+    }
+  },
+  {
+    "id": "7578868",
+    "headline": "Trump backs stock-trade ban for Congress during State of the Union. Here’s where the effort stands.",
+    "summary": "President Donald Trump got applause from Democrats and Republicans alike when he called in his State of the Union address for Congress to stop insider trading among lawmakers.",
+    "url": "https://www.marketwatch.com/story/trump-backs-stock-trade-ban-for-congress-during-state-of-the-union-heres-where-the-effort-stands-6cd6fbd8",
+    "source": "MarketWatch",
+    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+    "relatedSymbols": [],
+    "publishedAt": 1771992000,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1771996590,
+      "sentiment": "bullish",
+      "confidence": 0.7,
+      "summary": "President Trump's call for a ban on insider trading among lawmakers in his State of the Union address is a positive development for investors. The proposal, which has bipartisan support, aims to prevent lawmakers from profiting from non-public information. This move is seen as a step towards increasing transparency and accountability in the US Congress. The ban is expected to be included in the upcoming For the People Act, a comprehensive reform bill. The bill's passage would likely lead to increased regulatory scrutiny and potential penalties for insider trading among lawmakers.",
+      "impact": "The proposed ban on insider trading among lawmakers could lead to a short-term increase in investor confidence in the US government's commitment to transparency and accountability. This, in turn, could positively impact the broader market, particularly in the financial sector. Medium-term, the increased regulatory scrutiny and potential penalties for insider trading could lead to a decrease in insider trading activity among lawmakers, which could have a positive impact on the overall market sentiment.",
+      "risks": [
+        "Regulatory uncertainty risk",
+        "Bipartisan support risk (if the proposal is watered down or blocked)",
+        "Potential backlash from lawmakers who engage in insider trading"
+      ]
+    }
+  },
+  {
     "id": "7578843",
     "headline": "Could Stripe ‘salvage’ PayPal? What Wall Street has to say about the latest takeover talk.",
     "summary": "PayPal has underinvested in its consumer business, an analyst says. But Stripe could still find value in it.",
@@ -1315,6 +1361,52 @@
         "debt financing risk",
         "earnings decline risk",
         "market volatility risk"
+      ]
+    }
+  },
+  {
+    "id": "7578866",
+    "headline": "RBI may buy dollars for reserves should rupee gain, Citi says",
+    "summary": "Rupee has trailed Asian peers in the past two weeks amid subdued foreign inflows, erasing part of its gains after the US cut tariffs on India earlier this month.",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-24/citi-sees-india-building-reserves-if-rupee-gains-to-88-89-usd",
+    "source": "Bloomberg",
+    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+    "relatedSymbols": [],
+    "publishedAt": 1771904524,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1771996637,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "India's central bank may buy dollars to bolster its foreign-exchange reserves if the rupee strengthens to around 88-89 per dollar. This implies that the RBI is comfortable with the current exchange rate and is likely to intervene to stabilize the currency. The rupee has trailed Asian peers in the past two weeks due to subdued foreign inflows, but the US cutting tariffs on India earlier this month has helped to boost the currency. Citigroup's local markets head expects the rupee to trade in a band of 90 to 91.25 per dollar in the short term.",
+      "impact": "The potential intervention by the RBI could have a positive impact on the Indian stock market, particularly for companies with significant foreign exchange exposure. A stronger rupee could lead to higher earnings for these companies, as their foreign-denominated expenses become cheaper. This could boost their valuations and sentiment, leading to increased liquidity and higher stock prices. In the medium term, a stronger rupee could also lead to higher imports, which could have a positive impact on the economy and the overall stock market.",
+      "risks": [
+        "currency volatility risk",
+        "economic slowdown risk",
+        "trade policy risk"
+      ]
+    }
+  },
+  {
+    "id": "7578865",
+    "headline": "Jane Street sued over alleged front-running in $40 billion Terraform collapse",
+    "summary": "Jane Street faces a lawsuit alleging insider trading before Terraform’s $40 billion collapse, which triggered the TerraUSD crash and FTX fallout.",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-24/jane-street-sued-for-insider-trading-by-terraform-administrator",
+    "source": "Bloomberg",
+    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+    "relatedSymbols": [],
+    "publishedAt": 1771903563,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1771996686,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Jane Street Group LLC is being sued for alleged insider trading related to the Terraform Labs collapse, which had a significant impact on the crypto markets. The lawsuit claims that Jane Street used non-public information to front-run trades, hastening the collapse of Terraform. This event is significant because it highlights the potential for insider trading in the crypto market, which is already plagued by regulatory uncertainty. The Terraform collapse contributed to the downfall of FTX, a major player in the crypto space, and has far-reaching implications for the industry. The lawsuit's allegations could potentially damage Jane Street's reputation and lead to regulatory scrutiny, which could have long-term consequences for the company.",
+      "impact": "The news is likely to have a negative impact on Jane Street's stock price in the short term as investors become aware of the lawsuit and potential regulatory scrutiny. In the medium term, the company's reputation and potential regulatory issues could lead to a decline in investor confidence, affecting its stock price and valuation. The broader crypto market may also be impacted as investors become increasingly concerned about insider trading and regulatory uncertainty.",
+      "risks": [
+        "Regulatory scrutiny and potential fines or penalties",
+        "Damage to Jane Street's reputation and brand",
+        "Increased investor uncertainty and potential outflows"
       ]
     }
   },
@@ -22605,94 +22697,6 @@
         "Increased production costs and operational challenges for mining companies",
         "Potential volatility in gold prices due to changes in market sentiment",
         "Regulatory risks associated with gold mining operations"
-      ]
-    }
-  },
-  {
-    "id": "7572358",
-    "headline": "‘Climate of fear’: ICE violence in Minnesota forces CEOs to weigh the risks of speaking out against Trump",
-    "summary": "Minneapolis has become the testing ground for when and how far corporate leaders will wade into escalating political tensions.",
-    "url": "https://www.cnbc.com/2026/01/29/trump-minnesota-ice-action-ceos-speaking-out.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108256658-1769211521580-gettyimages-2257859436-08-04-deport012326march.jpeg?v=1769647305&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1769693101,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1769694437,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "The recent ICE violence in Minnesota has led to a shift in corporate leaders' willingness to speak out against Trump's policies. Despite the reluctance of many CEOs to explicitly criticize the president, some prominent executives like JPMorgan Chase's Jamie Dimon, OpenAI's Sam Altman, and Apple's Tim Cook have begun to publicly express their concerns. This development is a response to the escalating tensions and violence in Minnesota, where ICE agents have clashed with protesters. The CEOs' cautious approach to speaking out is driven by the fear of retaliation from the administration, which has used its power to target media companies, law firms, universities, and banks.",
-      "impact": "The shift in corporate leaders' willingness to speak out against Trump's policies may have a mixed impact on related stocks. In the short term, the increased visibility of CEOs' concerns may boost the sentiment around companies like JPMorgan Chase, OpenAI, and Apple, potentially leading to a slight increase in their stock prices. However, the medium-term impact may be more nuanced, as the ongoing tensions and potential retaliation from the administration could lead to increased regulatory scrutiny and reputational risks for these companies. This may result in a decline in their stock prices or a decrease in investor confidence.",
-      "risks": [
-        "regulatory scrutiny risk",
-        "reputational risk",
-        "increased competition risk"
-      ]
-    }
-  },
-  {
-    "id": "7572357",
-    "headline": "Oil prices rise more than 2% as Trump weighs strikes on Iran",
-    "summary": "Multiple sources told Reuters that Trump is weighing targeted strikes on Iranian security forces and leaders to inspire protestors.",
-    "url": "https://www.cnbc.com/2026/01/29/oil-prices-rise-more-than-2percent-as-trump-weighs-strikes-on-iran.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108019008-1723452018884-gettyimages-1183449974-191119-n-ds741-1049.jpeg?v=1769692444&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1769693046,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1769694484,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "US President Trump's consideration of targeted strikes on Iranian security forces and leaders has led to a 2.5% increase in US crude oil prices, with Brent crude rising 2.3%. This development is a response to Iran's security crackdown on anti-government protests, which has resulted in thousands of deaths. Trump's threat of military action aims to create conditions for regime change, which could disrupt crude supplies in the region. The oil market is closely monitoring this situation.",
-      "impact": "The potential military intervention in Iran could lead to a short-term increase in oil prices, benefiting oil producers such as ExxonMobil (XOM) and Chevron (CVX). In the medium term, a disruption in crude supplies could impact refining and transportation companies like Valero Energy (VLO) and Enterprise Products Partners (EPD). The increased uncertainty and potential for volatility may also lead to a surge in oil futures prices, benefiting companies like Occidental Petroleum (OXY) and Marathon Petroleum (MPC).",
-      "risks": []
-    }
-  },
-  {
-    "id": "7572355",
-    "headline": "Surprisingly strong software growth sends IBM’s stock surging",
-    "summary": "Surprisingly strong software growth sent IBM shares surging in early trade on Thursday.",
-    "url": "https://www.marketwatch.com/story/surprisingly-strong-software-growth-sends-ibm-stock-surging-e4f02a75",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1769692980,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1769694533,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "IBM's stock surged in early trade on Thursday following surprisingly strong software growth. The company's software segment reported a significant increase in revenue, beating expectations. This growth is a positive indicator for IBM's ability to adapt to the changing technology landscape and capitalize on emerging trends. The software segment is a key driver of IBM's revenue and profitability, and this performance suggests that the company's strategy is paying off. The strong software growth is also a positive sign for the overall IT industry, which has been experiencing a slowdown in recent quarters.",
-      "impact": "The strong software growth is likely to boost IBM's earnings outlook in the short term, potentially leading to a revaluation of the stock. This could also increase investor sentiment and liquidity, making the stock more attractive to traders and investors. In the medium term, the company's ability to drive growth in its software segment could lead to increased investor confidence and a higher stock price.",
-      "risks": [
-        "Potential volatility in the IT industry due to changing technology trends and regulatory developments",
-        "Competition from other tech giants and emerging players in the software segment",
-        "Dependence on a few large clients for software revenue"
-      ]
-    }
-  },
-  {
-    "id": "7572352",
-    "headline": "More tops, more dresses and an AI ‘stylist’ — here’s what 2026 could look like for Levi’s",
-    "summary": "Levi’s sees sales of tops, dresses and non-denim bottoms growing fast.",
-    "url": "https://www.marketwatch.com/story/more-tops-more-dresses-and-an-ai-stylist-heres-what-2026-could-look-like-for-levis-085054cf",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1769692260,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1769694582,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Levi's is expected to see sales growth in tops, dresses, and non-denim bottoms, driven by a shift in consumer preferences. This trend is likely to be driven by the company's efforts to expand its product offerings and improve its e-commerce capabilities. The introduction of an AI-powered 'stylist' feature is also expected to enhance the shopping experience for customers. This could lead to increased customer engagement and loyalty, ultimately driving sales growth. The company's focus on innovation and customer experience is a positive sign for its future prospects.",
-      "impact": "The news is likely to have a positive impact on Levi's stock in the short-term, with investors expecting increased sales and revenue growth. This could lead to a re-rating of the company's valuation, as investors become more optimistic about its future prospects. In the medium-term, the company's focus on innovation and customer experience could lead to increased market share and competitiveness, driving further growth and profitability.",
-      "risks": [
-        "execution risk: the company's ability to successfully implement its new product offerings and e-commerce capabilities",
-        "competition risk: the threat of competition from other fashion brands and retailers",
-        "macroeconomic risk: the potential impact of economic downturns on consumer spending"
       ]
     }
   }
