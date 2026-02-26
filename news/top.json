@@ -1,5 +1,75 @@
 [
   {
+    "id": "7579423",
+    "headline": "FanDuel parent Flutter reports disappointing fourth-quarter earnings",
+    "summary": "Flutter's 2026 revenue guidance of $17.75 billion to $19.05 billion was lower than analysts' projection.",
+    "url": "https://www.cnbc.com/2026/02/26/fanduel-parent-flutter-flut-q4-2025-earnings.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108217313-1761583003824-gettyimages-2155741121-AFP_34VQ69G.jpeg?v=1761583032&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1772140427,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772140816,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Flutter Entertainment, the parent company of FanDuel, reported disappointing fourth-quarter earnings that missed Wall Street expectations on nearly every metric. The company's revenue and adjusted EPS fell short of analyst projections, with revenue coming in at $4.74 billion versus the expected $4.97 billion. The underperformance was attributed to bettors losing more often than usual, leading to a decrease in app usage. This trend is expected to impact the company's revenue guidance for 2026, which was lowered to $17.75 billion to $19.05 billion, below analyst projections.",
+      "impact": "The disappointing earnings and lowered revenue guidance are likely to weigh on Flutter's stock price in the short term, with shares already falling almost 7% in extended trading. The medium-term impact may be more significant, as the company's ability to meet its revenue guidance will be closely watched by investors. This could lead to increased volatility in the stock price and potentially affect the company's valuation. Additionally, the trend of bettors losing more often than usual may continue, further impacting the company's revenue and profitability.",
+      "risks": [
+        "Earnings outlook risk",
+        "Valuation risk",
+        "Sentiment risk",
+        "Revenue slowdown risk"
+      ]
+    }
+  },
+  {
+    "id": "7579421",
+    "headline": "Block plans to lay off nearly half its staff in ‘deliberate and bold’ embrace of AI",
+    "summary": "‘Intelligence tools have changed what it means to build and run a company,’ CEO Jack Dorsey says",
+    "url": "https://www.marketwatch.com/story/block-plans-to-lay-off-nearly-half-its-staff-in-deliberate-and-bold-embrace-of-ai-81e99247",
+    "source": "MarketWatch",
+    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+    "relatedSymbols": [],
+    "publishedAt": 1772140380,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772140863,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Block, a fintech company, plans to lay off nearly half of its staff in a move to adopt AI-driven tools. The company's CEO, Jack Dorsey, believes that AI has changed the way companies are built and run. This significant restructuring aims to position Block for future growth and efficiency. The company's focus on AI adoption may lead to cost savings and improved productivity, but it also poses significant risks to the remaining employees and the company's ability to execute this transformation.",
+      "impact": "The layoffs and restructuring may lead to a short-term decline in Block's stock price due to the uncertainty and potential disruption to the company's operations. In the medium term, the successful adoption of AI could lead to improved efficiency and cost savings, potentially boosting Block's profitability and earnings outlook. However, the company's ability to execute this transformation and mitigate the risks associated with significant layoffs will be crucial in determining its long-term success.",
+      "risks": [
+        "execution risk: the company's ability to successfully implement AI-driven tools and processes",
+        "talent retention risk: the potential loss of key employees and the impact on company culture",
+        "integration risk: the risk of integrating AI tools and processes with existing systems and operations"
+      ]
+    }
+  },
+  {
+    "id": "7579413",
+    "headline": "Why Corning's near record stock price and historically expensive valuation are worth it",
+    "summary": "Shares were up more than 70% year to date — making it one of the best performers in the S&P 500 and, by far, our top 2026 Club stock.",
+    "url": "https://www.cnbc.com/2026/02/26/why-cornings-near-record-stock-price-and-expensive-valuation-are-worth-it.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108256652-1769211369805-Contour_wide.jpg?v=1769216172&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1772137748,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772140910,
+      "sentiment": "bullish",
+      "confidence": 0.85,
+      "summary": "Corning's stock has surged over 70% year-to-date, making it one of the best performers in the S&P 500. The company's fiber optic cabling business is driving growth, with 35% revenue growth in 2025 and a 71% net income increase. Corning's partnership with Nvidia and its upcoming deals with Meta and other hyperscalers are expected to fuel further growth. The company's dominance in durable glass for mobile devices and its expanding role in AI infrastructure also contribute to its strong outlook.",
+      "impact": "Corning's stock is likely to remain strong in the near term due to its robust earnings outlook and valuation. The company's recent price target increases from Citi and The Club suggest that analysts are increasingly optimistic about its growth prospects. However, investors should be aware of potential risks such as supply chain disruptions and competition from emerging technologies.",
+      "risks": [
+        "Supply chain disruptions risk",
+        "Competition from emerging technologies risk",
+        "Overvaluation risk"
+      ]
+    }
+  },
+  {
     "id": "7579409",
     "headline": "Nvidia takes the market lower — but one area of beaten-up tech moves higher",
     "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
@@ -22659,75 +22729,6 @@
         "regulatory approval risk",
         "implementation risk",
         "inflation risk"
-      ]
-    }
-  },
-  {
-    "id": "7572818",
-    "headline": "Unity’s stock becomes the latest victim of Google’s AI ambitions",
-    "summary": "Google’s new Project Genie prototype, which lets users simulate virtual worlds, has gaming investors very worried. But one analyst says their fears are overblown.",
-    "url": "https://www.marketwatch.com/story/unitys-stock-becomes-the-latest-victim-of-googles-ai-ambitions-5f42ea93",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1769799660,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1769800892,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "Unity's stock is being negatively impacted by Google's Project Genie, a prototype that simulates virtual worlds. This development has raised concerns among gaming investors, as it may potentially disrupt Unity's business model. Unity's technology is used to power many games and interactive experiences, and the emergence of a competing platform could erode its market share. The analyst quoted in the article believes the fears are overblown, but the uncertainty surrounding the impact of Project Genie on Unity's business is a concern.",
-      "impact": "The short-term impact on Unity's stock is likely to be negative, driven by investor concerns about the potential disruption to its business model. In the medium term, the emergence of Project Genie could lead to increased competition for Unity, potentially affecting its earnings outlook and valuation. The uncertainty surrounding the impact of Project Genie on Unity's business may also lead to increased volatility in the stock price.",
-      "risks": [
-        "disruption to business model risk",
-        "increased competition risk",
-        "uncertainty surrounding Project Genie's impact on earnings"
-      ]
-    }
-  },
-  {
-    "id": "7572812",
-    "headline": "This single mom saved $1 million in 15 years to retire at 49. How to use her strategies to catch up on retirement savings.",
-    "summary": "It’s not too late to fast-track your retirement savings, even if you’re 50 years old and have debt.",
-    "url": "https://www.marketwatch.com/story/this-single-mom-saved-1-million-in-15-years-to-retire-at-49-how-to-use-her-strategies-to-catch-up-on-retirement-savings-0953b686",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1769797440,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1769800938,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "A single mom saved $1 million in 15 years to retire at 49 by consistently investing $7,000 per month. This is an example of disciplined saving and investing, which can be applied by others to catch up on retirement savings. Despite being 50 years old and having debt, it's not too late to fast-track retirement savings. The article highlights the importance of starting early and being consistent in investing. It also emphasizes the potential for individuals to take control of their financial futures.",
-      "impact": "The news article is likely to have a positive impact on the financial services industry, particularly companies that offer retirement savings and investment products. This could lead to increased demand for services such as robo-advisors, financial planning, and investment management. Companies like Vanguard, Fidelity, and Schwab may benefit from this trend, as they offer a range of retirement savings and investment products. Additionally, the article may also boost the sentiment towards the broader stock market, potentially leading to a short-term rally.",
-      "risks": [
-        "market volatility risk",
-        "interest rate risk",
-        "regulatory changes risk"
-      ]
-    }
-  },
-  {
-    "id": "7572809",
-    "headline": "This beaten-down sector could offer you a ripe investment opportunity",
-    "summary": "Also in Weekend Reads: Reaction to Trump’s decision to nominate Kevin Warsh to lead the Fed, the software wipeout, momentum stocks and what to stream in February",
-    "url": "https://www.marketwatch.com/story/this-beaten-down-sector-could-offer-you-a-ripe-investment-opportunity-b4dd1c27",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1769796180,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1769800982,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The article suggests that a specific sector has been beaten down and could offer a ripe investment opportunity. The sector is not specified, but the article implies that it has been negatively impacted by recent events. The article cites a potential catalyst for the sector's recovery, although it is not clear what this catalyst is. The article's tone is optimistic, suggesting that the sector has been undervalued and is due for a rebound.",
-      "impact": "The potential investment opportunity in this sector could lead to a short-term increase in stock prices, driven by a combination of sentiment and valuation factors. As the sector recovers, earnings outlook and liquidity are likely to improve, further supporting stock prices. The article's bullish tone could also contribute to a medium-term increase in investor sentiment and capital inflows into the sector.",
-      "risks": [
-        "sector-specific risks",
-        "valuation risks",
-        "market volatility risks"
       ]
     }
   }
