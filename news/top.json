@@ -99,7 +99,20 @@
     "source": "MarketWatch",
     "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
     "relatedSymbols": [],
-    "publishedAt": 1772221560
+    "publishedAt": 1772221560,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772229596,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "A woman is being pursued by the IRS for $328,000 in unpaid taxes due to her accountant's embezzlement. The accountant was convicted and imprisoned for the crime, but the woman is still liable for the taxes owed. This situation highlights the importance of verifying the legitimacy of financial advisors and the potential consequences of their actions. The woman's case is an isolated incident and does not have a direct impact on the broader tax industry or the economy.",
+      "impact": "This news is unlikely to have a significant impact on the broader market or individual stocks, as it is an isolated incident and not a systemic issue. However, it may serve as a reminder for investors to carefully vet their financial advisors and ensure they are not involved in any illicit activities. In the short-term, this news may lead to a slight increase in investor caution and a decrease in sentiment towards the financial services sector, potentially affecting stocks such as Fidelity (FHLF) and Charles Schwab (SCHW).",
+      "risks": [
+        "Investor sentiment risk",
+        "Regulatory scrutiny risk",
+        "Financial advisor liability risk"
+      ]
+    }
   },
   {
     "id": "7579733",
