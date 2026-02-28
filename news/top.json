@@ -1,5 +1,28 @@
 [
   {
+    "id": "7579804",
+    "headline": "Trump says ‘massive’ strike against Iran underway — bitcoin plunge offers a glimpse of how markets could react",
+    "summary": "Bitcoin was tumbling on Saturday after military action was carried out against Iran by the U.S. and Israel.",
+    "url": "https://www.marketwatch.com/story/trump-says-massive-strike-against-iran-underway-bitcoin-plunge-offers-a-glimpse-of-how-markets-could-react-25d9ed1c",
+    "source": "MarketWatch",
+    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+    "relatedSymbols": [],
+    "publishedAt": 1772269020,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772270988,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The article reports that a military strike against Iran has been carried out by the US and Israel, leading to a plunge in Bitcoin prices. This news has implications for the global markets, particularly for companies with significant exposure to Middle Eastern oil production or trade. The strike could lead to increased tensions in the region, potentially disrupting global oil supplies and impacting the energy sector. This, in turn, could affect the earnings outlook for companies with significant oil-related operations.",
+      "impact": "The potential impact on related stocks could be significant, with a short-term drop in oil prices and a medium-term increase in volatility. Companies with significant exposure to oil production or trade in the Middle East, such as oil majors like ExxonMobil (XOM) or Chevron (CVX), may see their earnings outlook decline. Additionally, companies with significant operations in the region, such as airlines or logistics providers, may also be affected by increased tensions and potential disruptions to trade. The overall sentiment in the market is likely to be bearish, with investors becoming more risk-averse in the face of increased uncertainty.",
+      "risks": [
+        "Increased tensions in the Middle East leading to disruptions in oil supplies",
+        "Potential escalation of conflict and impact on global trade",
+        "Increased volatility in the energy sector"
+      ]
+    }
+  },
+  {
     "id": "7579787",
     "headline": "Private-credit ‘cockroaches’ and the AI ‘scare trade’ hammered stocks in February. Here’s what else has investors shaken up.",
     "summary": "Stocks were caught up Friday in a whirlwind of market-moving headlines, making for a wild final trading day in a rough month for U.S. equities.",
@@ -22690,29 +22713,6 @@
       "summary": "Palantir's stock has been reevaluated by an analyst who now sees a path to $200. This change in sentiment is driven by new government contracts and expanding margins, which could help the stock rebound. The analyst's positive outlook is based on the company's ability to secure large government contracts, which has historically been a key driver of growth. This, combined with expanding margins, suggests that Palantir's business fundamentals are improving. The analyst's confidence in the stock's potential is reflected in the new price target of $200.",
       "impact": "The potential impact on Palantir's stock is significant, with a price target of $200 indicating a potential 50% increase from current levels. This could lead to increased buying interest and a short-term rally in the stock. In the medium term, the analyst's positive outlook could lead to increased investor confidence and improved sentiment around the company, driving further price appreciation. Additionally, the analyst's call could also lead to increased trading activity and liquidity in the stock.",
       "risks": []
-    }
-  },
-  {
-    "id": "7573268",
-    "headline": "Nvidia and Oracle are sending similar warning signs about the AI trade",
-    "summary": "Oracle is raising more debt and Nvidia is walking back its OpenAI investment target. Both are signs that the AI trade could be on shaky ground, according to one analyst.",
-    "url": "https://www.marketwatch.com/story/nvidia-and-oracle-are-sending-similar-warning-signs-about-the-ai-trade-415d0a62",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1770049380,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1770100504,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Oracle's decision to raise more debt and Nvidia's walk-back of its OpenAI investment target are sending warning signs about the AI trade. This comes as investors had been betting heavily on the growth of artificial intelligence. Oracle's debt increase may indicate that the company is struggling to keep up with the costs associated with its AI initiatives, while Nvidia's reduced investment target suggests that the AI market may not be growing as quickly as expected. This could have implications for the broader tech sector, particularly for companies that have been relying on AI to drive growth.",
-      "impact": "The news could lead to a short-term sell-off in Nvidia and Oracle, as investors reassess their expectations for the AI trade. In the medium term, this could lead to a re-evaluation of the earnings outlook for both companies, particularly if AI-related revenue growth slows down. The reduced investment target from Nvidia may also lead to a decrease in sentiment around the company, making it more challenging to attract new investors and maintain current valuations.",
-      "risks": [
-        "AI adoption slowdown risk",
-        "debt burden risk for Oracle",
-        "valuation multiple compression risk for Nvidia"
-      ]
     }
   }
 ]
