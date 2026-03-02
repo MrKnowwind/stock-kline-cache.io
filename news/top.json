@@ -1,5 +1,28 @@
 [
   {
+    "id": "7579996",
+    "headline": "Global markets after Iran strikes: oil surges, airlines sink, bonds defy safe-haven playbook",
+    "summary": "Asian markets started the day lower across the board, with major markets in the region in negative territory.",
+    "url": "https://www.cnbc.com/2026/03/02/global-markets-after-iran-strikes-oil-surges-airlines-sink-bonds-defy-safe-haven-playbook.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108271021-1772206587449-gettyimages-2263882829-mms29191_dl8etm5t.jpeg?v=1772206777&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1772435606,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772437177,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Global markets were initially hit by the US and Israeli strikes on Iran, causing losses across Asian markets. However, energy and gold stocks surged as investors priced in the risk of a broader Middle East conflict, with oil prices rising over 8% and gold mining stocks advancing 4%. The Strait of Hormuz, a critical energy chokepoint, has seen tanker traffic slow to a near standstill, forcing a reevaluation of geopolitical risk. This has led to gains in energy and gold stocks, while airline stocks have been hit due to flight cancellations and disruptions.",
+      "impact": "The surge in oil prices could lead to a short-term boost in earnings for energy companies, particularly those with significant exposure to the Middle East. However, this could also lead to higher production costs and inflationary pressures for companies in other sectors. In the medium term, the increased risk of conflict in the region could lead to a reevaluation of investment in the energy sector, potentially driving up valuations for energy stocks. The airline industry is likely to face significant challenges in the short term due to flight cancellations and disruptions, potentially leading to earnings pressure and a decline in stock prices.",
+      "risks": [
+        "Increased production costs and inflationary pressures",
+        "Disruptions to global supply chains",
+        "Potential for further conflict escalation"
+      ]
+    }
+  },
+  {
     "id": "7579967",
     "headline": "Anthropic’s Claude tops App Store charts as backlash builds against OpenAI’s ChatGPT",
     "summary": "OpenAI faces some user criticism over its new deal with the Department of Defense.",
@@ -284,6 +307,29 @@
       "summary": "The US-Israel strikes against Iran are expected to push up oil prices due to the increased tensions in the region, which may lead to a surge in crude oil prices. This, in turn, could result in higher gasoline prices at the pump. GasBuddy estimates that Americans may pay up to $3.25 per gallon by May, a significant increase from the current prices. The rise in oil prices is likely to be driven by the increased demand for oil as a safe-haven asset, coupled with the potential for supply disruptions in the region.",
       "impact": "The potential increase in oil prices and gasoline prices may negatively impact the earnings of companies in the energy sector, particularly those with high exposure to refining and retail gasoline sales. This could lead to a decline in their stock prices, particularly in the short-term. Companies such as Marathon Petroleum (MPC), Valero Energy (VLO), and Chevron (CVX) may be most affected. The increased uncertainty and volatility in the oil market may also lead to a decline in investor sentiment, further exacerbating the negative impact on stock prices.",
       "risks": []
+    }
+  },
+  {
+    "id": "7579989",
+    "headline": "Bitcoin recovers above $68,000 after death of Iranian leader",
+    "summary": "Bitcoin surges past $68,000 following the death of Iran's supreme leader, amid geopolitical tensions and market recovery.",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-28/bitcoin-slides-below-64-000-after-explosions-reported-in-tehran-mm60ajtz",
+    "source": "Bloomberg",
+    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+    "relatedSymbols": [],
+    "publishedAt": 1772346878,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772437225,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The death of Iran's supreme leader has led to a surge in Bitcoin price, surpassing $68,000, as investors seek safe-haven assets amidst geopolitical tensions. This development comes after a series of explosions in Tehran, which have heightened global concerns. The market is interpreting this event as a catalyst for increased demand in Bitcoin, driven by its perceived store of value and hedge against inflation. The price action is also influenced by the broader market recovery, as investors become more optimistic about the global economy.",
+      "impact": "The price surge in Bitcoin may have a positive impact on companies involved in the cryptocurrency space, such as Coinbase Global Inc. (COIN) and MicroStrategy Inc. (MSTR), which could see increased trading volumes and interest in their services. Additionally, the safe-haven demand may also benefit traditional gold miners, such as Newmont Corporation (NEM) and Barrick Gold Corporation (GOLD), as investors seek alternative assets to Bitcoin.",
+      "risks": [
+        "Potential regulatory backlash against cryptocurrencies in response to increased demand",
+        "Risk of market volatility as investors become over-optimistic about the global economy",
+        "Uncertainty around the long-term sustainability of Bitcoin's price growth"
+      ]
     }
   },
   {
@@ -22655,52 +22701,6 @@
         "Competition from other beverage and snack companies, such as Coca-Cola and Mondelēz International",
         "Geopolitical risks, including trade tensions and currency fluctuations",
         "Slowing demand growth in key markets, particularly in the US and Europe"
-      ]
-    }
-  },
-  {
-    "id": "7573503",
-    "headline": "PayPal’s stock slides as disappointing earnings usher in a CEO change",
-    "summary": "PayPal just saw a major slowdown on a metric that’s closely watched by investors. Soon HP veteran Enrique Lores will be tasked with trying to turn the company around.",
-    "url": "https://www.marketwatch.com/story/paypals-stock-slides-as-disappointing-earnings-usher-in-a-ceo-change-7a42c068",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1770121020,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1770126804,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "PayPal's stock price has declined following the release of disappointing earnings, which have led to the appointment of a new CEO, Enrique Lores, a veteran from HP. The slowdown in a key metric has raised concerns among investors. The new CEO will aim to turn the company around, but the immediate impact of this change is uncertain. PayPal's earnings have been a key focus for investors, and the disappointing results may indicate a broader slowdown in the fintech industry.",
-      "impact": "The disappointing earnings and leadership change may lead to a short-term decline in PayPal's stock price, potentially affecting its valuation and sentiment. In the medium term, the new CEO's efforts to turn the company around may have a positive impact on the stock price, but this is uncertain and will depend on the effectiveness of his strategy. The decline in earnings may also impact the company's liquidity and ability to invest in growth initiatives.",
-      "risks": [
-        "disappointing earnings risk",
-        "leadership transition risk",
-        "fintech industry slowdown risk"
-      ]
-    }
-  },
-  {
-    "id": "7573504",
-    "headline": "Merck’s outlook for 2026 comes in lower-than-expected as pipeline faces make-or-break year",
-    "summary": "Merck’s stock falls as the full-year revenue and profit outlooks were below expectations.",
-    "url": "https://www.marketwatch.com/story/mercks-outlook-for-2026-comes-in-lower-than-expected-as-pipeline-faces-make-or-break-year-e797985f",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1770119700,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1770126851,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Merck's stock fell after the company's full-year revenue and profit outlooks for 2026 came in below expectations. The company's pipeline faces a make-or-break year, with several key products nearing patent expirations and regulatory approvals. This has led to concerns about the company's ability to maintain its revenue and profit growth. The news has sparked worries about the company's long-term prospects and its ability to innovate and replace its expiring patents.",
-      "impact": "The news is likely to have a negative impact on Merck's stock price in the short term, with a potential decline in earnings per share (EPS) and a revaluation of the company's valuation multiples. The medium-term impact may be more significant, as investors reassess the company's growth prospects and potential for innovation. The decline in Merck's stock price may also affect the overall pharmaceutical sector, leading to a broader market correction. The company's liquidity may also be affected, as investors become more cautious and reduce their exposure to the stock.",
-      "risks": [
-        "patent expiration risk",
-        "regulatory approval risk",
-        "innovation risk"
       ]
     }
   }
