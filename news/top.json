@@ -1,5 +1,121 @@
 [
   {
+    "id": "7580131",
+    "headline": "Jim Cramer's top 10 things to watch in the stock market Monday",
+    "summary": "The stock market can accept a short war with a limited oil price impact, not a long one where oil runs hot.",
+    "url": "https://www.cnbc.com/2026/03/02/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108162130-17505936352025-06-18t154538z_1822239137_rc225fad2idy_rtrmadp_0_iran-nuclear-shipping-hormuz.jpeg?v=1750593667&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1772460015,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772461824,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "The stock market is expected to react to the US-Israeli attack on Iran and the resulting oil price spike. The market can tolerate a short war with limited oil price impact, but a long war could be detrimental. Analysts are watching key events such as CrowdStrike's earnings report, the private credit industry, and Nvidia's new processor launch. The market is also concerned about the impact of tariffs on steel prices and the potential disruption to global supply chains.",
+      "impact": "The potential impact on stocks is mixed. Energy stocks such as Chevron and Exxon may benefit from the price spike, but the broader market may be negatively affected by the conflict. CrowdStrike's earnings report could be a catalyst for the stock, but its high price-to-earnings multiple may be a concern. Nvidia's new processor launch could be a positive for the company, but the impact on the broader market is uncertain. The private credit industry may be negatively affected by the flow of capital out of funds, particularly for companies such as Blue Owl Capital.",
+      "risks": [
+        "oil price volatility risk",
+        "global supply chain disruption risk",
+        "valuation risk for CrowdStrike",
+        "capital outflow risk for private credit industry"
+      ]
+    }
+  },
+  {
+    "id": "7580105",
+    "headline": "Anthropic’s Claude suffers an outage. Here’s what to know.",
+    "summary": "Claude had been gaining more respect with users following ChatGPT backlash and the introduction of new coding tools, though an outage might erode some of that goodwill.",
+    "url": "https://www.marketwatch.com/story/anthropics-claude-suffers-an-outage-heres-what-to-know-df8ada64",
+    "source": "MarketWatch",
+    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+    "relatedSymbols": [],
+    "publishedAt": 1772458140,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772461871,
+      "sentiment": "bearish",
+      "confidence": 0.6,
+      "summary": "Anthropic's Claude, a large language model, has suffered an outage, which may erode the goodwill it had gained following the ChatGPT backlash. Claude had been gaining traction with users, particularly with the introduction of new coding tools. This outage may indicate technical issues or infrastructure challenges that could impact the model's reliability and user adoption. The outage may also damage the company's reputation and trust with users, potentially affecting its growth prospects.",
+      "impact": "The outage may lead to short-term volatility in the stock prices of companies related to the AI industry, such as Meta Platforms, Alphabet, or Microsoft, as investors reassess the risks and challenges associated with AI development. The medium-term impact may be more significant, as the outage could lead to a decrease in user adoption and revenue growth for Anthropic, potentially affecting its valuation and earnings outlook. The incident may also increase the competition for Anthropic, as users may turn to alternative AI models with more reliable performance.",
+      "risks": [
+        "reputation risk",
+        "technical risk",
+        "user adoption slowdown risk"
+      ]
+    }
+  },
+  {
+    "id": "7580101",
+    "headline": "Travel stocks sink after thousands of flights grounded following Iran strikes",
+    "summary": "Airlines and some hotel stocks fell after the U.S.-Israeli attacks on Iran and subsequent retaliation strikes.",
+    "url": "https://www.cnbc.com/2026/03/02/iran-strikes-flights-travel-stocks.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108271858-17724534992026-03-02t075929z_1304138344_rc23wjaaaj9j_rtrmadp_0_iran-crisis-vietnam.jpeg?v=1772453539&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1772457354,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772461919,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The recent US-Israeli strikes on Iran and subsequent retaliation strikes led to airspace closures in the Middle East, causing thousands of flights to be grounded. This disruption has resulted in significant losses for airlines and travel-related stocks, with United Airlines, Delta Air Lines, and American Airlines experiencing 6% drops in premarket trading. The impact is particularly severe for international airlines, as flights to destinations like Tel Aviv and Dubai have been halted. The oil price spike driven by the conflict further exacerbates the situation, increasing airlines' costs.",
+      "impact": "The short-term impact on airlines and travel-related stocks is likely to be negative, with earnings outlook and valuation potentially taking a hit. The disruption to flights and increased fuel costs may lead to a decline in investor sentiment, resulting in lower stock prices. In the medium term, the industry's reliance on international travel, which has been a growth driver, may be impacted by the ongoing conflict and potential long-term changes in global air travel patterns. The oil price spike may also have a lasting effect on airlines' cost structures.",
+      "risks": [
+        "Increased fuel costs risk",
+        "Disruption to international travel demand",
+        "Potential long-term changes in global air travel patterns"
+      ]
+    }
+  },
+  {
+    "id": "7580091",
+    "headline": "‘I don’t earn enough to support us and our baby’: My husband is unemployed and lost $22,000 trading sports cards. What now?",
+    "summary": "“I intervened, shut the business down and got him into therapy and support for gambling-type behaviors.”",
+    "url": "https://www.marketwatch.com/story/i-dont-earn-enough-to-support-us-and-our-baby-my-husband-is-unemployed-and-lost-22-000-trading-sports-cards-what-now-200c1438",
+    "source": "MarketWatch",
+    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+    "relatedSymbols": [],
+    "publishedAt": 1772457060,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772461967,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "A couple's financial struggles due to the husband's unemployment and loss of $22,000 trading sports cards is a cautionary tale highlighting the risks of excessive speculation and financial mismanagement. The husband's behavior is likened to a gambling addiction, which led to the loss of a significant amount of money. The wife intervened by shutting down the trading business and seeking therapy for her husband's behavior. This situation serves as a reminder of the importance of financial responsibility and the potential consequences of reckless spending.",
+      "impact": "The news does not directly impact the stock market, but it highlights the importance of financial discipline and responsible spending habits. In the short term, this story may contribute to a negative sentiment towards the broader market, potentially affecting investor confidence and sentiment. As a result, investors may become more cautious and risk-averse, leading to a decrease in stock prices. The medium-term impact is uncertain, but it may also lead to increased scrutiny of companies and individuals involved in high-risk financial activities.",
+      "risks": [
+        "Increased regulatory scrutiny of high-risk financial activities",
+        "Decreased investor confidence and sentiment",
+        "Potential impact on companies involved in high-risk financial activities"
+      ]
+    }
+  },
+  {
+    "id": "7580092",
+    "headline": "The economy looks great on paper — but this split in consumer mood spells trouble",
+    "summary": "Recession is more likely when consumers are gloomy about the economy and their own finances.",
+    "url": "https://www.marketwatch.com/story/the-economy-looks-great-on-paper-but-this-split-in-consumer-mood-spells-trouble-89ad2a6e",
+    "source": "MarketWatch",
+    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+    "relatedSymbols": [],
+    "publishedAt": 1772457000,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772462015,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "The article highlights a concerning trend in consumer sentiment, where despite a strong economy, consumers are increasingly pessimistic about their personal finances and the overall economy. This divergence between economic indicators and consumer mood is often seen as a precursor to a recession. The article cites research suggesting that when consumers are gloomy, it can lead to reduced spending and a decrease in economic activity. This can have a ripple effect on various industries, particularly those closely tied to consumer spending.",
+      "impact": "The potential impact on related stocks could be significant, with a bearish consumer sentiment leading to reduced demand and lower earnings for companies reliant on consumer spending. This could result in a short-term sell-off in stocks with high exposure to consumer-facing industries, such as retail, hospitality, and leisure. In the medium term, a prolonged period of consumer pessimism could lead to a decrease in valuations for these stocks, making them more attractive to value investors. However, it's essential to note that this is a macroeconomic risk, and individual stock performance may vary.",
+      "risks": [
+        "Reduced consumer spending",
+        "Decreased earnings for consumer-facing companies",
+        "Valuation decrease for consumer-related stocks"
+      ]
+    }
+  },
+  {
     "id": "7580087",
     "headline": "Why Big Tech’s slide is the best thing to happen to your portfolio",
     "summary": "Megacap tech stocks are becoming more realistically valued and still offer solid growth.",
@@ -22590,118 +22706,6 @@
         "increase in interest rates",
         "shift in investor sentiment towards alternative assets"
       ]
-    }
-  },
-  {
-    "id": "7573662",
-    "headline": "Walmart just became a $1 trillion company. Here’s what it needs to do to remain one.",
-    "summary": "Walmart’s journey to a $1 trillion market cap came after embracing technology and providing its customers with greater relief from inflation.",
-    "url": "https://www.marketwatch.com/story/walmart-just-became-a-1-trillion-company-heres-what-it-needs-to-do-to-remain-one-36b6f5d7",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1770135540,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1770136540,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Walmart's market capitalization has surpassed $1 trillion, driven by its successful adoption of technology and efforts to provide customers relief from inflation. This achievement is a testament to the company's ability to adapt to changing market conditions and consumer behavior. Walmart's focus on e-commerce and digital transformation has allowed it to stay competitive in a rapidly evolving retail landscape. The company's efforts to reduce prices and improve supply chain efficiency have also contributed to its success. As a result, Walmart is well-positioned to continue its growth trajectory.",
-      "impact": "Walmart's milestone achievement is likely to have a positive impact on the stock price in the short term, driven by increased investor confidence and a re-rating of the company's valuation. The company's earnings outlook is expected to remain strong, supported by its e-commerce growth and cost-saving initiatives. However, investors should be cautious of potential risks, including increased competition from online retailers and the ongoing impact of inflation on consumer spending.",
-      "risks": [
-        "Increased competition from online retailers",
-        "Ongoing impact of inflation on consumer spending",
-        "Potential disruption to supply chain operations"
-      ]
-    }
-  },
-  {
-    "id": "7573656",
-    "headline": "Is a Tesla-SpaceX deal on the table?",
-    "summary": "Experts are split on the merits of a Tesla-SpaceX combination, which could further Elon Musk’s dream of corporate “convergence,” but potentially at a cost to Tesla shareholders",
-    "url": "https://www.marketwatch.com/story/is-a-tesla-spacex-deal-on-the-table-d964e87d",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1770133320,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1770136589,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Experts are debating the potential benefits and drawbacks of a Tesla-SpaceX merger, which could further Elon Musk's vision of corporate convergence. A combination of the two companies could create a more diversified and technologically advanced entity, but it may also dilute Tesla's focus on its core electric vehicle business and potentially harm shareholders. The idea of a deal has been floated in the past, but it remains unclear whether it will materialize. The potential impact on Tesla's stock price and valuation is uncertain, as investors weigh the benefits of a larger, more diversified company against the potential risks to the electric vehicle business.",
-      "impact": "A potential Tesla-SpaceX deal could lead to a short-term increase in Tesla's stock price, driven by the excitement and speculation surrounding the possibility of a merger. However, in the medium term, the deal could negatively impact Tesla's stock price if it leads to a dilution of focus on the electric vehicle business and a subsequent decline in earnings. The deal could also lead to increased volatility in both Tesla and SpaceX's stock prices, making them less attractive to investors seeking stability.",
-      "risks": [
-        "Dilution of focus on electric vehicle business",
-        "Potential negative impact on earnings",
-        "Increased volatility in stock prices"
-      ]
-    }
-  },
-  {
-    "id": "7573653",
-    "headline": "Nvidia’s stock needs a spark. Here’s how it can get one.",
-    "summary": "After a stretch of underperformance, Nvidia’s stock could come alive after earnings, upcoming industry events and the expected launch of new AI models by companies using its Blackwell chips.",
-    "url": "https://www.marketwatch.com/story/nvidias-stock-needs-a-spark-heres-how-it-can-get-one-c7f5a508",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1770131940,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1770132918,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Nvidia's stock has been underperforming, but upcoming events such as the earnings release and industry events could spark a turnaround. The expected launch of new AI models by companies using Nvidia's Blackwell chips is a key driver of this potential recovery. The company's strong position in the AI hardware market and its recent investments in AI research and development suggest that it is well-positioned to benefit from the growing demand for AI technology. The upcoming events and new product launches could lead to a reevaluation of Nvidia's stock by investors, potentially driving a price increase.",
-      "impact": "Nvidia's stock could see a short-term price increase as investors reevaluate the company's prospects following the earnings release and industry events. The expected launch of new AI models using Nvidia's Blackwell chips could lead to increased demand for the company's products and services, driving medium-term growth. This could also lead to a reevaluation of Nvidia's valuation, potentially driving a medium-term increase in the stock price.",
-      "risks": [
-        "regulatory approval risk",
-        "integration risk",
-        "demand slowdown risk",
-        "market competition risk"
-      ]
-    }
-  },
-  {
-    "id": "7573644",
-    "headline": "The House is pushing to end the government shutdown today — with prediction markets expecting success",
-    "summary": "",
-    "url": "https://www.marketwatch.com/story/the-house-is-pushing-to-end-the-government-shutdown-today-with-prediction-markets-expecting-success-1d48eee0",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1770131040,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1770132966,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The US House is pushing to end the government shutdown today, with prediction markets indicating a high likelihood of success. This development suggests a potential resolution to the political stalemate that has been affecting the country's economy. A resolution would likely lead to increased government spending and a boost to the overall economy, benefiting sectors that rely on government contracts and stimulus. The news is also a positive sign for the broader market, as a prolonged shutdown would have had a negative impact on consumer confidence and business investment.",
-      "impact": "The potential end of the government shutdown is likely to positively impact defense contractors, such as Lockheed Martin (LMT) and Boeing (BA), as well as companies that rely on government stimulus, such as construction and infrastructure firms. The news may also boost the overall market, leading to increased investor sentiment and potentially higher stock prices. However, the impact may be short-term, as the shutdown's effects on the economy are still being felt, and a prolonged period of uncertainty may have already had a lasting impact on business investment and consumer confidence.",
-      "risks": [
-        "Uncertainty around the effectiveness of government stimulus",
-        "Potential for a delayed or incomplete resolution to the shutdown",
-        "Risk of a prolonged period of economic uncertainty"
-      ]
-    }
-  },
-  {
-    "id": "7573635",
-    "headline": "The scariest part of buying my fiancée’s engagement ring (hint: it wasn’t the price)",
-    "summary": "How I found find peace of mind after making one of the most important purchases of my life — and what I learned can help you, too.",
-    "url": "https://www.marketwatch.com/story/the-scariest-part-of-buying-my-fiancees-engagement-ring-hint-it-wasnt-the-price-351b4e7c",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1770130320,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1770133009,
-      "sentiment": "neutral",
-      "confidence": 0.5,
-      "summary": "The article is a personal anecdote about the author's experience buying an engagement ring, which is unrelated to the stock market or any specific company. The article discusses the emotional and psychological aspects of making a large purchase, but does not provide any concrete information about business fundamentals or industry trends.",
-      "impact": "This article has no direct impact on the stock market or related stocks. However, it may have a short-term positive impact on the diamond and jewelry industry, as it highlights the emotional and psychological aspects of buying an engagement ring, which could lead to increased demand for diamond and jewelry products in the long term.",
-      "risks": []
     }
   }
 ]
