@@ -1,5 +1,15 @@
 [
   {
+    "id": "7580298",
+    "headline": "The smartest money moves to make as the Iran conflict rattles markets",
+    "summary": "You may have opportunities to optimize for short-term volatility, financial planners told MarketWatch.",
+    "url": "https://www.marketwatch.com/story/the-smartest-money-moves-to-make-as-the-iran-conflict-rattles-markets-d8e57ef3",
+    "source": "MarketWatch",
+    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+    "relatedSymbols": [],
+    "publishedAt": 1772490900
+  },
+  {
     "id": "7580291",
     "headline": "As global markets tanked over Iran, U.S. stocks were mostly unscathed. Here’s why.",
     "summary": "There is an old saying in markets: Buy when the bullets (or bombs or missiles) fly.",
@@ -76,7 +86,20 @@
     "source": "MarketWatch",
     "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
     "relatedSymbols": [],
-    "publishedAt": 1772487180
+    "publishedAt": 1772487180,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772492633,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The article discusses how President Trump's potential war with Iran could lead to increased costs for various goods and services, contradicting his campaign promise of affordability. This is due to the potential disruption to global supply chains and increased energy prices. The article highlights how this could affect everyday items such as food, clothing, and electronics. The escalating tensions with Iran are a key driver of this scenario. The impact on business fundamentals will be felt across multiple industries.",
+      "impact": "The potential war with Iran could lead to increased costs for companies operating in the energy, transportation, and consumer goods sectors. This could negatively impact earnings outlook for companies with high energy costs, such as airlines and logistics providers. In the short-term, investors may become more risk-averse, leading to decreased liquidity and lower stock prices. Medium-term, companies with exposure to Iran or the Middle East may face increased regulatory risks and reputational damage.",
+      "risks": [
+        "Increased energy costs risk",
+        "Supply chain disruption risk",
+        "Regulatory risks for companies with Middle East exposure"
+      ]
+    }
   },
   {
     "id": "7580262",
@@ -22650,29 +22673,6 @@
         "overemphasis on celebrity news and its potential impact on the stock market",
         "inaccurate assumptions about Curtis' relocation plans",
         "limited direct connection to specific stocks or industries"
-      ]
-    }
-  },
-  {
-    "id": "7573884",
-    "headline": "Venezuela tells China oil prices won't be set by the U.S., seeks to reassure investment after Maduro capture",
-    "summary": "Venezuela assured Beijing that its oil pricing will not be dictated by the U.S. and that Chinese investment in the South American country will remain secure.",
-    "url": "https://www.cnbc.com/2026/02/04/venezuela-tells-china-oil-prices-us-seeks-to-reassure-investment-sanctions.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108261138-1770179681835-gettyimages-1677001546-vcg111453764958.jpeg?v=1770179759&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1770195275,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1770197320,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "Venezuela has assured China that its oil pricing will not be dictated by the US, and Chinese investment in the country will remain secure. This comes after the US captured Venezuelan President Nicolás Maduro and his wife, and the US attempted to exert influence over Venezuela's oil sector. China has been a key player in Venezuela's oil industry, with state-owned China National Petroleum Corporation having joint ventures with PDVSA and privately held China Concord Resources Corp. planning to invest over $1 billion in a Venezuelan oil project. This development is a positive sign for Chinese investment in Venezuela, but the country's oil industry remains plagued by mismanagement, underinvestment, and US sanctions.",
-      "impact": "The news is likely to have a positive impact on Chinese stocks related to the oil industry, particularly those with exposure to Venezuelan oil, such as China National Petroleum Corporation. The reassurance from Venezuela may also alleviate concerns about the security of Chinese investment in the country, potentially leading to increased investor confidence and higher stock prices. However, the long-term outlook for Venezuela's oil industry remains uncertain due to the country's ongoing economic and political challenges.",
-      "risks": [
-        "continuation of US sanctions and their impact on Venezuelan oil exports",
-        "Venezuela's ability to maintain control over its oil pricing and production",
-        "potential for further political instability in Venezuela"
       ]
     }
   }
