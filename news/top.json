@@ -1,5 +1,51 @@
 [
   {
+    "id": "7580329",
+    "headline": "Facing backlash, OpenAI’s Sam Altman says he made a ‘sloppy’ mistake in Pentagon deal",
+    "summary": "The OpenAI CEO admits he came off as “opportunistic” in how he announced the company’s new government deal and says he will amend the language to emphasize restrictions",
+    "url": "https://www.marketwatch.com/story/facing-backlash-openais-sam-altman-says-he-made-a-sloppy-mistake-in-pentagon-deal-cf8f3ad9",
+    "source": "MarketWatch",
+    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+    "relatedSymbols": [],
+    "publishedAt": 1772510880,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772512137,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "OpenAI CEO Sam Altman admitted to making a 'sloppy' mistake in announcing the company's new government deal, which was perceived as opportunistic. This announcement led to backlash, and Altman plans to amend the language to emphasize restrictions. The deal itself is not disclosed, but it is reportedly a significant partnership with the US Department of Defense. The incident highlights the importance of clear communication in high-profile business deals.",
+      "impact": "The news is unlikely to have a direct impact on the stock prices of companies directly related to OpenAI, as the company is not publicly traded. However, the incident may lead to increased scrutiny and skepticism towards OpenAI's partnerships and business dealings, potentially affecting the company's reputation and future collaborations. In the long term, the deal with the Pentagon could have a positive impact on OpenAI's revenue and growth prospects if it leads to significant government funding or contracts.",
+      "risks": [
+        "reputation risk",
+        "partnership risk",
+        "regulatory scrutiny risk"
+      ]
+    }
+  },
+  {
+    "id": "7580321",
+    "headline": "MongoDB’s stock sinks after earnings, signaling more tough times for the software sector",
+    "summary": "A “planned” transition involving the exits of two sales leaders is also rattling investors.",
+    "url": "https://www.marketwatch.com/story/mongodbs-stock-sinks-after-earnings-signaling-more-tough-times-for-the-software-sector-5dd37daa",
+    "source": "MarketWatch",
+    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+    "relatedSymbols": [],
+    "publishedAt": 1772504580,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772512183,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "MongoDB's stock price declined after the company's earnings report, amidst concerns about the software sector's performance. The company announced the planned exit of two sales leaders, which has raised investor concerns about the company's ability to execute on its sales strategy. This news comes on the heels of a broader trend of weak earnings reports from software companies, which has led to a decline in investor sentiment towards the sector. The company's transition plan may be seen as a contributing factor to the sector's struggles.",
+      "impact": "The decline in MongoDB's stock price may have a negative impact on the company's valuation, potentially making it more challenging for the company to execute its growth plans. In the short term, investor sentiment towards the software sector may continue to be bearish, leading to a decline in liquidity and potentially lower stock prices. The medium-term impact may be a reevaluation of the company's growth prospects and the sector's overall fundamentals, potentially leading to a decline in earnings estimates and a decrease in stock prices.",
+      "risks": [
+        "decline in investor sentiment",
+        "valuation risk",
+        "earnings estimate revision risk"
+      ]
+    }
+  },
+  {
     "id": "7580315",
     "headline": "SoFi’s stock rises as CEO Anthony Noto reacts to recent selloff with a $1 million purchase",
     "summary": "Noto, who already owns a SoFi stake worth about $215 million on paper, has been known to buy the dip before.",
@@ -1165,6 +1211,85 @@
         "Potential for further conflict escalation"
       ]
     }
+  },
+  {
+    "id": "7580330",
+    "headline": "Crypto traders on tenterhooks as oil prices signal risks",
+    "summary": "Crypto traders brace for potential risks as rising oil prices impact market sentiment amid US-Iran tensions.",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-02/crypto-traders-on-tenterhooks-as-oil-prices-signal-risks",
+    "source": "Bloomberg",
+    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+    "relatedSymbols": [],
+    "publishedAt": 1772424301,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772512230,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Rising oil prices due to US-Iran tensions have put crypto traders on high alert, potentially impacting market sentiment. The increased oil prices may lead to higher inflation, which could negatively affect the overall economy. This, in turn, may lead to a decrease in investor confidence in cryptocurrencies, causing a sell-off. The situation is further complicated by the fact that cryptocurrencies are often seen as a safe-haven asset, and investors may be looking to move their funds to more traditional assets.",
+      "impact": "The potential sell-off in cryptocurrencies could negatively impact companies involved in the space, such as Coinbase Global Inc. (COIN) and MicroStrategy Incorporated (MSTR), which may see a decline in trading volumes and revenue. In the short-term, this could lead to a decrease in their stock prices, making them more attractive to value investors. However, in the medium-term, the impact on these companies may be more significant if the sell-off persists and investor confidence in the sector is eroded.",
+      "risks": [
+        "Decrease in investor confidence in cryptocurrencies",
+        "Increased volatility in the market",
+        "Potential decline in trading volumes and revenue for companies involved in the space"
+      ]
+    }
+  },
+  {
+    "id": "7580328",
+    "headline": "Emerging market currencies, stocks fall on Iran-Israel conflict worries",
+    "summary": "A gauge of developing nations’ currencies dropped 0.5%, declining for a second session in a row as the dollar strengthened.",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-02/emerging-market-currencies-stocks-fall-on-iran-conflict-worries",
+    "source": "Bloomberg",
+    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+    "relatedSymbols": [],
+    "publishedAt": 1772423196,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772512278,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The recent escalation of tensions between Iran and Israel has led to a decline in emerging market currencies, with the gauge of developing nations' currencies falling 0.5%. This decline is attributed to a strengthening US dollar, which has made imports more expensive for these countries. The conflict has also weighed on stocks, with investors becoming increasingly risk-averse. The situation is expected to continue affecting emerging markets in the short term, as investors reassess their exposure to these countries.",
+      "impact": "The Iran-Israel conflict is likely to have a negative impact on emerging market stocks in the short term, as investors become more cautious and reduce their exposure to these countries. This could lead to a decline in stock prices, particularly for companies with significant operations or investments in the region. The strengthening US dollar may also make it more expensive for companies in emerging markets to service their debt, potentially affecting their earnings outlook. In the medium term, the conflict could lead to a decline in trade and economic growth in the region, further weighing on stock prices.",
+      "risks": [
+        "Increased geopolitical risk",
+        "Decline in trade and economic growth",
+        "Currency devaluation risk"
+      ]
+    }
+  },
+  {
+    "id": "7580324",
+    "headline": "West Asia war to weigh heavily on China, Europe and India, economists say",
+    "summary": "Economists warn the West Asia conflict will impact oil importers like China, Europe, and India, benefiting exporters like Russia.",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-02/economists-gauge-hit-from-mideast-war-as-china-seen-among-losers",
+    "source": "Bloomberg",
+    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+    "relatedSymbols": [],
+    "publishedAt": 1772421925,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772512325,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Economists predict that the ongoing West Asia conflict will have a significant impact on oil importers, including China, Europe, and India. This is due to the potential disruption to oil supplies and increased prices, which will strain their economies. China, in particular, is seen as one of the losers in this scenario, given its reliance on imported oil. The conflict will also benefit oil exporters like Russia, which will see an increase in demand for their oil and potentially higher prices.",
+      "impact": "The potential impact on related stocks will be bearish, particularly for oil importers. In the short term, we expect to see downward pressure on the stocks of companies that rely heavily on oil imports, such as Chinese and European energy companies. In the medium term, the increased oil prices will lead to higher production costs and potentially lower profit margins, negatively impacting the earnings outlook for these companies. This will also lead to increased inflationary pressures, which will further weigh on the overall economy and sentiment.",
+      "risks": [
+        "Increased oil prices and supply chain disruptions",
+        "Potential economic slowdown in China and Europe",
+        "Increased inflationary pressures"
+      ]
+    }
+  },
+  {
+    "id": "7580325",
+    "headline": "Travel chaos worsens as Iran conflict shuts key Middle-East airports",
+    "summary": "The disruptions rippled across Asia, with Cathay Pacific Airways Ltd. cancelling some services to the Middle East through March 5 and IndiGo’s flight suspensions extended through Tuesday",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-02/travel-chaos-worsens-as-iran-conflict-shuts-key-mideast-airports",
+    "source": "Bloomberg",
+    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+    "relatedSymbols": [],
+    "publishedAt": 1772421836
   },
   {
     "id": "7579967",
@@ -22548,144 +22673,6 @@
         "Potential for a decline in gold prices if economic conditions improve",
         "Risk of increased supply from central banks or other major gold holders",
         "Uncertainty around global economic growth and inflation expectations"
-      ]
-    }
-  },
-  {
-    "id": "7573935",
-    "headline": "Streaming-only Super Bowl ads give small brands a shot at the Big Game",
-    "summary": "The Super Bowl beckons some of the most expensive ads every year, and brands are finding a cheaper option in the streaming-only option.",
-    "url": "https://www.cnbc.com/2026/02/04/streaming-only-super-bowl-ads-peacock-nbc.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108259817-1769807222343-gettyimages-2258516208-superbowl-banners.jpeg?v=1769807273&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1770202802,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1770204180,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "The Super Bowl's streaming-only ad spots are gaining traction, offering smaller brands a cheaper alternative to traditional TV commercials. NBC's Peacock streaming service will simulcast the event, featuring 10% of ad inventory reserved for streaming-only spots. These spots cost about half of traditional TV commercials, which average $8 million per 30-second ad. Smaller brands like Tecovas and Life360 are taking advantage of this option to reach a massive audience without breaking the bank.",
-      "impact": "The growth of streaming-only Super Bowl ads may have a moderate positive impact on Comcast's (NBC's parent company) earnings in the short term, as it attracts new advertisers and increases revenue. However, the impact on the company's valuation and sentiment may be limited, as the streaming-only spots only account for 10% of ad inventory. In the medium term, the trend of streaming-only ads could lead to increased competition for traditional TV commercials, potentially pressuring prices and margins for companies like NBC.",
-      "risks": [
-        "Increased competition for traditional TV commercials",
-        "Potential cannibalization of traditional ad revenue",
-        "Dependence on the success of Peacock streaming service"
-      ]
-    }
-  },
-  {
-    "id": "7573909",
-    "headline": "Novo Nordisk CEO tells investors to expect weight-loss drug pricing to go down before it comes back up",
-    "summary": "Recently-appointed CEO Mike Doustdar has repeatedly reset expectations since his  arrival. Pricing and regulatory pressure is fierce and pessimistic revenue guidance has seen the stock clobbered 17% in Copenhagen.",
-    "url": "https://www.marketwatch.com/story/novo-nordisk-ceo-tells-investors-to-expect-weight-loss-drug-pricing-to-go-down-before-it-comes-back-up-81188b74",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1770201660,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1770204228,
-      "sentiment": "bullish",
-      "confidence": 0.7,
-      "summary": "Novo Nordisk's CEO, Mike Doustdar, has reset investor expectations regarding the company's weight-loss drug pricing. He stated that prices will decrease before increasing again, which is a more optimistic outlook than previously anticipated. This shift in expectations comes after the company's stock price dropped 17% in Copenhagen due to pessimistic revenue guidance. The CEO's comments suggest that the company is adjusting its pricing strategy to navigate the competitive and regulatory challenging environment.",
-      "impact": "The potential impact of this news is positive for Novo Nordisk's stock price, as it suggests a more manageable pricing strategy that could lead to increased revenue and profitability. In the short-term, the stock may see a relief rally as investors reprice their expectations. However, the medium-term impact will depend on the company's ability to execute this new pricing strategy and maintain a competitive edge in the market.",
-      "risks": [
-        "Regulatory approval risk remains a concern for the company's weight-loss drug, as changes in pricing strategy may not be enough to offset potential regulatory hurdles.",
-        "The company's ability to execute the new pricing strategy and maintain a competitive edge in the market is a key risk factor.",
-        "The impact of the new pricing strategy on the company's revenue and profitability is uncertain and may not materialize as expected."
-      ]
-    }
-  },
-  {
-    "id": "7573910",
-    "headline": "Santander says $12 billion U.S. bank deal will cost less than 7 times earnings. The market isn’t buying it.",
-    "summary": "Santander shares fell on Wednesday, as Spanish investors reacted to the banking giant’s latest $12 billion acquisition.",
-    "url": "https://www.marketwatch.com/story/santander-says-12-billion-u-s-bank-deal-will-cost-less-than-7-times-earnings-the-market-isnt-buying-it-5d2088da",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1770201540,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1770204276,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Santander shares fell after the bank announced a $12 billion acquisition, sparking concerns among Spanish investors. The deal is expected to cost less than 7 times earnings, but the market remains skeptical. This skepticism may be driven by the bank's valuation multiples and the potential risks associated with integrating the acquired business. The acquisition is a significant expansion of Santander's US presence, which could have long-term benefits for the bank.",
-      "impact": "The short-term impact on Santander's stock price is likely to be negative due to the market's skepticism and the initial decline in share price. In the medium term, the acquisition could lead to increased earnings for Santander, but the market may need to see tangible results before reevaluating the bank's valuation multiples. The deal may also lead to increased liquidity in the US banking sector, potentially benefiting other banks with similar expansion plans.",
-      "risks": [
-        "Integration risk: the successful integration of the acquired business is crucial for the deal's success, and any setbacks could impact Santander's earnings and valuation.",
-        "Regulatory approval risk: the deal may face regulatory hurdles, which could delay or even block the acquisition.",
-        "Valuation risk: the market's skepticism may be driven by concerns that the deal is overvalued, which could impact Santander's stock price in the short term."
-      ]
-    }
-  },
-  {
-    "id": "7574305",
-    "headline": "RBI may pivot to buying Dollars to build reserves, analysts say",
-    "summary": "The rupee was down 0.1% to 90.40 against the dollar on Wednesday, following a 1.4% advance on Tuesday when US tariff cut helped it rebound from Asia’s worst performer last month to be the region’s top gainer",
-    "url": "https://www.bloomberg.com/news/articles/2026-02-04/rbi-may-pivot-to-buying-dollars-to-build-reserves-analysts-say",
-    "source": "Bloomberg",
-    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
-    "relatedSymbols": [],
-    "publishedAt": 1770200194,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1770290675,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The RBI is considering a pivot to buying dollars to build reserves, which could lead to a strengthening of the rupee against the dollar. This move comes after the rupee rebounded from being Asia's worst performer last month, driven by a 1.4% advance on Tuesday following a US tariff cut. The RBI's decision to buy dollars could have a positive impact on the Indian economy, as a stronger rupee can lead to increased foreign investment and lower import costs. This news is a positive development for Indian companies with significant dollar-denominated debt or exposure to international trade.",
-      "impact": "The potential strengthening of the rupee could lead to a short-term increase in the value of Indian companies with significant dollar-denominated assets, such as IT and pharmaceutical companies. In the medium term, a stronger rupee could lead to higher earnings for these companies, as they benefit from lower import costs and increased foreign investment. This could lead to a positive sentiment shift among investors, driving up stock prices and improving liquidity in the market.",
-      "risks": [
-        "Dependence on external factors such as US tariff policies",
-        "Potential volatility in currency markets",
-        "RBI's ability to effectively manage currency reserves"
-      ]
-    }
-  },
-  {
-    "id": "7573894",
-    "headline": "Explain this financial paradox to me like I’m 16. Why would I, or anyone, lease a car?",
-    "summary": "“‘What’s the point of paying thousands of dollars?”",
-    "url": "https://www.marketwatch.com/story/explain-this-financial-paradox-to-me-like-im-16-why-would-i-or-anyone-lease-a-car-82109210",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1770199800,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1770200749,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "The article discusses the paradox of car leasing, where individuals pay thousands of dollars in monthly payments for a vehicle they will never own. The author questions the logic behind leasing a car, highlighting the high costs and lack of equity. The article suggests that leasing a car is often seen as a way to drive a newer car without the long-term commitment of ownership. However, this comes at a significant financial cost, with many consumers unaware of the total cost of leasing. The article concludes that leasing a car is essentially a form of renting with no option to buy.",
-      "impact": "The article's discussion on car leasing may have a neutral impact on the automotive industry, as it highlights the complexities of car ownership and the costs associated with leasing. However, it may lead to increased scrutiny of car manufacturers' leasing practices and potentially affect consumer sentiment towards leasing. This could have a short-term impact on the stocks of car manufacturers, such as General Motors (GM) and Ford (F), as investors reassess the financial implications of leasing on their business models. In the medium term, the article may lead to changes in consumer behavior, with some individuals opting for alternative transportation options or choosing to purchase vehicles outright.",
-      "risks": [
-        "Increased regulatory scrutiny of car manufacturers' leasing practices",
-        "Negative impact on consumer sentiment towards leasing",
-        "Potential shift in consumer behavior towards alternative transportation options"
-      ]
-    }
-  },
-  {
-    "id": "7573895",
-    "headline": "The one market where volatility is rising even as stocks surge",
-    "summary": "In South Korea, its version of the VIX volatility index has soared along with its stock market. That’s unusual.",
-    "url": "https://www.marketwatch.com/story/the-one-market-where-volatility-is-rising-even-as-stocks-surge-4b225b9e",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1770199620,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1770200794,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "South Korea's Kospi 200 index has seen a surge in volatility despite the overall upward trend in its stock market. This is unusual as the VIX-like index, Kospi Volatility Index, has historically been negatively correlated with the market. The rising volatility is attributed to the market's sensitivity to global economic concerns and the potential impact of the US-China trade tensions. The South Korean market is particularly vulnerable to global economic shifts due to its export-oriented economy.",
-      "impact": "The rising volatility in the South Korean market may lead to increased trading activity and potential short-term price fluctuations. This could be driven by investors' concerns about the global economic outlook and the impact of trade tensions on the country's export-oriented economy. In the medium term, the increased volatility may lead to a re-evaluation of the market's valuation, potentially affecting the overall sentiment towards South Korean stocks.",
-      "risks": [
-        "global economic downturn risk",
-        "trade tensions risk",
-        "currency fluctuations risk"
       ]
     }
   }
