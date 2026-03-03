@@ -1,5 +1,52 @@
 [
   {
+    "id": "7580465",
+    "headline": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+    "summary": "Wall Street is tracking for a sharply lower open, and oil prices are spiking on supply disruption concerns.",
+    "url": "https://www.cnbc.com/2026/03/03/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108272678-17725446672026-03-03t132955z_770278709_rc20xjaty94b_rtrmadp_0_iran-crisis-emirates.jpeg?v=1772544703&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1772546757,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772548292,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The stock market is expected to open lower today due to concerns over a potential war with Iran and a spike in oil prices. The S&P 500 managed to eke out a small gain yesterday, but the current market sentiment is negative. Oil prices are up 8% to a 52-week high, driven by fears of prolonged supply disruptions. This is contributing to a sharply lower open in U.S. futures. Additionally, MongoDB shares are down 27% after its slower-than-expected growth in its flagship database product Atlas.",
+      "impact": "The potential war with Iran and oil price spike could lead to a short-term downturn in the market, with the S&P 500 potentially experiencing a sharply lower open. MongoDB's disappointing growth could also have a medium-term impact on its stock price, potentially leading to a further decline. The company's competitors, such as Amazon, Google, and Azure, may be gaining traction in the document database market, making it harder for MongoDB to compete. Additionally, the increased oil prices could lead to higher production costs for companies in the energy sector, potentially impacting earnings outlook.",
+      "risks": [
+        "Iran conflict risk",
+        "oil price volatility risk",
+        "MongoDB's competitive disadvantage risk",
+        "earnings outlook risk for energy sector companies"
+      ]
+    }
+  },
+  {
+    "id": "7580460",
+    "headline": "We're buying more of this megacap AI stock as the market heads for a lower open",
+    "summary": "This AI stock has a more visible path to victory than its hyperscaler peers.",
+    "url": "https://www.cnbc.com/2026/03/03/were-buying-more-of-this-ai-stock-as-the-market-indicates-a-lower-open.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108271997-1772463528796-gettyimages-2263875914-AFP_99LH3Y9.jpeg?v=1772463568&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1772546271,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772548341,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Jim Cramer's Charitable Trust is increasing its position in Alphabet (GOOGL), citing a clearer path to monetizing its large capex spend through Google Search revenue growth driven by AI-powered queries and Google Cloud's 55% year-over-year growth in backlog. The trust is buying 55 shares at $298, increasing its weighting in the portfolio to 2%. This decision is made in response to a lower-than-expected market open due to the escalating war in Iran and rising oil prices. Alphabet's hyperscale peers are not expected to benefit as much from their capex spend.",
+      "impact": "The increased buying of Alphabet shares may lead to a short-term price increase, driven by the trust's significant position and the potential for a market rebound. In the medium term, Alphabet's growth in Google Search revenue and Google Cloud's market share gains may lead to increased earnings and valuation. The trust's decision to buy more Alphabet shares also reflects its confidence in the company's ability to monetize its capex spend, potentially leading to increased sentiment and liquidity for the stock.",
+      "risks": [
+        "Increased competition from hyperscale peers",
+        "Potential impact of rising oil prices on Alphabet's cloud business",
+        "Uncertainty around the effectiveness of Alphabet's AI-powered queries in driving revenue growth"
+      ]
+    }
+  },
+  {
     "id": "7580439",
     "headline": "Why Best Buy’s stock is soaring, even as sales and full-year outlook disappoint",
     "summary": "Best Buy’s earnings beat was enough to please investors, who had low expectations ahead of the retailer’s quarterly results.",
@@ -122,7 +169,20 @@
     "source": "MarketWatch",
     "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
     "relatedSymbols": [],
-    "publishedAt": 1772539560
+    "publishedAt": 1772539560,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772548389,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The recent spike in oil prices due to the ongoing conflict in Iran is likely to lead to higher inflation, causing U.S. Treasury yields to rise. This increase in borrowing costs will make it more expensive for companies to borrow funds, potentially affecting their profitability and valuations. The higher oil prices will also increase the costs of production for energy-intensive companies, such as airlines, transportation, and manufacturing firms. This will likely lead to a decrease in their earnings outlook, making them less attractive to investors.",
+      "impact": "The potential impact on related stocks will be negative, particularly for energy-intensive companies. Their earnings outlook is likely to be revised downward, leading to a decline in stock prices. The increased borrowing costs will also make it more challenging for these companies to invest in growth initiatives, further exacerbating the negative sentiment. In the short term, investors may rotate out of these stocks and into more defensive sectors, such as healthcare or consumer staples.",
+      "risks": [
+        "Increased production costs for energy-intensive companies",
+        "Higher borrowing costs for companies with high debt levels",
+        "Decreased earnings outlook for energy-intensive industries"
+      ]
+    }
   },
   {
     "id": "7580413",
@@ -132,7 +192,20 @@
     "source": "MarketWatch",
     "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
     "relatedSymbols": [],
-    "publishedAt": 1772539440
+    "publishedAt": 1772539440,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772548437,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The article discusses a personal scenario where a woman inherits a life estate from her mother, potentially overriding a prenup and will. The life estate grants her the right to live in the property for her lifetime, but the article's focus is on the personal and family dynamics rather than the financial implications. The scenario is not directly related to any specific company or industry, making it difficult to draw conclusions about business fundamentals or industry context. However, it may be worth considering the potential impact on the woman's personal financial situation and her ability to manage her inherited assets.",
+      "impact": "The article's discussion of life estates and inheritance may not have a direct impact on the related stocks, but it could influence the woman's financial decisions and potentially affect her ability to invest in the market. This could lead to a short-term decrease in her investment activity, which may have a minor impact on the overall market sentiment and liquidity. However, the article's focus on personal and family dynamics rather than financial markets makes it unlikely to have a significant impact on the industry or company performance.",
+      "risks": [
+        "Decreased investor activity",
+        "Potential changes in personal financial decisions",
+        "Uncertainty around inheritance and estate planning"
+      ]
+    }
   },
   {
     "id": "7580410",
@@ -142,7 +215,16 @@
     "source": "MarketWatch",
     "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
     "relatedSymbols": [],
-    "publishedAt": 1772539080
+    "publishedAt": 1772539080,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772548481,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Target's quarterly results and outlook have improved investor sentiment, with the stock reaching a one-year high. The company's new CEO is trying to rally investors, and the expected sales rebound this year is a positive sign. This is a key development for Target, as it tries to regain market share and improve its competitive position in the retail industry. The company's ability to execute its strategy and meet its sales targets will be closely watched by investors.",
+      "impact": "The positive news is likely to boost Target's stock price in the short-term, driven by improved sentiment and increased investor confidence. In the medium-term, the expected sales rebound could lead to improved earnings and valuation for the company. This could also lead to increased liquidity and trading volume, as investors become more optimistic about the company's prospects.",
+      "risks": []
+    }
   },
   {
     "id": "7580411",
@@ -22597,48 +22679,6 @@
         "potential impact of inflation on the individual's retirement savings",
         "dependency on the husband's Social Security benefits"
       ]
-    }
-  },
-  {
-    "id": "7574105",
-    "headline": "Here’s the new dates for January jobs and CPI inflation reports",
-    "summary": "The U.S. employment report for January originally due on Friday has been rescheduled for the middle of next week — and the consumer price index was also pushed back a couple of days.",
-    "url": "https://www.marketwatch.com/story/heres-the-new-dates-for-january-jobs-and-cpi-inflation-reports-0350659d",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1770227820,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1770229805,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "The January jobs and CPI inflation reports have been rescheduled, with the employment report now set for release in the middle of next week and the CPI report pushed back a couple of days. This delay is likely due to the ongoing government shutdown, which has impacted data collection and processing. The rescheduled reports will provide updated information on the US labor market and inflation trends. The delay may have a minor impact on market expectations and sentiment, but the actual data will likely have a more significant effect.",
-      "impact": "The delay may cause a brief short-term volatility in the market, particularly in sectors sensitive to interest rates and inflation expectations, such as financials and consumer staples. However, the actual data will likely have a more significant impact on the market, potentially affecting earnings outlook and valuation for companies in these sectors. The delay may also lead to a slight delay in the market's reaction to the data, but the overall impact on the market is expected to be minor.",
-      "risks": [
-        "Interest rate volatility risk",
-        "Inflation expectation risk",
-        "Earnings outlook uncertainty"
-      ]
-    }
-  },
-  {
-    "id": "7574107",
-    "headline": "We're booking profits in 2 Dow stocks riding double-digit gains to start 2026",
-    "summary": "Our patience is finally paying off.",
-    "url": "https://www.cnbc.com/2026/02/04/were-trimming-2-dow-stocks-with-double-digit-gains-to-start-2026.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108259095-17697117692026-01-29t183221z_535734703_rc22bjayt7nh_rtrmadp_0_york-space-ipo.jpeg?v=1769711825&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1770226994,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1770229852,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Jim Cramer's Charitable Trust is trimming its positions in Home Depot (HD) and Honeywell (HON) due to double-digit percentage gains in the stocks. The trust is selling 50 shares of HD at $390 and 20 shares of HON at $236, reducing its weighting in both stocks. The decision is based on the trust's strategy to lock in gains and raise some extra cash. Home Depot's business has been impacted by the low single-digit mortgage rates, but the company's earnings growth may be boosted by the Trump Administration's plans to make home buying more affordable.",
-      "impact": "The trimming of HD and HON positions may lead to a short-term pullback in the stocks if the market momentum reverses. The removal of the trust's buying pressure could also impact the stocks' liquidity and sentiment. However, the medium-term outlook for HD remains uncertain due to the dependence on the housing market and mortgage rates. The trust's downgrade of HD to a 2 rating suggests a reduced expectation for the stock's future performance.",
-      "risks": []
     }
   }
 ]
