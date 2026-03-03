@@ -1213,6 +1213,16 @@
     }
   },
   {
+    "id": "7580335",
+    "headline": "Amazon Cloud suffers outage after ‘objects’ hit UAE data centre",
+    "summary": "AWS said the incident took place around 4:30PM local time on Sunday and the fire department shut off power to the facility and generators as they worked to extinguish the blaze",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-02/amazon-cloud-suffers-outage-after-objects-hit-uae-data-center",
+    "source": "Bloomberg",
+    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+    "relatedSymbols": [],
+    "publishedAt": 1772427280
+  },
+  {
     "id": "7580330",
     "headline": "Crypto traders on tenterhooks as oil prices signal risks",
     "summary": "Crypto traders brace for potential risks as rising oil prices impact market sentiment amid US-Iran tensions.",
@@ -1289,7 +1299,20 @@
     "source": "Bloomberg",
     "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
     "relatedSymbols": [],
-    "publishedAt": 1772421836
+    "publishedAt": 1772421836,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772516352,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The ongoing conflict in Iran has led to the shutdown of key Middle-East airports, causing travel chaos and disruptions across Asia. Cathay Pacific Airways has cancelled some services to the region through March 5, while IndiGo's flight suspensions have been extended through Tuesday. This development is likely to have a negative impact on airlines operating in the region, particularly those with significant exposure to the Middle East market. The disruptions are expected to continue for the foreseeable future, exacerbating the challenges faced by airlines in the region.",
+      "impact": "The travel disruptions are likely to negatively impact airlines such as Cathay Pacific and IndiGo in the short-term, leading to a decline in revenue and potentially affecting their earnings outlook. In the medium-term, the conflict and subsequent travel restrictions may lead to a decline in air travel demand, further impacting airline stocks. The disruptions may also lead to a decrease in investor sentiment, causing a decline in stock prices and potentially affecting liquidity in the airline sector.",
+      "risks": [
+        "decline in air travel demand",
+        "negative impact on earnings outlook",
+        "decrease in investor sentiment"
+      ]
+    }
   },
   {
     "id": "7579967",
@@ -22650,29 +22673,6 @@
         "Regulatory approval risk: The RBI may not approve the revised liquidity rules, or may implement them in a way that is not favorable to lenders.",
         "Economic slowdown risk: A slowdown in economic growth could reduce loan demand, making the easing of liquidity rules less effective.",
         "Interest rate risk: An increase in interest rates could reduce the attractiveness of loans and decrease demand, offsetting the benefits of the eased liquidity rules."
-      ]
-    }
-  },
-  {
-    "id": "7573934",
-    "headline": "Gold’s back over $5,000 and silver’s surging as well",
-    "summary": "Gold futures reclaimed the $5,000 level on Wednesday, as the yellow metal was back on vogue after suffering through the worst performance in 46 years just last week.",
-    "url": "https://www.marketwatch.com/story/golds-back-over-5-000-and-silvers-surging-as-well-273ab886",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1770203460,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1770204132,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Gold futures have rebounded to above $5,000 after a significant decline last week, driven by a resurgence in investor interest. This surge in gold prices is largely attributed to the metal's safe-haven appeal, as investors seek refuge from market volatility and economic uncertainty. The yellow metal has historically performed well during times of economic stress, and this trend is likely to continue. The recent price increase is also a reflection of the ongoing global economic slowdown and the associated increase in inflation expectations.",
-      "impact": "The rebound in gold prices is expected to have a positive impact on gold mining companies, such as Newmont Goldcorp (NEM) and Barrick Gold (GOLD), as higher gold prices can lead to increased revenue and profitability. This, in turn, could boost investor sentiment and potentially drive up stock prices. Additionally, the surge in gold prices may also lead to increased demand for gold-related exchange-traded funds (ETFs), such as the SPDR Gold Shares (GLD), which could attract more investors and drive up trading volumes.",
-      "risks": [
-        "Potential for a decline in gold prices if economic conditions improve",
-        "Risk of increased supply from central banks or other major gold holders",
-        "Uncertainty around global economic growth and inflation expectations"
       ]
     }
   }
