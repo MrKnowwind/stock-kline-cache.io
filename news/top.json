@@ -1,5 +1,24 @@
 [
   {
+    "id": "7602420",
+    "headline": "Palantir rallies 15% for the week as Iran war boosts prospects, muting Anthropic concern",
+    "summary": "Palantir's stock had its best week since August and outperformed all of its large-cap tech peers after the U.S. attacked Iran.",
+    "url": "https://www.cnbc.com/2026/03/06/palantir-stock-jumps-15percent-in-week-on-iran-war-boosts-anthropic-muted.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108254383-1770070558669-108254383-17689273942026-01-20t140915z_1241214190_rc225ja1zdei_rtrmadp_0_davos-meeting.jpeg?v=1770070580&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1772835980,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772838189,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Palantir's stock rallied 15% in the past week due to the US attack on Iran, which may boost government spending and increase demand for Palantir's services. The company relies heavily on government contracts, which account for 60% of its revenue. Analysts are optimistic about Palantir's prospects, citing the conflict in the Middle East as a positive factor for the company's government pipeline. The analysts also downplayed the impact of the Defense Department's blacklisting of Anthropic, suggesting that there are adequate alternatives to the AI company's models.",
+      "impact": "The news is likely to have a positive impact on Palantir's stock in the short term, driven by the increased demand for its services due to the conflict in the Middle East. The company's earnings outlook may also improve as a result of the expected increase in government spending. However, the medium-term impact may be influenced by the outcome of the conflict and the potential risks associated with the Defense Department's blacklisting of Anthropic.",
+      "risks": []
+    }
+  },
+  {
     "id": "7602108",
     "headline": "Trump says defense CEOs agree to quadruple production of `Exquisite Class' weaponry",
     "summary": "President Trump said he met with CEOs of BAE Systems, Lockheed Martin, Northrop Grumman, RTX Corp., Boeing, Honeywell Aerospace and L3Harris Missile Solutions.",
@@ -42,6 +61,29 @@
         "Regulatory approval risk for Boeing's deal with China",
         "Integration risk for Qnity Electronics' new facility",
         "Potential demand slowdown risk for Qnity Electronics' chips"
+      ]
+    }
+  },
+  {
+    "id": "7602320",
+    "headline": "Hezbollah saw new war with Israel as inevitable and rearmed for months, sources say - Reuters",
+    "summary": "Hezbollah saw new war with Israel as inevitable and rearmed for months, sources say  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLVdXNHVZNkdaU3Jzem13WmdhM2NkZW1iVFV6SEJoaUlKVlJkdUt0SU1jNHdYbzVCbDkyUWxnR3lDZnhuSlFpRk45RlZSR09BZExGU0ZIMlhBSGdNV2t5LXJ4ZWxiZGRKX0pueHFHankwc0k2RG5kV3NXaGZNTGVZbG9pbk5GSDBkVWtzOTdGSFBFNkVFUkRQeUQ0MjFOd3M0TE4yVVFBcUVodXctR3o1N0hOWUNRRjhCOUFEb1E4bG5SU0U?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1772823770,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772838238,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Hezbollah's rearmament for a potential war with Israel suggests an increased risk of conflict in the region, which could lead to a deterioration in the economic and business environment in Lebanon. This could negatively impact the country's economy, including its banking sector, which is heavily exposed to regional risks. The news also implies that the situation in Lebanon is more volatile than previously thought, which could lead to a decrease in investor confidence and a decline in the value of the Lebanese pound. The rearmament has been ongoing for months, indicating a lack of progress in diplomatic efforts to resolve the conflict.",
+      "impact": "The news could lead to a decline in investor confidence in Lebanese stocks, particularly those with significant exposure to the country's economy. This could result in a decrease in stock prices and a decrease in liquidity. The increased risk of conflict could also lead to a decline in tourism and a decrease in foreign investment in the country, further exacerbating the economic downturn. In the short term, this could lead to a decline in earnings for companies with significant operations in Lebanon, such as those in the banking and tourism sectors.",
+      "risks": [
+        "Increased risk of conflict and economic downturn in Lebanon",
+        "Decrease in investor confidence and liquidity",
+        "Decline in tourism and foreign investment"
       ]
     }
   },
@@ -159,6 +201,16 @@
         "Potential for a global economic downturn if the conflict spreads beyond the region"
       ]
     }
+  },
+  {
+    "id": "7602321",
+    "headline": "What the war in Iran means for your money - Reuters",
+    "summary": "What the war in Iran means for your money  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUjRWcFlUak50M0JMVktNamY0QkJuZXJFX3dEUnhKakFoTi1hTzVjNXlZaDQ0S0xydGY1akdqMVZNbENZNDBFYzhWcEhtUm5zeGlpenlRRkg4cEJ4ZC01REd1SkR3NzlIeGEwZi1MbDUtSVBXSGVVN2FvemRHTDBSVlh3ME9EVHNqdW1TQXE4bzQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1772815131
   },
   {
     "id": "7601150",
@@ -4822,7 +4874,16 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1772629473
+    "publishedAt": 1772629473,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772838297,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "A UN probe has found that Iran's war actions have broken the UN Charter, and a recent strike on a school is considered shocking. This incident highlights the ongoing tensions between Iran and the international community. The situation is likely to escalate further, potentially leading to increased sanctions and economic pressure on Iran. The news does not directly relate to any specific company or industry, but it may have broader implications for global stability and oil prices.",
+      "impact": "The potential impact on the market is likely to be bearish in the short term, as tensions between Iran and the international community may lead to increased uncertainty and volatility. This could negatively affect oil prices, which may in turn impact energy companies such as ExxonMobil (XOM) and Chevron (CVX). In the medium term, the situation may lead to increased sanctions on Iran, potentially affecting companies with significant business ties to the country, such as Boeing (BA) and Caterpillar (CAT).",
+      "risks": []
+    }
   },
   {
     "id": "7582118",
@@ -4878,7 +4939,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1772628805
+    "publishedAt": 1772628805,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772838345,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The US carried out a strike on an Iranian warship off the coast of Sri Lanka, according to officials. This development marks a significant escalation in tensions between the US and Iran. The incident occurred in a region with high geopolitical tensions, which may lead to increased instability in the Middle East. The strike may have implications for global oil prices and trade routes. The news is likely to have a negative impact on companies with exposure to the region, particularly those in the energy sector.",
+      "impact": "The potential impact of this news on related stocks could be significant, particularly in the short-term. Companies with exposure to the Middle East, such as oil majors, may see their stock prices decline as investors become increasingly risk-averse. The escalation of tensions may also lead to increased volatility in the global oil market, potentially driving up prices and benefiting energy companies. However, the medium-term impact may be more nuanced, as the situation could lead to increased military spending and a boost to defense contractors.",
+      "risks": [
+        "Increased military spending risk",
+        "Oil price volatility risk",
+        "Escalation of tensions risk"
+      ]
+    }
   },
   {
     "id": "7581546",
@@ -21759,71 +21833,6 @@
         "Limited duration of rent decline",
         "Potential for rent increases in other areas",
         "Uncertainty in long-term housing market trends"
-      ]
-    }
-  },
-  {
-    "id": "7576567",
-    "headline": "The stock market is reflecting fears of an AI apocalypse for white-collar jobs",
-    "summary": "Investors are shooting first and asking questions later as the momentum trade gets swept up by concerns that AI could disrupt established industries like insurance and wealth management.",
-    "url": "https://www.marketwatch.com/story/the-stock-market-is-reflecting-fears-of-an-ai-apocalypse-for-white-collar-jobs-c845c508",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1771075800,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1771081395,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The article suggests that investors are rapidly selling stocks in industries that may be disrupted by AI, such as insurance and wealth management. This is driven by fears of job displacement and industry disruption. The article implies that investors are reacting impulsively to the potential threat of AI, rather than carefully evaluating the long-term implications. The article does not provide specific stock recommendations, but rather highlights the market's sentiment towards AI-related disruption. The industry context is that AI has the potential to automate many white-collar jobs, which could significantly impact companies that rely on these jobs. The logical chain is that investors are selling stocks in anticipation of potential disruption, which could lead to a short-term sell-off in these industries.",
-      "impact": "The potential impact on stocks in the insurance and wealth management industries could be significant, with a short-term sell-off driven by investor sentiment. In the medium term, companies that are slow to adapt to AI may struggle to maintain their market share and profitability. The earnings outlook for these companies may be negatively impacted as they invest in AI-related technologies and processes. Valuation multiples may also be affected as investors reassess the long-term prospects of these companies in an AI-driven world.",
-      "risks": [
-        "AI adoption risk",
-        "job displacement risk",
-        "disruption risk in established industries"
-      ]
-    }
-  },
-  {
-    "id": "7576565",
-    "headline": "Lunar New Year gives luxury brands a chance to win back big spenders in China",
-    "summary": "The Chinese luxury market is expected to turnaround this year, but Western brands can't afford to be complacent, analysts said.",
-    "url": "https://www.cnbc.com/2026/02/14/lunar-new-year-luxury-china.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108265198-1770924887482-gettyimages-2257638921-tang-notitle260125_npyxJ.jpeg?v=1770955889&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1771074001,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1771076011,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Luxury brands are launching special Lunar New Year collections to attract Chinese customers, a key market for the industry. The Chinese luxury market is expected to recover this year, with mid-single-digit growth predicted by Bernstein analyst Luca Solca. However, the market remains competitive, and Western brands must go beyond traditional motifs to connect with Chinese consumers. Younger shoppers are looking for modern interpretations of traditional culture.",
-      "impact": "The news is positive for luxury brands with a significant presence in China, such as Loewe, Gucci, and Harry Winston. The recovery of the Chinese luxury market could lead to increased earnings for these companies in the medium term. The sentiment around luxury brands is likely to improve, potentially driving up stock prices. However, the competitive nature of the market and the need for innovative marketing strategies may pose challenges for some companies.",
-      "risks": []
-    }
-  },
-  {
-    "id": "7576564",
-    "headline": "Crypto investors who don’t fill out this new tax form the right way could overpay on their taxes",
-    "summary": "Crypto investors can expect to receive a new tax form this year from exchanges such as Coinbase and Robinhood.",
-    "url": "https://www.marketwatch.com/story/crypto-investors-who-dont-fill-out-this-new-tax-form-the-right-way-could-overpay-on-their-taxes-4ccc7727",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1771074000,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1771076058,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Crypto investors will receive a new tax form from exchanges such as Coinbase and Robinhood, requiring them to accurately report their cryptocurrency gains and losses. This development is a result of the Internal Revenue Service (IRS) issuing new tax guidelines for digital assets. The new form will help the IRS track and tax cryptocurrency transactions, potentially reducing tax evasion. The impact on the crypto industry and related stocks is uncertain, but accurate tax reporting may lead to increased regulatory scrutiny and compliance costs.",
-      "impact": "The introduction of the new tax form may have a neutral to slightly bearish impact on cryptocurrency-related stocks, such as Coinbase (COIN) and Robinhood (HOOD), in the short term. As investors become more aware of the tax implications, they may be more cautious in their investment decisions, potentially leading to decreased trading volumes and lower stock prices. However, in the medium term, increased regulatory clarity and compliance may lead to increased investor confidence and adoption of cryptocurrency, ultimately benefiting these stocks.",
-      "risks": [
-        "Increased regulatory scrutiny and compliance costs",
-        "Decreased investor confidence due to tax complexity",
-        "Potential for tax evasion and non-compliance risks"
       ]
     }
   }
