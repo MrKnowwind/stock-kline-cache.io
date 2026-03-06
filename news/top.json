@@ -1,5 +1,51 @@
 [
   {
+    "id": "7601578",
+    "headline": "Google joins Microsoft in telling users Anthropic is still available outside defense projects",
+    "summary": "Cloud vendors are letting customers know that Anthropic's popular AI tools can still be accessed after the Department of Defense blacklisted the company.",
+    "url": "https://www.cnbc.com/2026/03/06/google-says-anthropic-remains-available-outside-of-defense-projects.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108175923-1753295096870-gettyimages-2217999388-BLOOMBERG_TECH.jpeg?v=1772818953&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1772821550,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772825058,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "Google and Microsoft have announced that they will continue to offer Anthropic's AI tools, excluding defense projects, following the Department of Defense's designation of the company as a supply chain risk. This decision is likely due to the fact that the designation does not preclude working with Anthropic on non-defense related projects. Anthropic's technology is used through Google Cloud's Vertex AI platform and is also a significant financial backer of the company. This partnership is crucial for Anthropic's growth and development, and the availability of its technology through Google Cloud's platform is a key factor in its success.",
+      "impact": "The news is likely to have a positive impact on Anthropic's stock in the short-term, as it alleviates concerns about the company's access to key partners. However, the medium-term impact will depend on the outcome of Anthropic's challenge to the supply chain risk designation in court. If the designation is overturned, Anthropic's stock is likely to see a significant increase in value. On the other hand, if the designation is upheld, Anthropic's stock may face downward pressure.",
+      "risks": [
+        "Regulatory uncertainty risk",
+        "Court outcome risk",
+        "Dependence on Google Cloud risk"
+      ]
+    }
+  },
+  {
+    "id": "7601579",
+    "headline": "'E-shaped' economy is replacing a K-shaped one in 2026, economist says: The middle class is 'spending in a nervous way' now",
+    "summary": "Economist Heather Long says the U.S. economy is diverging into three tiers of consumer behavior instead of two, amid an ongoing affordability crisis.",
+    "url": "https://www.cnbc.com/2026/03/06/e-shaped-economy-replacing-k-shape-2026.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108273875-1772660224477-gettyimages-2255506671-002a2194.jpeg?v=1772660240&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1772820163,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772825107,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "The US economy is experiencing a shift from a 'K-shaped' recovery to an 'E-shaped' one, with three distinct tiers of consumer behavior. The top tier, comprising high earners, continues to drive consumption, while the middle tier is experiencing growing strain due to affordability issues. This divergence is reflected in consumer sentiment, which has declined by 13% year-over-year. The middle tier's spending growth has diverged from that of high-income households, with a widening gap in annual spending growth since the end of 2025.",
+      "impact": "The shift to an 'E-shaped' economy may lead to a slowdown in consumer spending growth, particularly in the middle tier. This could negatively impact retailers and brands that cater to middle-income households, potentially leading to lower sales and earnings. The top tier's continued spending growth may provide some support to luxury goods and services, but the overall impact on the economy and related stocks is likely to be bearish in the medium term.",
+      "risks": [
+        "decline in consumer spending growth",
+        "worsening affordability crisis",
+        "impact on retailers and brands catering to middle-income households"
+      ]
+    }
+  },
+  {
     "id": "7601150",
     "headline": "We're buying more of our newest stock and upgrading our rating on a financial name",
     "summary": "This week is a good reminder of why the Investing Club likes to scale into new positions.",
@@ -38,6 +84,29 @@
         "Increased regulatory scrutiny and potential fines for companies with significant pay gaps",
         "Negative impact on employee morale and productivity due to perceived unequal treatment",
         "Decreased stock prices and reduced investor confidence in companies with a history of pay inequality"
+      ]
+    }
+  },
+  {
+    "id": "7601476",
+    "headline": "Russia is providing Iran intelligence to target US forces, Washington Post reports - Reuters",
+    "summary": "Russia is providing Iran intelligence to target US forces, Washington Post reports  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcFhRZ2hmOXM3YUthYnNpN1F4Y3BWd0pPTDJJTFIxU0tZdW9xNzdEY182THVxdW4ybThfTWZlSU1KMHc3eEdhdG9TYXY2cHpBcEtral9lLTcxYWJxSDZZdjM5eWI0ZkktU3hKQ2VROWl2TzU2SDBaa1ZyTlp1RzZaVG1rN2NlY1JXazFqb29OMmlsczRGVDFWR0hPaWlVWV9zMlpDSFpNTHNtWVJSZnVrNHZQRGRfSWVLNHNiLVh3aW10VWRzc0J5TkZMclY?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1772812136,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772825164,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Russia's alleged provision of intelligence to Iran to target US forces has raised tensions in the Middle East, potentially escalating the conflict. This development comes as the US and Iran have been involved in a series of military confrontations in the region. The news is a concern for the US defense industry, as it may lead to increased military spending and a greater demand for defense equipment and services. The US government's response to this situation could also impact the defense industry's earnings outlook.",
+      "impact": "The news is likely to have a negative impact on defense stocks in the short term, as investors may worry about the potential for increased military spending and conflict in the region. This could lead to a decrease in stock prices for companies such as Lockheed Martin (LMT), Boeing (BA), and Raytheon Technologies (RTN). In the medium term, the increased demand for defense equipment and services could provide a boost to the industry, but the near-term uncertainty and volatility may outweigh any potential benefits.",
+      "risks": [
+        "Increased military spending risk",
+        "Escalation of conflict risk",
+        "Uncertainty in earnings outlook risk"
       ]
     }
   },
@@ -112,8 +181,8 @@
   },
   {
     "id": "7601376",
-    "headline": "Germany's Merz calls for Iran's territorial integrity to be preserved - Reuters",
-    "summary": "Germany's Merz calls for Iran's territorial integrity to be preserved  Reuters",
+    "headline": "Germany's Merz warns against spread of war in Middle East - Reuters",
+    "summary": "Germany's Merz warns against spread of war in Middle East  Reuters",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcFRXYklaUFBfSGxiN3otUmEyZDkyWnB4VmhUNWpySFg1VFJCcmw0YTVfQWJvNXRRR0RPTXpsVUU1SGMxYkdQRE1fcF8wVXc2UVJtZklSZmEzb2NXaUFUR1Q5LWZIb0NWUVg4VDhqRGVadWhYd3VxZno1d0xtUDNmRlFleTFpRHhtVGZWRGVQMThyeDBtUzJ3ZXJadWswR1NKQ2t2S1Z5emROa2xKbzNva0FHakk?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -199,6 +268,29 @@
     }
   },
   {
+    "id": "7601477",
+    "headline": "Drone strike drives calls to end British military presence on Cyprus - Reuters",
+    "summary": "Drone strike drives calls to end British military presence on Cyprus  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbEJ0cW52ZmpjWUlOZ0VSRXhLYVFYU2YycWtlUnZlMy1vazJ5MkIwaVVqeDZkVHhXZkJPYkpSNEhISlB5M00ySjRPcWVaaExWYzIxdUZFZHdCOWJieUJKOU0yajVqclBZdVJQc2lDeVNuaHI4TUpheGdwZWFqa1ROX3JPem9DSzV4SDN6MHVTXzZuY29MeDJUblU2dEhrYVByeUYtNVB1ZmpEelk?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1772799317,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772825212,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "A recent drone strike in Cyprus has reignited calls for the British military to withdraw from the island nation. The incident has sparked concerns about the safety of British personnel and the potential for further attacks. The British military has been stationed in Cyprus since 1960, and the base has been a contentious issue for many years. The calls to withdraw are driven by the risk of escalating tensions in the region and the potential for further drone strikes. The situation is unlikely to have a direct impact on the British economy, but it may lead to increased military spending and a shift in defense priorities.",
+      "impact": "The news is likely to have a negative impact on defense contractors that rely on British military contracts, such as BAE Systems (BA.) and Rolls-Royce (RR.). The increased tensions in the region may lead to a shift in defense spending priorities, which could benefit companies that specialize in counter-drone technology, such as Northrop Grumman (NOC). The short-term impact is likely to be limited, but the medium-term effects could be more significant if the British government decides to withdraw its military presence from Cyprus.",
+      "risks": [
+        "Escalating tensions in the region",
+        "Increased military spending",
+        "Shift in defense priorities"
+      ]
+    }
+  },
+  {
     "id": "7601374",
     "headline": "Iran war: See how tanker traffic collapsed in the Strait of Hormuz - Reuters",
     "summary": "Iran war: See how tanker traffic collapsed in the Strait of Hormuz  Reuters",
@@ -219,6 +311,25 @@
         "Supply chain disruption risk",
         "Regional conflict risk"
       ]
+    }
+  },
+  {
+    "id": "7601475",
+    "headline": "Israel's Hezbollah attacks are likely to continue beyond Iran war, source says - Reuters",
+    "summary": "Israel's Hezbollah attacks are likely to continue beyond Iran war, source says  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMnZrRkthd2lwOHNqUk5aN3ZhZ3RXdnc0ZklHeGZnODhhd3JiU1ZhT1RZR1lOWVJhd3pQcjlCOGhWMkFnUm5GOTN1NFg0WGRsUXN0RzVZTmViY1hURFlFYVdNellPUnExZHloN0pvVURxSmNueTRUMGNUUjg2MHVmRVdHN0Mxa2JqVE5HMjI1UEJmRWo2Y3RPNXVodVZuMWw3Rjg0YnNTMk15T2REeW0tR0pLQ0lHQWV0bXB2dVMtWDJyNS1PUFE?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1772795697,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772825257,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Hezbollah's continued attacks on Israel, likely to persist beyond the Iran war, pose a significant threat to regional stability. The conflict has been escalating, with both sides suffering losses. The situation is complex, with multiple parties involved, including Iran, Israel, and Hezbollah. The potential for further escalation increases the risk of a broader conflict, which could impact the global economy.",
+      "impact": "The potential for continued conflict in the region could lead to a decline in investor sentiment, affecting stocks related to defense and aerospace industries. Companies such as Lockheed Martin (LMT) and Boeing (BA) may see a short-term impact due to reduced defense spending. Medium-term, the conflict could lead to a decline in global economic growth, affecting stocks with significant exposure to international trade, such as Apple (AAPL) and Intel (INTC).",
+      "risks": []
     }
   },
   {
@@ -413,7 +524,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1772782800,
+    "publishedAt": 1772782840,
     "analysis": {
       "version": 2,
       "generatedAt": 1772798522,
@@ -21578,121 +21689,6 @@
         "delayed rate increase risk",
         "regulatory risk",
         "increased competition from renewable energy sources"
-      ]
-    }
-  },
-  {
-    "id": "7576509",
-    "headline": "What Wall Street bulls are getting wrong about the Dow transports’ steep takeoff",
-    "summary": "The S&P 500 does better when the Dow industrials outperform the Dow transports.",
-    "url": "https://www.marketwatch.com/story/what-wall-street-bulls-are-getting-wrong-about-the-dow-transports-steep-takeoff-549c6694",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1771011000,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1771013185,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The article suggests that Wall Street bulls are misinterpreting the recent outperformance of the Dow transports, which is a contrarian indicator. Historically, the S&P 500 has done better when the Dow industrials outperform the Dow transports. This means that the current market trend may be a sign of a potential correction. The article implies that the bulls are ignoring this historical pattern, which could lead to a reversal in the market. The Dow transports have been rising sharply, but this may be a false signal.",
-      "impact": "The article's analysis could lead to a correction in the market, potentially impacting stocks that have been driven up by the transports' outperformance. This could result in a short-term decline in stocks that have been overbought, such as those in the industrials sector. However, if the bulls continue to ignore this contrarian indicator, the market may continue to rise, potentially leading to further gains for transports-related stocks. The article's analysis highlights the importance of considering historical patterns and contrarian indicators in market analysis.",
-      "risks": [
-        "Market correction risk",
-        "Overvaluation risk",
-        "Contrarian indicator reversal risk"
-      ]
-    }
-  },
-  {
-    "id": "7576507",
-    "headline": "Thank ‘Too Late’ Jerome Powell for the jobs and inflation beats",
-    "summary": "Will the president’s Federal Reserve nominee Kevin Warsh be as tough?",
-    "url": "https://www.marketwatch.com/story/thank-too-late-jerome-powell-for-the-jobs-and-inflation-beats-2bc659af",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1771010400,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1771011089,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The recent jobs and inflation beats are attributed to the accommodative monetary policy under Jerome Powell's leadership. The strong labor market and moderate inflation suggest a healthy economy, which is likely to continue under the current policy stance. The news is a testament to the effectiveness of Powell's policies, and his nomination of Kevin Warsh as the next Fed Chair may not necessarily indicate a change in direction. The background is that the strong economic indicators have led to a positive sentiment among investors, with the market expecting the current economic momentum to continue.",
-      "impact": "The jobs and inflation beats are likely to have a positive impact on the overall market, with the S&P 500 potentially reaching new highs. The strong labor market and moderate inflation suggest that companies will continue to benefit from the economic growth, leading to higher earnings and stock prices. The news may also lead to a re-rating of the market, with investors becoming more optimistic about the future prospects of the economy and the companies within it.",
-      "risks": [
-        "Inflation risk",
-        "Interest rate risk",
-        "Valuation risk"
-      ]
-    }
-  },
-  {
-    "id": "7576508",
-    "headline": "What signal Lilly sends by stockpiling its GLP-1 weight loss pills ahead of FDA approval",
-    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-    "url": "https://www.cnbc.com/2026/02/13/what-signal-lilly-sends-by-stockpiling-glp-1-obesity-pills-ahead-of-fda-approval.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108072156-1733431205643-gettyimages-2166872794-DAN_SKOVRONSKY_INTERVIEW.jpeg?v=1771008868&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1771009574,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1771011136,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Eli Lilly's stockpiling of GLP-1 obesity pill orforglipron ahead of FDA approval suggests strong demand expectations. This is a positive sign for the company's earnings outlook and valuation. The GLP-1 market is expected to expand with new starts and not cannibalize the injectable market. Lilly's move is also a response to the strong uptake of Novo Nordisk's Wegovy pill.",
-      "impact": "This news is likely to positively impact Lilly's stock price in the short-term, potentially leading to a revaluation of the company's earnings outlook and valuation. The strong demand expectations also suggest a higher likelihood of a successful FDA approval, which would further boost the stock. The GLP-1 market is expected to grow, driven by the increasing demand for weight loss treatments. This growth could lead to increased competition and potentially higher prices, benefiting Lilly and other players in the market.",
-      "risks": [
-        "Regulatory approval risk",
-        "Competition from other weight loss treatments",
-        "Supply chain disruptions"
-      ]
-    }
-  },
-  {
-    "id": "7576500",
-    "headline": "Build your own wealth transfer for retirement if you’re not getting a big inheritance",
-    "summary": "So you don’t have aging parents with hefty investment portfolios — what now?",
-    "url": "https://www.marketwatch.com/story/build-your-own-wealth-transfer-for-retirement-if-youre-not-getting-a-big-inheritance-e0d642bd",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1771008000,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1771011183,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The article highlights the importance of self-directed wealth transfer for retirement planning, especially for individuals who don't expect to receive a large inheritance. This trend is driven by demographic changes and increasing life expectancy, leading to a growing need for individuals to take control of their financial security. The article suggests that individuals can build their own wealth transfer by starting early, investing in a diversified portfolio, and taking advantage of tax-advantaged accounts. This approach requires discipline and patience, but can provide a sense of security and peace of mind for retirement.",
-      "impact": "This trend is likely to drive demand for financial planning and wealth management services, benefiting companies that offer investment advice, brokerage services, and retirement planning tools. In the short term, this may lead to increased trading activity and higher fees for these services. In the medium term, companies that offer low-cost investment options and user-friendly platforms may gain market share as investors seek more affordable and accessible solutions.",
-      "risks": [
-        "Regulatory changes affecting the financial services industry",
-        "Increased competition from fintech companies and online platforms",
-        "Investor risk aversion and market volatility"
-      ]
-    }
-  },
-  {
-    "id": "7576502",
-    "headline": "Interest on new car loans is now tax deductible up to $10,000—here's how much buyers may actually save",
-    "summary": "A new tax break offers deductions of up to $10,000, but income limits and loan rules mean most buyers will see much smaller savings.",
-    "url": "https://www.cnbc.com/2026/02/13/interest-on-new-car-loans-tax-deductible.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108263951-1770742078803-gettyimages-2227838312-jccm0465.jpeg?v=1770742314&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1771007722,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1771011230,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "A new tax break allows US taxpayers to deduct up to $10,000 in auto loan interest for new vehicles purchased after December 31, 2024. However, most borrowers will not reach this limit, as the average interest paid over a 72-month loan is around $3,800. The deduction is phased out for higher earners, further limiting its impact. This provision is part of the One Big Beautiful Bill Act and is temporary, applying only to tax years 2025-2028.",
-      "impact": "The tax break is unlikely to have a significant impact on the automotive industry, as most buyers will not see substantial savings. However, it may slightly improve consumer sentiment and increase demand for new vehicles, particularly for those who qualify for the full deduction. In the short term, this may lead to a slight increase in sales for automakers, but the effect will be minimal and short-lived, as the provision is temporary and phased out for higher earners.",
-      "risks": [
-        "Limited adoption due to income and vehicle eligibility requirements",
-        "Short-term impact may be overshadowed by other market factors",
-        "Dependence on consumer sentiment and demand"
       ]
     }
   }
