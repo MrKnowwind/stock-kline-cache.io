@@ -1,5 +1,28 @@
 [
   {
+    "id": "7601791",
+    "headline": "Boeing moves closer to a huge deal — plus, positive signs for one of our AI plays",
+    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+    "url": "https://www.cnbc.com/2026/03/06/boeings-potential-big-deal-plus-positive-signs-for-one-an-ai-play.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108267031-17714493362026-02-18t211437z_1428980417_rc2fojafg4cb_rtrmadp_0_usa-trump-air-force-one.jpeg?v=1771449408&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1772825259,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772827322,
+      "sentiment": "bullish",
+      "confidence": 0.7,
+      "summary": "Boeing is nearing a historic deal with China for 500 737 Max jets, which could be announced in early April. This deal, combined with potential orders for 100 787 Dreamliners and 777X jets, could boost Boeing's sales and earnings. Meanwhile, Qnity Electronics, a company with strong AI-related momentum, has acquired an advanced semiconductor research and manufacturing facility in Taiwan, signaling strong demand for its chips. This news comes as the market is digesting a weak jobs report and a 1% decline in the S&P 500.",
+      "impact": "Boeing's potential deal with China could lead to a short-term boost in its stock price, driven by the significant order and the potential for future deals. In the medium term, this could positively impact Boeing's earnings and valuation. Qnity Electronics' acquisition of a new facility could lead to increased production and revenue for the company, but its stock price may be volatile due to limited analyst coverage and its relatively new status in the public markets.",
+      "risks": [
+        "Regulatory approval risk for Boeing's deal with China",
+        "Integration risk for Qnity Electronics' new facility",
+        "Potential demand slowdown risk for Qnity Electronics' chips"
+      ]
+    }
+  },
+  {
     "id": "7601578",
     "headline": "Google joins Microsoft in telling users Anthropic is still available outside defense projects",
     "summary": "Cloud vendors are letting customers know that Anthropic's popular AI tools can still be accessed after the Department of Defense blacklisted the company.",
@@ -653,8 +676,8 @@
   },
   {
     "id": "7599627",
-    "headline": "Stocks slide as oil price fears, US jobs data rattle markets - Reuters",
-    "summary": "Stocks slide as oil price fears, US jobs data rattle markets  Reuters",
+    "headline": "Stocks slide as soaring oil prices and US job losses rattle markets - Reuters",
+    "summary": "Stocks slide as soaring oil prices and US job losses rattle markets  Reuters",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPblJtd0hiQ0o4eGxqMVNoOEQxNTY4OG5odzJyVlg3VjdCNExHbFRxRC1qYm5UZE9meHhHRlFJajBRdnJxVHNKWGYxempRY1BlREgxUzNhWFNxdnFzcE9qSWQ0S2FiWm1icWdfbFdseVU1di1XelFtTm1hSjBaOTVfTjdHQQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -3913,7 +3936,16 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1772645793
+    "publishedAt": 1772645793,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772827368,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Russian President Vladimir Putin has hinted that Russia may halt gas supplies to Europe in response to the escalating energy crisis in Iran. This move would likely be a retaliatory measure to pressure European countries to reconsider their stance on Iran's nuclear program. The background is that Iran's nuclear deal with the West has been under strain, leading to a surge in energy prices. This development has significant implications for European economies, particularly those heavily reliant on Russian gas imports. The potential impact on European gas prices and the overall energy market is substantial.",
+      "impact": "The potential halt in Russian gas supplies to Europe could lead to a sharp increase in gas prices, negatively impacting companies with significant exposure to the energy sector. This could result in lower earnings for energy companies, particularly those with high production costs or significant exposure to European markets. The medium-term impact could be a shift in European energy policies, potentially leading to increased investment in alternative energy sources and a decrease in demand for Russian gas. This could have a lasting impact on the Russian energy sector's valuation and sentiment.",
+      "risks": []
+    }
   },
   {
     "id": "7582851",
@@ -3992,7 +4024,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1772643828
+    "publishedAt": 1772643828,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772827416,
+      "sentiment": "bullish",
+      "confidence": 0.7,
+      "summary": "The Pentagon's request for a fresh supply of 13 critical minerals just a day before the Iran attack suggests a heightened sense of urgency and potential scarcity. This development implies that the US military is preparing for a prolonged conflict, which could lead to increased demand for these minerals. The 13 critical minerals include cobalt, lithium, and nickel, which are essential for the production of advanced technologies such as electric vehicles and renewable energy systems. This news may have a positive impact on companies involved in the extraction and production of these minerals, particularly those with operations in the US or countries with significant mineral reserves.",
+      "impact": "The potential impact on related stocks could be significant, particularly for companies involved in the extraction and production of critical minerals. In the short-term, we may see an increase in stock prices for these companies as investors bet on the potential for increased demand. In the medium-term, the news could lead to increased investment in the mining sector, driving up valuations and potentially leading to a surge in earnings growth. This could be particularly beneficial for companies with strong balance sheets and operations in regions with significant mineral reserves.",
+      "risks": [
+        "Supply chain disruptions due to conflict or sanctions",
+        "Increased costs and logistical challenges associated with mining in conflict zones",
+        "Potential for overproduction and subsequent price volatility"
+      ]
+    }
   },
   {
     "id": "7584590",
@@ -4025,7 +4070,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1772642838
+    "publishedAt": 1772642838,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772827465,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Hardline cleric Ebrahim Raisi's appointment of Hojatoleslam Ali Mousavi Arafi as the new head of the Iranian Revolutionary Guard Corps (IRGC) is a strategic move to consolidate power amidst ongoing conflict and succession concerns. Arafi's appointment suggests a potential shift towards a more hardline stance, which may impact Iran's relationships with the international community. The development comes as Iran's Supreme Leader Ali Khamenei faces health concerns, raising questions about the country's leadership succession. The IRGC is a significant player in Iran's economy, with interests in various sectors including energy, finance, and defense.",
+      "impact": "The appointment of Arafi may lead to increased tensions with the West, potentially affecting Iran's energy exports and oil prices in the short term. In the medium term, a more hardline stance could impact Iran's economic growth prospects, particularly in sectors with significant foreign investment. The development may also lead to increased volatility in the Iranian rial, affecting currency markets and trade. The IRGC's influence on the economy may also lead to increased scrutiny of its business interests and potential conflicts of interest.",
+      "risks": [
+        "Increased tensions with the West and potential sanctions",
+        "Impact on Iran's energy exports and oil prices",
+        "Decreased foreign investment in Iran's economy"
+      ]
+    }
   },
   {
     "id": "7585618",
@@ -4054,7 +4112,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1772640384
+    "publishedAt": 1772640384,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772827511,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Iran's Foreign Minister claimed that recent strikes were targeted at the US, not Qatar, but Doha rejected this claim. The incident has raised tensions between Iran and its neighbors. This development may have implications for the energy and defense sectors, given Iran's significant oil reserves and military capabilities. The situation may also impact regional geopolitics and trade relations.",
+      "impact": "The news may lead to increased volatility in the energy and defense sectors, potentially benefiting companies involved in these industries such as oil majors like ExxonMobil (XOM) and defense contractors like Lockheed Martin (LMT). However, the medium-term impact may be limited, as the situation is likely to remain fluid and subject to diplomatic efforts to de-escalate tensions. The incident may also boost demand for defense-related stocks, but the effect may be short-lived if a resolution is reached soon.",
+      "risks": [
+        "Escalation of tensions and potential conflict risk",
+        "Oil price volatility risk",
+        "Regional instability risk"
+      ]
+    }
   },
   {
     "id": "7582327",
@@ -21666,29 +21737,6 @@
         "reduced demand risk",
         "regulatory scrutiny risk",
         "reputation damage risk"
-      ]
-    }
-  },
-  {
-    "id": "7576514",
-    "headline": "Gas and electric bills are still painfully high for many Americans, even as inflation cools off",
-    "summary": "Billions of dollars in 2025 rate increases still haven’t filtered into Americans’ bills, according to one expert.",
-    "url": "https://www.marketwatch.com/story/gas-and-electric-bills-are-still-painfully-high-for-many-americans-even-as-inflation-cools-off-26dedeaa",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1771014300,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1771017690,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "Gas and electric bills remain high for many Americans, despite cooling inflation. This is because billions of dollars in 2025 rate increases have not yet been reflected in consumer bills. According to an expert, this delay will continue to put pressure on households and potentially impact consumer spending. As a result, this could negatively affect companies in the energy and utility sectors.",
-      "impact": "The delayed rate increases may lead to a short-term decrease in consumer spending, which could negatively impact companies in the energy and utility sectors, such as Exelon (EXC) and Duke Energy (DUK), potentially affecting their earnings outlook and valuation. In the medium term, this could also lead to increased pressure on these companies to invest in renewable energy sources to meet changing consumer demands and regulatory requirements.",
-      "risks": [
-        "delayed rate increase risk",
-        "regulatory risk",
-        "increased competition from renewable energy sources"
       ]
     }
   }
