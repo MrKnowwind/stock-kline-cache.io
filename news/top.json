@@ -1,5 +1,28 @@
 [
   {
+    "id": "7600709",
+    "headline": "Jim Cramer's top 10 things to watch in the stock market Friday",
+    "summary": "Oil futures are surging again, and the February jobs report showed an unexpected drop in U.S. payrolls.",
+    "url": "https://www.cnbc.com/2026/03/06/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108274227-1772723262997-gettyimages-2264255691-AFP_99ZD7VG.jpeg?v=1772723302&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1772805888,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772807402,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Oil futures are surging due to US-Iran war concerns, which is putting pressure on stock futures. The February jobs report showed an unexpected drop in US payrolls, further weighing on the market. However, some companies like Marvell and Tapestry are showing positive signs, with Marvell raising its revenue growth projections and Tapestry's CEO expressing confidence in the company's ability to win. Additionally, the 'SaaS apocalypse' seems to be waning, which is a positive sign for asset managers with investment funds heavily weighted towards enterprise software.",
+      "impact": "The surge in oil prices and the unexpected drop in US payrolls may lead to a short-term decline in stocks, making it a challenging environment for investors. However, companies like Marvell and Tapestry may benefit from their positive developments, with Marvell's shares already up 11% premarket and Tapestry's CEO expressing confidence in the company's ability to win. The 'SaaS apocalypse' waning may also have a positive impact on asset managers with investment funds heavily weighted towards enterprise software.",
+      "risks": [
+        "Oil price volatility risk",
+        "Global economic slowdown risk",
+        "Disruption to supply chain risk"
+      ]
+    }
+  },
+  {
     "id": "7600588",
     "headline": "United Airlines CEO: Fuel spike will hit results, but travel demand hasn't taken 'even a tiny step back'",
     "summary": "United CEO Scott Kirby said demand remains high but that fuel prices will hit first-quarter results.",
@@ -46,6 +69,29 @@
     }
   },
   {
+    "id": "7600608",
+    "headline": "White House to press defense firms to boost production as US strikes on Iran draw down stockpiles - Reuters",
+    "summary": "White House to press defense firms to boost production as US strikes on Iran draw down stockpiles  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdjQwbEhLM3NYbWk4cU5UaDZKX2d4SktvYUVySzEtWGhTTzBGa0l1cmZOa05hUnVzb19qd280VWJMNU1MWFA5QV9hWkNsa1czNDNGd1RGNGJWYVk4ODNRRnhlZGRUOWpramVwREFhWHZWa3pyLVFkVE1kM2FodkRRU2VzYmZiZG9ZaWwteVhJR2ktRkRLb3lTcG9JWGE2RXhrbUI0djUtQWxlQmFtdDdfdFZVZ1ZtRWJpdjZSeGVMcGdSYklmR2NhSzVBZXNDeHJZNEJJ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1772795084,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772807449,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The White House plans to pressure defense firms to increase production in response to the depletion of US stockpiles due to recent strikes on Iran. This move aims to bolster the country's defense capabilities and potentially boost the domestic defense industry. The news comes as the US has been involved in military action against Iran, leading to a drawdown of stockpiles. This development could have significant implications for the defense sector, particularly for companies involved in the production of military equipment and supplies.",
+      "impact": "The news is likely to be positive for defense stocks in the short term, as the increased demand for military equipment and supplies could lead to higher sales and revenue for companies in the sector. This could also lead to a re-rating of the industry, as investors become more optimistic about the sector's growth prospects. However, the medium-term impact is uncertain, as the US government's ability to sustain the increased production levels and the potential for future conflicts with Iran are unclear.",
+      "risks": [
+        "Increased production costs and supply chain disruptions",
+        "Uncertainty around future US-Iran relations and potential for further conflict",
+        "Potential for decreased demand if the conflict is resolved quickly"
+      ]
+    }
+  },
+  {
     "id": "7600162",
     "headline": "Azerbaijan says it is evacuating its diplomats from Iran for their own safety - Reuters",
     "summary": "Azerbaijan says it is evacuating its diplomats from Iran for their own safety  Reuters",
@@ -70,8 +116,8 @@
   },
   {
     "id": "7600059",
-    "headline": "Russian energy demand seeing 'significant' bump from Iranian war, Kremlin says - Reuters",
-    "summary": "Russian energy demand seeing 'significant' bump from Iranian war, Kremlin says  Reuters",
+    "headline": "Russian energy demand seeing 'significant' bump from Iran war, Kremlin says - Reuters",
+    "summary": "Russian energy demand seeing 'significant' bump from Iran war, Kremlin says  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcmpiN1dEMjYxMndaU2Z4QldnR25UNzhfSDAtcVBQWXVaLTZXWnFxV0V3UDB3T2UzU0g3ampjWjhNSE9ENEc5MFNtaWxzUE1nOGIwSG5uQ05lLWlCa0VndDVMalJyWk9KUXRJdGN6SzF2SXdMcVFQNGJUZXZPV0owZTJ1WTlZQjZ1V0sxZ1ZXM2VhYnpVcXJDcFRvZmFWMHZZbUJKeDFxd2pxMDRuOGdpSHJvcTYwdm9oUE9Z?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -274,8 +320,8 @@
   },
   {
     "id": "7599627",
-    "headline": "Stocks perk up but face steep weekly losses as Iran war rages - Reuters",
-    "summary": "Stocks perk up but face steep weekly losses as Iran war rages  Reuters",
+    "headline": "Stocks slide as oil price fears, US jobs data rattle markets - Reuters",
+    "summary": "Stocks slide as oil price fears, US jobs data rattle markets  Reuters",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPblJtd0hiQ0o4eGxqMVNoOEQxNTY4OG5odzJyVlg3VjdCNExHbFRxRC1qYm5UZE9meHhHRlFJajBRdnJxVHNKWGYxempRY1BlREgxUzNhWFNxdnFzcE9qSWQ0S2FiWm1icWdfbFdseVU1di1XelFtTm1hSjBaOTVfTjdHQQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1588,6 +1634,30 @@
     }
   },
   {
+    "id": "7595836",
+    "headline": "UAE's property sector faces reckoning after Iran strikes - Reuters",
+    "summary": "UAE's property sector faces reckoning after Iran strikes  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZWFPUmJzd25OY0xteGtNSzJOdXpYcmlYcHA4MjRkTEF5SUo5cTB2R0o2eExkZEtsVDBFU1Fsb3MtODhTWUxjSHVNVjF0UkhiWUFXeWNVTzFnel8ydHFpZndrVmViWXAybzVaUURSdWNRdDYyM09pQkpQSTFmNnBvenRra3k3NHA0UGxqWm9EYjVJS2x1LVFOdlVxQjlIMVZYeHZFWEtYVFpmUUxDYWc?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1772707873,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772733025,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The UAE's property sector is facing a reckoning following Iran's strikes, which has increased tensions in the region. The escalation of the conflict has led to a decline in investor confidence, causing a drop in property prices. The UAE's property market has been heavily reliant on foreign investment, particularly from Iran, which has been a significant source of demand. The recent strikes have disrupted this flow of investment, leading to a decline in property values. The sector is also facing a decline in demand due to the economic uncertainty caused by the conflict.",
+      "impact": "The potential impact on the UAE's property sector is significant, with short-term effects including a decline in property prices and a decrease in investor confidence. This could lead to a decline in earnings for property developers and a decrease in liquidity in the market. In the medium-term, the conflict could lead to a decline in demand for properties, further exacerbating the decline in prices. The sector's valuation could also be negatively impacted as investors re-evaluate their exposure to the region.",
+      "risks": [
+        "decline in investor confidence",
+        "disruption to foreign investment",
+        "economic uncertainty",
+        "decline in demand"
+      ]
+    }
+  },
+  {
     "id": "7595832",
     "headline": "Gulf food strategy tested as Iran war snarls shipping routes - Reuters",
     "summary": "Gulf food strategy tested as Iran war snarls shipping routes  Reuters",
@@ -2414,30 +2484,6 @@
     }
   },
   {
-    "id": "7595836",
-    "headline": "UAE's property sector faces reckoning after Iran strikes - Reuters",
-    "summary": "UAE's property sector faces reckoning after Iran strikes  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZWFPUmJzd25OY0xteGtNSzJOdXpYcmlYcHA4MjRkTEF5SUo5cTB2R0o2eExkZEtsVDBFU1Fsb3MtODhTWUxjSHVNVjF0UkhiWUFXeWNVTzFnel8ydHFpZndrVmViWXAybzVaUURSdWNRdDYyM09pQkpQSTFmNnBvenRra3k3NHA0UGxqWm9EYjVJS2x1LVFOdlVxQjlIMVZYeHZFWEtYVFpmUUxDYWc?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1772686920,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772733025,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The UAE's property sector is facing a reckoning following Iran's strikes, which has increased tensions in the region. The escalation of the conflict has led to a decline in investor confidence, causing a drop in property prices. The UAE's property market has been heavily reliant on foreign investment, particularly from Iran, which has been a significant source of demand. The recent strikes have disrupted this flow of investment, leading to a decline in property values. The sector is also facing a decline in demand due to the economic uncertainty caused by the conflict.",
-      "impact": "The potential impact on the UAE's property sector is significant, with short-term effects including a decline in property prices and a decrease in investor confidence. This could lead to a decline in earnings for property developers and a decrease in liquidity in the market. In the medium-term, the conflict could lead to a decline in demand for properties, further exacerbating the decline in prices. The sector's valuation could also be negatively impacted as investors re-evaluate their exposure to the region.",
-      "risks": [
-        "decline in investor confidence",
-        "disruption to foreign investment",
-        "economic uncertainty",
-        "decline in demand"
-      ]
-    }
-  },
-  {
     "id": "7590679",
     "headline": "Jet fuel's huge price surge points to coming pain from Iran war - Reuters",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQS3haY0NMZVNoV2ZSTERORk9DOWt2amM4bkE1aVRELXR4ZzN0T0pYaGQ4Ny03X3pCZ2FsUEtweW82d0VQNGtQTVdoMkROZ3k1ckdfN1VRQ2R3LXdPajVVWkVCUUZPSjBzTjJ2NnNCR090MzNMTHhGem1zZVNGYmw5eWZBTTZOS0d0Y2lkYkFPTi1lUF95YWJqSmRBd3dMaHNVOHFfa3hpM25BUzI5NVdj?oc=5\" target=\"_blank\">Jet fuel's huge price surge points to coming pain from Iran war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
@@ -2768,7 +2814,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1772680140
+    "publishedAt": 1772680140,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772807496,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "US Energy Secretary stated that the impact of the Iran conflict on energy markets is temporary and a small price to pay. This suggests that the conflict's effects on energy prices and supply chains will be short-lived. The background is that the Iran conflict has led to concerns about potential disruptions to oil exports, which could impact global energy markets. The logical chain is that a temporary price increase due to supply chain disruptions could lead to a boost in energy company earnings in the short term.",
+      "impact": "The news is likely to have a positive impact on energy stocks in the short term, as investors may view the temporary price increase as a buying opportunity. This could lead to a short-term increase in stock prices for energy companies, particularly those with a high exposure to oil and gas production. In the medium term, the impact may be neutral, as the conflict's effects on energy markets are expected to be temporary and prices will likely normalize.",
+      "risks": [
+        "Potential escalation of the conflict and prolonged supply chain disruptions",
+        "Uncertainty around the duration and impact of the conflict on global energy markets",
+        "Increased volatility in energy prices and stock prices"
+      ]
+    }
   },
   {
     "id": "7595940",
@@ -2778,7 +2837,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1772677380
+    "publishedAt": 1772677380,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772807544,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The news article reports that US and European stocks have fallen due to the escalating tensions between the US and Iran, leading to a rally in oil prices and a selloff in bonds. The situation is causing investors to become risk-averse, leading to a decline in stock prices. The article mentions that the tensions between the two countries have increased the uncertainty in the global economy, affecting investor sentiment. The rise in oil prices is also expected to have a negative impact on the global economy, particularly on companies with high energy costs.",
+      "impact": "The potential impact on the related stocks will be negative in the short-term, with a focus on energy companies and companies with high energy costs. The increased uncertainty in the global economy may lead to a decline in earnings expectations, affecting the valuation of these companies. The rise in oil prices may also lead to higher production costs, further affecting earnings. In the medium-term, the situation may lead to a decline in investor sentiment, affecting liquidity and potentially leading to a further decline in stock prices.",
+      "risks": [
+        "Increased uncertainty in the global economy",
+        "Rise in oil prices affecting energy companies and companies with high energy costs",
+        "Decline in investor sentiment and liquidity"
+      ]
+    }
   },
   {
     "id": "7587936",
@@ -2834,7 +2906,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1772675580
+    "publishedAt": 1772675580,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772807593,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The recent escalation of the Iran conflict has led to a surge in oil prices, with crude oil settling up around 5% due to concerns over supply disruptions. The conflict has raised concerns about the potential for a significant reduction in oil exports from Iran, which is a major oil producer. This has sparked a rally in oil prices as investors become increasingly risk-averse and seek safe-haven assets. The situation is developing rapidly, with the US and Iran exchanging threats, and the potential for a full-blown conflict remains high.",
+      "impact": "The oil price increase is likely to have a positive impact on oil-related stocks in the short-term, particularly companies with high exposure to oil production and refining. This could lead to a surge in earnings for these companies, as higher oil prices boost their revenue. In the medium-term, the conflict could lead to a sustained increase in oil prices, making oil-related stocks more attractive to investors. However, the potential for a prolonged conflict and subsequent economic sanctions could have a negative impact on global economic growth, which could weigh on oil prices and related stocks.",
+      "risks": [
+        "Escalation of the conflict and potential for a full-blown war",
+        "Economic sanctions on Iran and potential impact on global economic growth",
+        "Volatility in oil prices and potential for a correction"
+      ]
+    }
   },
   {
     "id": "7592699",
@@ -21490,52 +21575,6 @@
         "interest rate risk",
         "housing market slowdown risk",
         "economic downturn risk"
-      ]
-    }
-  },
-  {
-    "id": "7576592",
-    "headline": "Morgan Stanley eyes $500 million India fund, shifts some assets",
-    "summary": "Morgan Stanley seeks to raise $500 million for a new India fund, shifting healthcare assets including Omega Hospitals and RG Scientific",
-    "url": "https://www.bloomberg.com/news/articles/2026-02-13/morgan-stanley-mulls-500-million-india-fund-shifts-some-assets",
-    "source": "Bloomberg",
-    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
-    "relatedSymbols": [],
-    "publishedAt": 1770999738,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1771093832,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Morgan Stanley is planning to raise $500 million for a new India-focused fund, which will invest in the country's growing healthcare sector. The fund will be a significant allocation of Morgan Stanley's assets, indicating the bank's confidence in India's economic growth and the potential for returns in the healthcare sector. The fund will invest in companies such as Omega Hospitals and RG Scientific, which are expected to benefit from India's increasing demand for healthcare services. This move is a positive sign for the Indian economy and the healthcare sector, as it attracts foreign investment and expertise.",
-      "impact": "The news is likely to have a positive impact on the Indian healthcare stocks, particularly those in the hospital and medical services sector. The increased foreign investment and expertise will likely drive growth and improve the earnings outlook for these companies. The news may also lead to an increase in the valuation of these stocks, making them more attractive to investors. In the short-term, the news may lead to a surge in trading activity and liquidity in the Indian healthcare stocks.",
-      "risks": [
-        "Regulatory risks associated with foreign investment in India's healthcare sector",
-        "Integration risks for the new fund and its investments",
-        "Currency risks due to the dollar-rupee exchange rate"
-      ]
-    }
-  },
-  {
-    "id": "7576463",
-    "headline": "Roku stock surges on earnings beat, record quarter for premium subscriptions",
-    "summary": "Roku executives said in a shareholder letter that it marked \"our biggest quarter ever\" for net adds to premium subscriptions.",
-    "url": "https://www.cnbc.com/2026/02/13/roku-stock-earnings-premium-subscriptions.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/107095752-1659047669367-roku.jpg?v=1698874128&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1770999609,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1771003870,
-      "sentiment": "bullish",
-      "confidence": 0.9,
-      "summary": "Roku's Q4 earnings beat expectations, with EPS and revenue exceeding analyst estimates. The company reported its biggest quarter ever for net adds to premium subscriptions, driven by the secular trend of streaming services moving to premium subscriptions. Roku's CEO Anthony Wood attributed this growth to the increasing adoption of its platform, which allows users to subscribe to multiple streaming services through a single login. The company also announced plans to roll out premium subscription bundles and expects to surpass 100 million streaming households this year.",
-      "impact": "Roku's strong earnings and guidance have led to an upgrade from Rosenblatt Securities to 'buy' from 'neutral', citing growth levers in the near term. The stock price surged over 6% on the news, and investors are likely to be optimistic about the company's prospects. The improved ability to monetize streaming, new ad tools, and tweaks to the front page for advanced ads are expected to drive growth and increase the company's valuation.",
-      "risks": [
-        "Competition from established players in the streaming market",
-        "Dependence on partnerships with streaming services",
-        "Potential disruption from new entrants in the streaming space"
       ]
     }
   }
