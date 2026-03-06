@@ -1,5 +1,47 @@
 [
   {
+    "id": "7601150",
+    "headline": "We're buying more of our newest stock and upgrading our rating on a financial name",
+    "summary": "This week is a good reminder of why the Investing Club likes to scale into new positions.",
+    "url": "https://www.cnbc.com/2026/03/06/were-buying-more-of-our-newest-stock-and-upgrading-our-rating-on-a-financial-name.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108273618-1772645235366-Traders-Photo-20260303-KK-PRESS-011.jpg?v=1772645343&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1772814213,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772817781,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Jim Cramer's Charitable Trust is buying more shares of Cardinal Health (CAH) and upgrading the rating on Goldman Sachs (GS) to a buy-equivalent. The trust believes Cardinal Health's recent pullback was undeserved due to the company's resilience to rising oil prices, economic and geopolitical tensions. This is a good reminder of the importance of scaling into new positions over time. The trust also remains optimistic about Goldman Sachs' thesis based on M&A and IPO activity, despite the recent market volatility.",
+      "impact": "The upgrade on Goldman Sachs could lead to a short-term bounce in the stock price, potentially driven by the news of the upgrade and the company's consistent dividend yield and share buyback program. In the medium term, the thesis on Goldman Sachs remains intact, and the stock could benefit from the potential M&A and IPO activity. Cardinal Health's shares may also see a short-term boost due to the increased buying interest from the trust.",
+      "risks": []
+    }
+  },
+  {
+    "id": "7601151",
+    "headline": "The gender pay gap doubles over the course of women's careers, according to new Glassdoor report",
+    "summary": "A new report from Glassdoor tracked the gender pay gap over the course of a 30-year career.",
+    "url": "https://www.cnbc.com/2026/03/06/gender-pay-gap-doubles-over-the-course-of-womens-careers-glassdoor-report.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108273512-1772638121793-gettyimages-1074269758-rbf06641.jpeg?v=1772638140&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1772812636,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772817831,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "A Glassdoor report reveals that the gender pay gap doubles over a 30-year career, with women's earnings stalling in their mid-30s and men's continuing to grow through their 40s. This wage discrepancy is attributed to factors such as the motherhood penalty, gender biases, and limited career advancement opportunities for women. The report highlights the need for employers to support women in the workplace to close the pay gap and promote equal opportunities. The data suggests that women's wages plateau at age 35, while men's earnings continue to rise, leading to a 25% pay gap after 30 years of work experience.",
+      "impact": "The news is likely to have a negative impact on companies with a history of pay inequality, as it may lead to increased scrutiny from investors, regulatory bodies, and employees. This could result in higher labor costs, reduced competitiveness, and decreased stock prices. In the short term, investors may reassess their valuations of companies with a gender pay gap, leading to potential stock price corrections. In the medium term, companies that prioritize pay equality may see an increase in talent acquisition and retention, leading to improved financial performance.",
+      "risks": [
+        "Increased regulatory scrutiny and potential fines for companies with significant pay gaps",
+        "Negative impact on employee morale and productivity due to perceived unequal treatment",
+        "Decreased stock prices and reduced investor confidence in companies with a history of pay inequality"
+      ]
+    }
+  },
+  {
     "id": "7600709",
     "headline": "Jim Cramer's top 10 things to watch in the stock market Friday",
     "summary": "Oil futures are surging again, and the February jobs report showed an unexpected drop in U.S. payrolls.",
@@ -19,6 +61,29 @@
         "Oil price volatility risk",
         "Global economic slowdown risk",
         "Disruption to supply chain risk"
+      ]
+    }
+  },
+  {
+    "id": "7601160",
+    "headline": "Trump says there will be no deal with Iran except 'unconditional surrender' - Reuters",
+    "summary": "Trump says there will be no deal with Iran except 'unconditional surrender'  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdm5sZlhzSGVLVGhid29ZVDhpNUR0WWZWWWd2RS1DUUlpejZBbF8wWEdINE9vS2xjekhtYjhGaURCUzlKcVVPRUxMWmEtWjNuRHhmMXZCQ0pXemRDa3lObURWZUdDMGtVdld3NUVvLU00TGNLNjRCcDRKV2cyZ1A0WC05bDFwTUZSSXdRaTlnM1E2a3NsdDEtZkc0R1VuSVBvVTBpbS1xT3NCdUdreTFwbWRvYlBWdUUtcEE?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1772805666,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772817880,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "US President Trump stated that there will be no deal with Iran except for an unconditional surrender. This implies a heightened state of tension and potential escalation in the region. The background is that the US and Iran have been engaged in a long-standing dispute over Iran's nuclear program and regional influence. The news suggests that the US is unlikely to back down from its hardline stance, which could lead to further economic sanctions and military action. This could have significant implications for the global energy market and the oil industry, particularly for companies with significant operations in the region.",
+      "impact": "The news is likely to have a bearish impact on the energy sector, particularly for companies with significant operations in the Middle East. Companies such as ExxonMobil, Chevron, and Royal Dutch Shell may see their earnings outlook deteriorate due to potential disruptions to oil production and exports. The increased tensions could also lead to a surge in oil prices, which could benefit companies such as oil producers like Occidental Petroleum and ConocoPhillips. However, the overall market sentiment is likely to be negative, leading to a decline in stock prices for these companies.",
+      "risks": [
+        "Escalation of conflict in the Middle East",
+        "Disruption to oil production and exports",
+        "Increased oil prices"
       ]
     }
   },
@@ -158,8 +223,8 @@
   },
   {
     "id": "7600059",
-    "headline": "Russian energy demand seeing 'significant' bump from Iran war, Kremlin says - Reuters",
-    "summary": "Russian energy demand seeing 'significant' bump from Iran war, Kremlin says  Reuters",
+    "headline": "Russia gets export boost from Iran war as price of oil to India surges - Reuters",
+    "summary": "Russia gets export boost from Iran war as price of oil to India surges  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcmpiN1dEMjYxMndaU2Z4QldnR25UNzhfSDAtcVBQWXVaLTZXWnFxV0V3UDB3T2UzU0g3ampjWjhNSE9ENEc5MFNtaWxzUE1nOGIwSG5uQ05lLWlCa0VndDVMalJyWk9KUXRJdGN6SzF2SXdMcVFQNGJUZXZPV0owZTJ1WTlZQjZ1V0sxZ1ZXM2VhYnpVcXJDcFRvZmFWMHZZbUJKeDFxd2pxMDRuOGdpSHJvcTYwdm9oUE9Z?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1699,30 +1764,6 @@
     }
   },
   {
-    "id": "7595836",
-    "headline": "UAE's property sector faces reckoning after Iran strikes - Reuters",
-    "summary": "UAE's property sector faces reckoning after Iran strikes  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZWFPUmJzd25OY0xteGtNSzJOdXpYcmlYcHA4MjRkTEF5SUo5cTB2R0o2eExkZEtsVDBFU1Fsb3MtODhTWUxjSHVNVjF0UkhiWUFXeWNVTzFnel8ydHFpZndrVmViWXAybzVaUURSdWNRdDYyM09pQkpQSTFmNnBvenRra3k3NHA0UGxqWm9EYjVJS2x1LVFOdlVxQjlIMVZYeHZFWEtYVFpmUUxDYWc?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1772707873,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772733025,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The UAE's property sector is facing a reckoning following Iran's strikes, which has increased tensions in the region. The escalation of the conflict has led to a decline in investor confidence, causing a drop in property prices. The UAE's property market has been heavily reliant on foreign investment, particularly from Iran, which has been a significant source of demand. The recent strikes have disrupted this flow of investment, leading to a decline in property values. The sector is also facing a decline in demand due to the economic uncertainty caused by the conflict.",
-      "impact": "The potential impact on the UAE's property sector is significant, with short-term effects including a decline in property prices and a decrease in investor confidence. This could lead to a decline in earnings for property developers and a decrease in liquidity in the market. In the medium-term, the conflict could lead to a decline in demand for properties, further exacerbating the decline in prices. The sector's valuation could also be negatively impacted as investors re-evaluate their exposure to the region.",
-      "risks": [
-        "decline in investor confidence",
-        "disruption to foreign investment",
-        "economic uncertainty",
-        "decline in demand"
-      ]
-    }
-  },
-  {
     "id": "7595832",
     "headline": "Gulf food strategy tested as Iran war snarls shipping routes - Reuters",
     "summary": "Gulf food strategy tested as Iran war snarls shipping routes  Reuters",
@@ -2545,6 +2586,30 @@
         "Oil price volatility risk",
         "Supply chain disruption risk",
         "Economic growth slowdown risk"
+      ]
+    }
+  },
+  {
+    "id": "7595836",
+    "headline": "UAE's property sector faces reckoning after Iran strikes - Reuters",
+    "summary": "UAE's property sector faces reckoning after Iran strikes  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZWFPUmJzd25OY0xteGtNSzJOdXpYcmlYcHA4MjRkTEF5SUo5cTB2R0o2eExkZEtsVDBFU1Fsb3MtODhTWUxjSHVNVjF0UkhiWUFXeWNVTzFnel8ydHFpZndrVmViWXAybzVaUURSdWNRdDYyM09pQkpQSTFmNnBvenRra3k3NHA0UGxqWm9EYjVJS2x1LVFOdlVxQjlIMVZYeHZFWEtYVFpmUUxDYWc?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1772686920,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772733025,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The UAE's property sector is facing a reckoning following Iran's strikes, which has increased tensions in the region. The escalation of the conflict has led to a decline in investor confidence, causing a drop in property prices. The UAE's property market has been heavily reliant on foreign investment, particularly from Iran, which has been a significant source of demand. The recent strikes have disrupted this flow of investment, leading to a decline in property values. The sector is also facing a decline in demand due to the economic uncertainty caused by the conflict.",
+      "impact": "The potential impact on the UAE's property sector is significant, with short-term effects including a decline in property prices and a decrease in investor confidence. This could lead to a decline in earnings for property developers and a decrease in liquidity in the market. In the medium-term, the conflict could lead to a decline in demand for properties, further exacerbating the decline in prices. The sector's valuation could also be negatively impacted as investors re-evaluate their exposure to the region.",
+      "risks": [
+        "decline in investor confidence",
+        "disruption to foreign investment",
+        "economic uncertainty",
+        "decline in demand"
       ]
     }
   },
@@ -3488,7 +3553,16 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1772652347
+    "publishedAt": 1772652347,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772817925,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The White House is considering the US role in Iran after the recent conflict. The news article does not provide specific details on the potential actions the US may take. The conflict in Iran has been a long-standing issue, with tensions between the US and Iran escalating in recent years. The US has imposed sanctions on Iran, which has impacted the country's economy. The current situation is uncertain, and it is unclear what the US will decide to do next.",
+      "impact": "The news may have a short-term impact on oil prices, as the conflict in Iran has historically led to supply disruptions and price volatility. In the medium term, the US's actions in Iran could have a significant impact on the US defense industry, as well as companies with exposure to the region. Companies that have been impacted by previous US sanctions on Iran, such as airlines and shipping companies, may also be affected. The US's actions in Iran could also have a broader impact on global markets, particularly if the conflict escalates and leads to a wider regional conflict.",
+      "risks": []
+    }
   },
   {
     "id": "7583773",
@@ -3544,7 +3618,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1772650082
+    "publishedAt": 1772650082,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772817971,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The White House claims that Spain has agreed to cooperate, but Madrid denies this. The disagreement stems from a recent news article suggesting that Spain has agreed to cooperate with the US on a specific issue. The White House's statement is likely an attempt to downplay tensions between the two countries. This development may indicate a shift in the diplomatic relationship between the US and Spain, but the details of the agreement are unclear.",
+      "impact": "The potential impact on related stocks is limited, as the news is more of a diplomatic development rather than a direct economic or business event. However, if the cooperation between the US and Spain is successful, it could lead to increased trade and economic activity between the two countries, potentially benefiting companies with exposure to the Spanish market. On the other hand, if the disagreement escalates, it could lead to increased tensions and potential trade restrictions, negatively impacting companies with exposure to the Spanish market.",
+      "risks": [
+        "escalation of tensions between the US and Spain",
+        "trade restrictions",
+        "uncertainty around the details of the agreement"
+      ]
+    }
   },
   {
     "id": "7584388",
@@ -21593,75 +21680,6 @@
         "regulatory risk",
         "credit access risk",
         "recession risk"
-      ]
-    }
-  },
-  {
-    "id": "7576495",
-    "headline": "I’m almost 65 and live abroad. Should I skip signing up for Medicare?",
-    "summary": "You have to decide whether it’s worth it to pay a monthly fee for coverage you might never use.",
-    "url": "https://www.marketwatch.com/story/im-almost-65-and-live-abroad-should-i-skip-signing-up-for-medicare-2eaf7f79",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1771006020,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1771007159,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The article discusses the decision of individuals approaching 65 who live abroad whether to sign up for Medicare. Medicare is a US-based healthcare program, and its benefits may not be applicable or useful for individuals living outside the US. The decision to enroll in Medicare depends on individual circumstances, including the individual's health insurance coverage and healthcare needs. For those living abroad, it may be more cost-effective to opt out of Medicare and explore alternative health insurance options. This decision may not have a direct impact on the healthcare industry or related stocks.",
-      "impact": "The potential impact on healthcare stocks is minimal, as the decision to enroll in Medicare is individual and not industry-wide. However, the article may influence individual investor decisions, potentially affecting the demand for healthcare stocks. In the short-term, there may be a slight increase in trading activity as investors reassess their portfolios and consider alternative health insurance options. In the medium-term, the article may contribute to a shift in investor sentiment towards healthcare stocks, but this is uncertain.",
-      "risks": [
-        "Uncertainty in individual investor decisions",
-        "Potential shift in investor sentiment towards healthcare stocks",
-        "Increased trading activity"
-      ]
-    }
-  },
-  {
-    "id": "7576496",
-    "headline": "Investors see hope in the economy despite AI fears igniting a turbulent week for markets",
-    "summary": "Investors are about to wrap up an unusual week in the stock market, when surprisingly strong job gains for January and an easing annual rate of consumer-price inflation failed to erase jitters about artificial intelligence’s capacity to destroy industries.",
-    "url": "https://www.marketwatch.com/story/investors-see-hope-in-the-economy-despite-ai-fears-igniting-a-turbulent-week-for-markets-4b27e019",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1771005720,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1771007206,
-      "sentiment": "bullish",
-      "confidence": 0.7,
-      "summary": "The US economy showed resilience with strong job gains in January, and a decrease in consumer-price inflation. This news is a positive sign for the market, despite concerns about the impact of artificial intelligence on industries. The strong job market and easing inflation could lead to increased consumer spending and business investment, which in turn could boost corporate earnings. This could be a positive catalyst for stocks, particularly those in the consumer discretionary and industrials sectors.",
-      "impact": "The strong job market and easing inflation could lead to increased consumer spending, which could boost stocks in the consumer discretionary sector. Additionally, the strong economy could lead to increased business investment, benefiting stocks in the industrials sector. However, the AI-induced industry disruption fears may lead to short-term volatility, potentially impacting stocks with high exposure to automation. In the medium term, companies that adapt to the AI-driven changes may see increased opportunities for growth.",
-      "risks": [
-        "AI-induced industry disruption risk",
-        "short-term volatility risk",
-        "valuation risk"
-      ]
-    }
-  },
-  {
-    "id": "7576494",
-    "headline": "AI fears slammed trucking stocks. Analysts see an obvious buying opportunity.",
-    "summary": "C.H. Robinson Worldwide’s stock had its biggest one-day drop in years — but the catalyst for the selloff doesn’t make much sense to analysts.",
-    "url": "https://www.marketwatch.com/story/ai-fears-slammed-trucking-stocks-analysts-see-an-obvious-buying-opportunity-45da5878",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1771005360,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1771007253,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "C.H. Robinson Worldwide's stock experienced its largest one-day drop in years due to fears surrounding the impact of AI on the trucking industry. However, analysts argue that this sell-off is unwarranted as the company's business model is not heavily reliant on autonomous driving technology. The company's focus on logistics and transportation services, rather than autonomous vehicles, makes it less susceptible to AI-related disruptions. As a result, analysts see this as a buying opportunity, citing the company's strong fundamentals and solid earnings outlook.",
-      "impact": "The potential buying opportunity could lead to a short-term rebound in C.H. Robinson Worldwide's stock price, driven by investors taking advantage of the oversold situation. In the medium term, the company's focus on logistics and transportation services could lead to increased demand for its services, driving growth and earnings expansion. The sell-off may also have created a buying opportunity for investors looking to gain exposure to the logistics and transportation sector.",
-      "risks": [
-        "Regulatory changes affecting the trucking industry",
-        "Potential disruption to the company's business model due to unexpected advancements in AI technology",
-        "Increased competition from other logistics and transportation providers"
       ]
     }
   }
