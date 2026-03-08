@@ -7,7 +7,20 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/108272159-1772473432677-gettyimages-2263890116-GAS_PRICES.jpeg?v=1772834290&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1772986271
+    "publishedAt": 1772986271,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772992684,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The ongoing war in Iran is causing a significant increase in oil prices, which is expected to squeeze consumer spending and increase input costs for companies. This is likely to lead to a volatile week in the stock market. The Strait of Hormuz, a vital waterway for oil exports, has been effectively shut down, and Kuwait has already cut back on oil production. China, a major importer of crude oil, is also at risk as some 50% of its oil imports pass through the Strait.",
+      "impact": "The potential impact on the stock market is likely to be negative, with increased oil prices affecting consumer spending and company earnings. This could lead to a decline in stock prices, particularly for companies with high exposure to oil prices or those with a significant presence in the Middle East. The situation may also exacerbate existing tensions between the US and China, which could have broader implications for the global economy.",
+      "risks": [
+        "Increased oil prices squeezing consumer spending",
+        "Higher input costs for companies",
+        "Disruptions to global oil supply and potential impact on China's economy"
+      ]
+    }
   },
   {
     "id": "7610313",
@@ -109,7 +122,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1772956039,
+    "publishedAt": 1772956020,
     "analysis": {
       "version": 2,
       "generatedAt": 1772963928,
@@ -145,6 +158,25 @@
         "potential escalation of conflict in the region",
         "uncertainty surrounding the Saudi government's actions and their impact on the economy"
       ]
+    }
+  },
+  {
+    "id": "7610723",
+    "headline": "Trump praises Italy PM Meloni's willingness to help in U.S.-Israel war with Iran - Reuters",
+    "summary": "Trump praises Italy PM Meloni's willingness to help in U.S.-Israel war with Iran  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUVZVeTRRNjNRSDZUQjFIV2FIbEJYMXE5dVJkV1RRQ1V1WWU5NzF2VXM0MHE1TkptYnZaMy1PQW9fa0xmbnB1NWVyMDEySWFXdkh4RWdITEhoVWJRTFhLVWs0WDB5TGJ6Q0JHeWFUUXI1dWNWMkJxWGNNRTE4NFdzNzVhSG9wQTRNZ3JFaWZ6dEVXWFpYaUpxZm1iZmw0WnJ4eU56cDFyc3hRT1BzbG5jMVZOcw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1772954220,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772992729,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "US President Trump has praised Italian Prime Minister Meloni's willingness to help the US and Israel in a potential war with Iran. This news suggests that Italy may be taking a more aggressive stance in the region, potentially aligning with US and Israeli interests. The development could lead to increased military cooperation and joint operations between the US, Israel, and Italy. This news has significant implications for the defense industry and related stocks, particularly those involved in military equipment and services.",
+      "impact": "The potential for increased military cooperation and joint operations between the US, Israel, and Italy could lead to a boost in demand for defense stocks, particularly those involved in military equipment and services. This could drive earnings growth and increase valuations for companies such as Lockheed Martin (LMT), Boeing (BA), and Northrop Grumman (NOC). In the short-term, we expect to see increased investor interest and buying activity in these stocks, potentially leading to a short-term price increase.",
+      "risks": []
     }
   },
   {
@@ -328,6 +360,29 @@
         "Escalating tensions in the Middle East leading to increased oil prices",
         "Negative impact on global economy due to potential oil price increases",
         "Uncertainty around Saudi Aramco's IPO prospects"
+      ]
+    }
+  },
+  {
+    "id": "7603029",
+    "headline": "Iran's Guards challenges Trump to have US Navy escort oil tankers in Strait of Hormuz - Reuters",
+    "summary": "Iran's Guards challenges Trump to have US Navy escort oil tankers in Strait of Hormuz  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeGV6MEZnWnpYSUdnUWZrN2Q3R1NBaGxLYmY3M1JxYm1kQURyeDQwRldraTZFSzh0VU13QXRMdHN3VTFHU3AyNlJlYndjMGtGeHlVNXVZb0N4VkJQMnZVYWZHMml3TFp2QzhEbGtkdkdiQVgzc0hpcXRHRm44TFRnYUJhRHpXUGVqbUxIajBvejRRUm9JYVBkMHRJWm5yS2hOTVNHZVNIOExJRTFRdHhCRThvOF9ZMF95VVJNR2JtRUp5MlctczhUTw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1772914565,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772855597,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Iran's Revolutionary Guard has challenged the US to escort oil tankers in the Strait of Hormuz, escalating tensions in the region. The Strait of Hormuz is a critical chokepoint for global oil trade, with around 20% of the world's oil passing through it. The escalation in tensions has increased the risk of supply disruptions, which could impact oil prices and the global economy. The US Navy has been involved in a series of confrontations with Iranian forces in the region, and this latest challenge is likely to further increase tensions. The situation is complex and sensitive, with multiple stakeholders involved, including the US, Iran, and other regional players.",
+      "impact": "The potential impact on oil-related stocks is significant, with a potential increase in oil prices due to supply disruptions. This could lead to a short-term boost in earnings for oil majors such as ExxonMobil and Chevron, but also increase costs for consumers and potentially impact economic growth. In the medium term, the increased tensions could lead to a re-evaluation of the region's oil infrastructure and potentially impact the valuation of oil-related stocks.",
+      "risks": [
+        "supply disruption risk",
+        "oil price volatility risk",
+        "geopolitical instability risk"
       ]
     }
   },
@@ -743,29 +798,6 @@
     }
   },
   {
-    "id": "7602007",
-    "headline": "US-Israel war with Iran sends shockwaves through global business - Reuters",
-    "summary": "US-Israel war with Iran sends shockwaves through global business  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZXlvQ0xaNDZkMWNpUG1pTDFabHJqYUFUYllPSWhqNFNGZ2FUdTBOY0Rxc0dSS2U1ZVo5UWN5X01pVEluN0dacEV5Z1J0VnRlSV9XRUpyNnBXWV9CYXhDd2RROXJvMV9yVnd5cDZsN0Zkcnc4X21Sd3lkZ191aF9kdTJpX1BTR0Z2ZGVrdWd1ZWJBRkVpZ2d4al9mU2xURmxnUEF0dkhVNWVQTk4zWS1GVkdudw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1772875011,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772834465,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "A potential US-Israel war with Iran has sent shockwaves through global business, leading to increased uncertainty and volatility in the markets. The conflict has sparked concerns about oil prices, global economic stability, and the potential for supply chain disruptions. The US and Israel have been involved in a long-standing dispute with Iran over its nuclear program, and a military conflict could have significant implications for the global economy. The news has led to a surge in oil prices, with Brent crude rising to a 14-month high, and has also sparked concerns about the potential for a global recession.",
-      "impact": "The potential war could lead to a short-term surge in oil prices, which could negatively impact energy stocks and companies with high exposure to the oil sector. In the medium term, a prolonged conflict could lead to a global economic slowdown, negatively impacting companies with high exposure to international trade and global supply chains. The news has also led to a decline in investor sentiment, which could negatively impact the overall market and individual stocks.",
-      "risks": [
-        "Oil price volatility risk",
-        "Global economic slowdown risk",
-        "Supply chain disruption risk"
-      ]
-    }
-  },
-  {
     "id": "7604850",
     "headline": "India raises cooking gas prices as Iran war hits supply - Reuters",
     "summary": "India raises cooking gas prices as Iran war hits supply  Reuters",
@@ -1111,29 +1143,6 @@
     }
   },
   {
-    "id": "7603029",
-    "headline": "Iran's Guards challenges Trump to have US Navy escort oil tankers in Strait of Hormuz - Reuters",
-    "summary": "Iran's Guards challenges Trump to have US Navy escort oil tankers in Strait of Hormuz  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeGV6MEZnWnpYSUdnUWZrN2Q3R1NBaGxLYmY3M1JxYm1kQURyeDQwRldraTZFSzh0VU13QXRMdHN3VTFHU3AyNlJlYndjMGtGeHlVNXVZb0N4VkJQMnZVYWZHMml3TFp2QzhEbGtkdkdiQVgzc0hpcXRHRm44TFRnYUJhRHpXUGVqbUxIajBvejRRUm9JYVBkMHRJWm5yS2hOTVNHZVNIOExJRTFRdHhCRThvOF9ZMF95VVJNR2JtRUp5MlctczhUTw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1772838345,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772855597,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Iran's Revolutionary Guard has challenged the US to escort oil tankers in the Strait of Hormuz, escalating tensions in the region. The Strait of Hormuz is a critical chokepoint for global oil trade, with around 20% of the world's oil passing through it. The escalation in tensions has increased the risk of supply disruptions, which could impact oil prices and the global economy. The US Navy has been involved in a series of confrontations with Iranian forces in the region, and this latest challenge is likely to further increase tensions. The situation is complex and sensitive, with multiple stakeholders involved, including the US, Iran, and other regional players.",
-      "impact": "The potential impact on oil-related stocks is significant, with a potential increase in oil prices due to supply disruptions. This could lead to a short-term boost in earnings for oil majors such as ExxonMobil and Chevron, but also increase costs for consumers and potentially impact economic growth. In the medium term, the increased tensions could lead to a re-evaluation of the region's oil infrastructure and potentially impact the valuation of oil-related stocks.",
-      "risks": [
-        "supply disruption risk",
-        "oil price volatility risk",
-        "geopolitical instability risk"
-      ]
-    }
-  },
-  {
     "id": "7598800",
     "headline": "Trump demands Iran's 'unconditional surrender,' complicating diplomatic paths - Reuters",
     "summary": "Trump demands Iran's 'unconditional surrender,' complicating diplomatic paths  Reuters",
@@ -1467,6 +1476,29 @@
         "geopolitical risk",
         "regional instability risk",
         "diplomatic relations risk"
+      ]
+    }
+  },
+  {
+    "id": "7602007",
+    "headline": "US-Israel war with Iran sends shockwaves through global business - Reuters",
+    "summary": "US-Israel war with Iran sends shockwaves through global business  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZXlvQ0xaNDZkMWNpUG1pTDFabHJqYUFUYllPSWhqNFNGZ2FUdTBOY0Rxc0dSS2U1ZVo5UWN5X01pVEluN0dacEV5Z1J0VnRlSV9XRUpyNnBXWV9CYXhDd2RROXJvMV9yVnd5cDZsN0Zkcnc4X21Sd3lkZ191aF9kdTJpX1BTR0Z2ZGVrdWd1ZWJBRkVpZ2d4al9mU2xURmxnUEF0dkhVNWVQTk4zWS1GVkdudw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1772820548,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772834465,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "A potential US-Israel war with Iran has sent shockwaves through global business, leading to increased uncertainty and volatility in the markets. The conflict has sparked concerns about oil prices, global economic stability, and the potential for supply chain disruptions. The US and Israel have been involved in a long-standing dispute with Iran over its nuclear program, and a military conflict could have significant implications for the global economy. The news has led to a surge in oil prices, with Brent crude rising to a 14-month high, and has also sparked concerns about the potential for a global recession.",
+      "impact": "The potential war could lead to a short-term surge in oil prices, which could negatively impact energy stocks and companies with high exposure to the oil sector. In the medium term, a prolonged conflict could lead to a global economic slowdown, negatively impacting companies with high exposure to international trade and global supply chains. The news has also led to a decline in investor sentiment, which could negatively impact the overall market and individual stocks.",
+      "risks": [
+        "Oil price volatility risk",
+        "Global economic slowdown risk",
+        "Supply chain disruption risk"
       ]
     }
   },
@@ -22699,29 +22731,6 @@
         "Overvaluation risk: the article suggests that investors may be overestimating the impact of AI on software companies, leading to overvaluation and potential price corrections.",
         "Competitive advantage risk: the author argues that companies like CrowdStrike have a strong competitive advantage in areas like cybersecurity, making it difficult for AI to replace them.",
         "Regulatory risk: the article mentions the need for regulatory approvals for AI-related companies, which could impact their growth and profitability."
-      ]
-    }
-  },
-  {
-    "id": "7577063",
-    "headline": "Palantir joins the wave of businesses and billionaires moving to Florida",
-    "summary": "Some experts say Florida’s more business-friendly policies are helping the state attract more corporations.",
-    "url": "https://www.marketwatch.com/story/palantir-joins-the-wave-of-businesses-and-billionaires-moving-to-florida-79f0134b",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1771362180,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1771363234,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Palantir, a data analytics company, is moving its headquarters to Florida, joining a growing list of businesses and billionaires relocating to the state. This trend is attributed to Florida's business-friendly policies, which are seen as attractive to corporations. The move may signal a positive shift in the state's business environment, potentially leading to increased investment and economic growth. Palantir's decision may also indicate a broader trend of companies reevaluating their locations in response to changing regulatory and tax environments.",
-      "impact": "This news may have a positive impact on Palantir's stock price in the short term, as it could be seen as a vote of confidence in the company's leadership and business strategy. However, the medium-term impact is less clear, as the relocation may not directly affect Palantir's revenue or earnings. The trend of businesses moving to Florida may also have a positive impact on the state's economy, potentially leading to increased investment and job growth, which could benefit related industries such as real estate and hospitality.",
-      "risks": [
-        "Regulatory risks associated with the move, such as potential changes in tax laws or business regulations",
-        "Uncertainty around the impact of the relocation on Palantir's operations and employee morale",
-        "Potential negative reaction from investors if the move does not lead to significant financial benefits for the company"
       ]
     }
   }
