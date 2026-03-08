@@ -352,7 +352,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1772956039,
+    "publishedAt": 1772956020,
     "analysis": {
       "version": 2,
       "generatedAt": 1772963928,
@@ -590,6 +590,29 @@
         "Escalating tensions in the Middle East leading to increased oil prices",
         "Negative impact on global economy due to potential oil price increases",
         "Uncertainty around Saudi Aramco's IPO prospects"
+      ]
+    }
+  },
+  {
+    "id": "7611838",
+    "headline": "Katyusha rockets target US embassy in Baghdad, security sources say - Reuters",
+    "summary": "Katyusha rockets target US embassy in Baghdad, security sources say  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONXNmOWpaODdjLWVkM24zTmdERm5yZ00xMWN4U3NxSndEdk1jYUhId3hCTUhrZEpocWZJQ0QzOWdKQUMtLTFlZGpBbzhyRHJZYVpGWWhJUml6V2F6U1k0bjdwakUyMElFVU5IUWFsRW56VGw2MkVFazR1QlJQbmV1QTVhWHFlZG9UYXBsUWFtT2RoNHpUYUEyU0pEejMwUlpjbDdvbTkwQ29udGcxRHVhUjdzTFl4VVBD?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1772916355,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773010771,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Katyusha rockets targeting the US embassy in Baghdad indicate increased regional tensions and a heightened risk of conflict. This development is likely a result of the ongoing US-Iran conflict and the escalating situation in the Middle East. The incident may lead to a deterioration in US-Iraq relations, potentially affecting US companies operating in the region. The news may also impact the global oil market, as Iraq is a significant oil producer.",
+      "impact": "The potential conflict may lead to a short-term increase in oil prices, benefiting oil producers such as ExxonMobil (XOM) and Chevron (CVX). However, the long-term impact on US companies operating in the region may be negative, as the conflict could lead to increased costs, supply chain disruptions, and regulatory risks. The news may also weigh on the sentiment of investors, potentially leading to a decline in stock prices of companies with significant exposure to the Middle East.",
+      "risks": [
+        "geopolitical risk",
+        "regulatory risk",
+        "supply chain disruption risk"
       ]
     }
   },
@@ -22709,29 +22732,6 @@
       "summary": "The recent decline in Bitcoin is attributed to geopolitical tension, which has added to the risk-off mood. This has caused investors to shift their focus away from riskier assets, such as Bitcoin, and towards safer havens. The article notes that Bitcoin has traded like a high-beta tech proxy in recent months, making it more susceptible to market volatility. This decline in Bitcoin is likely a result of investors' risk aversion and a decrease in market confidence.",
       "impact": "The decline in Bitcoin may have a negative impact on the cryptocurrency's price in the short term, potentially leading to a decrease in its market value. This, in turn, may affect the earnings outlook for companies involved in the cryptocurrency space, such as those providing mining equipment or services. Additionally, the decrease in investor confidence may lead to a reduction in liquidity in the cryptocurrency market, making it more challenging for investors to buy or sell Bitcoin. The medium-term impact may be a shift in investor sentiment, with some investors potentially reevaluating their exposure to cryptocurrencies in favor of more traditional assets.",
       "risks": []
-    }
-  },
-  {
-    "id": "7577455",
-    "headline": "Gold steadies after 2 day drop in thin lunar new year trading",
-    "summary": "Bullion was near $4,880 an ounce in early trading, having lost more than 3% over the previous two sessions, when the US dollar strengthened",
-    "url": "https://www.bloomberg.com/news/articles/2026-02-17/gold-steadies-after-two-day-drop-in-thin-lunar-new-year-trading",
-    "source": "Bloomberg",
-    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
-    "relatedSymbols": [],
-    "publishedAt": 1771385702,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1771478235,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Gold prices steadied after a two-day decline, driven by a strengthening US dollar. The Lunar New Year holiday led to thin trading volumes, which contributed to the price volatility. The gold price has been sensitive to changes in the dollar's value, as a stronger dollar makes gold more expensive for foreign buyers. This price movement is not unexpected, given the dollar's recent strength and the holiday-induced thin trading.",
-      "impact": "The price stabilization may have a short-term positive impact on gold mining companies, as a stable price environment can reduce volatility-driven costs and allow for more predictable production planning. However, the medium-term outlook remains uncertain, as the dollar's strength could continue to pressure gold prices. The impact on gold-related stocks will depend on the companies' hedging strategies and their ability to adapt to price fluctuations.",
-      "risks": [
-        "dollar strength risk",
-        "price volatility risk",
-        "macroeconomic uncertainty risk"
-      ]
     }
   }
 ]
