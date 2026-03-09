@@ -1,5 +1,28 @@
 [
   {
+    "id": "7615190",
+    "headline": "Recession odds jump on Kalshi after oil tops $100",
+    "summary": "Prediction market bettors are increasingly expecting the U.S. economy to enter a recession.",
+    "url": "https://www.cnbc.com/2026/03/09/recession-odds-kalshi-oil.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108272677-1772544588828-gettyimages-2263770910-TEXAS_OIL.jpeg?v=1773060281&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1773064794,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773067342,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The odds of a recession in the US have increased to 34% on Kalshi, driven by rising oil prices above $100 per barrel. The jump in oil prices is attributed to the ongoing conflict between the US and Iran, which has led to a reduction in Middle Eastern oil production. This has resulted in a selloff in stocks, indicating potential pain for investors. The rising oil prices are expected to hit consumer and business spending, increasing the likelihood of a recession.",
+      "impact": "The potential impact on stocks is bearish, particularly for companies with high exposure to the energy sector. In the short term, the rising oil prices may lead to a decline in earnings for companies that rely on oil as a major input cost. In the medium term, a recession could lead to a decline in consumer spending, which may negatively impact companies with high exposure to discretionary spending. The rising oil prices may also lead to an increase in inflation, which could further exacerbate the economic downturn.",
+      "risks": [
+        "Increased inflation risk",
+        "Decline in consumer spending risk",
+        "Earnings decline risk for energy-intensive companies"
+      ]
+    }
+  },
+  {
     "id": "7614961",
     "headline": "We're making a small trim to boost our cash position in case the sell-off worsens",
     "summary": "We're locking in some profits on a tech stock that faces headwinds away from the Iran war.",
@@ -42,6 +65,29 @@
         "oil price volatility risk",
         "economic slowdown risk due to high pump prices",
         "earnings outlook risk for companies exposed to the Middle East"
+      ]
+    }
+  },
+  {
+    "id": "7615193",
+    "headline": "Turkey says second Iranian ballistic missile shot down by NATO defences in airspace - Reuters",
+    "summary": "Turkey says second Iranian ballistic missile shot down by NATO defences in airspace  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaHF5eER2d1VGSDRaYlo0bm0wSGhlcjMxZ2g5VzdHc2tjS3pVU0JBVkRtQ0kxMmMxX2ltOUhFdDlhZi1FR014enA2T1FJR2JmaXEyd3Q2Zjl3c1ZOaVZCb0lfX3IxbTZKS0FGT2FLVEhGdjNPSEdHSlVzanJyaXlCRXB5eDNranRpTXcwcTZCekNVSWlsWS1DQzgtRXhCby1JcXJjSFVBWVVDa21sS2xhSGxHbTRkT3V6Sl9PVlJrR3JNclRSbHNZSw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1773057987,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773067388,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Turkey has confirmed that a second Iranian ballistic missile was shot down by NATO defences in the country's airspace. The incident occurred on the same day that a Russian defence system was activated in response to the first missile launch. The background to this event is the ongoing tensions between Iran and the West, particularly the US, over nuclear proliferation and regional security. The shooting down of the missile is a demonstration of NATO's military capabilities and its commitment to regional security. This event is likely to have a limited impact on the global economy and markets, but may have some implications for defence stocks and contractors.",
+      "impact": "The incident is unlikely to have a significant impact on the earnings outlook for defence stocks in the short term. However, it may lead to an increase in defence spending by NATO member countries, which could benefit defence contractors such as Lockheed Martin and Boeing. The medium-term impact will depend on the geopolitical developments in the region and the response of Iran and other countries involved. The event may also increase investor sentiment towards defence stocks, leading to a short-term rally in the sector.",
+      "risks": [
+        "geopolitical tensions escalation risk",
+        "defence spending uncertainty risk",
+        "investor sentiment volatility risk"
       ]
     }
   },
@@ -140,8 +186,8 @@
   },
   {
     "id": "7614423",
-    "headline": "Wall St futures slide as Middle East conflict stokes inflation worries - Reuters",
-    "summary": "Wall St futures slide as Middle East conflict stokes inflation worries  Reuters",
+    "headline": "Wall st opens lower as soaring crude prices fan inflation worries - Reuters",
+    "summary": "Wall st opens lower as soaring crude prices fan inflation worries  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ25yUEVjdzA5eDR6QmJUYThwbHc0Rk9KYXRpcFVMNnYwZkZsYXQ0S1g2RXExRTVhbGFzMHV6dDE5ZHhHdjhfV0VUTkNMdmtMaUpVZTFOQ3h0WEhwM05xNV84STRSSjREUF9Ka204QVZ4WEtCUXZsZWY3c3h3My1zUEdBdTRTc3Q3ek1NVXdBYjJ5UFZHcUd1aU11ay01emx2S0JIeWVTU2tfQzA3Ti1qSTEwQlJ2eVVtbW5z?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -325,8 +371,8 @@
   },
   {
     "id": "7613888",
-    "headline": "Governments scramble to limit fallout of Iran war as oil prices surge - Reuters",
-    "summary": "Governments scramble to limit fallout of Iran war as oil prices surge  Reuters",
+    "headline": "Oil output, exports knocked by Iran conflict as prices surge - Reuters",
+    "summary": "Oil output, exports knocked by Iran conflict as prices surge  Reuters",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc2pVTDFOcHdlNzBiR3dnWDBvdUhSTHNSVU9hZ3NiVDhQWDIyMkx6SGNHbUlWZDRNVi02bjBXZ0tkaV8wVUlFWGx4RWl5bGxkQTRrLXdibTdVc1Bld0drUTNHNUFqQnhDTDN0VzI3cmlTbzhwU0RiLTZ6YnlVX2hGRFI4SGI0M2dBdjl4cXdnRmtvdEdFOUEtMnpxZlFiOUZvdlUzQ2tMclI0S1lnTFlPa2pB?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -400,7 +446,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1773033720,
+    "publishedAt": 1773033724,
     "analysis": {
       "version": 2,
       "generatedAt": 1773048945,
@@ -469,7 +515,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1773030240,
+    "publishedAt": 1773030279,
     "analysis": {
       "version": 2,
       "generatedAt": 1773035167,
@@ -481,6 +527,29 @@
         "Increased competition from alternative energy sources",
         "Potential for a global economic slowdown due to higher oil prices",
         "Uncertainty around the duration and impact of the Iran conflict"
+      ]
+    }
+  },
+  {
+    "id": "7612855",
+    "headline": "Compounding errors and narrow self-interest threaten global fuel crisis - Reuters",
+    "summary": "Compounding errors and narrow self-interest threaten global fuel crisis  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQWVSdGQ2UkprWDdZSmoyS1AwT3RlWjRkVWJSa0dlWjRLNGF3TTNXSHplMG1lZG5IY25WWU9IRUoyOWh2a0ZDdWFQdk9uNlFxbFdTeEtXOXE2RW9PckVYYTE5czFBN2xLclpKT1pqajhXdHJlMXBlNmlDMzdVSlJxeUtVYmotaEhUdjUydDJjWFRtTXhTbGZadmk0Yy04dXE2djFfQi1fR2RObk5oUzNsZTVPM2I5UGpteU1Ub2VmOC0?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1773028962,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773029013,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "A global fuel crisis is looming due to compounding errors and narrow self-interest among fuel producers and traders. The crisis is attributed to a combination of factors, including inadequate supply chain management, hoarding, and price manipulation. This has led to fuel shortages and price hikes, affecting various industries such as transportation and manufacturing. The situation is expected to worsen unless immediate action is taken to address the root causes.",
+      "impact": "The potential impact on oil and gas companies is significant, with a potential short-term decline in earnings due to reduced fuel sales and increased costs. Medium-term, the crisis may lead to a re-evaluation of the industry's business models and potentially result in a shift towards more sustainable and efficient practices. The crisis may also impact the overall economy, leading to higher inflation and reduced economic growth. This, in turn, could affect the broader market, particularly companies with high exposure to the energy sector.",
+      "risks": [
+        "Supply chain disruption risk",
+        "Price volatility risk",
+        "Economic downturn risk"
       ]
     }
   },
@@ -561,7 +630,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1773022320,
+    "publishedAt": 1773022330,
     "analysis": {
       "version": 2,
       "generatedAt": 1773035260,
@@ -577,29 +646,6 @@
     }
   },
   {
-    "id": "7612855",
-    "headline": "Compounding errors and narrow self-interest threaten global fuel crisis - Reuters",
-    "summary": "Compounding errors and narrow self-interest threaten global fuel crisis  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQWVSdGQ2UkprWDdZSmoyS1AwT3RlWjRkVWJSa0dlWjRLNGF3TTNXSHplMG1lZG5IY25WWU9IRUoyOWh2a0ZDdWFQdk9uNlFxbFdTeEtXOXE2RW9PckVYYTE5czFBN2xLclpKT1pqajhXdHJlMXBlNmlDMzdVSlJxeUtVYmotaEhUdjUydDJjWFRtTXhTbGZadmk0Yy04dXE2djFfQi1fR2RObk5oUzNsZTVPM2I5UGpteU1Ub2VmOC0?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1773021732,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1773029013,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "A global fuel crisis is looming due to compounding errors and narrow self-interest among fuel producers and traders. The crisis is attributed to a combination of factors, including inadequate supply chain management, hoarding, and price manipulation. This has led to fuel shortages and price hikes, affecting various industries such as transportation and manufacturing. The situation is expected to worsen unless immediate action is taken to address the root causes.",
-      "impact": "The potential impact on oil and gas companies is significant, with a potential short-term decline in earnings due to reduced fuel sales and increased costs. Medium-term, the crisis may lead to a re-evaluation of the industry's business models and potentially result in a shift towards more sustainable and efficient practices. The crisis may also impact the overall economy, leading to higher inflation and reduced economic growth. This, in turn, could affect the broader market, particularly companies with high exposure to the energy sector.",
-      "risks": [
-        "Supply chain disruption risk",
-        "Price volatility risk",
-        "Economic downturn risk"
-      ]
-    }
-  },
-  {
     "id": "7614207",
     "headline": "Japan should use nuclear plants to offset Iran crisis, opposition party head says - Reuters",
     "summary": "Japan should use nuclear plants to offset Iran crisis, opposition party head says  Reuters",
@@ -607,7 +653,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1773021360,
+    "publishedAt": 1773021399,
     "analysis": {
       "version": 2,
       "generatedAt": 1773057825,
@@ -757,29 +803,6 @@
         "Risk of prolonged conflict leading to sustained high oil prices",
         "Increased volatility in the oil market",
         "Potential for supply chain disruptions"
-      ]
-    }
-  },
-  {
-    "id": "7609302",
-    "headline": "Israeli military says it will pursue every successor of Iran's Khamenei - Reuters",
-    "summary": "Israeli military says it will pursue every successor of Iran's Khamenei  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObTFiNXNVUGsxSnFpb0tuVzd5UDVsdW9HNWxFSUtpQmRxSjVmRHlmSzNwaXY1YTdfc09KTzFkQ3VxVE5felJCQ05uak5kOE5WXzlMRl9rbk50Rk9uVVhUdzV5Q3U3Y1FXcWxRaWswcjdiSU5JTWtzLUgzVHVWaHZVd1J1Smw3NFE0SXVnbUl5ekFHNmZEY0RYODROTTlLRkdwc2hSVGZIellMUW02VVBEZ0ptdVpPYkVRbC0wVlRn?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1773005587,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772963928,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The Israeli military has announced that it will pursue every successor of Iran's Supreme Leader Ali Khamenei, escalating tensions between the two nations. This move is likely in response to Iran's recent nuclear activities and its support for militant groups in the region. The Iranian regime's instability and potential for regime change could lead to increased military action, which may impact regional oil production and prices. This, in turn, could affect oil-producing companies and related industries.",
-      "impact": "The escalation of tensions between Israel and Iran may lead to increased volatility in the oil market, potentially driving up oil prices in the short term. This could positively impact oil-producing companies such as Chevron (CVX) and ExxonMobil (XOM), but may also increase costs for airlines and other industries that rely heavily on oil. In the medium term, the heightened tensions may lead to a decrease in investor confidence, potentially weighing on the overall market and impacting stocks with high exposure to the region, such as companies with significant operations in the Middle East.",
-      "risks": [
-        "Increased military action and regional instability",
-        "Oil price volatility",
-        "Decreased investor confidence"
       ]
     }
   },
@@ -1060,6 +1083,29 @@
     }
   },
   {
+    "id": "7607688",
+    "headline": "Trump tells Britain he does not need its help to win Iran war - Reuters",
+    "summary": "Trump tells Britain he does not need its help to win Iran war  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ3Z1TGNwellYQ0FsdDBlZVh0UlpzMERhOGdqLWJpY3h1bXNJTFI3UElCLUhKeGhNMU15SjJJS1NnRlFmQnZXR29QX09rZUlWX3EtTFNCUlRrSWhxV1I5YmlvdGoxVUxteG9uY3NRVDF3dGpwcGduNUNZbW9SM1JmSGVfamY5cVdHb1pObEQycGZuR3NzS0VRdTU2N3BNX1BxSVV0RHRZbVZGY28?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1772978447,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772932341,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "US President Trump has stated that the US does not need the help of Britain to win a war with Iran. This news is not directly related to any specific company or industry, but it may have implications for the global geopolitical landscape. The statement is likely a response to recent tensions between the US and Iran, and may indicate a shift in US foreign policy. The news is neutral in tone, as it does not provide any new information about the likelihood of a war or the potential consequences. The statement is more of a rhetorical move, aimed at asserting US independence and confidence in its military capabilities.",
+      "impact": "The news may have a neutral impact on the stocks of defence contractors, as it does not provide any new information about the likelihood of a war or the potential demand for their products. However, if a war were to break out, it could lead to increased demand for defence-related stocks in the short term. In the medium term, the news may lead to increased tensions between the US and Iran, which could have a negative impact on the global economy and lead to a decline in investor sentiment.",
+      "risks": [
+        "Increased tensions between the US and Iran",
+        "Potential decline in investor sentiment",
+        "Negative impact on the global economy"
+      ]
+    }
+  },
+  {
     "id": "7610313",
     "headline": "I've studied over 200 kids—parents who raise emotionally intelligent kids regularly ask their children 9 questions",
     "summary": "Raising emotionally intelligent kids starts with everyday conversations at home, says child psychologist Reem Raouda, who has studied over 200 kids. Here are some questions parents can use to get started.",
@@ -1198,6 +1244,29 @@
     }
   },
   {
+    "id": "7609302",
+    "headline": "Israeli military says it will pursue every successor of Iran's Khamenei - Reuters",
+    "summary": "Israeli military says it will pursue every successor of Iran's Khamenei  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObTFiNXNVUGsxSnFpb0tuVzd5UDVsdW9HNWxFSUtpQmRxSjVmRHlmSzNwaXY1YTdfc09KTzFkQ3VxVE5felJCQ05uak5kOE5WXzlMRl9rbk50Rk9uVVhUdzV5Q3U3Y1FXcWxRaWswcjdiSU5JTWtzLUgzVHVWaHZVd1J1Smw3NFE0SXVnbUl5ekFHNmZEY0RYODROTTlLRkdwc2hSVGZIellMUW02VVBEZ0ptdVpPYkVRbC0wVlRn?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1772956020,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1772963928,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The Israeli military has announced that it will pursue every successor of Iran's Supreme Leader Ali Khamenei, escalating tensions between the two nations. This move is likely in response to Iran's recent nuclear activities and its support for militant groups in the region. The Iranian regime's instability and potential for regime change could lead to increased military action, which may impact regional oil production and prices. This, in turn, could affect oil-producing companies and related industries.",
+      "impact": "The escalation of tensions between Israel and Iran may lead to increased volatility in the oil market, potentially driving up oil prices in the short term. This could positively impact oil-producing companies such as Chevron (CVX) and ExxonMobil (XOM), but may also increase costs for airlines and other industries that rely heavily on oil. In the medium term, the heightened tensions may lead to a decrease in investor confidence, potentially weighing on the overall market and impacting stocks with high exposure to the region, such as companies with significant operations in the Middle East.",
+      "risks": [
+        "Increased military action and regional instability",
+        "Oil price volatility",
+        "Decreased investor confidence"
+      ]
+    }
+  },
+  {
     "id": "7609505",
     "headline": "Saudi extends rally on energy-led gains; Qatar slips - Reuters",
     "summary": "Saudi extends rally on energy-led gains; Qatar slips  Reuters",
@@ -1217,6 +1286,29 @@
         "geopolitical tensions between Saudi Arabia and Iran",
         "potential escalation of conflict in the region",
         "uncertainty surrounding the Saudi government's actions and their impact on the economy"
+      ]
+    }
+  },
+  {
+    "id": "7615086",
+    "headline": "Two Kuwaiti interior ministry officers killed 'while performing duties' - Reuters",
+    "summary": "Two Kuwaiti interior ministry officers killed 'while performing duties'  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWGo2ZlFoUlU4Y1lua21sU3MwUnZmWkJTZ0dHQmFSald4QXd1SHF4MDJZOGhBY19lWmNtV1luS2FCR3FXRUdlRTliS3dDSmlFVy11MDVkcmhCdVZZLXA1UFRrUEZFQ19ocnJOYXBTamZ5UTNmY083N0JURHdVWFlfY2I5MDZGVjhiNnlFWUJ2WWxaZ2VGRHpVSFY4TVd1VW40Tmx3UXNURjNJWjdvRUtZUEJ3eHRzSFk2UXNROHZ5RTlsRzQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1772954820,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773067433,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Two Kuwaiti interior ministry officers were killed while performing their duties, according to a Reuters report. The incident occurred in Kuwait, a country with a relatively stable economy and a strong government. The news does not directly impact any specific company or industry, but it may affect the overall sentiment towards Kuwaiti government and institutions. The incident is an isolated event and does not have any direct connection to the business fundamentals of companies listed in Kuwait.",
+      "impact": "The short-term impact of this news is likely to be minimal, as it does not directly affect any specific company or industry. However, it may lead to a temporary increase in volatility in the Kuwaiti stock market. The medium-term impact is also uncertain, but it may affect the overall sentiment towards Kuwaiti government and institutions, which could have a negative impact on the country's economy and, subsequently, the stocks listed in Kuwait.",
+      "risks": [
+        "geopolitical risk",
+        "reputational risk",
+        "economic instability risk"
       ]
     }
   },
@@ -1374,29 +1466,6 @@
         "continued escalation of US-Iran tensions",
         "fluctuations in global oil prices",
         "uncertainty in the Middle East region"
-      ]
-    }
-  },
-  {
-    "id": "7607688",
-    "headline": "Trump tells Britain he does not need its help to win Iran war - Reuters",
-    "summary": "Trump tells Britain he does not need its help to win Iran war  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ3Z1TGNwellYQ0FsdDBlZVh0UlpzMERhOGdqLWJpY3h1bXNJTFI3UElCLUhKeGhNMU15SjJJS1NnRlFmQnZXR29QX09rZUlWX3EtTFNCUlRrSWhxV1I5YmlvdGoxVUxteG9uY3NRVDF3dGpwcGduNUNZbW9SM1JmSGVfamY5cVdHb1pObEQycGZuR3NzS0VRdTU2N3BNX1BxSVV0RHRZbVZGY28?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1772924114,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772932341,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "US President Trump has stated that the US does not need the help of Britain to win a war with Iran. This news is not directly related to any specific company or industry, but it may have implications for the global geopolitical landscape. The statement is likely a response to recent tensions between the US and Iran, and may indicate a shift in US foreign policy. The news is neutral in tone, as it does not provide any new information about the likelihood of a war or the potential consequences. The statement is more of a rhetorical move, aimed at asserting US independence and confidence in its military capabilities.",
-      "impact": "The news may have a neutral impact on the stocks of defence contractors, as it does not provide any new information about the likelihood of a war or the potential demand for their products. However, if a war were to break out, it could lead to increased demand for defence-related stocks in the short term. In the medium term, the news may lead to increased tensions between the US and Iran, which could have a negative impact on the global economy and lead to a decline in investor sentiment.",
-      "risks": [
-        "Increased tensions between the US and Iran",
-        "Potential decline in investor sentiment",
-        "Negative impact on the global economy"
       ]
     }
   },
@@ -22680,75 +22749,6 @@
         "Lack of visibility into future demand",
         "Operational challenges in logistics and supply chain management",
         "Decreased investor confidence and sentiment"
-      ]
-    }
-  },
-  {
-    "id": "7577399",
-    "headline": "Figma’s stock soars as AI earnings momentum helps ease investors’ doubts",
-    "summary": "Figma’s revenue grew 40% in the fourth quarter as net dollar retention rate increased to 136%",
-    "url": "https://www.marketwatch.com/story/figmas-stock-soars-as-ai-earnings-momentum-helps-ease-investors-doubts-9f31e005",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1771450260,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1771452335,
-      "sentiment": "bullish",
-      "confidence": 0.85,
-      "summary": "Figma's fourth-quarter revenue growth of 40% has alleviated investors' concerns, driven by a 136% net dollar retention rate. This strong performance is largely attributed to the company's AI-powered design tools, which have gained traction in the market. Figma's ability to retain customers at such a high rate indicates a strong product-market fit and a loyal user base. The company's AI-driven earnings momentum is expected to continue driving growth in the coming quarters.",
-      "impact": "Figma's stock is likely to benefit from the improved earnings outlook, potentially leading to a short-term price increase. The company's strong revenue growth and high retention rate may also lead to a re-evaluation of its valuation, making it an attractive investment opportunity. In the medium term, Figma's AI-powered tools are expected to drive further growth, solidifying its position in the design software market.",
-      "risks": [
-        "Over-reliance on AI technology may lead to integration risks if the company fails to adapt to changing market trends",
-        "Increased competition from established design software providers",
-        "Potential regulatory scrutiny of AI-powered design tools"
-      ]
-    }
-  },
-  {
-    "id": "7577400",
-    "headline": "DoorDash users want more complex deliveries, and that’s hitting profits",
-    "summary": "DoorDash reported quarterly earnings on Wednesday, with profit beating expectations but sales missing the mark.",
-    "url": "https://www.marketwatch.com/story/doordash-users-want-more-complex-deliveries-and-thats-hitting-profits-60fa6b2d",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1771450200,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1771452381,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "DoorDash reported quarterly earnings that beat profit expectations but missed sales projections. The company's users are increasingly requesting complex deliveries, which is impacting profits. This trend is driven by consumers wanting more flexible and customized delivery options, such as same-day or early morning deliveries. As a result, DoorDash is incurring additional costs to accommodate these requests, thus affecting its profitability.",
-      "impact": "The news may lead to a short-term sell-off in DoorDash's stock as investors reassess the company's earnings outlook and valuation. The increased costs associated with complex deliveries may also lead to downward revisions in medium-term earnings estimates. This could result in a decrease in the stock's liquidity and sentiment, making it a less attractive investment opportunity.",
-      "risks": [
-        "Decreased profitability due to increased costs",
-        "Potential downward revisions in earnings estimates",
-        "Impact on liquidity and sentiment due to decreased investor confidence"
-      ]
-    }
-  },
-  {
-    "id": "7577396",
-    "headline": "Doordash falls 8% on lackluster fourth-quarter results",
-    "summary": "Investors have raised concerns over the company ambitious investing plans as it ramps up its artificial intelligence and autonomous tech",
-    "url": "https://www.cnbc.com/2026/02/18/doordash-dash-q4-2025-earnings.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108100569-1739280990634-gettyimages-2171598118-avdanksept24lot6m.jpeg?v=1771446523&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1771450134,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1771452431,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Doordash's fourth-quarter results fell short of expectations, with earnings per share coming in at 48 cents, missing the estimated 59 cents. The company's revenue also slightly missed estimates, while total orders and marketplace gross order value grew 32% and 39% year-over-year, respectively. Doordash's CEO emphasized the company's investments in new technology, including AI and autonomous delivery, which has raised concerns among investors. The company's guidance for the first quarter was also lackluster, with adjusted EBITDA expected to be between $675 million and $775 million, below the StreetAccount estimate of $802 million.",
-      "impact": "Doordash's stock price has already plummeted over 20% in 2026, and this news is likely to exacerbate the sell-off. The company's disappointing earnings and guidance may lead to a reevaluation of its valuation, potentially pushing the stock price lower. Investors' concerns over Doordash's ambitious investing plans may also weigh on the stock, at least in the short term. The company's high spending on AI and autonomous technology may be seen as a risk to its profitability and cash flow.",
-      "risks": [
-        "valuation risk",
-        "spending risk",
-        "integration risk"
       ]
     }
   }
