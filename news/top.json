@@ -1,5 +1,28 @@
 [
   {
+    "id": "7625532",
+    "headline": "Jim Cramer says Eli Lilly has checked the most important box as obesity pill approval looms",
+    "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+    "url": "https://www.cnbc.com/2026/03/11/jim-cramer-eli-lilly-has-checked-.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108230191-17637574202025-11-21t203348z_1528530032_rc231ianvoco_rtrmadp_0_usa-stocks.jpeg?v=1763757480&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1773247202,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773250564,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Jim Cramer's Investing Club is optimistic about Eli Lilly's (LLY) prospects due to the company's readiness to meet demand for its obesity pill, Zepbound, which is expected to be approved by the FDA soon. The club's analysts agree with Wolfe Research's bullish note, which raised the price target to $1,325. Cramer believes the market is overlooking this opportunity due to current market volatility, but he thinks Lilly's factories will be ready to meet the demand, giving the company a competitive edge over rival Novo Nordisk. CrowdStrike (CRWD) is also mentioned as a potential beneficiary of the growing AI security market, particularly with the rise of open-source AI agents.",
+      "impact": "The approval of Eli Lilly's obesity pill is expected to have a positive impact on the company's earnings and valuation, potentially driving the stock price up by 32% as per Wolfe Research's price target. CrowdStrike's stock may also benefit from the growing AI security market, with Cramer willing to pay up to $20 for the company's technology. The market's focus on inflation and the Strait of Hormuz uncertainty may be overshadowing the potential of these stocks, but Cramer's Investing Club is optimistic about their long-term prospects.",
+      "risks": [
+        "regulatory approval risk",
+        "market volatility risk",
+        "integration risk"
+      ]
+    }
+  },
+  {
     "id": "7625316",
     "headline": "We're buying the recent drop in a recession-resistant stock that started the year hot",
     "summary": "After sitting on our hands Tuesday and awaiting further developments in the Iran war, we are putting some money to work",
@@ -39,6 +62,29 @@
         "Increased input costs risk",
         "Food inflation risk",
         "Economic downturn risk"
+      ]
+    }
+  },
+  {
+    "id": "7625535",
+    "headline": "Trump tells Axios war in Iran will end soon, 'practically nothing left' to target - Reuters",
+    "summary": "Trump tells Axios war in Iran will end soon, 'practically nothing left' to target  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa2wzLUotdXpQZDBtTHFwc2hMdVNLcDhQeUliclZlUTZRSjBOLV9PZ1cwTHJkLU4tcG1LVkJ3cmZ3S2h6Z1cxcE1HdWsyVnc1YmZJRGVXSUI5dm8wRjNtYURlYU9IVGhhejBXRVJ0Mk9UUDZwcXd2ZGFVdWo2MDdvSEpab1hsN0xpb3NLeUUwazQ0Um5QUFF0YnJ2UmNoWld5eXBTamtVSVhnUjI5N1dNT3p1Sm9JakFwTE85Wl9sNkxacDF4?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1773238189,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773250616,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "US President Trump stated in an interview with Axios that the war in Iran will end soon, with 'practically nothing left' to target. This news suggests a potential de-escalation of tensions in the region, which could positively impact the global economy and markets. The background is that the US and Iran have been engaged in a prolonged conflict since the US withdrew from the Iran nuclear deal in 2018. If the war ends, it could lead to a decrease in oil prices, which in turn could boost consumer spending and economic growth. This could positively impact companies with exposure to the oil and gas industry, as well as those with a high correlation with the overall market.",
+      "impact": "The news could lead to a short-term rally in stocks with exposure to the oil and gas industry, such as energy companies, as well as those with a high correlation with the overall market. In the medium term, a decrease in oil prices could boost consumer spending and economic growth, leading to a positive impact on companies with a high exposure to consumer staples and discretionary sectors. However, there is also a risk of a potential short-term market correction if the news is seen as a surprise and leads to a sudden increase in investor risk appetite.",
+      "risks": [
+        "Risk of market correction if investors react negatively to the news",
+        "Uncertainty around the timing and duration of the conflict's end",
+        "Potential for oil prices to rebound if the conflict escalates again"
       ]
     }
   },
@@ -206,13 +252,26 @@
   },
   {
     "id": "7625317",
-    "headline": "US consumer prices increase moderately before Iran conflict - Reuters",
-    "summary": "US consumer prices increase moderately before Iran conflict  Reuters",
+    "headline": "US consumer inflation steady before Iran conflict drives up oil prices - Reuters",
+    "summary": "US consumer inflation steady before Iran conflict drives up oil prices  Reuters",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeUR4eXhrUGpicGl5LTRPREozUURKYXY0MUVaOUtCaE1TZFVUd0lsT1IySUpEaWxsSUw2LWl0NXZmc05nUnJIcTZ5NjZnR0l3WmFPYTBYRTdqSDg5NkQ0alVKVUs3WmNwaWkydVVtMExFWnpwQ1V1WV8yTVJtQ1dBT2NhcjFSMTZmQXF2MnBXclY2TTJs?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1773232698
+    "publishedAt": 1773232698,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773250664,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "US consumer inflation remained steady, but the ongoing tensions between the US and Iran have driven up oil prices. The inflation data is a positive sign for the US economy, indicating that the Federal Reserve may not need to raise interest rates in the near future. However, the increase in oil prices, which is largely driven by the Iran conflict, could have a negative impact on the US economy and consumer spending. The oil price increase may also lead to higher production costs for companies in the energy sector, which could negatively impact their earnings.",
+      "impact": "The increase in oil prices may lead to higher production costs for energy companies, potentially negatively impacting their earnings. This could also lead to higher fuel prices, which may negatively impact consumer spending and overall economic growth. In the short term, energy stocks may experience a decline in value due to the increase in oil prices. However, in the medium term, a prolonged conflict in the Middle East could lead to a sustained increase in oil prices, which may benefit energy companies with a strong balance sheet and diversified operations.",
+      "risks": [
+        "Oil price volatility risk",
+        "Economic growth slowdown risk",
+        "Higher production costs risk"
+      ]
+    }
   },
   {
     "id": "7624772",
@@ -678,7 +737,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1773208740,
+    "publishedAt": 1773208780,
     "analysis": {
       "version": 2,
       "generatedAt": 1773228199,
@@ -810,8 +869,8 @@
   },
   {
     "id": "7622934",
-    "headline": "Iran tells world to get ready for $200 a barrel - Reuters",
-    "summary": "Iran tells world to get ready for $200 a barrel  Reuters",
+    "headline": "Iran tells world to get ready for oil at $200 a barrel as it fires on merchant ships - Reuters",
+    "summary": "Iran tells world to get ready for oil at $200 a barrel as it fires on merchant ships  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOemwxVjdIUW9kR3Q1c3p3SlhVT3J0X1pMSUdBYnJSNW1oM0dSUy1fVFVIVkc3QUJ4U0w1LU1vbjlwaTM1TEtBNFJsWkU1YmQwWk5SUVZDZ0szZjF2VVN6VzFlMUYyam9BWVViZ0tFbXgxMWs0SXRnUGFFb1dLSC1GcXBwZ1UwMTdIelp0cllUeUVqc1hDWkU0YUNrVVlPRjYyVnNLOTFQdkR5aGpQSlZKdVp1enNPTFUzYVZ6TFBtYTN6UQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -899,8 +958,8 @@
   },
   {
     "id": "7624213",
-    "headline": "IEA proposes record release of strategic stocks in response to Iran war oil price surge - Reuters",
-    "summary": "IEA proposes record release of strategic stocks in response to Iran war oil price surge  Reuters",
+    "headline": "IEA announces record release of strategic stocks in response to Iran war oil price surge - Reuters",
+    "summary": "IEA announces record release of strategic stocks in response to Iran war oil price surge  Reuters",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSUpKLXZCSmJRcEEtZ3VPVFZITGFfNkRHaVVnRV9YTjNyUUFhZ1lwbk10TnhlV284ZUZKWmFBbWpyNUFyYTZ3QWFsNEU0NEMwLW1RNmx3MUwxQ1FHN01hbjd3RnpVVU93SUdVblpSa0QtLWRRbjRwUmpFVVp4emNVY2xUUUNWRVdkcEFTdVd0WDllanBzUTBSZHdMZTlfakMwQXNuMHcyTVlaWmRnUUExNTlOajN0VVVFdmp6ZQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -22705,52 +22764,6 @@
         "market volatility risk",
         "economic downturn risk",
         "interest rate hike risk"
-      ]
-    }
-  },
-  {
-    "id": "7578468",
-    "headline": "IBM’s stock heads for worst month in 34 years — and Anthropic is partly to blame",
-    "summary": "IBM’s stock ended Monday down 13% as Anthropic’s Claude Code threatens to dismantle a critical part of its business.",
-    "url": "https://www.marketwatch.com/story/ibms-stock-heads-for-worst-month-in-34-years-and-anthropic-is-partly-to-blame-cfef2c5f",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1771885860,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1771889047,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "IBM's stock is experiencing its worst month in 34 years due to the emergence of Anthropic's Claude Code, a powerful AI model that threatens to disrupt a critical part of IBM's business. IBM's Watson AI platform, which generates revenue through AI-powered services, is vulnerable to Claude's capabilities. This poses a significant threat to IBM's earnings outlook as the company's ability to compete in the AI market is called into question. The news has led to a sharp decline in IBM's stock price, with a 13% drop on Monday.",
-      "impact": "The potential impact on IBM's stock is significant, with a short-term decline in price likely to continue as investors reassess the company's competitive position in the AI market. Medium-term, IBM's earnings outlook may be negatively affected as the company struggles to adapt to the emergence of more powerful AI models like Claude. The disruption to IBM's Watson AI platform could also lead to a decline in investor sentiment, further pressuring the stock price.",
-      "risks": [
-        "disruption risk to IBM's Watson AI platform",
-        "earnings decline risk due to loss of market share",
-        "sentiment risk as investors reassess IBM's competitive position"
-      ]
-    }
-  },
-  {
-    "id": "7578463",
-    "headline": "Here’s what airlines, hotels and Airbnb actually owe travelers stranded in Mexico",
-    "summary": "U.S. airlines canceled flights to and from the Mexican cities of Puerto Vallarta and Guadalajara on Monday amid cartel-related violence over the weekend, leaving tourists stranded.",
-    "url": "https://www.marketwatch.com/story/heres-what-airlines-hotels-and-airbnb-actually-owe-travelers-stranded-in-mexico-51655025",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1771883700,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1771885640,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "US airlines canceled flights to and from Puerto Vallarta and Guadalajara due to cartel-related violence, stranding tourists. This disruption is likely a temporary issue, but it may impact airlines' operational efficiency and customer satisfaction in the short term. The incident highlights the ongoing security concerns in Mexico, which could affect travel demand and airline earnings. Airlines may need to adjust their routes and schedules to minimize future disruptions.",
-      "impact": "The cancellation of flights may lead to short-term earnings pressure for airlines operating in the region, such as American Airlines (AAL) and Delta Air Lines (DAL). The incident may also impact hotel and Airbnb bookings in affected areas, potentially affecting companies like Hilton Worldwide (HLT) and Airbnb Inc. (ABNB). In the medium term, the incident may influence travel demand and airline earnings, particularly if security concerns persist.",
-      "risks": [
-        "short-term earnings pressure for airlines operating in the region",
-        "potential decline in hotel and Airbnb bookings",
-        "long-term impact on travel demand due to security concerns"
       ]
     }
   }
