@@ -1,5 +1,51 @@
 [
   {
+    "id": "7629290",
+    "headline": "India’s consumer inflation rises to 3.2% in February as oil risks loom",
+    "summary": "India's inflation for February is within central bank's comfort level range but policy action is unlikely due to rising global energy prices",
+    "url": "https://www.cnbc.com/2026/03/12/india-february-inflation-cpi-oil-hormuz-risk.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108277022-1773288990985-gettyimages-2265445359-talukdar-higherfu260311_npCvr.jpeg?v=1773289099&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1773312074,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773314526,
+      "sentiment": "neutral",
+      "confidence": 0.8,
+      "summary": "India's consumer inflation rose to 3.21% in February, in line with expectations, driven by a 3.47% increase in food inflation. The central bank's target range of 2-6% is still within reach, but the escalating conflict in the Middle East and subsequent oil price increases may curb the Reserve Bank of India's dovishness. The change in the base year for the consumer price index to 2024 from 2012 reflects significant structural changes in consumption patterns. The looming energy crisis, with 30% of India's crude oil supplies and 90% of LPG imports transiting through the Strait of Hormuz, threatens India's supply of crude oil and liquefied petroleum gas.",
+      "impact": "The potential impact on the related stocks is neutral in the short term, as inflation remains within the central bank's target range. However, the escalating conflict in the Middle East and subsequent oil price increases may lead to higher input costs for companies, potentially affecting their earnings outlook. This may result in a reevaluation of the sector's valuation, particularly for companies with high oil exposure. In the medium term, the impact on the Indian economy and the related stocks will depend on the duration and severity of the conflict and its effects on oil prices.",
+      "risks": [
+        "Escalating conflict in the Middle East and its impact on oil prices",
+        "Potential disruption to crude oil and LPG supplies",
+        "Increased input costs for companies with high oil exposure"
+      ]
+    }
+  },
+  {
+    "id": "7629289",
+    "headline": "Why gold hasn’t moved since the Iran conflict — and where it could go next",
+    "summary": "Though the war in Iran has continued for almost two weeks, the price of the yellow metal has barely moved.",
+    "url": "https://www.cnbc.com/2026/03/12/gold-iran-conflict-where-next-markets.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108275813-1773112343136-gettyimages-135929357-25fe3659-2928-40c9-9894-209f0202a474.jpeg?v=1773227103&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1773310749,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773314575,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "Gold prices have remained relatively stable despite the ongoing Iran conflict, which has sparked concerns about global instability and a potential surge in demand for safe-haven assets. However, the price of gold has been influenced by a stronger US dollar and higher Treasury yields, which have reduced its appeal as a safe-haven asset. Additionally, some institutional investors have become nervous about holding bullion due to its recent volatility. As a result, gold prices have traded between $5,050 and $5,200 over the past week, with no significant upward momentum. Bank forecasts remain bullish, with J.P. Morgan predicting prices will reach $6,300 per ounce by the end of 2026.",
+      "impact": "The stable gold prices may have a neutral impact on related stocks in the short term, as the lack of upward momentum may not lead to significant changes in investor sentiment or earnings outlook. However, the ongoing conflict in Iran and its potential impact on global oil prices and inflation may lead to increased volatility in the medium term, which could affect the valuation and liquidity of related stocks. The stability of gold prices may also reduce the appeal of precious metal miners and related companies, potentially leading to a decline in their stock prices.",
+      "risks": [
+        "Increased oil prices and inflation risk",
+        "Higher interest rates risk",
+        "Volatility risk in the precious metals market"
+      ]
+    }
+  },
+  {
     "id": "7628978",
     "headline": "Is Europe's gas demand recovery derailed or just dented by Iran crisis? - Reuters",
     "summary": "Is Europe's gas demand recovery derailed or just dented by Iran crisis?  Reuters",
@@ -7,7 +53,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1773295980
+    "publishedAt": 1773295980,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773314622,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "Europe's gas demand recovery is being impacted by the Iran crisis, but it's unclear whether the demand has been derailed or just dented. The crisis has led to a surge in gas prices, making it more expensive for European countries to import gas from other regions. This has resulted in a decrease in gas demand, particularly in countries that rely heavily on imported gas. The European Union has been seeking to reduce its dependence on Russian gas, but the Iran crisis has created a new challenge in achieving this goal.",
+      "impact": "The Iran crisis is likely to have a short-term impact on gas prices and demand, which could lead to a decrease in earnings for companies that rely heavily on gas imports. This could also lead to a decrease in investor sentiment and a potential increase in volatility in the short term. However, in the medium term, the crisis could lead to a shift in the global gas market, with European countries seeking alternative suppliers, which could create opportunities for companies that can provide alternative gas sources.",
+      "risks": [
+        "Short-term volatility in gas prices and demand",
+        "Decrease in investor sentiment",
+        "Shift in global gas market dynamics"
+      ]
+    }
   },
   {
     "id": "7628457",
@@ -104,8 +163,8 @@
   },
   {
     "id": "7628039",
-    "headline": "Oil climbs as Iran steps up attacks on Gulf shipping - Reuters",
-    "summary": "Oil climbs as Iran steps up attacks on Gulf shipping  Reuters",
+    "headline": "Oil jumps 6% as Iran escalates attacks on Gulf shipping - Reuters",
+    "summary": "Oil jumps 6% as Iran escalates attacks on Gulf shipping  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObUlmTHZTREdweklZWFUzeEp0dzFUbk56bWVQQ3hWY0IzWDlZN0JzUllPUmJyd3U2RVZVUHQ3SE5DcFBSZmVNYlljWEJYTVpRTlVISVFKTWoyR2Z2aEVrQ0dVU3RKc1lhay1QWG5TVlltdHB1YVFRNHFpemRxalFyRk56andqamRBVHBJVmwwZTFkcDh4c1NuNFloakZRX2xHSnlyRTgxbkVycVVTUjBWS0pyV0pmMjVW?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -828,6 +887,29 @@
         "Supply chain disruption risk",
         "Oil price volatility risk",
         "Investor sentiment risk"
+      ]
+    }
+  },
+  {
+    "id": "7622723",
+    "headline": "Iranian women's soccer squad member changes mind on Australia asylum offer, to return home - Reuters",
+    "summary": "Iranian women's soccer squad member changes mind on Australia asylum offer, to return home  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYWZvVFdtRnprOXMwMzVVMTdDY0Vsc0lYZ2N6V3h2RG1YalVwQXQxdlNKYTVXckJhMDlfWkpTU2wwU0Jzeld6OFNkMjRGaDBXVy1VX3lFV0NnOUJmaHFueVRkRERXYW03XzV4YUJHTzY2OUdpLUdnVXE2Znl4X2JScXJiUlB4ZHNRTE1FTnRNSnZCMDJLSHMwWU10WHJ4UVNqeXpDOG1B?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1773236714,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773205762,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Australia has granted asylum to two more members of the Iranian women's soccer delegation, adding to the growing number of Iranian athletes seeking refuge in the country. This development follows a recent trend of Iranian athletes defecting to Australia, citing concerns for their safety and freedom. The Iranian government has been criticized for its human rights record, particularly regarding women's rights and freedom of expression. The asylum seekers are likely to be granted permanent residency in Australia, allowing them to live and work in the country without fear of persecution. This news is unlikely to have a direct impact on the business fundamentals of any specific company, but it may contribute to a more positive sentiment towards Australia as a destination for international talent and investment.",
+      "impact": "The news is unlikely to have a significant impact on the Australian economy or the stocks of companies listed on the Australian Securities Exchange (ASX). However, it may contribute to a more positive sentiment towards Australia as a destination for international talent and investment, which could have a positive impact on the country's economic growth and the stocks of companies with exposure to the tourism and hospitality industries. In the short term, the news may lead to increased media attention and public interest in Australia's asylum policies, which could have a positive impact on the stocks of companies that benefit from increased tourism and investment.",
+      "risks": [
+        "Increased scrutiny of Australia's asylum policies and potential backlash from the Iranian government",
+        "Potential impact on Australia's relationship with Iran and the broader region",
+        "Unpredictable consequences for the asylum seekers and their families"
       ]
     }
   },
@@ -1849,7 +1931,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1773199860,
+    "publishedAt": 1773199867,
     "analysis": {
       "version": 2,
       "generatedAt": 1773205621,
@@ -1970,29 +2052,6 @@
       "summary": "Japan's wholesale inflation has cooled, which is a positive development for the country's economy. However, the ongoing tensions between the US and Iran, which could lead to an oil shock, threatens to derail this trend. The potential disruption to global oil supplies could lead to higher energy prices, which would have a negative impact on Japan's economy and its companies. This, in turn, could lead to a rebound in inflation, which would be a concern for investors.",
       "impact": "The potential oil shock from the Iran war could lead to a short-term increase in energy prices, which would negatively impact Japan's economy and its companies. This could lead to a rebound in inflation, which would be a concern for investors. In the medium-term, the increased energy costs could also lead to a decline in earnings for companies that rely heavily on energy, such as airlines and transportation companies. This could also lead to a decline in investor sentiment, making the stock market more volatile.",
       "risks": []
-    }
-  },
-  {
-    "id": "7622723",
-    "headline": "Iranian women's soccer squad member changes mind on Australia asylum offer, to return home - Reuters",
-    "summary": "Iranian women's soccer squad member changes mind on Australia asylum offer, to return home  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYWZvVFdtRnprOXMwMzVVMTdDY0Vsc0lYZ2N6V3h2RG1YalVwQXQxdlNKYTVXckJhMDlfWkpTU2wwU0Jzeld6OFNkMjRGaDBXVy1VX3lFV0NnOUJmaHFueVRkRERXYW03XzV4YUJHTzY2OUdpLUdnVXE2Znl4X2JScXJiUlB4ZHNRTE1FTnRNSnZCMDJLSHMwWU10WHJ4UVNqeXpDOG1B?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1773185417,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1773205762,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Australia has granted asylum to two more members of the Iranian women's soccer delegation, adding to the growing number of Iranian athletes seeking refuge in the country. This development follows a recent trend of Iranian athletes defecting to Australia, citing concerns for their safety and freedom. The Iranian government has been criticized for its human rights record, particularly regarding women's rights and freedom of expression. The asylum seekers are likely to be granted permanent residency in Australia, allowing them to live and work in the country without fear of persecution. This news is unlikely to have a direct impact on the business fundamentals of any specific company, but it may contribute to a more positive sentiment towards Australia as a destination for international talent and investment.",
-      "impact": "The news is unlikely to have a significant impact on the Australian economy or the stocks of companies listed on the Australian Securities Exchange (ASX). However, it may contribute to a more positive sentiment towards Australia as a destination for international talent and investment, which could have a positive impact on the country's economic growth and the stocks of companies with exposure to the tourism and hospitality industries. In the short term, the news may lead to increased media attention and public interest in Australia's asylum policies, which could have a positive impact on the stocks of companies that benefit from increased tourism and investment.",
-      "risks": [
-        "Increased scrutiny of Australia's asylum policies and potential backlash from the Iranian government",
-        "Potential impact on Australia's relationship with Iran and the broader region",
-        "Unpredictable consequences for the asylum seekers and their families"
-      ]
     }
   },
   {
@@ -22714,52 +22773,6 @@
         "execution risk: Spirit Airlines' ability to successfully execute its new strategy and expand its customer base",
         "industry competition risk: the airline industry is highly competitive, and Spirit Airlines may struggle to differentiate itself from its competitors",
         "macroeconomic risk: changes in economic conditions, such as a recession, could impact demand for air travel"
-      ]
-    }
-  },
-  {
-    "id": "7578758",
-    "headline": "Financial stocks are off to their worst yearly start in a decade. How to spot value.",
-    "summary": "A screen of the S&P 500 financial sector highlights companies with high returns on equity that are trading at low P/E valuations.",
-    "url": "https://www.marketwatch.com/story/financial-stocks-are-off-to-their-worst-yearly-start-in-a-decade-how-to-spot-value-9a0b5faf",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1771955640,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1771958416,
-      "sentiment": "bullish",
-      "confidence": 0.7,
-      "summary": "Financial stocks are experiencing their worst yearly start in a decade, but a screen of the S&P 500 financial sector highlights companies with high returns on equity trading at low P/E valuations. This suggests that some financial stocks may be undervalued and poised for a rebound. A high return on equity indicates a company's ability to generate profits from shareholders' equity, which can be a strong indicator of a company's financial health. This, combined with low P/E valuations, may signal that these stocks are due for a price correction and potential long-term growth.",
-      "impact": "The news may have a positive impact on financial stocks that are trading at low valuations, as investors may view them as undervalued opportunities. This could lead to a short-term increase in stock prices as investors buy into these companies, potentially driving a rebound in the sector. However, the overall bearish sentiment in the financial sector may persist in the medium term, making it essential for investors to carefully evaluate individual stocks and their fundamentals before making investment decisions.",
-      "risks": [
-        "valuation risk: investors may be overly optimistic about the rebound, leading to overvaluation",
-        "earnings risk: companies with high returns on equity may experience a decline in earnings if interest rates rise or loan demand slows",
-        "sector risk: the financial sector may continue to face regulatory challenges and macroeconomic headwinds"
-      ]
-    }
-  },
-  {
-    "id": "7578790",
-    "headline": "These are the fastest-growing skills in the U.S., according to LinkedIn: They're 'career currency'",
-    "summary": "LinkedIn's 2026 Skills on the Rise list identifies the fastest-growing skills in the U.S.",
-    "url": "https://www.cnbc.com/2026/02/24/the-fastest-growing-skills-in-the-us-according-to-linkedin-theyre-career-currency.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108193801-1756918142319-gettyimages-2187465701-2810of24.jpeg?v=1771946709&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1771955048,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1771974573,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "LinkedIn's 2026 Skills on the Rise list highlights the fastest-growing skills in the US, with a focus on AI, operational efficiency, and human-centric skills. The list was determined by analyzing year-over-year growth in skill acquisition and hiring success. This indicates a shift in the job market, with employers valuing skills over job titles or degrees. The report suggests that skills are becoming 'career currency' and will determine who gets hired, promoted, or tapped for new projects.",
-      "impact": "The growing demand for AI skills, operational efficiency, and human-centric skills may lead to increased demand for companies that provide training and education in these areas. This could positively impact companies like Coursera (COUR) and Udemy (private), which offer online learning platforms. Additionally, companies that specialize in AI development, such as NVIDIA (NVDA) and Alphabet's (GOOGL) Google Cloud, may also benefit from the growing demand for AI skills.",
-      "risks": [
-        "The impact of the growing demand for AI skills may be limited to specific industries or job roles, potentially leaving some companies unaffected.",
-        "The shift in the job market may lead to increased competition for skilled workers, potentially driving up labor costs and impacting profitability.",
-        "The report's focus on human-centric skills may not be directly impactful on the stock market, as these skills are more related to individual development rather than company performance."
       ]
     }
   }
