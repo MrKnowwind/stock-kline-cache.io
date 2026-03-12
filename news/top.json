@@ -1,5 +1,52 @@
 [
   {
+    "id": "7629758",
+    "headline": "Amid Middle East conflict and new tax incentives, more family offices look to Hong Kong",
+    "summary": "Hong Kong's latest proposed incentives for family offices include tax breaks on gold and bitcoin.",
+    "url": "https://www.cnbc.com/2026/03/12/middle-east-conflict-new-tax-breaks-family-offices-hong-kong.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108276858-1773258822094-gettyimages-2201281969-pano00051.jpeg?v=1773258860&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1773320402,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773326019,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Hong Kong is offering new tax incentives to family offices, including tax breaks on gold and bitcoin, in an effort to attract wealthy individuals and businesses back to the region. This move comes as the Middle East conflict is affecting Dubai's safe-haven image. The new incentives are modeled after those of Singapore, which has seen a surge in family offices since 2020. The Hong Kong government aims to submit the legislation by June, and the proposals are seen as incremental changes to attract businesses.",
+      "impact": "The new tax incentives may attract more family offices to Hong Kong, potentially increasing liquidity and sentiment for Hong Kong-based stocks. This could be a positive for the Hong Kong economy and its financial sector, particularly for companies that provide services to family offices, such as law firms and consulting firms. However, the impact may be limited by the fact that some clients may still prefer Singapore due to its political neutrality and tax-friendly regime.",
+      "risks": [
+        "Regulatory approval risk",
+        "Dependence on China's economic growth",
+        "Competition from Singapore's established family office ecosystem"
+      ]
+    }
+  },
+  {
+    "id": "7629757",
+    "headline": "Jim Cramer's top 10 things to watch in the stock market Thursday",
+    "summary": "Oil prices are rallying despite a major release of strategic crude stockpiles.",
+    "url": "https://www.cnbc.com/2026/03/12/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108276880-1773261450125-gettyimages-1434807692-dji_fly_20221019_134422_386_1666206190546_photo_5e0f92b0-3cd.jpeg?v=1773261487&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1773320340,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773326069,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "The market is reacting to a series of news stories, including a major release of oil from emergency reserves, which is driving up oil prices and pressuring stock futures. Atlassian is laying off 10% of its workforce to invest in AI and enterprise sales, which may be a sign of trouble for the traditional software model. Stryker was hit by a cyberattack that may be linked to an Iranian hacking group, and Eli Lilly is warning about copycat GLP-1s that may be contaminated. Meanwhile, Dick's Sporting Goods delivered a strong earnings report, but its profit outlook is weak.",
+      "impact": "The rising oil prices could lead to higher input costs for companies like Stryker, which may impact its earnings. The cyberattack on Stryker and potential copycat GLP-1s may also weigh on the company's stock. On the other hand, Dick's Sporting Goods' strong earnings report may be a positive for the retail sector, but its weak profit outlook could be a concern. The overall market sentiment is bearish due to the uncertainty surrounding the Iran conflict and its impact on oil prices.",
+      "risks": [
+        "Oil price volatility risk",
+        "Cybersecurity risk",
+        "Contamination risk for copycat GLP-1s",
+        "Weak profit outlook for Dick's Sporting Goods"
+      ]
+    }
+  },
+  {
     "id": "7629749",
     "headline": "Jobless claims show sluggish but stable labor market",
     "summary": "",
@@ -19,6 +66,29 @@
         "inflation risk",
         "interest rate risk",
         "economic slowdown risk"
+      ]
+    }
+  },
+  {
+    "id": "7629995",
+    "headline": "Bombing won't overthrow ruling clerics, Iran dissidents say - Reuters",
+    "summary": "Bombing won't overthrow ruling clerics, Iran dissidents say  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcndiSkVRbjJGTTdwSFpvOUtwODA4OVJjQ0pmbGI2V1k0YllRclNIUEFoTkVSYVR3aHlwMXl0bkFmaVdySkM1YnJ6WjNWNzhva1Rwc0YzYzNGSWtKcmUySVVleDFBOGxjUnJuRzZSOTBXWThFMngwQmhka2VUV29Na2pNMUg0dHdkanQ0U1NVWVlYYlhQT1pXU1JRU0lfY3N3ZmIyWXliNkdNcktKWVphUQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1773319361,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773326115,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Iran dissidents have stated that a bombing will not overthrow the ruling clerics, indicating a continued stable political environment in Iran. This news has no direct impact on the global economy or specific industries, but it does suggest that the current government will remain in power. The dissidents' statement is a key development in understanding the political landscape of Iran, which may influence the country's economic policies and decisions. The news does not provide any information on the business fundamentals of specific companies, but it may have a medium-term impact on the overall market sentiment towards Iranian stocks.",
+      "impact": "The news is unlikely to have a significant impact on the stock market in the short term, but it may lead to a more stable and predictable economic environment in Iran, which could be positive for companies operating in the country. However, this news does not provide any specific insights into the business fundamentals of companies, and investors should focus on other factors such as earnings outlook, valuation, and liquidity when making investment decisions.",
+      "risks": [
+        "continued instability in the Middle East",
+        "potential for future protests or unrest",
+        "impact on oil prices and global energy markets"
       ]
     }
   },
@@ -46,6 +116,62 @@
     }
   },
   {
+    "id": "7629885",
+    "headline": "Poland says foiled cyberattack on nuclear centre may have come from Iran - Reuters",
+    "summary": "Poland says foiled cyberattack on nuclear centre may have come from Iran  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYnhnVkF1My1SQkt1UDRJRjE0MTRIb21mdmRrSG42RGs0M2lRaGVSWm5YMjBLN01Nc0VIZWliZFNtdHFSZDhsWUJFSTAxOVdBRUpOaG1aMjdBRnVEU1lkZVhfZ0JjQ3I5Z3Jya210NEJIRENSUHZEdXB1NHVCNVM5TXo2OTZxd3RLbTJPLW9WV0x1U19EeVRocHNYd0x3VllCUEQxZkF4ZnFSZw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1773312938,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773326161,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Poland's nuclear centre was targeted in a foiled cyberattack, which may have originated from Iran. The incident highlights the growing threat of cyberattacks on critical infrastructure, particularly in the energy and defense sectors. This development is a reminder of the increasing importance of cybersecurity measures for companies operating in these areas. The incident does not directly impact any specific stock, but it underscores the need for companies to invest in robust cybersecurity protocols to mitigate potential risks.",
+      "impact": "The potential impact of this incident on the stock market is limited, but it may lead to increased scrutiny of companies' cybersecurity measures. This could result in higher short-term costs for companies to upgrade their cybersecurity protocols, potentially affecting their earnings outlook. In the medium term, the increased focus on cybersecurity may lead to higher valuations for companies that have invested in robust cybersecurity measures, particularly in the energy and defense sectors.",
+      "risks": [
+        "increased regulatory scrutiny",
+        "higher cybersecurity costs",
+        "valuation risk for companies with inadequate cybersecurity measures"
+      ]
+    }
+  },
+  {
+    "id": "7629773",
+    "headline": "Israeli military says it targeted site used in Iran's nuclear programme - Reuters",
+    "summary": "Israeli military says it targeted site used in Iran's nuclear programme  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOW4xbURhdldGcWJPV0cwZ3d2MWl1TlhmSG4zWnpPd0s1dWd6LVJxdzNsbWtPU2NBejZLNzVrTjZ5Nk41XzdnMTNjNk9sMmdWT2ZMeWIydTUtZjVZSkVESUpJZjJtSGhMYWU0VzZGNWg3QkVIb21zN0VtNVBkMGV5WXVtTGVRYUxuY1lJWHVOd1JlbFVQMWZINEpDeVpmOHhPZDhQWG84VWFUVnZ0cXFkYlFkalZWVjczM25UeHFB?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1773312821,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773326208,
+      "sentiment": "bullish",
+      "confidence": 0.7,
+      "summary": "The Israeli military has targeted a site allegedly used in Iran's nuclear program, escalating tensions in the region. This development is a significant escalation in the ongoing conflict between Israel and Iran. The targeted site is believed to be involved in Iran's nuclear activities, which has been a point of contention between the two countries. This news is likely to increase tensions in the Middle East, potentially leading to a rise in military spending and defense-related activities. The news may also have implications for global oil prices, as Iran is a significant oil producer.",
+      "impact": "The news is likely to be bullish for defense contractors and companies involved in the production of military equipment, such as Lockheed Martin (LMT) and Boeing (BA). The increased tensions in the region may lead to a rise in defense spending, benefiting these companies. In the short term, we may see a surge in trading volume and volatility in these stocks. Medium-term, the increased demand for defense equipment may lead to higher earnings for these companies.",
+      "risks": [
+        "Escalation of conflict leading to increased uncertainty and volatility",
+        "Potential for oil price spikes, impacting global economic growth",
+        "Increased military spending may lead to inflationary pressures"
+      ]
+    }
+  },
+  {
+    "id": "7629772",
+    "headline": "Up to 3.2 million people displaced inside Iran by conflict, UN says - Reuters",
+    "summary": "Up to 3.2 million people displaced inside Iran by conflict, UN says  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdjRIdk1HbGRkVzZOR2ltdlcyU3R5TnBwSjJJbUFpMXc5NTZCQ0szSzZiTGpsVjZFejk5TTlKRWdheEJjQUlQVUx4ZnBYb1AyTEpxbVdCSWh2YmdKMjJmQl94QmZXMDJEZF9SOTUxaXdDR0pKTGh5ZEk1Wkk3VC1taVEzdTg3Mnd6SHgxQWFoR2N4SFZUejlmRWQ5RnF5bGZWZ3NvTFFWYXFpaTRuNEc4cmtBcnR6VzA?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1773312746
+  },
+  {
     "id": "7629290",
     "headline": "India’s consumer inflation rises to 3.2% in February as oil risks loom",
     "summary": "India's inflation for February is within central bank's comfort level range but policy action is unlikely due to rising global energy prices",
@@ -67,6 +193,16 @@
         "Increased input costs for companies with high oil exposure"
       ]
     }
+  },
+  {
+    "id": "7629771",
+    "headline": "Russia's Rosatom says it will stay in Iran despite war - Reuters",
+    "summary": "Russia's Rosatom says it will stay in Iran despite war  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNDJlc2hQSjg1WDJ5R3dfTkxmQm9MTHZKaXY4VW9zRzIxbkNLWThaVUZSN0tpWm9IdEN3T2hUdXczaUpLSkFlQzF6N3NqcXJHWjVxV0wzLWp3MEJrTmZZcTN0bVZZbFJlYVVOSGtwX1BNME1rdnhqSkdPdnl6T1FLSm0wc1RRMnZCVFlzcTZ3c0hsMkpKZlJYZ1N3ZGZrN1ZoeFMzbWVQWQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1773310766
   },
   {
     "id": "7629289",
@@ -125,6 +261,46 @@
     "publishedAt": 1773306235
   },
   {
+    "id": "7629997",
+    "headline": "Citi shuts most UAE branches temporarily as banks evacuate offices in region - Reuters",
+    "summary": "Citi shuts most UAE branches temporarily as banks evacuate offices in region  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObjlWWmN3TEJtSFhRdVlZY2tjVzNyM1Y5ajBGSnVrazNBX0F1VGdRdGgtQm9fcEJDUGY1RVUzdmUzUnd6YVZjRWNDZUxzc0p2Wk9CRGNGQ3BDSTR4ei04eTlJdU9UX0JlYVZ5YXNyclMtTjV3Ul9YTl96cXU1cHpIRnB2cnN4ZFJEZzY4Y2hOV2M0MlNWMS1vcDF2Vk11R1gtM0RZYm1sTjQ1bjQzMHktOHFlVUlmT3c?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1773303595
+  },
+  {
+    "id": "7629769",
+    "headline": "Iran war may embolden BOJ's hawkish push, despite growth risks - Reuters",
+    "summary": "Iran war may embolden BOJ's hawkish push, despite growth risks  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObmFqM3djLUkyalctSXBveDJfaExaaUs3Rl9WR2xVejM2eUxpaVpPbncxaU9nYlFGd0FxMm9vU0FKRTIxODZDZkFLQzIzaXBoeF91ODFmdWtraUstaFNmc0NQczlOU2FHWG1KODhSbW1OdWJuSDN4dGExM0JPaUpmRzFPV19rWGc3MDQxbnl0TjVyRGNmcjFmVEQtUW5ZMXE0REoxYXVmTk8ydXJUMjR0Y19IZkxvZw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1773300087
+  },
+  {
+    "id": "7629996",
+    "headline": "Iran oil shock prompts ECB hawks to seek 2021/22 rematch - Reuters",
+    "summary": "Iran oil shock prompts ECB hawks to seek 2021/22 rematch  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ1F3andQMEVaOUcyeGhhTUhMdUZ0bmpaQURxaFdSbzJYYXVZZXJpUERYY3Z5UU80SUthRlhJQk8zTkR3NFhJZU81WkFuTGpFV2NFR001U0ZFTzRaaDNWa0w1djVsUGo5cV8ybGFsNnFCVzVwajRqTUZsbDlVN2xScWFSekZxejZxRnNkWWdaNThBRTFCU3l6LW0wdlQ1RlhQSUpDd1lR?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1773299235
+  },
+  {
+    "id": "7629770",
+    "headline": "Airstrike on Italian base in Iraq was deliberate, defence minister says - Reuters",
+    "summary": "Airstrike on Italian base in Iraq was deliberate, defence minister says  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVTJTc3Y2Q3V5c2pCX21OOHFlS0l4TW9PQWp0NDlFUUJpNmxjWTdaT2ZCM05iM294VlJydWZnb3g3R3BhM1Z5ZVJ3WHA3VkNnNTVRdzhfbGlkNDhDWVlNRDdLSXZEZVl1NG5naEtNLVZQX0Z3QV93MEZzZUJhdjRXTWt3ZVFsbGxiRWFFRWpIN0xNYnpyS1VlZ0VBR2xic1pOQ3Fvd1JrMkdqZzA?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1773296940
+  },
+  {
     "id": "7628978",
     "headline": "Is Europe's gas demand recovery derailed or just dented by Iran crisis? - Reuters",
     "summary": "Is Europe's gas demand recovery derailed or just dented by Iran crisis?  Reuters",
@@ -178,7 +354,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1773293616,
+    "publishedAt": 1773293580,
     "analysis": {
       "version": 2,
       "generatedAt": 1773307739,
@@ -242,13 +418,13 @@
   },
   {
     "id": "7628039",
-    "headline": "Oil jumps 5% as Iran escalates attacks on Gulf shipping - Reuters",
-    "summary": "Oil jumps 5% as Iran escalates attacks on Gulf shipping  Reuters",
+    "headline": "Oil jumps 7% as Iran escalates attacks on Gulf shipping - Reuters",
+    "summary": "Oil jumps 7% as Iran escalates attacks on Gulf shipping  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObUlmTHZTREdweklZWFUzeEp0dzFUbk56bWVQQ3hWY0IzWDlZN0JzUllPUmJyd3U2RVZVUHQ3SE5DcFBSZmVNYlljWEJYTVpRTlVISVFKTWoyR2Z2aEVrQ0dVU3RKc1lhay1QWG5TVlltdHB1YVFRNHFpemRxalFyRk56andqamRBVHBJVmwwZTFkcDh4c1NuNFloakZRX2xHSnlyRTgxbkVycVVTUjBWS0pyV0pmMjVW?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1773279043,
+    "publishedAt": 1773279000,
     "analysis": {
       "version": 2,
       "generatedAt": 1773294093,
@@ -271,7 +447,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1773278895,
+    "publishedAt": 1773278880,
     "analysis": {
       "version": 2,
       "generatedAt": 1773289684,
@@ -1826,7 +2002,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1773208661,
+    "publishedAt": 1773208620,
     "analysis": {
       "version": 2,
       "generatedAt": 1773214391,
@@ -2010,7 +2186,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1773199867,
+    "publishedAt": 1773199860,
     "analysis": {
       "version": 2,
       "generatedAt": 1773205621,
@@ -22511,255 +22687,6 @@
         "Labor dispute risk",
         "Increased operating expenses risk",
         "Decreased profitability risk"
-      ]
-    }
-  },
-  {
-    "id": "7578820",
-    "headline": "What investors should do about the fear of AI taking over everything",
-    "summary": "Investors learned to live with tariff uncertainty last year. Now, it’s all about coping with the threat of AI changing everything.",
-    "url": "https://www.marketwatch.com/story/what-investors-should-do-about-the-fear-of-ai-taking-over-everything-23dfafa4",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1771970580,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1771974520,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The article highlights the growing concern among investors about the potential impact of AI on various industries and the economy. The fear of AI taking over everything has become a major talking point, leading to increased uncertainty and volatility in the market. As investors, it's essential to understand that AI is not a new phenomenon, and many companies have already started to integrate AI into their operations. The article suggests that investors should focus on companies that are adapting to the changing landscape and investing in AI-related technologies.",
-      "impact": "The potential impact of AI on stocks will be short-term, with investors likely to focus on companies that are well-positioned to benefit from AI adoption. Companies that have already integrated AI into their operations may see an increase in earnings due to improved efficiency and productivity. However, companies that are slow to adapt may face significant challenges in the medium term, leading to a decline in earnings and stock prices. The increased focus on AI may also lead to a shift in investor sentiment, with some stocks experiencing a surge in demand and others facing a decline in investor interest.",
-      "risks": [
-        "AI adoption risk: Companies that fail to adapt to AI may struggle to remain competitive.",
-        "Integration risk: Companies may face challenges in integrating AI into their operations, leading to delays and increased costs.",
-        "Job displacement risk: AI may lead to job displacement in certain industries, potentially affecting investor sentiment and stock prices."
-      ]
-    }
-  },
-  {
-    "id": "7578816",
-    "headline": "Cava says diners are doing better this year — and could be getting tired of chasing meal deals",
-    "summary": "Cava Group on Tuesday issued an upbeat sales forecast for this year, after cautious customers shook off the effects of snowstorms and last year’s government shutdown to hit the Mediterranean fast-casual chain for bowls and salads.",
-    "url": "https://www.marketwatch.com/story/cava-says-diners-are-doing-better-this-year-and-could-be-getting-tired-of-chasing-meal-deals-25d062fe",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1771969860,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1771970746,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Cava Group issued an upbeat sales forecast for this year, driven by improved customer behavior after a challenging period of snowstorms and the government shutdown. The Mediterranean fast-casual chain has seen a rebound in customer visits, which is expected to translate to increased sales. This development is a positive indicator for the company's financial performance and could lead to improved earnings outlook. The company's ability to attract customers despite adverse weather conditions and economic uncertainty is a testament to its resilience and competitive positioning.",
-      "impact": "The positive sales forecast is likely to boost investor sentiment and potentially drive up the stock price in the short-term. In the medium-term, improved earnings outlook could lead to re-rating of the stock, making it more attractive to investors. The increased customer traffic and sales could also lead to improved liquidity, making it easier for investors to buy and sell the stock. Additionally, this news could have a positive impact on the broader fast-casual restaurant industry, benefiting other players in the space.",
-      "risks": [
-        "Potential for increased competition from other fast-casual chains",
-        "Risk of customer fatigue with meal deals and promotions",
-        "Dependence on weather conditions and economic uncertainty"
-      ]
-    }
-  },
-  {
-    "id": "7578806",
-    "headline": "State of the Union: Trump to announce plans for new tax cuts through budget reconciliation",
-    "summary": "Advancing any legislation through this process is now significantly more challenging given House Speaker Mike Johnson's shrinking margin in the lower chamber.",
-    "url": "https://www.cnbc.com/2026/02/24/state-of-the-union-trump-tax-cuts.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108268539-17718613952026-02-23t154055z_345128215_rc2rrjapg0bf_rtrmadp_0_usa-trump.jpeg?v=1771861416&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1771968342,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1771970791,
-      "sentiment": "bullish",
-      "confidence": 0.7,
-      "summary": "President Trump plans to propose new tax cuts through a budget reconciliation process in his State of the Union address. This move aims to advance personal and corporate tax cuts, potentially benefiting companies with high tax burdens. However, the process is challenging due to the narrow Republican majority in the House, requiring near-unanimity for passage. The proposal's success is uncertain, but if implemented, it could positively impact companies with high tax expenses, such as those in the energy and manufacturing sectors.",
-      "impact": "The potential tax cuts could lead to increased earnings for companies with high tax burdens, potentially driving up their stock prices in the short term. This could be particularly beneficial for energy and manufacturing companies, which have high tax expenses. However, the success of the proposal is uncertain, and the narrow Republican majority in the House increases the risk of legislative hurdles.",
-      "risks": [
-        "Legislative gridlock risk",
-        "Uncertainty around tax policy",
-        "Economic headwinds affecting corporate earnings"
-      ]
-    }
-  },
-  {
-    "id": "7578803",
-    "headline": "Oil prices ease, but traders remain on edge ahead of this week’s U.S.-Iran nuclear talks, OPEC+ meeting",
-    "summary": "Oil markets remain fixated on the threat of a U.S. attack on Iran — and this week could provide some clarity on the next move for crude prices, with talks between the two nations expected Thursday.",
-    "url": "https://www.marketwatch.com/story/oil-prices-ease-but-traders-remain-on-edge-ahead-of-this-weeks-u-s-iran-nuclear-talks-opec-meeting-d16b0095",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1771967820,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1771970841,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "Oil prices have eased slightly due to the ongoing uncertainty surrounding a potential US attack on Iran, but traders remain cautious ahead of crucial talks between the two nations this week. The talks, scheduled for Thursday, may bring clarity on the next move for crude prices, but the market is bracing for a potential escalation of tensions. The situation has been volatile in recent weeks, with oil prices swinging wildly in response to escalating tensions. The US-Iran conflict has significant implications for the global energy market, with oil prices being a major driver of inflation and economic growth. The uncertainty surrounding the situation has led to a cautious approach by traders, who are waiting for clarity on the next move.",
-      "impact": "The potential for a US attack on Iran could lead to a significant spike in oil prices, which would negatively impact energy stocks such as ExxonMobil (XOM) and Chevron (CVX). This could also lead to higher inflation and a slowdown in economic growth, negatively impacting consumer staples and industrials. The uncertainty surrounding the situation has led to a decrease in trading volume and liquidity in the energy sector, making it a high-risk area for traders. In the short-term, energy stocks may experience volatility and price swings in response to the talks and any subsequent developments.",
-      "risks": [
-        "Escalating tensions between the US and Iran leading to a spike in oil prices",
-        "Uncertainty surrounding the outcome of the talks and its impact on the energy market",
-        "Potential disruption to global energy supplies and prices"
-      ]
-    }
-  },
-  {
-    "id": "7578797",
-    "headline": "Cava reports surprise same-store sales growth, driven by menu prices",
-    "summary": "Cava CFO Tricia Tolivar said the company has been able to create a \"bridge\" in the increasingly K-shaped economy.",
-    "url": "https://www.cnbc.com/2026/02/24/cava-q4-2025-earnings.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108222033-1762377839835-gettyimages-2155068073-dsc00302copy_pdyjfhzz.jpeg?v=1762377879&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1771967686,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1771968031,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Cava, a fast-casual Mediterranean restaurant chain, reported record-breaking revenue for fiscal year 2025, with same-store sales growth of 0.5% in the fourth quarter, beating Wall Street estimates. The company attributed the growth to menu prices and product mix, despite a 1.4% decline in foot traffic. Cava's CFO, Tricia Tolivar, mentioned that the company has created a 'bridge' in the K-shaped economy, making it accessible to a wider range of customers. The company also reported 72 net new restaurant openings in fiscal 2025, reaching a total of 439 locations.",
-      "impact": "The news is likely to have a positive impact on Cava's stock price in the short term, driven by the beat on same-store sales and revenue growth. The company's strong sales growth and market share gains also suggest a solid earnings outlook for the next quarter. This could lead to increased investor confidence and potentially drive up the stock price. Additionally, the company's ability to navigate the K-shaped economy and create a 'bridge' for a wider range of customers could be seen as a competitive advantage.",
-      "risks": [
-        "Potential slowdown in same-store sales growth",
-        "Increased competition from other fast-casual chains",
-        "Economic downturn in the K-shaped economy"
-      ]
-    }
-  },
-  {
-    "id": "7578793",
-    "headline": "Microsoft’s stock selloff is approaching a critical crossroads unseen in over 10 years",
-    "summary": "Shares of Microsoft are less than 3% above their 200-week moving average, which has provided key technical support in the past.",
-    "url": "https://www.marketwatch.com/story/microsofts-stock-selloff-is-approaching-a-critical-crossroads-unseen-in-over-10-years-8b066c21",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1771966200,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1771968078,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Microsoft's stock is approaching a critical crossroads as it is less than 3% above its 200-week moving average, a key technical support level that has been reliable in the past. This level has historically provided a floor for the stock, and a break below it could signal a more significant decline. The stock's proximity to this level is a result of a recent selloff, which has been driven by concerns over the company's valuation and earnings growth prospects. The technical indicators suggest that the stock is poised to break below this support level, which could have significant implications for the company's stock price.",
-      "impact": "The potential break below the 200-week moving average could lead to a short-term decline in Microsoft's stock price, potentially triggering a wave of selling pressure. In the medium term, this could impact the company's market capitalization and its position in the tech sector. The decline could also be driven by a re-evaluation of the company's valuation, as investors reassess their expectations for earnings growth and the company's competitive position in the industry.",
-      "risks": [
-        "valuation risk",
-        "earnings growth slowdown risk",
-        "sector rotation risk"
-      ]
-    }
-  },
-  {
-    "id": "7578788",
-    "headline": "Why more CEOs are chatting directly with customers",
-    "summary": "Executives say it’s all about learning how to better run their businesses, but some corporate watchers question if this is just a PR move.",
-    "url": "https://www.marketwatch.com/story/why-more-ceos-are-chatting-directly-with-customers-e9c34f1d",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1771965420,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1771968122,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "CEOs are increasingly engaging directly with customers to gain a deeper understanding of their needs and preferences. This trend is driven by the desire to improve business operations and decision-making. Some executives believe that direct communication with customers can help identify areas for improvement and increase customer loyalty. However, corporate watchers are skeptical, questioning whether this is merely a public relations move.",
-      "impact": "This trend may have a neutral to slightly positive impact on companies that prioritize customer feedback and adapt their business strategies accordingly. In the short-term, increased customer engagement may lead to improved customer satisfaction and retention, potentially boosting revenue. However, if this trend is seen as a PR move, it could lead to decreased credibility and trust among customers, ultimately affecting long-term growth and profitability.",
-      "risks": [
-        "decreased credibility risk",
-        "trust erosion risk",
-        "overemphasis on PR risk"
-      ]
-    }
-  },
-  {
-    "id": "7578785",
-    "headline": "Constellation Energy’s stock zooms toward highest level in weeks, even after outlook is postponed",
-    "summary": "Constellation Energy is keeping investors waiting for its yearly guidance, saying it will provide it in March. But that hasn’t dented the independent power producer’s stock, which zoomed toward its highest level in nearly six weeks on Tuesday, regaining some of its past luster.",
-    "url": "https://www.marketwatch.com/story/constellation-energys-stock-zooms-toward-highest-level-in-weeks-even-after-outlook-is-postponed-af3495f1",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1771964640,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1771968168,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Constellation Energy's stock price has surged to its highest level in nearly six weeks, despite the company's decision to delay its yearly guidance until March. This unexpected move has not deterred investors, who are likely buoyed by the company's strong fundamentals and the growing demand for renewable energy. The delay in guidance is seen as a minor setback, as investors are more focused on the company's long-term growth prospects. The company's independent power production business is expected to benefit from the increasing adoption of clean energy.",
-      "impact": "The positive sentiment surrounding Constellation Energy's stock is likely to continue in the short term, driven by the company's strong fundamentals and the growing demand for renewable energy. This could lead to a further increase in the stock price, potentially attracting more investors and increasing liquidity. However, the delayed guidance may lead to some short-term volatility as investors wait for the company's updated outlook. In the medium term, the company's ability to execute on its growth strategy and meet investor expectations will be crucial in sustaining the positive sentiment.",
-      "risks": []
-    }
-  },
-  {
-    "id": "7578787",
-    "headline": "Why AMD's megadeal with Meta shows Nvidia is still the best game in town",
-    "summary": "AMD gave up equity in its deals with Meta and OpenAI. Nvidia shareholders should be glad it doesn't need to go there.",
-    "url": "https://www.cnbc.com/2026/02/24/why-amds-megadeal-with-meta-shows-nvidia-is-still-the-best-game-in-town.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108077623-1734537877860-gettyimages-1396526519-0j7a6502_c637c8a7-b593-49e5-bee7-150e9e261149.jpeg?v=1771953516&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1771964549,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1771968215,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "AMD has signed a strategic agreement with Meta to sell 6 gigawatts of GPUs worth over $60 billion over a multiyear period. The deal also gives Meta a path to owning almost 10% of AMD's equity at no cost. In contrast, Nvidia has made a similar deal with Meta without diluting its shareholders. This highlights Nvidia's strong position in the market, with piles of cash to invest in innovation and partnerships.",
-      "impact": "The news is likely to have a positive impact on Nvidia's stock price in the short term, as investors see the company's strength in the market. The deal also reinforces Nvidia's leadership in the AI chip market, which could lead to increased earnings and revenue growth in the medium term. However, the deal may have a negative impact on AMD's stock price in the short term, as investors worry about the potential dilution of shares.",
-      "risks": [
-        "AMD's reliance on large deals with Meta and OpenAI may make it vulnerable to changes in their business strategies or market conditions",
-        "The potential dilution of shares could impact AMD's valuation and earnings per share",
-        "Nvidia's strong position in the market may lead to increased competition and pricing pressure"
-      ]
-    }
-  },
-  {
-    "id": "7578780",
-    "headline": "2 portfolio names hike their dividends — plus, we're raising our price target another",
-    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-    "url": "https://www.cnbc.com/2026/02/24/2-portfolio-names-hike-their-dividends-plus-were-raising-our-price-target-another.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108256653-1769211369805-Contour.jpg?v=1769216172&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1771962579,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1771970890,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Two dividend-paying stocks, Home Depot and Linde, have increased their quarterly payouts, with Home Depot's yield now at 2.4% and Linde's at 1.28%. This is a positive sign for income investors, but it's essential to note that Linde's recent strong performance may be due to its 'HALO' stock status, which is less vulnerable to AI disintermediation. Meanwhile, Corning has continued its impressive run, reaching a new record high after UBS raised its price target to $160, which we're matching. This is driven by the potential for increased earnings revisions from hyperscalers.",
-      "impact": "The dividend increases from Home Depot and Linde are likely to attract income investors, potentially leading to short-term price appreciation. Corning's price target increase and continued rally may drive further buying interest, with a potential medium-term impact on its stock price. The 'HALO' theme, which includes Linde, Eaton, and Honeywell, may also benefit from reduced risk perception related to AI disintermediation.",
-      "risks": [
-        "valuation risk for Corning, as its price target increase may lead to overbought conditions",
-        "Linde's recent strength may be due to its HALO status, but this could be a short-term phenomenon",
-        "AI disintermediation risk for companies not classified as HALO stocks"
-      ]
-    }
-  },
-  {
-    "id": "7578776",
-    "headline": "AI jitters are turning discount chains and shampoo makers into the stock market’s hottest trade — and that’s risky",
-    "summary": "Consumer staples, long seen as a safety play when tech stocks sell off, are now among the riskier bets on Wall Street.",
-    "url": "https://www.marketwatch.com/story/ai-jitters-are-turning-discount-chains-and-shampoo-makers-into-the-stock-markets-hottest-trade-and-thats-risky-4f449854",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1771962120,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1771963625,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "The article highlights a shift in market sentiment, where consumer staples, traditionally seen as a safe-haven, are now being viewed as riskier investments. This is due to the recent downturn in tech stocks, causing investors to reevaluate their portfolios. As a result, discount chains and shampoo makers, which were previously seen as stable, are now being traded aggressively. This shift in sentiment is driven by the perception that these companies are more vulnerable to economic downturns.",
-      "impact": "The potential impact on the related stocks is a short-term sell-off, as investors reassess their portfolios and seek safer havens. This could lead to a decline in stock prices for companies like discount chains and shampoo makers, making them more attractive to short sellers. The medium-term effect may be a reevaluation of the industry's growth prospects, potentially leading to a reassessment of valuations and earnings outlook. The increased trading activity may also lead to higher volatility and liquidity risks.",
-      "risks": [
-        "valuation risk",
-        "earnings slowdown risk",
-        "sentiment-driven trading risk"
       ]
     }
   }
