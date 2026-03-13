@@ -1,5 +1,28 @@
 [
   {
+    "id": "7634509",
+    "headline": "The biggest names missing from the list of America's top philanthropists",
+    "summary": "MacKenzie Scott and many of America's richest are absent from the latest Philanthropy 50 ranking.",
+    "url": "https://www.cnbc.com/2026/03/13/philanthropy-charity-wealthy.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108105888-1740168765345-gettyimages-2100039841-927403324_scott2.jpeg?v=1773165414&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1773401401,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773403327,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "The Chronicle of Philanthropy's Philanthropy 50 ranking shows that the top 50 philanthropists in the US donated $22.4 billion to charity in 2025, led by Michael Bloomberg. MacKenzie Scott, a billionaire philanthropist, is absent from the ranking due to her representatives' refusal to disclose donations to donor-advised funds. This trend of secrecy among ultra-wealthy philanthropists is attributed to increased scrutiny and a desire for privacy. The Chronicle's editor notes that this is a growing concern, with many philanthropists feeling hounded by nonprofits seeking funding.",
+      "impact": "The news may have a short-term negative impact on the sentiment towards companies like Bloomberg LP, as the lack of transparency in philanthropy may raise concerns about corporate social responsibility. However, this may not have a significant impact on the company's earnings outlook or valuation in the medium term. The trend of secrecy among ultra-wealthy philanthropists may also lead to increased scrutiny of companies and their philanthropic efforts, potentially affecting their reputation and brand value.",
+      "risks": [
+        "reputation risk",
+        "brand value risk",
+        "increased scrutiny risk"
+      ]
+    }
+  },
+  {
     "id": "7634190",
     "headline": "Analysts reassess oil price estimates as Iran conflict disrupts markets - Reuters",
     "summary": "Analysts reassess oil price estimates as Iran conflict disrupts markets  Reuters",
@@ -100,7 +123,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1773373260,
+    "publishedAt": 1773373309,
     "analysis": {
       "version": 2,
       "generatedAt": 1773380322,
@@ -117,13 +140,13 @@
   },
   {
     "id": "7632752",
-    "headline": "Asian stocks fall as Iran war keeps oil at $100, upends rate outlook - Reuters",
-    "summary": "Asian stocks fall as Iran war keeps oil at $100, upends rate outlook  Reuters",
+    "headline": "Stocks fall as Iran war keeps oil at $100, upends rate outlook - Reuters",
+    "summary": "Stocks fall as Iran war keeps oil at $100, upends rate outlook  Reuters",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9zN2lIVmZmR0pnVG5kTVpkVUVaRjVYUVI0eEZsd0c3V3I2eUdzbk9iT3diaWpuMkppMUxDSE5EOW5BWS1sZWo4bDRYZXpUT3EtQWVEQmE0dmk0NVBqbjVQRTl3WGM4ajU4QzNvQmNOam5ZODRxNXF2MWQ4SQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1773367320,
+    "publishedAt": 1773367365,
     "analysis": {
       "version": 2,
       "generatedAt": 1773374757,
@@ -147,7 +170,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1773362958,
+    "publishedAt": 1773362940,
     "analysis": {
       "version": 2,
       "generatedAt": 1773374853,
@@ -1705,7 +1728,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1773276600,
+    "publishedAt": 1773276608,
     "analysis": {
       "version": 2,
       "generatedAt": 1773289740,
@@ -22757,29 +22780,6 @@
         "revenue decline risk",
         "earnings outlook risk",
         "client churn risk"
-      ]
-    }
-  },
-  {
-    "id": "7579137",
-    "headline": "Snowflake’s stock dips as the software company gives a mixed outlook",
-    "summary": "In a market where investors have been quick to punish software stocks, Snowflake’s report didn’t offer enough to excite Wall Street.",
-    "url": "https://www.marketwatch.com/story/snowflakes-stock-dips-as-the-software-company-gives-a-mixed-outlook-aa072974",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1772062920,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772064138,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "Snowflake's stock price declined following the company's mixed outlook, as investors seek more convincing growth prospects. The software company's report failed to meet Wall Street's expectations, leading to a sell-off in the stock. Snowflake's revenue growth, while still strong, was not enough to excite investors, who have been punishing software stocks in recent times. This mixed outlook may indicate a slowdown in the company's growth trajectory, which could impact its valuation and overall performance.",
-      "impact": "The decline in Snowflake's stock price may have a short-term impact on the software sector, as investors become increasingly cautious about investing in growth stocks. The medium-term effect may be a re-evaluation of Snowflake's valuation, as the company's growth prospects are reassessed. This could lead to a decrease in the stock's liquidity and a downward pressure on its price. Additionally, the decline in Snowflake's stock may also impact the overall sentiment towards the software sector, making it more challenging for other software companies to attract investors.",
-      "risks": [
-        "valuation risk",
-        "growth slowdown risk",
-        "sentiment risk"
       ]
     }
   }
