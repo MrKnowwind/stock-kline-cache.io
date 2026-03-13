@@ -1,5 +1,24 @@
 [
   {
+    "id": "7636251",
+    "headline": "Mortgage rates surge to highest since September, hitting spring housing market",
+    "summary": "Mortgage rates jumped to a seven-month high Friday as war in Iran pushed bond yields higher.",
+    "url": "https://www.cnbc.com/2026/03/13/mortgage-rates-7-month-high.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108277970-1773428205924-gettyimages-2261059902-260213_to_air_118.jpeg?v=1773428243&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1773429907,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773432149,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Mortgage rates surged to a seven-month high, driven by the war in Iran and higher bond yields. This increase in rates will likely dampen the spring housing market, which is already facing headwinds such as constrained affordability and cautious consumer sentiment. The higher rates will result in higher monthly payments for homebuyers, potentially reducing demand. The recent spike in rates has erased any savings from the previous multiyear low, making it less attractive for buyers to purchase homes.",
+      "impact": "The higher mortgage rates will likely have a negative impact on homebuilders such as Lennar, as higher rates reduce demand and increase the cost of borrowing. This could lead to a decrease in sales and earnings for the company, making it a less attractive investment opportunity. The medium-term impact will be a slower housing market, which could also affect the broader economy and consumer spending. The increase in rates will also make it more expensive for consumers to purchase homes, potentially reducing their disposable income and spending power.",
+      "risks": []
+    }
+  },
+  {
     "id": "7635933",
     "headline": "Eaton finalizes a smart acquisition to advance its AI data center ambitions",
     "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
@@ -19,6 +38,29 @@
         "Integration risk: The successful integration of Boyd Thermal's liquid cooling solutions with Eaton's existing business could be challenging.",
         "Competition risk: The data center market is highly competitive, and Eaton may face competition from other companies, such as Schneider Electric and ABB, which also offer liquid cooling solutions.",
         "Economic downturn risk: A downturn in the economy could impact the demand for data center infrastructure and negatively affect Eaton's business."
+      ]
+    }
+  },
+  {
+    "id": "7636253",
+    "headline": "California hit by much higher oil prices as Iran war stresses refiners - Reuters",
+    "summary": "California hit by much higher oil prices as Iran war stresses refiners  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ1ZiZGxPc0c5YkU2eVBLeFlIeDc0RDhlUHBadnAtaTFlZjkwYTZVaWFZbm93QzVyOEc2b0FPV1psa1k4dkpHV3Jza1ZjVmhaRDZha19UY2pYQVQ1ZnJjUHdFeGw2TXpXZnlzc012VTd3aC1YSHNXM0wxYmNwMVd4Wk9YdGg0d1hpdFJIOVRfWTJud2swSy1FQjZGZ2Zyc25OVjFCY2VvYWhLWmtPSlhIMldTWTROanlEV2d3?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1773421432,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773432197,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "California's oil refiners are facing higher costs due to tensions with Iran, which has led to increased oil prices. This is because Iran's oil exports have been disrupted, causing a shortage of oil supplies. As a result, refiners in California are struggling to meet their refining capacity, leading to higher production costs. This is a significant concern for the oil refining industry, particularly for companies that rely heavily on imported oil.",
+      "impact": "The potential impact on the oil refining industry is significant, with higher production costs likely to lead to reduced profit margins. This could lead to a decline in earnings for oil refiners, particularly those with high debt levels or limited financial flexibility. In the short-term, oil refiners may see a decline in stock prices as investors adjust to the new reality. In the medium-term, companies that can adapt to the changing market conditions may see opportunities to increase their market share or improve their financial performance.",
+      "risks": [
+        "Increased production costs risk",
+        "Reduced profit margins risk",
+        "Decline in earnings risk"
       ]
     }
   },
@@ -70,8 +112,8 @@
   },
   {
     "id": "7635828",
-    "headline": "Exclusive: Iran allows two gas tankers to sail to India through Hormuz, sources say - Reuters",
-    "summary": "Exclusive: Iran allows two gas tankers to sail to India through Hormuz, sources say  Reuters",
+    "headline": "Exclusive: Iran lets two gas tankers sail to India through Hormuz, sources say - Reuters",
+    "summary": "Exclusive: Iran lets two gas tankers sail to India through Hormuz, sources say  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS0hPU05DejVyU25KMjd5UDlTN2JmeVUwRDI0c0t0M3JkcEt2NjQ3cVprUjRiT0VtcVFaMi1acFJHMENrZ0ZJXzlmWkxSaGYwVWZqMV9uSHJhTmw1VE5ZOXpja1I1UmJXempkakNJT2JoUnBmRnN5Zm1mR0EyTjh5LXZRTFNNUWxmWDRnQTlZVGZIVXhwZFR4STZQbFVDbDV0ZlVlMVRHVG80ckttaXZuUDRnSUVTaHBR?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -549,6 +591,29 @@
     }
   },
   {
+    "id": "7636150",
+    "headline": "Wall St drops, set for weekly loss as war on Iran fuels inflation worries - Reuters",
+    "summary": "Wall St drops, set for weekly loss as war on Iran fuels inflation worries  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOVFGWVpMWnA3NG1BSUJReW9ZQ2JLSGkxbEZUNlg2NDBhZExPMGF5cUtLRVBnc0c3anQ3WVlucWtLd2FfMTFkWnQ2a055eXBGSU9zSU4xMTdnajg3akQ0eklJWnZycnl5RlByQm4xYS1TVnV6cEQxLWFIUXNKbi1DVy1sR1hlV2xMNVFPaVoyNDZUUUlvM3Vab2ticHhVRmtMcldnaHlWWk1qdEZ0eEUtLW5BYmtWdnJWYVFaRDR5djV2QQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1773396378,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773432246,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The US stock market is experiencing a decline, with the S&P 500 index set to end the week in the red. This downturn is largely attributed to escalating tensions between the US and Iran, which have fueled concerns about inflation. The increased uncertainty surrounding the conflict has led to a shift in investor sentiment, with many opting to take a cautious approach. This shift in sentiment has resulted in a decrease in investor confidence, leading to a decline in stock prices. The ongoing uncertainty surrounding the conflict is likely to continue to impact the market in the short term.",
+      "impact": "The potential impact of this news on related stocks is significant, with a potential short-term decline in earnings outlook and valuation. The increased uncertainty surrounding the conflict may lead to a decrease in investor confidence, resulting in a decline in stock prices. In the medium term, the impact on the economy and inflation may also be a concern, potentially affecting the earnings of companies in various sectors. This may lead to a decrease in investor sentiment and a subsequent decline in stock prices.",
+      "risks": [
+        "Earnings slowdown risk due to decreased consumer spending",
+        "Inflation risk due to increased uncertainty and potential economic impact",
+        "Valuation risk due to decreased investor confidence"
+      ]
+    }
+  },
+  {
     "id": "7634621",
     "headline": "US farmers rush to sell crops as Iran war fuels rally - Reuters",
     "summary": "US farmers rush to sell crops as Iran war fuels rally  Reuters",
@@ -916,6 +981,29 @@
         "Oil price volatility",
         "Global economic uncertainty",
         "Risk of further escalation of the conflict"
+      ]
+    }
+  },
+  {
+    "id": "7630667",
+    "headline": "DP World sees more traffic for Red Sea ports as Iran crisis chokes access to Gulf - Reuters",
+    "summary": "DP World sees more traffic for Red Sea ports as Iran crisis chokes access to Gulf  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVktrbXdPTG5LZkhRVHdlcUxyVXo5RjMzUmYzYmo1eUhPOU5pUFBLeFdWRGNwTHBVRnNNM1NlNGQ2cEJGZ0tBVHFxTzFpUWlsYkJYOE9NaW0wWjFlV01UOUMzSzd4OGcyWUFOY3AxS3RUcmZyN0o3UlZ0Q2dyUEp6QjFkUGdfbndOOHgxZFJoZVJ1Q1Jva0pqSEpzMExob1lHRlpPd1lTRExqTzNBRUhjS2ZUX2dMMHFwMUF0X1ZjbDU1aVM4?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1773356232,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773350274,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "DP World, a global port operator, expects increased traffic at its Red Sea ports due to the ongoing Iran crisis, which has disrupted access to the Gulf. The crisis has led to a shortage of oil tankers and other vessels in the region, causing a surge in demand for alternative routes. The Red Sea ports, which are operated by DP World, are well-positioned to capitalize on this shift in trade patterns. This development is expected to boost the company's revenue and profitability in the coming months.",
+      "impact": "The increased traffic at DP World's Red Sea ports is likely to have a positive impact on the company's earnings outlook, driving up its stock price in the short term. In the medium term, the company's valuation multiples may also benefit from the increased demand for its services. However, the company's liquidity may be affected by the increased demand for its services, potentially leading to higher costs and supply chain disruptions.",
+      "risks": [
+        "Supply chain disruptions risk",
+        "Increased costs risk",
+        "Dependence on geopolitical events risk"
       ]
     }
   },
@@ -2312,29 +2400,6 @@
         "Increased defense spending risk",
         "Reassessment of international military intervention risks",
         "Potential impact on Italian defense budget allocation"
-      ]
-    }
-  },
-  {
-    "id": "7630667",
-    "headline": "DP World sees more traffic for Red Sea ports as Iran crisis chokes access to Gulf - Reuters",
-    "summary": "DP World sees more traffic for Red Sea ports as Iran crisis chokes access to Gulf  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVktrbXdPTG5LZkhRVHdlcUxyVXo5RjMzUmYzYmo1eUhPOU5pUFBLeFdWRGNwTHBVRnNNM1NlNGQ2cEJGZ0tBVHFxTzFpUWlsYkJYOE9NaW0wWjFlV01UOUMzSzd4OGcyWUFOY3AxS3RUcmZyN0o3UlZ0Q2dyUEp6QjFkUGdfbndOOHgxZFJoZVJ1Q1Jva0pqSEpzMExob1lHRlpPd1lTRExqTzNBRUhjS2ZUX2dMMHFwMUF0X1ZjbDU1aVM4?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1773296280,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1773350274,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "DP World, a global port operator, expects increased traffic at its Red Sea ports due to the ongoing Iran crisis, which has disrupted access to the Gulf. The crisis has led to a shortage of oil tankers and other vessels in the region, causing a surge in demand for alternative routes. The Red Sea ports, which are operated by DP World, are well-positioned to capitalize on this shift in trade patterns. This development is expected to boost the company's revenue and profitability in the coming months.",
-      "impact": "The increased traffic at DP World's Red Sea ports is likely to have a positive impact on the company's earnings outlook, driving up its stock price in the short term. In the medium term, the company's valuation multiples may also benefit from the increased demand for its services. However, the company's liquidity may be affected by the increased demand for its services, potentially leading to higher costs and supply chain disruptions.",
-      "risks": [
-        "Supply chain disruptions risk",
-        "Increased costs risk",
-        "Dependence on geopolitical events risk"
       ]
     }
   },
@@ -22717,75 +22782,6 @@
         "valuation risk",
         "growth slowdown risk",
         "competitive landscape risk"
-      ]
-    }
-  },
-  {
-    "id": "7579338",
-    "headline": "As deal drama swirls around Warner Bros., its earnings show a declining industry",
-    "summary": "With Warner Bros. Discovery deep in negotiations to be acquired, its earnings show it is a company struggling in a fast-changing industry.",
-    "url": "https://www.marketwatch.com/story/as-deal-drama-swirls-around-warner-bros-its-earnings-show-a-declining-industry-1cbb3600",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1772119680,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772124168,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Warner Bros. Discovery's earnings report highlights the challenges it faces in a declining industry. The company is in the midst of a potential acquisition, which may distract management and create uncertainty. The industry's decline is attributed to factors such as streaming services and changing consumer behavior. This environment makes it difficult for Warner Bros. Discovery to maintain its growth trajectory.",
-      "impact": "The potential acquisition and industry decline may lead to a short-term decline in Warner Bros. Discovery's stock price due to increased uncertainty and decreased investor confidence. In the medium term, the company's earnings outlook may be negatively impacted by the industry's decline, leading to a reevaluation of its valuation. This could result in a decrease in liquidity and sentiment, making it an unattractive investment opportunity.",
-      "risks": [
-        "industry decline risk",
-        "acquisition risk",
-        "earnings slowdown risk"
-      ]
-    }
-  },
-  {
-    "id": "7579335",
-    "headline": "EBay laying off about 800 roles, or 6% of its workforce",
-    "summary": "The job cuts are occurring across the company, and are a result of its push to focus on \"strategic priorities,\" eBay said.",
-    "url": "https://www.cnbc.com/2026/02/26/ebay-layoffs-800-workforce.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/105403368-1534522864426gettyimages-632621396.jpeg?v=1772114493&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1772118608,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772120271,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "eBay is laying off approximately 6% of its workforce, or 800 roles, as it focuses on strategic priorities and streamlines its operations. This move comes as the company continues to invest in artificial intelligence and compete with larger rivals like Amazon and Walmart. eBay has also announced plans to acquire Depop, a secondhand clothing marketplace, for $1.2 billion. The company's focus on focus categories like collectibles, car parts, and refurbished goods has shown growth, but the layoffs may impact employee morale and productivity.",
-      "impact": "The layoffs could have a short-term negative impact on eBay's earnings outlook, as the company will need to absorb the costs of severance packages and potential restructuring expenses. However, the company's focus on AI and strategic priorities may lead to long-term cost savings and improved efficiency. The acquisition of Depop may also boost eBay's growth prospects, particularly in the fashion category, but the integration risks and potential cultural differences between the two companies should be monitored.",
-      "risks": [
-        "integration risk with Depop",
-        "restructuring costs and potential impact on employee morale",
-        "increased competition from larger e-commerce players"
-      ]
-    }
-  },
-  {
-    "id": "7579334",
-    "headline": "If global investors fall out of love with U.S. equities, it could spell trouble for the dollar",
-    "summary": "Valuation arguments and earnings momentum favor the rest of the world and emerging markets over the U.S.",
-    "url": "https://www.marketwatch.com/story/if-global-investors-fall-out-of-love-with-u-s-equities-it-could-spell-trouble-for-the-dollar-9dc78983",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1772118000,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772120318,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "Global investors' waning enthusiasm for U.S. equities could have a ripple effect on the value of the dollar. According to recent market trends, valuation arguments and earnings momentum favor emerging markets and the rest of the world over the U.S. This shift in investor sentiment is driven by the perception that the U.S. market is overvalued, while other regions offer more attractive valuations and growth prospects. As a result, foreign investors may redirect their capital to these more attractive markets, potentially leading to a decline in the dollar's value.",
-      "impact": "The potential decline in the dollar's value could have a negative impact on U.S. multinational corporations with significant foreign revenue exposure, as a weaker dollar would reduce their earnings in foreign currency terms. This could lead to a decline in their stock prices, particularly those with high exposure to emerging markets. In the short term, this may result in a sell-off in U.S. equities, particularly those with high foreign revenue exposure, while medium-term effects could include a decline in earnings growth and reduced investor confidence in the U.S. market.",
-      "risks": [
-        "Foreign investor sentiment shift risk",
-        "Currency exposure risk for U.S. multinationals",
-        "Earnings growth slowdown risk"
       ]
     }
   }
