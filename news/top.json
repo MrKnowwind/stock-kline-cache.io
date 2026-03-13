@@ -1,5 +1,74 @@
 [
   {
+    "id": "7635716",
+    "headline": "Nvidia may soon unveil a brand-new AI chip. A closer look at the $20 billion bet to make it happen",
+    "summary": "At its GTC conference, Nvidia is expected to share some of its vision for incorporating technology from AI chip startup Groq.",
+    "url": "https://www.cnbc.com/2026/03/13/a-closer-look-at-nvidias-20-billion-bet-on-tech-for-a-new-ai-chip.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108248473-1767650745948-gettyimages-2254217619-AFP_89PZ9WQ.jpeg?v=1773372877&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1773420921,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773422608,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Nvidia is expected to unveil a new AI chip at its GTC conference, incorporating technology from chip startup Groq. The company spent $20 billion to license Groq's technology and hire key employees, including its CEO. This move is seen as a strategic bet to dominate the inference market, a growing segment of the AI computing picture. Nvidia's GPUs are already the performance leader in the training stage of AI computing, but the inference market is more crowded and competitive. The new chip is expected to target the daily use of AI models, a process known as inference, which is a key source of revenue for Nvidia's data center customers.",
+      "impact": "The news is likely to have a positive impact on Nvidia's stock in the short-term, as it solidifies the company's position in the AI computing market and demonstrates its willingness to invest in innovation. The new chip could also increase Nvidia's market share in the inference market, leading to higher revenue and earnings growth. In the medium-term, the company's valuation may increase as investors price in the potential for future growth and market expansion.",
+      "risks": [
+        "integration risk: the successful integration of Groq's technology into Nvidia's ecosystem is crucial for the success of the new chip",
+        "competition risk: other companies, such as Advanced Micro Devices and Meta Platforms, are also competing in the inference market",
+        "execution risk: the development and launch of the new chip may be delayed or face technical challenges"
+      ]
+    }
+  },
+  {
+    "id": "7635607",
+    "headline": "Jim Cramer sees this steady portfolio stock climbing to new highs. Here's why",
+    "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+    "url": "https://www.cnbc.com/2026/03/13/jim-cramer-sees-this-steady-portfolio-stock-climbing-to-new-highs-heres-why-.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/103870613-RTX2JKFA.jpg?v=1543441702&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1773419116,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773422660,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Jim Cramer's CNBC Investing Club has identified Linde as a potential beneficiary of the helium disruption caused by the Iran war. The company's stock was upgraded by JPMorgan, which also raised its price target to $525. Cramer believes Linde's helium reserve and ability to pass on higher costs to customers make it a strong candidate to reach its all-time high. This is in line with the Club's strategy to buy stocks in an oversold market.",
+      "impact": "The upgrade and price target increase by JPMorgan could lead to a short-term stock price increase for Linde, potentially reaching its all-time high of $509. In the medium term, the helium disruption and higher export prices could drive increased operating rates for Linde's chemical and refinery customers, benefiting the company's earnings outlook. This could also lead to a re-rating of the stock by investors, potentially driving up its valuation.",
+      "risks": [
+        "Potential delays in the helium supply chain could impact Linde's ability to meet customer demand",
+        "Increased competition from other companies with helium reserves could erode Linde's market share",
+        "Uncertainty around the duration and impact of the Iran war on global helium prices"
+      ]
+    }
+  },
+  {
+    "id": "7635503",
+    "headline": "Trump says Putin may be helping Iran a bit - Reuters",
+    "summary": "Trump says Putin may be helping Iran a bit  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ19vQ0xjeXg1X0JBbW4xOXhESXFXUHdCMkFHUFpWWkowNXZjcG1WU3lrZUtWZTJrTE5MajdpUjFrTzZ0RmlQM2xtOUFnNGg0REpvZC14d0RnVGxnT0tocXpVODg3REd3ZW5hWHU2UFh4VXROb3UyTlB2ZzhWc2xIT2Q2TVgwRGR2OXc?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1773414584,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773422711,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "US President Trump made a statement suggesting that Russian President Putin may be providing some assistance to Iran. This statement is likely a reflection of ongoing geopolitical tensions between the US, Russia, and Iran. The news does not provide any concrete evidence or details about the nature of the alleged assistance. The statement is a continuation of the ongoing diplomatic and strategic tensions between the US and Russia, as well as the US and Iran.",
+      "impact": "The news may have a neutral to slightly bearish impact on the US defense and aerospace industry, as it suggests ongoing tensions between the US and Russia. This could lead to increased spending on defense and military equipment, potentially benefiting companies like Lockheed Martin (LMT) and Boeing (BA). However, the medium-term impact may be uncertain, as the situation is complex and influenced by various geopolitical factors. The news may also have a neutral impact on the oil and energy sector, as Iran is a major oil producer and any potential assistance from Russia may not significantly affect global oil prices.",
+      "risks": [
+        "Escalating tensions between the US, Russia, and Iran may lead to increased military spending and conflict, posing a risk to companies involved in the defense industry.",
+        "The ongoing diplomatic tensions may also lead to trade restrictions and sanctions, affecting companies with significant business ties to Russia or Iran.",
+        "The lack of concrete evidence and details about the alleged assistance makes it difficult to assess the potential impact on the energy sector and related companies."
+      ]
+    }
+  },
+  {
     "id": "7635164",
     "headline": "Americans were feeling better about the economy and then war with Iran broke out",
     "summary": "",
@@ -42,6 +111,52 @@
         "Regional instability risk",
         "Escalation of tensions between the UAE and Iran risk",
         "Potential impact on regional energy markets risk"
+      ]
+    }
+  },
+  {
+    "id": "7635504",
+    "headline": "Saudi Arabia cuts oil output 20% to 8 million bpd amid Iran war, sources say - Reuters",
+    "summary": "Saudi Arabia cuts oil output 20% to 8 million bpd amid Iran war, sources say  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNM2JFMU5rbnBpTVdrc0F3SmlqUTVNYWkyRE9zQS1qZy0zWGg5YVRYTTd5VXc5NDBvRTliMkxMdWJyRnpJQnFjUkJ6S05ydHBmOVl1V0V5b09iTXRydWk0YTBvd1UxMFkwaU9kOWptWkNjaV9aUEprTWp1c0xyd21FTEdsWXNaRnNkV0J1UEx3RzNvT0RaNlVfODZtOWFsREQyMlhsSThxR1JhRHZCM1R4N21KSzJlbGkyVGFJRWYyUjc?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1773407221,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773422759,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Saudi Arabia's decision to cut oil output by 20% to 8 million barrels per day (bpd) amid rising tensions with Iran is a bearish signal for the oil market. The move is likely a response to the growing threat of a conflict with Iran, which could disrupt global oil supplies and drive up prices. The cut in production is expected to reduce Saudi Arabia's oil exports, which could negatively impact the country's economy. The development is also a reflection of the escalating tensions in the Middle East, which could have broader implications for the global energy market.",
+      "impact": "The news is likely to have a negative impact on oil-related stocks, particularly those with high exposure to the Saudi oil market. The cut in production could lead to a short-term increase in oil prices, which would negatively impact the earnings outlook for oil producers. In the medium term, the increased tensions in the Middle East could lead to a more volatile oil market, making it challenging for investors to predict future prices. This could lead to a decrease in investor sentiment and a reduction in liquidity for oil-related stocks.",
+      "risks": [
+        "Escalating tensions in the Middle East",
+        "Disruption to global oil supplies",
+        "Volatility in the oil market"
+      ]
+    }
+  },
+  {
+    "id": "7635505",
+    "headline": "No evidence Iran has mined Strait of Hormuz, Pentagon's Hegseth says - Reuters",
+    "summary": "No evidence Iran has mined Strait of Hormuz, Pentagon's Hegseth says  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOFZNRHliZk1ZZWNZbVdSdTRYVTRqd2ktTlp3NzJ3b3k1NnFfbTdBRG9NanpJRzZ3UlQ3YThrdmVVUm0xQjFYazJra3NtblBUdWFhM1hiTmdDRkVPRmxQZV9YekNya1B1aEtPdmFYRnp6MDc3cGlBMFJxYUkyZ1BVT1pHc1ZyWElLTTA0c2tRUEMycjZpZVN2MG1lbU9WYlBpMUZMa1dvNjk?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1773406483,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773422809,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The article reports that the Pentagon's Hegseth stated there is no evidence Iran has mined the Strait of Hormuz. This news is a positive development for the global oil market, as tensions between the US and Iran have been a major concern for oil prices. The Strait of Hormuz is a critical shipping route for oil exports, and any disruption to it can lead to a significant increase in oil prices. The lack of evidence of mining suggests that the risk of a disruption to oil supplies is lower than previously thought, which is positive for oil-related stocks.",
+      "impact": "This news is likely to have a positive impact on oil-related stocks in the short term, as it reduces the risk of a disruption to oil supplies. The news may also lead to a decrease in oil prices, which can be beneficial for companies that rely on oil as a key input. In the medium term, this news may also lead to increased investor confidence in the oil market, which can drive up stock prices. However, it's worth noting that the situation in the Middle East is complex and can change rapidly, so investors should remain cautious.",
+      "risks": [
+        "Escalation of tensions between the US and Iran",
+        "Unpredictable behavior of Iran's government",
+        "Potential for future disruptions to oil supplies"
       ]
     }
   },
@@ -202,6 +317,16 @@
         "economic instability risk"
       ]
     }
+  },
+  {
+    "id": "7635506",
+    "headline": "India's equity benchmarks confirm correction on Iran war, crude prices; technicals weaken - Reuters",
+    "summary": "India's equity benchmarks confirm correction on Iran war, crude prices; technicals weaken  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQkRaWkdZQ2xXVFNET0IxTnEwWGkySGFzQXVHWlFCZ2VBbEpCUUdBTklFeVZmN1hwa3hLNmJiR19yRnNqRzU5cjVJRjRYeDVyY3BfV2dxSWRRRUhZbjVhUjJlVWNXclQ4VDhPaEktNFkzOXB5U21PenJ6WDlENW56OXJneWN6bHZTSFY1WExmUm9qdFp2dloyNk9CdXlDZnBvaTdDOUdwVVUtX282Y2ZqYUNma1g3WDRVTTJtcEMxOFd6dw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1773399505
   },
   {
     "id": "7634622",
@@ -736,6 +861,29 @@
     }
   },
   {
+    "id": "7627007",
+    "headline": "Trump administration estimates Iran war cost at over $11 billion in six days, source says - Reuters",
+    "summary": "Trump administration estimates Iran war cost at over $11 billion in six days, source says  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZms1Uks3WlkteU9PX3BWWlVWTm56Z292b1lKZmlLM1o2VlZpZGZ4bHFUbjFrWmdIWVlULUNCMW51eXdBZElxZEtic0VSSjFEQjRLanB0dUJlTFpJUWRXRURqZkFDdWxoM1lZdHNocWhuWkpjNnJXNVc2WTFYSmUzMzl6N2ZkTTQ0a3liVXFvU2hKekxjUjRwU21KR0RpZkRJblFqa1dBVU9tcU1OeWEwQ1Q3U1IzbkRlSXJKVm9R?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1773348940,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773281058,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The Trump administration estimates the cost of the Iran war at over $11 billion in just six days. This news suggests a significant escalation of military conflict, which could have far-reaching implications for global oil prices and the US defense industry. The war has already led to increased oil prices, which could negatively impact companies with high oil exposure in their operations or supply chains. The US defense industry, including companies like Lockheed Martin and Boeing, may benefit from the increased military spending, but the overall impact on the US economy and global markets remains uncertain.",
+      "impact": "The potential impact of this news on related stocks is bearish in the short term due to the increased uncertainty and potential for further escalation. Companies with high oil exposure, such as airlines and oil refiners, may see their earnings outlook deteriorate as oil prices rise. In the medium term, the increased military spending could benefit US defense contractors, but the overall impact on the US economy and global markets remains uncertain.",
+      "risks": [
+        "Increased oil prices and potential economic downturn",
+        "Escalation of conflict and geopolitical instability",
+        "Uncertainty around the US defense industry's earnings outlook"
+      ]
+    }
+  },
+  {
     "id": "7632239",
     "headline": "Ships must coordinate with Iran's navy to pass through Strait of Hormuz, foreign ministry says - Reuters",
     "summary": "Ships must coordinate with Iran's navy to pass through Strait of Hormuz, foreign ministry says  Reuters",
@@ -848,6 +996,29 @@
         "geopolitical tensions could escalate and undermine the coalition's efforts",
         "the effectiveness of the coalition's efforts in securing the Strait of Hormuz is uncertain",
         "the impact on oil prices and global trade could be unpredictable"
+      ]
+    }
+  },
+  {
+    "id": "7628457",
+    "headline": "Indian source says Iran to allow India-flagged tankers through Hormuz as first tanker arrives - Reuters",
+    "summary": "Indian source says Iran to allow India-flagged tankers through Hormuz as first tanker arrives  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZmVyWE1BTTllX3pRQjU4Sk9fMzB2aFRmLW1ucl9DZzJDcUVkek8taTc2S0hXZHFnclNhVWxaRVpWQzVBc2k1emJDZGEwMGo4RnI2dnl2MzV5RTl3dzltTXRsZVVva1BqRFdGVExoc1lMSlI5LTQ3dTlzbm1mTjFhN1Bua0J2Sk45QzRMUS1BdWNpX0k0R1dDOElqclBhQnhEdGI0NU80b3VhdTc4cnpqLW5Ebkwtc1hOTkdVcE9UZlV1dlRS?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1773341996,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773300972,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Iran has announced that it will allow India-flagged tankers to pass through the Strait of Hormuz, a key waterway for global oil trade. This decision comes after a recent escalation of tensions between Iran and the US. The Strait of Hormuz is a critical chokepoint for oil exports, with over 20% of global oil shipments passing through it. The move is seen as a positive development for Indian oil companies, particularly those with significant stakes in the region, such as Reliance Industries and Essar Oil. The decision is likely to reduce the risk of disruptions to oil supplies and may lead to increased trade between India and Iran.",
+      "impact": "The news is likely to have a positive impact on Indian oil companies, particularly those with significant stakes in the region. This could lead to increased trading volumes and revenue for companies like Reliance Industries and Essar Oil. The reduced risk of disruptions to oil supplies may also lead to a decrease in volatility in oil prices, benefiting oil producers and refiners. In the short-term, we expect to see an increase in oil imports from Iran, which could lead to a surge in demand for Indian shipping companies.",
+      "risks": [
+        "Escalation of tensions between Iran and the US",
+        "Potential for future disruptions to oil supplies",
+        "Dependence on Iranian oil imports"
       ]
     }
   },
@@ -1955,7 +2126,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1773296329,
+    "publishedAt": 1773296280,
     "analysis": {
       "version": 2,
       "generatedAt": 1773350274,
@@ -1990,29 +2161,6 @@
         "Short-term volatility in gas prices and demand",
         "Decrease in investor sentiment",
         "Shift in global gas market dynamics"
-      ]
-    }
-  },
-  {
-    "id": "7628457",
-    "headline": "Indian source says Iran to allow India-flagged tankers through Hormuz as first tanker arrives - Reuters",
-    "summary": "Indian source says Iran to allow India-flagged tankers through Hormuz as first tanker arrives  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZmVyWE1BTTllX3pRQjU4Sk9fMzB2aFRmLW1ucl9DZzJDcUVkek8taTc2S0hXZHFnclNhVWxaRVpWQzVBc2k1emJDZGEwMGo4RnI2dnl2MzV5RTl3dzltTXRsZVVva1BqRFdGVExoc1lMSlI5LTQ3dTlzbm1mTjFhN1Bua0J2Sk45QzRMUS1BdWNpX0k0R1dDOElqclBhQnhEdGI0NU80b3VhdTc4cnpqLW5Ebkwtc1hOTkdVcE9UZlV1dlRS?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1773294840,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1773300972,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Iran has announced that it will allow India-flagged tankers to pass through the Strait of Hormuz, a key waterway for global oil trade. This decision comes after a recent escalation of tensions between Iran and the US. The Strait of Hormuz is a critical chokepoint for oil exports, with over 20% of global oil shipments passing through it. The move is seen as a positive development for Indian oil companies, particularly those with significant stakes in the region, such as Reliance Industries and Essar Oil. The decision is likely to reduce the risk of disruptions to oil supplies and may lead to increased trade between India and Iran.",
-      "impact": "The news is likely to have a positive impact on Indian oil companies, particularly those with significant stakes in the region. This could lead to increased trading volumes and revenue for companies like Reliance Industries and Essar Oil. The reduced risk of disruptions to oil supplies may also lead to a decrease in volatility in oil prices, benefiting oil producers and refiners. In the short-term, we expect to see an increase in oil imports from Iran, which could lead to a surge in demand for Indian shipping companies.",
-      "risks": [
-        "Escalation of tensions between Iran and the US",
-        "Potential for future disruptions to oil supplies",
-        "Dependence on Iranian oil imports"
       ]
     }
   },
@@ -2336,29 +2484,6 @@
         "Potential escalation of the conflict in the Middle East leading to a supply disruption",
         "Uncertainty around the IEA's decision and its potential impact on oil prices",
         "Dependence on the release of strategic oil stocks to stabilize the market"
-      ]
-    }
-  },
-  {
-    "id": "7627007",
-    "headline": "Trump administration estimates Iran war cost at over $11 billion in six days, source says - Reuters",
-    "summary": "Trump administration estimates Iran war cost at over $11 billion in six days, source says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZms1Uks3WlkteU9PX3BWWlVWTm56Z292b1lKZmlLM1o2VlZpZGZ4bHFUbjFrWmdIWVlULUNCMW51eXdBZElxZEtic0VSSjFEQjRLanB0dUJlTFpJUWRXRURqZkFDdWxoM1lZdHNocWhuWkpjNnJXNVc2WTFYSmUzMzl6N2ZkTTQ0a3liVXFvU2hKekxjUjRwU21KR0RpZkRJblFqa1dBVU9tcU1OeWEwQ1Q3U1IzbkRlSXJKVm9R?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1773266538,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1773281058,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The Trump administration estimates the cost of the Iran war at over $11 billion in just six days. This news suggests a significant escalation of military conflict, which could have far-reaching implications for global oil prices and the US defense industry. The war has already led to increased oil prices, which could negatively impact companies with high oil exposure in their operations or supply chains. The US defense industry, including companies like Lockheed Martin and Boeing, may benefit from the increased military spending, but the overall impact on the US economy and global markets remains uncertain.",
-      "impact": "The potential impact of this news on related stocks is bearish in the short term due to the increased uncertainty and potential for further escalation. Companies with high oil exposure, such as airlines and oil refiners, may see their earnings outlook deteriorate as oil prices rise. In the medium term, the increased military spending could benefit US defense contractors, but the overall impact on the US economy and global markets remains uncertain.",
-      "risks": [
-        "Increased oil prices and potential economic downturn",
-        "Escalation of conflict and geopolitical instability",
-        "Uncertainty around the US defense industry's earnings outlook"
       ]
     }
   },
@@ -22648,144 +22773,6 @@
         "Investor overexposure to complex and opaque investment products",
         "Lack of regulatory oversight and potential for market manipulation",
         "Increased risk of financial losses for individual investors"
-      ]
-    }
-  },
-  {
-    "id": "7579281",
-    "headline": "These increasingly popular loans can save you thousands of dollars in interest — or double your debt. Here’s when they work.",
-    "summary": "A personal loan can be a powerful tool for consolidating high-interest debt, but it’s far from a cure-all.",
-    "url": "https://www.marketwatch.com/story/these-increasingly-popular-loans-can-save-you-thousands-of-dollars-in-interest-or-double-your-debt-heres-when-they-work-79649449",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1772110800,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772114533,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Personal loans can be a useful tool for consolidating high-interest debt, but their effectiveness depends on individual circumstances. The article highlights the potential for these loans to save thousands of dollars in interest or even double debt, emphasizing the importance of careful consideration. The article does not mention specific companies or stocks, but the discussion of personal loans' pros and cons may influence consumer behavior and demand for related financial services. This, in turn, could impact the financial sector's performance.",
-      "impact": "The article's discussion of personal loans may lead to increased demand for financial services, potentially benefiting banks and other financial institutions. However, this could also lead to increased competition, potentially pressuring profit margins. In the short term, consumer sentiment may shift towards more cautious borrowing, while in the medium term, the article's message may influence consumer behavior and demand for financial services, affecting the sector's performance.",
-      "risks": [
-        "Increased competition in the financial sector",
-        "Potential for decreased profit margins",
-        "Uncertainty in consumer behavior and demand"
-      ]
-    }
-  },
-  {
-    "id": "7579270",
-    "headline": "Lawsuit over $21 million donor-advised fund highlights risks of DAF giving",
-    "summary": "Wealthy Americans use DAFs to give back and save on taxes, but the popular strategy comes with strings attached.",
-    "url": "https://www.cnbc.com/2026/02/26/lawsuit-donor-advised-fund-risks.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108269989-1772039634404-gettyimages-2252422637-218a8000.jpeg?v=1772039664&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1772109227,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772117165,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "A lawsuit over a $21 million donor-advised fund highlights the risks and conflicts of interest associated with these charitable giving vehicles. The case involves a donor who alleges that the nonprofit administering his family's fund has refused to communicate with him and has failed to make charitable grants as recommended. Donor-advised funds (DAFs) have gained popularity among the wealthy for their tax benefits, but critics argue they can be used as wealth hoarding vehicles. This case illustrates the potential disconnect between the legal rules governing DAFs and the understanding of the parties involved.",
-      "impact": "The lawsuit may lead to increased scrutiny of DAFs and their administrators, potentially impacting the reputation and business of companies that offer these services. This could lead to a decline in investor sentiment and a decrease in demand for DAFs, negatively affecting the earnings outlook for companies in the financial services industry. The case may also lead to increased regulatory attention, which could result in changes to the rules governing DAFs, further impacting the industry.",
-      "risks": [
-        "reputation risk for companies offering DAF services",
-        "regulatory risk due to increased scrutiny",
-        "decline in demand for DAF services"
-      ]
-    }
-  },
-  {
-    "id": "7579269",
-    "headline": "Billionaire family offices invested in pro soccer, bitcoin and semiconductors before the new year",
-    "summary": "The private investment firms of Leon Cooperman and the Walton family disclosed bold stock buys last quarter.",
-    "url": "https://www.cnbc.com/2026/02/26/billionaire-family-office-investments.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/105904186-1557428172192img_2809r.jpg?v=1703703990&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1772109001,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772117216,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Billionaire family offices made significant investments in various sectors, including semiconductors, airlines, and cryptocurrencies, in the fourth quarter of 2025. Notable investments include Leon Cooperman's Omega Advisors increasing its stake in Manchester United and buying over $375 million worth of shares in mortgage lender Rocket Companies. David Tepper's Appaloosa tripled its position in Micron, which has surged by roughly 50% since the start of 2026. These investments suggest that the ultra-wealthy are optimistic about the growth potential of these companies and sectors. The investments also highlight the diversification strategies of the family offices, which is a positive sign for the overall market.",
-      "impact": "The investments made by these family offices are likely to have a positive impact on the related stocks. For example, the surge in Micron's stock price is a testament to the growing demand for semiconductors in the AI data center market. The investments in airlines, such as Manchester United, may also boost the sector's sentiment and potentially lead to an increase in stock prices. However, the performance of cryptocurrency investments, such as Coinbase and iShares Bitcoin Trust ETF, has been less favorable, with the latter sinking 21% year-to-date.",
-      "risks": [
-        "valuation risk in the semiconductor sector due to rapid growth",
-        "sentiment risk in the airline sector due to potential economic downturn",
-        "regulatory risk in the cryptocurrency sector due to ongoing regulatory uncertainty"
-      ]
-    }
-  },
-  {
-    "id": "7579261",
-    "headline": "Democrat senators press Commerce Secretary Lutnick on conflict of interest concerns in USA Rare Earth deal",
-    "summary": "Senators Elizabeth Warren, Chris Van Hollen and Ron Wyden are pressing Commerce Secretary Howard Lutnick for more information on the USA Rare Earth deal.",
-    "url": "https://www.cnbc.com/2026/02/26/warren-lutnick-usa-rare-earth-usar-critical-minerals.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108133387-1744900687913-108133387-17449005912025-04-08t162310z_1392428932_rc2stdarxtul_rtrmadp_0_usa-trump-tariffs-greer-1.jpg?v=1769189864&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1772107151,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772109005,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "US senators have raised conflict of interest concerns regarding Commerce Secretary Howard Lutnick's involvement in the USA Rare Earth deal. Lutnick's former firm Cantor Fitzgerald was selected as the lead placement agent for a $1.5 billion fundraising round for USA Rare Earth, which received a $1.6 billion funding commitment from the Commerce Department. The senators are questioning whether Lutnick's family members may have benefited financially from the deal. The Commerce Department's investment in USA Rare Earth is now under scrutiny due to Lutnick's close ties to Cantor Fitzgerald and the potential for a conflict of interest.",
-      "impact": "The potential conflict of interest may lead to increased regulatory scrutiny and potential delays or even cancellation of the USA Rare Earth deal. This could negatively impact the company's ability to scale up its rare earth mining and magnet manufacturing business, potentially affecting its earnings outlook and valuation. The incident may also damage the reputation of the Commerce Department and Secretary Lutnick, potentially affecting the broader sentiment towards the US government's involvement in the critical minerals industry.",
-      "risks": [
-        "Regulatory scrutiny risk",
-        "Conflict of interest risk",
-        "Deal cancellation risk"
-      ]
-    }
-  },
-  {
-    "id": "7579258",
-    "headline": "Why strategist Tom Lee believes the AI bloodbath and crypto selloff is almost over",
-    "summary": "Fundstrat’s Tom Lee says the tech and crypto selloff has gone just about as far as it’s going to go.",
-    "url": "https://www.marketwatch.com/story/why-strategist-tom-lee-believes-the-ai-bloodbath-and-crypto-selloff-is-almost-over-0ccdbb49",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1772106900,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772109054,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Tom Lee, a strategist at Fundstrat, believes the AI and crypto selloff has reached its peak and is nearing an end. This assessment is based on his analysis of market behavior, which suggests that the downturn has gone as far as it will go. Lee's view is influenced by the fact that the tech sector has already experienced a significant decline, and further selling would require a substantial increase in bearish sentiment. Historically, such a scenario has been rare, indicating that the market may be due for a rebound.",
-      "impact": "The potential impact of Tom Lee's prediction is a short-term bounce in the tech and crypto sectors, driven by a decrease in selling pressure and an increase in buying interest. This could lead to a stabilization or even a modest increase in stock prices, particularly for companies heavily exposed to AI and crypto-related businesses. The medium-term effect may be a re-evaluation of the sector's growth prospects, leading to a re-rating of valuations and a potential increase in investor interest.",
-      "risks": [
-        "Potential for a prolonged downturn if investor sentiment remains bearish",
-        "Uncertainty surrounding the pace and extent of the market recovery",
-        "Risk of a new wave of selling if fundamental issues in the AI and crypto sectors are not addressed"
-      ]
-    }
-  },
-  {
-    "id": "7579246",
-    "headline": "Rolls-Royce stock has outperformed Nvidia’s in the last three years — and the gap is growing",
-    "summary": "Chief executive Tufan Erginbilgic raised guidance for the size of the share buyback program, free cash flow and underlying profits",
-    "url": "https://www.marketwatch.com/story/rolls-royce-stock-has-outperformed-nvidias-in-the-last-three-years-and-the-gap-is-growing-61464759",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1772104080,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772105294,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Rolls-Royce Holdings PLC has outperformed Nvidia Corp in the last three years, with the gap between the two stocks widening. The company's CEO, Tufan Erginbilgic, has raised guidance for the share buyback program, free cash flow, and underlying profits. This indicates a more optimistic outlook for the company's financial performance. The increased buyback program may also suggest that the company is confident in its valuation and believes its shares are undervalued. The improved guidance for free cash flow and underlying profits may lead to increased investor confidence and higher stock prices.",
-      "impact": "The outperformance of Rolls-Royce stock and the raised guidance for the share buyback program, free cash flow, and underlying profits may lead to increased investor confidence and higher stock prices in the short-term. This could drive a further widening of the gap between Rolls-Royce and Nvidia in the medium-term. The improved financial performance may also attract more investors to the sector, potentially benefiting other aerospace and industrial stocks.",
-      "risks": [
-        "Economic downturn risk, as a slowdown in global economic growth could negatively impact Rolls-Royce's demand for its products",
-        "Competition risk, as other aerospace and industrial companies may respond to Rolls-Royce's improved performance by increasing their own investments and competitiveness",
-        "Valuation risk, as the stock price may become overvalued if investor enthusiasm becomes excessive"
       ]
     }
   }
