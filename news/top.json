@@ -47,8 +47,8 @@
   },
   {
     "id": "7634622",
-    "headline": "Zelenskiy heads to France as Iran war distracts from Ukraine - Reuters",
-    "summary": "Zelenskiy heads to France as Iran war distracts from Ukraine  Reuters",
+    "headline": "Seeking support in France, Zelenskiy says Russia oil waiver won't help end war - Reuters",
+    "summary": "Seeking support in France, Zelenskiy says Russia oil waiver won't help end war  Reuters",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSWJSaExKUGMteGZpbmlOWTdIdHVnaWx0NjZ6S19YSktfMVhQdTJoWHpkS0dEeUlJTEpUTHExNFVhY2JYa0hKNG1LanU1bjhxbUpuLXEtOVY3R3RKZGF0dlJDYzIzWjhiOEJIZVY4NGluYzVwMGxWU29lZ01UR0xqeUlxRDJNMEdQUWh3VlBZS1lYSmlOTVh6cll5d3BJVmo0UE1YZWRJay1teGZDNDEyRGl3?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -145,7 +145,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1773393211
+    "publishedAt": 1773393211,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773412272,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "An explosion was reported near a Turkish military base hosting US troops, sparking concerns about regional security and potential escalation. The incident occurred overnight, but details are limited. The US has a significant military presence in Turkey, with several bases and personnel stationed in the country. This development may heighten tensions between the US and Turkey, particularly given their historical disagreements on various issues.",
+      "impact": "The news may lead to increased volatility in the Turkish lira and potentially affect the country's economy. The US-Turkey relationship is already strained due to various issues, including the purchase of Russian S-400 missile systems. This incident may exacerbate these tensions, leading to a short-term decline in US defense stocks, particularly those with significant exposure to Turkish operations or regional defense contracts. Medium-term, the situation may impact the US's ability to maintain its military presence in the region.",
+      "risks": [
+        "Escalation of US-Turkey tensions",
+        "Regional security risks",
+        "Impact on US defense stocks"
+      ]
+    }
   },
   {
     "id": "7634847",
@@ -155,7 +168,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1773391434
+    "publishedAt": 1773391434,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773412320,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "A Turkish-owned ship was allowed to pass through the Strait of Hormuz after being detained by Iranian authorities. The incident highlights the ongoing tensions between Iran and the international community. The Strait of Hormuz is a critical waterway for global oil trade, and disruptions to shipping in the region can have significant economic implications. The incident is a reminder of the geopolitical risks associated with international trade and the importance of diplomatic efforts to resolve conflicts peacefully. The news does not have a direct impact on the earnings outlook or valuation of specific stocks, but it may contribute to increased uncertainty and volatility in the market.",
+      "impact": "The news may have a short-term negative impact on the sentiment of investors with exposure to shipping or oil-related stocks, as the incident highlights the risks associated with international trade in the region. However, the incident is unlikely to have a significant impact on the earnings outlook or valuation of specific stocks, as the Strait of Hormuz is a critical waterway that is essential for global oil trade. The incident may contribute to increased uncertainty and volatility in the market, which could have a medium-term impact on liquidity and sentiment.",
+      "risks": [
+        "geopolitical risk",
+        "shipping disruption risk",
+        "oil price volatility risk"
+      ]
+    }
   },
   {
     "id": "7634513",
@@ -165,7 +191,21 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1773390708
+    "publishedAt": 1773390708,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773412369,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "The ongoing Iran war has caused disruptions to travel plans, with many trips being diverted or cancelled. This is affecting the tourism industry, particularly for countries that rely heavily on international travel. The crisis is also impacting airlines and travel companies, as they face increased costs and reduced demand. The situation is expected to continue affecting the industry in the short term, with potential long-term consequences for companies that rely on international travel.",
+      "impact": "The Iran war is likely to have a negative impact on airlines and travel companies, particularly those with significant exposure to the Middle East or international travel. This could lead to a decline in earnings for these companies in the short term, as well as potential valuation impacts due to reduced demand and increased costs. The sentiment towards these companies may also become more negative, leading to decreased investor confidence and potentially lower stock prices. In the medium term, the impact on the tourism industry could be more pronounced, affecting companies that rely heavily on international travel and tourism.",
+      "risks": [
+        "reduced demand risk",
+        "increased costs risk",
+        "valuation impact risk",
+        "sentiment risk"
+      ]
+    }
   },
   {
     "id": "7634190",
@@ -244,7 +284,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1773377234,
+    "publishedAt": 1773377220,
     "analysis": {
       "version": 2,
       "generatedAt": 1773393951,
@@ -291,7 +331,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1773372780
+    "publishedAt": 1773372780,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773412416,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The ongoing Iran war highlights the folly of slow energy transition, as oil prices surge due to supply disruptions. The conflict has resulted in a significant increase in oil prices, which could lead to higher production costs for energy companies. This, in turn, could negatively impact the earnings of energy companies that have not yet transitioned to cleaner energy sources. The war also underscores the importance of energy security and the need for diversified energy sources.",
+      "impact": "The Iran war is likely to have a negative impact on energy companies that have not yet transitioned to cleaner energy sources, as higher production costs could erode their margins. In the short-term, oil prices are expected to remain high, benefiting oil majors such as ExxonMobil and Chevron. However, in the medium-term, the war could accelerate the transition to cleaner energy sources, benefiting companies such as Vestas and Siemens Gamesa, which are leaders in the wind and renewable energy sectors.",
+      "risks": [
+        "higher production costs risk",
+        "earnings decline risk",
+        "accelerated transition risk"
+      ]
+    }
   },
   {
     "id": "7632752",
@@ -625,7 +678,43 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1773343037
+    "publishedAt": 1773343037,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773412463,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The US Navy is considering partnering with an international coalition to escort vessels in the Strait of Hormuz, a strategic waterway that connects the Persian Gulf to the Gulf of Oman. This development could increase the security and stability of the region, potentially leading to increased trade and economic activity. The Strait of Hormuz is a critical chokepoint for global oil exports, with over 20% of the world's oil passing through it. This news could have implications for companies involved in the oil and gas industry, such as those that provide shipping services or operate in the region.",
+      "impact": "The news is likely to be bullish for companies involved in the oil and gas industry, particularly those that provide shipping services or operate in the region. This could lead to increased demand for their services, driving up their earnings and valuations. In the short-term, we may see a surge in demand for shipping services, while in the medium-term, increased stability in the region could lead to increased investment and economic growth.",
+      "risks": [
+        "geopolitical tensions could escalate and undermine the coalition's efforts",
+        "the effectiveness of the coalition's efforts in securing the Strait of Hormuz is uncertain",
+        "the impact on oil prices and global trade could be unpredictable"
+      ]
+    }
+  },
+  {
+    "id": "7628457",
+    "headline": "Indian source says Iran to allow India-flagged tankers through Hormuz as first tanker arrives - Reuters",
+    "summary": "Indian source says Iran to allow India-flagged tankers through Hormuz as first tanker arrives  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZmVyWE1BTTllX3pRQjU4Sk9fMzB2aFRmLW1ucl9DZzJDcUVkek8taTc2S0hXZHFnclNhVWxaRVpWQzVBc2k1emJDZGEwMGo4RnI2dnl2MzV5RTl3dzltTXRsZVVva1BqRFdGVExoc1lMSlI5LTQ3dTlzbm1mTjFhN1Bua0J2Sk45QzRMUS1BdWNpX0k0R1dDOElqclBhQnhEdGI0NU80b3VhdTc4cnpqLW5Ebkwtc1hOTkdVcE9UZlV1dlRS?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1773341996,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773300972,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Iran has announced that it will allow India-flagged tankers to pass through the Strait of Hormuz, a key waterway for global oil trade. This decision comes after a recent escalation of tensions between Iran and the US. The Strait of Hormuz is a critical chokepoint for oil exports, with over 20% of global oil shipments passing through it. The move is seen as a positive development for Indian oil companies, particularly those with significant stakes in the region, such as Reliance Industries and Essar Oil. The decision is likely to reduce the risk of disruptions to oil supplies and may lead to increased trade between India and Iran.",
+      "impact": "The news is likely to have a positive impact on Indian oil companies, particularly those with significant stakes in the region. This could lead to increased trading volumes and revenue for companies like Reliance Industries and Essar Oil. The reduced risk of disruptions to oil supplies may also lead to a decrease in volatility in oil prices, benefiting oil producers and refiners. In the short-term, we expect to see an increase in oil imports from Iran, which could lead to a surge in demand for Indian shipping companies.",
+      "risks": [
+        "Escalation of tensions between Iran and the US",
+        "Potential for future disruptions to oil supplies",
+        "Dependence on Iranian oil imports"
+      ]
+    }
   },
   {
     "id": "7631300",
@@ -1757,29 +1846,6 @@
     }
   },
   {
-    "id": "7628457",
-    "headline": "Indian source says Iran to allow India-flagged tankers through Hormuz as first tanker arrives - Reuters",
-    "summary": "Indian source says Iran to allow India-flagged tankers through Hormuz as first tanker arrives  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZmVyWE1BTTllX3pRQjU4Sk9fMzB2aFRmLW1ucl9DZzJDcUVkek8taTc2S0hXZHFnclNhVWxaRVpWQzVBc2k1emJDZGEwMGo4RnI2dnl2MzV5RTl3dzltTXRsZVVva1BqRFdGVExoc1lMSlI5LTQ3dTlzbm1mTjFhN1Bua0J2Sk45QzRMUS1BdWNpX0k0R1dDOElqclBhQnhEdGI0NU80b3VhdTc4cnpqLW5Ebkwtc1hOTkdVcE9UZlV1dlRS?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1773294840,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1773300972,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Iran has announced that it will allow India-flagged tankers to pass through the Strait of Hormuz, a key waterway for global oil trade. This decision comes after a recent escalation of tensions between Iran and the US. The Strait of Hormuz is a critical chokepoint for oil exports, with over 20% of global oil shipments passing through it. The move is seen as a positive development for Indian oil companies, particularly those with significant stakes in the region, such as Reliance Industries and Essar Oil. The decision is likely to reduce the risk of disruptions to oil supplies and may lead to increased trade between India and Iran.",
-      "impact": "The news is likely to have a positive impact on Indian oil companies, particularly those with significant stakes in the region. This could lead to increased trading volumes and revenue for companies like Reliance Industries and Essar Oil. The reduced risk of disruptions to oil supplies may also lead to a decrease in volatility in oil prices, benefiting oil producers and refiners. In the short-term, we expect to see an increase in oil imports from Iran, which could lead to a surge in demand for Indian shipping companies.",
-      "risks": [
-        "Escalation of tensions between Iran and the US",
-        "Potential for future disruptions to oil supplies",
-        "Dependence on Iranian oil imports"
-      ]
-    }
-  },
-  {
     "id": "7628775",
     "headline": "Morning Bid: Iran widens war on shipping, Trump talks Strait - Reuters",
     "summary": "Morning Bid: Iran widens war on shipping, Trump talks Strait  Reuters",
@@ -1942,6 +2008,29 @@
     }
   },
   {
+    "id": "7627314",
+    "headline": "Exclusive: US intelligence says Iran government is not at risk of collapse, say sources - Reuters",
+    "summary": "Exclusive: US intelligence says Iran government is not at risk of collapse, say sources  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVkc0amxITVJ2TWtxcmtBdTRsWTNFTnBXazNQcXh3UHJrV2NUNEZobERQSE5GUXV3dWMtTzFOYjJ6aHVRcUcyTkt3WjZMZGJnQ2RQRFNkM0QzOFlsT0NUeHkxcHZTcHBSQTg1ZDdoeDNjV29pSWhuU29vSnB5UTlsdU9nYl9pQ0JoTk1UQ09CRmo1ak5lbnBLNXJVY19YRC03VlJFdWdtOGVYMXU4MlVVeXBuQWNMRmN5Q0I0NXlGMXFZSk9QV29V?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1773270932,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773280960,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "US intelligence sources indicate that the Iranian government is not at risk of collapse, contradicting previous concerns. This news is significant as it removes a major geopolitical risk factor for companies operating in the region, particularly those with exposure to Iran's energy sector. The news is also a positive development for the global oil market, as Iran is a major oil producer. The removal of this risk factor could lead to increased investor confidence and potentially higher stock prices for companies with exposure to the region.",
+      "impact": "The news is likely to be positive for companies with exposure to the Iranian energy sector, such as oil and gas producers. In the short-term, this could lead to increased investor confidence and higher stock prices. In the medium-term, the removal of this risk factor could lead to increased investment in the region, driving growth and potentially higher earnings for companies with exposure to Iran. This could also lead to a decrease in the price of oil, which could be a negative for oil producers but a positive for companies with exposure to the refining and downstream sectors.",
+      "risks": [
+        "Potential escalation of tensions with Iran could still lead to a change in government or instability",
+        "Oil prices could still be influenced by other geopolitical factors, such as OPEC production levels or global demand",
+        "Companies with exposure to Iran may still face regulatory or reputational risks"
+      ]
+    }
+  },
+  {
     "id": "7625963",
     "headline": "Gulf trio review sovereign investments to offset Iran war impact, official says - Reuters",
     "summary": "Gulf trio review sovereign investments to offset Iran war impact, official says  Reuters",
@@ -1961,29 +2050,6 @@
         "Decrease in oil prices and subsequent decline in earnings outlook",
         "Decrease in investor sentiment and stock prices",
         "Decrease in liquidity in the region's stock markets"
-      ]
-    }
-  },
-  {
-    "id": "7627314",
-    "headline": "Exclusive: US intelligence says Iran government is not at risk of collapse, say sources - Reuters",
-    "summary": "Exclusive: US intelligence says Iran government is not at risk of collapse, say sources  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVkc0amxITVJ2TWtxcmtBdTRsWTNFTnBXazNQcXh3UHJrV2NUNEZobERQSE5GUXV3dWMtTzFOYjJ6aHVRcUcyTkt3WjZMZGJnQ2RQRFNkM0QzOFlsT0NUeHkxcHZTcHBSQTg1ZDdoeDNjV29pSWhuU29vSnB5UTlsdU9nYl9pQ0JoTk1UQ09CRmo1ak5lbnBLNXJVY19YRC03VlJFdWdtOGVYMXU4MlVVeXBuQWNMRmN5Q0I0NXlGMXFZSk9QV29V?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1773270451,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1773280960,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "US intelligence sources indicate that the Iranian government is not at risk of collapse, contradicting previous concerns. This news is significant as it removes a major geopolitical risk factor for companies operating in the region, particularly those with exposure to Iran's energy sector. The news is also a positive development for the global oil market, as Iran is a major oil producer. The removal of this risk factor could lead to increased investor confidence and potentially higher stock prices for companies with exposure to the region.",
-      "impact": "The news is likely to be positive for companies with exposure to the Iranian energy sector, such as oil and gas producers. In the short-term, this could lead to increased investor confidence and higher stock prices. In the medium-term, the removal of this risk factor could lead to increased investment in the region, driving growth and potentially higher earnings for companies with exposure to Iran. This could also lead to a decrease in the price of oil, which could be a negative for oil producers but a positive for companies with exposure to the refining and downstream sectors.",
-      "risks": [
-        "Potential escalation of tensions with Iran could still lead to a change in government or instability",
-        "Oil prices could still be influenced by other geopolitical factors, such as OPEC production levels or global demand",
-        "Companies with exposure to Iran may still face regulatory or reputational risks"
       ]
     }
   },
