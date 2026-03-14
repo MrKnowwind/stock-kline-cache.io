@@ -1,5 +1,28 @@
 [
   {
+    "id": "7640402",
+    "headline": "Week in review: How we navigated the Iran war-driven surge in oil that slammed stocks",
+    "summary": "The S&P 500 suffered its first three-week losing streak in roughly a year.",
+    "url": "https://www.cnbc.com/2026/03/14/week-in-review-how-we-navigated-the-iran-war-driven-surge-in-oil-that-slammed-stocks.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/103869719-GettyImages-543300318.jpg?v=1773421272&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1773504713,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773507875,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "The recent surge in oil prices due to the Iran war has led to a three-week losing streak in the S&P 500, with nine out of 11 sector indexes declining. The energy and utilities sectors were among the few winners, as Brent crude and West Texas Intermediate crude prices jumped over 11% and 8%, respectively. This volatility is expected to persist as long as Iran continues to block oil tankers or threaten to attack them in the Strait of Hormuz. The market is also concerned about the potential for stagflation, with inflation expected to tick up in the coming months.",
+      "impact": "The oil price surge and concerns about stagflation are likely to have a negative impact on the earnings outlook for companies in the S&P 500, particularly those in the consumer staples and industrials sectors. The increased cost of oil could lead to higher production costs and reduced profit margins for these companies. Additionally, the uncertainty surrounding the Iran conflict and its impact on oil prices is likely to contribute to market volatility, making it challenging for investors to make informed decisions. The potential for interest rate cuts from the Federal Reserve is also being reassessed, which could have a medium-term impact on the overall market.",
+      "risks": [
+        "stagflation risk",
+        "oil price volatility risk",
+        "earnings outlook risk"
+      ]
+    }
+  },
+  {
     "id": "7637874",
     "headline": "Fire at UAE oil hub as Iran vows retaliation for US attack on Kharg Island - Reuters",
     "summary": "Fire at UAE oil hub as Iran vows retaliation for US attack on Kharg Island  Reuters",
@@ -7,7 +30,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1773500645,
+    "publishedAt": 1773504345,
     "analysis": {
       "version": 2,
       "generatedAt": 1773462315,
@@ -1526,6 +1549,29 @@
     }
   },
   {
+    "id": "7631300",
+    "headline": "US and allies clash with Russia and China at UN over Iran nuclear program - Reuters",
+    "summary": "US and allies clash with Russia and China at UN over Iran nuclear program  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdnkwSHpNcDZvaGpYci1PZTZBUG5ER3gxM2kyUTQ2YWdoOS1EZjJRN2xqNHJzY0JhSjhOTnVXSlpNNE1PYUFlbFpmRGJ1UnJFWEtQaUtVa2I3T2Y4R2pVcDRlMThGa0J1aXgtNzdQQkc0Wk9DX0ozdE54ZUN0dG9weHdKNnlYY19DQ3JtODBVZ0VUQmlDSlk4WG9nZ3FyZGVUTzZsSmt6T1M0a1U?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1773380433,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773352928,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The US and its allies have clashed with Russia and China at the UN over Iran's nuclear program, escalating tensions in the region. The disagreement highlights the ongoing geopolitical risks associated with Iran's nuclear ambitions. This development may lead to increased uncertainty for companies with exposure to the region or those with significant operations in countries affected by the tensions. The situation may also impact global energy markets, as Iran is a significant oil producer.",
+      "impact": "The escalating tensions may lead to a short-term increase in volatility for energy-related stocks, particularly those with exposure to the Middle East region. In the medium term, the situation may impact the earnings outlook for companies with significant operations in the region, such as those in the oil and gas sector. The increased uncertainty may also lead to a decline in investor sentiment, potentially affecting stock prices.",
+      "risks": [
+        "geopolitical risk",
+        "energy market volatility",
+        "earnings outlook uncertainty"
+      ]
+    }
+  },
+  {
     "id": "7633261",
     "headline": "Exclusive: With Iran war exit elusive, Trump aides vie to affect outcome - Reuters",
     "summary": "Exclusive: With Iran war exit elusive, Trump aides vie to affect outcome  Reuters",
@@ -2099,29 +2145,6 @@
         "Escalation of tensions between Iran and the US",
         "Potential for future disruptions to oil supplies",
         "Dependence on Iranian oil imports"
-      ]
-    }
-  },
-  {
-    "id": "7631300",
-    "headline": "US and allies clash with Russia and China at UN over Iran nuclear program - Reuters",
-    "summary": "US and allies clash with Russia and China at UN over Iran nuclear program  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdnkwSHpNcDZvaGpYci1PZTZBUG5ER3gxM2kyUTQ2YWdoOS1EZjJRN2xqNHJzY0JhSjhOTnVXSlpNNE1PYUFlbFpmRGJ1UnJFWEtQaUtVa2I3T2Y4R2pVcDRlMThGa0J1aXgtNzdQQkc0Wk9DX0ozdE54ZUN0dG9weHdKNnlYY19DQ3JtODBVZ0VUQmlDSlk4WG9nZ3FyZGVUTzZsSmt6T1M0a1U?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1773341203,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1773352928,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The US and its allies have clashed with Russia and China at the UN over Iran's nuclear program, escalating tensions in the region. The disagreement highlights the ongoing geopolitical risks associated with Iran's nuclear ambitions. This development may lead to increased uncertainty for companies with exposure to the region or those with significant operations in countries affected by the tensions. The situation may also impact global energy markets, as Iran is a significant oil producer.",
-      "impact": "The escalating tensions may lead to a short-term increase in volatility for energy-related stocks, particularly those with exposure to the Middle East region. In the medium term, the situation may impact the earnings outlook for companies with significant operations in the region, such as those in the oil and gas sector. The increased uncertainty may also lead to a decline in investor sentiment, potentially affecting stock prices.",
-      "risks": [
-        "geopolitical risk",
-        "energy market volatility",
-        "earnings outlook uncertainty"
       ]
     }
   },
@@ -22760,29 +22783,6 @@
       "summary": "A brother is experiencing paranoid delusions and forgot he sold his house, prompting his sister to seek help. The brother's lawyer describes him as having 'gone over the deep end.' This personal story is unrelated to any specific company or industry, making it irrelevant to the stock market.",
       "impact": "This news has no direct impact on the stock market or any specific company's earnings outlook, valuation, sentiment, liquidity, or macro factors. However, it may raise awareness about mental health issues and the importance of seeking help when needed.",
       "risks": []
-    }
-  },
-  {
-    "id": "7579544",
-    "headline": "KISS rocker Gene Simmons lowers price of Beverly Hills home to $12.5 million after months on the market",
-    "summary": "This is the second time KISS bassist Gene Simmons has cut the price of the luxury home.",
-    "url": "https://www.marketwatch.com/story/kiss-rocker-gene-simmons-lowers-price-of-beverly-hills-home-to-12-5-million-after-months-on-the-market-68bed304",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1772186640,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772187776,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "KISS bassist Gene Simmons has reduced the price of his Beverly Hills home to $12.5 million, marking the second price cut in months. This move suggests that the luxury real estate market may be experiencing a slowdown, potentially impacting the overall demand for high-end properties. The price reduction may also indicate that Simmons is motivated to sell the property, which could be a sign of his personal financial situation. The news does not have a direct impact on the stock market, as there are no related publicly traded companies mentioned in the article.",
-      "impact": "The price reduction of Gene Simmons' home is unlikely to have a significant impact on the stock market in the short term. However, it may contribute to a broader trend of reduced luxury property prices, which could affect companies involved in the real estate industry, such as homebuilders or real estate investment trusts (REITs). The news may also influence consumer sentiment and spending patterns, potentially affecting companies that cater to high-end consumers.",
-      "risks": [
-        "slowing demand for luxury properties",
-        "impact on high-end consumer spending",
-        "potential broader market correction in the real estate sector"
-      ]
     }
   }
 ]
