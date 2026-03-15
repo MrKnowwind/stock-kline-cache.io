@@ -30,7 +30,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1773532860,
+    "publishedAt": 1773532885,
     "analysis": {
       "version": 2,
       "generatedAt": 1773550687,
@@ -511,7 +511,20 @@
     "source": "Bloomberg",
     "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
     "relatedSymbols": [],
-    "publishedAt": 1773470197
+    "publishedAt": 1773470197,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773561948,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Hindalco has suspended aluminum product sales due to the ongoing Iran war, citing force majeure. The conflict has disrupted supply chains, affecting the company's ability to meet customer demands. This development is a significant challenge for Hindalco, as aluminum is a key product in its portfolio. The company's reliance on international supply chains and markets makes it vulnerable to global events like this war.",
+      "impact": "The suspension of aluminum sales is likely to have a negative impact on Hindalco's short-term earnings, as the company will miss out on revenue from these sales. In the medium term, the disruption to supply chains and potential long-term damage to global trade relationships may lead to increased costs and reduced competitiveness for Hindalco. This could negatively affect the company's valuation and sentiment among investors, potentially leading to a decline in stock price.",
+      "risks": [
+        "supply chain disruption risk",
+        "earnings slowdown risk",
+        "valuation risk"
+      ]
+    }
   },
   {
     "id": "7638374",
@@ -1282,29 +1295,6 @@
     }
   },
   {
-    "id": "7633261",
-    "headline": "Exclusive: With Iran war exit elusive, Trump aides vie to affect outcome - Reuters",
-    "summary": "Exclusive: With Iran war exit elusive, Trump aides vie to affect outcome  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMGNvdWxQazMxelV6UklsTUloWlB3SC03cHFkOXVZdmJRMkpLYkFlVHpYODlMOTN5aHVKaUpkQnZ2UUFOazJudzVOQktqYmxFQ2pHeUNNTVBPZEFJeXRVa3NfWEpEZDBMb1o0QXZDOTY1Uk1uTjVnT2M4LUZ0dWc4a2h4WXRYeDB6VkxLOF80NjR6a3M1alpCQVJJQUVsSVJnd3FiNA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1773405763,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1773383695,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The article reports on the ongoing efforts of Trump's aides to influence the outcome of the Iran war. The situation remains uncertain, with no clear exit strategy in sight. The background is a prolonged conflict in the Middle East, which has significant implications for global oil prices and trade. The news highlights the challenges in resolving the conflict and the potential consequences for the US and its allies. The situation is complex and sensitive, with various stakeholders vying for influence.",
-      "impact": "The news is likely to have a neutral impact on the oil and gas sector in the short term, as the conflict's outcome remains uncertain. However, if the conflict escalates, oil prices could surge, benefiting companies like ExxonMobil and Chevron. In the medium term, a prolonged conflict could lead to increased military spending, benefiting defense contractors like Boeing and Lockheed Martin. However, this would depend on the specific outcome and the US government's response.",
-      "risks": [
-        "Escalation of the conflict and its impact on global oil prices",
-        "Uncertainty around the US government's response and its potential consequences",
-        "Increased military spending and its impact on the defense sector"
-      ]
-    }
-  },
-  {
     "id": "7636040",
     "headline": "Swiss money managers expect Iran war to increase inflows from Gulf - Reuters",
     "summary": "Swiss money managers expect Iran war to increase inflows from Gulf  Reuters",
@@ -1902,6 +1892,29 @@
         "geopolitical risk",
         "energy market volatility",
         "earnings outlook uncertainty"
+      ]
+    }
+  },
+  {
+    "id": "7633261",
+    "headline": "Exclusive: With Iran war exit elusive, Trump aides vie to affect outcome - Reuters",
+    "summary": "Exclusive: With Iran war exit elusive, Trump aides vie to affect outcome  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMGNvdWxQazMxelV6UklsTUloWlB3SC03cHFkOXVZdmJRMkpLYkFlVHpYODlMOTN5aHVKaUpkQnZ2UUFOazJudzVOQktqYmxFQ2pHeUNNTVBPZEFJeXRVa3NfWEpEZDBMb1o0QXZDOTY1Uk1uTjVnT2M4LUZ0dWc4a2h4WXRYeDB6VkxLOF80NjR6a3M1alpCQVJJQUVsSVJnd3FiNA?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1773378120,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773383695,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The article reports on the ongoing efforts of Trump's aides to influence the outcome of the Iran war. The situation remains uncertain, with no clear exit strategy in sight. The background is a prolonged conflict in the Middle East, which has significant implications for global oil prices and trade. The news highlights the challenges in resolving the conflict and the potential consequences for the US and its allies. The situation is complex and sensitive, with various stakeholders vying for influence.",
+      "impact": "The news is likely to have a neutral impact on the oil and gas sector in the short term, as the conflict's outcome remains uncertain. However, if the conflict escalates, oil prices could surge, benefiting companies like ExxonMobil and Chevron. In the medium term, a prolonged conflict could lead to increased military spending, benefiting defense contractors like Boeing and Lockheed Martin. However, this would depend on the specific outcome and the US government's response.",
+      "risks": [
+        "Escalation of the conflict and its impact on global oil prices",
+        "Uncertainty around the US government's response and its potential consequences",
+        "Increased military spending and its impact on the defense sector"
       ]
     }
   },
