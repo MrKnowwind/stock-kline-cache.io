@@ -1,5 +1,51 @@
 [
   {
+    "id": "7649635",
+    "headline": "He manages the best-performing stock mutual fund of the past 25 years—here's his top advice for investors",
+    "summary": "Michael Lippert runs Baron Opportunity, a mutual fund which aims to invest in fast-growing stocks benefitting from technological trends.",
+    "url": "https://www.cnbc.com/2026/03/16/michael-lippert-baron-opportunity-fund-investing-advice.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108277461-1773342506925-Michael_Lippert_1.jpg?v=1773342719&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1773669800,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773676008,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Baron Opportunity Fund, managed by Michael Lippert, has delivered a 13% annualized return over the past 25 years, outperforming the S&P 500 by 6.4%. Lippert attributes the fund's success to its focus on investing in fast-growing companies benefiting from technological trends. He emphasizes the importance of identifying durable and sustainable growth opportunities, often related to emerging technologies with significant addressable markets. The fund's strategy involves relying on a team of industry analysts to identify industry themes and trends that are likely to inflect and drive long-term growth.",
+      "impact": "The news is likely to have a positive impact on the stock prices of companies that benefit from emerging technologies, such as AI, cloud computing, and mobile. Investors may increase their exposure to these sectors, driving up valuations and sentiment. The fund's focus on long-term growth may also lead to increased demand for stocks with durable business models and competitive advantages.",
+      "risks": [
+        "valuation risk: increased investor demand may drive up stock prices, making them less attractive",
+        "sector rotation risk: investors may shift their focus to other sectors, potentially reducing demand for the fund's holdings",
+        "regulatory risk: changes in government policies or regulations could impact the growth prospects of the fund's holdings"
+      ]
+    }
+  },
+  {
+    "id": "7649636",
+    "headline": "We're buying more of these 2 stocks to take advantage of a deeply oversold market",
+    "summary": "Our trusted momentum indicator is signaling that we need to do some buying.",
+    "url": "https://www.cnbc.com/2026/03/16/were-buying-more-of-these-2-stocks-to-take-advantage-of-a-deeply-oversold-market.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108127006-17437961972025-04-04t194746z_1071352293_rc27rdalxdst_rtrmadp_0_usa-stocks.jpeg?v=1747157723&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1773669743,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773676058,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "CNBC's Jim Cramer's Charitable Trust is buying more shares of Boeing and Goldman Sachs due to a deeply oversold market. The S&P 500 fell 0.61% on Friday, and the S&P Short Range Oscillator moved further into oversold territory. This has prompted Cramer to buy high-quality companies, including Boeing and Goldman Sachs, despite potential risks from a prolonged conflict with Iran. Boeing CFO Jay Malave is speaking at a conference on Tuesday, which could provide insight into the company's first-quarter free cash flow outlook.",
+      "impact": "The buying of Boeing shares could be driven by a potential 'tactical bottom' in the stock if the company lowers its first-quarter free cash flow outlook but reiterates its full-year guidance. Goldman Sachs' shares are being bought back due to the potential for massive IPO deals to drive fees. The oversold market and potential for a 'tactical bottom' in Boeing could lead to short-term gains. The medium-term impact will depend on the company's earnings outlook and the overall market sentiment.",
+      "risks": [
+        "Prolonged conflict with Iran could pressure Goldman Sachs' IPO calendar",
+        "Risk of oil prices reversing higher and pressuring equities",
+        "Uncertainty around Boeing's first-quarter free cash flow outlook"
+      ]
+    }
+  },
+  {
     "id": "7649634",
     "headline": "10 high-paying careers where women make up the majority of workers—most pay more than $100,000",
     "summary": "Women make up 50% or more of the workforce in these high-paying fields, according to Resume Genius.",
@@ -19,6 +65,29 @@
         "Regulatory changes in the healthcare industry could impact the demand for services and products offered by these companies.",
         "A slowdown in job growth in the healthcare industry could negatively impact the earnings and stock prices of companies in this sector.",
         "Increased competition from other industries or companies could erode market share and profitability for healthcare companies."
+      ]
+    }
+  },
+  {
+    "id": "7647093",
+    "headline": "Iran war hits refined fuels harder than crude and importers need to act - Reuters",
+    "summary": "Iran war hits refined fuels harder than crude and importers need to act  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSnlYcTBheUxQWkstRERjVkdrZWlBaEwwQ3NvMUoydFBnLWY5X3ZiamxmcXBFYnl4QVdCSHhpSThDdnEwM3pKSlBtMVZIQmp1cE44Z0RDWEFMUFV5TVFBcVlKZWJuTXBwNWR4cExBRDNfdklGUXg4WXB5M09wQmVqRkVZU21NYWdscXNtVE1kcVprZlFhVFVuamMzVW5makRRWHB0U21EWlR3WGxubnFsTU9McUxYWXpkYUE2Sw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1773666779,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773628960,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The ongoing Iran war is affecting refined fuels more severely than crude oil, leading to higher prices and potential shortages. This is due to the disruption of supply chains and logistics in the region. Importers are now facing difficulties in securing refined fuels, which could impact their operations and profitability. The situation is expected to persist until the conflict is resolved.",
+      "impact": "The potential impact on the energy sector is significant, with refined fuel prices likely to remain high in the short term. This could lead to increased costs for importers, potentially affecting their earnings and profitability. In the medium term, the situation could also impact the demand for refined fuels, as importers may seek alternative sources or adjust their operations to mitigate the effects of the conflict. The increased volatility in refined fuel prices could also lead to a re-evaluation of investment strategies in the sector.",
+      "risks": [
+        "Refined fuel supply chain disruption risk",
+        "Price volatility risk",
+        "Importers' earnings and profitability risk"
       ]
     }
   },
@@ -69,6 +138,29 @@
     }
   },
   {
+    "id": "7649754",
+    "headline": "Exclusive: As India seeks Hormuz safe passage, Tehran asks for return of seized tankers, sources say - Reuters",
+    "summary": "Exclusive: As India seeks Hormuz safe passage, Tehran asks for return of seized tankers, sources say  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZWtxbjBIaEZzbDlhVnJseS1PYzQzaHZsckk4WEdPTjdmSU14ZGxGMG93TFV4OXhKalJLRVBPYV9obWRDREFRcjFWZjEyalVNSmhnc1BFczZpZWVFZXRIaXZGQmlRSTRhSjRPUDVLQzQ2Y0dJamNQQ3plY0N0ZEJFeVdrS2lvNDRneUFlS0tkY1RpNjR0c2hmYm5yMENFWTRRWXp3Q0JaYWVxRllmdVRuOWlZZmN0Z3FTb1JWSHhYVnNqNlE?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1773666271,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773676108,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "India is seeking safe passage for its oil tankers through the Strait of Hormuz, while Iran is asking for the return of seized tankers. The Strait of Hormuz is a critical waterway for global oil trade, with India being one of the largest oil importers. The situation is a result of escalating tensions between Iran and the US, which has imposed sanctions on Iran. The return of seized tankers could potentially ease tensions and facilitate oil trade, but the situation remains uncertain.",
+      "impact": "The news may have a neutral impact on oil-related stocks in the short term, as the situation is still unfolding and there is no clear resolution. However, if the seized tankers are returned and oil trade resumes, it could positively impact oil prices and subsequently the earnings of oil-related companies. This could lead to a medium-term increase in stock prices for companies such as oil majors and shipping companies.",
+      "risks": [
+        "Escalating tensions between Iran and the US could lead to further disruptions in oil trade",
+        "Uncertainty around the return of seized tankers and the resumption of oil trade",
+        "Potential impact on global oil prices and the earnings of oil-related companies"
+      ]
+    }
+  },
+  {
     "id": "7649308",
     "headline": "Bessent says Treasury is not intervening in oil commodities markets and has no authority to do so",
     "summary": "Bessent addressed rumors that the Treasury Department or some other arm of government might step in to try to lower oil prices.",
@@ -92,25 +184,25 @@
     }
   },
   {
-    "id": "7647093",
-    "headline": "Iran war hits refined fuels harder than crude and importers need to act - Reuters",
-    "summary": "Iran war hits refined fuels harder than crude and importers need to act  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSnlYcTBheUxQWkstRERjVkdrZWlBaEwwQ3NvMUoydFBnLWY5X3ZiamxmcXBFYnl4QVdCSHhpSThDdnEwM3pKSlBtMVZIQmp1cE44Z0RDWEFMUFV5TVFBcVlKZWJuTXBwNWR4cExBRDNfdklGUXg4WXB5M09wQmVqRkVZU21NYWdscXNtVE1kcVprZlFhVFVuamMzVW5makRRWHB0U21EWlR3WGxubnFsTU9McUxYWXpkYUE2Sw?oc=5",
+    "id": "7649644",
+    "headline": "US 'fine' with some ships getting through Strait of Hormuz, Bessent says - Reuters",
+    "summary": "US 'fine' with some ships getting through Strait of Hormuz, Bessent says  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaUQ3SEtselRmdVVkYlVnVzFPVU1aRXJndGU2YzU0M0ZLalBPRFNiN0IxeVlPa1pvU3lFems3OHNRR1ROZ3dTRHFoeXJxUVlEOWR1THkyRzA0TlgzM1FkVXNJTTduYnJ4YkZMSm1rRFc5STk5eFhpMXlERmd5RERjaEgycXQzWkExdWFTbWxadXdKLTdtelliR25iNVU0SmZyVldiWERvenpKbXBQY1RFc181Ukk?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1773663656,
+    "publishedAt": 1773663645,
     "analysis": {
       "version": 2,
-      "generatedAt": 1773628960,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The ongoing Iran war is affecting refined fuels more severely than crude oil, leading to higher prices and potential shortages. This is due to the disruption of supply chains and logistics in the region. Importers are now facing difficulties in securing refined fuels, which could impact their operations and profitability. The situation is expected to persist until the conflict is resolved.",
-      "impact": "The potential impact on the energy sector is significant, with refined fuel prices likely to remain high in the short term. This could lead to increased costs for importers, potentially affecting their earnings and profitability. In the medium term, the situation could also impact the demand for refined fuels, as importers may seek alternative sources or adjust their operations to mitigate the effects of the conflict. The increased volatility in refined fuel prices could also lead to a re-evaluation of investment strategies in the sector.",
+      "generatedAt": 1773676160,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "US officials have stated that they are fine with some ships passing through the Strait of Hormuz, a key waterway in the Middle East. This statement comes after recent tensions between the US and Iran. The Strait of Hormuz is a critical shipping route for oil exports, and disruptions to it can have significant economic impacts. The US has been involved in a diplomatic effort to ease tensions with Iran, and this statement suggests a shift in their approach. The news does not directly impact the US economy, but it may influence the oil market and related industries.",
+      "impact": "The news may lead to a short-term increase in oil prices, which could benefit oil-producing companies such as ExxonMobil (XOM) and Chevron (CVX). However, the medium-term impact is uncertain, as the situation in the Strait of Hormuz remains volatile. The news may also affect the sentiment of investors in the energy sector, potentially leading to increased volatility in related stocks.",
       "risks": [
-        "Refined fuel supply chain disruption risk",
-        "Price volatility risk",
-        "Importers' earnings and profitability risk"
+        "Oil price volatility risk",
+        "Geopolitical risk",
+        "Supply chain disruption risk"
       ]
     }
   },
@@ -300,6 +392,16 @@
     }
   },
   {
+    "id": "7649643",
+    "headline": "AFC has received no notification from Iran on World Cup withdrawal - Reuters",
+    "summary": "AFC has received no notification from Iran on World Cup withdrawal  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQUcyclVDMVM5UjRYVTdRaGk2VE03QWVOZGZhRnZMWm5nWkFQZlZWVnAzZzJJVmFSc05SOXZTeGh0enFCRjdTeEQxcDF4cWlCMTE0VkRUa0RXdWRQcWlFbjVabWhMZ0FxNnZta09ST2VCU0pqV0RFZ2VCS2ZrZVJmYUVsYW9FSTNPM1RCY09Dd043Q3R5akhrNnNqMm1aenFaTEc0OEVXQ05CNkNy?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1773643140
+  },
+  {
     "id": "7649208",
     "headline": "Israel says Lebanese displaced won't return until its own citizens are safe - Reuters",
     "summary": "Israel says Lebanese displaced won't return until its own citizens are safe  Reuters",
@@ -356,6 +458,16 @@
         "Earnings downgrade risk"
       ]
     }
+  },
+  {
+    "id": "7649755",
+    "headline": "Morning Bid: Drawing to a strait is always a risky play - Reuters",
+    "summary": "Morning Bid: Drawing to a strait is always a risky play  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VOEZxTXNTTTFETDRPS2c3WEdoYkZHazZjNVE3RGhMSFk0M1h3NzFBUHJSUVhwNkdjcXNKTVBCbWRzeklZelFOamdEOHJldlo3NDZleG1JOVYtbHlLOXlmMG9RMjJiT3lRMW9SaHBMd2JtSXNMXzhGM1BSZTFhRk0?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1773639120
   },
   {
     "id": "7648132",
@@ -22614,144 +22726,6 @@
         "higher production costs risk",
         "earnings slowdown risk",
         "liquidity risk"
-      ]
-    }
-  },
-  {
-    "id": "7580028",
-    "headline": "‘Wonder Woman’ star Gal Gadot lists her elegant beachfront penthouse in Malibu for $8.75 million",
-    "summary": "Gadot and her husband have carried out extensive renovations of the home, which sits right on the beach.",
-    "url": "https://www.marketwatch.com/story/wonder-woman-star-gal-gadot-lists-her-elegant-beachfront-penthouse-in-malibu-for-8-75-million-88c5bd00",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1772445720,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772447448,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Gal Gadot and her husband have listed their beachfront penthouse in Malibu for $8.75 million after carrying out extensive renovations. The property's listing is not directly related to any publicly traded companies, so there are no specific stocks to analyze. However, the article highlights the luxury lifestyle of the actress and her husband, which may be relevant to the broader entertainment industry. The sale of the property could potentially impact the market for luxury real estate in the area.",
-      "impact": "The sale of the property is unlikely to have a direct impact on the stock market, but it may contribute to a positive sentiment shift in the entertainment industry. As a prominent actress, Gal Gadot's personal life and business ventures are closely followed by the media, which could influence public perception of the industry as a whole. The sale of the property may also have a positive impact on the local real estate market, potentially driving demand for other luxury properties in the area.",
-      "risks": [
-        "no direct impact on publicly traded companies",
-        "market volatility in the entertainment industry",
-        "overemphasis on celebrity news"
-      ]
-    }
-  },
-  {
-    "id": "7580029",
-    "headline": "‘Home Alone’ star Macaulay Culkin sells California estate for $14.25 million",
-    "summary": "Macaulay Culkin has quietly sold his sprawling California estate for $14.25 million—one year after he opened up about his role as a “homebody dad” with longtime partner Brenda Song.",
-    "url": "https://www.marketwatch.com/story/home-alone-star-macaulay-culkin-sells-california-estate-for-14-25-million-a306071a",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1772445660,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772447496,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Macaulay Culkin, a former child star, has sold his California estate for $14.25 million. This news is unrelated to any publicly traded companies, but it may have a tangential impact on the luxury real estate market. The sale of the estate could indicate a shift in Culkin's personal financial priorities or a change in the local real estate market. The sale price is significantly lower than the original asking price, suggesting a potential correction in the luxury real estate market.",
-      "impact": "The sale of Macaulay Culkin's estate is unlikely to have a direct impact on the stock market. However, it may have a slight positive impact on the sentiment of luxury real estate companies, such as D.R. Horton (DHI) or PulteGroup (PHM), as it suggests a stable and growing demand for high-end properties. In the short term, the sale may not have a significant impact on the companies' earnings outlook or valuation. In the medium term, a correction in the luxury real estate market could lead to a decrease in demand for high-end properties, potentially affecting the companies' sales and revenue.",
-      "risks": [
-        "luxury real estate market correction risk",
-        "demand slowdown risk",
-        "valuation risk"
-      ]
-    }
-  },
-  {
-    "id": "7580372",
-    "headline": "Middle East oil faces pricing confusion as Hormuz traffic halted",
-    "summary": "The pause comes as the crisis in the Middle East widens and vessels stop crossing Hormuz, leaving crude and fuel markets at risk of dislocation",
-    "url": "https://www.bloomberg.com/news/articles/2026-03-02/middle-east-oil-faces-pricing-muddle-as-hormuz-traffic-halted",
-    "source": "Bloomberg",
-    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
-    "relatedSymbols": [],
-    "publishedAt": 1772445268,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772537080,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The halt of vessel traffic through the Strait of Hormuz due to the ongoing crisis in the Middle East has created a pricing muddle in the oil market, threatening to disrupt crude and fuel supplies. This event is a significant escalation of the regional tensions, which have been escalating for weeks. The Strait of Hormuz is a critical chokepoint for global oil trade, with over 20% of the world's oil passing through it. The disruption is likely to lead to a supply chain dislocation and potentially higher prices, affecting energy companies and related industries.",
-      "impact": "The news is likely to have a bearish impact on energy stocks, particularly those with significant exposure to crude oil prices, such as ExxonMobil (XOM) and Chevron (CVX). The potential for higher oil prices could lead to a decline in earnings for these companies in the near term, which could negatively impact their stock prices. Additionally, the increased volatility in the oil market may also lead to a decrease in investor sentiment, making it more challenging for energy stocks to attract investors.",
-      "risks": [
-        "Supply chain disruption risk",
-        "Increased volatility risk",
-        "Higher oil prices risk"
-      ]
-    }
-  },
-  {
-    "id": "7579996",
-    "headline": "Global markets after Iran strikes: oil surges, airlines sink, bonds defy safe-haven playbook",
-    "summary": "Asian markets started the day lower across the board, with major markets in the region in negative territory.",
-    "url": "https://www.cnbc.com/2026/03/02/global-markets-after-iran-strikes-oil-surges-airlines-sink-bonds-defy-safe-haven-playbook.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108271021-1772206587449-gettyimages-2263882829-mms29191_dl8etm5t.jpeg?v=1772206777&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1772435606,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772437177,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Global markets were initially hit by the US and Israeli strikes on Iran, causing losses across Asian markets. However, energy and gold stocks surged as investors priced in the risk of a broader Middle East conflict, with oil prices rising over 8% and gold mining stocks advancing 4%. The Strait of Hormuz, a critical energy chokepoint, has seen tanker traffic slow to a near standstill, forcing a reevaluation of geopolitical risk. This has led to gains in energy and gold stocks, while airline stocks have been hit due to flight cancellations and disruptions.",
-      "impact": "The surge in oil prices could lead to a short-term boost in earnings for energy companies, particularly those with significant exposure to the Middle East. However, this could also lead to higher production costs and inflationary pressures for companies in other sectors. In the medium term, the increased risk of conflict in the region could lead to a reevaluation of investment in the energy sector, potentially driving up valuations for energy stocks. The airline industry is likely to face significant challenges in the short term due to flight cancellations and disruptions, potentially leading to earnings pressure and a decline in stock prices.",
-      "risks": [
-        "Increased production costs and inflationary pressures",
-        "Disruptions to global supply chains",
-        "Potential for further conflict escalation"
-      ]
-    }
-  },
-  {
-    "id": "7580335",
-    "headline": "Amazon Cloud suffers outage after ‘objects’ hit UAE data centre",
-    "summary": "AWS said the incident took place around 4:30PM local time on Sunday and the fire department shut off power to the facility and generators as they worked to extinguish the blaze",
-    "url": "https://www.bloomberg.com/news/articles/2026-03-02/amazon-cloud-suffers-outage-after-objects-hit-uae-data-center",
-    "source": "Bloomberg",
-    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
-    "relatedSymbols": [],
-    "publishedAt": 1772427280,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772519579,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "Amazon's cloud computing arm, Amazon Web Services (AWS), experienced a significant outage due to a fire at a data centre in the UAE. The incident occurred on Sunday at 4:30 PM local time, prompting the fire department to shut off power to the facility and generators. This disruption highlights the potential risks associated with AWS's global infrastructure and the complexity of its operations. The incident may raise concerns among investors about the company's ability to maintain high levels of service quality and reliability. AWS's reputation for uptime and security is a key factor in its appeal to customers, and any significant disruptions can impact its competitive advantage.",
-      "impact": "The outage may lead to short-term volatility in Amazon's stock price, particularly if investors perceive the incident as a sign of weakness in AWS's operations. In the medium term, the incident could impact Amazon's earnings outlook, as customers may reassess their reliance on AWS's services. The disruption may also lead to increased costs for Amazon as it works to restore services and maintain customer trust.",
-      "risks": [
-        "reputation risk",
-        "infrastructure risk",
-        "earnings growth risk"
-      ]
-    }
-  },
-  {
-    "id": "7580330",
-    "headline": "Crypto traders on tenterhooks as oil prices signal risks",
-    "summary": "Crypto traders brace for potential risks as rising oil prices impact market sentiment amid US-Iran tensions.",
-    "url": "https://www.bloomberg.com/news/articles/2026-03-02/crypto-traders-on-tenterhooks-as-oil-prices-signal-risks",
-    "source": "Bloomberg",
-    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
-    "relatedSymbols": [],
-    "publishedAt": 1772424301,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772512230,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "Rising oil prices due to US-Iran tensions have put crypto traders on high alert, potentially impacting market sentiment. The increased oil prices may lead to higher inflation, which could negatively affect the overall economy. This, in turn, may lead to a decrease in investor confidence in cryptocurrencies, causing a sell-off. The situation is further complicated by the fact that cryptocurrencies are often seen as a safe-haven asset, and investors may be looking to move their funds to more traditional assets.",
-      "impact": "The potential sell-off in cryptocurrencies could negatively impact companies involved in the space, such as Coinbase Global Inc. (COIN) and MicroStrategy Incorporated (MSTR), which may see a decline in trading volumes and revenue. In the short-term, this could lead to a decrease in their stock prices, making them more attractive to value investors. However, in the medium-term, the impact on these companies may be more significant if the sell-off persists and investor confidence in the sector is eroded.",
-      "risks": [
-        "Decrease in investor confidence in cryptocurrencies",
-        "Increased volatility in the market",
-        "Potential decline in trading volumes and revenue for companies involved in the space"
       ]
     }
   }
