@@ -1,5 +1,74 @@
 [
   {
+    "id": "7655897",
+    "headline": "Arizona charges Kalshi with criminal misdemeanors, alleging it's an illegal gambling operation",
+    "summary": "The Arizona charges are the first criminal charges to have been filed against Kalshi, though the company is embroiled in multiple lawsuits over its predictions platform.",
+    "url": "https://www.cnbc.com/2026/03/17/arizona-kalshi-criminal-misdemeanor-charges.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108276085-1773156133507-gettyimages-2265195133-kokovlis-notitle260309_npJWC.jpeg?v=1773775126&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1773774584,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773776635,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Kalshi, a predictions platform, has been charged with 20 misdemeanor counts of operating an illegal gambling operation in Arizona. This is the first criminal charge against the company, which has been embroiled in multiple lawsuits and investigations. Kalshi argues that it is subject to federal jurisdiction and has preemptively sued other states to stop them from enforcing their laws. The company's strategy of filing lawsuits to avoid accountability has been effective in some cases, but this latest development may indicate a shift in the regulatory landscape.",
+      "impact": "The charges against Kalshi could lead to a negative short-term impact on the company's stock price, as investors may view the development as a risk to its business operations. In the medium term, the regulatory environment for prediction markets may become more uncertain, potentially affecting the valuations of similar companies. The charges may also increase the likelihood of other states taking action against Kalshi, which could further exacerbate the situation.",
+      "risks": [
+        "Regulatory risk: Kalshi's business model may be challenged by state and federal regulators, potentially leading to increased compliance costs and reputational damage.",
+        "Liquidity risk: The uncertainty surrounding Kalshi's operations may lead to a decrease in investor confidence, potentially affecting the company's ability to access capital and maintain liquidity.",
+        "Reputational risk: The charges against Kalshi may damage its reputation, potentially affecting its ability to attract and retain customers and partners."
+      ]
+    }
+  },
+  {
+    "id": "7655791",
+    "headline": "The Fed issues its latest interest rate decision Wednesday. Here's what to expect",
+    "summary": "The Federal Reserve has little choice but to stay on the sidelines this week.",
+    "url": "https://www.cnbc.com/2026/03/17/the-fed-issues-its-latest-interest-rate-decision-wednesday-heres-what-to-expect.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108258502-1769629473598-gettyimages-2258106840-POWELL_FOMC.jpeg?v=1773767550&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1773773908,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773776682,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "The Federal Reserve is expected to hold interest rates steady at its upcoming meeting, with a near-zero chance of a rate cut. The decision is influenced by a mix of factors, including the Iraq war, inflation fears, and mixed signals from the labor market. The Fed's chair, Jerome Powell, will likely be cautious in his messaging, as his comments will be closely watched for hints about future rate changes. The Fed's 2% inflation target is also a consideration, with some experts warning that the Fed may need to re-evaluate its target if inflation remains above target for an extended period.",
+      "impact": "The Fed's decision is unlikely to have a significant short-term impact on stocks, but any hints about future rate changes could influence market sentiment and affect stock prices. In the medium term, a steady interest rate environment could support the overall economy and potentially boost stock prices. However, the uncertainty surrounding the Iraq war and its impact on inflation and oil prices may continue to weigh on investor sentiment and contribute to market volatility.",
+      "risks": [
+        "inflation risk",
+        "oil price volatility risk",
+        "macroeconomic uncertainty risk"
+      ]
+    }
+  },
+  {
+    "id": "7655790",
+    "headline": "Orlando Bravo pushes back on private markets criticism: 'Everybody's extremely comfortable'",
+    "summary": "Bravo said deep sector expertise is separating winners from losers as artificial intelligence creates disruption across the software industry.",
+    "url": "https://www.cnbc.com/2026/03/17/orlando-bravo-pushes-back-on-private-markets-criticism-everybodys-extremely-comfortable.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/107128581-1770836416021-107128581-1664833391865-IMG_9221r.jpg?v=1770836423&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1773773781,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773776731,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Orlando Bravo, founder of Thoma Bravo, pushed back on criticism of private markets, citing the firm's deep sector expertise as a key differentiator. He argued that artificial intelligence is creating disruption in the software industry, separating winners from losers. Bravo acknowledged a past misstep in overpaying for Medallia, but emphasized that the firm's broader portfolio is performing strongly. He noted that many publicly traded software companies are facing accelerating disruption due to AI, which will lead to valuation declines.",
+      "impact": "The news is likely to have a positive impact on Thoma Bravo's stock prices, as investors may become more confident in the firm's expertise and ability to navigate the software industry. The firm's strong performance and transparency may also attract more investors to the private markets. However, the news may also lead to increased scrutiny of private market valuations and liquidity, potentially affecting the overall market sentiment. In the short term, the news may lead to a slight increase in Thoma Bravo's stock price as investors become more optimistic about the firm's prospects.",
+      "risks": [
+        "Increased scrutiny of private market valuations and liquidity",
+        "Potential markdowns and redemption pressure across private credit and equity funds",
+        "AI-driven disruption in the software industry may lead to valuation declines in publicly traded software companies"
+      ]
+    }
+  },
+  {
     "id": "7655477",
     "headline": "Nissan joins Toyota, Honda in plans to export U.S. cars to Japan",
     "summary": "Nissan will export the Murano SUV built in Smyrna, Tennessee beginning early next year. It marks the first American-made Nissan sold in Japan since the 1990s.",
@@ -19,6 +88,29 @@
         "Limited demand in the Japanese market for imported vehicles",
         "Potential disruption to supply chains and logistics",
         "Competition from established Japanese automakers"
+      ]
+    }
+  },
+  {
+    "id": "7655689",
+    "headline": "Trump postpones trip to Beijing as Iran war delays China reset - Reuters",
+    "summary": "Trump postpones trip to Beijing as Iran war delays China reset  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONVlKMXZlRUFVbTZGWjNVWml6M3N0VTBSMnpmREljby1QNUxYTGE0X0wtVEg1emZoa0RadDJBWUo3RHlWMUE2RDJkSklTY3puRWQ5WHREZW83akNnV2RiTWNFdDVWSnlCT3o3WTFTZ0xfamF0NmV2NW4temJoUzZFZ3BzSjZ6ZG1oQ3BNLURVRTZteGlwQ0NUYnI0OXBIcnBDQnFyR1V3RQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1773764496,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773776778,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "US President Trump has postponed his trip to Beijing due to the ongoing tensions with Iran, which has delayed the potential reset of US-China relations. This development is a setback for investors who were hoping for a thaw in the trade relations between the two nations. The postponement of the trip suggests that the US-China trade tensions may persist, which could have a negative impact on the global economy. The delay also raises concerns about the potential for further escalation in the Middle East, which could lead to increased volatility in the markets.",
+      "impact": "The postponement of Trump's trip to Beijing may lead to a short-term sell-off in stocks related to the US-China trade, such as those in the industrials and materials sectors. In the medium term, the ongoing trade tensions may lead to a slowdown in economic growth, which could negatively impact earnings outlook for companies with significant exposure to the Chinese market. The increased uncertainty surrounding the trade tensions may also lead to a decrease in investor sentiment, making it more challenging for companies to raise capital.",
+      "risks": [
+        "Escalation of US-China trade tensions",
+        "Global economic slowdown",
+        "Decrease in investor sentiment"
       ]
     }
   },
@@ -84,6 +176,29 @@
         "infrastructure risk",
         "economic uncertainty risk",
         "FIFA approval risk"
+      ]
+    }
+  },
+  {
+    "id": "7655690",
+    "headline": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron - Reuters",
+    "summary": "France will never take part in operations to unblock Hormuz Strait amid hostilities, says Macron  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcmJKZm92aVJDOWZOdHJwYnFZMDNHNUhIekt5b1VReVBkMkFJeVhvaVJDVjhHOWJORmhDcUdRNTZ4b0JvUFhPU0ZnTXFJQjVCdjhZS0RoQWk2OVFUeGlkU1pxMjlHY1FHR0xwekVydjFwYUM3M3JJUXdsQzdwTmZMMUJMWUF0Y2pXMUdpeWM2MzBQYURLU0lRcWVHNUFEUEYzcXdlRkVPV3RwZmk4VE1ObFJrTjl3WjdBdl9R?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1773758876,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773776827,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "French President Emmanuel Macron stated that France will not participate in any operations to unblock the Strait of Hormuz amid hostilities. This decision is likely due to France's commitment to de-escalating tensions in the region. The Strait of Hormuz is a critical waterway for global oil trade, with approximately 20% of the world's oil passing through it. The announcement is a response to the ongoing tensions between Iran and the US, which have led to increased military presence in the region. This move is likely to reduce the risk of a conflict in the region, but may also limit the potential for French involvement in future regional conflicts.",
+      "impact": "The news is unlikely to have a significant impact on the earnings outlook for oil majors such as TotalEnergies or Royal Dutch Shell, as they have diversified operations and are adapted to potential disruptions in the region. However, the announcement may lead to increased volatility in the oil market, potentially benefiting oil prices in the short term. The medium-term impact on the oil majors' valuations could be neutral, as the reduced risk of conflict may offset the increased costs associated with potential disruptions.",
+      "risks": [
+        "Increased oil prices risk",
+        "Potential conflict risk in the region",
+        "Global economic downturn risk due to oil price volatility"
       ]
     }
   },
@@ -798,13 +913,13 @@
   },
   {
     "id": "7652264",
-    "headline": "UAE airspace briefly closed due to missile, drone threat - Reuters",
-    "summary": "UAE airspace briefly closed due to missile, drone threat  Reuters",
+    "headline": "Global airlines hike fares, cut routes as fuel costs balloon - Reuters",
+    "summary": "Global airlines hike fares, cut routes as fuel costs balloon  Reuters",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQkFhVUdVNm01UjdUeTN6ajd1d1pCdjRaY2xxZUt5UHppTUZNbkl0U1NOTnA1T3ZpNlQ5a1dRTmNvSk5RNjAzM1RSaXFVZzVUQkdHR1FmMzdwbWhQc1VOQ2p5NFRwd0k5dWZKcXBaMmd1QWN4aVpJYXBEa010cFFBWjhPQWJhTm5RYUZrSWl2YVBhaHlCYzRLNUIyRmhMRmFoOEpLd3JlU004YmR1Ti1qN1dvX2RWUDJZREs3bnFTV1llMWRB?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1773709620,
+    "publishedAt": 1773709763,
     "analysis": {
       "version": 2,
       "generatedAt": 1773722024,
@@ -22705,121 +22820,6 @@
         "Increased military conflict risk",
         "Economic sanctions risk",
         "Geopolitical tensions risk"
-      ]
-    }
-  },
-  {
-    "id": "7580392",
-    "headline": "Blackstone said its flagship private-credit fund saw heavy outflows",
-    "summary": "Blackstone said it redeemed more investments than usual in its flagship private-credit fund, in another sign of the stress the industry is facing.",
-    "url": "https://www.marketwatch.com/story/blackstone-said-its-flagship-private-credit-fund-saw-heavy-outflows-21e53730",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1772534880,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772536888,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "Blackstone's flagship private-credit fund experienced heavy outflows, indicating a decline in investor confidence in the private credit industry. This is the latest sign of stress in the industry, following a series of challenges faced by private credit funds. The outflows are attributed to the fund redeeming more investments than usual, which may be a result of investors seeking to exit the market or reduce their exposure to private credit. The private credit industry has been facing increasing competition, tighter regulations, and a decline in demand for leveraged loans, contributing to the stress.",
-      "impact": "The heavy outflows from Blackstone's private-credit fund are likely to have a negative impact on the company's earnings and valuation in the short term. The decline in investor confidence in the private credit industry may lead to a decrease in demand for Blackstone's services, resulting in reduced revenue and profitability. In the medium term, the increased competition and tighter regulations in the industry may also lead to a decrease in Blackstone's market share and pricing power.",
-      "risks": [
-        "Increased competition from other private credit funds",
-        "Tighter regulations and increased scrutiny from regulatory bodies",
-        "Decline in demand for leveraged loans and private credit"
-      ]
-    }
-  },
-  {
-    "id": "7580730",
-    "headline": "Putin will convey Arab concerns to Iran about attacks on oil infrastructure, Kremlin says - Reuters",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOT1lKR25MSzYzZUF0UTh6M1c5NlE3QmtsZFNYRVhwY0czcU5rM3VoTjFMakRRRE8zbVotUmdzWTZ1RHViQ21oUTIzTFhYWTlIT2Z2dmNvUXF1NEJFVVFTY1dCZ0pnb0JKVXkyNmZiQWROYnAxS1FYdXJ1VFBIRC12aUo2a1RlSkJPbXJKalNMU0syZEkzcmw0OTJIUWo1Tk0wNnpFSWxfNkotUXRYdEV0T0ZqY1V3QzZqQjNNUmx0OU15WndCeUZDQjI1OA?oc=5\" target=\"_blank\">Putin will convey Arab concerns to Iran about attacks on oil infrastructure, Kremlin says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOT1lKR25MSzYzZUF0UTh6M1c5NlE3QmtsZFNYRVhwY0czcU5rM3VoTjFMakRRRE8zbVotUmdzWTZ1RHViQ21oUTIzTFhYWTlIT2Z2dmNvUXF1NEJFVVFTY1dCZ0pnb0JKVXkyNmZiQWROYnAxS1FYdXJ1VFBIRC12aUo2a1RlSkJPbXJKalNMU0syZEkzcmw0OTJIUWo1Tk0wNnpFSWxfNkotUXRYdEV0T0ZqY1V3QzZqQjNNUmx0OU15WndCeUZDQjI1OA?oc=5",
-    "source": "Reuters",
-    "image": "",
-    "relatedSymbols": [],
-    "publishedAt": 1772534526,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772893830,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Russian President Putin is set to convey concerns from Arab countries to Iran regarding attacks on oil infrastructure. This development is a diplomatic effort to address the issue, which has sparked regional tensions. The attacks have impacted oil prices, and the situation remains uncertain. The Kremlin's involvement suggests a desire to stabilize the situation and prevent further escalation. The news does not directly impact individual stocks, but it may influence the global oil market and, by extension, energy-related companies.",
-      "impact": "The news may lead to increased volatility in the oil market, potentially benefiting energy companies with diversified portfolios or those with exposure to the Middle East region. However, this effect is likely to be short-term, and the medium-term impact will depend on the outcome of Putin's diplomatic efforts. If the situation escalates, energy companies may face increased costs and supply chain disruptions, affecting their earnings outlook. The news may also influence investor sentiment, potentially leading to increased trading activity in energy-related stocks.",
-      "risks": [
-        "Escalation of regional tensions",
-        "Uncertainty in global oil prices",
-        "Supply chain disruptions"
-      ]
-    }
-  },
-  {
-    "id": "7580385",
-    "headline": "Oil prices surge to highest in a year as fears of Middle East supply crunch grow",
-    "summary": "Oil prices rose to their highest in more than a year as traders continued to fret that supplies will be affected by conflict in the Middle East.",
-    "url": "https://www.marketwatch.com/story/oil-prices-surge-to-highest-in-a-year-as-fears-of-middle-east-supply-crunch-grow-0ac864f3",
-    "source": "MarketWatch",
-    "image": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-    "relatedSymbols": [],
-    "publishedAt": 1772534520,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772536936,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Oil prices surged to their highest in over a year due to growing concerns about a potential supply crunch in the Middle East. Tensions in the region, including conflicts between Iran and Saudi Arabia, have raised fears that oil production will be disrupted. This has led to a significant increase in oil prices, with Brent crude rising above $80 per barrel. The rise in oil prices is driven by the potential for supply disruptions, which could have a ripple effect on the global economy and energy markets.",
-      "impact": "The surge in oil prices is likely to have a positive impact on energy companies, particularly those with significant oil reserves or production capabilities. Companies like ExxonMobil (XOM) and Chevron (CVX) may see an increase in earnings due to higher oil prices, which could lead to a short-term boost in their stock prices. However, the medium-term impact may be more nuanced, as higher oil prices could lead to increased production costs and reduced demand in the event of an economic slowdown.",
-      "risks": [
-        "Potential for supply disruptions to be short-lived and prices to return to normal",
-        "Risk of a global economic slowdown leading to reduced demand for oil",
-        "Increased production costs for energy companies due to higher oil prices"
-      ]
-    }
-  },
-  {
-    "id": "7580731",
-    "headline": "UN calls for investigation into deadly strike on school in Iran - Reuters",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOcDgzLWNUYTVHajRMbEZGVFJwMDhySDQ5NWhaQl9xR05CcmcxOWxGRjZ1WVBYeks1VGNDNTRIb3NwVzRKQXFGdThaLXJlVk5ydFdTLUR2QjF5QzJ3Z1JuZkJUVi0wcWdXT0ozWUFDSmRMQzNlTFlRQVJHckxGcnM4RkVSNzRRTE5TOEtwVTZqWW9BQS1EaUtiU0pONFdxdkJKcUZCNkZTbzVNTUxZUXc?oc=5\" target=\"_blank\">UN calls for investigation into deadly strike on school in Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcDgzLWNUYTVHajRMbEZGVFJwMDhySDQ5NWhaQl9xR05CcmcxOWxGRjZ1WVBYeks1VGNDNTRIb3NwVzRKQXFGdThaLXJlVk5ydFdTLUR2QjF5QzJ3Z1JuZkJUVi0wcWdXT0ozWUFDSmRMQzNlTFlRQVJHckxGcnM4RkVSNzRRTE5TOEtwVTZqWW9BQS1EaUtiU0pONFdxdkJKcUZCNkZTbzVNTUxZUXc?oc=5",
-    "source": "Reuters",
-    "image": "",
-    "relatedSymbols": [],
-    "publishedAt": 1772534402,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772895591,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The United Nations has called for an investigation into a deadly strike on a school in Iran. The incident has caused widespread condemnation and concern for the safety of civilians in conflict zones. This event is not directly related to any specific company or industry, but it may have broader implications for global relations and stability. The news may lead to increased tensions between Iran and other countries, potentially affecting global trade and economic activity. The incident highlights the ongoing conflict in the region and the need for diplomatic efforts to resolve the situation.",
-      "impact": "The potential impact on stocks is limited, but the news may lead to increased volatility in the short term due to the uncertainty surrounding the situation. The medium-term effects are harder to predict, but the incident may lead to increased tensions between Iran and other countries, potentially affecting global trade and economic activity. This could have a negative impact on companies with exposure to the region or those with significant international trade operations.",
-      "risks": [
-        "Increased tensions between Iran and other countries",
-        "Potential disruption to global trade and economic activity",
-        "Uncertainty and volatility in the short term"
-      ]
-    }
-  },
-  {
-    "id": "7580737",
-    "headline": "Russia says war could backfire by spurring Iran and Arab nations to seek nuclear weapons - Reuters",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNam5GOWJOSXFYdkozOWhHdDlXUVEyQ2YyZFRxRWJZSHQ1ejRLU1VBdU5nUkZVWHBMRnZhSHpiQnhjaTcyRDhGRVFrRzd4b3NiM3lOT1p6eWFBRlNuVjlkYTVkSzRLVnIwRjZzQTNIRHFYa2pzblRRNnRNelgzLTc0ZjhRMHZGMlhpSDdQdURkcFVYZkZrVHJMZXQ0OWtpMUY3VE1MeTJBRTYxVmdKenhGVzBiSFRqTDNaNnc?oc=5\" target=\"_blank\">Russia says war could backfire by spurring Iran and Arab nations to seek nuclear weapons</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNam5GOWJOSXFYdkozOWhHdDlXUVEyQ2YyZFRxRWJZSHQ1ejRLU1VBdU5nUkZVWHBMRnZhSHpiQnhjaTcyRDhGRVFrRzd4b3NiM3lOT1p6eWFBRlNuVjlkYTVkSzRLVnIwRjZzQTNIRHFYa2pzblRRNnRNelgzLTc0ZjhRMHZGMlhpSDdQdURkcFVYZkZrVHJMZXQ0OWtpMUY3VE1MeTJBRTYxVmdKenhGVzBiSFRqTDNaNnc?oc=5",
-    "source": "Reuters",
-    "image": "",
-    "relatedSymbols": [],
-    "publishedAt": 1772533762,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772895642,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Russia's statement suggests that the ongoing conflict could lead to a nuclear arms race in the Middle East, with Iran and Arab nations potentially seeking nuclear weapons. This development could have significant implications for regional stability and global security. The news may also raise concerns about the potential for nuclear proliferation and the consequences of a nuclear arms race. The statement by Russia is a response to the ongoing conflict in Ukraine and the potential for further escalation. The news is a reminder of the complex geopolitical dynamics at play in the region.",
-      "impact": "This news may have a positive impact on defense stocks, particularly those with a focus on nuclear deterrence and security. Companies that provide nuclear-related services or equipment may see increased demand and investment in the short term. However, the long-term implications of a nuclear arms race in the Middle East are uncertain and could lead to increased tensions and instability in the region. This may negatively impact the earnings outlook for companies with significant exposure to the region.",
-      "risks": [
-        "Increased tensions and instability in the Middle East",
-        "Potential for nuclear proliferation and arms race",
-        "Uncertainty around the long-term implications of a nuclear arms race"
       ]
     }
   }
