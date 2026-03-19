@@ -1,5 +1,51 @@
 [
   {
+    "id": "7665003",
+    "headline": "Major League Baseball names Polymarket exclusive prediction market partner",
+    "summary": "Major League Baseball is partnering with Polymarket to offer exclusive rights and data.",
+    "url": "https://www.cnbc.com/2026/03/19/mlb-polymarket-prediction-markets.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108225666-1763062879612-gettyimages-2245946454-NYSE_GOV_FUNDING.jpeg?v=1763063045&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1773929741,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773931513,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Major League Baseball (MLB) has partnered with Polymarket, a prediction market platform, to offer exclusive rights and data. This partnership aims to create new ways for fans to engage with the game while protecting its integrity. Polymarket will have exclusive access to MLB logos and official data, and will receive brand exposure across league events. The agreement also includes a comprehensive integrity framework and a memorandum of understanding with the Commodity Futures Trading Commission (CFTC). This partnership is part of a growing trend of sports leagues partnering with prediction market platforms, following similar deals with Major League Soccer and the National Hockey League.",
+      "impact": "This partnership is unlikely to have a significant short-term impact on the stock market, but it may lead to increased brand exposure and revenue for Polymarket in the medium term. The partnership may also lead to increased interest in prediction markets, potentially benefiting other companies in the space. However, the agreement also highlights the growing concerns around the integrity of sports and the potential risks associated with prediction markets, which may weigh on investor sentiment and valuations.",
+      "risks": [
+        "regulatory scrutiny risk",
+        "integration risk",
+        "integrity risk"
+      ]
+    }
+  },
+  {
+    "id": "7664898",
+    "headline": "Crypto.com lays off 12% of workforce in latest company to cite AI in job cuts",
+    "summary": "CEO Kris Marszalek said the layoffs were in \"roles that do not adapt in our new world\" as the company integrates enterprise-wide AI.",
+    "url": "https://www.cnbc.com/2026/03/19/crypto-com-layoffs-12percent-ai-job-loss.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108280256-1773926447374-gettyimages-1760803561-omarques_02112023_ILLUS_TECH-1.jpeg?v=1773926470&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1773929527,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773931562,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Crypto.com is laying off 12% of its workforce, citing the integration of enterprise-wide AI as the reason. This move follows a trend of companies in the industry citing AI as a reason for job cuts, including Block, Meta, and Atlassian. The layoffs are a result of the increasing use of AI tools, which are changing the nature of work and making some roles redundant. The company's CEO, Kris Marszalek, believes that companies that don't adapt to this shift will fail. This decision reflects the broader industry trend of companies prioritizing AI adoption and restructuring their workforce accordingly.",
+      "impact": "The layoffs at Crypto.com and other companies in the industry could lead to a short-term increase in unemployment among entry-level workers, potentially affecting the overall labor market. In the medium term, this could lead to a decrease in earnings for companies that are forced to restructure their workforce, potentially impacting their stock prices. The increasing adoption of AI could also lead to a decrease in demand for certain skills, making it harder for companies to find suitable candidates for certain roles.",
+      "risks": [
+        "job market disruption risk",
+        "earnings decline risk",
+        "valuation risk due to increased competition and restructuring"
+      ]
+    }
+  },
+  {
     "id": "7664670",
     "headline": "Jim Cramer's top 10 things to watch in the stock market Thursday",
     "summary": "Stocks tumbled this morning as the U.S.-Iran war continues to escalate and oil prices spike.",
@@ -20,6 +66,29 @@
         "integration risk",
         "demand slowdown risk",
         "macroeconomic uncertainty risk"
+      ]
+    }
+  },
+  {
+    "id": "7664900",
+    "headline": "Energy prices surge as Iran targets Gulf energy facilities after Israel struck its key gas field - Reuters",
+    "summary": "Energy prices surge as Iran targets Gulf energy facilities after Israel struck its key gas field  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOck93Y2M1dEJEZU50VEZvUkxsQVdQMHZPR2dGdFBSTTA0ZVdPNEtOZ2tSa296dHhoLXg5bHdZRC14aTRtelR0OGNKdGRvMWFJd25fb01rby1MajRuUGZJZEdnU0MtX3B5QWxxMUtIdDR0c2ZkakVQOHdhM2pHVjlQTFRXeXF1UXhpd1BfaTRITk1Ja3BaT09mN2RlMTFyMkh6ZThYdXFTVk9Bb0xoZDFESWxwYXRLX2xfRk9MVnpmVUpSNmdVbF9Xb3lR?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1773923672,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773931611,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Iran has targeted Gulf energy facilities in retaliation for Israel's strike on its key gas field, leading to a surge in energy prices. The incident has heightened tensions in the region, increasing the risk of further disruptions to global energy supplies. This development is a concern for energy producers and consumers alike, as it could lead to a shortage of oil and natural gas. The incident has significant implications for the global energy market, with prices expected to remain elevated in the near term.",
+      "impact": "The surge in energy prices could negatively impact the earnings outlook for companies with significant exposure to the energy sector, such as oil and gas producers. This could lead to a decline in stock prices for these companies, at least in the short term. The increased volatility in the energy market may also lead to a decrease in investor sentiment, making it more difficult for companies to raise capital. The medium-term impact could be a shift towards alternative energy sources, potentially benefiting companies in the renewable energy sector.",
+      "risks": [
+        "Increased volatility in the energy market",
+        "Potential shortage of oil and natural gas",
+        "Earnings decline for energy producers"
       ]
     }
   },
@@ -445,7 +514,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1773896683,
+    "publishedAt": 1773896640,
     "analysis": {
       "version": 2,
       "generatedAt": 1773908930,
@@ -508,13 +577,13 @@
   },
   {
     "id": "7662961",
-    "headline": "Europe scrambles to limit effects of energy escalation in Iran war - Reuters",
-    "summary": "Europe scrambles to limit effects of energy escalation in Iran war  Reuters",
+    "headline": "Europe and Japan ready to help stabilise energy prices and secure oil chokepoint - Reuters",
+    "summary": "Europe and Japan ready to help stabilise energy prices and secure oil chokepoint  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSDA1bGlRbVZ6OENrX0FINVNCZEM0T0l6aWxkRjk1UnhmVjZ1UTdlYmVLX3hRak5XbDZVZ3RhVlBVVDVsMU5FejhEcGJKT2dNQzZGVlZIZ0hDdnpsT0JHWDZHRDctSlNtZWp6djA4dTlXNWRPWWtyOUVuVnFzMnpZNUVsQlAtSUJKSDAxZ2YtVWNQS0x5Y1RfMHUtZjA2NTFXVjVUVzJjbEVLeFBsT1RONm9wa19QdzNjT29mZF9jX0RlVzNjOVVlSjJKSQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1773892555,
+    "publishedAt": 1773892500,
     "analysis": {
       "version": 2,
       "generatedAt": 1773899258,
@@ -553,6 +622,25 @@
     }
   },
   {
+    "id": "7664901",
+    "headline": "Gold extends losing streak on expectations of tighter policy from central banks - Reuters",
+    "summary": "Gold extends losing streak on expectations of tighter policy from central banks  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeU43eHJZa2tJVHhJUFA2U2lMb3EzS0hlT1BpMHNybzdaWHhsSDFfdFVuQXV4RWJvZi1teVNpSzdwVExoak9lNEd4Wk9DclRxSm9iTW8zTzlBUG5zbjlqaGdNd2dJcUo5Ry1aR3BaMmtVcVVzYl9RcXJKTDdHWkE3QTRXSS1QTm81bFYzWDZUNDl2WWg2WndPTnh6Z0kzZjU3NEZ3eTlibE1HTS13clhCc1Bucw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1773889140,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773931659,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Gold prices have continued their losing streak due to expectations of tighter monetary policy from central banks. This shift in policy expectations is driven by concerns over inflation and economic growth. Central banks' actions are likely to increase interest rates, making gold, a non-yielding asset, less attractive to investors. As a result, gold prices are expected to decline further. The gold market has been under pressure in recent weeks, and this news is likely to exacerbate the situation.",
+      "impact": "The decline in gold prices is likely to have a negative impact on gold mining companies, such as Barrick Gold (ABX) and Newmont Goldcorp (NEM), in the short term. The decrease in gold prices could lead to a decline in earnings for these companies, making their stocks less attractive to investors. In the medium term, the tighter monetary policy could lead to a slowdown in economic growth, which could negatively impact the demand for gold. This could result in a further decline in gold prices and a decrease in the stock prices of gold mining companies.",
+      "risks": []
+    }
+  },
+  {
     "id": "7662547",
     "headline": "Oil jumps above $119 a barrel on Middle East energy attacks - Reuters",
     "summary": "Oil jumps above $119 a barrel on Middle East energy attacks  Reuters",
@@ -560,7 +648,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1773885420,
+    "publishedAt": 1773885424,
     "analysis": {
       "version": 2,
       "generatedAt": 1773894999,
@@ -619,8 +707,8 @@
   },
   {
     "id": "7664331",
-    "headline": "Europe tumbles on Iran war ahead of ECB, BoE meetings - Reuters",
-    "summary": "Europe tumbles on Iran war ahead of ECB, BoE meetings  Reuters",
+    "headline": "Europe tumbles on Iran war as central banks hold rates - Reuters",
+    "summary": "Europe tumbles on Iran war as central banks hold rates  Reuters",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOczZ0QkJycHpLdWF1blZDOWNiRlhCRUkycVBDamUtWTdnMzBsVy1mRzFESTJvaWhjbXIwekI5Z1JfNVhkbzlLdERyQnVRbzNPdkhGTkVreFhFNXNLOHBBSjNTX0xTUUJTUlFpbkE1T2dIblRWSHJfUnhsVTdzdHpUVQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -688,8 +776,8 @@
   },
   {
     "id": "7662651",
-    "headline": "ECB to talk tough as Iran war raises inflation fears - Reuters",
-    "summary": "ECB to talk tough as Iran war raises inflation fears  Reuters",
+    "headline": "ECB keeps rates on hold as Iran war clouds outlook - Reuters",
+    "summary": "ECB keeps rates on hold as Iran war clouds outlook  Reuters",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWVFZVllvME1SczNCSk0xMUVmVVctZ0g1Q3ItRFRXNmFyWWxkVjE5aWhpa094LWFnVGgxWEU0WDJDTkRpUVhZY041TmFhVk1pZzFEbDVnOFNiMEhiaUlLdUhiRzhTc0FWLTMxcE56VWkyYnh6bXByTVdhNnBWUmlzV1pWUzgtMkRpMU56R2ZmUlV4NUJyRzhOT3VqZnY1c0d5?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1500,6 +1588,29 @@
     }
   },
   {
+    "id": "7658070",
+    "headline": "Iran executes man accused of spying for Israel, Mizan reports - Reuters",
+    "summary": "Iran executes man accused of spying for Israel, Mizan reports  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVmJKaTliaUtKaG1vNXNuSkI0THZiT3BLdkxjMGNRMUkybTE5bFZiVGlGN3JxU3Ezb0RWNkMyaXhRM1huUlplUE1lUG5NU2UxdFZab01FMmVma2N3LU1oMHMzeFZBay1lSWVmTjRBVE95ZGtNTmhQQzNnN1dfVHhVWndDaWRRa3pneEtFTktpcFQzdE5HT3lYR1VvbEw4U1cwNkRncFYyNDlZc1E?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1773829664,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773816313,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Iran's execution of a man accused of spying for Israel may indicate a heightened state of tension between Iran and Israel, potentially leading to increased regional instability. This development could negatively impact the global oil market, as Iran is a major oil producer. The news may also lead to increased scrutiny of Israel's relations with other countries in the region, potentially affecting its diplomatic and economic ties. The situation may lead to a deterioration in investor sentiment towards companies with exposure to the region, particularly those with operations in Israel or Iran.",
+      "impact": "The potential impact on related stocks is likely to be negative in the short-term, as the increased regional instability may lead to a decline in investor sentiment and a decrease in oil prices. This may negatively affect oil-related companies, such as oil majors with operations in the region. In the medium-term, the situation may lead to increased security costs for companies operating in the region, potentially affecting their profitability and earnings outlook.",
+      "risks": [
+        "Regional instability risk",
+        "Oil price volatility risk",
+        "Earnings outlook risk for oil-related companies"
+      ]
+    }
+  },
+  {
     "id": "7659120",
     "headline": "Israel says Iranian Intelligence Minister Khatib killed overnight - Reuters",
     "summary": "Israel says Iranian Intelligence Minister Khatib killed overnight  Reuters",
@@ -1904,29 +2015,6 @@
         "Reduced production risk",
         "Higher oil prices risk",
         "Decreased investor sentiment risk"
-      ]
-    }
-  },
-  {
-    "id": "7658070",
-    "headline": "Iran executes man accused of spying for Israel, Mizan reports - Reuters",
-    "summary": "Iran executes man accused of spying for Israel, Mizan reports  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVmJKaTliaUtKaG1vNXNuSkI0THZiT3BLdkxjMGNRMUkybTE5bFZiVGlGN3JxU3Ezb0RWNkMyaXhRM1huUlplUE1lUG5NU2UxdFZab01FMmVma2N3LU1oMHMzeFZBay1lSWVmTjRBVE95ZGtNTmhQQzNnN1dfVHhVWndDaWRRa3pneEtFTktpcFQzdE5HT3lYR1VvbEw4U1cwNkRncFYyNDlZc1E?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1773806280,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1773816313,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "Iran's execution of a man accused of spying for Israel may indicate a heightened state of tension between Iran and Israel, potentially leading to increased regional instability. This development could negatively impact the global oil market, as Iran is a major oil producer. The news may also lead to increased scrutiny of Israel's relations with other countries in the region, potentially affecting its diplomatic and economic ties. The situation may lead to a deterioration in investor sentiment towards companies with exposure to the region, particularly those with operations in Israel or Iran.",
-      "impact": "The potential impact on related stocks is likely to be negative in the short-term, as the increased regional instability may lead to a decline in investor sentiment and a decrease in oil prices. This may negatively affect oil-related companies, such as oil majors with operations in the region. In the medium-term, the situation may lead to increased security costs for companies operating in the region, potentially affecting their profitability and earnings outlook.",
-      "risks": [
-        "Regional instability risk",
-        "Oil price volatility risk",
-        "Earnings outlook risk for oil-related companies"
       ]
     }
   },
@@ -22709,98 +22797,6 @@
         "currency risk",
         "economic instability risk",
         "decrease in foreign investment risk"
-      ]
-    }
-  },
-  {
-    "id": "7591786",
-    "headline": "RBI creates intervention space as rupee faces renewed strain",
-    "summary": "RBI adjusts dollar forward maturities, enhancing its ability to intervene as the rupee faces renewed pressure from geopolitical tensions.",
-    "url": "https://www.bloomberg.com/news/articles/2026-03-04/rbi-creates-intervention-space-as-rupee-faces-renewed-strain",
-    "source": "Bloomberg",
-    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
-    "relatedSymbols": [],
-    "publishedAt": 1772612912,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772706500,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "The Reserve Bank of India (RBI) has adjusted dollar forward maturities to enhance its ability to intervene in the foreign exchange market, as the rupee faces renewed pressure due to geopolitical tensions. This move is a response to the recent strengthening of the US dollar and the resulting strain on the Indian currency. The RBI's intervention aims to stabilize the rupee and maintain economic stability. The move is a proactive step by the RBI to address the currency's volatility and prevent any potential economic disruption.",
-      "impact": "The RBI's intervention is likely to provide temporary relief to the Indian rupee, which may lead to a short-term stabilization in the currency's value. However, the underlying macroeconomic factors driving the rupee's weakness, such as the trade deficit and the impact of global economic uncertainty, remain unchanged. As a result, the medium-term outlook for the rupee remains uncertain, and investors should monitor the situation closely. The RBI's actions may also have a positive impact on the Indian stock market, as a stable currency can boost investor sentiment and confidence in the economy.",
-      "risks": [
-        "Potential escalation of geopolitical tensions and their impact on the rupee",
-        "Uncertainty around the effectiveness of the RBI's intervention",
-        "Risk of further currency volatility and potential market disruptions"
-      ]
-    }
-  },
-  {
-    "id": "7581341",
-    "headline": "Spain defies Trump's threats over stance on Iran war, says it 'won't be vassals' - Reuters",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOR2w1NVg4VmdmOWRtVnk4NjMtMnVtSjhtZzJrVlNEb2lkeVhKRlZ1TTBpR19wVm5fQURmczYzekdjLW00aHZZUF85ejNwa2FPRzlYd2EtQTJPV3dkZE1kVWpXcGc3Qlc1NGZzZDJGZ2V1X0JSUTZ0MnRLNENUOGZNWEs1N1E5Ty11eW8wRWpqVmdCM1hXN3JGNWVONlQyc3ZzZXVKcTc0VmdyWVFqR2JhTVctY2RqNk1FVXpwVFg3YUI4eEVJVVRFTmd5X3o2Z0VDZ3ZQSA?oc=5\" target=\"_blank\">Spain defies Trump's threats over stance on Iran war, says it 'won't be vassals'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOR2w1NVg4VmdmOWRtVnk4NjMtMnVtSjhtZzJrVlNEb2lkeVhKRlZ1TTBpR19wVm5fQURmczYzekdjLW00aHZZUF85ejNwa2FPRzlYd2EtQTJPV3dkZE1kVWpXcGc3Qlc1NGZzZDJGZ2V1X0JSUTZ0MnRLNENUOGZNWEs1N1E5Ty11eW8wRWpqVmdCM1hXN3JGNWVONlQyc3ZzZXVKcTc0VmdyWVFqR2JhTVctY2RqNk1FVXpwVFg3YUI4eEVJVVRFTmd5X3o2Z0VDZ3ZQSA?oc=5",
-    "source": "Reuters",
-    "image": "",
-    "relatedSymbols": [],
-    "publishedAt": 1772612887,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772629372,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Spanish Prime Minister Sanchez has reaffirmed his country's stance against a potential US-Israeli attack on Iran, despite threats from the US. This stance is likely driven by Spain's historical ties with Iran and its commitment to the Iran nuclear deal. The news is a continuation of the ongoing tensions between the US and Iran, which have been escalating since the US withdrew from the nuclear deal in 2018. The development is unlikely to have a direct impact on the Spanish economy or the global oil market in the short term, but it may lead to increased tensions in the region and potentially affect global trade and investment. Sanchez's stance may also be seen as a challenge to the US's foreign policy in the region.",
-      "impact": "The news is unlikely to have a significant impact on the Spanish economy or the global oil market in the short term. However, it may lead to increased tensions in the region, which could potentially affect global trade and investment. This may have a medium-term impact on the Spanish economy, particularly if the tensions escalate and affect the country's exports or imports. The news may also lead to increased volatility in the oil prices, which could affect the companies operating in the oil and gas sector.",
-      "risks": [
-        "Escalation of tensions in the region",
-        "Potential impact on global trade and investment",
-        "Increased volatility in oil prices"
-      ]
-    }
-  },
-  {
-    "id": "7595886",
-    "headline": "Spain defies Trump's threats over stance on Iran war, says it 'won't be vassals' - Reuters",
-    "summary": "Spain defies Trump's threats over stance on Iran war, says it 'won't be vassals'  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOR2w1NVg4VmdmOWRtVnk4NjMtMnVtSjhtZzJrVlNEb2lkeVhKRlZ1TTBpR19wVm5fQURmczYzekdjLW00aHZZUF85ejNwa2FPRzlYd2EtQTJPV3dkZE1kVWpXcGc3Qlc1NGZzZDJGZ2V1X0JSUTZ0MnRLNENUOGZNWEs1N1E5Ty11eW8wRWpqVmdCM1hXN3JGNWVONlQyc3ZzZXVKcTc0VmdyWVFqR2JhTVctY2RqNk1FVXpwVFg3YUI4eEVJVVRFTmd5X3o2Z0VDZ3ZQSA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1772612887,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772868051,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Spain's defiance of US President Trump's threats over its stance on the Iran war signals a strengthening of the country's foreign policy independence. This development is likely a response to growing concerns about the potential consequences of US military action in the region. The move is seen as a demonstration of Spain's commitment to its values and sovereignty, which may boost domestic support for the government. The news is also a reminder of the country's complex relationship with the US, which may have implications for trade and economic ties.",
-      "impact": "The news is likely to have a positive impact on Spanish stocks, particularly those with exposure to the government and defense sectors. The strengthening of Spain's foreign policy may lead to increased government spending on defense and related industries, potentially boosting earnings for companies such as Airbus and Indra. Additionally, the news may improve sentiment towards Spanish assets, making them more attractive to investors. However, the short-term impact may be limited due to the complexity of the situation and the potential for further developments in the region.",
-      "risks": [
-        "Escalation of the Iran conflict and its impact on global oil prices",
-        "Potential backlash from the US government and its implications for trade and economic ties",
-        "Domestic political instability and its impact on investor sentiment"
-      ]
-    }
-  },
-  {
-    "id": "7583171",
-    "headline": "Indian refiner MRPL suspends fuel exports as Iran conflict hits crude supplies, sources say - Reuters",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQMHVNUTZJbTRTeGRXTWpOQjNjdkpGUFdNT0gtb1NycVJocUJ5UDVtX2hiZUNvbFJZaFRPMmkwVmd3ZkViX1cxUzF3ZjczZGRvXzlFd3k1dGpqYzZXVkVyX1FtQm44WnNQZ2xZUVdYNDBRZjMxUk80M2dOVl92Q3NXYUo2U3QtWUdsdzljMnNlQ3M5NVdmRGsxVlVJWDZyUE4tQ3dKZWQ2WkJDdDJ0Z0ZTb1ZwOVRFd2NhX1VTWXVLM0RSWGNENUtKLXVB?oc=5\" target=\"_blank\">Indian refiner MRPL suspends fuel exports as Iran conflict hits crude supplies, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMHVNUTZJbTRTeGRXTWpOQjNjdkpGUFdNT0gtb1NycVJocUJ5UDVtX2hiZUNvbFJZaFRPMmkwVmd3ZkViX1cxUzF3ZjczZGRvXzlFd3k1dGpqYzZXVkVyX1FtQm44WnNQZ2xZUVdYNDBRZjMxUk80M2dOVl92Q3NXYUo2U3QtWUdsdzljMnNlQ3M5NVdmRGsxVlVJWDZyUE4tQ3dKZWQ2WkJDdDJ0Z0ZTb1ZwOVRFd2NhX1VTWXVLM0RSWGNENUtKLXVB?oc=5",
-    "source": "Reuters",
-    "image": "",
-    "relatedSymbols": [],
-    "publishedAt": 1772611979,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772652566,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Indian refiner MRPL has suspended fuel exports due to the Iran conflict disrupting crude supplies. This development is a result of the ongoing tensions between the US and Iran, which have led to a reduction in crude oil exports from Iran. The suspension of fuel exports by MRPL is a direct consequence of this disruption in crude supplies. The impact of this news is likely to be felt in the global oil market, particularly in countries that rely heavily on Iranian crude imports. MRPL's decision to suspend fuel exports is a defensive measure to ensure a stable supply of crude to its refineries.",
-      "impact": "The suspension of fuel exports by MRPL is likely to have a negative impact on the company's earnings in the short-term. The reduced crude supplies from Iran may lead to higher prices for crude oil, which could negatively impact MRPL's profitability. In the medium-term, the Iran conflict may lead to a shift in global oil supplies, potentially benefiting other oil-producing countries. This could lead to a re-rating of MRPL's valuation as investors reassess the company's exposure to global oil market volatility.",
-      "risks": [
-        "Supply chain disruption risk",
-        "Increased crude oil prices risk",
-        "Global oil market volatility risk"
       ]
     }
   }
