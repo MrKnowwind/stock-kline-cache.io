@@ -1,5 +1,52 @@
 [
   {
+    "id": "7664670",
+    "headline": "Jim Cramer's top 10 things to watch in the stock market Thursday",
+    "summary": "Stocks tumbled this morning as the U.S.-Iran war continues to escalate and oil prices spike.",
+    "url": "https://www.cnbc.com/2026/03/19/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/102290204-RTR4IYV1.jpg?v=1529451543&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1773925160,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773928703,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The stock market is experiencing a downturn due to the escalation of the US-Iran war and the resulting surge in oil prices. This has led to a 6% increase in Brent crude futures and a new 2026 low for the Dow. Meanwhile, Micron's strong quarterly report is being overshadowed by concerns over its spending and capital expenditure plans. The company's contracts are also causing confusion among investors. Natural gas is in short supply globally, except in the US, where it is being exported at a rapid pace.",
+      "impact": "The US-Iran war and the resulting oil price surge are likely to have a negative impact on the stock market in the short term. This could lead to a decline in investor sentiment and a decrease in stock prices. The Dow's new 2026 low is a particularly concerning sign. The war and oil prices may also affect the earnings outlook for companies in the energy and utility sectors, such as Sempra, which is already experiencing a boom in natural gas exports.",
+      "risks": [
+        "regulatory approval risk",
+        "integration risk",
+        "demand slowdown risk",
+        "macroeconomic uncertainty risk"
+      ]
+    }
+  },
+  {
+    "id": "7664436",
+    "headline": "Trump's DHS pick Markwayne Mullin to get Senate committee vote",
+    "summary": "President Donald Trump tapped Sen. Markwayne Mullin, R-Okla., earlier this month to replace Kristi Noem.",
+    "url": "https://www.cnbc.com/2026/03/19/markwayne-mullin-dhs-immigration-senate-vote.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108279538-17738419062026-03-18t134826z_1164039094_rc217ka4kd27_rtrmadp_0_usa-congress-mullin.jpeg?v=1773843030&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1773922257,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773928754,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Sen. Markwayne Mullin's nomination to lead the Department of Homeland Security (DHS) has cleared its first procedural hurdle in the Senate Homeland Security and Governmental Affairs Committee. The vote was 8-7, with Republican Sen. Rand Paul being the sole Republican to vote against Mullin. The nomination now moves to the full Senate for a majority vote. Mullin's confirmation would be a significant development in the Trump administration, given his ties to the former President. The hearing was marked by controversy, with Mullin facing questions over his temperament, DHS' immigration policies, and a classified trip abroad.",
+      "impact": "The confirmation of Sen. Markwayne Mullin as DHS Secretary could have a mixed impact on related stocks in the security and defense industries. On one hand, a confirmed Mullin could lead to increased spending on DHS initiatives, potentially benefiting companies involved in border security and surveillance technology. On the other hand, the controversy surrounding Mullin's nomination could continue to weigh on investor sentiment, potentially leading to short-term volatility in the sector.",
+      "risks": [
+        "Regulatory approval risk due to ongoing controversy surrounding Mullin's nomination",
+        "Integration risk as Mullin takes over the DHS leadership role",
+        "Potential for increased government spending on DHS initiatives, leading to increased competition and pricing pressure for related companies"
+      ]
+    }
+  },
+  {
     "id": "7664222",
     "headline": "Micron falls more than 5% despite blockbuster earnings. Here's what market watchers are saying",
     "summary": "Wednesday's blockbuster earnings were not enough to stop shares in Micron Technology from falling 5.5% in pre-market trading.",
@@ -69,6 +116,29 @@
     }
   },
   {
+    "id": "7664448",
+    "headline": "Exclusive: Ukraine could boost rapeseed plantings if Iran conflict drags on - Reuters",
+    "summary": "Exclusive: Ukraine could boost rapeseed plantings if Iran conflict drags on  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMEl6d29fZUxUVDkzbHIycGphd19NSkM4enQta0Q1aG9CY19UcnJXYkxiWC0xZVNxcDlDR0hPaEV1bUFSak9OUGI1UlRENl9ESEducG9lRzYzOE0yaS1kZ2d3aXA4MWwweUFYeDdNMEctXzl1SzJyV2ZQVUJGVGxsWDVnMUYwaHhRSXc2NDc5WWRnWlN2U3JqRHpNcVE1R2hGX2tqN1lyRlRGa0RCVE0yWHl4QzMtVWFMY05oOV9XRDJrdlBnbkE?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1773913339,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773928806,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Ukraine is considering increasing rapeseed plantings due to the ongoing Iran conflict, which could lead to a rise in global rapeseed prices. Ukraine is a major producer of rapeseed, and an increase in plantings could lead to higher production and exports. The conflict in Iran has disrupted global oil supplies, leading to a shift in demand towards alternative energy sources, including biofuels made from rapeseed. This could drive up demand for rapeseed and lead to higher prices.",
+      "impact": "The potential increase in rapeseed plantings in Ukraine could have a positive impact on companies involved in the rapeseed industry, such as those involved in seed production, farming equipment, and biofuel production. This could lead to higher earnings and valuations for these companies in the short to medium term. However, the impact may be limited to the companies directly involved in the rapeseed industry, and may not have a significant impact on the broader market.",
+      "risks": [
+        "Weather-related crop failures could reduce Ukraine's rapeseed production and offset the potential increase in plantings",
+        "Changes in government policies or trade agreements could impact Ukraine's rapeseed exports",
+        "The Iran conflict could escalate, leading to a decrease in global demand for rapeseed"
+      ]
+    }
+  },
+  {
     "id": "7664224",
     "headline": "Gulf states request urgent debate at UN Human Rights Council, documents show - Reuters",
     "summary": "Gulf states request urgent debate at UN Human Rights Council, documents show  Reuters",
@@ -92,6 +162,29 @@
     }
   },
   {
+    "id": "7664446",
+    "headline": "Iran crisis lifts India bottled water prices, erasing Modi tax cut gains - Reuters",
+    "summary": "Iran crisis lifts India bottled water prices, erasing Modi tax cut gains  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNTNNZTNXcFk1NVprS1NkV3dleWMxVDc1WnV1c3hKVDBjb1oyNUlybjAtUzhTLXVTN2FybmgtdGFEdjV0eTNlY2R0MDgtMEw0M05Vb0llTURkYTkwdDEyOHh5SW1oRmw3WFFTeXczZWRkWmE5c0J0bDV3NWJnelZpaTdYcjB6NXRld1lHbk5GbXpWNUt2VzZIQ1o5Rk1oWlBxUXJjb0RZN21uMjEwSmx3cG1SellCMUR2OGlaQkttWlBzRTNlNmtuVExqeUladnVMOEY3VWVRSmhFemZkNkR2Vw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1773911333,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773928854,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "The ongoing Iran crisis has led to a surge in bottled water prices in India, erasing the gains from the Modi government's tax cut. The crisis has caused a shortage of imported water bottles, as several countries, including India, have imposed restrictions on Iranian exports. This shortage has led to a supply chain disruption, resulting in higher prices for bottled water. The Indian government's tax cut, which aimed to reduce the cost of living for citizens, has been offset by the increased cost of bottled water.",
+      "impact": "The short-term impact on the Indian consumer staples sector may be positive for companies that produce bottled water, as they can increase prices to capitalize on the shortage. However, this may lead to a decrease in demand for other consumer staples, as consumers may cut back on non-essential expenses. The medium-term impact may be a re-evaluation of the Modi government's economic policies, as the tax cut's effectiveness has been offset by the crisis. The liquidity in the Indian market may also be affected, as investors may become more cautious due to the uncertainty surrounding the crisis.",
+      "risks": [
+        "Supply chain disruption risk",
+        "Price volatility risk",
+        "Economic policy uncertainty risk"
+      ]
+    }
+  },
+  {
     "id": "7664332",
     "headline": "Swiss National Bank holds rates amid Iran war, watches franc strength - Reuters",
     "summary": "Swiss National Bank holds rates amid Iran war, watches franc strength  Reuters",
@@ -111,6 +204,29 @@
         "economic slowdown risk",
         "currency volatility risk",
         "trade war risk"
+      ]
+    }
+  },
+  {
+    "id": "7664447",
+    "headline": "Will the Iran conflict end Meloni's long Italian honeymoon? - Reuters",
+    "summary": "Will the Iran conflict end Meloni's long Italian honeymoon?  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdVE1Q2RTLTJLT1l6d1hTbWJSc3kybGo2QWlzUXJFOGItc0RCQnE1YUxTRXlzWWtlZUpnZUJqbEhLRzFSSkVLU0wzM0dyTFhzZlVmYVVMeVBxQ3l0U0RIOEJhTG5vQ2FFVkJtNk95TmlZQ1Z4UmtieTVCcGFGUXhZcjZGWGRhYndGazZ6YzNlTEVfUGpaVWp5NEFzVGVqRVk?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1773907022,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773928900,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Italian Prime Minister Giorgia Meloni's government may face challenges due to the escalating Iran conflict. The conflict could lead to higher energy prices, affecting Italy's economy, which is heavily reliant on imported energy. This could negatively impact the country's growth prospects, potentially affecting the Italian stock market. The government's honeymoon period, which started with a strong mandate, may be coming to an end.",
+      "impact": "The potential impact on the Italian stock market could be significant, with a possible decline in investor sentiment and a decrease in stock prices. The escalating conflict may also lead to a rise in energy prices, affecting companies that rely heavily on imported energy, such as those in the industrial and manufacturing sectors. In the short term, this could lead to a decrease in earnings expectations for these companies, potentially affecting their stock prices. In the medium term, the conflict could lead to a slowdown in economic growth, affecting the overall market sentiment and potentially leading to a decline in stock prices.",
+      "risks": [
+        "Increased energy prices",
+        "Slowing economic growth",
+        "Decreased investor sentiment"
       ]
     }
   },
@@ -214,7 +330,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1773900723,
+    "publishedAt": 1773900720,
     "analysis": {
       "version": 2,
       "generatedAt": 1773919538,
@@ -237,7 +353,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1773900197,
+    "publishedAt": 1773900180,
     "analysis": {
       "version": 2,
       "generatedAt": 1773919584,
@@ -306,7 +422,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1773896761,
+    "publishedAt": 1773896760,
     "analysis": {
       "version": 2,
       "generatedAt": 1773908883,
@@ -329,7 +445,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1773896640,
+    "publishedAt": 1773896683,
     "analysis": {
       "version": 2,
       "generatedAt": 1773908930,
@@ -375,7 +491,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1773896505,
+    "publishedAt": 1773896460,
     "analysis": {
       "version": 2,
       "generatedAt": 1773902460,
@@ -398,7 +514,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1773892500,
+    "publishedAt": 1773892555,
     "analysis": {
       "version": 2,
       "generatedAt": 1773899258,
@@ -486,7 +602,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1773883645,
+    "publishedAt": 1773883620,
     "analysis": {
       "version": 2,
       "generatedAt": 1773895089,
@@ -509,7 +625,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1773883111,
+    "publishedAt": 1773883080,
     "analysis": {
       "version": 2,
       "generatedAt": 1773922072,
@@ -1565,6 +1681,29 @@
     }
   },
   {
+    "id": "7658584",
+    "headline": "Iran says nuclear doctrine unlikely to change, Hormuz Strait needs new protocol - Reuters",
+    "summary": "Iran says nuclear doctrine unlikely to change, Hormuz Strait needs new protocol  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTGxiLTMyTWQ4YVkzc2REZXZiZ2UxUVg4MUJ5d21ObzZZUFNLNE5iVnJKazBYR1JJeFJoa0FzZG91NGJaeGJfYnZzMTRpR3RfVGxVNjFFZUNjRkNSVDdpbW9ROHJLTGFGb2dpdWFTTFF0d2VRYzBkR2VRZU5ETlNMd3p3QjBzSHhFTGtvVXNBSVlGcEp5WU4wRlpTQU5UdGNCcHF2RU9NQm9wNm84d0VzWHZHenR4M0U?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1773827231,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773826677,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Iran's statement on its nuclear doctrine suggests that the country's stance on its nuclear program is unlikely to change in the near future. The Hormuz Strait, a critical waterway for global oil trade, requires a new protocol to ensure safe passage. This development has implications for oil prices and the global energy market. The news does not directly impact specific companies, but it may influence the overall market sentiment and oil prices, which could affect energy-related stocks in the long term.",
+      "impact": "The news may lead to increased volatility in the oil market, potentially driving up oil prices in the short term. This, in turn, could positively impact energy companies' earnings, particularly those with significant oil production or refining operations. However, the medium-term impact on these companies' stock prices is uncertain, as the news does not provide clear direction on Iran's nuclear program or its potential impact on global oil supply.",
+      "risks": [
+        "geopolitical risk",
+        "oil price volatility risk",
+        "energy market uncertainty risk"
+      ]
+    }
+  },
+  {
     "id": "7658906",
     "headline": "Iran war increases threat to Sweden, security service says - Reuters",
     "summary": "Iran war increases threat to Sweden, security service says  Reuters",
@@ -1604,29 +1743,6 @@
       "summary": "The ongoing Iran war has highlighted the vulnerability of the Indian rupee, leading banks to pitch cross-currency trades as a hedge against potential currency fluctuations. The Indian rupee has weakened against the US dollar in recent days, making imports more expensive and potentially impacting India's economy. This development is a concern for Indian banks, which have significant exposure to foreign exchange markets. The Indian government has intervened in the past to stabilize the rupee, but the current situation may require more drastic measures.",
       "impact": "The potential impact on Indian banks and financial institutions could be significant, as they may face increased losses due to currency fluctuations. In the short-term, investors may sell off Indian stocks, leading to a decline in the market. Medium-term, the Indian economy may slow down due to higher import costs, affecting the earnings outlook of companies with significant foreign exchange exposure. The increased volatility in the rupee may also lead to a decrease in liquidity in the Indian financial markets.",
       "risks": []
-    }
-  },
-  {
-    "id": "7658584",
-    "headline": "Iran says nuclear doctrine unlikely to change, Hormuz Strait needs new protocol - Reuters",
-    "summary": "Iran says nuclear doctrine unlikely to change, Hormuz Strait needs new protocol  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTGxiLTMyTWQ4YVkzc2REZXZiZ2UxUVg4MUJ5d21ObzZZUFNLNE5iVnJKazBYR1JJeFJoa0FzZG91NGJaeGJfYnZzMTRpR3RfVGxVNjFFZUNjRkNSVDdpbW9ROHJLTGFGb2dpdWFTTFF0d2VRYzBkR2VRZU5ETlNMd3p3QjBzSHhFTGtvVXNBSVlGcEp5WU4wRlpTQU5UdGNCcHF2RU9NQm9wNm84d0VzWHZHenR4M0U?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1773816300,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1773826677,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Iran's statement on its nuclear doctrine suggests that the country's stance on its nuclear program is unlikely to change in the near future. The Hormuz Strait, a critical waterway for global oil trade, requires a new protocol to ensure safe passage. This development has implications for oil prices and the global energy market. The news does not directly impact specific companies, but it may influence the overall market sentiment and oil prices, which could affect energy-related stocks in the long term.",
-      "impact": "The news may lead to increased volatility in the oil market, potentially driving up oil prices in the short term. This, in turn, could positively impact energy companies' earnings, particularly those with significant oil production or refining operations. However, the medium-term impact on these companies' stock prices is uncertain, as the news does not provide clear direction on Iran's nuclear program or its potential impact on global oil supply.",
-      "risks": [
-        "geopolitical risk",
-        "oil price volatility risk",
-        "energy market uncertainty risk"
-      ]
     }
   },
   {
@@ -22685,122 +22801,6 @@
         "Supply chain disruption risk",
         "Increased crude oil prices risk",
         "Global oil market volatility risk"
-      ]
-    }
-  },
-  {
-    "id": "7595892",
-    "headline": "Indian refiner MRPL suspends fuel exports as Iran conflict hits crude supplies, sources say - Reuters",
-    "summary": "Indian refiner MRPL suspends fuel exports as Iran conflict hits crude supplies, sources say  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMHVNUTZJbTRTeGRXTWpOQjNjdkpGUFdNT0gtb1NycVJocUJ5UDVtX2hiZUNvbFJZaFRPMmkwVmd3ZkViX1cxUzF3ZjczZGRvXzlFd3k1dGpqYzZXVkVyX1FtQm44WnNQZ2xZUVdYNDBRZjMxUk80M2dOVl92Q3NXYUo2U3QtWUdsdzljMnNlQ3M5NVdmRGsxVlVJWDZyUE4tQ3dKZWQ2WkJDdDJ0Z0ZTb1ZwOVRFd2NhX1VTWXVLM0RSWGNENUtKLXVB?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1772611979,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772868099,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Indian refiner MRPL has suspended fuel exports due to the ongoing conflict in Iran, which has disrupted crude supplies. This move is likely a response to the scarcity of crude oil as a result of the conflict. The Iranian conflict has already led to a surge in oil prices, which could further pressure MRPL's profitability. MRPL's fuel exports are a significant contributor to the company's revenue, and this suspension may impact its earnings outlook.",
-      "impact": "The suspension of fuel exports is likely to negatively impact MRPL's earnings in the short term, as it reduces the company's revenue stream. In the medium term, the Iranian conflict and subsequent oil price volatility may lead to increased costs and reduced profitability for MRPL. This could result in a decline in the company's stock price, making it a less attractive investment opportunity. The impact on MRPL's stock price may be exacerbated by the potential decline in investor sentiment towards the energy sector as a whole.",
-      "risks": [
-        "reduced revenue risk",
-        "increased cost risk",
-        "decreased investor sentiment risk",
-        "macroeconomic uncertainty risk"
-      ]
-    }
-  },
-  {
-    "id": "7581447",
-    "headline": "US stocks close up on Iran diplomacy hopes; tech leads rebound - Reuters",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPaTlrQnJhT1Q5UzctR2YybHEyUFZISGVPdmQyZ0JWQkxTV19zdE1tM2VXTldLckQ0eldSWnJ0R3lhcDRkSUhwMWJNR0pmQnhGME90MlVnblhkWkc4cUw5TlN4cHg1TENmRGExOC1SaTZCeHZiR2M2Rjhvc3pRb3NXWklsMmUwc3BjaHQ3ZndXLXJiNDRRelNHNkVST1d5ZzdtUU9GY1VTbDhiOV9oSFVFMEdGZWZpZGJleWRTaw?oc=5\" target=\"_blank\">US stocks close up on Iran diplomacy hopes; tech leads rebound</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaTlrQnJhT1Q5UzctR2YybHEyUFZISGVPdmQyZ0JWQkxTV19zdE1tM2VXTldLckQ0eldSWnJ0R3lhcDRkSUhwMWJNR0pmQnhGME90MlVnblhkWkc4cUw5TlN4cHg1TENmRGExOC1SaTZCeHZiR2M2Rjhvc3pRb3NXWklsMmUwc3BjaHQ3ZndXLXJiNDRRelNHNkVST1d5ZzdtUU9GY1VTbDhiOV9oSFVFMEdGZWZpZGJleWRTaw?oc=5",
-    "source": "Reuters",
-    "image": "",
-    "relatedSymbols": [],
-    "publishedAt": 1772611020,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772629420,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Wall Street futures remain steady as investors weigh the implications of ongoing Iran-US talks. The talks, which aim to revive the 2015 nuclear deal, have been ongoing for months. The news has had a neutral impact on the market, with investors waiting for concrete developments before making any significant moves. The Iran-US relationship has been a source of uncertainty for the oil and gas industry, with tensions affecting global crude prices. The outcome of the talks will likely have a significant impact on the energy sector, with implications for companies such as ExxonMobil and Chevron.",
-      "impact": "The neutral sentiment on Wall Street is likely to continue in the short term, with investors waiting for a clear outcome from the Iran-US talks. If the talks lead to a revival of the nuclear deal, oil prices may decline, benefiting energy companies with significant exposure to the oil sector. However, if the talks fail, tensions in the region may escalate, leading to higher oil prices and a negative impact on energy companies. In the medium term, the outcome of the talks will have a significant impact on the earnings outlook for energy companies, with implications for their valuation and sentiment.",
-      "risks": [
-        "Oil price volatility risk",
-        "Escalating tensions in the Middle East risk",
-        "Uncertainty around the outcome of the Iran-US talks"
-      ]
-    }
-  },
-  {
-    "id": "7580714",
-    "headline": "U.S. sub sinks Iranian warship off Sri Lanka, killing 87 and expanding war zone - Reuters",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQVkt4SGR6TnNwWGYyck5MZEdmcXlfUDhTOWpRbmZadVF6U1dZWGhEZUtCczhPY3Z1cVlPNnlRR2V0OEFXRGFaR3JsRmRZemdHZE1NMHlSRk9oUThHX1JNQ0dyYU5Sb3l1VnVQVUhRNFNXQTk2UVZxQkNpanBiR2tvQ2ZYUmp6VF9QZ0V6Y3JjU18xOFRWekZwOTlwYk9MRl80V21uZFNxdU53SW8zUWN5RHhobGYzTExvVFZVZ2lWWEM2NFNoRHZsaG1ycTdheGc?oc=5\" target=\"_blank\">U.S. sub sinks Iranian warship off Sri Lanka, killing 87 and expanding war zone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVkt4SGR6TnNwWGYyck5MZEdmcXlfUDhTOWpRbmZadVF6U1dZWGhEZUtCczhPY3Z1cVlPNnlRR2V0OEFXRGFaR3JsRmRZemdHZE1NMHlSRk9oUThHX1JNQ0dyYU5Sb3l1VnVQVUhRNFNXQTk2UVZxQkNpanBiR2tvQ2ZYUmp6VF9QZ0V6Y3JjU18xOFRWekZwOTlwYk9MRl80V21uZFNxdU53SW8zUWN5RHhobGYzTExvVFZVZ2lWWEM2NFNoRHZsaG1ycTdheGc?oc=5",
-    "source": "Reuters",
-    "image": "",
-    "relatedSymbols": [],
-    "publishedAt": 1772609220,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772616315,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Sri Lanka has rescued 30 people from a distressed Iranian ship, according to the country's foreign minister. The incident occurred in the Indian Ocean, but the news does not directly relate to any specific company or industry. The rescue operation was a humanitarian effort, and there is no clear connection to the business fundamentals or industry context. The news is more of a one-off event with no immediate implications for the stock market.",
-      "impact": "The news is unlikely to have a significant impact on the stock market, as it is a one-off event with no direct connection to any specific company or industry. However, it may slightly improve the sentiment towards Sri Lankan authorities and institutions, which could have a positive effect on the country's sovereign bond market in the medium term. The rescue operation's success may also boost the reputation of the Sri Lankan navy, potentially leading to increased international cooperation and partnerships in the future.",
-      "risks": [
-        "no direct impact on the stock market",
-        "no clear connection to any specific company or industry",
-        "medium-term impact on Sri Lankan sovereign bond market"
-      ]
-    }
-  },
-  {
-    "id": "7580713",
-    "headline": "Trump's Iran attack rattles Russian hardliners who call for Putin to double down on war in Ukraine - Reuters",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxObFFydk1RWXRPMENKOURKM1ZPQzkweFFVSDBsdVNQXzdzbHZmU0lmTHJDNXJmc2R5TFdfWmx3OG9oZXJnSW5BODBhWExsd0JyNzVDVG9qZnRTYzdZT1pVaDNoSExCUTZscUJ5V19XTVFBRzh0TTNEbjQ0aWdLc1c0ZkNBTU0xTi1jZjlqNHlid0txU0FLazEweTcxbzZpbERBNFNlbWVLbWptUW5QNFV1c1lvRUh1ekM2cV9fampIc2djN1U?oc=5\" target=\"_blank\">Trump's Iran attack rattles Russian hardliners who call for Putin to double down on war in Ukraine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObFFydk1RWXRPMENKOURKM1ZPQzkweFFVSDBsdVNQXzdzbHZmU0lmTHJDNXJmc2R5TFdfWmx3OG9oZXJnSW5BODBhWExsd0JyNzVDVG9qZnRTYzdZT1pVaDNoSExCUTZscUJ5V19XTVFBRzh0TTNEbjQ0aWdLc1c0ZkNBTU0xTi1jZjlqNHlid0txU0FLazEweTcxbzZpbERBNFNlbWVLbWptUW5QNFV1c1lvRUh1ekM2cV9fampIc2djN1U?oc=5",
-    "source": "Reuters",
-    "image": "",
-    "relatedSymbols": [],
-    "publishedAt": 1772609055,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772698151,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "Russian hardliners are calling for Putin to escalate the war in Ukraine in response to Trump's Iran attack, which could lead to increased tensions between Russia and the West. This development could have significant implications for the Russian economy, particularly in the energy sector, as sanctions and trade restrictions may be imposed. The conflict in Ukraine has already had a negative impact on Russia's economy, and further escalation could exacerbate the situation. The Russian stock market, particularly companies with exposure to the energy sector, may be negatively affected by this development.",
-      "impact": "The potential impact on Russian stocks, particularly those with exposure to the energy sector, could be significant in the short-term. The escalation of the conflict in Ukraine could lead to increased volatility in the Russian stock market, potentially affecting companies such as Gazprom, Rosneft, and Lukoil. In the medium-term, the increased tensions between Russia and the West could lead to further sanctions and trade restrictions, negatively impacting the Russian economy and the stock market.",
-      "risks": [
-        "sanctions risk",
-        "trade restriction risk",
-        "economic contraction risk"
-      ]
-    }
-  },
-  {
-    "id": "7595904",
-    "headline": "Trump's Iran attack rattles Russian hardliners who call for Putin to double down on war in Ukraine - Reuters",
-    "summary": "Trump's Iran attack rattles Russian hardliners who call for Putin to double down on war in Ukraine  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObFFydk1RWXRPMENKOURKM1ZPQzkweFFVSDBsdVNQXzdzbHZmU0lmTHJDNXJmc2R5TFdfWmx3OG9oZXJnSW5BODBhWExsd0JyNzVDVG9qZnRTYzdZT1pVaDNoSExCUTZscUJ5V19XTVFBRzh0TTNEbjQ0aWdLc1c0ZkNBTU0xTi1jZjlqNHlid0txU0FLazEweTcxbzZpbERBNFNlbWVLbWptUW5QNFV1c1lvRUh1ekM2cV9fampIc2djN1U?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1772609055,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772870390,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Russian hardliners are calling for President Putin to double down on the war in Ukraine in response to the US attack on Iran. This development is likely to increase tensions between Russia and the US, as well as between Russia and Ukraine. The escalation of the conflict in Ukraine could lead to increased military spending and a prolonged conflict, which could have a negative impact on the Russian economy. The news is a reminder of the ongoing geopolitical tensions in the region and the potential for further conflict.",
-      "impact": "The potential for increased military spending and a prolonged conflict in Ukraine could lead to a short-term negative impact on Russian stocks, particularly those with exposure to the defense industry. In the medium term, a prolonged conflict could lead to a decline in economic growth and a decrease in investor sentiment, potentially weighing on the Russian stock market. The news could also lead to a strengthening of the US dollar, which could negatively impact Russian companies with significant foreign currency debt.",
-      "risks": [
-        "Escalation of conflict in Ukraine",
-        "Increased military spending",
-        "Negative impact on Russian economic growth"
       ]
     }
   }
