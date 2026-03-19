@@ -1,5 +1,70 @@
 [
   {
+    "id": "7665440",
+    "headline": "Trump signals DOJ should continue Powell probe, complicating Warsh Fed nom",
+    "summary": "Powell has accused the DOJ of investigating him in retaliation for his refusal to lower interest rates as much or as quickly as Trump has demanded.",
+    "url": "https://www.cnbc.com/2026/03/19/trump-powell-warsh-fed-doj-pirro.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108280379-1773936092481-gettyimages-2266851985-AFP_A3XP2EB.jpeg?v=1773936203&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1773937528,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773938521,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "President Trump has expressed continued support for the DOJ's investigation into Federal Reserve Chairman Jerome Powell, citing the cost of the Fed's headquarters renovation. Powell has accused the DOJ of launching the investigation in retaliation for his refusal to lower interest rates as much as Trump has demanded. A US District Judge has blocked the subpoenas issued by the grand jury, but the DOJ plans to appeal. Powell has stated he will not leave the Fed's board until the probe is resolved. His term as Fed Chair ends in May, while his term as governor lasts until 2028.",
+      "impact": "The ongoing investigation and Trump's stance could lead to a delay in the confirmation of Kevin Warsh as Powell's successor. This may have a short-term impact on the Fed's ability to make key decisions, potentially affecting the overall economic outlook and market sentiment. However, the medium-term effects on the Fed's operations and the broader economy are uncertain and may depend on the outcome of the investigation.",
+      "risks": [
+        "Regulatory uncertainty risk",
+        "Investigation outcome risk",
+        "Economic policy risk"
+      ]
+    }
+  },
+  {
+    "id": "7665441",
+    "headline": "The market remains heavily oversold, so we're snapping up more of 2 stocks",
+    "summary": "We don't typically see the Oscillator, our favorite market gauge, get this oversold",
+    "url": "https://www.cnbc.com/2026/03/19/the-market-remains-heavily-oversold-so-were-snapping-up-2-stocks.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108279630-17738468922026-03-18t150909z_400420585_rc217kafoclp_rtrmadp_0_usa-stocks.jpeg?v=1773846932&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1773936330,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773938566,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Jim Cramer's Charitable Trust is buying more shares of Boeing and Goldman Sachs due to the market being oversold, as indicated by the S&P 500 Short Range Oscillator reaching -7.45%. This level of oversold is rare, but has been seen in the past, resulting in significant market rebounds. Boeing's recent Bank of America Global Industrial conference did not meet expectations, but the company's CFO mentioned positive developments, including the resolution of the MAX jet wiring issue and plans to increase production. Goldman Sachs has seen no change in thinking since the previous buy recommendation.",
+      "impact": "The oversold market and positive developments at Boeing could lead to a short-term rebound in the stock, potentially driven by improved sentiment and liquidity. In the medium term, Boeing's increased production and resolution of the MAX jet issue could lead to improved earnings outlook and valuation. Goldman Sachs, on the other hand, has seen no change in thinking, but the market's oversold condition could still lead to a short-term bounce in the stock.",
+      "risks": []
+    }
+  },
+  {
+    "id": "7665330",
+    "headline": "Tesla faces intensifying NHTSA probe of 'Full Self-Driving' in reduced visibility",
+    "summary": "The investigation involves Model S, X, 3, Y and Cybertruck EVs that can use the company's FSD-branded driver assistance systems.",
+    "url": "https://www.cnbc.com/2026/03/19/tesla-nhtsa-full-self-driving-fsd-reduced-visibility.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108208854-1759850437536-gettyimages-2233586805-dellatorre-notitle250906_npzUa.jpeg?v=1771878373&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1773935914,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773938615,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The National Highway Traffic Safety Administration (NHTSA) has escalated an investigation into Tesla's 'Full Self-Driving' (FSD) systems, focusing on possible safety defects in reduced visibility conditions. The probe affects 3.2 million Tesla vehicles, including Model S, X, 3, Y, and Cybertruck EVs. The investigation was elevated to an engineering analysis after a string of complaints about collisions involving FSD. Tesla's FSD may fail to detect and/or warn drivers in degraded visibility conditions, such as glare and fog, which could impair camera performance.",
+      "impact": "The intensified investigation and potential safety concerns may lead to a short-term decline in Tesla's stock price as investors reassess the company's autonomous driving technology. In the medium term, this could impact Tesla's earnings outlook, particularly if the company is forced to recall or modify its FSD systems. The negative sentiment may also affect Tesla's valuation and liquidity, making it a less attractive investment opportunity. Additionally, the probe may lead to increased regulatory scrutiny and potential fines, further weighing on the stock.",
+      "risks": [
+        "Regulatory risk: Increased scrutiny from NHTSA and potential fines or penalties",
+        "Safety concerns: Potential recalls or modifications to FSD systems may impact earnings and valuation",
+        "Reputation risk: Negative publicity and decreased investor confidence in Tesla's autonomous driving technology"
+      ]
+    }
+  },
+  {
     "id": "7665003",
     "headline": "Major League Baseball names Polymarket exclusive prediction market partner",
     "summary": "Major League Baseball is partnering with Polymarket to offer exclusive rights and data.",
@@ -46,6 +111,48 @@
     }
   },
   {
+    "id": "7665339",
+    "headline": "US and Israeli war aims in Iran are not the same, US spy chief says - Reuters",
+    "summary": "US and Israeli war aims in Iran are not the same, US spy chief says  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNGRrN0M0bzZaN1RGa3BiOVc1SW0yVnVUQWtVYlJValpYY2FuRnhNNUxiMU83YnlpNmk3MjNpc3V6SmZNbWVHSFdNaGY4Tnljd0oxNmlzdHNoMHhZcXJvMlR5OG1Tc3ZQT2FaLTFZQXhsNVZwaW5kU2s5WFRmUGpmeUVSbDQxdUtPbV8wMmk1cEl4ckRBRG5Ldi1HR3RNV0NYdlc1WGRadw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1773928499,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773938661,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The US and Israeli war aims in Iran are not aligned, according to the US spy chief, indicating a potential divergence in their strategies. This news comes as the US and Israel have been increasing their military presence in the region. The lack of alignment in war aims may lead to confusion and potential conflicts between the two nations. This development may have implications for the global oil market, as Iran is a significant oil producer.",
+      "impact": "This news may have a neutral impact on the oil and gas sector in the short term, as the US and Israeli war aims are not directly related to the sector's fundamentals. However, the increased military presence in the region may lead to higher oil prices in the medium term, benefiting oil-producing companies such as ExxonMobil (XOM) and Chevron (CVX). The news may also increase geopolitical risk in the region, potentially affecting the sentiment and valuation of companies with exposure to the Middle East, such as Occidental Petroleum (OXY) and Hess Corporation (HES).",
+      "risks": []
+    }
+  },
+  {
+    "id": "7665338",
+    "headline": "Despite Trump remarks, Israeli officials say US knew of strike on Iran gas field - Reuters",
+    "summary": "Despite Trump remarks, Israeli officials say US knew of strike on Iran gas field  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSXhZTzk5NzBzaERIbEpBS1U2RUdSSnpRbGc3eGMyM29wMzRoOVIyNEd4WDVYN1lKaUZFakRKbjBkRlkyR1FaR2dVU1I2Y2g0eG1qdHI4SjdLdTZIWDVkQXlubnBIU0dRZExHN1hpN1hTa3l0MlV3aDRpUDZTaG5DX2tWZnFQZVRWcG01MmJsTkw0TF80aGk4R2FmdnM1M3FjSVdVd0Npakl2Q29JRVhEWko4UnBiR09yOHItc0JWSldPQ0FBQlNB?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1773927833,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773938707,
+      "sentiment": "neutral",
+      "confidence": 0.8,
+      "summary": "Israeli officials have stated that the US was aware of the strike on an Iranian gas field, contradicting earlier claims by former President Trump. This news does not directly impact the US or Israeli economies, but it may affect the global geopolitical landscape. The situation is unfolding, and further developments are expected. The US and Israel's relationship with Iran remains tense, and this news may influence their future interactions. The article does not provide any information on specific companies or industries, so there is no direct impact on related stocks.",
+      "impact": "The news may lead to increased tensions between the US and Iran, potentially affecting the energy industry and oil prices in the long term. This could impact the earnings outlook of companies involved in the oil and gas sector, particularly those with significant operations in the Middle East. However, the short-term impact on specific stocks is unclear, and investors should monitor the situation closely for further developments.",
+      "risks": [
+        "geopolitical risk",
+        "energy price volatility risk",
+        "regional conflict risk"
+      ]
+    }
+  },
+  {
     "id": "7665124",
     "headline": "Joint statement on Strait of Hormuz by European nations and Japan - Reuters",
     "summary": "Joint statement on Strait of Hormuz by European nations and Japan  Reuters",
@@ -67,6 +174,16 @@
         "Potential impact on global oil prices and the energy sector"
       ]
     }
+  },
+  {
+    "id": "7665229",
+    "headline": "Exclusive: Iran attack wipes out 17% of Qatar’s LNG capacity for up to five years, QatarEnergy CEO says - Reuters",
+    "summary": "Exclusive: Iran attack wipes out 17% of Qatar’s LNG capacity for up to five years, QatarEnergy CEO says  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM2VOR0pPU1pWbUpRdUU3Tjg4WWhRRU5uN1RkTG4wSFF0VndlUHI1dm5lQU9kbTMtWnhyV0VJVnZ1VkNET3ZGQ3A1ckRvSU1xTnJPWm80RmI5Z0pBem5HTkFGbE1VTnZ0T0tCSjNCVlRuaFB3T0g1SXh2RkpYQ05hN3pvQkpFNXNBeVBaVmZZOUY2d1hlUkJuMHZ1NE9NQS1HbmctOGR5RjZRTzVjbTFvd0FHVUM4U0VJLUVsUXVINWROenpUQURDemlLMVY?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1773927486
   },
   {
     "id": "7665122",
@@ -140,8 +257,8 @@
   },
   {
     "id": "7664900",
-    "headline": "Energy prices surge as Iran targets Gulf energy facilities after Israel struck its key gas field - Reuters",
-    "summary": "Energy prices surge as Iran targets Gulf energy facilities after Israel struck its key gas field  Reuters",
+    "headline": "Energy prices surge as Iran attack on Qatar LNG plant threatens long-term exports - Reuters",
+    "summary": "Energy prices surge as Iran attack on Qatar LNG plant threatens long-term exports  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOck93Y2M1dEJEZU50VEZvUkxsQVdQMHZPR2dGdFBSTTA0ZVdPNEtOZ2tSa296dHhoLXg5bHdZRC14aTRtelR0OGNKdGRvMWFJd25fb01rby1MajRuUGZJZEdnU0MtX3B5QWxxMUtIdDR0c2ZkakVQOHdhM2pHVjlQTFRXeXF1UXhpd1BfaTRITk1Ja3BaT09mN2RlMTFyMkh6ZThYdXFTVk9Bb0xoZDFESWxwYXRLX2xfRk9MVnpmVUpSNmdVbF9Xb3lR?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -160,6 +277,16 @@
         "Earnings decline for energy producers"
       ]
     }
+  },
+  {
+    "id": "7665340",
+    "headline": "Greek-operated air defence system shoots down Iranian missiles over Saudi - Reuters",
+    "summary": "Greek-operated air defence system shoots down Iranian missiles over Saudi  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRUNKbXZPZWIxZGZVRUNEcjBhVjVxSHlVbHpLZnpSc0FKRnlWSENvZDFZZjFWOWtsZ3dySXF6VmpvcGZwYVR4c2lMN0RaZEFfWE82clNmbGtRVGwyb1k4ZDVvVlozbWo4b2lsT2I5ZTY1MGowZFFnNGIwVmkzSV9GU1JMZXVQTkx2X3RKdU9NNEhXZUNScktwcXFDWHdkcnY4cW8yaDRUanpWMk1rX1gzcTVuWi1Ic3pMbmFyU3JDbWRLbTlET0hQNVktZE0zTGdJTnc?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1773923285
   },
   {
     "id": "7664436",
@@ -666,8 +793,8 @@
   },
   {
     "id": "7662961",
-    "headline": "Europe and Japan ready to help stabilise energy prices and secure oil chokepoint - Reuters",
-    "summary": "Europe and Japan ready to help stabilise energy prices and secure oil chokepoint  Reuters",
+    "headline": "Europe and Japan ready to help steady energy prices and secure chokepoint - Reuters",
+    "summary": "Europe and Japan ready to help steady energy prices and secure chokepoint  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSDA1bGlRbVZ6OENrX0FINVNCZEM0T0l6aWxkRjk1UnhmVjZ1UTdlYmVLX3hRak5XbDZVZ3RhVlBVVDVsMU5FejhEcGJKT2dNQzZGVlZIZ0hDdnpsT0JHWDZHRDctSlNtZWp6djA4dTlXNWRPWWtyOUVuVnFzMnpZNUVsQlAtSUJKSDAxZ2YtVWNQS0x5Y1RfMHUtZjA2NTFXVjVUVzJjbEVLeFBsT1RONm9wa19QdzNjT29mZF9jX0RlVzNjOVVlSjJKSQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -796,13 +923,13 @@
   },
   {
     "id": "7664331",
-    "headline": "Europe tumbles on Iran war as central banks hold rates - Reuters",
-    "summary": "Europe tumbles on Iran war as central banks hold rates  Reuters",
+    "headline": "Stocks drop, crude rises as central banks stand pat - Reuters",
+    "summary": "Stocks drop, crude rises as central banks stand pat  Reuters",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOczZ0QkJycHpLdWF1blZDOWNiRlhCRUkycVBDamUtWTdnMzBsVy1mRzFESTJvaWhjbXIwekI5Z1JfNVhkbzlLdERyQnVRbzNPdkhGTkVreFhFNXNLOHBBSjNTX0xTUUJTUlFpbkE1T2dIblRWSHJfUnhsVTdzdHpUVQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1773883080,
+    "publishedAt": 1773883111,
     "analysis": {
       "version": 2,
       "generatedAt": 1773922072,
@@ -1881,29 +2008,6 @@
     }
   },
   {
-    "id": "7658584",
-    "headline": "Iran says nuclear doctrine unlikely to change, Hormuz Strait needs new protocol - Reuters",
-    "summary": "Iran says nuclear doctrine unlikely to change, Hormuz Strait needs new protocol  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTGxiLTMyTWQ4YVkzc2REZXZiZ2UxUVg4MUJ5d21ObzZZUFNLNE5iVnJKazBYR1JJeFJoa0FzZG91NGJaeGJfYnZzMTRpR3RfVGxVNjFFZUNjRkNSVDdpbW9ROHJLTGFGb2dpdWFTTFF0d2VRYzBkR2VRZU5ETlNMd3p3QjBzSHhFTGtvVXNBSVlGcEp5WU4wRlpTQU5UdGNCcHF2RU9NQm9wNm84d0VzWHZHenR4M0U?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1773827231,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1773826677,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Iran's statement on its nuclear doctrine suggests that the country's stance on its nuclear program is unlikely to change in the near future. The Hormuz Strait, a critical waterway for global oil trade, requires a new protocol to ensure safe passage. This development has implications for oil prices and the global energy market. The news does not directly impact specific companies, but it may influence the overall market sentiment and oil prices, which could affect energy-related stocks in the long term.",
-      "impact": "The news may lead to increased volatility in the oil market, potentially driving up oil prices in the short term. This, in turn, could positively impact energy companies' earnings, particularly those with significant oil production or refining operations. However, the medium-term impact on these companies' stock prices is uncertain, as the news does not provide clear direction on Iran's nuclear program or its potential impact on global oil supply.",
-      "risks": [
-        "geopolitical risk",
-        "oil price volatility risk",
-        "energy market uncertainty risk"
-      ]
-    }
-  },
-  {
     "id": "7658906",
     "headline": "Iran war increases threat to Sweden, security service says - Reuters",
     "summary": "Iran war increases threat to Sweden, security service says  Reuters",
@@ -1943,6 +2047,29 @@
       "summary": "The ongoing Iran war has highlighted the vulnerability of the Indian rupee, leading banks to pitch cross-currency trades as a hedge against potential currency fluctuations. The Indian rupee has weakened against the US dollar in recent days, making imports more expensive and potentially impacting India's economy. This development is a concern for Indian banks, which have significant exposure to foreign exchange markets. The Indian government has intervened in the past to stabilize the rupee, but the current situation may require more drastic measures.",
       "impact": "The potential impact on Indian banks and financial institutions could be significant, as they may face increased losses due to currency fluctuations. In the short-term, investors may sell off Indian stocks, leading to a decline in the market. Medium-term, the Indian economy may slow down due to higher import costs, affecting the earnings outlook of companies with significant foreign exchange exposure. The increased volatility in the rupee may also lead to a decrease in liquidity in the Indian financial markets.",
       "risks": []
+    }
+  },
+  {
+    "id": "7658584",
+    "headline": "Iran says nuclear doctrine unlikely to change, Hormuz Strait needs new protocol - Reuters",
+    "summary": "Iran says nuclear doctrine unlikely to change, Hormuz Strait needs new protocol  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTGxiLTMyTWQ4YVkzc2REZXZiZ2UxUVg4MUJ5d21ObzZZUFNLNE5iVnJKazBYR1JJeFJoa0FzZG91NGJaeGJfYnZzMTRpR3RfVGxVNjFFZUNjRkNSVDdpbW9ROHJLTGFGb2dpdWFTTFF0d2VRYzBkR2VRZU5ETlNMd3p3QjBzSHhFTGtvVXNBSVlGcEp5WU4wRlpTQU5UdGNCcHF2RU9NQm9wNm84d0VzWHZHenR4M0U?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1773816300,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773826677,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Iran's statement on its nuclear doctrine suggests that the country's stance on its nuclear program is unlikely to change in the near future. The Hormuz Strait, a critical waterway for global oil trade, requires a new protocol to ensure safe passage. This development has implications for oil prices and the global energy market. The news does not directly impact specific companies, but it may influence the overall market sentiment and oil prices, which could affect energy-related stocks in the long term.",
+      "impact": "The news may lead to increased volatility in the oil market, potentially driving up oil prices in the short term. This, in turn, could positively impact energy companies' earnings, particularly those with significant oil production or refining operations. However, the medium-term impact on these companies' stock prices is uncertain, as the news does not provide clear direction on Iran's nuclear program or its potential impact on global oil supply.",
+      "risks": [
+        "geopolitical risk",
+        "oil price volatility risk",
+        "energy market uncertainty risk"
+      ]
     }
   },
   {
@@ -22622,156 +22749,6 @@
         "Increased oil prices and energy costs",
         "Potential decline in investor sentiment and liquidity"
       ]
-    }
-  },
-  {
-    "id": "7595914",
-    "headline": "Discussions with Board of Peace 'on hold' due to Iran war, Indonesia says - Reuters",
-    "summary": "Discussions with Board of Peace 'on hold' due to Iran war, Indonesia says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSWxUVTE0UGxjZU1odXR3cktmek1EVXJScnQ1MHZMMTEwVE4yYlljM3hGejVmcGNXTXhaUXFGU1V4ckNhc2lZeDhaSy1jclI5ZnFJT0NyVHNsbzBPOXdha3lYTndPZk5tZGxqUDZMU2xCWTUzNmxpSUhaX1RfOXU4UEpJNFh4N0VtcWU3QXkxNW14SHEyU1ZTUl84Tzg3T2daOTU0ZW02cEFIT3h3OVIyTmtHYmZaNHNTMG1j?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1772618223,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772861665,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Indonesia has put discussions with the Board of Peace on hold due to the ongoing Iran war. The war has created a volatile geopolitical environment, which has led to increased tensions in the region. This development is expected to have a ripple effect on global markets, including Indonesia's economy. The country's government is likely to be cautious in its dealings with other nations during this time. The Board of Peace is a regional organization focused on promoting peace and stability in the Asia-Pacific region.",
-      "impact": "The ongoing Iran war is likely to have a negative impact on Indonesia's economy in the short-term, leading to increased uncertainty and volatility in the market. This may lead to a decrease in investor sentiment, which could negatively impact the country's stock market. In the medium-term, the war could lead to a slowdown in economic growth, as trade and investment are likely to be affected. The impact on the stock market will depend on how long the war lasts and how it affects Indonesia's economy.",
-      "risks": [
-        "geopolitical risk",
-        "economic uncertainty risk",
-        "market volatility risk"
-      ]
-    }
-  },
-  {
-    "id": "7582012",
-    "headline": "More repatriation flights as Middle East airspace closure strands thousands - Reuters",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQ2phVEQ0a2V1Mk9rSDlkZGlGMzBjM0lOZjVPT3hoVUQ5Ylg4YlI2MUlrYVFoVDlaWGRlMkZhcDNYeXRIcnJIQTgxZGJEVXdfUmp5MHJxWEQxVm1UMmZUZUJyTVVOemkxZHdtVHdJNTFTakRqWWduNWJNMnZON3ZaOFRWRndnZkMxeUhQWkYzQktlRVdIaFdMWmZ4VGxOMklzVGtfTHRQOXJybjVmWGdzQmcxbm1nVUljZUFpMC1MQ0lsZw?oc=5\" target=\"_blank\">More repatriation flights as Middle East airspace closure strands thousands</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQ2phVEQ0a2V1Mk9rSDlkZGlGMzBjM0lOZjVPT3hoVUQ5Ylg4YlI2MUlrYVFoVDlaWGRlMkZhcDNYeXRIcnJIQTgxZGJEVXdfUmp5MHJxWEQxVm1UMmZUZUJyTVVOemkxZHdtVHdJNTFTakRqWWduNWJNMnZON3ZaOFRWRndnZkMxeUhQWkYzQktlRVdIaFdMWmZ4VGxOMklzVGtfTHRQOXJybjVmWGdzQmcxbm1nVUljZUFpMC1MQ0lsZw?oc=5",
-    "source": "Reuters",
-    "image": "",
-    "relatedSymbols": [],
-    "publishedAt": 1772618192,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772638027,
-      "sentiment": "neutral",
-      "confidence": 0.8,
-      "summary": "Airline shares have experienced a relief rally as some flights have begun to leave the Gulf region amid the ongoing Iran conflict. The easing of tensions has led to a decrease in the selloff of airline stocks, with investors taking a more cautious approach. The Iran conflict has had a significant impact on the airline industry, particularly those with operations in the region. The recent development suggests that the situation may be stabilizing, but the industry remains cautious. The uncertainty surrounding the conflict has led to a decline in air travel demand, affecting airline stocks.",
-      "impact": "The easing of tensions in the Gulf region may lead to a short-term relief rally in airline stocks, as investors become more optimistic about the future. However, the medium-term impact on the industry remains uncertain, as the conflict has already led to a decline in air travel demand. The earnings outlook for airlines may be affected, as reduced demand could lead to lower revenue and profitability. The valuation of airline stocks may also be impacted, as investors reassess the risks associated with operating in the region.",
-      "risks": [
-        "Uncertainty surrounding the Iran conflict and its impact on air travel demand",
-        "Potential for further escalation of the conflict and its impact on airline operations",
-        "Impact on earnings and profitability due to reduced air travel demand"
-      ]
-    }
-  },
-  {
-    "id": "7595903",
-    "headline": "More repatriation flights as Middle East airspace closure strands thousands - Reuters",
-    "summary": "More repatriation flights as Middle East airspace closure strands thousands  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQ2phVEQ0a2V1Mk9rSDlkZGlGMzBjM0lOZjVPT3hoVUQ5Ylg4YlI2MUlrYVFoVDlaWGRlMkZhcDNYeXRIcnJIQTgxZGJEVXdfUmp5MHJxWEQxVm1UMmZUZUJyTVVOemkxZHdtVHdJNTFTakRqWWduNWJNMnZON3ZaOFRWRndnZkMxeUhQWkYzQktlRVdIaFdMWmZ4VGxOMklzVGtfTHRQOXJybjVmWGdzQmcxbm1nVUljZUFpMC1MQ0lsZw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1772618192,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772861712,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The Middle East airspace closure has led to a surge in repatriation flights, stranding thousands of travelers. This situation is a result of the ongoing conflict in the region, causing airlines to cancel flights and reroute routes. The repatriation efforts are being carried out by various airlines, including those from the affected countries and international carriers. The airspace closure has disrupted air travel in the region, affecting thousands of passengers and airlines alike. The situation is expected to continue until the conflict is resolved.",
-      "impact": "The Middle East airspace closure is likely to have a short-term negative impact on airlines operating in the region, including those with significant exposure to the affected countries. The increased operational costs due to rerouting and cancellations may lead to a decline in earnings for these airlines. However, the medium-term impact may be mitigated by the increased demand for repatriation flights, which could provide a temporary boost to airline revenue. The situation may also lead to a decrease in air travel demand in the region, affecting the overall industry sentiment and potentially leading to a decline in airline stock prices.",
-      "risks": [
-        "Airline earnings decline risk",
-        "Air travel demand slowdown risk",
-        "Operational disruption risk"
-      ]
-    }
-  },
-  {
-    "id": "7581229",
-    "headline": "Russia says US attacked Iran on false pretext, condemns call for Iranians to seize power - Reuters",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRktld3MzelF4X2hUb3FmNFNPQW11RjhKdkxqWWZlU1lKOF9idl9kOGIxbkk3UGVSN1hXTW1TZnBNMVdPMUFNR0IwNlZUUERUTDlycGgtS29CaGV2aGp6QVpRMjBsT1lZaEVUUHVMb3JOQ2cyVmhtNk9MQjFaRzQyZmZSLWRrUWRrWURxWFJDZXprMlVHRjlmbEVUREtoNjBTS2FjUHJ4OUJ0bV81NFBOUkNmZTlpa2RJUDRB?oc=5\" target=\"_blank\">Russia says US attacked Iran on false pretext, condemns call for Iranians to seize power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRktld3MzelF4X2hUb3FmNFNPQW11RjhKdkxqWWZlU1lKOF9idl9kOGIxbkk3UGVSN1hXTW1TZnBNMVdPMUFNR0IwNlZUUERUTDlycGgtS29CaGV2aGp6QVpRMjBsT1lZaEVUUHVMb3JOQ2cyVmhtNk9MQjFaRzQyZmZSLWRrUWRrWURxWFJDZXprMlVHRjlmbEVUREtoNjBTS2FjUHJ4OUJ0bV81NFBOUkNmZTlpa2RJUDRB?oc=5",
-    "source": "Reuters",
-    "image": "",
-    "relatedSymbols": [],
-    "publishedAt": 1772617909,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772625637,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Russia has accused the US of attacking Iran on a false pretext, which may escalate tensions between the two nations. This move may lead to increased military action, potentially disrupting global oil supplies and affecting the price of crude oil. The US and Iran have a long-standing trade relationship, with the US being one of Iran's largest trading partners. The escalation of tensions may impact US companies with significant exposure to the Middle East, such as those in the energy and transportation sectors.",
-      "impact": "The potential for increased military action in the region may lead to a short-term increase in oil prices, benefiting energy companies such as ExxonMobil (XOM) and Chevron (CVX). However, the medium-term impact may be negative for US companies with significant exposure to the Middle East, as trade disruptions and increased tensions may lead to decreased demand and lower earnings. The US dollar may also strengthen against other currencies, potentially negatively impacting US multinational companies with significant international operations, such as 3M (MMM) and Procter & Gamble (PG).",
-      "risks": []
-    }
-  },
-  {
-    "id": "7595881",
-    "headline": "Russia says US attacked Iran on false pretext, condemns call for Iranians to seize power - Reuters",
-    "summary": "Russia says US attacked Iran on false pretext, condemns call for Iranians to seize power  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRktld3MzelF4X2hUb3FmNFNPQW11RjhKdkxqWWZlU1lKOF9idl9kOGIxbkk3UGVSN1hXTW1TZnBNMVdPMUFNR0IwNlZUUERUTDlycGgtS29CaGV2aGp6QVpRMjBsT1lZaEVUUHVMb3JOQ2cyVmhtNk9MQjFaRzQyZmZSLWRrUWRrWURxWFJDZXprMlVHRjlmbEVUREtoNjBTS2FjUHJ4OUJ0bV81NFBOUkNmZTlpa2RJUDRB?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1772617909,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772863568,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Russia's condemnation of the US attack on Iran and the call for Iranians to seize power may escalate tensions in the region, potentially disrupting global oil markets. This news may lead to increased uncertainty and volatility in the Middle East, affecting oil prices and the energy sector. The US-Iran conflict has been a major concern for investors, and this development may heighten the risk of further military action, which could impact oil prices and energy companies. The news may also have a broader impact on the global economy, particularly if the conflict spreads or leads to a wider regional conflict.",
-      "impact": "The potential for increased oil prices and volatility in the energy sector may negatively impact the earnings outlook for energy companies, particularly those with significant exposure to the Middle East. This may lead to a short-term decline in stock prices for these companies. In the medium term, a prolonged conflict could lead to increased costs and reduced production, further impacting earnings and stock prices. The news may also increase investor risk aversion, leading to a decline in stock prices across the board.",
-      "risks": []
-    }
-  },
-  {
-    "id": "7581020",
-    "headline": "At least 101 people missing after submarine attack on Iranian ship off Sri Lanka, sources say - Reuters",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeEJNa2t0eE5UaDlKZVRweWhLR2NqY21oSWRwQWxQUEZzWkhzRUt0TENfR2JZaTZRNjJ0b3llMXJCUUd3cUpHa3phMTlON1VoMXJEU3BqTWtwTFlURkdBblROMHNPNFltN1hRWVcwcGJmaThyb05Zc1dBNGVkNktHbUhwZElTdHBtN091RzEzSFVpdWQ2WU5pUThqdGtNeEJBVjNuZExWeTh0Zm5RT3NtenBFd2tTajVRaFVzeHktV1RfUnZpT3FEOA?oc=5\" target=\"_blank\">At least 101 people missing after submarine attack on Iranian ship off Sri Lanka, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeEJNa2t0eE5UaDlKZVRweWhLR2NqY21oSWRwQWxQUEZzWkhzRUt0TENfR2JZaTZRNjJ0b3llMXJCUUd3cUpHa3phMTlON1VoMXJEU3BqTWtwTFlURkdBblROMHNPNFltN1hRWVcwcGJmaThyb05Zc1dBNGVkNktHbUhwZElTdHBtN091RzEzSFVpdWQ2WU5pUThqdGtNeEJBVjNuZExWeTh0Zm5RT3NtenBFd2tTajVRaFVzeHktV1RfUnZpT3FEOA?oc=5",
-    "source": "Reuters",
-    "image": "",
-    "relatedSymbols": [],
-    "publishedAt": 1772616835,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772623086,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "A submarine attack on an Iranian ship off the coast of Sri Lanka has resulted in at least 101 people missing. The incident has sparked concerns about the safety of maritime trade in the region. The Iranian ship was reportedly carrying a cargo of fuel oil, which could have significant implications for the global energy market. The attack is believed to have been carried out by a foreign entity, although the identity of the perpetrator is not yet known. The incident highlights the growing tensions in the region and the increasing risk of maritime piracy.",
-      "impact": "The incident is likely to have a negative impact on the global energy market, particularly on companies involved in the transportation and trading of oil and fuel. The attack could lead to increased costs and risks for companies operating in the region, potentially affecting their earnings outlook. In the short term, this could lead to a decline in stock prices for companies such as oil majors and shipping companies. In the medium term, the incident could lead to increased security measures and regulations, which could have a positive impact on companies that specialize in maritime security and risk management.",
-      "risks": [
-        "maritime piracy risk",
-        "increased security costs risk",
-        "regulatory changes risk",
-        "global energy market volatility risk"
-      ]
-    }
-  },
-  {
-    "id": "7595882",
-    "headline": "At least 101 people missing after submarine attack on Iranian ship off Sri Lanka, sources say - Reuters",
-    "summary": "At least 101 people missing after submarine attack on Iranian ship off Sri Lanka, sources say  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeEJNa2t0eE5UaDlKZVRweWhLR2NqY21oSWRwQWxQUEZzWkhzRUt0TENfR2JZaTZRNjJ0b3llMXJCUUd3cUpHa3phMTlON1VoMXJEU3BqTWtwTFlURkdBblROMHNPNFltN1hRWVcwcGJmaThyb05Zc1dBNGVkNktHbUhwZElTdHBtN091RzEzSFVpdWQ2WU5pUThqdGtNeEJBVjNuZExWeTh0Zm5RT3NtenBFd2tTajVRaFVzeHktV1RfUnZpT3FEOA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1772616835,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772863613,
-      "sentiment": "neutral",
-      "confidence": 0.5,
-      "summary": "A submarine attack on an Iranian ship off the coast of Sri Lanka has resulted in at least 101 people missing. The incident is still under investigation, and there is no clear indication of who was responsible for the attack. The attack has raised concerns about the safety of maritime trade routes and the potential for increased tensions in the region. The incident is not directly related to any specific company or industry, but it may have broader implications for global trade and geopolitics.",
-      "impact": "The incident is unlikely to have a direct impact on the stock market in the short term, but it may lead to increased volatility in the medium term. The attack may also lead to increased security measures for ships traveling through the region, which could potentially increase costs for shipping companies. This could negatively impact the earnings outlook for companies in the shipping and logistics industry, particularly those with significant operations in the region. The incident may also have a broader impact on global trade and geopolitics, potentially leading to increased tensions between countries in the region.",
-      "risks": []
     }
   }
 ]
