@@ -1,5 +1,47 @@
 [
   {
+    "id": "7670495",
+    "headline": "The spring housing market is on, but mortgage rates just shot higher. Here's what to know.",
+    "summary": "This spring's housing market is on, but economic headwinds are pushing back most of the advantage that buyers have gained over the past year in affordability.",
+    "url": "https://www.cnbc.com/2026/03/20/spring-housing-market-mortgage-rates.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108251173-1768230550905-gettyimages-2255399335-FLORIDA_OPEN_HOUSES.jpeg?v=1768230638&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1774023858,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774027545,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The spring housing market is expected to be impacted by rising mortgage rates, which have increased to 6.53% due to the war with Iran and subsequent inflation concerns. This makes it less affordable for buyers, potentially weighing on housing demand. However, other factors such as increased inventory, longer home sitting times, and sellers' willingness to lower prices have shifted the market in favor of buyers. The housing market is in a precarious position, caught between long-term improvements and short-term instability.",
+      "impact": "The rising mortgage rates will likely lead to a decline in housing demand, potentially affecting companies in the real estate sector, such as homebuilders and mortgage lenders. This could result in lower earnings for these companies in the short term. The increased inventory and longer home sitting times may also put pressure on home prices, further impacting the earnings outlook for real estate companies. The uncertainty surrounding the Iran war and its impact on the economy may also contribute to a decline in investor sentiment and liquidity in the real estate sector.",
+      "risks": [
+        "Decline in housing demand",
+        "Earnings pressure on homebuilders and mortgage lenders",
+        "Uncertainty surrounding the Iran war and its impact on the economy"
+      ]
+    }
+  },
+  {
+    "id": "7670499",
+    "headline": "Jim Cramer says this AI leader is a tough stock to own right now — what to do next",
+    "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+    "url": "https://www.cnbc.com/2026/03/20/jim-cramer-says-this-ai-leader-is-a-tough-stock-to-own-right-now.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108279787-1773856963026-gettyimages-2266693711-NVIDIA_GTC.jpeg?v=1773857028&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1774023725,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774027590,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "Jim Cramer is advising caution on Nvidia (NVDA) due to its recent decline despite positive announcements. He believes the stock is a 'tough stock to own right now' but still plans to hold it. In contrast, Salesforce (CRM) is seeing a wave of insider buying, which is a positive signal. The company has also initiated a $25 billion accelerated share repurchase program.",
+      "impact": "Nvidia's stock may face short-term pressure due to the negative sentiment and decline, potentially impacting its valuation. However, Cramer's confidence in the company's long-term prospects suggests a medium-term recovery. Salesforce's insider buying and share repurchase program may boost investor sentiment and drive its stock price up in the medium term. The company's resilience to AI-related negative sentiment is a key driver of its potential outperformance.",
+      "risks": []
+    }
+  },
+  {
     "id": "7670284",
     "headline": "David Zaslav’s WBD-Paramount deal payout highlights new 'golden parachutes' for CEOs",
     "summary": "WBD CEO David Zaslav could see a payout of more than $800 million after the Paramount Skydance merger.",
@@ -158,6 +200,29 @@
     }
   },
   {
+    "id": "7670502",
+    "headline": "India sees Qatar LNG supply cut after Iran strike - Reuters",
+    "summary": "India sees Qatar LNG supply cut after Iran strike  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeUxTbXdoZURlLUFRcnFaYXRQX3dxekd2VllrRGpQTjVGUmRpUTBIXzVXTHZnODZ3cDNTQjlsaGhyQkNqOUt5VDdJR0ltOUk0VnZnTjVGTFBUaldBVkZuZ290elNpUVBCcWFuRUctdG1MY3h1UWNKMEUxMDdoYzg2LWNUd3h3UEtiLW0xaXVWU3FLcGxKOG9QeGlYa3ljN0x3YlFN?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1774010881,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774027655,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "India's liquefied natural gas (LNG) imports from Qatar are expected to decline due to a strike at an Iranian port, which has disrupted Qatar's LNG exports. The strike has halted shipments from the South Pars gas field, a major source of Qatar's LNG exports. This development is expected to impact India's energy imports, particularly in the short term. The reduction in LNG supply from Qatar may lead to higher energy costs for Indian companies that rely on these imports.",
+      "impact": "This news is likely to have a negative impact on the earnings outlook of companies that rely heavily on imported LNG, such as those in the energy and industrial sectors. The increased energy costs may also lead to higher production costs for these companies, potentially weighing on their valuations. Additionally, the reduced supply of LNG may lead to a shortage of natural gas, which could have a ripple effect on the broader energy market. In the short term, this may lead to a decline in the stock prices of companies that are heavily exposed to LNG imports.",
+      "risks": [
+        "increased energy costs risk",
+        "shortage of natural gas risk",
+        "reduced earnings outlook risk"
+      ]
+    }
+  },
+  {
     "id": "7670182",
     "headline": "Switzerland halts weapons exports to US due to Iran war, citing neutrality - Reuters",
     "summary": "Switzerland halts weapons exports to US due to Iran war, citing neutrality  Reuters",
@@ -188,7 +253,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1774006688
+    "publishedAt": 1774006688,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774027714,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The Netherlands has tightened security measures for Iranian dissidents following the shooting of a man critical of Iran's authorities. The incident highlights the ongoing tensions between Iran and the international community. The Netherlands has a significant Iranian diaspora community, and the move is seen as a precautionary measure to protect its citizens. The incident is not directly related to any specific company or industry, but it may have broader implications for the global geopolitical landscape.",
+      "impact": "The news is unlikely to have a direct impact on the stock market in the short term. However, it may contribute to a more cautious sentiment towards companies with exposure to the Middle East or with business ties to Iran. In the medium term, the increased tensions could lead to a re-evaluation of investment opportunities in the region, potentially affecting companies with significant operations in the Netherlands or with business ties to Iran.",
+      "risks": [
+        "geopolitical risk",
+        "regional instability risk",
+        "reputation risk for companies with ties to Iran"
+      ]
+    }
   },
   {
     "id": "7669745",
@@ -267,7 +345,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1774003918
+    "publishedAt": 1774003918,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774027774,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "The article reports that the ongoing Middle East turmoil is casting a shadow over the Federal Reserve's (Fed) outlook, leading to a decline in Wall Street. The situation in the Middle East is causing concern about the potential impact on global economic growth and inflation. This, in turn, is affecting investor sentiment and causing a decline in stock prices. The Fed's actions, particularly its interest rate decisions, are closely watched by the market, and any changes in the Fed's outlook can have a significant impact on the stock market.",
+      "impact": "The potential impact on related stocks is likely to be short-term, with a focus on the effects on earnings outlook and valuation. The uncertainty surrounding the Middle East situation may lead to a decrease in investor confidence, causing a decline in stock prices. This could be particularly challenging for companies with high exposure to the region or those with significant operations in the Middle East. The medium-term impact could be felt through changes in macro factors such as inflation and economic growth, which could affect the overall business environment.",
+      "risks": [
+        "Middle East conflict risk",
+        "Global economic slowdown risk",
+        "Inflation risk"
+      ]
+    }
   },
   {
     "id": "7669746",
@@ -408,6 +499,16 @@
     }
   },
   {
+    "id": "7670503",
+    "headline": "UK borrowing jumped in February before Iran war risks to budget - Reuters",
+    "summary": "UK borrowing jumped in February before Iran war risks to budget  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcjdMeVFqcnhTYklSeEw0bmtmcjBwbVBzajdVRlZkYmNLeTZIdHpFSmdqU0ptVjdNU0dnLU1zQmZxZDJpLVFJZktWOHBaNk9CSlRxLW1iWmNGNzVFMzlEUUZYMWZGeF9YaGJTTFZUeEJ2eW5GTWhXNzFZYTJ3aDRSYWRvNUloY1Z0ZkNXTUlub3Q2bEFJbFVjZ3M2dEw2UGVkS2NrSERpZTVKdXJLS2V3?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1773992013
+  },
+  {
     "id": "7668786",
     "headline": "War in Iran threatens fresh food-price shock across developing world - Reuters",
     "summary": "War in Iran threatens fresh food-price shock across developing world  Reuters",
@@ -438,7 +539,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1773983119,
+    "publishedAt": 1773983100,
     "analysis": {
       "version": 2,
       "generatedAt": 1773998904,
@@ -461,7 +562,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1773979822,
+    "publishedAt": 1773979800,
     "analysis": {
       "version": 2,
       "generatedAt": 1774002176,
@@ -1734,6 +1835,29 @@
     }
   },
   {
+    "id": "7661304",
+    "headline": "Iran targets energy facilities across Gulf after Israel struck its key gas installations - Reuters",
+    "summary": "Iran targets energy facilities across Gulf after Israel struck its key gas installations  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOGdRQTVRbWJWTUxxd0NXNWhTNGdpWHlEVWRIQTExQmdtZkxVVnFNTUViM2JRUGw0cjIwT1hkMHZTSlIwanZQOWMwOTZ4RDdsczhMV2tlZ1ZHWXhycE1OWDdNdlNTVE00VHY2U25pX3h1UTJHSEI1WFg4LVFPakFwSlg2NENsZXZFd0ttV0FBMkxwQ1QtdEVNY2FwT3FuZi11clp0cFdvOV9ha2NSR3YzaG9iMXZaamdlVUR6WldFWG9DbVFEMUo3Y184MGtESlE?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1773917371,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773871445,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "QatarEnergy has reported extensive damage to its facilities in the Ras Laffan industrial city following missile attacks. The incident has raised concerns about the safety and security of the region's critical infrastructure. Ras Laffan is a major hub for Qatar's liquefied natural gas (LNG) production and exports. The damage is likely to disrupt operations and potentially impact QatarEnergy's production and revenue. The incident is also a reminder of the geopolitical risks associated with investing in the Middle East.",
+      "impact": "The news is likely to have a negative impact on QatarEnergy's stock price in the short term due to concerns about the company's ability to maintain production levels and meet its revenue targets. The incident may also lead to a decrease in investor confidence in the region's energy sector, potentially affecting the stock prices of other companies operating in the area. In the medium term, the damage could lead to increased costs for QatarEnergy, which may negatively impact its earnings outlook.",
+      "risks": [
+        "supply chain disruption risk",
+        "revenue decline risk",
+        "geopolitical risk"
+      ]
+    }
+  },
+  {
     "id": "7664330",
     "headline": "Iran calls for regional coordination in calls with Turkey, Egypt, Pakistan - Reuters",
     "summary": "Iran calls for regional coordination in calls with Turkey, Egypt, Pakistan  Reuters",
@@ -2086,7 +2210,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1773899820,
+    "publishedAt": 1773900149,
     "analysis": {
       "version": 2,
       "generatedAt": 1773908792,
@@ -2658,29 +2782,6 @@
       "summary": "The recent news from the Federal Reserve's meeting has led to a decline in stocks, with the S&P 500 taking a leg down to session lows. Fed Chairman Jerome Powell's comments on inflation, specifically that it's not coming down as quickly as hoped, have put pressure on stocks. The surge in oil prices due to the Iran war is expected to increase inflation in the near term, which has emphasized Powell's stance. The Fed has kept interest rates steady, but Powell mentioned that this could change depending on the longer-term inflation picture.",
       "impact": "The news is likely to have a negative impact on the stock market in the short term, with potential medium-term effects on the earnings outlook of companies that are heavily reliant on interest rates, such as those in the financial sector. The increased inflation expectations may also lead to a reassessment of valuations for companies with high price-to-earnings ratios. Furthermore, the uncertainty surrounding the Fed's future rate decisions may lead to increased volatility in the market, affecting liquidity and investor sentiment.",
       "risks": []
-    }
-  },
-  {
-    "id": "7661304",
-    "headline": "Iran targets energy facilities across Gulf after Israel struck its key gas installations - Reuters",
-    "summary": "Iran targets energy facilities across Gulf after Israel struck its key gas installations  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOGdRQTVRbWJWTUxxd0NXNWhTNGdpWHlEVWRIQTExQmdtZkxVVnFNTUViM2JRUGw0cjIwT1hkMHZTSlIwanZQOWMwOTZ4RDdsczhMV2tlZ1ZHWXhycE1OWDdNdlNTVE00VHY2U25pX3h1UTJHSEI1WFg4LVFPakFwSlg2NENsZXZFd0ttV0FBMkxwQ1QtdEVNY2FwT3FuZi11clp0cFdvOV9ha2NSR3YzaG9iMXZaamdlVUR6WldFWG9DbVFEMUo3Y184MGtESlE?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1773861930,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1773871445,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "QatarEnergy has reported extensive damage to its facilities in the Ras Laffan industrial city following missile attacks. The incident has raised concerns about the safety and security of the region's critical infrastructure. Ras Laffan is a major hub for Qatar's liquefied natural gas (LNG) production and exports. The damage is likely to disrupt operations and potentially impact QatarEnergy's production and revenue. The incident is also a reminder of the geopolitical risks associated with investing in the Middle East.",
-      "impact": "The news is likely to have a negative impact on QatarEnergy's stock price in the short term due to concerns about the company's ability to maintain production levels and meet its revenue targets. The incident may also lead to a decrease in investor confidence in the region's energy sector, potentially affecting the stock prices of other companies operating in the area. In the medium term, the damage could lead to increased costs for QatarEnergy, which may negatively impact its earnings outlook.",
-      "risks": [
-        "supply chain disruption risk",
-        "revenue decline risk",
-        "geopolitical risk"
-      ]
     }
   },
   {
@@ -22695,94 +22796,6 @@
         "Decrease in demand for US defense products and services",
         "Decline in investor sentiment and liquidity",
         "Potential decrease in macroeconomic growth due to increased tensions between the US and Iran"
-      ]
-    }
-  },
-  {
-    "id": "7595862",
-    "headline": "Iran conflict may divert US weapons from Ukraine - Reuters",
-    "summary": "Iran conflict may divert US weapons from Ukraine  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcmhHT25iSEhVUWdvZENaSWZBakhvVHJxYUViTlNFTEw0WkFLNXV1N0k0UlJxMjJIczFlSV92TExVazgxbzRGOWNEdGthQkx6ZmpEaXBCeGxaSl9ZR1puR1JtT3h6QW9IMUhuZHJSS0hKclhlaVJoLTU2M3FHY2pXRTlmV3BJNk1waG11NnNjZU01WGlScnJLQjh4X0w4ZjdhRXpJMEN5Zmhodw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1772647923,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772820583,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "The potential diversion of US weapons from Ukraine to Iran may have a negative impact on the global arms industry, particularly for companies that supply Ukraine with military equipment. The conflict between the US and Iran has escalated, increasing the likelihood of a diversion of military resources. This development may lead to a decrease in demand for US weapons in Ukraine, potentially affecting the earnings of companies involved in the supply chain. The situation is complex and may be influenced by various factors, including diplomatic efforts and the response of other countries in the region.",
-      "impact": "The potential diversion of US weapons from Ukraine may lead to a short-term decrease in demand for US military equipment, negatively impacting the earnings of companies such as Lockheed Martin (LMT) and Raytheon Technologies (RTN). In the medium term, this may lead to a re-evaluation of the global arms market, potentially affecting the valuation of companies involved in the industry. The sentiment towards these companies may also be negatively impacted, leading to a decrease in investor confidence and potentially affecting liquidity.",
-      "risks": [
-        "Decrease in demand for US military equipment",
-        "Negative impact on earnings of companies involved in the supply chain",
-        "Potential re-evaluation of the global arms market"
-      ]
-    }
-  },
-  {
-    "id": "7584589",
-    "headline": "Russia may halt gas supplies to Europe amid Iran energy spike, Putin says - Reuters",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaThIMHZZbEx1X281N0xJZFZkaHlZOFFkaVRwc1k3QTNqYnRCbHRjSTc1SHQzZGl4MWxTd1RkN0VhYTlnTVVVTHZ0SjZrNDNxaUdEUUdCUURrOWZpdWNFRnFpbDZOZnFpRDNuV3QxeGNBVWFWT01STkluOXlYNERJbk40M0swcktWbVhueTJlVlFBOHUyUWMwbVJrMlVYY0dDLVFmdzA3QUhUMjZEZkRPWnl6NGpSSWM4R0I0?oc=5\" target=\"_blank\">Russia may halt gas supplies to Europe amid Iran energy spike, Putin says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaThIMHZZbEx1X281N0xJZFZkaHlZOFFkaVRwc1k3QTNqYnRCbHRjSTc1SHQzZGl4MWxTd1RkN0VhYTlnTVVVTHZ0SjZrNDNxaUdEUUdCUURrOWZpdWNFRnFpbDZOZnFpRDNuV3QxeGNBVWFWT01STkluOXlYNERJbk40M0swcktWbVhueTJlVlFBOHUyUWMwbVJrMlVYY0dDLVFmdzA3QUhUMjZEZkRPWnl6NGpSSWM4R0I0?oc=5",
-    "source": "Reuters",
-    "image": "",
-    "relatedSymbols": [],
-    "publishedAt": 1772645793,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772658476,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Russian President Vladimir Putin has stated that Russia may halt gas supplies to Europe due to an energy spike in Iran, which could lead to a significant increase in global energy prices. This move could be a response to the recent surge in oil prices, which have been driven by the Iran energy crisis. The potential halt in gas supplies would have a major impact on European countries that rely heavily on Russian gas, leading to a potential energy crisis. This development could also have a ripple effect on the global energy market, potentially leading to higher prices for consumers and businesses.",
-      "impact": "The potential halt in gas supplies could lead to a short-term increase in energy prices, which could negatively impact companies that rely heavily on energy as a raw material or input, such as energy-intensive industries like steel and chemicals. In the medium term, this could also lead to a decrease in earnings for companies that rely on European consumers, as higher energy prices could lead to reduced demand and lower sales. Additionally, this development could also lead to a decrease in investor sentiment for European companies, potentially leading to lower stock prices and reduced liquidity.",
-      "risks": [
-        "Increased energy prices risk",
-        "Potential energy crisis in Europe",
-        "Decreased investor sentiment risk"
-      ]
-    }
-  },
-  {
-    "id": "7595857",
-    "headline": "Russia may halt gas supplies to Europe amid Iran energy spike, Putin says - Reuters",
-    "summary": "Russia may halt gas supplies to Europe amid Iran energy spike, Putin says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaThIMHZZbEx1X281N0xJZFZkaHlZOFFkaVRwc1k3QTNqYnRCbHRjSTc1SHQzZGl4MWxTd1RkN0VhYTlnTVVVTHZ0SjZrNDNxaUdEUUdCUURrOWZpdWNFRnFpbDZOZnFpRDNuV3QxeGNBVWFWT01STkluOXlYNERJbk40M0swcktWbVhueTJlVlFBOHUyUWMwbVJrMlVYY0dDLVFmdzA3QUhUMjZEZkRPWnl6NGpSSWM4R0I0?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1772645793,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772827368,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Russian President Vladimir Putin has hinted that Russia may halt gas supplies to Europe in response to the escalating energy crisis in Iran. This move would likely be a retaliatory measure to pressure European countries to reconsider their stance on Iran's nuclear program. The background is that Iran's nuclear deal with the West has been under strain, leading to a surge in energy prices. This development has significant implications for European economies, particularly those heavily reliant on Russian gas imports. The potential impact on European gas prices and the overall energy market is substantial.",
-      "impact": "The potential halt in Russian gas supplies to Europe could lead to a sharp increase in gas prices, negatively impacting companies with significant exposure to the energy sector. This could result in lower earnings for energy companies, particularly those with high production costs or significant exposure to European markets. The medium-term impact could be a shift in European energy policies, potentially leading to increased investment in alternative energy sources and a decrease in demand for Russian gas. This could have a lasting impact on the Russian energy sector's valuation and sentiment.",
-      "risks": []
-    }
-  },
-  {
-    "id": "7582851",
-    "headline": "A tech stock's long-awaited breakout — plus, our hopes for Broadcom's earnings",
-    "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-    "url": "https://www.cnbc.com/2026/03/04/a-tech-stocks-long-awaited-breakout-our-hopes-for-broadcoms-earnings.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108272478-1772503866786-gettyimages-2240913636-AFS_AmazonLogoPhotoIlustration_4.jpeg?v=1772503878&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1772645625,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772648831,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The CNBC Investing Club with Jim Cramer is optimistic about the stock market, citing a potential breakout in Amazon due to its AI investments and custom chips. The club is also expecting a strong earnings report from Broadcom, which could drive the stock higher. This is in contrast to the previous narrative that higher oil prices would lead to inflation and limit future Federal Reserve rate cuts, resulting in a stock sell-off. The club's enthusiasm for AI is evident in their coverage of CrowdStrike's strong quarter and Amazon's investment in Anthropic.",
-      "impact": "The potential breakout in Amazon could drive the stock higher, with Cramer stating 'it's really off to the races.' Broadcom's earnings report is also expected to be strong, with the club looking for $8 billion in AI revenue for the reported quarter and $9 billion projected for the April quarter. This could lead to a short-term increase in the stock price. In the medium term, the focus on AI and custom chips could drive growth and improve sentiment around the stock.",
-      "risks": [
-        "Regulatory risk for AI investments",
-        "Dependence on oil prices and inflation",
-        "Potential for earnings disappointment if Broadcom does not meet expectations"
       ]
     }
   }
