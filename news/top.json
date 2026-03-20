@@ -1,5 +1,28 @@
 [
   {
+    "id": "7670070",
+    "headline": "Nexstar, Tegna merger closes after winning regulatory approval",
+    "summary": "Nexstar has closed its $6.2 billion acquisition of Tegna after winning approval from the Federal Communications Commission and Department of Justice.",
+    "url": "https://www.cnbc.com/2026/03/20/nexstar-tegna-merger-closes-after-winning-regulatory-approval-.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108233565-1764349433841-gettyimages-1234736300-PGONCHAR_W6645.jpeg?v=1774009423&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1774016580,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774020557,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Nexstar has completed its $6.2 billion acquisition of Tegna, creating a broadcasting giant with over 260 local TV stations. The deal was approved by the FCC and DOJ, despite antitrust lawsuits filed by states and DirecTV. This consolidation is a response to the industry's challenges, including declining pay-TV customers and the rise of streaming services. The combined company will be better positioned to deliver local journalism and programming, and is expected to be more profitable due to its increased scale and negotiating power.",
+      "impact": "The acquisition is likely to be positive for Nexstar's stock in the short term, as the company's increased scale and profitability will boost its earnings outlook. The combined entity will have a stronger negotiating position with pay-TV distributors, potentially leading to increased revenue and profitability. However, the antitrust lawsuits filed by states and DirecTV may lead to increased regulatory scrutiny and potential fines, which could offset some of the benefits of the deal.",
+      "risks": [
+        "Regulatory scrutiny and potential fines",
+        "Integration risks from combining two large broadcasting companies",
+        "Potential backlash from consumers and advertisers due to concerns over consolidation"
+      ]
+    }
+  },
+  {
     "id": "7669742",
     "headline": "Fed’s Waller says he doesn’t support rate hikes, sees inflation cooling in second half of the year",
     "summary": "",
@@ -48,8 +71,8 @@
   },
   {
     "id": "7669745",
-    "headline": "Removing sanctions on Iran oil will bring supplies into ports, US energy secretary says - Reuters",
-    "summary": "Removing sanctions on Iran oil will bring supplies into ports, US energy secretary says  Reuters",
+    "headline": "Removing sanctions on Iran oil will bring supply to ports, US energy secretary says - Reuters",
+    "summary": "Removing sanctions on Iran oil will bring supply to ports, US energy secretary says  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOV2xiUDNnNFhKU05US0lXUWFoZWFrRXVuUzlER2xlcU9RRUd2QnkyVzk0Zm9vTjRtdTdwWUktdk5ZMzV5aUtEclk5VTFza1JuZTBHMkZ2cjhYc3pReE9ORnFsUXFZNVBzMWxxOFFob290UEpIUC03NnRZa0h5UU0wNnFFYnFCWTFhZ2NhdWRPODdVa1ZlZDk5Ul8zWmUwY1RLb0k4YlZzSUNiZnpsQXFCLVp6aks1N3hncUtqcU5RaktBaUg0LUZobXBR?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -66,6 +89,29 @@
         "Uncertainty around the implementation of the sanctions removal",
         "Potential volatility in oil prices due to supply and demand imbalances",
         "Geopolitical risks associated with the US-Iran relationship"
+      ]
+    }
+  },
+  {
+    "id": "7670075",
+    "headline": "Indian airlines seek fare cap removal as Iran crisis hits operations - Reuters",
+    "summary": "Indian airlines seek fare cap removal as Iran crisis hits operations  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYlNpRTQ1V2J0NkZsUnJmVzdYcjQzYWlnSnNYSDlZd3ZpTmpLSzhWWGY3QnA2dEZfcHJlakNNSUxYYVRDU1VUbkptTkh1cjM5WWp5YldQZzlLRnJrYkhrUHdrYzVfamZOcGV5TllXZTdNM2hfSkVXal9zaVpQZzM4WlRnUVQ5NmZmRHZKaE1pTmF5b05JaXduUEhwcXEySThTWTRSUG5lZzItS3NjcnZhSDhyZw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1774005464,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774020607,
+      "sentiment": "bullish",
+      "confidence": 0.7,
+      "summary": "Indian airlines are facing operational disruptions due to the ongoing Iran crisis, which has led to a shortage of aviation fuel. The crisis has resulted in a significant increase in fuel prices, making it challenging for airlines to maintain their operations. In response, the airlines are seeking the removal of fare caps to mitigate the financial impact. The Indian government had imposed fare caps to control prices during the COVID-19 pandemic, but with the current crisis, airlines are requesting a revision.",
+      "impact": "The removal of fare caps could lead to a short-term increase in airfares, which could positively impact airline stocks such as IndiGo, SpiceJet, and Air India. This is because airlines can pass on the increased fuel costs to consumers, thereby reducing their financial burden. However, the medium-term impact is uncertain, as the Iran crisis and its effects on fuel prices are unpredictable. The airlines' earnings outlook and valuation could be positively affected if the fare caps are removed, but this is subject to the resolution of the Iran crisis.",
+      "risks": [
+        "Iran crisis prolongation risk",
+        "Fuel price volatility risk",
+        "Economic downturn risk"
       ]
     }
   },
@@ -163,8 +209,8 @@
   },
   {
     "id": "7669209",
-    "headline": "Spain to reduce VAT on fuel to 10% over Iran war, SER reports - Reuters",
-    "summary": "Spain to reduce VAT on fuel to 10% over Iran war, SER reports  Reuters",
+    "headline": "Spain sets out $5.8 billion support package to counter Iran war's impact - Reuters",
+    "summary": "Spain sets out $5.8 billion support package to counter Iran war's impact  Reuters",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbllRZ0FrRHpsZ0VkbEs1dDZCSnMzam1lSGR3alRaMlVoX01GX2ptMm1PaTZMMDZvbVRrc1FubkFwTHo2SHNuamhmQk9ZeHU5bDExZXNUcVFMUnJEdGJ1SDZKbUNHb0hTZHEzNGVmUWxocktJOU1rM0RFazNSdThfMHlKYWtyRU9vb1dTdmprVjNCU0Y4TXRBdjUxcDJfTW4wdHdLSA?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -284,7 +330,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1773979800,
+    "publishedAt": 1773979822,
     "analysis": {
       "version": 2,
       "generatedAt": 1774002176,
@@ -326,7 +372,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1773975600,
+    "publishedAt": 1773975656,
     "analysis": {
       "version": 2,
       "generatedAt": 1774005608,
@@ -372,7 +418,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1773973158,
+    "publishedAt": 1773973140,
     "analysis": {
       "version": 2,
       "generatedAt": 1773980891,
@@ -1909,7 +1955,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1773899820,
+    "publishedAt": 1773899861,
     "analysis": {
       "version": 2,
       "generatedAt": 1773908792,
@@ -2135,7 +2181,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1773885420,
+    "publishedAt": 1773885424,
     "analysis": {
       "version": 2,
       "generatedAt": 1773894999,
@@ -22763,52 +22809,6 @@
         "Escalation of tensions and potential conflict risk",
         "Oil price volatility risk",
         "Regional instability risk"
-      ]
-    }
-  },
-  {
-    "id": "7582327",
-    "headline": "Trump has an AI data center problem ahead of the midterms — with no easy solutions",
-    "summary": "Grassroots opposition to data centers is growing in communities across the U.S. as people blame the facilities for high utility bills.",
-    "url": "https://www.cnbc.com/2026/03/04/trump-faces-an-ai-data-center-power-dilemma-ahead-of-midterms.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108271147-17722183942026-02-27t175202z_844950497_rc2cujawa4w5_rtrmadp_0_usa-trump.jpeg?v=1772218417&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1772639711,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772641569,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "President Trump's plan to have tech companies supply their own power for AI data centers faces significant implementation challenges due to decentralized rules governing the electric grid across the US. The pledge, signed by Amazon, Google, Meta, Microsoft, xAI, Oracle, and OpenAI, aims to address rising electricity prices and voter frustration ahead of the midterms. However, experts say the White House lacks jurisdiction to enforce the policy, and states would need to approve rules requiring data center developers to pay for new power generation. This may lead to delays or watered-down regulations.",
-      "impact": "The news is likely to have a negative impact on the stocks of Amazon, Google, Meta, Microsoft, xAI, Oracle, and OpenAI in the short term, as investors may question the effectiveness of the pledge and its potential to address rising electricity prices. This could lead to a decrease in their stock prices, at least in the short term, as investors reevaluate their earnings outlook and valuation multiples. The medium-term impact will depend on the outcome of the midterms and the resulting policy changes.",
-      "risks": [
-        "Regulatory uncertainty and potential delays in implementing the pledge",
-        "Lack of clear commitments from tech companies to internalize data center costs",
-        "Potential backlash from Democrats and community groups opposing data center development"
-      ]
-    }
-  },
-  {
-    "id": "7583471",
-    "headline": "Turkey has prepared plans for possible migrant flow from Iran, minister says - Reuters",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPMXVNLVp3V1hSaU9VNDctelJNU0pvb0FWdVRmcG9GbDVhWFp6alY0d3plcEx3TjY3bkc4UU40R3lWZ2p1bEtsWEFEd0hGLXBMVWhtMENvTEdlZkxRR1JITS04UWhFbWFuVWdoVUJ2RmVMQ3lOTmhnbkhqTk9KR2t0cGpocENxLTNwWk51a0JvUjF1VEJldzRzbXQ2Q21zWm1IeDhZVmVKZnZ0MVlEdGhmUUxFeTdtdmFXVFJXTg?oc=5\" target=\"_blank\">Turkey has prepared plans for possible migrant flow from Iran, minister says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMXVNLVp3V1hSaU9VNDctelJNU0pvb0FWdVRmcG9GbDVhWFp6alY0d3plcEx3TjY3bkc4UU40R3lWZ2p1bEtsWEFEd0hGLXBMVWhtMENvTEdlZkxRR1JITS04UWhFbWFuVWdoVUJ2RmVMQ3lOTmhnbkhqTk9KR2t0cGpocENxLTNwWk51a0JvUjF1VEJldzRzbXQ2Q21zWm1IeDhZVmVKZnZ0MVlEdGhmUUxFeTdtdmFXVFJXTg?oc=5",
-    "source": "Reuters",
-    "image": "",
-    "relatedSymbols": [],
-    "publishedAt": 1772639512,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772652518,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Turkey has prepared plans for a potential migrant flow from Iran, as per a statement by a Turkish minister. This news is likely a response to the ongoing situation in Iran, where protests and unrest have been reported. The planned preparations by Turkey aim to address a possible influx of migrants from Iran, which could put a strain on Turkey's resources and infrastructure. The development highlights the complexities of regional geopolitics and the need for countries to be prepared for potential humanitarian crises. The plans are still in preparation and have not been implemented yet.",
-      "impact": "The news is unlikely to have a significant impact on the stock market in the short term, as it is still speculative and the plans have not been implemented. However, if the migrant flow from Iran materializes, it could lead to increased costs for Turkey, which could be reflected in its economic indicators and potentially affect its currency, the Turkish lira. This could, in turn, impact the country's export-oriented companies, such as those in the manufacturing and textiles sectors, which could see a decline in demand and earnings. The development could also lead to increased uncertainty and volatility in the region, affecting the overall sentiment and investor confidence.",
-      "risks": [
-        "Increased costs for Turkey and its companies",
-        "Potential decline in demand for export-oriented companies",
-        "Uncertainty and volatility in the region"
       ]
     }
   }
