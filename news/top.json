@@ -1,5 +1,24 @@
 [
   {
+    "id": "7674882",
+    "headline": "44-year-old left his tech job and started a halal burger joint—his restaurants brought in over $4 million in 2025",
+    "summary": "Shahezad Contractor left his \"cushy\" IT career and launched a halal restaurant chain.",
+    "url": "https://www.cnbc.com/2026/03/21/44-year-old-left-his-tech-job-and-started-a-halal-burger-joint.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108280548-1773951186914-Cousins_Burgers_-_lead_image.jpg?v=1773951273&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1774101601,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774105230,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Shahezad Contractor, a 44-year-old former IT professional, successfully launched a halal restaurant chain called Cousin's Burger, which brought in over $4 million in revenue in 2025. He attributes the success to high-quality ingredients, simple recipes, and excellent customer service. The business has expanded to eight locations across the Northeast, with plans to become a mainstream American halal food option. The halal food market is underpenetrated in the US, with few mainstream options available.",
+      "impact": "The success of Cousin's Burger and its plans for expansion could lead to increased competition for existing fast-food chains, potentially impacting their market share and earnings outlook. The growing demand for halal food could also drive up sales for related companies in the food industry, such as suppliers of halal-certified meat and ingredients. However, the company's rapid expansion and increasing revenue may also lead to increased competition for labor and resources, potentially affecting profitability.",
+      "risks": []
+    }
+  },
+  {
     "id": "7674781",
     "headline": "Iranian gas to Iraq resumes after South Pars attack, Iraqi state news agency says - Reuters",
     "summary": "Iranian gas to Iraq resumes after South Pars attack, Iraqi state news agency says  Reuters",
@@ -7,7 +26,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1774095094
+    "publishedAt": 1774095094,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774105278,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Iran has resumed gas exports to Iraq after a temporary halt due to an attack on the South Pars gas field. The attack was reportedly carried out by a separatist group. The resumption of gas exports is a positive development for Iraq's energy sector, which relies heavily on Iranian gas imports. The South Pars field is a major source of natural gas for Iran and Iraq. The attack and subsequent resumption of exports do not directly impact the earnings outlook for publicly traded companies in the region, but may influence the sentiment and valuation of energy-related stocks.",
+      "impact": "The news is unlikely to have a significant impact on the earnings outlook for publicly traded companies in the region. However, it may lead to a short-term increase in sentiment and valuation of energy-related stocks, particularly those with exposure to the Iraqi energy sector. The resumption of gas exports could also lead to increased investment in the region's energy infrastructure, potentially benefiting companies involved in construction and engineering.",
+      "risks": [
+        "geopolitical tensions in the region may escalate and impact energy exports",
+        "further attacks on critical infrastructure could disrupt energy supplies",
+        "uncertainty around the long-term stability of the Iraqi energy sector"
+      ]
+    }
   },
   {
     "id": "7674463",
@@ -29,6 +61,29 @@
         "decline in sales and revenue for food and beverage companies",
         "negative impact on earnings outlook and stock prices",
         "increased competition from companies that successfully adapt to the trend"
+      ]
+    }
+  },
+  {
+    "id": "7674886",
+    "headline": "Indian Prime Minister Modi speaks to Iran's Pezeshkian - Reuters",
+    "summary": "Indian Prime Minister Modi speaks to Iran's Pezeshkian  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVEl2Yk9wcThsNzRLc2l5MkY5U2FvcUdsRDdOS3BXcVZiQUg2akJiOExXc1VOdDgzbUo5TzVvQUtEaU1NVElsdFpRWHpYZ040OUE4ckxKWVNOeUxkRS1SVGJNbEpiVXFWZS05MEVIY1dGOTB5RHdWV2hYWVFPUURyQXRBemdRc1oxbEw5bHQ1U2VfMHJac054S0dIcEhya1k?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1774091974,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774105324,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Indian Prime Minister Modi spoke to Iran's Pezeshkian, a move that may signal efforts to strengthen bilateral relations and potentially revive economic ties between the two nations. The conversation comes as India seeks to diversify its energy sources and reduce dependence on imports. Iran, with its vast oil reserves, is an attractive partner for India's energy needs. The development may have implications for Indian companies involved in the energy sector, particularly those with exposure to Iran.",
+      "impact": "The news may have a positive impact on Indian energy companies with exposure to Iran, such as ONGC (ONGC.NS) and IOC (IOC.NS), as a potential revival of economic ties could lead to increased energy imports and partnerships. However, the development also increases the risk of sanctions and geopolitical tensions, which could negatively impact these companies' earnings outlook and valuation. In the short term, the news is likely to boost sentiment and liquidity in these stocks, but medium-term effects will depend on the outcome of the revived economic ties and any resulting changes in energy imports and partnerships.",
+      "risks": [
+        "sanctions risk",
+        "geopolitical tensions risk",
+        "earnings outlook risk"
       ]
     }
   },
@@ -1318,29 +1373,6 @@
     }
   },
   {
-    "id": "7668266",
-    "headline": "Rupee sinks past 93 per dollar to record low as Iran war risks deepen - Reuters",
-    "summary": "Rupee sinks past 93 per dollar to record low as Iran war risks deepen  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc1psYlltUVh5ckFhNXBZQ1JsZVBKRDBEWEVQb1I2MHBHcXJwcUJuTG1Pb3lfTmtiNkJhOVAtSHdGbWVIbEF1emVrWjNWNzJCNTFJTmo3d20tTUZnTTF3ZnVVektkdGwtNHVKYm9ZNHFVVjVrUlJjYmFBbHNvMnNGMXZhTG01V21Xck0xSi1SVFdjamFweW5WUzdxcDAxV3IzbGNTTHM5Um4waDg?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1774002829,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1773988587,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The Indian rupee has hit a record low against the US dollar due to escalating tensions between the US and Iran, which has led to increased economic risks for India. This is because India imports a significant amount of oil from Iran, and a potential disruption in oil supplies could have a significant impact on the country's economy. The rupee's depreciation is also driven by a decline in foreign investment and a widening current account deficit. The Indian government has been trying to stabilize the rupee, but its efforts have been unsuccessful so far.",
-      "impact": "The depreciation of the rupee is likely to have a negative impact on Indian companies with significant foreign debt, such as those in the IT and pharmaceutical sectors, as their debt burden will increase. This could lead to a decrease in their earnings and potentially affect their stock prices. In the short-term, the rupee's depreciation could also lead to higher import costs for Indian companies, which could negatively impact their profit margins. In the medium-term, the Indian government's efforts to stabilize the economy could lead to fiscal policy changes, which could impact the overall market sentiment.",
-      "risks": [
-        "economic slowdown risk",
-        "debt burden risk for Indian companies",
-        "fiscal policy uncertainty risk"
-      ]
-    }
-  },
-  {
     "id": "7669746",
     "headline": "US airlines lean on demand, fares as Iran war rattles overseas peers - Reuters",
     "summary": "US airlines lean on demand, fares as Iran war rattles overseas peers  Reuters",
@@ -1610,6 +1642,29 @@
         "Increased military activity in the Middle East leading to a prolonged period of uncertainty and volatility in global markets",
         "Potential interest rate hike by the US Federal Reserve reducing the appeal of gold as a safe-haven asset",
         "Decrease in gold demand due to increased investor preference for the US dollar"
+      ]
+    }
+  },
+  {
+    "id": "7668266",
+    "headline": "Rupee sinks past 93 per dollar to record low as Iran war risks deepen - Reuters",
+    "summary": "Rupee sinks past 93 per dollar to record low as Iran war risks deepen  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc1psYlltUVh5ckFhNXBZQ1JsZVBKRDBEWEVQb1I2MHBHcXJwcUJuTG1Pb3lfTmtiNkJhOVAtSHdGbWVIbEF1emVrWjNWNzJCNTFJTmo3d20tTUZnTTF3ZnVVektkdGwtNHVKYm9ZNHFVVjVrUlJjYmFBbHNvMnNGMXZhTG01V21Xck0xSi1SVFdjamFweW5WUzdxcDAxV3IzbGNTTHM5Um4waDg?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1773977760,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1773988587,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The Indian rupee has hit a record low against the US dollar due to escalating tensions between the US and Iran, which has led to increased economic risks for India. This is because India imports a significant amount of oil from Iran, and a potential disruption in oil supplies could have a significant impact on the country's economy. The rupee's depreciation is also driven by a decline in foreign investment and a widening current account deficit. The Indian government has been trying to stabilize the rupee, but its efforts have been unsuccessful so far.",
+      "impact": "The depreciation of the rupee is likely to have a negative impact on Indian companies with significant foreign debt, such as those in the IT and pharmaceutical sectors, as their debt burden will increase. This could lead to a decrease in their earnings and potentially affect their stock prices. In the short-term, the rupee's depreciation could also lead to higher import costs for Indian companies, which could negatively impact their profit margins. In the medium-term, the Indian government's efforts to stabilize the economy could lead to fiscal policy changes, which could impact the overall market sentiment.",
+      "risks": [
+        "economic slowdown risk",
+        "debt burden risk for Indian companies",
+        "fiscal policy uncertainty risk"
       ]
     }
   },
@@ -22770,52 +22825,6 @@
         "Supply chain disruption risk",
         "Price volatility risk",
         "Earnings slowdown risk"
-      ]
-    }
-  },
-  {
-    "id": "7598285",
-    "headline": "Farmers see fertiliser price surge as Iran war blocks exports, threatening losses - Reuters",
-    "summary": "Farmers see fertiliser price surge as Iran war blocks exports, threatening losses  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMkZGWmw5U0VnQ0h0QmZmSTFmMnBSV0RhMGhncFVUMV9iWFJZakJxYjdkbm0zVUx2T0dvQVhPOWdjQnUyRkRXVDU2cWp4cDdwR3F3Uk9GemNKbWZnejNWZWV0LVJHSnpYelhNTEpDWWk1RWx2LTZyaVhzQmsyd1lfZjRVemEwWFM2WXJoOV9HR2paMVkxSVlnanFOYWZ3VnB5WUNzZWVVejhQT2N0U3R2bHZKYzFxUnVE?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1772688540,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772795951,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The ongoing Iran war has disrupted fertiliser exports, leading to a surge in prices. This increase in fertiliser prices is expected to impact farmers, who are likely to incur losses. The situation is further complicated by the fact that fertiliser is a critical input for agricultural production, and the price hike may affect crop yields and ultimately, food security. The article highlights the potential for widespread losses among farmers, with no immediate resolution in sight. The fertiliser price surge is a significant concern for the agricultural sector, which is already vulnerable to external shocks.",
-      "impact": "The fertiliser price surge is likely to have a negative impact on the earnings outlook of companies involved in the agricultural sector, particularly those that rely heavily on fertiliser as an input. This could lead to a decline in stock prices, reduced investor sentiment, and decreased liquidity. In the short term, the price volatility may lead to a flight to quality, with investors seeking safer assets, potentially driving down the stock prices of companies with higher exposure to the agricultural sector. Medium-term, the fertiliser price surge may lead to increased costs for farmers, potentially affecting crop yields and food security, which could have broader macro implications.",
-      "risks": [
-        "Increased costs for farmers and agricultural companies",
-        "Potential decline in crop yields and food security",
-        "Negative impact on earnings outlook and stock prices of agricultural sector companies"
-      ]
-    }
-  },
-  {
-    "id": "7598900",
-    "headline": "Russian crude oil cargoes swing back to India as Iran war hits supply",
-    "summary": "Two Russian oil cargoes that had been signalling East Asia as a destination have switched to India, according to ship-tracking data, suggesting New Delhi is becoming more willing to take the crude as the Middle East conflict worsens.",
-    "url": "https://www.bloomberg.com/news/articles/2026-03-05/russian-oil-cargoes-swing-back-to-india-as-iran-war-hits-supply",
-    "source": "Bloomberg",
-    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
-    "relatedSymbols": [],
-    "publishedAt": 1772687952,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772795997,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Russian oil cargoes shifting to India is a bullish signal for Indian refiners, such as IOC, BPCL, and HPCL, as they will benefit from increased crude supply. The Middle East conflict has disrupted global oil supply, making India a more attractive destination for Russian oil. This development is a positive for Indian refiners as they can now access cheaper and more reliable crude supply. The increased demand for Russian oil in India may also lead to higher refining margins for these companies.",
-      "impact": "We expect the increased crude supply from Russia to positively impact the earnings of Indian refiners in the short-term, leading to higher refining margins and potentially higher stock prices. This development may also lead to a decrease in crude oil prices, which could be a negative for oil majors such as Reliance Industries and ONGC. However, the overall impact on the Indian energy sector is likely to be positive, with higher refining margins and increased demand for crude oil driving growth.",
-      "risks": [
-        "Potential escalation of the Middle East conflict and disruption to global oil supply",
-        "Uncertainty around the sustainability of Russian oil supply to India",
-        "Impact of increased crude supply on global oil prices"
       ]
     }
   }
