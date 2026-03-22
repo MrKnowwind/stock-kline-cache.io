@@ -1,5 +1,28 @@
 [
   {
+    "id": "7680034",
+    "headline": "Companies are doing more with less in AI era. Workers can take advantage",
+    "summary": "As companies boost productivity and lower headcount with AI technology, it will be crucial for remaining workers to retrain and upskill.",
+    "url": "https://www.cnbc.com/2026/03/22/companies-ai-work-job-skills.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108040927-1727712165320-gettyimages-1310317878-students_30copy.jpeg?v=1774019098&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1774193048,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774195166,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Companies are leveraging AI to boost productivity and reduce headcount, creating a need for workers to upskill and reskill. This shift is driven by the desire for employers to do more with less, making it essential for employees to be adaptable and resilient. Companies like Charter Communications are investing in education benefits and career development programs to help employees grow and stay with the company, leading to improved job satisfaction, retention, and productivity. This trend is expected to continue as AI disrupts the workforce and economy.",
+      "impact": "The news is likely to have a positive impact on companies that invest in education benefits and career development programs, such as Charter Communications. This could lead to improved employee retention, productivity, and customer satisfaction, potentially driving long-term earnings growth. The trend towards upskilling and reskilling may also create new opportunities for companies to innovate and stay competitive in the AI-driven economy.",
+      "risks": [
+        "Potential increased labor costs due to education benefits and career development programs",
+        "Risk of employee turnover if companies fail to provide adequate support for upskilling and reskilling",
+        "Uncertainty around the effectiveness of education benefits and career development programs in driving business outcomes"
+      ]
+    }
+  },
+  {
     "id": "7679628",
     "headline": "ICE agents will be deployed to U.S. airports on Monday: Homan",
     "summary": "The shutdown at the Department of Homeland Security has caused massive pileups at airport security lines.",
@@ -93,8 +116,8 @@
   },
   {
     "id": "7679220",
-    "headline": "Trump and Iran step up threats over energy targets as war escalates - Reuters",
-    "summary": "Trump and Iran step up threats over energy targets as war escalates  Reuters",
+    "headline": "Trump, Iran threaten to escalate conflict with attacks on energy and water facilities - Reuters",
+    "summary": "Trump, Iran threaten to escalate conflict with attacks on energy and water facilities  Reuters",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQem5pR05BaElqUUtXclhzMzM1Q0JScmpvckhjUGJ6TV96TDg3OTFIaEVxUHFGN2RqdnplY3ZhLW5iSGVsUDdSNFU3REFzemJIZEwzQ0JRaTNqbmxUUk1BTEkyZnMwOEJKZUhQcWg2WWx4d0JlSDJlbGVES19NWVVCb1ZVOFRVT1BfaktFWmRCODVZYkc1SUh5NWUxNzRycTFVWU8wMkhlcUY0ZHZ2cGJWUWZB?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1348,6 +1371,29 @@
     }
   },
   {
+    "id": "7669527",
+    "headline": "Which economies will hurt most from the Iran war? - Reuters",
+    "summary": "Which economies will hurt most from the Iran war?  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQelIzc1paaWFaa1JBRjlJWlJiTU9GRzc5WTFoNlBfbXgtOUh0bkQtLXotNzlXR0dUVmREM2ZlWURlMG9WUV9HQ2tRVXVTbUJiSDhQM0xCblRGSXBOekhEX0Q1TEZJVU1BY21wM21fRzYtN3l4ZVhua1MwTS1lTWlXMjliWlhXcGJqSmJYTjdaQkpPWmtkY3dVZjNZZw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1774024131,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774014662,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The potential escalation of a war in Iran could have far-reaching consequences for the global economy, particularly for countries with significant trade ties with the region. The US, Saudi Arabia, and Israel are among the nations that could be most affected, as they have been involved in the conflict. The war could disrupt global oil supplies, leading to higher prices and economic instability. This, in turn, could negatively impact companies in the energy and transportation sectors.",
+      "impact": "The potential war in Iran could lead to a short-term increase in oil prices, which could negatively impact energy companies such as ExxonMobil (XOM) and Chevron (CVX). In the medium term, the conflict could lead to a decline in economic growth, particularly in countries with significant trade ties with the region, such as Saudi Arabia and the US. This could negatively impact companies with exposure to these economies, such as Saudi Aramco (ARAMCO) and Boeing (BA).",
+      "risks": [
+        "Oil price volatility risk",
+        "Disruption to global supply chains risk",
+        "Economic instability risk"
+      ]
+    }
+  },
+  {
     "id": "7670495",
     "headline": "The spring housing market is on, but mortgage rates just shot higher. Here's what to know.",
     "summary": "This spring's housing market is on, but economic headwinds are pushing back most of the advantage that buyers have gained over the past year in affordability.",
@@ -1982,29 +2028,6 @@
         "Iran crisis prolongation risk",
         "Fuel price volatility risk",
         "Economic downturn risk"
-      ]
-    }
-  },
-  {
-    "id": "7669527",
-    "headline": "Which economies will hurt most from the Iran war? - Reuters",
-    "summary": "Which economies will hurt most from the Iran war?  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQelIzc1paaWFaa1JBRjlJWlJiTU9GRzc5WTFoNlBfbXgtOUh0bkQtLXotNzlXR0dUVmREM2ZlWURlMG9WUV9HQ2tRVXVTbUJiSDhQM0xCblRGSXBOekhEX0Q1TEZJVU1BY21wM21fRzYtN3l4ZVhua1MwTS1lTWlXMjliWlhXcGJqSmJYTjdaQkpPWmtkY3dVZjNZZw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1774004947,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1774014662,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The potential escalation of a war in Iran could have far-reaching consequences for the global economy, particularly for countries with significant trade ties with the region. The US, Saudi Arabia, and Israel are among the nations that could be most affected, as they have been involved in the conflict. The war could disrupt global oil supplies, leading to higher prices and economic instability. This, in turn, could negatively impact companies in the energy and transportation sectors.",
-      "impact": "The potential war in Iran could lead to a short-term increase in oil prices, which could negatively impact energy companies such as ExxonMobil (XOM) and Chevron (CVX). In the medium term, the conflict could lead to a decline in economic growth, particularly in countries with significant trade ties with the region, such as Saudi Arabia and the US. This could negatively impact companies with exposure to these economies, such as Saudi Aramco (ARAMCO) and Boeing (BA).",
-      "risks": [
-        "Oil price volatility risk",
-        "Disruption to global supply chains risk",
-        "Economic instability risk"
       ]
     }
   },
@@ -22792,29 +22815,6 @@
         "Oil price volatility risk",
         "Regional instability risk",
         "Global trade disruption risk"
-      ]
-    }
-  },
-  {
-    "id": "7594047",
-    "headline": "Russia accuses US and Israel of trying to drag Arab countries into a wider Middle East conflict - Reuters",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOZHFOMjlib01pSklnOGJHb1EyS3dvaktBZ1NXSjl5bUFZbmROQmVnaE9KVk5yTEdHbGttOEpnUmxBdkREYndfWjEzTzhFX0xrUWtSN3RnajRTWU9fdlo1SU9SRFUxTy14SF85LTIxX2ZJM2xrZDgySmhYcUtDWUdVWEZSWVlLV0JtYm9BLWVrZ3NKcnhzYnRSQU1sTHRrUnRYcExwbmdGRWVYdEw2dFZ4WWFXOVR6T0tyc0hCTERFa3ZjRVRxWHFZ?oc=5\" target=\"_blank\">Russia accuses US and Israel of trying to drag Arab countries into a wider Middle East conflict</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZHFOMjlib01pSklnOGJHb1EyS3dvaktBZ1NXSjl5bUFZbmROQmVnaE9KVk5yTEdHbGttOEpnUmxBdkREYndfWjEzTzhFX0xrUWtSN3RnajRTWU9fdlo1SU9SRFUxTy14SF85LTIxX2ZJM2xrZDgySmhYcUtDWUdVWEZSWVlLV0JtYm9BLWVrZ3NKcnhzYnRSQU1sTHRrUnRYcExwbmdGRWVYdEw2dFZ4WWFXOVR6T0tyc0hCTERFa3ZjRVRxWHFZ?oc=5",
-    "source": "Reuters",
-    "image": "",
-    "relatedSymbols": [],
-    "publishedAt": 1772704892,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772721344,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "Russia's accusation against the US and Israel may escalate tensions in the Middle East, potentially leading to a wider conflict. This development could negatively impact regional stability and affect the business environment in the region. The situation may lead to increased military spending, which could benefit defense contractors. However, the overall impact on the region's economy and related stocks is uncertain.",
-      "impact": "The potential conflict may lead to increased volatility in the Middle East, affecting oil prices and the global economy. In the short term, defense stocks such as Lockheed Martin (LMT) and Raytheon Technologies (RTN) may benefit from increased military spending. However, the medium-term impact on the region's economy and related stocks is uncertain and may be negative due to the potential for economic disruption and instability.",
-      "risks": [
-        "Escalation of conflict and regional instability",
-        "Increased military spending and its impact on the regional economy",
-        "Uncertainty and volatility in the Middle East"
       ]
     }
   }
