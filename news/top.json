@@ -1,5 +1,52 @@
 [
   {
+    "id": "7686521",
+    "headline": "Jim Cramer says Monday’s market rally may be short-lived",
+    "summary": "CNBC's Jim Cramer cautioned investors that Monday's stock market rebound, sparked by optimism over a potential end to the U.S.-Iran war, might be temporary.",
+    "url": "https://www.cnbc.com/2026/03/23/jim-cramer-mondays-market-rally-may-be-short-lived.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108279905-17738635162026-03-18t194156z_357967619_rc257ka4a9h7_rtrmadp_0_usa-fed-markets.jpeg?v=1773865998&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1774304756,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774307819,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "CNBC's Jim Cramer is cautioning investors that Monday's market rally, fueled by optimism over a potential end to the US-Iran war, may be short-lived. The rally was driven by President Trump's announcement that the US would halt attacks on Iran's power plants and energy infrastructure, but Cramer believes it was fueled by fear and not a genuine shift in market sentiment. The Iranian regime's behavior will be crucial in determining the longevity of the rally, and conflicting signs about the conflict's resolution are raising concerns. Cramer's comments come as the Iran war enters its fourth week, with the conflict escalating in recent days.",
+      "impact": "The potential short-term impact on the market is a reversal of Monday's gains, with a possible decline in stocks that benefited from the rally. In the medium term, the uncertainty surrounding the US-Iran conflict and its resolution may lead to increased volatility and a more cautious approach by investors. This could negatively impact stocks with high exposure to the energy sector, particularly those with significant operations in the Middle East.",
+      "risks": [
+        "Increased volatility and market uncertainty",
+        "Potential decline in energy stocks with Middle East exposure",
+        "Uncertainty surrounding the US-Iran conflict and its resolution"
+      ]
+    }
+  },
+  {
+    "id": "7686528",
+    "headline": "Oil execs warn of long-term damage from Iran war as US downplays crisis - Reuters",
+    "summary": "Oil execs warn of long-term damage from Iran war as US downplays crisis  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTzNwcmRSN09IRDVCVDFqbkRoeWhqTXNOdW9HT09MUTUxUURHSS02UXRpUS00SjBXZHl1dUtpUEoteWtrd2VNNnlkQ2F4M2FqakdPSHFabzMtVFk3V2p0VzhDYXhFM2xZTWgyY01vNHBqdnFuclNNYk1JUS0ya254UTNhMERLVXdhZnpfdWlHQVdKV050eERDaTdSUmZpTG1iZjJJTm9rSkxQNEtJQWxlckRWdVJSX3JtS3JIbHdn?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1774294412,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774307867,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Oil executives are warning of long-term damage to the oil industry due to the potential escalation of a war with Iran. The US is downplaying the crisis, but oil prices have already surged in response to the heightened tensions. The increased risk of supply disruptions and potential military conflicts in the region could lead to higher production costs and reduced oil output. This could negatively impact oil majors and energy companies that rely heavily on Iranian oil imports.",
+      "impact": "The potential for a long-term war with Iran could lead to increased costs and reduced output for oil majors, negatively impacting earnings and valuation. In the short-term, oil prices may remain volatile, affecting the liquidity of energy stocks. The US downplaying of the crisis may not alleviate investor concerns, as the risk of supply disruptions and military conflicts remains high.",
+      "risks": [
+        "Supply disruption risk",
+        "Increased production costs risk",
+        "Reduced oil output risk",
+        "Volatility risk"
+      ]
+    }
+  },
+  {
     "id": "7686212",
     "headline": "Bahrain proposes UN Security Council approve use of force to protect Hormuz shipping - Reuters",
     "summary": "Bahrain proposes UN Security Council approve use of force to protect Hormuz shipping  Reuters",
@@ -1041,7 +1088,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1774246260,
+    "publishedAt": 1774246272,
     "analysis": {
       "version": 2,
       "generatedAt": 1774259272,
@@ -1058,8 +1105,8 @@
   },
   {
     "id": "7683297",
-    "headline": "Focus: One battle after another: Iran war deals new blow to Europe's industrial heartland - Reuters",
-    "summary": "Focus: One battle after another: Iran war deals new blow to Europe's industrial heartland  Reuters",
+    "headline": "One battle after another: Iran war deals new blow to Europe's industrial heartland - Reuters",
+    "summary": "One battle after another: Iran war deals new blow to Europe's industrial heartland  Reuters",
     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcFZ3TTduUy1DcWtTd1NXSUZnRDktUXRGMWpnbkdiT2p1NzlVZE5pdXpkdV9BYVQxdDJsM3BGMlY1ZG9RalF5MDBJVC1mSS14UXRrVjFfejdNRmNWYmc0SHpMVHd2WTFTenFIcDZBZ3Juc2ZfZ1Bjei1yN21ZaWM2Vi1EOUlKbXhyTGJ1dW5MbVNaUDFKajlEcE9IZDdGa2FDWURJZE9taGJnWU54Qmp5TjYtQTJMRFphUWM3bEZvczFWZEFvM19YdkdaVS1rTXYycnRocV9lQ0k3UkIxYmJKY1RyaFI5eEZ3?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1180,7 +1227,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1774234140,
+    "publishedAt": 1774234183,
     "analysis": {
       "version": 2,
       "generatedAt": 1774252550,
@@ -1627,6 +1674,29 @@
     }
   },
   {
+    "id": "7678410",
+    "headline": "Iran says Hormuz open to all but ‘enemy-linked’ ships - Reuters",
+    "summary": "Iran says Hormuz open to all but ‘enemy-linked’ ships  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWDVFUmlkOTcxUnBFQWNBZEloZjl4OFJUYVpaU0VCT2dBWFJaZ2dISTczd1ItSXRoMTRlSzRfLUl0UDlMYXFkV2MyT0g5WXVrNHcxZ2w3VXlCQkk5YllvSS1lVFM3RS1nVmNud2w3RVRjdGd3V3Jjcl82MUNLRk80bFJqVTBlaTA5UlN1ZHVJMlBlOE1tVkRkYzA2WUc2Tm1aQy1yaEJFQVJ1b2J5R3ZaZmh3aw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1774175565,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774166516,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Iran has stated that the Strait of Hormuz is open to all ships except those linked to enemy countries, in response to the US threat to close the strategic waterway. The statement aims to reassure global oil markets and maintain the flow of oil exports. The background is the ongoing tensions between Iran and the US, with the US threatening to close the Strait of Hormuz in response to Iranian actions. The Strait is a critical chokepoint for global oil trade, with around 20% of the world's oil passing through it. This news is a response to the escalating tensions and aims to maintain stability in the region.",
+      "impact": "The news is likely to have a neutral impact on oil-related stocks in the short term, as it does not change the fundamental dynamics of the situation. However, it may alleviate some concerns about a potential disruption to oil supplies, which could be positive for oil producers and related companies. The medium-term impact will depend on the outcome of the tensions between Iran and the US, with a resolution potentially leading to increased investor confidence and a positive impact on oil-related stocks.",
+      "risks": [
+        "Escalating tensions between Iran and the US",
+        "Potential disruption to oil supplies",
+        "Global economic slowdown due to oil price volatility"
+      ]
+    }
+  },
+  {
     "id": "7680139",
     "headline": "Projectile hits vessel off UAE's Sharjah, UKMTO says - Reuters",
     "summary": "Projectile hits vessel off UAE's Sharjah, UKMTO says  Reuters",
@@ -1712,29 +1782,6 @@
       "summary": "The emergence of Low Earth Orbit (LEO) as a critical infrastructure is attracting billions in investment, driven by its strategic importance in global navigation, telecommunications, defense, and connectivity. Companies like SpaceX, Nvidia, Amazon, and Blue Origin are making significant bets on LEO, with plans to deploy thousands of satellites. This trend is expected to continue, with over $45 billion in investment recorded in 2025, up from $25 billion in 2024. The increasing demand for LEO infrastructure is driven by its advantages, including quicker responses, reduced launch costs, and faster communication speeds.",
       "impact": "The news is positive for companies involved in the LEO satellite industry, such as SpaceX, Amazon, and Blue Origin. The increasing investment and demand for LEO infrastructure are likely to drive growth in these companies' earnings and valuations in the medium term. However, the high cost of launching and maintaining satellites may pose a challenge for these companies, and regulatory approvals may also impact their plans. Additionally, the increasing competition in the LEO market may lead to downward pressure on prices and profitability.",
       "risks": []
-    }
-  },
-  {
-    "id": "7678410",
-    "headline": "Iran says Hormuz open to all but ‘enemy-linked’ ships - Reuters",
-    "summary": "Iran says Hormuz open to all but ‘enemy-linked’ ships  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWDVFUmlkOTcxUnBFQWNBZEloZjl4OFJUYVpaU0VCT2dBWFJaZ2dISTczd1ItSXRoMTRlSzRfLUl0UDlMYXFkV2MyT0g5WXVrNHcxZ2w3VXlCQkk5YllvSS1lVFM3RS1nVmNud2w3RVRjdGd3V3Jjcl82MUNLRk80bFJqVTBlaTA5UlN1ZHVJMlBlOE1tVkRkYzA2WUc2Tm1aQy1yaEJFQVJ1b2J5R3ZaZmh3aw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1774162560,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1774166516,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Iran has stated that the Strait of Hormuz is open to all ships except those linked to enemy countries, in response to the US threat to close the strategic waterway. The statement aims to reassure global oil markets and maintain the flow of oil exports. The background is the ongoing tensions between Iran and the US, with the US threatening to close the Strait of Hormuz in response to Iranian actions. The Strait is a critical chokepoint for global oil trade, with around 20% of the world's oil passing through it. This news is a response to the escalating tensions and aims to maintain stability in the region.",
-      "impact": "The news is likely to have a neutral impact on oil-related stocks in the short term, as it does not change the fundamental dynamics of the situation. However, it may alleviate some concerns about a potential disruption to oil supplies, which could be positive for oil producers and related companies. The medium-term impact will depend on the outcome of the tensions between Iran and the US, with a resolution potentially leading to increased investor confidence and a positive impact on oil-related stocks.",
-      "risks": [
-        "Escalating tensions between Iran and the US",
-        "Potential disruption to oil supplies",
-        "Global economic slowdown due to oil price volatility"
-      ]
     }
   },
   {
@@ -22780,52 +22827,6 @@
         "Supply chain disruption risk",
         "Price volatility risk",
         "Earnings outlook revision risk"
-      ]
-    }
-  },
-  {
-    "id": "7603734",
-    "headline": "US Submarine strike in the Indian Ocean raises risks for Asia",
-    "summary": "The presence of a US submarine conducting lethal operations near friendly nations such as India raises questions about how insulated Asia’s sea lanes are from outside threats",
-    "url": "https://www.bloomberg.com/news/articles/2026-03-06/us-submarine-strike-in-the-indian-ocean-raises-risks-for-asia",
-    "source": "Bloomberg",
-    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
-    "relatedSymbols": [],
-    "publishedAt": 1772773928,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772861569,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "A US submarine conducting lethal operations near friendly nations in the Indian Ocean raises concerns about the security of Asia's sea lanes. This development may indicate a heightened risk of conflict in the region, which could have far-reaching implications for global trade and commerce. The Indian Ocean is a critical waterway for international trade, with many countries relying on it for the transportation of goods. The presence of a US submarine in the region may lead to increased military spending and a more aggressive regional security posture, which could have a negative impact on the business environment.",
-      "impact": "The potential for increased military spending and a more aggressive regional security posture could lead to a short-term increase in defense spending by countries in the region, benefiting defense contractors such as Lockheed Martin (LMT) and Boeing (BA). However, the long-term impact on the broader market could be negative, as increased tensions in the region could lead to a decrease in trade and economic activity, negatively impacting companies with significant exposure to the region, such as those in the shipping and logistics sector, such as Maersk (MAERSKb.CO) and CMA CGM (CMA).",
-      "risks": [
-        "Increased military spending and regional tensions",
-        "Decrease in trade and economic activity",
-        "Negative impact on shipping and logistics companies"
-      ]
-    }
-  },
-  {
-    "id": "7603532",
-    "headline": "Morgan Stanley turns more cautious on Asian stocks, cuts India",
-    "summary": "The strategists downgraded India from overweight to equal-weight in their latest reshuffle, citing the country as one of the Asian markets most exposed to potential Qatari LNG supply disruptions",
-    "url": "https://www.bloomberg.com/news/articles/2026-03-06/morgan-stanley-turns-more-cautious-on-asian-stocks-cuts-india",
-    "source": "Bloomberg",
-    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
-    "relatedSymbols": [],
-    "publishedAt": 1772769470,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772859299,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Morgan Stanley's strategists have downgraded India from 'overweight' to 'equal-weight' in their latest market assessment, citing concerns over potential Qatari LNG supply disruptions. This change in stance is driven by the country's significant exposure to Qatari LNG imports, which could be impacted by geopolitical tensions. The strategists' caution is a reflection of the potential risks to India's economic growth and the subsequent impact on the country's stock market. As a result, investors should reassess their exposure to Indian stocks in the face of this new information.",
-      "impact": "The downgrade of India to 'equal-weight' by Morgan Stanley may lead to a short-term decline in Indian stock prices, as investors reassess their risk appetite and portfolio allocations. In the medium term, the potential disruption to Qatari LNG supplies could impact India's economic growth, leading to a decline in corporate earnings and a subsequent decrease in stock valuations. The downgrade may also lead to a decrease in investor sentiment towards Indian stocks, making it more challenging for companies to raise capital and access liquidity.",
-      "risks": [
-        "Qatari LNG supply disruption risk",
-        "India economic growth slowdown risk",
-        "Investor sentiment risk"
       ]
     }
   }
