@@ -119,7 +119,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1774250290
+    "publishedAt": 1774250290,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774265572,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The article reports that the US is depleting its tungsten stocks due to the increasing number of missiles fired over Iran. Tungsten is a key component in the production of missiles and other defense systems. The US relies heavily on imports to meet its tungsten needs, making it vulnerable to supply chain disruptions. The depletion of tungsten stocks may lead to a shortage, which could impact the production of defense systems and other industries that rely on tungsten. This could have a positive impact on the stock prices of companies that supply tungsten or related materials, such as General Electric (GE) and Kennametal (KMT).",
+      "impact": "The potential impact on the related stocks is a short-term increase in price due to the expected shortage of tungsten. This could lead to a medium-term increase in earnings for companies that supply tungsten or related materials, as they may be able to increase prices or take advantage of the shortage. The news may also lead to a shift in investor sentiment, with investors becoming more bullish on the defense and industrial sectors.",
+      "risks": [
+        "Supply chain disruptions risk",
+        "Price volatility risk",
+        "Economic downturn risk"
+      ]
+    }
   },
   {
     "id": "7683500",
@@ -152,7 +165,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1774249868
+    "publishedAt": 1774249868,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774265619,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "UAE equities declined in response to Iran's warning of retaliation against Gulf energy and water infrastructure. This news is a concern for the UAE's economy, which is heavily reliant on energy exports and water management. The UAE's energy sector, including companies such as ADNOC and ENOC, may face potential disruptions or increased costs due to the tensions. The warning also raises concerns about the stability of the region, which could impact investor sentiment and confidence in the UAE's economic prospects.",
+      "impact": "The potential impact on UAE equities is likely to be negative in the short term, as investors may reassess the risks associated with investing in the region. The warning from Iran may lead to increased volatility in the UAE's energy and water sectors, which could negatively impact earnings and valuation of companies operating in these sectors. In the medium term, the tensions may lead to a slowdown in economic growth and investment in the UAE, as investors become more cautious and risk-averse.",
+      "risks": [
+        "geopolitical risk",
+        "energy sector disruption risk",
+        "economic growth slowdown risk"
+      ]
+    }
   },
   {
     "id": "7683299",
@@ -290,6 +316,29 @@
         "Geopolitical risk: A war with Iran could lead to a destabilization of the region and a rise in global tensions.",
         "Supply chain risk: Disruptions to oil supplies could lead to shortages and price volatility.",
         "Economic risk: A prolonged conflict could lead to a decline in global economic growth and a decrease in energy demand."
+      ]
+    }
+  },
+  {
+    "id": "7683927",
+    "headline": "Indian shares fall, rupee drops to record low as Iran war rattles markets - Reuters",
+    "summary": "Indian shares fall, rupee drops to record low as Iran war rattles markets  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQnIyZHp1VWFuRW5JQnY4OGNQTjR6RlpSM1hNbm9LaHgtSGIxaG1keFBoQTNBYjlqTEJuTF9LM0p3VVdKbU9MZEVRZHlQZlp6QUxtRm93SzBlNHl4OGpTU210UnRieXhUTF9XTl9pM01mZ0pvTGozdUZSTzRlOHJPQllvN2xzQUNNUVowQ3Q3ZXV1SGdzQWRPTjk1WWNHUm9XaGpYRjJSdmhjMm5vWE1Relln?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1774234500,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774265667,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The Indian rupee has reached a record low against the US dollar due to the escalating tensions between the US and Iran. This has led to a decline in Indian stocks, with the benchmark index falling by 1.5%. The situation is being driven by concerns over the potential impact on India's economy, particularly in the sectors that rely heavily on imports, such as oil and other commodities. The uncertainty surrounding the conflict is also causing investors to become risk-averse, leading to a sell-off in the market. The Indian government's efforts to stabilize the currency and the market are being closely watched by investors.",
+      "impact": "The potential impact on Indian stocks is significant, with a short-term decline in earnings outlook for companies that rely on imports, particularly in the oil and commodity sectors. Medium-term, the rupee's depreciation could lead to higher import costs, further pressuring already thin profit margins. The sell-off in the market may also lead to a decrease in liquidity, making it more difficult for companies to raise capital. The overall sentiment towards Indian stocks is likely to remain bearish until the situation stabilizes.",
+      "risks": [
+        "Economic slowdown risk",
+        "Currency volatility risk",
+        "Sector-specific earnings risk"
       ]
     }
   },
@@ -771,29 +820,6 @@
     }
   },
   {
-    "id": "7678410",
-    "headline": "Iran says Hormuz open to all but ‘enemy-linked’ ships - Reuters",
-    "summary": "Iran says Hormuz open to all but ‘enemy-linked’ ships  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWDVFUmlkOTcxUnBFQWNBZEloZjl4OFJUYVpaU0VCT2dBWFJaZ2dISTczd1ItSXRoMTRlSzRfLUl0UDlMYXFkV2MyT0g5WXVrNHcxZ2w3VXlCQkk5YllvSS1lVFM3RS1nVmNud2w3RVRjdGd3V3Jjcl82MUNLRk80bFJqVTBlaTA5UlN1ZHVJMlBlOE1tVkRkYzA2WUc2Tm1aQy1yaEJFQVJ1b2J5R3ZaZmh3aw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1774175565,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1774166516,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Iran has stated that the Strait of Hormuz is open to all ships except those linked to enemy countries, in response to the US threat to close the strategic waterway. The statement aims to reassure global oil markets and maintain the flow of oil exports. The background is the ongoing tensions between Iran and the US, with the US threatening to close the Strait of Hormuz in response to Iranian actions. The Strait is a critical chokepoint for global oil trade, with around 20% of the world's oil passing through it. This news is a response to the escalating tensions and aims to maintain stability in the region.",
-      "impact": "The news is likely to have a neutral impact on oil-related stocks in the short term, as it does not change the fundamental dynamics of the situation. However, it may alleviate some concerns about a potential disruption to oil supplies, which could be positive for oil producers and related companies. The medium-term impact will depend on the outcome of the tensions between Iran and the US, with a resolution potentially leading to increased investor confidence and a positive impact on oil-related stocks.",
-      "risks": [
-        "Escalating tensions between Iran and the US",
-        "Potential disruption to oil supplies",
-        "Global economic slowdown due to oil price volatility"
-      ]
-    }
-  },
-  {
     "id": "7680139",
     "headline": "Projectile hits vessel off UAE's Sharjah, UKMTO says - Reuters",
     "summary": "Projectile hits vessel off UAE's Sharjah, UKMTO says  Reuters",
@@ -879,6 +905,29 @@
       "summary": "The emergence of Low Earth Orbit (LEO) as a critical infrastructure is attracting billions in investment, driven by its strategic importance in global navigation, telecommunications, defense, and connectivity. Companies like SpaceX, Nvidia, Amazon, and Blue Origin are making significant bets on LEO, with plans to deploy thousands of satellites. This trend is expected to continue, with over $45 billion in investment recorded in 2025, up from $25 billion in 2024. The increasing demand for LEO infrastructure is driven by its advantages, including quicker responses, reduced launch costs, and faster communication speeds.",
       "impact": "The news is positive for companies involved in the LEO satellite industry, such as SpaceX, Amazon, and Blue Origin. The increasing investment and demand for LEO infrastructure are likely to drive growth in these companies' earnings and valuations in the medium term. However, the high cost of launching and maintaining satellites may pose a challenge for these companies, and regulatory approvals may also impact their plans. Additionally, the increasing competition in the LEO market may lead to downward pressure on prices and profitability.",
       "risks": []
+    }
+  },
+  {
+    "id": "7678410",
+    "headline": "Iran says Hormuz open to all but ‘enemy-linked’ ships - Reuters",
+    "summary": "Iran says Hormuz open to all but ‘enemy-linked’ ships  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWDVFUmlkOTcxUnBFQWNBZEloZjl4OFJUYVpaU0VCT2dBWFJaZ2dISTczd1ItSXRoMTRlSzRfLUl0UDlMYXFkV2MyT0g5WXVrNHcxZ2w3VXlCQkk5YllvSS1lVFM3RS1nVmNud2w3RVRjdGd3V3Jjcl82MUNLRk80bFJqVTBlaTA5UlN1ZHVJMlBlOE1tVkRkYzA2WUc2Tm1aQy1yaEJFQVJ1b2J5R3ZaZmh3aw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1774162562,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774166516,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Iran has stated that the Strait of Hormuz is open to all ships except those linked to enemy countries, in response to the US threat to close the strategic waterway. The statement aims to reassure global oil markets and maintain the flow of oil exports. The background is the ongoing tensions between Iran and the US, with the US threatening to close the Strait of Hormuz in response to Iranian actions. The Strait is a critical chokepoint for global oil trade, with around 20% of the world's oil passing through it. This news is a response to the escalating tensions and aims to maintain stability in the region.",
+      "impact": "The news is likely to have a neutral impact on oil-related stocks in the short term, as it does not change the fundamental dynamics of the situation. However, it may alleviate some concerns about a potential disruption to oil supplies, which could be positive for oil producers and related companies. The medium-term impact will depend on the outcome of the tensions between Iran and the US, with a resolution potentially leading to increased investor confidence and a positive impact on oil-related stocks.",
+      "risks": [
+        "Escalating tensions between Iran and the US",
+        "Potential disruption to oil supplies",
+        "Global economic slowdown due to oil price volatility"
+      ]
     }
   },
   {
@@ -22764,29 +22813,6 @@
         "AI disruption risk",
         "valuation risk",
         "macroeconomic downturn risk"
-      ]
-    }
-  },
-  {
-    "id": "7596041",
-    "headline": "OpenAI's Altman takes jabs at Anthropic, says government should be more powerful than companies",
-    "summary": "The startup landed a deal with the Department of Defense hours after Anthropic was blacklisted by Defense Secretary Pete Hegseth.",
-    "url": "https://www.cnbc.com/2026/03/05/open-ai-altman-anthropic-pentagon-war.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108204528-1758900414130-108204528-1758900346851-gettyimages-2236730082-STARGATE_DATA_CENTER.jpg?v=1771233006&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1772726217,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772733120,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "OpenAI CEO Sam Altman publicly criticized rival Anthropic, stating that the government should be more powerful than private companies. This comes after Anthropic was blacklisted by the Department of Defense, and OpenAI quickly secured a deal with the DOD. The tension between the two companies is fueled by their competing interests and the government's growing involvement in the AI industry. OpenAI's recent funding round and impressive user growth have positioned it as a major player in the market, while Anthropic's financials indicate a strong competitor. The government's actions may impact the companies' relationships and business strategies.",
-      "impact": "The news may have a short-term positive impact on OpenAI's stock price due to its deal with the DOD and the perception of its growing influence in the market. However, the criticism from Anthropic and the government's actions may lead to increased regulatory scrutiny and competition, potentially affecting OpenAI's medium-term earnings outlook and valuation. The AI industry's growing reliance on government contracts and funding may also increase the companies' exposure to macroeconomic risks.",
-      "risks": [
-        "increased regulatory scrutiny risk",
-        "intensified competition risk",
-        "macroeconomic risk due to government involvement"
       ]
     }
   }
