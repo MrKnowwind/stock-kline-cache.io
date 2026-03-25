@@ -1,5 +1,28 @@
 [
   {
+    "id": "7696153",
+    "headline": "U.S. Postal Service seeks 8% fuel surcharge for package deliveries as Iran war raises oil prices",
+    "summary": "Oil prices have jumped more than 40% since Feb. 28, when the U.S. and Israel attacked Iran.",
+    "url": "https://www.cnbc.com/2026/03/25/us-postal-fuel-surcharge-package-deliveries-iran-oil.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108280612-1773957736690-gettyimages-2267440056-jr_15869_cde6hdrn.jpeg?v=1773957785&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1774470153,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774473725,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The US Postal Service is seeking an 8% fuel surcharge for package deliveries due to rising transportation costs, primarily driven by the 40% increase in oil prices following the US-Israeli attack on Iran. This move is a response to increasing costs, as competitors have already implemented fuel surcharges. The surcharge will apply to specific products, excluding first-class stamps and other mail services. The Postal Service aims to maintain its competitive pricing while covering actual costs.",
+      "impact": "In the short term, this development may positively affect the earnings outlook for the US Postal Service, as the surcharge will help offset rising transportation costs. However, the medium-term impact on the company's valuation may be neutral, as the surcharge is temporary and will be in place until January 2027. The move may also influence consumer behavior, potentially leading to increased demand for alternative shipping services or price sensitivity among customers.",
+      "risks": [
+        "regulatory approval risk",
+        "consumer price sensitivity risk",
+        "competition from alternative shipping services risk"
+      ]
+    }
+  },
+  {
     "id": "7695945",
     "headline": "How the Iran war could rattle the global economy long after hostilities end",
     "summary": "A reopening of the critical Strait of Hormuz, which Iran has effectively closed to oil tankers, won't immediately restore the world to its pre-conflict state.",
@@ -42,6 +65,29 @@
         "Regulatory approval risk for Boeing's potential deal with China",
         "Integration risk for Honeywell's defense business after the spin-off",
         "Potential delays in the execution of Honeywell's deal with the Department of Defense"
+      ]
+    }
+  },
+  {
+    "id": "7696050",
+    "headline": "Russia sought to blackmail US using intelligence to Iran, Zelenskiy says - Reuters",
+    "summary": "Russia sought to blackmail US using intelligence to Iran, Zelenskiy says  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRWNIMDl0a0pqQVN0UGdLVU9vd1hfSUVybUozczJTU3BWcTE1emg1dHZwZkY3OGdjaTZfcnp2TlRjYzRQRGtrWXhuVWd3MkJseUxzRGNXQ2FWY2hlU3RMS2NueUdvMG1FV3RaMlBjUExDSC1yZ2FMMVZMSWtxTmtNR1d0dks5SDA5S1VIOVFQeEtqZXZkX18wbUlYTUdTdV9RYTB0OHpoTUNpZWdFVjl5TkV5OXE?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1774463284,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774473779,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Ukrainian President Volodymyr Zelenskiy has accused Russia of attempting to blackmail the US using intelligence on Iran. This revelation comes as tensions between the US and Russia are already heightened due to ongoing conflicts in Ukraine. The alleged blackmail attempt is believed to have occurred before a meeting between US President Joe Biden and his Iranian counterpart, Ebrahim Raisi. The situation has further strained relations between the two nations, with implications for global security and geopolitics. The news highlights the ongoing tensions between Russia and the US, which could lead to increased military spending and a more aggressive foreign policy.",
+      "impact": "The news is likely to have a negative impact on US defense stocks, particularly those involved in military spending and foreign policy, such as Lockheed Martin (LMT) and Raytheon Technologies (RTN). The increased tensions between the US and Russia could lead to a short-term boost in defense spending, but medium-term, the impact may be more muted as the situation normalizes. The news may also lead to a decline in US-Russia trade and investment, affecting companies with significant exposure to the Russian market, such as ExxonMobil (XOM) and Boeing (BA).",
+      "risks": [
+        "Escalation of tensions between the US and Russia",
+        "Increased military spending and its impact on defense budgets",
+        "Potential decline in US-Russia trade and investment"
       ]
     }
   },
@@ -895,8 +941,8 @@
   },
   {
     "id": "7692609",
-    "headline": "Oil prices drop 4% as US proposes 15-point plan to Iran for peace - Reuters",
-    "summary": "Oil prices drop 4% as US proposes 15-point plan to Iran for peace  Reuters",
+    "headline": "Oil prices drop 2% as Iran considers US proposal to end war - Reuters",
+    "summary": "Oil prices drop 2% as Iran considers US proposal to end war  Reuters",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNVU5QWgzLWc3VmJ3VS1jcUNrcklMYXFiNG8yeE1wcmdqZTJHZDBxd1ZLS0hYSEdMQTlzQUJTa0FHcjdyeHQ4Ry0yQXN0OXI4QWsxVmJXbjJvNTBGM1FYMUtNZUNDM01PSmxRay1IcG9XQTFQc045bkZxbHZJeE94VC1zaHJVTmlVaWx6b21sTmlqZGxkRHdQQ0hwOEphLWVTQ29KbUNtdkprQXZ4QWVUMGVvamZUVVh1blUwcGt3TFlaTkhG?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1921,6 +1967,29 @@
     }
   },
   {
+    "id": "7688613",
+    "headline": "Investors bet Iran war will boost Chinese renewables demand - Reuters",
+    "summary": "Investors bet Iran war will boost Chinese renewables demand  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWG5WR1RmX1M4NW1LWEZ1S2p1Zmt6N29CWWtYbm1ZTEVTRWJra1NXY0J3REhJcWxTU3NRR3BRRnc5TWt4c200MlpLNktFLVhpRnR1bi16elJqYWxsRW1NaWs4WEpqTWhSS1NKYThIWTVyQkItTGdHZEM1RjRFcDM2TzYyUzhmRGlRTUxZZFNVczFwaXVjeWh4M3VoajhVQUFMcmtZeHEzWGhEaHQ1UFBqQzNvQnZNRWpFc0tXRGZJMUd3bjF5ZTdFQ3I5MlhWOGcx?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1774346243,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774345324,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Investors are betting that a potential war with Iran will boost demand for Chinese renewable energy, driven by concerns over energy security and the potential disruption of oil supplies. This sentiment is reflected in the market's reaction to the news, with investors increasing their bets on Chinese renewable energy stocks. The background is that China is the world's largest energy consumer and has been actively promoting renewable energy to reduce its dependence on fossil fuels. The logical chain is that a war with Iran would increase the risk of oil supply disruptions, leading to higher oil prices and increased demand for renewable energy sources. This, in turn, would boost the earnings outlook for Chinese renewable energy companies.",
+      "impact": "The potential war with Iran could lead to a short-term surge in demand for Chinese renewable energy stocks, driven by investors' fears of oil supply disruptions. This could drive up the valuation of companies such as Trina Solar, JinkoSolar, and LONGi Green Energy Technology. However, the medium-term impact would depend on the actual outcome of the conflict and the resulting changes in oil prices and global energy demand. If the conflict escalates, it could lead to a sustained increase in demand for renewable energy, benefiting companies with strong growth prospects and diversified revenue streams.",
+      "risks": [
+        "Geopolitical uncertainty risk",
+        "Oil price volatility risk",
+        "Supply chain disruption risk"
+      ]
+    }
+  },
+  {
     "id": "7689034",
     "headline": "Iran arrests 466 people accused of online activity undermining national security, IRNA says - Reuters",
     "summary": "Iran arrests 466 people accused of online activity undermining national security, IRNA says  Reuters",
@@ -2102,29 +2171,6 @@
         "Supply chain disruption risk",
         "Price volatility risk",
         "Increased regulatory scrutiny risk"
-      ]
-    }
-  },
-  {
-    "id": "7688613",
-    "headline": "Investors bet Iran war will boost Chinese renewables demand - Reuters",
-    "summary": "Investors bet Iran war will boost Chinese renewables demand  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWG5WR1RmX1M4NW1LWEZ1S2p1Zmt6N29CWWtYbm1ZTEVTRWJra1NXY0J3REhJcWxTU3NRR3BRRnc5TWt4c200MlpLNktFLVhpRnR1bi16elJqYWxsRW1NaWs4WEpqTWhSS1NKYThIWTVyQkItTGdHZEM1RjRFcDM2TzYyUzhmRGlRTUxZZFNVczFwaXVjeWh4M3VoajhVQUFMcmtZeHEzWGhEaHQ1UFBqQzNvQnZNRWpFc0tXRGZJMUd3bjF5ZTdFQ3I5MlhWOGcx?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1774331040,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1774345324,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Investors are betting that a potential war with Iran will boost demand for Chinese renewable energy, driven by concerns over energy security and the potential disruption of oil supplies. This sentiment is reflected in the market's reaction to the news, with investors increasing their bets on Chinese renewable energy stocks. The background is that China is the world's largest energy consumer and has been actively promoting renewable energy to reduce its dependence on fossil fuels. The logical chain is that a war with Iran would increase the risk of oil supply disruptions, leading to higher oil prices and increased demand for renewable energy sources. This, in turn, would boost the earnings outlook for Chinese renewable energy companies.",
-      "impact": "The potential war with Iran could lead to a short-term surge in demand for Chinese renewable energy stocks, driven by investors' fears of oil supply disruptions. This could drive up the valuation of companies such as Trina Solar, JinkoSolar, and LONGi Green Energy Technology. However, the medium-term impact would depend on the actual outcome of the conflict and the resulting changes in oil prices and global energy demand. If the conflict escalates, it could lead to a sustained increase in demand for renewable energy, benefiting companies with strong growth prospects and diversified revenue streams.",
-      "risks": [
-        "Geopolitical uncertainty risk",
-        "Oil price volatility risk",
-        "Supply chain disruption risk"
       ]
     }
   },
@@ -22805,52 +22851,6 @@
         "regulatory risk",
         "sanctions risk",
         "economic instability risk"
-      ]
-    }
-  },
-  {
-    "id": "7611325",
-    "headline": "War disruptions may send oil to $150 to $200 a barrel. Here's my advice for stock investors",
-    "summary": "In his Sunday column for Investing Club subscribers, Jim Cramer explains how investors should navigate a continued surge in oil prices.",
-    "url": "https://www.cnbc.com/2026/03/08/jim-cramers-advice-for-investors-during-us-iran-war-oil-surge.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108208929-17598568612025-10-07t165851z_1119362267_rc22ieaoj66d_rtrmadp_0_usa-oil-outlook.jpeg?v=1759856886&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1772998071,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772999780,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The article discusses the potential surge in oil prices due to the ongoing US-Iran conflict, with some predictions suggesting oil prices could reach $150 to $200 a barrel. The author, Jim Cramer, explains that the US is not energy self-sufficient and relies on imports, which means oil prices will be affected by global events. He notes that the world has spare capacity to boost production, but it takes time to implement. The author also references the 2022 Russia-Ukraine conflict, where oil prices surged after the invasion.",
-      "impact": "The potential surge in oil prices could have a significant impact on the energy sector, particularly on companies involved in oil production and refining. In the short-term, this could lead to increased earnings for these companies, but in the medium-term, it may lead to higher production costs and potentially lower profit margins. The author's advice for investors is to be prepared for the potential volatility in the market and to consider the long-term implications of the conflict on the energy sector.",
-      "risks": [
-        "Supply chain disruptions risk",
-        "Global economic slowdown risk due to higher oil prices",
-        "Increased production costs risk for energy companies"
-      ]
-    }
-  },
-  {
-    "id": "7611333",
-    "headline": "Iranian army says at least 104 killed in US attack on Iranian warship last week - Reuters",
-    "summary": "Iranian army says at least 104 killed in US attack on Iranian warship last week  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOEJDVWs4R1V5NzFqSDhmdWcxUnJ3WjRITE5mckxqdllXekRTODVJUnJGcVVvWXNjRjF5T1pya0pHdDdHYkdWMHNCcjhKcHhZZ1B2VXo5VzE3WDg2Nkctci1jMGROd2J5RUZkSC1rRy1SdEctWnctRnFyUVFPbWotZW1OWHQ1WmpmdXVzX1VsLUZjWVlFTzh2cFg3RXA1OGprQVJrWjlLYVhnSWl0RnEyUkQ4MlIxdExyMGlhS0FWY05wT00?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1772990919,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1773000882,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The Iranian army reported that at least 104 people were killed in a US attack on an Iranian warship last week. The incident escalated tensions between the US and Iran, which has been a major concern for the global oil market. The US-Iran conflict has led to increased uncertainty and volatility in the oil market, which could impact companies involved in the energy sector. The news also raises concerns about the potential for further military action, which could lead to a decline in investor confidence and a decrease in stock prices.",
-      "impact": "The news is likely to have a bearish impact on oil-related stocks, particularly those with exposure to the Middle East region. The increased tensions and volatility in the oil market could lead to a decline in oil prices, which would negatively impact companies such as ExxonMobil (XOM) and Chevron (CVX). In the short-term, investors may be cautious and reduce their exposure to energy stocks, leading to a decrease in stock prices. In the medium-term, the increased uncertainty and volatility could lead to a decline in investor confidence, making it challenging for energy companies to raise capital and invest in new projects.",
-      "risks": [
-        "Increased volatility in the oil market",
-        "Potential decline in oil prices",
-        "Decrease in investor confidence"
       ]
     }
   }
