@@ -1,5 +1,28 @@
 [
   {
+    "id": "7695631",
+    "headline": "Space stocks rally on reports of SpaceX's imminent IPO filing",
+    "summary": "Space stocks, including AST SpaceMobile, Rocket Lab and Firefly Aerospace, rallied after a report that SpaceX may file to go public this week.",
+    "url": "https://www.cnbc.com/2026/03/25/space-stocks-.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108183129-17545834602025-08-07t161430z_505109387_rc2d2gahih2z_rtrmadp_0_firefly-aerospace-ipo.jpeg?v=1754583555&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1774462425,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774463850,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The article reports that SpaceX may file for an IPO this week, which could raise over $75 billion, valuing the company at $1.75 trillion. This news has led to a rally in space stocks, with AST SpaceMobile, Rocket Lab, and Firefly Aerospace seeing significant gains. The space sector has been gaining traction due to demand for AI infrastructure and national defense, with SpaceX's Starlink constellation and proposed larger satellite project driving interest. The rapid growth of the space industry and SpaceX's dominant position within it make this IPO a significant event.",
+      "impact": "The potential IPO of SpaceX could have a positive impact on related space stocks in the short term, with AST SpaceMobile, Rocket Lab, and Firefly Aerospace likely to continue their upward trend. The increased visibility and excitement around the space sector could also drive interest in other companies in the industry. However, the high valuation of SpaceX and the challenges of launching satellites into space could pose risks for the company and its investors. In the medium term, the success of SpaceX's IPO could also drive growth in the space industry, leading to increased demand for related stocks.",
+      "risks": [
+        "High valuation risk",
+        "Launch and deployment risk",
+        "Regulatory approval risk"
+      ]
+    }
+  },
+  {
     "id": "7695517",
     "headline": "Gen Z brothers bought a $4,000 pickup truck to start their business—now it brings in $3 million a year",
     "summary": "Kirk and Jacob McKinney found entrepreneurial inspiration at a local dump, launching junk removal and reselling business Junk Teens while still in high school.",
@@ -7,7 +30,20 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/108282878-1774450430584-thumb1.jpg?v=1774450501&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1774457628
+    "publishedAt": 1774457628,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774463929,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Kirk and Jacob McKinney, two brothers from Massachusetts, founded Junk Teens, a junk removal and reselling business, in 2021 with a $4,000 investment. The business has grown to $3.04 million in revenue and $686,000 in net profit in 2025, with a team of 20 employees and two locations. The brothers' entrepreneurial spirit and ability to identify a profitable niche have been key to their success. They now study entrepreneurship at Babson College while running the business, and their parents, who own a local tree service business, cover part of their college tuition.",
+      "impact": "The news is likely to have a positive impact on the sentiment and valuation of companies in the waste management and recycling industry. The success of Junk Teens may attract investment and attention to the industry, potentially driving growth and increasing earnings outlook for companies like Waste Management (WM) and Waste Connections (WCN). However, the company's rapid growth and high profitability may also lead to increased competition and regulatory scrutiny, which could impact the industry as a whole.",
+      "risks": [
+        "regulatory scrutiny risk",
+        "increased competition risk",
+        "scalability risk"
+      ]
+    }
   },
   {
     "id": "7695294",
@@ -144,6 +180,29 @@
         "Increased regional instability risk",
         "Decreased investor sentiment risk",
         "Volatility risk"
+      ]
+    }
+  },
+  {
+    "id": "7695526",
+    "headline": "Africa grapples with energy crisis as Iran war disrupts fuel supplies - Reuters",
+    "summary": "Africa grapples with energy crisis as Iran war disrupts fuel supplies  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVHZiMlZ3X2QxTGhYYXEwUGhOa2lsT2tPSmNvQUpSV2dSUHJfdnlhMlVZSkI5aDhLeVNTSUJZVWpiYVNEYkdFN1RCSHJURWdMbHBCOWg0VEx5bER0VUJrVWxjNjRLWUU4MkF2MlBIZEtEdWpiQUV3V2VSX0ZlZHdGN2I3QlBaR3Z3NkdkeGZhSUR0cU5GVC0wMzdpYlRZMzVTQTFXck9TeTdBZ0drTEhwUHVjdmhCT3JLUUlEendySlpTeDZCVUNtNlg5MWdBMExUZm5mSnlzRnVFZw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1774444875,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774463977,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Africa is facing an energy crisis due to disruptions in fuel supplies caused by the ongoing Iran war. The conflict has led to a shortage of crude oil and refined products, affecting several countries in the region. This has resulted in increased energy prices and potential economic instability. The energy crisis is likely to have a ripple effect on the global economy, particularly on companies involved in the energy sector. The situation is expected to worsen in the short term as the conflict continues.",
+      "impact": "The energy crisis is likely to have a negative impact on energy-related stocks, particularly those with exposure to African markets. Companies with significant operations in Africa, such as oil majors and energy trading firms, may see their earnings outlook deteriorate in the short term. The increased energy prices may also lead to higher production costs for companies operating in the region, further exacerbating the negative impact on their earnings. This may lead to a sell-off in energy-related stocks, particularly those with high valuations.",
+      "risks": [
+        "short-term earnings decline risk",
+        "valuation multiple compression risk",
+        "increased volatility risk"
       ]
     }
   },
@@ -674,8 +733,8 @@
   },
   {
     "id": "7692508",
-    "headline": "Dollar treads water amid scepticism over efforts to end Iran war - Reuters",
-    "summary": "Dollar treads water amid scepticism over efforts to end Iran war  Reuters",
+    "headline": "Dollar gains on scepticism over Iran war de-escalation - Reuters",
+    "summary": "Dollar gains on scepticism over Iran war de-escalation  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcC0yZ3llWEdfenRkUXBGR2JoRGZHSXVjUnlxWDNpYmcxTWN2WWVkX0Y4QjhXMUVKYVVEVmpkRDRaejZfTUwxTUU5QlRMV2RWVFdSZWxJcVMyNE1BcS1rUE12UWx3VGJoREdIZkpUcFFUT216N1BlVTZoVjlqekZjbV9iazhub01mX041b3pFMTQ2aEdZbDg0NF9ndWRZQVZDT2xnVEZLQzJWcmRLOVFpOWlEMlFSRVFhMDlz?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1746,29 +1805,6 @@
     }
   },
   {
-    "id": "7688613",
-    "headline": "Investors bet Iran war will boost Chinese renewables demand - Reuters",
-    "summary": "Investors bet Iran war will boost Chinese renewables demand  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWG5WR1RmX1M4NW1LWEZ1S2p1Zmt6N29CWWtYbm1ZTEVTRWJra1NXY0J3REhJcWxTU3NRR3BRRnc5TWt4c200MlpLNktFLVhpRnR1bi16elJqYWxsRW1NaWs4WEpqTWhSS1NKYThIWTVyQkItTGdHZEM1RjRFcDM2TzYyUzhmRGlRTUxZZFNVczFwaXVjeWh4M3VoajhVQUFMcmtZeHEzWGhEaHQ1UFBqQzNvQnZNRWpFc0tXRGZJMUd3bjF5ZTdFQ3I5MlhWOGcx?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1774346243,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1774345324,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Investors are betting that a potential war with Iran will boost demand for Chinese renewable energy, driven by concerns over energy security and the potential disruption of oil supplies. This sentiment is reflected in the market's reaction to the news, with investors increasing their bets on Chinese renewable energy stocks. The background is that China is the world's largest energy consumer and has been actively promoting renewable energy to reduce its dependence on fossil fuels. The logical chain is that a war with Iran would increase the risk of oil supply disruptions, leading to higher oil prices and increased demand for renewable energy sources. This, in turn, would boost the earnings outlook for Chinese renewable energy companies.",
-      "impact": "The potential war with Iran could lead to a short-term surge in demand for Chinese renewable energy stocks, driven by investors' fears of oil supply disruptions. This could drive up the valuation of companies such as Trina Solar, JinkoSolar, and LONGi Green Energy Technology. However, the medium-term impact would depend on the actual outcome of the conflict and the resulting changes in oil prices and global energy demand. If the conflict escalates, it could lead to a sustained increase in demand for renewable energy, benefiting companies with strong growth prospects and diversified revenue streams.",
-      "risks": [
-        "Geopolitical uncertainty risk",
-        "Oil price volatility risk",
-        "Supply chain disruption risk"
-      ]
-    }
-  },
-  {
     "id": "7689034",
     "headline": "Iran arrests 466 people accused of online activity undermining national security, IRNA says - Reuters",
     "summary": "Iran arrests 466 people accused of online activity undermining national security, IRNA says  Reuters",
@@ -1950,6 +1986,29 @@
         "Supply chain disruption risk",
         "Price volatility risk",
         "Increased regulatory scrutiny risk"
+      ]
+    }
+  },
+  {
+    "id": "7688613",
+    "headline": "Investors bet Iran war will boost Chinese renewables demand - Reuters",
+    "summary": "Investors bet Iran war will boost Chinese renewables demand  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWG5WR1RmX1M4NW1LWEZ1S2p1Zmt6N29CWWtYbm1ZTEVTRWJra1NXY0J3REhJcWxTU3NRR3BRRnc5TWt4c200MlpLNktFLVhpRnR1bi16elJqYWxsRW1NaWs4WEpqTWhSS1NKYThIWTVyQkItTGdHZEM1RjRFcDM2TzYyUzhmRGlRTUxZZFNVczFwaXVjeWh4M3VoajhVQUFMcmtZeHEzWGhEaHQ1UFBqQzNvQnZNRWpFc0tXRGZJMUd3bjF5ZTdFQ3I5MlhWOGcx?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1774331040,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774345324,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Investors are betting that a potential war with Iran will boost demand for Chinese renewable energy, driven by concerns over energy security and the potential disruption of oil supplies. This sentiment is reflected in the market's reaction to the news, with investors increasing their bets on Chinese renewable energy stocks. The background is that China is the world's largest energy consumer and has been actively promoting renewable energy to reduce its dependence on fossil fuels. The logical chain is that a war with Iran would increase the risk of oil supply disruptions, leading to higher oil prices and increased demand for renewable energy sources. This, in turn, would boost the earnings outlook for Chinese renewable energy companies.",
+      "impact": "The potential war with Iran could lead to a short-term surge in demand for Chinese renewable energy stocks, driven by investors' fears of oil supply disruptions. This could drive up the valuation of companies such as Trina Solar, JinkoSolar, and LONGi Green Energy Technology. However, the medium-term impact would depend on the actual outcome of the conflict and the resulting changes in oil prices and global energy demand. If the conflict escalates, it could lead to a sustained increase in demand for renewable energy, benefiting companies with strong growth prospects and diversified revenue streams.",
+      "risks": [
+        "Geopolitical uncertainty risk",
+        "Oil price volatility risk",
+        "Supply chain disruption risk"
       ]
     }
   },
@@ -22791,52 +22850,6 @@
         "Increased security spending risk",
         "Geopolitical risk in the region",
         "Reassessments of embassy safety protocols risk"
-      ]
-    }
-  },
-  {
-    "id": "7611224",
-    "headline": "Fraying loyalist base will challenge Iran's new leader - and Islamic Republic's survival - Reuters",
-    "summary": "Fraying loyalist base will challenge Iran's new leader - and Islamic Republic's survival  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQkZhb1REQlhKbGlKMmNZNkdYSUswQlhYRG5HOENQZFJ2cXBjOVZoVkJXYmg1R2Z0Y2hUODcxWnVuVmZqVU9yOFVSSEhZTUtwWVdTYjFpRVlXbmpnMERzbmplTTJQWFIyc0pyU2NOWHJWOUdNNnVYMG8zMGlibEVzUHZ3LVVpZzRzS0ZfVEFWQ1NVcnF1RDVNV2JrYWNCeHBtNTh3TUFrYmxrX3ZZV0ktMGNiUlhERi1sbGFwaThPYVY4Yk1Q?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1772987375,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772999827,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Iran's next leader is expected to face challenges from a fraying loyalist base, which could threaten the survival of the Islamic Republic. This development is a result of growing discontent among the population, particularly among the youth, who are increasingly disillusioned with the government's economic policies and human rights record. The situation is further complicated by the ongoing economic crisis, which has led to high inflation, unemployment, and a decline in living standards. The potential for protests and unrest could lead to a destabilization of the government, which could have far-reaching consequences for the country's economy and international relations.",
-      "impact": "The potential destabilization of the Iranian government could lead to a short-term impact on the country's oil exports, which could negatively affect oil prices and the earnings outlook for oil-related stocks. In the medium term, a change in government could lead to a shift in economic policies, which could have a positive or negative impact on the country's economy and related stocks. However, the uncertainty surrounding the situation makes it difficult to predict the exact impact on the market.",
-      "risks": [
-        "Economic instability risk",
-        "Protest and unrest risk",
-        "Uncertainty surrounding government policy changes"
-      ]
-    }
-  },
-  {
-    "id": "7611734",
-    "headline": "Two killed, 12 injured after projectile fell on residential location in Saudi Arabia - Reuters",
-    "summary": "Two killed, 12 injured after projectile fell on residential location in Saudi Arabia  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQTg3TExqNXlzdUxZdnM5c1lVM1R6YXZaTlR2SklWX2dIc0pxZUJTZEFqdTUwRnpQLUtzbmJmTXlFYTdxd1g1UGNnR25FQW15MVRQemhkd0RibWRtaXVCVXNXMUpEZ1BJMERvM2tEVVpnTUZZNVdQZnBNdWZydWV1S3YzMkpMV1h5aDFVLTVYWDlRNXVHNXhPV1EyeTFwUy1EcWZFcTgzLXdoQjJiQXF4WU81Tk0xZTc3VjA2czdmZUVHRWhqNWh0dUJnYw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1772986539,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1773008128,
-      "sentiment": "neutral",
-      "confidence": 0.5,
-      "summary": "A projectile fell on a residential location in Saudi Arabia, resulting in two fatalities and 12 injuries. The incident occurred without any clear indication of a direct link to the business or industry. The event is a tragic accident and does not appear to have any immediate implications for the Saudi Arabian economy or the global market. The incident highlights the importance of safety and security in residential areas. The Saudi government may increase security measures in response to this incident, which could have a positive impact on the defense and security sectors. The incident is not directly related to the business fundamentals of any specific company, but it may have a short-term negative impact on the overall sentiment towards the Saudi Arabian market.",
-      "impact": "The incident is unlikely to have a significant impact on the Saudi Arabian stock market in the short term. However, it may lead to a temporary increase in defense and security stocks as the government increases security measures. The incident may also have a negative impact on the overall sentiment towards the Saudi Arabian market, potentially leading to a decline in investor confidence and a decrease in stock prices. The medium-term impact will depend on the government's response and the effectiveness of their security measures.",
-      "risks": [
-        "Increased security measures may lead to higher defense and security spending, potentially benefiting companies in the sector",
-        "The incident may lead to a decline in investor confidence and a decrease in stock prices in the short term",
-        "The effectiveness of the government's security measures is uncertain and may impact the medium-term outcome"
       ]
     }
   }
