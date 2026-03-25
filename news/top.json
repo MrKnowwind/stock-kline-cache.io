@@ -1,5 +1,28 @@
 [
   {
+    "id": "7694631",
+    "headline": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
+    "summary": "If oil prices are falling, then it's hard to be negative about stocks.",
+    "url": "https://www.cnbc.com/2026/03/25/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108278974-1773761711238-108278974-1773761649691-gettyimages-2266990062-l1070100_zkam1hu8.jpg?v=1774444098&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1774444618,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774447532,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Oil prices are falling due to hopes of a truce between the US and Iran, which is expected to boost the stock market. Arm is seeing strong demand for its new chip, AGI CPU, and has been upgraded to 'buy' by Raymond James. OpenAI has raised an additional $10 billion in funding, bringing its total to over $120 billion, and is considering an IPO. Microsoft's stock has been weighed down by concerns over its software business, but OpenAI's growth may help its Azure numbers. Vertiv, a data center solutions provider, has been given a 'buy' rating by HSBC due to its strong long-term outlook.",
+      "impact": "The falling oil prices are expected to have a positive impact on the stock market, making it harder to be negative about stocks. Arm's strong demand for its new chip, AGI CPU, may lead to a short-term increase in its stock price. OpenAI's funding and potential IPO may also boost Microsoft's Azure numbers and stock price in the medium term. Vertiv's 'buy' rating may lead to a short-term increase in its stock price as well.",
+      "risks": [
+        "Regulatory risks for OpenAI's potential IPO",
+        "Integration risks for Arm's new chip, AGI CPU",
+        "Softening volumes and demand slowdown risk for Mondelez"
+      ]
+    }
+  },
+  {
     "id": "7694307",
     "headline": "Iranian strikes pose ‘existential threat’, Gulf states tell UN - Reuters",
     "summary": "Iranian strikes pose ‘existential threat’, Gulf states tell UN  Reuters",
@@ -19,6 +42,29 @@
         "Regional instability and potential supply disruptions",
         "Uncertainty around the impact on the global economy and oil markets",
         "Potential for increased military spending and defense contracts"
+      ]
+    }
+  },
+  {
+    "id": "7694422",
+    "headline": "Turkey conveying messages between Iran-US, ruling party official says - Reuters",
+    "summary": "Turkey conveying messages between Iran-US, ruling party official says  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaXNmUnJkU3pFYW4xTW94SlNaRkN0NGhoMG80VjJiaUd5OHRqcVExd0dYT1pZRkF5MXdyWnh5aW02V0hTX3VNd2VMVDhLX2VlZ1owYXE2TnplUXdTLWhFMDYybGE3eVBjSm5xM1NZYU1ueHdwdVpINXNpT3hpZWktQUpRanBNQi1uU1JxRnpaVS1pLXBvZzBRRUFjMjdwN0sxQVFqd0xaMUwtckMySWduc2cwRlY1VzVOTzJEZzRsYw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1774432105,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774447579,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "A ruling party official in Turkey has revealed that Turkey is acting as a mediator between Iran and the US, facilitating communication between the two nations. This development comes at a time of heightened tensions between Iran and the US, with the US imposing sanctions on Iran and Iran's nuclear program being a major point of contention. The official's statement suggests that Turkey's role is to help ease tensions and promote dialogue between the two countries. The news is significant as it highlights Turkey's efforts to navigate its complex relationships with its neighbors and major global powers.",
+      "impact": "The news is unlikely to have a direct impact on the stocks of Turkish companies, as it is more of a diplomatic development rather than an economic or financial one. However, it may lead to increased volatility in the Turkish lira and potentially affect the country's economic growth prospects in the medium term. Investors should keep an eye on the situation and be prepared for potential changes in the Turkish economy and markets.",
+      "risks": [
+        "geopolitical risk",
+        "currency volatility risk",
+        "economic instability risk"
       ]
     }
   },
@@ -46,6 +92,29 @@
     }
   },
   {
+    "id": "7694641",
+    "headline": "ECB's Lagarde opens door to rate hikes if Iran conflict pushes up inflation - Reuters",
+    "summary": "ECB's Lagarde opens door to rate hikes if Iran conflict pushes up inflation  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcm9mNG8xc2lRUGJoOUpkRWRnREYzc3EyNGpNalRRdUVKYWsyUmdfWnpSbmlFOTF1d0FDSFE1bGdvYXlwNUgzX0VLSGt2Vm1jU1g3VFo0MWNxb3dlV2JwZkYwMEF3Y2dqaVdLNVVkeHRDLUVSYkdHMy1tMnJjWFpqU0hyUG81OE4yaFlTRG9TLXNRelY3SGwtN1pVVnNwcjFFMUpnX3NTcjR0STA1dDRwamN5bVY?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1774428397,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774447627,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "ECB President Lagarde hinted that the European Central Bank may raise interest rates if the Iran conflict leads to higher inflation. This statement is a response to the potential economic disruption caused by the conflict, which could increase energy prices and lead to higher inflation. The ECB has been cautious about raising rates, but the prospect of inflationary pressures may prompt a change in policy. The ECB's decision to raise rates would have significant implications for the European economy and the global markets.",
+      "impact": "The potential for rate hikes due to inflation concerns could lead to a short-term increase in bond yields, making it more expensive for companies to borrow money. This could negatively impact the earnings outlook for companies with high debt levels or those that rely heavily on cheap credit. In the medium term, a rate hike could also lead to a stronger euro, making European exports more expensive and potentially hurting companies that rely heavily on international trade. The impact on the overall market could be a shift in investor sentiment, with some investors rotating out of growth stocks and into more defensive sectors.",
+      "risks": [
+        "inflation risk",
+        "interest rate risk",
+        "currency risk"
+      ]
+    }
+  },
+  {
     "id": "7694308",
     "headline": "Bernstein warns rupee could breach 98/USD, cuts Nifty target on Iran conflict risks - Reuters",
     "summary": "Bernstein warns rupee could breach 98/USD, cuts Nifty target on Iran conflict risks  Reuters",
@@ -65,6 +134,29 @@
         "Currency risk",
         "Economic slowdown risk",
         "Investor sentiment risk"
+      ]
+    }
+  },
+  {
+    "id": "7694640",
+    "headline": "Myanmar's rice farmers scrounge for diesel as Iran conflict dries up supply - Reuters",
+    "summary": "Myanmar's rice farmers scrounge for diesel as Iran conflict dries up supply  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWjlZX3BLQ3RsdHFDcXowSWxhNm53dVhleUJ6d3ZoSzg2VVo0cTZtbGNzVC16azhDejlKN3FUaThmWWlMZHdrNE5LcXRnZ1JUMVREWmRCLUdvcHFITjR0WkhxVlF2bktLTVZCMklRWV9aWllBMkc4ZDFiRVhBSExMd0Vxd1A2T1IwWnI4bURCSVRYejNVOUNVSlpoalNPU2tsMDJpbGhiU2NaSGNwNDA5OWg1cWtTaHFGck0yVlhHaw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1774426194,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774447676,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Myanmar's rice farmers are struggling to find diesel fuel due to the Iran conflict, which has disrupted global supply chains. The conflict has led to a shortage of diesel in Myanmar, impacting the country's rice production. Rice is a significant export commodity for Myanmar, and any disruption to its production can affect the country's economy. The shortage of diesel is expected to continue until the conflict is resolved, which may take several months.",
+      "impact": "The shortage of diesel in Myanmar is likely to negatively impact the earnings outlook of companies involved in the rice industry, such as those that export rice or provide logistics services. In the short term, this may lead to a decrease in share prices as investors become increasingly risk-averse. However, in the medium term, companies that are able to adapt to the new supply chain dynamics may benefit from increased demand for alternative energy sources or more efficient logistics solutions.",
+      "risks": [
+        "Supply chain disruption risk",
+        "Earnings decline risk",
+        "Increased cost of production risk"
       ]
     }
   },
@@ -92,6 +184,29 @@
     }
   },
   {
+    "id": "7694530",
+    "headline": "Iran war rattles Gulf petrodollar foundations - Reuters",
+    "summary": "Iran war rattles Gulf petrodollar foundations  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMl9BODlYRjJiSEJScU9jdGpicnZJM1dVRVF5aS1tMmZtSFNCRmZVcnFBd2tUbDRBMFBSQTVMcGRZU2IzSmxQQlRZa0JoZnd6RU5saGJSOVdUcDFMOUE5dVo2ZnljR0hUSU9CbkdXQ0tJQlJUUkQtc3BQSG5wZnF4cGhtRmpIMmpSa0pzVFcweXQ2NWJPRDFsNWp6bjQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1774422299,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774447726,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The article reports on the potential disruption to the petrodollar system due to an Iran war, which could lead to a decline in oil prices and negatively impact the economies of Gulf countries that rely heavily on oil exports. The petrodollar system is a network of financial relationships between the US dollar and oil transactions. The US has historically imposed sanctions on Iran, and a war could lead to a breakdown in this system. This, in turn, could lead to a decline in oil prices, which would negatively impact the economies of countries that rely on oil exports.",
+      "impact": "The potential disruption to the petrodollar system and decline in oil prices could lead to a decline in earnings for oil-related stocks in the short-term. In the medium-term, it could also lead to a decline in the valuation of these stocks as investors become increasingly bearish on the sector. The potential decline in oil prices could also lead to a decline in liquidity in the oil market, making it more challenging for companies to raise capital. The sentiment towards the oil sector could also become increasingly negative, leading to a decline in stock prices.",
+      "risks": [
+        "decline in oil prices risk",
+        "economic instability risk in Gulf countries",
+        "valuation risk for oil-related stocks"
+      ]
+    }
+  },
+  {
     "id": "7693864",
     "headline": "UK inflation holds at 3% in February ahead of likely Iran war jump - Reuters",
     "summary": "UK inflation holds at 3% in February ahead of likely Iran war jump  Reuters",
@@ -113,6 +228,16 @@
         "Increased volatility in the market due to uncertainty surrounding the Iran conflict"
       ]
     }
+  },
+  {
+    "id": "7694529",
+    "headline": "Which firms will clean up after the Iran war is finally over? - Reuters",
+    "summary": "Which firms will clean up after the Iran war is finally over?  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY2ZZRXdPN2hsOTJEMzhPU2FWQmFRdndsdmdEazZjQlVhaDA1T1VVRHRIS0tTTTJMNlhrRWp5S0N0b0lwWUM3djY5VG5xX1RtZGVlcERLeVFjbjhEYzRpT015dF9qalpRaTN6ZTZkR2ktVl9YMUZpc3JyN1EwaFRjN3ZqNnRnWXF6d3pxZGxpcG1tYWNmVXVMbUxva09DTEx6cVZrVERTX1JuRmpNVnpuWDJB?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1774419120
   },
   {
     "id": "7693446",
@@ -319,8 +444,8 @@
   },
   {
     "id": "7692710",
-    "headline": "European stocks rise, oil falls, markets cheered by Trump talk of Iran negotiation - Reuters",
-    "summary": "European stocks rise, oil falls, markets cheered by Trump talk of Iran negotiation  Reuters",
+    "headline": "European stocks rise, oil prices fall on hopes for US-Iran talks - Reuters",
+    "summary": "European stocks rise, oil prices fall on hopes for US-Iran talks  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQnJCdTBUSzl3Y2M3WE1iZjZQX1RXRngwdFB3bFptU3VQbFNkMmRXck9RTVFWc1kxc1VtWlk5NWVXUHhpZWF4ZEZjWWJrVU8xZlpUUFFtQk56OEN6Q1lMbUVpVklERzRSaXQwalVNbmF3dmp1ZXFMNVd1SUFsV2R2Y0VlZGZMU1ha?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -911,6 +1036,16 @@
     }
   },
   {
+    "id": "7694423",
+    "headline": "QatarEnergy says it needs to declare force majeure on some LNG contracts - Reuters",
+    "summary": "QatarEnergy says it needs to declare force majeure on some LNG contracts  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcFlkVmQ2a0hpOTU4bUZSRWg3eHNmaExpakJXallsQlVjZEdDQURjUVgzZHV4T2NGa1ZseHhMV2F4M2dnejBCd09FaUxnRWRkVVFsODVveGFSVXdoZWJnaHZhZlhDLUJfSE12SWE1MTNSQkdFaTR1NEVDSWlPZEFndTVjZTNRcm5GTnNxazhaY1VaTDhhZF94N1VoQzJldHR1NkE?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1774359469
+  },
+  {
     "id": "7689616",
     "headline": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
     "summary": "The rally in oil prices has resumed, and close Nvidia partner Arm Holdings is hosting an AI computing event.",
@@ -1490,7 +1625,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1774333500,
+    "publishedAt": 1774334296,
     "analysis": {
       "version": 2,
       "generatedAt": 1774345276,
@@ -22688,163 +22823,6 @@
         "Increased military action and regional instability",
         "Oil price volatility",
         "Decreased investor confidence"
-      ]
-    }
-  },
-  {
-    "id": "7609505",
-    "headline": "Saudi extends rally on energy-led gains; Qatar slips - Reuters",
-    "summary": "Saudi extends rally on energy-led gains; Qatar slips  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbVFaSHNlMjR4U3AxQmwxT0E3QnNmRmx1V3M4U2gwaFZ3ZUQwWTFJN1NoMEhhOVcyeW9McmdUV2dDOFFNUWV5enhnanhTa3RrSVNOTE9PUl9yOUtjNVVlUVdSN3YzUHoxUkIwS2RQcGxGRHZJTW9Nb3JiNm5YdFRCT3JDVHZLMEhmUzdrbFNNZ2VKanYycEE1cnd1VFVfNTFJeU1BT05sdkRMd3p4UVJTWTBR?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1772955600,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772967580,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The Saudi index has extended its gains following a warning from Riyadh to Tehran over recent attacks. This development has boosted investor sentiment in the kingdom, with the Saudi index rising as a result. The warning is seen as a sign of the Saudi government's resolve to protect its interests and maintain regional stability. This, in turn, has led to increased confidence in the Saudi economy and its businesses. The Saudi government's actions are also expected to have a positive impact on the country's defense and security sectors.",
-      "impact": "The potential impact of this news on related stocks is likely to be positive in the short-term, with the Saudi index continuing to rise as investor sentiment remains upbeat. This could lead to increased demand for Saudi stocks, driving up their prices. In the medium-term, the Saudi government's actions may also lead to increased investment in the defense and security sectors, potentially benefiting companies involved in these industries. This could also have a positive impact on the overall Saudi economy, leading to increased growth and stability.",
-      "risks": [
-        "geopolitical tensions between Saudi Arabia and Iran",
-        "potential escalation of conflict in the region",
-        "uncertainty surrounding the Saudi government's actions and their impact on the economy"
-      ]
-    }
-  },
-  {
-    "id": "7610723",
-    "headline": "Trump praises Italy PM Meloni's willingness to help in U.S.-Israel war with Iran - Reuters",
-    "summary": "Trump praises Italy PM Meloni's willingness to help in U.S.-Israel war with Iran  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUVZVeTRRNjNRSDZUQjFIV2FIbEJYMXE5dVJkV1RRQ1V1WWU5NzF2VXM0MHE1TkptYnZaMy1PQW9fa0xmbnB1NWVyMDEySWFXdkh4RWdITEhoVWJRTFhLVWs0WDB5TGJ6Q0JHeWFUUXI1dWNWMkJxWGNNRTE4NFdzNzVhSG9wQTRNZ3JFaWZ6dEVXWFpYaUpxZm1iZmw0WnJ4eU56cDFyc3hRT1BzbG5jMVZOcw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1772954220,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772992729,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "US President Trump has praised Italian Prime Minister Meloni's willingness to help the US and Israel in a potential war with Iran. This news suggests that Italy may be taking a more aggressive stance in the region, potentially aligning with US and Israeli interests. The development could lead to increased military cooperation and joint operations between the US, Israel, and Italy. This news has significant implications for the defense industry and related stocks, particularly those involved in military equipment and services.",
-      "impact": "The potential for increased military cooperation and joint operations between the US, Israel, and Italy could lead to a boost in demand for defense stocks, particularly those involved in military equipment and services. This could drive earnings growth and increase valuations for companies such as Lockheed Martin (LMT), Boeing (BA), and Northrop Grumman (NOC). In the short-term, we expect to see increased investor interest and buying activity in these stocks, potentially leading to a short-term price increase.",
-      "risks": []
-    }
-  },
-  {
-    "id": "7603836",
-    "headline": "Trump rejects settling war with Iran, raises notion of eliminating all its potential leaders - Reuters",
-    "summary": "Trump rejects settling war with Iran, raises notion of eliminating all its potential leaders  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTVcyeGpqZVhLT2NDXy0zRUtFZV9IQnFhdEJtN2ZQVDVvRTZheUhuaHJ0X0dHeUdsN2N3cFFTS0JiZEREaEV5OEFLOWZyZEhmUXJWVXY4WHdHeC1rS1VtQUxDbEpESjNsUWVzM3BVVHBNelltQ3ljYmpMWm9zTEZzZ1Jzb0JxeEZMWXBSeFJMYXFDUXNuV1JDZ0dOYW0tMVdxbVRkeHkwOHNvajRJemIyQU80MXozTGx2bExR?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1772948649,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772863473,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The ongoing Iran war has entered its second week, with US President Trump demanding 'unconditional surrender' from Iran. This escalation in tensions has heightened concerns about global stability and security. The conflict has led to increased oil prices, which could have a negative impact on the global economy. The US military presence in the region has also raised concerns about potential military conflicts with other countries, including Iran's allies.",
-      "impact": "The ongoing conflict in the Middle East is likely to have a negative impact on oil prices, which could lead to a decrease in earnings for oil-related companies. The heightened tensions and potential for further military action could also lead to a decrease in investor sentiment, causing stocks to decline. In the short term, defense contractors and companies with exposure to the Middle East region may see an increase in demand for their services, but this could be offset by the overall negative sentiment and potential economic downturn.",
-      "risks": [
-        "Oil price volatility risk",
-        "Global economic downturn risk",
-        "Increased military conflict risk"
-      ]
-    }
-  },
-  {
-    "id": "7608491",
-    "headline": "Australia weighing requests for assistance from countries attacked by Iran - Reuters",
-    "summary": "Australia weighing requests for assistance from countries attacked by Iran  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSDBRTU8zcDRyMC1ZTHc4WEVGS3EwR2JKbGU3czA2dlhaZ3ZwZEY3Z1dTcVVsWk11RkJKTUhFNkp6X205ejRRWnkxMFduNHBkOU9VYWR6aTdwU3U3S3cwaUU2YzFJeWc2NGFITm10TUdvZ1dYR19HenJ1T3c4T0UtQThueDU2UEt6dDRQd05aLVZoS09ZUUZoUmlta2h6aE1tcEp5aEljWHBoNkExdDJoYnYyMVV0YmhpSDFSMg?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1772936580,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772951150,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Australia is considering providing assistance to countries attacked by Iran, as reported by Reuters. This development is a geopolitical event that may lead to increased tensions in the Middle East. The news does not directly affect any specific companies or industries, but it may have a broader impact on global politics and international relations. The Australian government's stance on the matter could influence its relationships with other countries in the region.",
-      "impact": "The potential impact on related stocks is limited, but the news may lead to increased volatility in the Australian dollar and potentially affect the country's trade relationships. This could have medium-term effects on companies with significant exposure to the Middle East region, such as energy or mining companies. However, the impact on individual stocks is difficult to predict without more specific information.",
-      "risks": [
-        "geopolitical risk",
-        "trade war risk",
-        "currency volatility risk"
-      ]
-    }
-  },
-  {
-    "id": "7607988",
-    "headline": "White House halts security bulletin warning of Iran-related threats - Reuters",
-    "summary": "White House halts security bulletin warning of Iran-related threats  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQel9XZnJPRHgxSzJ3TWpNYVc3b095dHdrV2ZQVVZsdGFnTFFiVURVelIyWktreUpEMnY0UHlLVmsxMV94ejd2TnBnQWUxMGkzRzF0YXI5WHR5bWpnSG95MWJod0hVek8wNUN5a1M4YjdPX2diaDY5Nl9OYS00b1hTa3ZqTUlwdXdCbTZEN1NkQWVTOG9OYmIwcThfRTlsazZ3c2ZuOVBnYWd6Tms2ZXc?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1772926285,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772942317,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The White House has halted a security bulletin warning of Iran-related threats, which may indicate a de-escalation of tensions between the US and Iran. This development could be a positive sign for the global economy, particularly for companies with significant exposure to the Middle East region. However, the exact reasons behind the White House's decision are unclear, and the situation remains volatile. The US-Iran tensions have had a significant impact on the global oil market, with prices fluctuating in response to the conflict. The halt of the security bulletin may lead to a short-term decrease in oil prices, benefiting energy companies.",
-      "impact": "The halt of the security bulletin may have a positive impact on energy stocks in the short term, as lower oil prices could increase demand for energy companies' products. However, the medium-term impact is uncertain, as the situation with Iran remains volatile. The decision may also affect the earnings outlook of companies with significant exposure to the Middle East region, potentially leading to a short-term increase in their stock prices.",
-      "risks": [
-        "continued escalation of US-Iran tensions",
-        "fluctuations in global oil prices",
-        "uncertainty in the Middle East region"
-      ]
-    }
-  },
-  {
-    "id": "7607388",
-    "headline": "Exclusive: Saudi has told Iran not to attack it, warns of possible retaliation, sources say - Reuters",
-    "summary": "Exclusive: Saudi has told Iran not to attack it, warns of possible retaliation, sources say  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWk9fSDVIblVPWTNRa1NIbWtjLTYwOTBqSWJqY3BYRHExY3hTV2M4NnIxdnpONGFoVTYwSTBfTUZLUEtMLWNxVm9sdVNYQnAtSmNlbFJMMkU2WVFHVjRGREVSdDR1ZXdWbUdpQmljdHFVMG5YLUxCcDNnWWtwNmtPRzhZLTgzN0pvYlltYVFTNmpCanZPVjZZZ04tN1BmWnVrSmlOb01UWkhVdGtiWjVlMWZXSG9zNWtmcjF2MjY2cF9LR1JN?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1772916976,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772927785,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "Saudi Arabia has warned Iran against attacking it, threatening possible retaliation, according to sources. This development comes as tensions between the two countries remain high. The warning is a response to recent escalations in the region, with Saudi Arabia accusing Iran of being behind a drone attack on its oil facilities. The situation is a reminder of the ongoing geopolitical risks in the Middle East, which could impact oil prices and global energy markets. The warning is also a sign of Saudi Arabia's commitment to defending its interests.",
-      "impact": "The news is likely to have a short-term positive impact on Saudi Aramco's (if listed) and other oil-related stocks, as it suggests that Saudi Arabia is taking a firm stance against potential threats. However, the medium-term impact is uncertain, as escalating tensions in the region could lead to increased oil prices and a negative impact on the global economy. The warning may also increase investor sentiment towards Saudi Aramco's potential IPO, as it demonstrates the company's robust defense capabilities.",
-      "risks": [
-        "Escalating tensions in the Middle East leading to increased oil prices",
-        "Negative impact on global economy due to potential oil price increases",
-        "Uncertainty around Saudi Aramco's IPO prospects"
-      ]
-    }
-  },
-  {
-    "id": "7611838",
-    "headline": "Katyusha rockets target US embassy in Baghdad, security sources say - Reuters",
-    "summary": "Katyusha rockets target US embassy in Baghdad, security sources say  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONXNmOWpaODdjLWVkM24zTmdERm5yZ00xMWN4U3NxSndEdk1jYUhId3hCTUhrZEpocWZJQ0QzOWdKQUMtLTFlZGpBbzhyRHJZYVpGWWhJUml6V2F6U1k0bjdwakUyMElFVU5IUWFsRW56VGw2MkVFazR1QlJQbmV1QTVhWHFlZG9UYXBsUWFtT2RoNHpUYUEyU0pEejMwUlpjbDdvbTkwQ29udGcxRHVhUjdzTFl4VVBD?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1772916355,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1773010771,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Katyusha rockets targeting the US embassy in Baghdad indicate increased regional tensions and a heightened risk of conflict. This development is likely a result of the ongoing US-Iran conflict and the escalating situation in the Middle East. The incident may lead to a deterioration in US-Iraq relations, potentially affecting US companies operating in the region. The news may also impact the global oil market, as Iraq is a significant oil producer.",
-      "impact": "The potential conflict may lead to a short-term increase in oil prices, benefiting oil producers such as ExxonMobil (XOM) and Chevron (CVX). However, the long-term impact on US companies operating in the region may be negative, as the conflict could lead to increased costs, supply chain disruptions, and regulatory risks. The news may also weigh on the sentiment of investors, potentially leading to a decline in stock prices of companies with significant exposure to the Middle East.",
-      "risks": [
-        "geopolitical risk",
-        "regulatory risk",
-        "supply chain disruption risk"
       ]
     }
   }
