@@ -1,5 +1,15 @@
 [
   {
+    "id": "7695517",
+    "headline": "Gen Z brothers bought a $4,000 pickup truck to start their business—now it brings in $3 million a year",
+    "summary": "Kirk and Jacob McKinney found entrepreneurial inspiration at a local dump, launching junk removal and reselling business Junk Teens while still in high school.",
+    "url": "https://www.cnbc.com/2026/03/25/junk-teens-gen-z-students-launched-business-that-brings-in-millions.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108282878-1774450430584-thumb1.jpg?v=1774450501&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1774457628
+  },
+  {
     "id": "7695294",
     "headline": "Trump says he could send National Guard to airports 'for more help'",
     "summary": "President Donald Trump says he is considering sending the National Guard to airports where  TSA officer absences have led to long lines.",
@@ -69,6 +79,29 @@
     }
   },
   {
+    "id": "7695301",
+    "headline": "Netanyahu seeks to avoid snap vote as Iran war gives no boost in polls - Reuters",
+    "summary": "Netanyahu seeks to avoid snap vote as Iran war gives no boost in polls  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa0J0UEY4NTRibVF5aFBsZTlHLU5yVlF1dDJJVkFkbE9QQXhHQXlzVXcwZXg0UnFHd19lU0dHelNXUnpNQXhXWlAtYVhmLXdDTC1vMkc2UTh0Y3U3Nmc2QXE0Q19GOFBHY2JfV3RwUGRpTmNoR29Iei0tWTJ3T2ZXZ2FkWXJyRC05d1p6QkZ1d3BXZ0JGTmt4ZnU1THBSbmY3dnRQWi1Ra1pKV3hnZWNWNld1ZndHUQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1774449696,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774460722,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Israeli Prime Minister Benjamin Netanyahu is seeking to avoid a snap election due to the ongoing conflict with Iran, which has not boosted his party's popularity in polls. The situation is a setback for Netanyahu, who had hoped the conflict would rally public support. The Israeli economy is heavily reliant on international trade and investment, and a prolonged conflict could lead to economic instability. The conflict has also led to a decline in investor confidence, which could impact the Israeli stock market. Netanyahu's efforts to avoid a snap election suggest that he is concerned about his party's chances in a new election.",
+      "impact": "The news is likely to have a negative impact on Israeli stocks, particularly those with exposure to international trade and investment. The decline in investor confidence and potential economic instability could lead to a decline in earnings for companies with significant international operations. In the short-term, the uncertainty surrounding the conflict and the election could lead to increased volatility in the Israeli stock market. In the medium-term, a prolonged conflict could lead to a decline in investor sentiment and a decrease in stock prices.",
+      "risks": [
+        "economic instability risk",
+        "decline in investor confidence risk",
+        "volatility risk"
+      ]
+    }
+  },
+  {
     "id": "7695191",
     "headline": "Iran's initial response to US proposal 'not positive', senior Iranian official tells Reuters - Reuters",
     "summary": "Iran's initial response to US proposal 'not positive', senior Iranian official tells Reuters  Reuters",
@@ -88,6 +121,29 @@
         "Oil price volatility risk",
         "Disruption to global energy markets risk",
         "Increased tensions in the Middle East risk"
+      ]
+    }
+  },
+  {
+    "id": "7695302",
+    "headline": "Russia evacuates 163 more staff from Iran's Bushehr nuclear plant, 300 remain - Reuters",
+    "summary": "Russia evacuates 163 more staff from Iran's Bushehr nuclear plant, 300 remain  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd2JBajVURW95OFF6YUxnTzAtb2R1VnJ1U253aC1DcDFPdEpidmpuRlMxRWpkOXpBLThDRWhSY0FHYlhzaHdyNWtsdFdPTVo3T3JkdGVKeGtmNGxNaUFXd0RsZ2FSVVBHaFdWcFV1cmZYZFNLandLUU1tdUFfTDR6ZWkxakNWTms3NGdVSzR1Q3ZsWFZ2RC1RaDZpYWFEV3VYd0xVN3BTSmRSQmpweTVVbDZn?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1774447498,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774460787,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Russia has evacuated 163 staff from Iran's Bushehr nuclear plant, leaving 300 personnel on site. The move is likely a precautionary measure due to escalating tensions in the region. The Bushehr nuclear plant is a joint project between Russia and Iran, with Russia's Rosatom providing technical expertise and equipment. The plant's operations have been ongoing since 2011. The evacuation does not appear to be directly related to any immediate safety concerns, but rather a response to regional instability.",
+      "impact": "The news is unlikely to have a significant impact on the earnings outlook of companies directly involved in the nuclear industry, such as Rosatom or its subsidiaries. However, the move may lead to increased volatility in the short term, potentially affecting the valuation of these companies. Investors may view the evacuation as a sign of increased risks associated with operating in the region, which could lead to a decrease in investor sentiment and liquidity. In the medium term, the situation may lead to increased scrutiny on nuclear energy projects and potentially impact the demand for nuclear energy-related services.",
+      "risks": [
+        "Increased regional instability risk",
+        "Decreased investor sentiment risk",
+        "Volatility risk"
       ]
     }
   },
@@ -664,8 +720,8 @@
   },
   {
     "id": "7692609",
-    "headline": "Oil falls as reports of 15-point proposal spurs ceasefire hopes - Reuters",
-    "summary": "Oil falls as reports of 15-point proposal spurs ceasefire hopes  Reuters",
+    "headline": "Oil prices drop 4% as US proposes 15-point plan to Iran for peace - Reuters",
+    "summary": "Oil prices drop 4% as US proposes 15-point plan to Iran for peace  Reuters",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNVU5QWgzLWc3VmJ3VS1jcUNrcklMYXFiNG8yeE1wcmdqZTJHZDBxd1ZLS0hYSEdMQTlzQUJTa0FHcjdyeHQ4Ry0yQXN0OXI4QWsxVmJXbjJvNTBGM1FYMUtNZUNDM01PSmxRay1IcG9XQTFQc045bkZxbHZJeE94VC1zaHJVTmlVaWx6b21sTmlqZGxkRHdQQ0hwOEphLWVTQ29KbUNtdkprQXZ4QWVUMGVvamZUVVh1blUwcGt3TFlaTkhG?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1240,7 +1296,21 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1774359469
+    "publishedAt": 1774359469,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774460835,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "QatarEnergy has announced that it needs to declare force majeure on some of its liquefied natural gas (LNG) contracts. This decision is likely due to supply chain disruptions, logistical issues, or other unforeseen circumstances. The company's ability to meet its contractual obligations has been compromised, which may lead to potential penalties or reputational damage. The impact of this announcement on the energy market and related stocks is uncertain, but it may lead to increased volatility in the short term.",
+      "impact": "The potential impact on related stocks, such as LNG producers and energy traders, could be significant. In the short term, the announcement may lead to a decline in stock prices as investors reassess the companies' ability to meet their contractual obligations. Medium-term, the impact may be more nuanced, with some companies potentially benefiting from increased volatility and others facing increased costs or reputational damage. The earnings outlook for affected companies may be revised downward, leading to a revaluation of their stocks.",
+      "risks": [
+        "Supply chain disruptions risk",
+        "Logistical issues risk",
+        "Contractual penalties risk",
+        "Reputational damage risk"
+      ]
+    }
   },
   {
     "id": "7689616",
@@ -1308,6 +1378,29 @@
         "Talent shortage risk",
         "Competition for female advisors risk",
         "Declining market share and valuation risk"
+      ]
+    }
+  },
+  {
+    "id": "7695303",
+    "headline": "Why the Strait of Hormuz blockade should be a boost for Europe’s green industry - Reuters",
+    "summary": "Why the Strait of Hormuz blockade should be a boost for Europe’s green industry  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbkpjYVRuX3VhSlk0Rmw3emI4TG9GbVk2RTliTWRfM0lwUTJqLVJxejlSdTFoY0FzRFlfdkw0S3ZmdkY1dmpHV2p4ZXpob2JnRUlRZkwyUFhWZ09uZ2h3Y0VIWm9lX1ZSclk0TFNVajRXbEl3V2hRUVVRTGRZNDJqbjl4VG1KdU5xZ3ZxSXNqZmEtaEZQWExUMGozbEhwWndiTHEtME10dVkwLWM1NUNjRGFGZU1ra2NjM2tsYXZ4WnI2NHRuOUlnLWpOZlRyUVFYenBhOQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1774356033,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774460885,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The Strait of Hormuz blockade has created a unique opportunity for Europe's green industry to increase its market share and revenue. The blockade has disrupted oil exports from the Middle East, leading to a surge in demand for alternative energy sources. This shift in demand is expected to benefit European companies that specialize in renewable energy, such as wind and solar power. As a result, European companies in the green industry are likely to see an increase in orders and revenue, driving growth and profitability.",
+      "impact": "The potential impact on related stocks is positive, with a short-term increase in demand for green energy solutions driving higher earnings and revenue for companies in the industry. This could lead to an increase in stock prices, particularly for companies with strong exposure to the European market. Medium-term, the increased demand for green energy could lead to increased investment in research and development, driving innovation and further growth in the industry. The blockade is expected to have a lasting impact on the global energy market, with European companies well-positioned to capitalize on the shift towards renewable energy.",
+      "risks": [
+        "Dependence on government subsidies and incentives",
+        "Competition from established oil and gas companies",
+        "Supply chain disruptions and logistical challenges"
       ]
     }
   },
@@ -22744,98 +22837,6 @@
         "Increased security measures may lead to higher defense and security spending, potentially benefiting companies in the sector",
         "The incident may lead to a decline in investor confidence and a decrease in stock prices in the short term",
         "The effectiveness of the government's security measures is uncertain and may impact the medium-term outcome"
-      ]
-    }
-  },
-  {
-    "id": "7610722",
-    "headline": "Here are the 4 big things we're watching in the stock market in the week ahead",
-    "summary": "Another volatile week on Wall Street appears likely as the war in Iran continues.",
-    "url": "https://www.cnbc.com/2026/03/08/here-are-the-4-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108272159-1772473432677-gettyimages-2263890116-GAS_PRICES.jpeg?v=1772834290&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1772986271,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772992684,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The ongoing war in Iran is causing a significant increase in oil prices, which is expected to squeeze consumer spending and increase input costs for companies. This is likely to lead to a volatile week in the stock market. The Strait of Hormuz, a vital waterway for oil exports, has been effectively shut down, and Kuwait has already cut back on oil production. China, a major importer of crude oil, is also at risk as some 50% of its oil imports pass through the Strait.",
-      "impact": "The potential impact on the stock market is likely to be negative, with increased oil prices affecting consumer spending and company earnings. This could lead to a decline in stock prices, particularly for companies with high exposure to oil prices or those with a significant presence in the Middle East. The situation may also exacerbate existing tensions between the US and China, which could have broader implications for the global economy.",
-      "risks": [
-        "Increased oil prices squeezing consumer spending",
-        "Higher input costs for companies",
-        "Disruptions to global oil supply and potential impact on China's economy"
-      ]
-    }
-  },
-  {
-    "id": "7611334",
-    "headline": "Iran’s supreme leader, oil and lunar hummus - Reuters",
-    "summary": "Iran’s supreme leader, oil and lunar hummus  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeU1xekZPTjRMUmwzWnpNdmxHMjFqQkFGZ2NYdHNmeEo5YlY3UzJpLVZsbldONDVTdTViREtZTmc1aFVBdFNWb3VfS1Foa18wRFJYRmFSRzdUNzlSVVQ1dFVQRzVHZVBpc3JZV1dfS0xQcUNFdFJkbTJRcktzSmFxMUlGQndXUHVOanc?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1772983530,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1773001024,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Iran's supreme leader has made a statement about oil, but it does not directly relate to the energy industry or specific companies. The statement is about the importance of lunar hummus, a traditional Iranian dish. This news is unrelated to business fundamentals or industry context. It is a lighthearted and non-substantive statement from a high-profile figure.",
-      "impact": "This news has no direct impact on related stocks. The lack of relevance to the energy industry or specific companies means that investors should not adjust their portfolios based on this news. The statement's focus on a traditional dish rather than economic or business matters suggests that it will not influence sentiment or earnings outlook. The medium-term effect is also neutral, as this news will not affect the overall market or industry trends.",
-      "risks": [
-        "irrelevance to business fundamentals",
-        "lack of economic significance",
-        "unpredictable market reaction"
-      ]
-    }
-  },
-  {
-    "id": "7608999",
-    "headline": "Panel picking Iran's supreme leader has reached consensus, member says - Reuters",
-    "summary": "Panel picking Iran's supreme leader has reached consensus, member says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQejM4c0YyQ1lielEzSExDaG10R3pVN2sxWU5WdmVQZWhUWk9fUjQ2b3hHVEZuV0U2X2UyZjkyNzB2c3JpX2JUOWhrcU5iM0tQOGVDdkZCbktxTGNlVlJySlZ4OHdCV2tQTFdQbzhhMExCQVF2TDRsQXhjM0QtTE0wblk1UzdOSmE3TUZ5aGlYY0VmdXh1U0RaYVM0WE5UMnpibk51UHNiTDFJYU1aQWZWRlZLX1RXWXBiRDNjbURwR2Nfdw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1772983383,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772958431,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Iran's next supreme leader has been determined, but the news does not directly impact the business fundamentals of any specific stocks. The supreme leader's role is largely ceremonial, and their appointment does not typically have a direct impact on the economy or the stock market. However, the news may have indirect effects on the country's politics and international relations, which could influence the overall business environment in Iran. The appointment of a new supreme leader may also lead to changes in government policies and regulations, which could have a ripple effect on various industries.",
-      "impact": "The news is unlikely to have a significant impact on the stock market in the short term. However, a change in leadership could lead to changes in government policies and regulations, which may affect companies operating in Iran, such as those in the energy and petrochemical sectors. This could potentially lead to a re-evaluation of their business prospects and valuations in the medium term.",
-      "risks": [
-        "regulatory change risk",
-        "policy uncertainty risk",
-        "geopolitical risk"
-      ]
-    }
-  },
-  {
-    "id": "7603230",
-    "headline": "US pump prices surge as Iran war upends global energy supply - Reuters",
-    "summary": "US pump prices surge as Iran war upends global energy supply  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb0VyT1UzRU1KWjhDbTY4RXotMjVGb3N0VG03NEViR0htMGktb0FaZ0dWSGEycTVhQnpkeEo2MDd6OHNFYlRCb3l3S2ZjaUY2QXRFQ01weWJ5TmVpSU54Y0VvRjRzSEk2N2dnaDN0eUR0aUtxTndpc04wd29NUG9RQndCWklHY2U5YnBDOEw1VjhsSDdnTFliN3ZkaUVSUmNINmEwam1XVFRNUXROQ3c?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1772981341,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1772855500,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The ongoing Iran war has disrupted the global energy supply chain, leading to a surge in US pump prices. The conflict has affected oil production and transportation, causing a shortage of crude oil and refined products. This shortage has driven up prices at the pump, with some areas experiencing price increases of over 10% in a single week. The situation is expected to persist in the short term, with some analysts predicting prices could remain elevated for several months. The global energy market is highly interconnected, and disruptions in one region can have far-reaching consequences.",
-      "impact": "The price surge at the pump is likely to have a negative impact on consumer spending and economic growth, particularly in industries that are heavily reliant on transportation. This could lead to a decline in earnings for companies in these sectors, such as airlines, logistics providers, and retailers. In the short term, investors may sell off stocks with high exposure to the energy sector, such as oil producers and refiners. Medium-term, the increased cost of energy could lead to higher production costs and reduced profit margins for companies across various industries.",
-      "risks": [
-        "Increased production costs and reduced profit margins",
-        "Decline in consumer spending and economic growth",
-        "Disruption to global supply chains"
       ]
     }
   }
