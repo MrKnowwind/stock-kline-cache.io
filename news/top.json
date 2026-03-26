@@ -1,5 +1,52 @@
 [
   {
+    "id": "7700294",
+    "headline": "MLB faces a historic shift as potential lockout, media rights and other league changes loom",
+    "summary": "Several changes await MLB after this season, including its CBA's expiration, new media partners, and potential expansion and league realignment.",
+    "url": "https://www.cnbc.com/2026/03/26/mlb-faces-historic-shift-as-potential-lockout-media-rights-and-league-changes-loom.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108129957-1744291489186-gettyimages-2209288994-_ar33052_j6ehkasu.jpeg?v=1774535135&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1774541905,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774544064,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "The MLB collective bargaining agreement (CBA) is set to expire at the end of the 2026 season, which may lead to a lockout as owners push for a salary cap. The league is also undergoing significant changes in media rights, with teams terminating contracts with Main Street Sports and launching new channels. MLB aims to have all 30 teams under its control by 2028 to sell in-market local games as a national package to streamers. This shift in media rights and potential expansion/realignment could impact the league's revenue and profitability.",
+      "impact": "The potential lockout and changes in media rights may negatively impact the earnings outlook for MLB teams, particularly those with high player salaries. The uncertainty surrounding the CBA and media rights could also lead to volatility in the stock prices of MLB-related companies, such as MLB itself, as well as companies that partner with the league, like DirecTV. The shift to a national package of in-market local games could also impact the valuation of regional sports networks and streaming services that currently hold these rights.",
+      "risks": [
+        "lockout risk",
+        "media rights renegotiation risk",
+        "valuation uncertainty risk",
+        "earnings volatility risk"
+      ]
+    }
+  },
+  {
+    "id": "7700296",
+    "headline": "Want to buy Wells Fargo or maybe TJX? Here are the levels to watch",
+    "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+    "url": "https://www.cnbc.com/2026/03/26/want-to-buy-wells-fargo-or-maybe-tjx-here-are-the-levels-to-watch.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108283511-1774538366917-Traders-Photo-20260326-KK-PRESS-012.jpg?v=1774538463&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1774540555,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774544109,
+      "sentiment": "bullish",
+      "confidence": 0.7,
+      "summary": "Jim Cramer is optimistic about Wells Fargo and TJX, citing Wells Fargo's potential for growth with its lifted asset cap and TJX's resilience during economic uncertainty. He recommends buying Wells Fargo below $80 per share and suggests TJX is a good opportunity to buy if it sharply declines. The Investing Club holds a bullish view on these stocks, with Jim Cramer's charitable trust long on both WFC and TJX.",
+      "impact": "Wells Fargo's stock price may increase as it grows its balance sheet and interest-based income, driven by CEO Charlie Scharf's leadership. TJX's stock price may also rise if investors take advantage of a potential buying opportunity during economic uncertainty. However, the market's reaction to the Iran conflict and oil prices remains a key driver of market volatility, which may impact both stocks in the short term.",
+      "risks": [
+        "market volatility risk",
+        "oil price uncertainty risk",
+        "valuation risk for TJX"
+      ]
+    }
+  },
+  {
     "id": "7700077",
     "headline": "Trump to Congress: End DHS shutdown or face 'very drastic measures'",
     "summary": "Lawmakers are stalled on funding the Department of Homeland Security as airport delays mount.",
@@ -42,6 +89,29 @@
     }
   },
   {
+    "id": "7700195",
+    "headline": "US proposal to end war is 'one-sided', door to diplomacy still open, Iranian official says - Reuters",
+    "summary": "US proposal to end war is 'one-sided', door to diplomacy still open, Iranian official says  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVDdsek91SGEzM3RIV09PelBrOFpoaWg2X0Q4WWw5azVEYVJ6bUowbDJWTmxFU0tnNmZpU1dpZG1FLWJObjlyZE1wOVZ6dmNlUkZGRTkySmVuWkxYdDdWbWJPOVliYy05bUFWYnZ4TDdzUmdLNVI1cll6c29iQU9WODFTdGUwVW96WVpoclJ4VjFKTTllNXFzRnRXZmc0aTV3eVdlWEh6MVdJMlFSSkVLbmQ5bFlBYmJTVENfUWhZek9qcnVCbXZuTEZoSDlUbkE?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1774535072,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774544156,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Iranian officials have responded to the US proposal to end the war in the Middle East, calling it 'one-sided'. This development suggests that diplomatic efforts are still ongoing, but the tone remains tense. The US proposal is likely a response to growing international pressure to de-escalate the conflict. The situation remains complex, with multiple stakeholders involved and competing interests at play. The news does not provide any clear indication of a near-term resolution or a significant shift in the conflict's trajectory.",
+      "impact": "The news is unlikely to have a direct impact on the stock market in the short term, as the situation remains fluid and unpredictable. However, a potential de-escalation of tensions could positively impact companies with exposure to the Middle East region, such as energy and defense contractors. On the other hand, a prolonged conflict could lead to increased uncertainty and volatility in these sectors, potentially weighing on their valuations.",
+      "risks": [
+        "prolonged conflict risk",
+        "regional instability risk",
+        "uncertainty risk"
+      ]
+    }
+  },
+  {
     "id": "7699304",
     "headline": "OECD: Iran war erases global growth upgrade, fans inflation - Reuters",
     "summary": "OECD: Iran war erases global growth upgrade, fans inflation  Reuters",
@@ -61,6 +131,29 @@
         "Increased inflation risk",
         "Global economic slowdown risk",
         "Energy sector earnings decline risk"
+      ]
+    }
+  },
+  {
+    "id": "7700086",
+    "headline": "Yemen's Houthis ready to join Iran war if needed, raising new shipping risk - Reuters",
+    "summary": "Yemen's Houthis ready to join Iran war if needed, raising new shipping risk  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRXR4c1EtZ1BtU2dUbWRONTlfdjZGUk9CNUNtQlZaMmpWX192alJ2bnBtREdaX2lpN09kRmtUc0xTdmZ3bGxNUGdkcVl2SnZLXzBfLXFCOTBQTnRTdlh2UHVULVB2aXRSUFYyNWpUWVJlR3UwZmxrVWZMbHhmZnoyLV9CdmJ5SnRKZ016Z1hRNGhRT0xSZGJndnd0cTdrNkhNMk55MElsbXNBb1RqMHZhTUF5MWVtenFPU2ctdDJRdF9lUQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1774531270,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774544208,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Yemen's Houthi rebels have indicated they are prepared to join Iran in a potential war, escalating tensions in the region. This development raises concerns about the safety of shipping routes in the Red Sea, which is a critical waterway for global trade. The conflict could disrupt oil supplies and impact global markets. Iran has been a key supporter of the Houthi rebels, and a full-scale war could lead to increased military activity in the region.",
+      "impact": "The potential for a wider conflict in the Middle East could lead to increased volatility in oil prices, which could negatively impact energy-related stocks in the short term. In the medium term, a prolonged conflict could lead to a slowdown in global trade, negatively impacting shipping companies and related industries. The increased tensions could also lead to a decrease in investor sentiment, impacting the overall market.",
+      "risks": [
+        "Increased military activity in the region",
+        "Disruption to global trade and oil supplies",
+        "Decreased investor sentiment and market volatility"
       ]
     }
   },
@@ -134,6 +227,29 @@
     }
   },
   {
+    "id": "7700194",
+    "headline": "Iran war chokes petrochemical supply, sends plastic prices soaring - Reuters",
+    "summary": "Iran war chokes petrochemical supply, sends plastic prices soaring  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWVo5STE3WnVPWjZLMGdxVmoxTlM5N2wwb3NGNDF3Qmw1d3lrUmg2RWhvZWVyTkZRdGpOWmVXTkE1TklncVcwOGRQa1VSb21HcG9MQlNCWDItOHA3R2xhVFNLSFpka2dacE90RHN3dlRSR0haUjdMRlBaamhPS0FwMzZBekMzQ0N2RU9nd2JScHR3NW5aZDl0OHQwekJWWDk4OF9aLTdjMDNiLXhaT1JkT1d6dVdBQ0hJ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1774528370,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774544256,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The ongoing Iran war has disrupted petrochemical supply chains, leading to a surge in plastic prices. Petrochemicals are a key input for the production of plastics, and the shortage has resulted in higher costs for manufacturers. This is particularly concerning for companies that rely heavily on petrochemicals, such as chemical manufacturers and plastics producers. The shortage is expected to continue until the conflict subsides, which may take several months.",
+      "impact": "The shortage of petrochemicals is likely to negatively impact the earnings of companies that rely on these inputs, such as chemical manufacturers and plastics producers. Short-term, we expect a decline in earnings due to higher raw material costs and reduced production capacity. Medium-term, the impact on valuation may be significant as investors reassess the companies' ability to maintain profitability. Liquidity may also be affected as investors sell off shares in anticipation of lower earnings.",
+      "risks": [
+        "Supply chain disruption risk",
+        "Earnings slowdown risk",
+        "Valuation multiple compression risk"
+      ]
+    }
+  },
+  {
     "id": "7699406",
     "headline": "Meta's court defeats add to Zuckerberg's recent woes, represent 'watershed event' for social media",
     "summary": "Meta suffered stinging defeats in two separate trials involving child safety that underscore shifting public sentiment toward the social media industry.",
@@ -180,6 +296,26 @@
     }
   },
   {
+    "id": "7699549",
+    "headline": "H&M warns prolonged Iran war could hit consumers hard - Reuters",
+    "summary": "H&M warns prolonged Iran war could hit consumers hard  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWUF6Uno4Mm5QZFdNWXRiVVBDTnZ1Mk9ic0RpclJkaVdPWFV0bGZtX1E3RFRacTBkaG9oUEduV2xyVGJYSmRTV3pnNjlfdW5LOHFDcnZwZDVfdU9EbDRRMWpicU9MNmJGYjB0YmgxTHNmdkxnYnQ2aVRKcDJqbDRmdDhLMlJZaFMzYkVmbXE4bUl1aDByVmhuYw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1774526108
+  },
+  {
+    "id": "7700087",
+    "headline": "India secures 60 days of oil supply amid Hormuz disruption - Reuters",
+    "summary": "India secures 60 days of oil supply amid Hormuz disruption  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVFNWWU55ak5zZWZQRDU2X2FXbEhSaF9vcG83dUtaQktCQ2QycGdFcFc1TDNqYUd0QnRHMGJzeEV2aWQ4SVpJSzI3RUZGVW9KS0JCSnFxWHJORFBFdHU5dDhDYlJsVnZTWm41UU1PYzNiSkRwSlNRb0lqeUlLNzZ4RUtWYzBDNmNxcDdQR1ZpeURrNnd4dUsxaHZ6aVVrZ1NYRnhzRXU5RFBUbnM?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1774525882
+  },
+  {
     "id": "7699292",
     "headline": "Family offices make opportunistic bets on real estate as investors sit on sidelines",
     "summary": "Investment firms of ultra-wealthy families are snapping up bargains in multifamily and commercial real estate.",
@@ -210,7 +346,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1774524067,
+    "publishedAt": 1774524729,
     "analysis": {
       "version": 2,
       "generatedAt": 1774534600,
@@ -375,16 +511,6 @@
     }
   },
   {
-    "id": "7699549",
-    "headline": "H&M warns prolonged Iran war could hit consumers hard - Reuters",
-    "summary": "H&M warns prolonged Iran war could hit consumers hard  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWUF6Uno4Mm5QZFdNWXRiVVBDTnZ1Mk9ic0RpclJkaVdPWFV0bGZtX1E3RFRacTBkaG9oUEduV2xyVGJYSmRTV3pnNjlfdW5LOHFDcnZwZDVfdU9EbDRRMWpicU9MNmJGYjB0YmgxTHNmdkxnYnQ2aVRKcDJqbDRmdDhLMlJZaFMzYkVmbXE4bUl1aDByVmhuYw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1774508721
-  },
-  {
     "id": "7698645",
     "headline": "South Korea to carry out bond buyback, expand fuel tax breaks to cushion blow from Iran conflict - Reuters",
     "summary": "South Korea to carry out bond buyback, expand fuel tax breaks to cushion blow from Iran conflict  Reuters",
@@ -501,8 +627,8 @@
   },
   {
     "id": "7697814",
-    "headline": "Trump urges Iran to act quickly on ceasefire plan - Reuters",
-    "summary": "Trump urges Iran to act quickly on ceasefire plan  Reuters",
+    "headline": "Iran sees US peace plan as 'one-sided' as Trump presses for deal - Reuters",
+    "summary": "Iran sees US peace plan as 'one-sided' as Trump presses for deal  Reuters",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPS0hIcVlXMlA3NVNtTzZiX2FBSlk0cmtyc2JCdnpNdlB2UFhUTFRWZ3dQZkU4TmtSdjNuWUJ1bm1NblMtWkR6Y3pwV09nRFlneGxBQi1IQWdfLWI2UDd4cGR2ZkJGcndXTy15dGxkMkpjNWd5OU1ZQ2w4X3hLWm16Q0xGd1hRaTFBZXI2UTdWaGNIYkg4SmVMRk55Tlg5c2NCcG95d205SmxWYVdOYW9MOVlQaGNJUlZLMDRxY05aaE5weDVEeFl5ajEwejNrZw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -813,7 +939,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1774462326,
+    "publishedAt": 1774462320,
     "analysis": {
       "version": 2,
       "generatedAt": 1774470202,
@@ -974,7 +1100,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1774447498,
+    "publishedAt": 1774447569,
     "analysis": {
       "version": 2,
       "generatedAt": 1774460787,
@@ -1009,6 +1135,29 @@
         "Uncertainty around the outcome of the talks",
         "Potential for increased tensions if talks fail",
         "Dependence on regional economic activity"
+      ]
+    }
+  },
+  {
+    "id": "7694641",
+    "headline": "ECB's Lagarde opens door to rate hikes if Iran conflict pushes up inflation - Reuters",
+    "summary": "ECB's Lagarde opens door to rate hikes if Iran conflict pushes up inflation  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcm9mNG8xc2lRUGJoOUpkRWRnREYzc3EyNGpNalRRdUVKYWsyUmdfWnpSbmlFOTF1d0FDSFE1bGdvYXlwNUgzX0VLSGt2Vm1jU1g3VFo0MWNxb3dlV2JwZkYwMEF3Y2dqaVdLNVVkeHRDLUVSYkdHMy1tMnJjWFpqU0hyUG81OE4yaFlTRG9TLXNRelY3SGwtN1pVVnNwcjFFMUpnX3NTcjR0STA1dDRwamN5bVY?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1774445269,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774447627,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "ECB President Lagarde hinted that the European Central Bank may raise interest rates if the Iran conflict leads to higher inflation. This statement is a response to the potential economic disruption caused by the conflict, which could increase energy prices and lead to higher inflation. The ECB has been cautious about raising rates, but the prospect of inflationary pressures may prompt a change in policy. The ECB's decision to raise rates would have significant implications for the European economy and the global markets.",
+      "impact": "The potential for rate hikes due to inflation concerns could lead to a short-term increase in bond yields, making it more expensive for companies to borrow money. This could negatively impact the earnings outlook for companies with high debt levels or those that rely heavily on cheap credit. In the medium term, a rate hike could also lead to a stronger euro, making European exports more expensive and potentially hurting companies that rely heavily on international trade. The impact on the overall market could be a shift in investor sentiment, with some investors rotating out of growth stocks and into more defensive sectors.",
+      "risks": [
+        "inflation risk",
+        "interest rate risk",
+        "currency risk"
       ]
     }
   },
@@ -1089,7 +1238,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1774442522,
+    "publishedAt": 1774442885,
     "analysis": {
       "version": 2,
       "generatedAt": 1774453862,
@@ -1147,6 +1296,29 @@
         "Global economic slowdown risk",
         "Decrease in investor sentiment risk",
         "Uncertainty surrounding the Iran war risk"
+      ]
+    }
+  },
+  {
+    "id": "7694308",
+    "headline": "Bernstein warns rupee could breach 98/USD, cuts Nifty target on Iran conflict risks - Reuters",
+    "summary": "Bernstein warns rupee could breach 98/USD, cuts Nifty target on Iran conflict risks  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVWE1Q01Va0JOYW5COENPbTFTNGZGdjF0cC11elBJOTRJOXpaUEVKM3F2Nk9VM1BtbmxSZkVOVFdDM3RubmZFaEZIVGtPYTZraGlxb3lsVEJEaUZzak0xdXU1X2FiZG5IbF9yUmVmUEJBQ0dmUzkxZ1NJSHBUdndzNDRHOFVVcmRKdWd4RE15azZzMmpGWGFxWC1oRlZEOE43VlhFU0pYSnVoR19Bb1RpZmd5aWdKdDNXNW43RmxlVXYwZEJI?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1774434369,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774442125,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Bernstein, a leading equity research firm, has warned that the Indian rupee could breach the 98/USD level due to the escalating tensions between the US and Iran. This development is a result of the US's decision to impose sanctions on Iran, which has led to a surge in oil prices and a subsequent decline in the rupee. The rupee has already depreciated by 1.5% against the US dollar in the past week. The Nifty index, a benchmark for Indian stocks, has been cut by Bernstein due to the increased risk of a weaker rupee, which could negatively impact corporate earnings and investor sentiment. The Indian economy is heavily reliant on oil imports, and a strong US dollar could lead to a significant increase in the cost of imports, thereby affecting corporate earnings and profitability.",
+      "impact": "The potential breach of 98/USD could lead to a short-term decline in the Nifty index, as investors become risk-averse and sell their holdings. In the medium-term, a weaker rupee could lead to a decline in corporate earnings, particularly for companies with high import costs, such as those in the oil and gas sector. The increased uncertainty surrounding the rupee could also lead to a decline in investor sentiment, making it challenging for companies to raise capital through equity issuances. The impact on the Indian economy could be significant, leading to a decline in economic growth and a potential recession.",
+      "risks": [
+        "Currency risk",
+        "Economic slowdown risk",
+        "Investor sentiment risk"
       ]
     }
   },
@@ -1262,52 +1434,6 @@
         "Global economic downturn risk",
         "Changes in global oil prices risk",
         "Turkey's economic instability risk"
-      ]
-    }
-  },
-  {
-    "id": "7694641",
-    "headline": "ECB's Lagarde opens door to rate hikes if Iran conflict pushes up inflation - Reuters",
-    "summary": "ECB's Lagarde opens door to rate hikes if Iran conflict pushes up inflation  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcm9mNG8xc2lRUGJoOUpkRWRnREYzc3EyNGpNalRRdUVKYWsyUmdfWnpSbmlFOTF1d0FDSFE1bGdvYXlwNUgzX0VLSGt2Vm1jU1g3VFo0MWNxb3dlV2JwZkYwMEF3Y2dqaVdLNVVkeHRDLUVSYkdHMy1tMnJjWFpqU0hyUG81OE4yaFlTRG9TLXNRelY3SGwtN1pVVnNwcjFFMUpnX3NTcjR0STA1dDRwamN5bVY?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1774428397,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1774447627,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "ECB President Lagarde hinted that the European Central Bank may raise interest rates if the Iran conflict leads to higher inflation. This statement is a response to the potential economic disruption caused by the conflict, which could increase energy prices and lead to higher inflation. The ECB has been cautious about raising rates, but the prospect of inflationary pressures may prompt a change in policy. The ECB's decision to raise rates would have significant implications for the European economy and the global markets.",
-      "impact": "The potential for rate hikes due to inflation concerns could lead to a short-term increase in bond yields, making it more expensive for companies to borrow money. This could negatively impact the earnings outlook for companies with high debt levels or those that rely heavily on cheap credit. In the medium term, a rate hike could also lead to a stronger euro, making European exports more expensive and potentially hurting companies that rely heavily on international trade. The impact on the overall market could be a shift in investor sentiment, with some investors rotating out of growth stocks and into more defensive sectors.",
-      "risks": [
-        "inflation risk",
-        "interest rate risk",
-        "currency risk"
-      ]
-    }
-  },
-  {
-    "id": "7694308",
-    "headline": "Bernstein warns rupee could breach 98/USD, cuts Nifty target on Iran conflict risks - Reuters",
-    "summary": "Bernstein warns rupee could breach 98/USD, cuts Nifty target on Iran conflict risks  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVWE1Q01Va0JOYW5COENPbTFTNGZGdjF0cC11elBJOTRJOXpaUEVKM3F2Nk9VM1BtbmxSZkVOVFdDM3RubmZFaEZIVGtPYTZraGlxb3lsVEJEaUZzak0xdXU1X2FiZG5IbF9yUmVmUEJBQ0dmUzkxZ1NJSHBUdndzNDRHOFVVcmRKdWd4RE15azZzMmpGWGFxWC1oRlZEOE43VlhFU0pYSnVoR19Bb1RpZmd5aWdKdDNXNW43RmxlVXYwZEJI?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1774427507,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1774442125,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Bernstein, a leading equity research firm, has warned that the Indian rupee could breach the 98/USD level due to the escalating tensions between the US and Iran. This development is a result of the US's decision to impose sanctions on Iran, which has led to a surge in oil prices and a subsequent decline in the rupee. The rupee has already depreciated by 1.5% against the US dollar in the past week. The Nifty index, a benchmark for Indian stocks, has been cut by Bernstein due to the increased risk of a weaker rupee, which could negatively impact corporate earnings and investor sentiment. The Indian economy is heavily reliant on oil imports, and a strong US dollar could lead to a significant increase in the cost of imports, thereby affecting corporate earnings and profitability.",
-      "impact": "The potential breach of 98/USD could lead to a short-term decline in the Nifty index, as investors become risk-averse and sell their holdings. In the medium-term, a weaker rupee could lead to a decline in corporate earnings, particularly for companies with high import costs, such as those in the oil and gas sector. The increased uncertainty surrounding the rupee could also lead to a decline in investor sentiment, making it challenging for companies to raise capital through equity issuances. The impact on the Indian economy could be significant, leading to a decline in economic growth and a potential recession.",
-      "risks": [
-        "Currency risk",
-        "Economic slowdown risk",
-        "Investor sentiment risk"
       ]
     }
   },
@@ -1632,8 +1758,8 @@
   },
   {
     "id": "7692508",
-    "headline": "Dollar rises, mirroring oil, on doubts over Iran ceasefire prospects - Reuters",
-    "summary": "Dollar rises, mirroring oil, on doubts over Iran ceasefire prospects  Reuters",
+    "headline": "Dollar firms as fading Middle East ceasefire hopes lift safe-haven demand - Reuters",
+    "summary": "Dollar firms as fading Middle East ceasefire hopes lift safe-haven demand  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcC0yZ3llWEdfenRkUXBGR2JoRGZHSXVjUnlxWDNpYmcxTWN2WWVkX0Y4QjhXMUVKYVVEVmpkRDRaejZfTUwxTUU5QlRMV2RWVFdSZWxJcVMyNE1BcS1rUE12UWx3VGJoREdIZkpUcFFUT216N1BlVTZoVjlqekZjbV9iazhub01mX041b3pFMTQ2aEdZbDg0NF9ndWRZQVZDT2xnVEZLQzJWcmRLOVFpOWlEMlFSRVFhMDlz?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -2025,7 +2151,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1774375727,
+    "publishedAt": 1774375777,
     "analysis": {
       "version": 2,
       "generatedAt": 1774387489,
@@ -22664,144 +22790,6 @@
         "Economic recession risk",
         "Increased volatility risk",
         "Decreased investor sentiment risk"
-      ]
-    }
-  },
-  {
-    "id": "7614961",
-    "headline": "We're making a small trim to boost our cash position in case the sell-off worsens",
-    "summary": "We're locking in some profits on a tech stock that faces headwinds away from the Iran war.",
-    "url": "https://www.cnbc.com/2026/03/09/were-making-a-small-trim-to-boost-our-cash-position-in-case-the-sell-off-worsens.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108273618-1772645235366-Traders-Photo-20260303-KK-PRESS-011.jpg?v=1772645343&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1773061837,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1773064413,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Jim Cramer's Charitable Trust is making a small trim in Cisco Systems (CSCO) to boost its cash position in case the sell-off worsens. The decision is driven by concerns that the Iran war could lead to further headwinds for the company. Despite Cisco's recent double-digit order growth, rising memory prices are expected to dip into its gross margins, potentially capping earnings per share upside. The Trust is selling 300 shares at $77.12, reducing its weighting in the portfolio to 1.25% from 1.85%.",
-      "impact": "The sale of CSCO shares could have a short-term negative impact on the stock price, potentially leading to a decline in the coming days. In the medium term, the reduced weighting in the portfolio may also affect Cisco's valuation and sentiment, as the Trust's ownership stake is now smaller. The decision to trim the position may also be seen as a sign of caution by investors, potentially leading to increased selling pressure on the stock.",
-      "risks": [
-        "Further decline in oil prices leading to increased demand for Cisco's products",
-        "Rising memory prices negatively impacting Cisco's gross margins",
-        "Increased competition in the tech sector leading to decreased demand for Cisco's products"
-      ]
-    }
-  },
-  {
-    "id": "7614960",
-    "headline": "Jim Cramer's top 10 things to watch in the stock market Monday",
-    "summary": "Oil is surging again, as there doesn't seem to be an end in sight to the Iran war.",
-    "url": "https://www.cnbc.com/2026/03/09/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108272297-1772483999549-gettyimages-2262961546-AFP_98WG8TN.jpeg?v=1773060860&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1773061394,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1773064461,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The ongoing Iran war is causing oil prices to surge, with WTI and Brent trading in the low-to-mid $100s per barrel. The G7 officials are discussing tapping their strategic oil reserves, which could help relieve some pressure on prices. This news is affecting stock futures, with Dow futures down over 500 points. Additionally, several earnings reports are scheduled this week, including Oracle's, which is expected to be critical for the market's perception of its massive AI data center buildout.",
-      "impact": "The surge in oil prices could lead to a sharply lower open on Wall Street, with potential short-term effects on stocks such as Oracle, which is already trading at a low valuation. The uncertainty surrounding oil prices may also impact banks, as they are an economically sensitive group. In the medium term, the ongoing conflict could lead to a decrease in consumer spending due to high pump prices, affecting companies like Starbucks. Additionally, the war may impact the earnings outlook for companies with exposure to the Middle East, such as Novo Nordisk, which is planning to sell its obesity drug Wegovy on a telehealth platform.",
-      "risks": [
-        "oil price volatility risk",
-        "economic slowdown risk due to high pump prices",
-        "earnings outlook risk for companies exposed to the Middle East"
-      ]
-    }
-  },
-  {
-    "id": "7616682",
-    "headline": "Ukraine seeks more talks, but Kyiv's partners focused on Iran, Zelenskiy says - Reuters",
-    "summary": "Ukraine seeks more talks, but Kyiv's partners focused on Iran, Zelenskiy says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV2lzYjc4UXZRNDFkVk1DeWc4d1hRX0JLSmJWbl8xeUlhRmhKTTMxb2w5clNVTkgxV1c2cHZZenI3YjVmWk9xbEpJdkhxclYzaExmNjZpenRSQmZHVkRiZXk5dnFvckZ5dHY4OUJHU0dzQ3lTdWQ5Qk1vUFc0OW5HdDZEdUg4cUkyNkhWZXN6ZDMxM0VsUmlGU1pLZUdwczZvWlczS1FOM0o0R2ItZS0tSHlwT1hkV3BJWm1ZX2xaYkI?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1773061121,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1773093751,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Ukrainian President Volodymyr Zelenskiy stated that Ukraine is seeking more talks with its partners, but they are currently focused on the Iran crisis. This development may indicate a shift in global priorities, potentially impacting Ukraine's diplomatic efforts and international relations. The situation remains complex, with multiple parties involved and competing interests. The article does not provide any direct information on business fundamentals or industry context, but it may be worth monitoring for potential implications on Ukraine's economy and international relations.",
-      "impact": "The potential impact on related stocks is uncertain, but a prolonged focus on the Iran crisis may lead to a decrease in investor interest in Ukrainian assets in the short term. This could result in decreased trading volumes and potentially lower stock prices. In the medium term, a resolution to the Iran crisis could lead to a shift in investor attention back to Ukraine, potentially boosting stock prices and investor sentiment. However, the timing and outcome of this shift are uncertain.",
-      "risks": [
-        "Decreased investor interest and trading volumes",
-        "Uncertainty around international relations and diplomatic efforts",
-        "Potential impact on Ukraine's economy and business environment"
-      ]
-    }
-  },
-  {
-    "id": "7615193",
-    "headline": "Turkey says NATO defences shot down second incoming Iranian missile - Reuters",
-    "summary": "Turkey says NATO defences shot down second incoming Iranian missile  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaHF5eER2d1VGSDRaYlo0bm0wSGhlcjMxZ2g5VzdHc2tjS3pVU0JBVkRtQ0kxMmMxX2ltOUhFdDlhZi1FR014enA2T1FJR2JmaXEyd3Q2Zjl3c1ZOaVZCb0lfX3IxbTZKS0FGT2FLVEhGdjNPSEdHSlVzanJyaXlCRXB5eDNranRpTXcwcTZCekNVSWlsWS1DQzgtRXhCby1JcXJjSFVBWVVDa21sS2xhSGxHbTRkT3V6Sl9PVlJrR3JNclRSbHNZSw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1773057987,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1773067388,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Turkey has confirmed that a second Iranian ballistic missile was shot down by NATO defences in the country's airspace. The incident occurred on the same day that a Russian defence system was activated in response to the first missile launch. The background to this event is the ongoing tensions between Iran and the West, particularly the US, over nuclear proliferation and regional security. The shooting down of the missile is a demonstration of NATO's military capabilities and its commitment to regional security. This event is likely to have a limited impact on the global economy and markets, but may have some implications for defence stocks and contractors.",
-      "impact": "The incident is unlikely to have a significant impact on the earnings outlook for defence stocks in the short term. However, it may lead to an increase in defence spending by NATO member countries, which could benefit defence contractors such as Lockheed Martin and Boeing. The medium-term impact will depend on the geopolitical developments in the region and the response of Iran and other countries involved. The event may also increase investor sentiment towards defence stocks, leading to a short-term rally in the sector.",
-      "risks": [
-        "geopolitical tensions escalation risk",
-        "defence spending uncertainty risk",
-        "investor sentiment volatility risk"
-      ]
-    }
-  },
-  {
-    "id": "7616365",
-    "headline": "Kuwait mourns two officials killed as Iran war rages - Reuters",
-    "summary": "Kuwait mourns two officials killed as Iran war rages  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc0tuQlNCWGtkby1xZTZBNFY2MGEwVXk0Q3Z3U3BYU3Q1akdjdl9GYlQ2cWEwVlRZZlZoT28zWS1adzlBZFJaMFRTRURDMjIyT3NaTzlIOHFZVHlwZDdoNW9VWEpZNjdXWUdTc21QT1psRzdVdWxoSE10NUxBRF9PRlozOG85VTBEX3BKT2dGZ1J0UkhMc3RrUFBiQnJJZjlGcVFfNmF3?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1773057782,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1773086779,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Kuwait is mourning the loss of two officials killed in the ongoing Iran war. The conflict has been escalating, with multiple countries involved. The situation remains volatile, with no clear resolution in sight. The war is likely to continue affecting regional stability and global energy markets. The impact on Kuwait's economy and the oil industry is uncertain, but the country's reliance on oil exports makes it vulnerable to fluctuations in global energy prices.",
-      "impact": "The ongoing conflict in the region may lead to increased volatility in the oil market, potentially benefiting oil-producing companies in the short term. However, the medium-term impact on Kuwait's economy and the oil industry is uncertain, and investors should be cautious of potential disruptions to global energy supplies. The war may also lead to increased military spending and defense contracts, potentially benefiting defense contractors in the region.",
-      "risks": [
-        "Regional instability risk",
-        "Global energy market volatility risk",
-        "Disruption to global energy supplies risk"
-      ]
-    }
-  },
-  {
-    "id": "7615302",
-    "headline": "Iran war fuels central bank rate hike bets on inflation fears - Reuters",
-    "summary": "Iran war fuels central bank rate hike bets on inflation fears  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZnpxakJEdmpqOERsSHJlMkxLYnRSdmMwUUF0ZUxJdWxEMGo5VEZsaDJvdTJ1eERDVnJXbV80aTBrcGtuZXBRX3lYb2JlR25NVmU3R1p6Z0NLdXdScWYxUUNTVVllbmpITC1xanM5bmZ0RmJpN3lSWjduSnV3YmJqWFdJMFhXbWNZZ0ZDWHVuR04xbDROZXpRc193YnY3WXpuNWpuSGxqd2Jtc2pVdU9v?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1773056547,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1773071029,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The news that an Iran war is fueling central bank rate hike bets on inflation fears indicates that the country's economic situation is deteriorating. This is likely due to the potential disruption to oil exports, which is a significant contributor to Iran's economy. The central bank's decision to raise interest rates is a response to the expected inflation, which could further exacerbate the economic situation. The rate hike is expected to have a negative impact on the country's currency, the rial, and the overall economy.",
-      "impact": "This news is likely to have a positive impact on the currencies of countries that are expected to benefit from a stronger US dollar, such as the US dollar itself, the euro, and the Swiss franc. The potential for higher interest rates in the US could also lead to a stronger US dollar, which could have a positive impact on US multinational corporations with significant international operations. However, the news could also lead to a negative impact on the Iranian rial and the country's economy, which could have a negative impact on companies with significant exposure to the country.",
-      "risks": [
-        "Increased inflation risk",
-        "Currency devaluation risk",
-        "Economic slowdown risk"
       ]
     }
   }
