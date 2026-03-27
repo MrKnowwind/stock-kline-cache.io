@@ -140,8 +140,8 @@
   },
   {
     "id": "7703756",
-    "headline": "Asian stocks pare losses as oil prices dip, Wall Street futures rise - Reuters",
-    "summary": "Asian stocks pare losses as oil prices dip, Wall Street futures rise  Reuters",
+    "headline": "Stocks resume slide as Trump extension fails to calm markets - Reuters",
+    "summary": "Stocks resume slide as Trump extension fails to calm markets  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMC05b2dRM21tR1hDUUgzWEx0aUZKMkgteDBFUDhEcTV4ZVlkOW1Wc2RXOTZ2dzBBTW9jcWdCeVBGdl90QURFTmxiall3M1RWckcxVkZVSDV1alMyR1NfSDN2ekZPTnlLbExIX0VoZkptMkZlMzBvNC16RnhMYjZmNEVvQUxPeDZq?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -415,6 +415,25 @@
     }
   },
   {
+    "id": "7703857",
+    "headline": "Is now the time to buy Nvidia? Cramer says ask these questions to arrive at an answer",
+    "summary": "The war in Iran has forced investors to act more like military strategists instead of stock-pickers, CNBC's Jim Cramer said Thursday.",
+    "url": "https://www.cnbc.com/2026/03/26/cramer-when-to-buy-nvidia.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/105670426-1547566811335cramer.jpg?v=1697496519&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1774563997,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774607631,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "CNBC's Jim Cramer suggests investors consider multiple factors before deciding whether to buy Nvidia, given the uncertainty surrounding the war in Iran. He recommends asking if the stock's decline is directly related to the war, considering interest rates, intrinsic reasons for Nvidia's performance, and the impact of oil prices. Cramer notes that Nvidia's data centers run on natural gas, which is not significantly affected by the conflict. He also highlights strong demand for Nvidia's products, citing the recent GTC conference. The war's uncertainty and potential for a weakening demand for Nvidia products are key factors to consider.",
+      "impact": "The potential impact on Nvidia is uncertain, but a prolonged war could lead to a further decline in the stock price due to increased borrowing costs and reduced demand. A strong demand picture and the company's ability to weather oil price fluctuations are positive factors. However, a weakening demand for Nvidia products, potentially driven by a decrease in sovereign capital from the Gulf, could also negatively impact the stock.",
+      "risks": []
+    }
+  },
+  {
     "id": "7702307",
     "headline": "Fed's Cook says the balance of risks has shifted toward inflation due to Iran war - Reuters",
     "summary": "Fed's Cook says the balance of risks has shifted toward inflation due to Iran war  Reuters",
@@ -468,7 +487,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1774560500,
+    "publishedAt": 1774560420,
     "analysis": {
       "version": 2,
       "generatedAt": 1774597776,
@@ -22820,29 +22839,6 @@
         "Increased competition from alternative energy sources",
         "Potential for a global economic slowdown due to higher oil prices",
         "Uncertainty around the duration and impact of the Iran conflict"
-      ]
-    }
-  },
-  {
-    "id": "7622833",
-    "headline": "Iran war has airlines reviewing growth plans as fuel surges",
-    "summary": "Iran's conflict prompts airlines to reconsider growth plans as fuel prices spike, impacting aircraft deals and travel demand.",
-    "url": "https://www.bloomberg.com/news/articles/2026-03-09/iran-war-has-airlines-reviewing-growth-plans-as-fuel-costs-surge",
-    "source": "Bloomberg",
-    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
-    "relatedSymbols": [],
-    "publishedAt": 1773115638,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1773210946,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Airlines are reassessing their growth plans due to the ongoing conflict in Iran, which has led to a surge in fuel prices. The increased fuel costs are expected to impact aircraft deals and travel demand, potentially affecting the airline industry's profitability. This development is significant, as airlines have been expanding their fleets and increasing capacity in recent years. The Iran conflict is a wildcard that could disrupt the airline industry's growth trajectory.",
-      "impact": "The potential impact on airlines is significant, with higher fuel costs expected to erode profit margins and potentially lead to a decline in earnings. In the short term, airlines may need to reevaluate their capacity expansion plans, which could lead to a reduction in aircraft orders and deliveries. Medium-term, the increased fuel costs could lead to higher ticket prices, potentially impacting demand and revenue. This could have a negative impact on airline stocks, particularly those with high fuel sensitivities, such as budget carriers.",
-      "risks": [
-        "Earnings slowdown risk due to higher fuel costs",
-        "Increased competition risk as airlines adjust capacity",
-        "Currency volatility risk due to potential changes in fuel prices"
       ]
     }
   }
