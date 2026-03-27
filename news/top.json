@@ -1,5 +1,51 @@
 [
   {
+    "id": "7705153",
+    "headline": "Here are our top and bottom stocks over the past month. Not much green on the board",
+    "summary": "The stock market has spent the past month starved of good news.",
+    "url": "https://www.cnbc.com/2026/03/27/here-are-our-top-and-bottom-stocks-over-the-past-month-not-much-green-on-the-board.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108281699-17742838672026-03-23t150035z_304214591_rc2caka5wlgu_rtrmadp_0_usa-stocks.jpeg?v=1774283926&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1774625592,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774629460,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The stock market has been impacted by the recent Iran-US conflict, leading to a surge in oil prices and a decline in stocks. This has resulted in a challenging environment for the tech sector, with CrowdStrike and Palo Alto Networks, which were previously top performers, falling by over 5% on Friday. Cisco Systems, which had been a beneficiary of the AI buildout boom, was also affected, but to a lesser extent. The ongoing shortage of memory is a wildcard for Cisco and its peers, potentially pressuring margins.",
+      "impact": "The recent market volatility and concerns about AI disruption are likely to impact the tech sector, particularly companies like CrowdStrike and Palo Alto Networks. The earnings outlook for these companies may be negatively affected due to the current market conditions. The surge in oil prices may also lead to inflation and economic growth fears, which could further pressure the stocks. In the medium term, the shortage of memory may continue to impact Cisco and its peers, affecting their margins and profitability.",
+      "risks": [
+        "AI disruption risk",
+        "Inflation risk due to rising oil prices",
+        "Economic growth slowdown risk"
+      ]
+    }
+  },
+  {
+    "id": "7704836",
+    "headline": "US uses hundreds of Tomahawk missiles on Iran, alarming some at Pentagon, WaPo reports - Reuters",
+    "summary": "US uses hundreds of Tomahawk missiles on Iran, alarming some at Pentagon, WaPo reports  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaWlEeG1iQ3BYdWtGQXlGT09ieHV5cTJic05XT3pHaWpHOWtFVTBhd3I0d0o2WlhlaUZpb3RCMXVhdi1RNXRUdkpuMjU4LWJOd3NISWlnRy1aMFVCTFNGNHZ3UUljQ1RYYXdrcTl1MkJ1aDJKdE9NUHBJUWtZZVNHRmJhMmtMMV9nR1FCZ3FsN09OOE01NDBHdUVLMjNZXzNZSGNkdmo3dmVua2M5dHV4b2l2MlRDSFJFTTlMbEpOZkZ4QVl0a0FWd0VnMDRKeVBwWVd2SA?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1774625532,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774623197,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The US military has launched a significant strike against Iran using hundreds of Tomahawk missiles, according to a Reuters report citing the Washington Post. This development has raised concerns among some Pentagon officials. The incident has significant implications for the global geopolitical landscape, particularly in the Middle East. The US military's actions may lead to a heightened state of tension in the region, which could have far-reaching consequences for international relations and global stability. The news comes at a time when the US is already engaged in a complex web of diplomatic and military operations in the region.",
+      "impact": "The potential impact on the related stocks is likely to be bearish in the short term, as the escalation of tensions in the Middle East could lead to increased volatility in the oil market. This, in turn, could negatively affect the earnings outlook for companies with significant exposure to the energy sector, such as oil and gas producers. The heightened state of tension may also lead to a decrease in investor sentiment, resulting in a decline in stock prices. In the medium term, the situation could lead to increased military spending, benefiting defense contractors such as Boeing (BA) and Lockheed Martin (LMT).",
+      "risks": [
+        "Escalation of tensions in the Middle East leading to increased military spending",
+        "Volatility in the oil market affecting energy sector earnings",
+        "Decreased investor sentiment leading to stock price declines"
+      ]
+    }
+  },
+  {
     "id": "7705047",
     "headline": "Iran-linked hackers breach FBI director's personal email, publish excerpts online - Reuters",
     "summary": "Iran-linked hackers breach FBI director's personal email, publish excerpts online  Reuters",
@@ -7,7 +53,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1774623186,
+    "publishedAt": 1774625500,
     "analysis": {
       "version": 2,
       "generatedAt": 1774625855,
@@ -17,6 +63,16 @@
       "impact": "The incident may have a medium-term negative impact on the cybersecurity industry, as it highlights the need for more robust security measures. Companies that provide cybersecurity solutions, such as Palo Alto Networks (PANW) and Cyberark (CYBR), may see increased demand for their services. However, the impact on these companies' stock prices may be limited in the short term, as the incident is not directly related to their operations. The incident may also have a negative impact on the reputation of the FBI and the US government, potentially affecting investor sentiment towards companies that rely on government contracts.",
       "risks": []
     }
+  },
+  {
+    "id": "7705152",
+    "headline": "These Americans are quitting before AI can take their jobs—and starting their own businesses: 'I just wanted to be in control'",
+    "summary": "Americans are incorporating new businesses in record numbers, as AI sweeps across many U.S. workplaces. That's not a coincidence, some new entrepreneurs say.",
+    "url": "https://www.cnbc.com/2026/03/27/how-ai-is-changing-american-entrepreneurship-small-business.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108283666-1774553407262-popup_by_Andrew_Lai.jpg?v=1774623968&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1774624491
   },
   {
     "id": "7705046",
@@ -49,7 +105,20 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/108283986-1774613188078-David_Fajgenbaum.jpg?v=1774614629&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1774622400
+    "publishedAt": 1774622400,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774629523,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Every Cure, a non-profit focused on drug repurposing, has developed an innovative approach to finding new treatments for rare diseases. By using AI to identify existing drugs that can be repurposed, they are challenging the traditional research model. This approach has already helped save the lives of over 1,000 patients and has the potential to revolutionize the treatment of rare diseases. The company's disease-agnostic approach has allowed them to avoid traditional fundraising challenges and focus on finding effective treatments. This could lead to significant advancements in the field of rare disease treatment.",
+      "impact": "The news is likely to have a positive impact on the biotech and pharmaceutical industries, particularly companies involved in rare disease treatment. This could lead to increased investment and research in the sector, potentially driving up valuations and earnings growth for companies involved. The use of AI in drug repurposing could also lead to increased efficiency and reduced costs, making it more attractive for companies to invest in this area.",
+      "risks": [
+        "regulatory approval risk",
+        "integration risk",
+        "scalability risk"
+      ]
+    }
   },
   {
     "id": "7704940",
@@ -94,29 +163,6 @@
         "Ongoing tensions in the Middle East",
         "Uncertainty about the long-term impact of the delay",
         "Potential for increased volatility in the short term"
-      ]
-    }
-  },
-  {
-    "id": "7704836",
-    "headline": "US uses hundreds of Tomahawk missiles on Iran, alarming some at Pentagon, WaPo reports - Reuters",
-    "summary": "US uses hundreds of Tomahawk missiles on Iran, alarming some at Pentagon, WaPo reports  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaWlEeG1iQ3BYdWtGQXlGT09ieHV5cTJic05XT3pHaWpHOWtFVTBhd3I0d0o2WlhlaUZpb3RCMXVhdi1RNXRUdkpuMjU4LWJOd3NISWlnRy1aMFVCTFNGNHZ3UUljQ1RYYXdrcTl1MkJ1aDJKdE9NUHBJUWtZZVNHRmJhMmtMMV9nR1FCZ3FsN09OOE01NDBHdUVLMjNZXzNZSGNkdmo3dmVua2M5dHV4b2l2MlRDSFJFTTlMbEpOZkZ4QVl0a0FWd0VnMDRKeVBwWVd2SA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1774621521,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1774623197,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The US military has launched a significant strike against Iran using hundreds of Tomahawk missiles, according to a Reuters report citing the Washington Post. This development has raised concerns among some Pentagon officials. The incident has significant implications for the global geopolitical landscape, particularly in the Middle East. The US military's actions may lead to a heightened state of tension in the region, which could have far-reaching consequences for international relations and global stability. The news comes at a time when the US is already engaged in a complex web of diplomatic and military operations in the region.",
-      "impact": "The potential impact on the related stocks is likely to be bearish in the short term, as the escalation of tensions in the Middle East could lead to increased volatility in the oil market. This, in turn, could negatively affect the earnings outlook for companies with significant exposure to the energy sector, such as oil and gas producers. The heightened state of tension may also lead to a decrease in investor sentiment, resulting in a decline in stock prices. In the medium term, the situation could lead to increased military spending, benefiting defense contractors such as Boeing (BA) and Lockheed Martin (LMT).",
-      "risks": [
-        "Escalation of tensions in the Middle East leading to increased military spending",
-        "Volatility in the oil market affecting energy sector earnings",
-        "Decreased investor sentiment leading to stock price declines"
       ]
     }
   },
@@ -256,6 +302,52 @@
         "inflation risk",
         "economic slowdown risk",
         "energy price volatility risk"
+      ]
+    }
+  },
+  {
+    "id": "7705261",
+    "headline": "Emerging economies' record debt spree slumps into a freeze as Iran war rocks markets - Reuters",
+    "summary": "Emerging economies' record debt spree slumps into a freeze as Iran war rocks markets  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZTFOMHFGa2U0cThFTXZPcnhCaTd6VGtkT1RlUVNneTNabzdiZUtaWXNuUlRSY25TTW0tRHlCS18zYzdrTW5SMjk0ekxJanJnbzVSQVpsMzU2YUhKNTBTcXVLRjZhYVd1SEc3MVdyeDlVWnZDV3U2ZmpMZXE4bDlaN28za2ttZUdQQVlTQXNCUVFaS1c3RHdBVHR0T01aVzlyR3hTb0NFT1h4Y0VwWjljUmlneGpzQnFtSW5MR1oxNzd0ZEJFZWlNaFhXVQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1774613747,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774629569,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The article reports that emerging economies' debt spree has come to a halt due to the ongoing Iran war, causing market uncertainty and volatility. This development is a significant concern for investors, as emerging markets have been a key driver of global economic growth. The freeze in debt issuance is expected to have a ripple effect on the global economy, particularly in industries that rely heavily on emerging market growth. The article highlights the interconnectedness of global markets and the potential for a broader economic downturn.",
+      "impact": "The Iran war and subsequent freeze in emerging market debt issuance are likely to have a negative impact on stocks with significant exposure to emerging markets. Investors may reassess their valuation multiples and earnings outlook for these stocks, potentially leading to a short-term decline in stock prices. The medium-term impact will depend on the duration of the conflict and the effectiveness of global economic stimulus measures. Investors should be prepared for increased volatility in emerging market stocks.",
+      "risks": [
+        "Global economic downturn risk",
+        "Increased volatility risk",
+        "Debt default risk in emerging markets"
+      ]
+    }
+  },
+  {
+    "id": "7705262",
+    "headline": "Cholera aid for African countries stalled by Iran conflict - Reuters",
+    "summary": "Cholera aid for African countries stalled by Iran conflict  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWDJkbWZqNGltZW81R2hLdXRiS2pJTm94UnhiajBEUEkxMGZSaVJoNGp4ek15NF9EOHI2ckM0Sjg3ODNGVG9nSE1pNU1PcEY2YVNrNTNMNjZWZHVOb1NwNkFwcm5kc25CMkpMNW1tLUpHZnZ0SF9lcVIyOHdVQml5ZHg4SnpGN2ZJWm5tSHRiMnk0VEozM1VJcmVJVHdqWUJFd2hDaXFIeTJrZkJCR24tREpFVkpsYmF5eE9fZkFRZ24zX1RS?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1774612173,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774629617,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The article reports that the Iran conflict has stalled cholera aid for African countries. Cholera outbreaks are a significant public health concern in Africa, particularly in countries with weak healthcare systems. The aid, which is crucial for containing the outbreaks, has been delayed due to the conflict. This has raised concerns about the potential for the disease to spread further. The situation is complex, with multiple stakeholders involved, including the World Health Organization (WHO) and various governments.",
+      "impact": "The news is unlikely to have a direct impact on the stock market in the short term. However, it may lead to increased volatility in the medium term as investors become more cautious about emerging market exposure. Companies operating in the healthcare sector, particularly those with operations in Africa, may see their valuations re-evaluated as investors reassess the risks associated with doing business in the region. This could lead to a short-term sell-off in these stocks, but may also present opportunities for long-term investors who are willing to take on the associated risks.",
+      "risks": [
+        "Increased volatility in emerging markets",
+        "Re-evaluation of healthcare sector valuations",
+        "Risks associated with doing business in Africa"
       ]
     }
   },
@@ -1912,7 +2004,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1774501440,
+    "publishedAt": 1774501677,
     "analysis": {
       "version": 2,
       "generatedAt": 1774511374,
@@ -22735,98 +22827,6 @@
         "geopolitical risk",
         "supply chain disruption risk",
         "economic slowdown risk"
-      ]
-    }
-  },
-  {
-    "id": "7619074",
-    "headline": "Stellantis taps Toyota, Bosch suppliers for hybrid technologies for new Jeeps",
-    "summary": "Jeep maker Stellantis is leaning on technologies from automotive suppliers for its newest hybrid vehicles, CNBC has learned.",
-    "url": "https://www.cnbc.com/2026/03/10/stellantis-jeep-hybrid-toyota-bosch.html",
-    "source": "CNBC",
-    "image": "",
-    "relatedSymbols": [],
-    "publishedAt": 1773136801,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1773138299,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Stellantis is partnering with Toyota and Bosch to integrate their hybrid technologies into its new Jeep vehicles, including the 2026 Cherokee and upcoming extended-range electric vehicles. This move reflects the growing demand for fuel-efficient vehicles and the automaker's efforts to regain market share in the US. By leveraging existing technologies, Stellantis can accelerate its hybrid offerings and potentially reduce capital costs. The partnerships demonstrate the increasing importance of hybrid vehicles in the market, even as all-electric vehicles face challenges.",
-      "impact": "The news is likely to have a positive impact on Stellantis' earnings outlook, as the company can quickly bring hybrid vehicles to market, potentially increasing sales and revenue. The partnerships may also improve Stellantis' valuation, as investors may perceive the company's ability to adapt to market trends as a strength. However, the success of the partnerships depends on the integration of the technologies and the overall demand for hybrid vehicles.",
-      "risks": [
-        "integration risk",
-        "demand slowdown risk",
-        "regulatory risk"
-      ]
-    }
-  },
-  {
-    "id": "7620533",
-    "headline": "ECB in no rush even if Iran war could alter outlook: policymakers - Reuters",
-    "summary": "ECB in no rush even if Iran war could alter outlook: policymakers  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS0FkY3R0dUpUeW1oOVd1MmE1d2F4YTJDeU90aFUxWXNlUEtyUlladmVwTWFVQzd6TENPVXZLRXVzeklQSDBuUXFMd1FSTTRXemM0UVZpMjBVOXRBaXBLX2FYQVE1UllrdDJKdmpETDAyeDdHMnNISHNjRVYxaGgzaFhvRmxRMERnX25taW8yY3hiaWFCWlhyMUxqUXBTVXc3OExDUzQxaThvbXcyNmxqc1FLQnJfTEdKRlRsQW9R?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1773135780,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1773164031,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The European Central Bank (ECB) has expressed a lack of urgency in responding to potential changes in the global economic outlook due to a possible war with Iran. This stance is attributed to policymakers who believe that the ECB is not in a rush to adjust its monetary policy in response to short-term economic fluctuations. The ECB's cautious approach is seen as a response to the uncertainty surrounding the potential conflict with Iran, which could have a significant impact on global trade and economic growth. The ECB's decision to remain calm is likely a result of its focus on long-term economic stability rather than short-term market volatility.",
-      "impact": "The news is unlikely to have a significant impact on the short-term performance of European banks, as the ECB's cautious approach suggests that it is not planning to make any immediate changes to its monetary policy. However, the potential for a war with Iran could lead to increased market volatility, which may negatively impact the stock prices of European banks in the medium term. The ECB's decision to remain calm may also suggest that the bank is not overly concerned about the potential economic impact of a war with Iran, which could be a positive sign for the European economy in the long term.",
-      "risks": [
-        "Increased market volatility due to potential war with Iran",
-        "Uncertainty surrounding global trade and economic growth",
-        "Potential impact on European banks' stock prices in the medium term"
-      ]
-    }
-  },
-  {
-    "id": "7623994",
-    "headline": "Renault plans lineup rich in EVs as fuel prices surge",
-    "summary": "The company, which aims to grow further in Latin America and India, said it will maintain a strong base in Europe using its own platforms to become more competitive",
-    "url": "https://www.bloomberg.com/news/articles/2026-03-10/renault-plans-lineup-rich-in-evs-as-fuel-prices-surge",
-    "source": "Bloomberg",
-    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
-    "relatedSymbols": [],
-    "publishedAt": 1773134450,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1773230782,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Renault plans to increase its electric vehicle (EV) offerings in response to surging fuel prices. This move aims to strengthen its position in Europe and expand into Latin America and India. The company will leverage its own platforms to become more competitive. This shift towards EVs is a strategic decision to adapt to the changing market and consumer preferences. The company's focus on EVs is a positive development for its long-term growth prospects.",
-      "impact": "The news is likely to have a positive impact on Renault's stock price in the medium term as the company's focus on EVs is expected to drive growth and increase its competitiveness. The shift towards EVs may also lead to increased demand for Renault's products, potentially driving up earnings and revenue. Additionally, the company's expansion into new markets such as Latin America and India may provide new opportunities for growth and increase its global presence.",
-      "risks": [
-        "execution risk",
-        "regulatory uncertainty in new markets",
-        "potential cannibalization of sales from existing internal combustion engine vehicles"
-      ]
-    }
-  },
-  {
-    "id": "7619529",
-    "headline": "Israel ahead of schedule on war goals in Iran, ambassador to France says - Reuters",
-    "summary": "Israel ahead of schedule on war goals in Iran, ambassador to France says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaWdhb3ZWVU9tbEFLRTNWZFI4cmlKeXQ5NmtETzV5bTZ1akttSlFXbEJnbjNiaHRUNUszM2Z1cC00RWs5UmJYbDU4dHNISUZBUUlRX09hektEOUhscEFTXzJZNkZoU1NITkZQdm5JWkExdHJwY1o2TnNIVmMtNi1aa0kwdDliaVkyWHhsY1E0Q3B1RnBvVUJaQ2x0QTNCWVdtdHFlaHg0eXhZaERtQVQwYVJVNA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1773133753,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1773153441,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Israel's ambassador to France stated that Israel is ahead of schedule in achieving its war goals in Iran. This development is significant as it suggests that the conflict may be resolving sooner than expected. The background is that Israel has been engaged in a military campaign against Iran's nuclear program, and the ambassador's comments imply that Israel's military efforts are yielding results. This could have implications for regional stability and global energy markets. The news may also impact the sentiment towards defense and aerospace companies involved in the conflict.",
-      "impact": "The news is likely to be positive for defense and aerospace companies involved in the conflict, such as Lockheed Martin and Northrop Grumman, as it suggests that their products and services are effective in achieving Israel's military goals. This could lead to increased demand for their products and services, potentially driving up their stock prices. The news may also have a positive impact on the earnings outlook for these companies, as they may benefit from increased defense spending. However, the medium-term impact is uncertain, as the conflict's resolution may lead to a decrease in defense spending and a shift in focus towards diplomacy and economic development.",
-      "risks": [
-        "Decrease in defense spending after conflict resolution",
-        "Shift in focus towards diplomacy and economic development",
-        "Uncertainty surrounding the conflict's outcome and its impact on regional stability"
       ]
     }
   }
