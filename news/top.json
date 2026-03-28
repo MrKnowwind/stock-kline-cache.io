@@ -107,6 +107,16 @@
     }
   },
   {
+    "id": "7707821",
+    "headline": "Brazil exporters reroute beef, chicken shipments to blunt Iran war impact - Reuters",
+    "summary": "Brazil exporters reroute beef, chicken shipments to blunt Iran war impact  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX1RYdl91c3ZkRDc5Sm1GLUp6cjdxYlhiY3pCY1dBaTVCNDZWSmpxcEpZQV9RRHdSWFFzaUNnci1peDQ3VTEtbzMtU3lXeUs0aG9vdXF5eF9fWWJUZkhtc0RkQzJsNEhNNmhvZWl4NjdVRzdsZzdnR2ItSkJQVFI5SDdvNVZwbHNkSHBKSl9nUVdsWTBnQXkwSVViU054djByV3AtN2EyZnlNZll6UHhqcXI3UEdUUVZzQ0J6Nw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1774648544
+  },
+  {
     "id": "7705047",
     "headline": "Iran-linked hackers breach FBI director's personal email, publish photos and documents - Reuters",
     "summary": "Iran-linked hackers breach FBI director's personal email, publish photos and documents  Reuters",
@@ -710,7 +720,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1774620456
+    "publishedAt": 1774620456,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774674839,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "European Commissioner for Economic and Financial Affairs, Valdis Dombrovskis, has warned that a potential war with Iran could lead to stagflation in the EU. Stagflation is a rare economic condition characterized by high inflation and stagnant economic growth. The warning comes as tensions between the US and Iran escalate, with the EU caught in the middle. The EU is heavily reliant on oil imports, and a conflict in the region could disrupt global oil supplies, leading to higher prices and inflation. This, in turn, could slow down economic growth and lead to stagflation.",
+      "impact": "The potential for stagflation in the EU could have a negative impact on European stocks, particularly those with high exposure to the energy sector. Companies with high debt levels or those with earnings sensitive to economic growth may see their valuations come under pressure. The EU's economic growth outlook may also be revised downward, leading to a decline in investor sentiment and a decrease in stock prices.",
+      "risks": [
+        "Oil price shock risk",
+        "Inflation risk",
+        "Economic growth slowdown risk"
+      ]
+    }
   },
   {
     "id": "7705579",
@@ -968,8 +991,8 @@
   },
   {
     "id": "7704289",
-    "headline": "Global equity funds see biggest inflows in 2-1/2 months on Iran de-escalation hopes - reuters.com",
-    "summary": "Global equity funds see biggest inflows in 2-1/2 months on Iran de-escalation hopes  reuters.com",
+    "headline": "Global equity funds see biggest inflows in 2-1/2 months on Iran de-escalation hopes - Reuters",
+    "summary": "Global equity funds see biggest inflows in 2-1/2 months on Iran de-escalation hopes  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa0dMVmp4OUtMelV0TDliUGdzZ0FmX25KMEZXN2FOVEdPaklQWkkzQng4VW9lTHNPVDk1ai0xTnIweDdQMHVNUXhQQnRtWURtQnFERm41bExkaE9vMmpneWoycnI0QVNXeWNxbk5sQWQ3NExqajNtdmpYYWItc1RKRjRR?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1762,6 +1785,29 @@
         "Increased diplomatic tensions with Iran",
         "Uncertainty over the success of the Hormuz mission",
         "Potential escalation of the conflict in the region"
+      ]
+    }
+  },
+  {
+    "id": "7699756",
+    "headline": "Gold falls as markets assess prospects of Iran ceasefire - Reuters",
+    "summary": "Gold falls as markets assess prospects of Iran ceasefire  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWFpTTlg5cFhoeURFbEJLb2IxamI3d24xQkxlT3V5NkhzOEdrVmFFdEVoSmVoVFNwTkJwRjZ2Q0ZKbExYQm9kcEV6UG94WUVjUFFwUHROQ1FnOWFJZ01hR0xvQjZiMVVCWlBYN2pONDNSbjBOdlJwQXpyZHZrN05xdEV3R3JSWndWM2tHMDJ1MGRQX0Z2SUVvSWE3dGU1YXc?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1774547356,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774554556,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Gold prices have fallen as markets assess the prospects of a ceasefire in Iran. The news of a potential ceasefire has led to a decrease in investor demand for safe-haven assets, such as gold, as the risk of conflict in the region has decreased. This has resulted in a decrease in gold prices. The background of the story is the ongoing tensions between Iran and the US, which have been a major driver of gold prices in recent months. The logical chain from the news to the business fundamentals is that a ceasefire would reduce the risk premium associated with gold, leading to lower prices.",
+      "impact": "The potential ceasefire in Iran is likely to have a negative impact on gold prices in the short term, as investor demand for safe-haven assets decreases. This could lead to lower earnings for gold mining companies, such as Barrick Gold and Newmont Goldcorp, as their revenue is directly tied to gold prices. The medium-term impact could be a re-evaluation of the gold sector's valuation, as investors reassess the sector's attractiveness in a lower-gold-price environment. This could lead to a decrease in stock prices for gold mining companies.",
+      "risks": [
+        "Decrease in investor demand for gold mining stocks",
+        "Lower earnings for gold mining companies",
+        "Re-evaluation of the gold sector's valuation"
       ]
     }
   },
@@ -2655,29 +2701,6 @@
         "Dependence on government incentives and policies for EV adoption",
         "Potential disruption to global oil markets and prices",
         "Competition from other alternative fuel options, such as hydrogen fuel cell vehicles"
-      ]
-    }
-  },
-  {
-    "id": "7699756",
-    "headline": "Gold falls as markets assess prospects of Iran ceasefire - Reuters",
-    "summary": "Gold falls as markets assess prospects of Iran ceasefire  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWFpTTlg5cFhoeURFbEJLb2IxamI3d24xQkxlT3V5NkhzOEdrVmFFdEVoSmVoVFNwTkJwRjZ2Q0ZKbExYQm9kcEV6UG94WUVjUFFwUHROQ1FnOWFJZ01hR0xvQjZiMVVCWlBYN2pONDNSbjBOdlJwQXpyZHZrN05xdEV3R3JSWndWM2tHMDJ1MGRQX0Z2SUVvSWE3dGU1YXc?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1774495140,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1774554556,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "Gold prices have fallen as markets assess the prospects of a ceasefire in Iran. The news of a potential ceasefire has led to a decrease in investor demand for safe-haven assets, such as gold, as the risk of conflict in the region has decreased. This has resulted in a decrease in gold prices. The background of the story is the ongoing tensions between Iran and the US, which have been a major driver of gold prices in recent months. The logical chain from the news to the business fundamentals is that a ceasefire would reduce the risk premium associated with gold, leading to lower prices.",
-      "impact": "The potential ceasefire in Iran is likely to have a negative impact on gold prices in the short term, as investor demand for safe-haven assets decreases. This could lead to lower earnings for gold mining companies, such as Barrick Gold and Newmont Goldcorp, as their revenue is directly tied to gold prices. The medium-term impact could be a re-evaluation of the gold sector's valuation, as investors reassess the sector's attractiveness in a lower-gold-price environment. This could lead to a decrease in stock prices for gold mining companies.",
-      "risks": [
-        "Decrease in investor demand for gold mining stocks",
-        "Lower earnings for gold mining companies",
-        "Re-evaluation of the gold sector's valuation"
       ]
     }
   },
@@ -22797,29 +22820,6 @@
         "Increased military spending and conflict risk",
         "Decline in investor confidence",
         "Potential decrease in tourism and trade in the region"
-      ]
-    }
-  },
-  {
-    "id": "7621173",
-    "headline": "Trump administration says cost of Iran war's first two days was $5.6 billion, source says - Reuters",
-    "summary": "Trump administration says cost of Iran war's first two days was $5.6 billion, source says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSUhBOWxzdDY3a3NiaW5KMHUtVDE0VG5JaDFLMU4tdl82VlNWY000dWdnaklCZGlvbE5xM1RTT2NCVU92dUFMNG9hYURFZ1BpVHhibkF5R2VmeUl1QnlpNnJMVmlLN0xueVRFdXM5R1F5dDNqZ1JhYU05clVtYWRNOTFhbkhVM2FCQzUtbzBFM29fWkt3aUllX0JqUVRRSUNxMkhZUjRYSDQwUExoMjdHMDFyd3VmaVlWR185ajYwdWw5TXB2OVNaZUpQWGthUQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1773159148,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1773176925,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The Trump administration has revealed that the cost of the first two days of the Iran war was $5.6 billion, according to a source. This news is a clear indication of the escalating tensions between the US and Iran, which may lead to a prolonged conflict. The war has the potential to disrupt global oil supplies, leading to higher oil prices and inflation. This could negatively impact the US economy, particularly the industries that rely heavily on oil, such as airlines, transportation, and manufacturing.",
-      "impact": "The potential for a prolonged conflict in the Middle East could lead to a short-term increase in oil prices, which may negatively impact the earnings outlook of companies that rely heavily on oil, such as airlines and transportation companies. In the medium term, the conflict could lead to a slowdown in economic growth, which may negatively impact the stock market as a whole. The news is likely to increase investor caution and reduce sentiment towards risky assets, including stocks.",
-      "risks": [
-        "oil price volatility risk",
-        "economic growth slowdown risk",
-        "geopolitical risk"
       ]
     }
   }
