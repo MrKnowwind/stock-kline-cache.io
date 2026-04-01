@@ -1,5 +1,74 @@
 [
   {
+    "id": "7730723",
+    "headline": "Eli Lilly secures long-awaited FDA approval for its obesity pill. Here's what to know",
+    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+    "url": "https://www.cnbc.com/2026/04/01/eli-lilly-secures-long-awaited-fda-approval-for-its-obesity-pill-heres-what-to-know.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108181909-1754418115081-gettyimages-2211055465-SPAIN_BIG_PHARMA.jpeg?v=1775069414&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1775069745,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1775072793,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Eli Lilly's once-daily GLP-1 pill, Foundayo, has received FDA approval for obesity treatment. This marks a significant development in the GLP-1 market, which has seen injectable versions soar in popularity. The introduction of oral versions is expected to expand the market to needle-adverse patients and serve as a maintenance therapy for those who started on weekly injectables. Lilly's shares rallied 5% on the news, indicating market optimism. The company has built up a stockpile of Foundayo to meet expected strong demand.",
+      "impact": "The approval of Foundayo is expected to drive sales growth for Eli Lilly, with analysts forecasting $1.55 billion in sales this year and $14.8 billion by 2030. This could positively impact Lilly's earnings outlook and valuation. Novo Nordisk, a rival in the oral GLP-1 space, may face increased competition and pressure on its shares. The development also highlights the growing importance of the GLP-1 market, which could benefit other players in the space.",
+      "risks": [
+        "Novo Nordisk's competitive response risk",
+        "Regulatory approval risk for Lilly's diabetes indication",
+        "Potential demand slowdown risk if patients prefer injectable GLP-1s"
+      ]
+    }
+  },
+  {
+    "id": "7730722",
+    "headline": "Walmart-owned Sam's Club raises its annual membership fee to $60",
+    "summary": "Sam's Club is hiking membership fees as its annual sales and membership grow and as high gas prices call attention to one of its key perks.",
+    "url": "https://www.cnbc.com/2026/04/01/sam.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108286163-1775067206811-gettyimages-2224015190-jr_14830_pr1mprv3.jpeg?v=1775067236&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1775069722,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1775072839,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Sam's Club, a Walmart subsidiary, is increasing its annual membership fee by $10 to $60 for basic membership and $120 for higher-tier membership. This move is aimed at supporting the benefits that members value, such as expanded hours, curbside pickup, and delivery options. The fee increase is in line with BJ's Wholesale Club and below Costco's fees. Sam's Club has seen growth in annual sales and membership, driven by its digital business and the appeal of lower gas prices.",
+      "impact": "The fee increase is expected to boost Sam's Club's annual income from subscriptions by over $200 million, translating to a two-cent lift in earnings per share for Walmart. This could positively impact Walmart's earnings outlook and valuation in the medium term. The increase in membership fees may also attract more customers to Sam's Club, potentially leading to increased sales and market share in the warehouse club segment.",
+      "risks": [
+        "Potential backlash from customers due to the fee increase",
+        "Increased competition from Costco and BJ's Wholesale Club",
+        "Uncertainty around the effectiveness of the fee increase in driving sales growth"
+      ]
+    }
+  },
+  {
+    "id": "7730724",
+    "headline": "Tiger Woods’ future in golf is uncertain as he faces recovery after Florida crash",
+    "summary": "The latest developments leave Woods at least temporarily at the fringes of the sport that made him a household name.",
+    "url": "https://www.cnbc.com/2026/04/01/tiger-woods-golf-future-uncertain-recovery-crash.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108284309-1774639658245-gettyimages-2268205788-ag019940_q5xx6ghu.jpeg?v=1774639701&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1775069323,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1775072890,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Tiger Woods, a golf legend and key figure in the golf industry, has announced he will be stepping back from golf to focus on his health after a car crash and DUI arrest. This development is uncertain in terms of timing and Woods' potential return to the sport. Woods' absence from golf could impact his various business ventures, including his apparel brand Sun Day Red and the TGL golf league, which he co-founded with Rory McIlroy. Woods' role as chairman of the PGA Tour's Future Competition Committee is also uncertain, as he will return to that role when he is ready. The golf community has rallied around Woods, with the PGA Tour offering its full support.",
+      "impact": "This news may have a negative impact on the stocks of companies associated with Tiger Woods, such as Sun Day Red, as his absence from the sport could affect brand visibility and sales. Additionally, the TGL golf league may experience a decline in interest and participation without Woods' involvement. The medium-term impact may be more significant if Woods decides to retire from golf, which could lead to a reevaluation of his business ventures and partnerships. The sentiment around the golf industry and related stocks may also be negatively affected by Woods' absence and potential retirement.",
+      "risks": [
+        "Brand visibility and sales risk for Sun Day Red",
+        "Partnership and revenue risk for TGL golf league",
+        "Retirement risk for Tiger Woods, potentially affecting his business ventures and partnerships"
+      ]
+    }
+  },
+  {
     "id": "7729656",
     "headline": "US to leave Iran 'pretty quickly' and return if needed, Trump tells Reuters - Reuters",
     "summary": "US to leave Iran 'pretty quickly' and return if needed, Trump tells Reuters  Reuters",
@@ -617,6 +686,29 @@
     }
   },
   {
+    "id": "7730728",
+    "headline": "New BOJ board member warns of stagflation risk from Iran war - Reuters",
+    "summary": "New BOJ board member warns of stagflation risk from Iran war  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLWdnYXV3WHYtM2RybXNzRUZlVGhyYmpSckIzRE43ZXVocHN3ektiYTluTmFRV3JuMk14aWw3X1Y5ZTNUM28xbkdkaGdRRHdxaVpLODBOQVh0aEVaeXV3QklWR1UzZXZPTkJzOGZURWliMlZvT25idTBVNHNYYVo2Z09fSVdIdnM0QUc2cWREMmhsOEVKdXVSdUF6cnRXOUh4UWRPXzlhZnZyZXc?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1775037163,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1775072936,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "A new Bank of Japan (BOJ) board member has warned of a stagflation risk due to the potential Iran war. Stagflation is a rare economic phenomenon where inflation rises while the economy contracts. The warning comes as tensions between the US and Iran escalate, with the US imposing new sanctions on Iran. The BOJ board member's warning suggests that the global economy may face a significant challenge if the conflict escalates, potentially leading to higher oil prices, reduced economic growth, and increased inflation.",
+      "impact": "The potential Iran war and subsequent stagflation risk may negatively impact Japanese and global companies with high exposure to oil prices, such as energy majors. This could lead to reduced profit margins and lower earnings outlook for these companies. The warning also suggests a potential increase in inflation, which could lead to higher interest rates and reduced consumer spending, further exacerbating the economic downturn. This could have a medium-term impact on the Japanese and global economy, leading to a decrease in stock prices and a reduction in investor sentiment.",
+      "risks": [
+        "Oil price shock risk",
+        "Economic contraction risk",
+        "Inflation risk"
+      ]
+    }
+  },
+  {
     "id": "7729311",
     "headline": "Bank of England says Iran war has boosted threats to financial stability - Reuters",
     "summary": "Bank of England says Iran war has boosted threats to financial stability  Reuters",
@@ -795,8 +887,8 @@
   },
   {
     "id": "7729180",
-    "headline": "Gold extends gains on softer dollar; focus remains on Iran war - Reuters",
-    "summary": "Gold extends gains on softer dollar; focus remains on Iran war  Reuters",
+    "headline": "Gold extends gains on softer dollar, focus on Iran war - Reuters",
+    "summary": "Gold extends gains on softer dollar, focus on Iran war  Reuters",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONnJidDM3QlJIWjFTanFlMGZNelE4SmlnZEJoLWlXYkFSRVotTG0zYXVwR3ZhQnRUMTQyVlU4cnBuRUd0U1M4dU4tWmM1RFdER0xOUUZ3d2tya2dMbi12Tm9heXNzSDZMcm1kaVFHdWVXVVUtcHYzUndhSVJtQUxnR2V2OG1kTlRFS0EwQktWYWlHMkVxek5XUHpidlp5eHFSUGx4Yg?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -2152,6 +2244,29 @@
     }
   },
   {
+    "id": "7723365",
+    "headline": "Exclusive: Vingroup proposes scrapping LNG-powered plant plan for renewables amid Iran war, document shows - Reuters",
+    "summary": "Exclusive: Vingroup proposes scrapping LNG-powered plant plan for renewables amid Iran war, document shows  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdzJyY1NBTnZiN0c3akduOEVzczM2dG9KM1Fudi02NXpSQ2VUbWluWHJLYTlSOF95cHdyMFYzYWRTSWMxZ1MyTzdGZkMzd3hkeEt0b2dfRXdNb3ZEbG1MM2FKTGlUTEJJUkpWcFdhX1VHUmhXYlI2RFlaOWVpc0pRTHBwMFNsanlnV040eEpXMTZ0dGgza3p1aFRHV05KY1A4SF83ZWZQVTBNaXA2Y0lDWDhRRnpaY1dDMzJuVDFycVR6bDRYVk9fSjZpbnRVQ3dXTE1JRUxFVVk?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1774939827,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774950450,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Vingroup, a Vietnamese conglomerate, is considering scrapping its plan to build a liquefied natural gas (LNG) powered plant due to the ongoing Iran-US conflict. This decision is likely driven by concerns over the increasing tensions and potential disruptions in global energy markets. The company's focus on renewable energy sources is a positive development for the environment and could potentially lead to cost savings. However, the decision's impact on Vingroup's financials and stock performance remains uncertain. The company's shift towards renewables may also create opportunities for growth in the clean energy sector.",
+      "impact": "The news may have a neutral to slightly positive impact on Vingroup's stock in the long term, as the company's focus on renewable energy could lead to cost savings and growth opportunities. However, the decision's short-term impact is uncertain and may be influenced by the ongoing Iran-US conflict and its effects on global energy markets. The shift towards renewables may also create opportunities for growth in the clean energy sector, potentially benefiting companies involved in this space.",
+      "risks": [
+        "uncertainty around the Iran-US conflict's impact on global energy markets",
+        "potential disruptions to Vingroup's supply chain and operations",
+        "execution risk in transitioning to renewable energy sources"
+      ]
+    }
+  },
+  {
     "id": "7723366",
     "headline": "Exclusive: German institutes cut 2026, 2027 growth forecasts, raise inflation outlook, sources say - Reuters",
     "summary": "Exclusive: German institutes cut 2026, 2027 growth forecasts, raise inflation outlook, sources say  Reuters",
@@ -2171,29 +2286,6 @@
         "Reduced consumer spending risk",
         "Decreased demand risk for consumer goods and services",
         "Lower earnings risk for companies reliant on consumer spending"
-      ]
-    }
-  },
-  {
-    "id": "7723365",
-    "headline": "Exclusive: Vingroup proposes scrapping LNG-powered plant plan for renewables amid Iran war, document shows - Reuters",
-    "summary": "Exclusive: Vingroup proposes scrapping LNG-powered plant plan for renewables amid Iran war, document shows  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdzJyY1NBTnZiN0c3akduOEVzczM2dG9KM1Fudi02NXpSQ2VUbWluWHJLYTlSOF95cHdyMFYzYWRTSWMxZ1MyTzdGZkMzd3hkeEt0b2dfRXdNb3ZEbG1MM2FKTGlUTEJJUkpWcFdhX1VHUmhXYlI2RFlaOWVpc0pRTHBwMFNsanlnV040eEpXMTZ0dGgza3p1aFRHV05KY1A4SF83ZWZQVTBNaXA2Y0lDWDhRRnpaY1dDMzJuVDFycVR6bDRYVk9fSjZpbnRVQ3dXTE1JRUxFVVk?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1774938840,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1774950450,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Vingroup, a Vietnamese conglomerate, is considering scrapping its plan to build a liquefied natural gas (LNG) powered plant due to the ongoing Iran-US conflict. This decision is likely driven by concerns over the increasing tensions and potential disruptions in global energy markets. The company's focus on renewable energy sources is a positive development for the environment and could potentially lead to cost savings. However, the decision's impact on Vingroup's financials and stock performance remains uncertain. The company's shift towards renewables may also create opportunities for growth in the clean energy sector.",
-      "impact": "The news may have a neutral to slightly positive impact on Vingroup's stock in the long term, as the company's focus on renewable energy could lead to cost savings and growth opportunities. However, the decision's short-term impact is uncertain and may be influenced by the ongoing Iran-US conflict and its effects on global energy markets. The shift towards renewables may also create opportunities for growth in the clean energy sector, potentially benefiting companies involved in this space.",
-      "risks": [
-        "uncertainty around the Iran-US conflict's impact on global energy markets",
-        "potential disruptions to Vingroup's supply chain and operations",
-        "execution risk in transitioning to renewable energy sources"
       ]
     }
   },
@@ -22704,94 +22796,6 @@
         "Potential escalation of conflict in the region",
         "Impact on defense industry stocks"
       ]
-    }
-  },
-  {
-    "id": "7635933",
-    "headline": "Eaton finalizes a smart acquisition to advance its AI data center ambitions",
-    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-    "url": "https://www.cnbc.com/2026/03/13/eaton-finalizes-a-smart-acquisition-to-advance-its-ai-data-center-ambitions.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108258146-1769606687386-gettyimages-2257996787-META_DATA_CENTER.jpeg?v=1769606706&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1773424701,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1773426102,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Eaton has finalized its acquisition of Boyd Thermal for $9.5 billion, expanding its presence in the AI data center market. The deal brings Eaton's liquid cooling solutions to the company, which is expected to see unprecedented growth driven by the increasing power requirements of AI chips. This acquisition is part of Eaton's strategy to increase its exposure to the data center market, which will further increase next year after the spin-off of its Mobility unit. The company's CEO emphasized the growth potential of the liquid cooling market during the Q3 earnings call.",
-      "impact": "The acquisition of Boyd Thermal is expected to have a positive impact on Eaton's earnings outlook, as the liquid cooling market is expected to see significant growth. This could lead to an increase in the company's valuation, especially if the spin-off of its Mobility unit is successful. The deal may also have a positive impact on the overall data center market, which could benefit other companies in the industry.",
-      "risks": [
-        "Integration risk: The successful integration of Boyd Thermal's liquid cooling solutions with Eaton's existing business could be challenging.",
-        "Competition risk: The data center market is highly competitive, and Eaton may face competition from other companies, such as Schneider Electric and ABB, which also offer liquid cooling solutions.",
-        "Economic downturn risk: A downturn in the economy could impact the demand for data center infrastructure and negatively affect Eaton's business."
-      ]
-    }
-  },
-  {
-    "id": "7636253",
-    "headline": "California hit by much higher oil prices as Iran war stresses refiners - Reuters",
-    "summary": "California hit by much higher oil prices as Iran war stresses refiners  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ1ZiZGxPc0c5YkU2eVBLeFlIeDc0RDhlUHBadnAtaTFlZjkwYTZVaWFZbm93QzVyOEc2b0FPV1psa1k4dkpHV3Jza1ZjVmhaRDZha19UY2pYQVQ1ZnJjUHdFeGw2TXpXZnlzc012VTd3aC1YSHNXM0wxYmNwMVd4Wk9YdGg0d1hpdFJIOVRfWTJud2swSy1FQjZGZ2Zyc25OVjFCY2VvYWhLWmtPSlhIMldTWTROanlEV2d3?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1773421432,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1773432197,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "California's oil refiners are facing higher costs due to tensions with Iran, which has led to increased oil prices. This is because Iran's oil exports have been disrupted, causing a shortage of oil supplies. As a result, refiners in California are struggling to meet their refining capacity, leading to higher production costs. This is a significant concern for the oil refining industry, particularly for companies that rely heavily on imported oil.",
-      "impact": "The potential impact on the oil refining industry is significant, with higher production costs likely to lead to reduced profit margins. This could lead to a decline in earnings for oil refiners, particularly those with high debt levels or limited financial flexibility. In the short-term, oil refiners may see a decline in stock prices as investors adjust to the new reality. In the medium-term, companies that can adapt to the changing market conditions may see opportunities to increase their market share or improve their financial performance.",
-      "risks": [
-        "Increased production costs risk",
-        "Reduced profit margins risk",
-        "Decline in earnings risk"
-      ]
-    }
-  },
-  {
-    "id": "7635716",
-    "headline": "Nvidia may soon unveil a brand-new AI chip. A closer look at the $20 billion bet to make it happen",
-    "summary": "At its GTC conference, Nvidia is expected to share some of its vision for incorporating technology from AI chip startup Groq.",
-    "url": "https://www.cnbc.com/2026/03/13/a-closer-look-at-nvidias-20-billion-bet-on-tech-for-a-new-ai-chip.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108248473-1767650745948-gettyimages-2254217619-AFP_89PZ9WQ.jpeg?v=1773372877&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1773420921,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1773422608,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Nvidia is expected to unveil a new AI chip at its GTC conference, incorporating technology from chip startup Groq. The company spent $20 billion to license Groq's technology and hire key employees, including its CEO. This move is seen as a strategic bet to dominate the inference market, a growing segment of the AI computing picture. Nvidia's GPUs are already the performance leader in the training stage of AI computing, but the inference market is more crowded and competitive. The new chip is expected to target the daily use of AI models, a process known as inference, which is a key source of revenue for Nvidia's data center customers.",
-      "impact": "The news is likely to have a positive impact on Nvidia's stock in the short-term, as it solidifies the company's position in the AI computing market and demonstrates its willingness to invest in innovation. The new chip could also increase Nvidia's market share in the inference market, leading to higher revenue and earnings growth. In the medium-term, the company's valuation may increase as investors price in the potential for future growth and market expansion.",
-      "risks": [
-        "integration risk: the successful integration of Groq's technology into Nvidia's ecosystem is crucial for the success of the new chip",
-        "competition risk: other companies, such as Advanced Micro Devices and Meta Platforms, are also competing in the inference market",
-        "execution risk: the development and launch of the new chip may be delayed or face technical challenges"
-      ]
-    }
-  },
-  {
-    "id": "7636355",
-    "headline": "Lured by profits, some shipowners brave mines and missiles to sneak oil past Iran - Reuters",
-    "summary": "Lured by profits, some shipowners brave mines and missiles to sneak oil past Iran  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQVF3UXpWbWItSWkzVi1kLWVlaVE4bUExQ25oa2FpMkJHcHZIQzhJX2ZvZHBYVDhoSHNtQVpCZnpVUnpXSnNQUlB4bm13ckxva2o4SWpmMzdhU1BxVThKSEV1WWc5UWhkU2FWcWtULUVHcFBUNEdVRjhkSERfblpaNVhxcjlkWndxRzNoanhZVVYxbDhzMmZRX1JIVTRQcjU1dkYtM0NGaDd2TDRNbHE1NkpJaXVJYzFpMm9US3lwcERtWTQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1773419966,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1773436763,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Shipowners are taking risks to transport oil past Iran, driven by profits. This increases the likelihood of accidents and disruptions in the oil supply chain. The situation is a result of Iran's efforts to circumvent US sanctions. This development may lead to increased costs and volatility in the oil market.",
-      "impact": "The news is likely to have a positive impact on oil prices in the short term, as supply disruptions increase. This could lead to a boost in earnings for oil majors and shipping companies involved in the transportation of oil. However, the increased risk of accidents and disruptions may also lead to higher costs and reduced investor confidence in the long term.",
-      "risks": []
     }
   }
 ]
