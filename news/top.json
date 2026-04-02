@@ -1,13 +1,36 @@
 [
   {
+    "id": "7734745",
+    "headline": "Regional sports networks are faltering even as ratings soar",
+    "summary": "A group of regional sports networks is set to wind down, marking the demise of a once lucrative business that's faced significant pressure.",
+    "url": "https://www.cnbc.com/2026/04/02/regional-sports-networks-are-faltering-even-as-ratings-soar.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108286259-1775076186992-gettyimages-2269310711-rs__5297_v6vm08h5.jpeg?v=1775076201&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1775140857,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1775144613,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Regional sports networks (RSNs) are facing significant pressure due to the decline of the pay TV bundle and the shift to streaming. Main Street Sports, a major RSN operator, is winding down its operations, and MLB teams are taking over their own media distribution. This marks the end of the RSN model, which has propped up professional sports leagues with fees from networks hosting games. The demise of RSNs will likely have a negative impact on the media and broadcasting industry, as well as the sports leagues that relied on these fees.",
+      "impact": "The decline of RSNs will likely lead to a decrease in earnings for media companies that have invested in these networks, such as Sinclair Broadcast Group and Nexstar Media Group. The loss of revenue from RSNs will also impact the valuation of these companies, making them more attractive to potential buyers. Additionally, the shift to streaming will lead to increased competition for sports content, potentially reducing the value of sports broadcasting rights. In the short term, this may lead to a decline in stock prices for media companies, while in the medium term, it may lead to a re-evaluation of the industry's business model.",
+      "risks": [
+        "decline of pay TV bundle risk",
+        "increased competition from streaming services risk",
+        "decrease in sports broadcasting rights value risk"
+      ]
+    }
+  },
+  {
     "id": "7733955",
-    "headline": "SNAPSHOT Wall St opens lower after Trump's comments dent Iran resolution hopes - Reuters",
-    "summary": "SNAPSHOT Wall St opens lower after Trump's comments dent Iran resolution hopes  Reuters",
+    "headline": "Wall St drops over 1% after Trump's comments dent Iran resolution hopes - Reuters",
+    "summary": "Wall St drops over 1% after Trump's comments dent Iran resolution hopes  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORzZMOVRDU0NuWFBVVHF2MEtHZWVrMEpRRU9OTzRiRk1sYkF1YmFaelI1S2dWa0pBZ0NOZmVXS20tZ3Vrek1kUnhUNE9ObjhMbExSU1J3Z0dpdkVQLXQtZ3A0RU9Bd0ktcTNER1FCdnRRZU9LT0RDR21ELTRVLUVtdGxJOW1iNzduYk5QMG91NTNGSDVVeFhSZzJoS2ZiMVdlTmVKU2NqQml4N1VDb054eEtfNA?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1775136775,
+    "publishedAt": 1775139301,
     "analysis": {
       "version": 2,
       "generatedAt": 1775129630,
@@ -19,6 +42,29 @@
         "Increased volatility in the oil market",
         "Decline in investor sentiment",
         "Potential decrease in liquidity for affected stocks"
+      ]
+    }
+  },
+  {
+    "id": "7734860",
+    "headline": "Britain says 40 countries discuss reopening Strait of Hormuz after Iran blockade - Reuters",
+    "summary": "Britain says 40 countries discuss reopening Strait of Hormuz after Iran blockade  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX2wteXFwajNBQUdCX0xBSmZ2bi02Nld6dERJODNsQVozQVgxVzhxTDlkdXNBN0dWby1lSGpxWjJ0YTF0OHdSRFY0M1RXUEJJWHNiWlZRcDNhUF9MUTdhMEVHWW9qZGR6SkhpcGwyNmRKZHlGR2ZwMHNuS2VIa3pFVmw3cUFxX1BkQlctRnRuNzV5YXRSTlVKeEY0dk15RklyM0RCQjNfUlJnX1pMZ3g5NmxOTjVrVHI3Z3RIV28xRW8?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1775138383,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1775144665,
+      "sentiment": "bullish",
+      "confidence": 0.7,
+      "summary": "The UK has announced that 40 countries are discussing the reopening of the Strait of Hormuz following Iran's blockade. This development is a positive sign for global oil traders as the Strait of Hormuz is a critical shipping route for oil exports. The blockade has already led to increased oil prices, and a reopening could alleviate supply chain disruptions. The Strait's reopening would likely lead to lower oil prices, benefiting oil consumers and energy companies. The news also highlights the international community's efforts to resolve the crisis.",
+      "impact": "The reopening of the Strait of Hormuz could lead to lower oil prices in the short term, benefiting oil consumers and energy companies. This could positively impact oil-related stocks such as ExxonMobil (XOM), Chevron (CVX), and Royal Dutch Shell (RDSB). In the medium term, a stable oil market could lead to increased investor confidence, driving up stock prices. However, the situation remains uncertain, and any escalation of tensions could lead to a negative impact on the oil market.",
+      "risks": [
+        "Escalation of tensions between Iran and the international community",
+        "Potential for further disruptions to global oil supplies",
+        "Uncertainty surrounding the outcome of the Strait's reopening"
       ]
     }
   },
@@ -323,8 +369,8 @@
   },
   {
     "id": "7732913",
-    "headline": "Oil prices surge, allies discuss securing Hormuz, after Trump vows to step up Iran attacks - Reuters",
-    "summary": "Oil prices surge, allies discuss securing Hormuz, after Trump vows to step up Iran attacks  Reuters",
+    "headline": "Allies discuss Hormuz flows after Trump's vow to step up Iran attacks brings new oil price surge - Reuters",
+    "summary": "Allies discuss Hormuz flows after Trump's vow to step up Iran attacks brings new oil price surge  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOclFYSC10dV9USHVJSkFHbk5lZzk3U2daVHJPOWFwNnNsajFua2RQMzVfamRIOVR3dmRLUlI2Q2JlcDM5Z2g1MnNwcTM3VUFuS05PMjI5OGFMUGV6azlOenFvRnZtY2hvNkZaZTBYTFhVVDBidkFrUVVvYVY3elN2amxwLS1iNDBrVlVYcDRCdzBFbVlJcEp5SlFoOG0xZ0JfSnQxY215ekVhR0ZKSm9BZFRkdEx0LU0zeEsydDVvb3lRZw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -369,8 +415,8 @@
   },
   {
     "id": "7732497",
-    "headline": "Gold slides sharply as oil surges on dimming hopes of end to Iran war - Reuters",
-    "summary": "Gold slides sharply as oil surges on dimming hopes of end to Iran war  Reuters",
+    "headline": "Gold drops on stronger dollar, rising bets on higher interest rates - Reuters",
+    "summary": "Gold drops on stronger dollar, rising bets on higher interest rates  Reuters",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTk4wOW81aTBRQ0ZZb1hWQ29rU1poTnpvTVpReFlEZEZBOFE3WUxjemhtNnRyN1lDRi1qMzFuamtQd25XX0hpSTk1MjRHeU5uejhzT0NJem5NNTA5cFV2NFZveTlTMndUVHFoQllTZ1hpUmNDRl9Kc0NqeGhqSk9wQ2c4S3d0ajF2SVd1RlE5MUw0SUpHTnJ1clBtZGRQQQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -22742,52 +22788,6 @@
         "regional conflict risk",
         "geopolitical uncertainty risk",
         "earnings outlook uncertainty"
-      ]
-    }
-  },
-  {
-    "id": "7644442",
-    "headline": "Oil poised for further gains as Middle East conflict threatens export facilities - Reuters",
-    "summary": "Oil poised for further gains as Middle East conflict threatens export facilities  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVHlOVVdNbmk2elRIdUVBLWJQMG55cC1DRjhlVGxyeldiZ3Z0QjZ6bEluQ0dSZFlXaEZ2Ul9uTklOd1lMd0ZyZkR6Sl9HY3p0bEFnSlNBbVNFU3FqMU9tMnMyVHNVVTZmQmR5d1J4bndPblF0YU05dXVEejVZWHlWSHFJOGxJamk2Y2lyTGNvT2JwMldyM05lRUZKVUFMOC1LR1pHM2NpeFg0c1Q3OXZ5OTJOWks4MkoyMjI0cWx5alpVRXc?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1773565982,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1773581825,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "A Middle East conflict is threatening export facilities, which could lead to supply chain disruptions and higher oil prices. This is a result of the ongoing tensions in the region, with multiple countries involved. The conflict is expected to impact oil production and exports, potentially leading to a surge in oil prices. The situation is fluid and developing, with multiple parties involved, and the outcome is uncertain.",
-      "impact": "The potential impact on oil-related stocks is likely to be positive in the short term, with a surge in oil prices potentially leading to increased earnings for oil producers. This could lead to a re-rating of oil stocks, with a potential increase in valuation multiples. The medium-term impact is uncertain, but a prolonged conflict could lead to a sustained increase in oil prices, benefiting oil producers. The sector's liquidity may improve as investors seek safe-haven assets.",
-      "risks": [
-        "Escalation of the conflict leading to a significant increase in oil prices and a prolonged impact on the sector",
-        "Uncertainty around the outcome of the conflict and its impact on oil production and exports",
-        "Potential for a decline in oil prices if the conflict is resolved quickly and supply chain disruptions are minimized"
-      ]
-    }
-  },
-  {
-    "id": "7645253",
-    "headline": "Gulf equities edge lower as Iran war enters third week - Reuters",
-    "summary": "Gulf equities edge lower as Iran war enters third week  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSWxlRXpjUGt3OEdlcmUwcUhiaUNJNExNR2NUVUllUzVZYzlwVzJEa1Q4RTZYRFR6T2I2WTlZSXMtVE1WVmtKNmVab0JNWmdqTXpteVlUazZsR1pwaFRkaHFIMWZYNHM2TWJicDFYWEtMLTh4NndPbHNaUGhEcnJGdVhYcFVNb0djZXZpY0gtM3lHeklxNXdSNVpGSU9xYzU3WDRrVzVnTnc?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1773564797,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1773597724,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The ongoing Iran war has led to a decline in Gulf equities, with the conflict entering its third week. The war has created uncertainty and volatility in the region, affecting investor sentiment and market confidence. The Gulf region is a key player in the global energy market, and the war has raised concerns about oil production and prices. The conflict has also led to increased tensions between the US and Iran, which could have broader implications for the global economy.",
-      "impact": "The ongoing war in the Gulf region is likely to have a negative impact on the stock prices of companies with significant exposure to the region, such as oil and gas producers. In the short-term, investors may be cautious and reduce their exposure to these stocks, leading to a decline in prices. However, in the medium-term, the war could lead to increased oil prices, benefiting oil producers and potentially offsetting the negative impact on their stock prices. The war also raises concerns about the stability of the region, which could have a negative impact on the overall economic outlook and investor sentiment.",
-      "risks": [
-        "Increased oil prices risk",
-        "Regional instability risk",
-        "Global economic slowdown risk"
       ]
     }
   }
