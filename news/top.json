@@ -70,8 +70,8 @@
   },
   {
     "id": "7732497",
-    "headline": "Gold prices retreat as Trump threatens further attacks on Iran - Reuters",
-    "summary": "Gold prices retreat as Trump threatens further attacks on Iran  Reuters",
+    "headline": "Gold prices slump as Trump threatens more attacks on Iran - Reuters",
+    "summary": "Gold prices slump as Trump threatens more attacks on Iran  Reuters",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTk4wOW81aTBRQ0ZZb1hWQ29rU1poTnpvTVpReFlEZEZBOFE3WUxjemhtNnRyN1lDRi1qMzFuamtQd25XX0hpSTk1MjRHeU5uejhzT0NJem5NNTA5cFV2NFZveTlTMndUVHFoQllTZ1hpUmNDRl9Kc0NqeGhqSk9wQ2c4S3d0ajF2SVd1RlE5MUw0SUpHTnJ1clBtZGRQQQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -256,7 +256,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1775085304,
+    "publishedAt": 1775087916,
     "analysis": {
       "version": 2,
       "generatedAt": 1775033350,
@@ -315,6 +315,25 @@
         "Potential for a short-term market correction if the resolution is not sustained",
         "Uncertainty about the long-term impact of the resolution on the US-Iran relationship"
       ]
+    }
+  },
+  {
+    "id": "7733731",
+    "headline": "Jim Cramer warns rally lacks real leadership as AI-driven gains fail to inspire confidence",
+    "summary": "Cramer says the market's rebound lacks broad leadership, driven mainly by a narrow group of AI-related data center stocks, rather than diversified growth.",
+    "url": "https://www.cnbc.com/2026/04/01/cramer-rally-lacks-real-leadership-as-ai-driven-gains-fail-to-inspire-confidence.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/107200472-1677528554272-NUP_200782_00307.jpg?v=1696515962&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1775083851,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1775123479,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Jim Cramer expressed concerns about the recent market rally, stating that it lacks broad leadership and is driven mainly by a narrow group of AI-related data center stocks. He notes that these stocks are rising due to constrained supply rather than strong execution. Cramer contrasts this with companies like Nvidia, which he sees as true growth leaders. He also highlights concerns about Microsoft's ability to capitalize on its dominant position and the lack of participation from retail stocks, financials, and homebuilders.",
+      "impact": "The lack of broad leadership in the market rally could lead to a short-term pullback in stocks that have benefited from the AI-driven gains, such as data center-related companies. In the medium term, this could impact earnings outlook for these companies, as investors may reassess their valuations. Additionally, the lack of participation from other sectors could indicate a broader economic confidence issue, which could weigh on sentiment and liquidity in the market.",
+      "risks": []
     }
   },
   {
@@ -586,29 +605,6 @@
     }
   },
   {
-    "id": "7730937",
-    "headline": "A war meant to break Iran could leave Tehran stronger, and Gulf exposed - Reuters",
-    "summary": "A war meant to break Iran could leave Tehran stronger, and Gulf exposed  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTXpyZ0FBdkhCMjlBSVIyZmNldVdraGhZYUpFVG5raGk0YmNJc1pfSmFqSTlHYWtHY0pabmRCMnd4QlBha0JtWlZlRktJLVhoa1p4MWx2VHJpXy1wdTNEQThDZjBjRWZwMVdCcjAtTURRR0dZbGd2elRkVEFqZW5tS2N1ZnBuUmM4azBDdGZGZXplQXJCbzRjWDBvS3FPdmJnU1JiYVdHSVNuV3Zsb3gwTExHNFRVZw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1775067824,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1775079033,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "A potential war between Iran and its adversaries could lead to Iran emerging stronger due to its ability to mobilize its population and economy in the face of external threats. This could result in increased domestic support and a surge in nationalist sentiment, potentially strengthening the government's grip on power. The Gulf region, which relies heavily on oil exports, could be exposed to significant economic disruption and instability in the event of a war. This could lead to a decline in oil prices, negatively impacting the earnings of oil-producing companies in the region.",
-      "impact": "The potential for a war in the region could lead to a short-term decline in oil prices, negatively impacting the earnings of oil-producing companies such as Saudi Aramco and other Gulf-based energy companies. In the medium term, the increased instability and geopolitical tensions could lead to a decrease in investor sentiment and a decline in stock prices for companies with significant exposure to the region, such as airlines and logistics companies.",
-      "risks": [
-        "decline in oil prices",
-        "decrease in investor sentiment",
-        "instability in the Gulf region"
-      ]
-    }
-  },
-  {
     "id": "7731885",
     "headline": "New mediators emerge in Iran war - Reuters",
     "summary": "New mediators emerge in Iran war  Reuters",
@@ -628,6 +624,29 @@
         "instability in the region",
         "uncertainty around the outcome",
         "potential setbacks in negotiations"
+      ]
+    }
+  },
+  {
+    "id": "7730937",
+    "headline": "A war meant to break Iran could leave Tehran stronger, and Gulf exposed - Reuters",
+    "summary": "A war meant to break Iran could leave Tehran stronger, and Gulf exposed  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTXpyZ0FBdkhCMjlBSVIyZmNldVdraGhZYUpFVG5raGk0YmNJc1pfSmFqSTlHYWtHY0pabmRCMnd4QlBha0JtWlZlRktJLVhoa1p4MWx2VHJpXy1wdTNEQThDZjBjRWZwMVdCcjAtTURRR0dZbGd2elRkVEFqZW5tS2N1ZnBuUmM4azBDdGZGZXplQXJCbzRjWDBvS3FPdmJnU1JiYVdHSVNuV3Zsb3gwTExHNFRVZw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1775062800,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1775079033,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "A potential war between Iran and its adversaries could lead to Iran emerging stronger due to its ability to mobilize its population and economy in the face of external threats. This could result in increased domestic support and a surge in nationalist sentiment, potentially strengthening the government's grip on power. The Gulf region, which relies heavily on oil exports, could be exposed to significant economic disruption and instability in the event of a war. This could lead to a decline in oil prices, negatively impacting the earnings of oil-producing companies in the region.",
+      "impact": "The potential for a war in the region could lead to a short-term decline in oil prices, negatively impacting the earnings of oil-producing companies such as Saudi Aramco and other Gulf-based energy companies. In the medium term, the increased instability and geopolitical tensions could lead to a decrease in investor sentiment and a decline in stock prices for companies with significant exposure to the region, such as airlines and logistics companies.",
+      "risks": [
+        "decline in oil prices",
+        "decrease in investor sentiment",
+        "instability in the Gulf region"
       ]
     }
   },
@@ -1901,6 +1920,29 @@
         "Geopolitical risks associated with alternative energy routes",
         "Increased competition from domestic oil producers",
         "Potential disruptions to global oil supply chains"
+      ]
+    }
+  },
+  {
+    "id": "7722203",
+    "headline": "Global equities rebound on de-escalation hopes, ending a weak month - Reuters",
+    "summary": "Global equities rebound on de-escalation hopes, ending a weak month  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSFpFa2w2RThZdlhMcVJrdmpGcWFHd3JwamR6c3RWRmhXZGNkMm93N3p2N2VKY0lHbjI2Z3BwcW9ZUGZoZ0cteEFVeUV0LVFkVmhBWUhtRUt0Z045OWxWbEF4NWtjczdXazdFMHdaOVA1b1piTUtPUWZBNDFXMlR2RUJNOA?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1774994207,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1774931077,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Brent crude prices are on track to record a monthly gain due to ongoing tensions in the Middle East, particularly in Iran. The conflict has led to a surge in oil prices, benefiting energy companies. The rise in oil prices is a positive indicator for energy stocks, which are likely to see increased profitability. The situation in Iran has been escalating, with the US imposing sanctions and Iran retaliating, creating a volatile environment for the oil market.",
+      "impact": "The increase in oil prices is expected to boost the earnings of energy companies, particularly those with significant exposure to the oil and gas sector. This could lead to a short-term rally in energy stocks, with potential medium-term benefits for companies with strong production and exploration capabilities. However, the ongoing conflict in the Middle East also increases the risk of supply disruptions, which could negatively impact oil prices and energy stocks in the long term.",
+      "risks": [
+        "Supply disruption risk",
+        "Geopolitical risk",
+        "Economic downturn risk"
       ]
     }
   },
@@ -3263,29 +3305,6 @@
         "Escalation of the conflict in the Middle East",
         "Disruption to energy flows and oil prices",
         "Economic uncertainty and slowdown in global demand"
-      ]
-    }
-  },
-  {
-    "id": "7722203",
-    "headline": "Global equities rebound on de-escalation hopes, ending a weak month - Reuters",
-    "summary": "Global equities rebound on de-escalation hopes, ending a weak month  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSFpFa2w2RThZdlhMcVJrdmpGcWFHd3JwamR6c3RWRmhXZGNkMm93N3p2N2VKY0lHbjI2Z3BwcW9ZUGZoZ0cteEFVeUV0LVFkVmhBWUhtRUt0Z045OWxWbEF4NWtjczdXazdFMHdaOVA1b1piTUtPUWZBNDFXMlR2RUJNOA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1774920960,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1774931077,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Brent crude prices are on track to record a monthly gain due to ongoing tensions in the Middle East, particularly in Iran. The conflict has led to a surge in oil prices, benefiting energy companies. The rise in oil prices is a positive indicator for energy stocks, which are likely to see increased profitability. The situation in Iran has been escalating, with the US imposing sanctions and Iran retaliating, creating a volatile environment for the oil market.",
-      "impact": "The increase in oil prices is expected to boost the earnings of energy companies, particularly those with significant exposure to the oil and gas sector. This could lead to a short-term rally in energy stocks, with potential medium-term benefits for companies with strong production and exploration capabilities. However, the ongoing conflict in the Middle East also increases the risk of supply disruptions, which could negatively impact oil prices and energy stocks in the long term.",
-      "risks": [
-        "Supply disruption risk",
-        "Geopolitical risk",
-        "Economic downturn risk"
       ]
     }
   },
@@ -22769,29 +22788,6 @@
         "stagflation risk",
         "oil price volatility risk",
         "earnings outlook risk"
-      ]
-    }
-  },
-  {
-    "id": "7640605",
-    "headline": "Israel and Lebanon expected to hold direct talks in coming days, Haaretz reports - Reuters",
-    "summary": "Israel and Lebanon expected to hold direct talks in coming days, Haaretz reports  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT2czVDJYR3BycWhzTFlvdzlGWVZQZXFfREE0dDhockdWRUV5MzRlR3FiSEFtWnMyZkZxRzFrdUZhMjdlNVJyeVZuMnN4YjBYRVBCcGNJOUVvb3RSQVY3cFFpSlBtdEpiUGphQjBjeV9iS0U1YlpSVk8tSU9WNE1TVGk3ZjU3aWZleHI2TFFFcmZZc21tMm5Lai1hOWRNMHJPTFdiRFVlZ3JyNUxjZmNwMW1jVUoyOG1pQmc?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1773502007,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1773513682,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "Israel and Lebanon are expected to hold direct talks in the coming days, according to a report by Haaretz. This development is a positive step towards resolving the long-standing conflict between the two countries. The talks are expected to focus on issues such as border disputes and security arrangements. The news is a positive signal for regional stability, which could have a positive impact on the economies of both countries. However, the outcome of the talks is uncertain and may take time to materialize.",
-      "impact": "The news is likely to have a positive impact on the Israeli defense and aerospace industries, as a resolution to the conflict could lead to increased investment and trade between the two countries. However, the short-term impact on the stock market may be limited, as the talks are still in their early stages and the outcome is uncertain. The medium-term impact could be more significant, as a resolution to the conflict could lead to increased economic cooperation and investment in the region.",
-      "risks": [
-        "Uncertainty surrounding the outcome of the talks",
-        "Potential for a prolonged negotiation process",
-        "Risk of a setback in the peace process"
       ]
     }
   }
