@@ -1,5 +1,51 @@
 [
   {
+    "id": "7739197",
+    "headline": "United unveils basic Polaris business fare in premium cabin overhaul",
+    "summary": "United is overhauling its fare classes, offering cheaper business class and premium economy fares that are more restrictive.",
+    "url": "https://www.cnbc.com/2026/04/03/united-base-polaris-business-class.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108286844-1775152692469-IMG_7892_1.jpg?v=1775154774&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1775217301,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1775219395,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "United Airlines is introducing a new tiered fare structure for its Polaris business class and premium economy cabins, offering cheaper 'Base' options with restrictions. This move is part of a broader industry trend to segment front-of-the-plane cabins, mirroring the economy class segmentation that occurred over the past decade. The new fares will be available in select markets initially, with expansion to other routes later this year. The move aims to appeal to price-conscious travelers while maintaining revenue from those willing to pay more for premium amenities. United's Polaris overhaul includes new suites with sliding doors and bigger screens, which may attract more customers to the premium class.",
+      "impact": "The introduction of tiered fares may increase revenue for United Airlines, particularly from price-sensitive customers willing to sacrifice some amenities for a lower price. However, the more restrictive Base Polaris fare may lead to customer dissatisfaction and negative word-of-mouth, potentially impacting future sales. In the short term, the move may not have a significant impact on United's stock price, but it could influence the airline's earnings outlook and valuation in the medium term. The industry trend of segmenting premium cabins may also lead to increased competition, potentially affecting airline stocks in the long term.",
+      "risks": [
+        "customer dissatisfaction risk",
+        "increased competition risk",
+        "earnings outlook uncertainty"
+      ]
+    }
+  },
+  {
+    "id": "7738080",
+    "headline": "Trump's anger over Iran thrusts NATO into fresh crisis - Reuters",
+    "summary": "Trump's anger over Iran thrusts NATO into fresh crisis  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS2liSDZHMVVtSHozdTMyejFlbDNQMVBSVU5JR09Vb3FxUV9QVDRaUDdxdGxhcGxPaEU4WE0tN2l2XzZILXVSck9lcF9UTDFWMGstcXhidklfOC04bUVCM1dtUDhKQjlfMnNtcFNRYjFVek9ONHhfOERBa0JyZnpsWFd3REtWSGxnYTcwdnhRbFFmTHNGSHRqZkZERU84S2tSTThDUG9tUHdiQ3pZb0lUVV9EY3BETU0?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1775211040,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1775202989,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "US-Iran tensions have escalated, with Trump's anger over Iran thrusting NATO into a fresh crisis. This development is a continuation of the ongoing conflict between the US and Iran, which has been simmering since the US withdrew from the Iran nuclear deal in 2018. The crisis has significant implications for global security and geopolitics. The US has imposed sanctions on Iran, and Iran has responded by attacking US interests and allies. NATO, as a collective defense alliance, is now drawn into the conflict, which could lead to a broader military confrontation.",
+      "impact": "The escalating tensions between the US and Iran could lead to a short-term increase in defense spending by NATO member countries, benefiting defense contractors such as Northrop Grumman (NOC) and Lockheed Martin (LMT). However, the medium-term impact could be negative for the global economy, as trade disruptions and potential military conflicts could lead to a slowdown in economic growth. The increased uncertainty and volatility in the region could also negatively impact oil prices, benefiting oil producers such as ExxonMobil (XOM) and Chevron (CVX).",
+      "risks": [
+        "Escalation of military conflict in the Middle East",
+        "Increased uncertainty and volatility in the global economy",
+        "Potential disruption to global supply chains"
+      ]
+    }
+  },
+  {
     "id": "7738690",
     "headline": "World food price rise set to continue if Iran war lasts, FAO says - Reuters",
     "summary": "World food price rise set to continue if Iran war lasts, FAO says  Reuters",
@@ -135,29 +181,6 @@
         "Escalation of the conflict leading to a broader regional war",
         "Uncertainty around the impact on global oil prices and the economy",
         "Potential backlash from Iran and its allies, including cyberattacks or other forms of retaliation"
-      ]
-    }
-  },
-  {
-    "id": "7738080",
-    "headline": "Trump's anger over Iran thrusts NATO into fresh crisis - Reuters",
-    "summary": "Trump's anger over Iran thrusts NATO into fresh crisis  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS2liSDZHMVVtSHozdTMyejFlbDNQMVBSVU5JR09Vb3FxUV9QVDRaUDdxdGxhcGxPaEU4WE0tN2l2XzZILXVSck9lcF9UTDFWMGstcXhidklfOC04bUVCM1dtUDhKQjlfMnNtcFNRYjFVek9ONHhfOERBa0JyZnpsWFd3REtWSGxnYTcwdnhRbFFmTHNGSHRqZkZERU84S2tSTThDUG9tUHdiQ3pZb0lUVV9EY3BETU0?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1775180132,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1775202989,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "US-Iran tensions have escalated, with Trump's anger over Iran thrusting NATO into a fresh crisis. This development is a continuation of the ongoing conflict between the US and Iran, which has been simmering since the US withdrew from the Iran nuclear deal in 2018. The crisis has significant implications for global security and geopolitics. The US has imposed sanctions on Iran, and Iran has responded by attacking US interests and allies. NATO, as a collective defense alliance, is now drawn into the conflict, which could lead to a broader military confrontation.",
-      "impact": "The escalating tensions between the US and Iran could lead to a short-term increase in defense spending by NATO member countries, benefiting defense contractors such as Northrop Grumman (NOC) and Lockheed Martin (LMT). However, the medium-term impact could be negative for the global economy, as trade disruptions and potential military conflicts could lead to a slowdown in economic growth. The increased uncertainty and volatility in the region could also negatively impact oil prices, benefiting oil producers such as ExxonMobil (XOM) and Chevron (CVX).",
-      "risks": [
-        "Escalation of military conflict in the Middle East",
-        "Increased uncertainty and volatility in the global economy",
-        "Potential disruption to global supply chains"
       ]
     }
   },
@@ -1106,7 +1129,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1775107080,
+    "publishedAt": 1775107260,
     "analysis": {
       "version": 2,
       "generatedAt": 1775148049,
@@ -22767,29 +22790,6 @@
         "loss of investor confidence",
         "decline in stock price",
         "decrease in liquidity"
-      ]
-    }
-  },
-  {
-    "id": "7652778",
-    "headline": "Bitcoin in Iran limbo as ‘old economy’ assets steal limelight",
-    "summary": "The original cryptocurrency is beating stocks and gold since the Iran war broke out, but that says more about how far it had already fallen than where it’s headed. The token is down more than 40% from an October peak",
-    "url": "https://www.bloomberg.com/news/articles/2026-03-16/bitcoin-btc-in-iran-limbo-as-old-economy-assets-steal-limelight",
-    "source": "Bloomberg",
-    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
-    "relatedSymbols": [],
-    "publishedAt": 1773637995,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1773730013,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Bitcoin's recent outperformance in Iran is largely due to its decline from an October peak, rather than a sign of its future prospects. The cryptocurrency has dropped over 40% since then, indicating a possible reversal in investor sentiment. The article suggests that 'old economy' assets are gaining attention in Iran, potentially at the expense of cryptocurrencies like Bitcoin. This shift in investor preference may be driven by the uncertainty and instability surrounding the Iran war.",
-      "impact": "The news may have a negative impact on Bitcoin's price in the short-term, potentially leading to a decline in its value. This could be driven by a decrease in investor sentiment and a shift towards more traditional assets. In the medium-term, the article's findings may also influence the broader cryptocurrency market, with a potential decrease in demand for Bitcoin and other digital currencies. The impact on related stocks, such as those in the financial services or technology sectors, is likely to be minimal.",
-      "risks": [
-        "Decrease in investor sentiment",
-        "Shift towards traditional assets",
-        "Uncertainty and instability in Iran"
       ]
     }
   }
