@@ -1,5 +1,28 @@
 [
   {
+    "id": "7755776",
+    "headline": "Jim Cramer says potential stock market bottom is tied to interest rates, not war headlines",
+    "summary": "CNBC's Jim Cramer said investors shouldn't get comfortable calling a market bottom just yet, because the real driver of this market isn't geopolitics.",
+    "url": "https://www.cnbc.com/2026/04/06/jim-cramer-stock-market-bottom-interest-rates-war.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/107083447-1656625604715-IMG_2027rb.jpg?v=1695422550&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1775514346,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1775517706,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "CNBC's Jim Cramer attributes the potential market bottom to interest rates, not geopolitics. He notes that the S&P 500 may have bottomed on March 30, driven by a shift in expectations after Federal Reserve Chair Jerome Powell signaled a hold on interest rate hikes. This led to a pullback in bond yields and stabilization of stocks, despite escalating tensions in the Middle East. Cramer emphasizes that the market still faces risks, including inflation pressures, geopolitical tensions, and potential weaker earnings outlooks.",
+      "impact": "The potential interest rate-driven market bottom may positively impact rate-sensitive sectors such as housing, banks, and utilities in the short term. However, the medium-term impact is uncertain, as inflation pressures and geopolitical tensions persist. Investors should be cautious of potential weaker earnings outlooks from companies in the coming weeks, which could lead to a re-evaluation of stock valuations.",
+      "risks": [
+        "inflation pressures",
+        "geopolitical tensions",
+        "weaker earnings outlooks"
+      ]
+    }
+  },
+  {
     "id": "7755571",
     "headline": "Broadcom agrees to expanded chip deals with Google, Anthropic",
     "summary": "Broadcom said it agreed to produce future versions of Google artificial intelligence chips, and announced an expanded deal with Anthropic.",
@@ -43,6 +66,29 @@
         "Leadership credibility risk",
         "Investor confidence risk",
         "Earnings outlook risk"
+      ]
+    }
+  },
+  {
+    "id": "7753274",
+    "headline": "JPMorgan's Dimon warns Iran war may drive inflation and interest rates higher - Reuters",
+    "summary": "JPMorgan's Dimon warns Iran war may drive inflation and interest rates higher  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOFItZ1lCRWJEZ3hkWlpnaGpFR0R3cTRtTTR5Z1dtemlwSVkxMzVFc3JVRUFpY1FMYzJQakRHLWo2Rl95SDJuN0ptWkhZbHhtdVU4emRLanFFS2kyZGcyQ2x1enJXM0pqa2hnYjNrUEVIMm5OTXdDejVDNFVZa3pTd01xZTZQbGJ4NVhyeXpDR3JWNHFsQ05iNlk5MmlNR3FFZldMZU5SS0xRaGM1TlFVdTMtZW9OUWxwVGdzdTNtcU5WYzg?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1775509851,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1775475384,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "JPMorgan's CEO Jamie Dimon warned that an Iran war could drive inflation and interest rates higher. This is because a conflict with Iran could disrupt global oil supplies, leading to higher oil prices and subsequently higher inflation. Higher inflation would likely lead to higher interest rates as central banks try to combat rising prices. This could have negative implications for the overall economy and the stock market.",
+      "impact": "The potential impact on the stock market could be significant, with higher interest rates and inflation leading to a decrease in consumer spending and business investment. This could negatively affect the earnings outlook for companies in various sectors, particularly those with high debt levels or sensitive to interest rates. The potential for higher interest rates could also lead to a decrease in liquidity in the market, making it more challenging for companies to access capital. In the short-term, the market may experience volatility and a decline in stock prices.",
+      "risks": [
+        "Higher interest rates risk",
+        "Inflation risk",
+        "Global economic downturn risk"
       ]
     }
   },
@@ -154,29 +200,6 @@
         "competitive risk from Nvidia and Marvell Technology partnership",
         "valuation risk due to market volatility",
         "integration risk of Thuener's transition"
-      ]
-    }
-  },
-  {
-    "id": "7753274",
-    "headline": "JPMorgan's Dimon warns Iran war may drive inflation and interest rates higher - Reuters",
-    "summary": "JPMorgan's Dimon warns Iran war may drive inflation and interest rates higher  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOFItZ1lCRWJEZ3hkWlpnaGpFR0R3cTRtTTR5Z1dtemlwSVkxMzVFc3JVRUFpY1FMYzJQakRHLWo2Rl95SDJuN0ptWkhZbHhtdVU4emRLanFFS2kyZGcyQ2x1enJXM0pqa2hnYjNrUEVIMm5OTXdDejVDNFVZa3pTd01xZTZQbGJ4NVhyeXpDR3JWNHFsQ05iNlk5MmlNR3FFZldMZU5SS0xRaGM1TlFVdTMtZW9OUWxwVGdzdTNtcU5WYzg?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1775498517,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1775475384,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "JPMorgan's CEO Jamie Dimon warned that an Iran war could drive inflation and interest rates higher. This is because a conflict with Iran could disrupt global oil supplies, leading to higher oil prices and subsequently higher inflation. Higher inflation would likely lead to higher interest rates as central banks try to combat rising prices. This could have negative implications for the overall economy and the stock market.",
-      "impact": "The potential impact on the stock market could be significant, with higher interest rates and inflation leading to a decrease in consumer spending and business investment. This could negatively affect the earnings outlook for companies in various sectors, particularly those with high debt levels or sensitive to interest rates. The potential for higher interest rates could also lead to a decrease in liquidity in the market, making it more challenging for companies to access capital. In the short-term, the market may experience volatility and a decline in stock prices.",
-      "risks": [
-        "Higher interest rates risk",
-        "Inflation risk",
-        "Global economic downturn risk"
       ]
     }
   },
@@ -1108,29 +1131,6 @@
     }
   },
   {
-    "id": "7747196",
-    "headline": "High-stakes US special forces mission rescues airman from Iran after F-15 crash - Reuters",
-    "summary": "High-stakes US special forces mission rescues airman from Iran after F-15 crash  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ3pvVXR4VlhVWDJPUkJaZVlrbkdzVjA5bVhkcWJST2VLZk8tTVd5VUNaTFJmVG1YRkpNWmZ4V0M2aFI2cmQtS1BSSWlMci1iTmJRZ1Z0VjJoaUdOMktaM1B1NEpubVEtUDJIZ2RLeG1pSERWMlZoNjNyeXM0UWxFR3FRX0ZwNXV0amRHSEpCcU54c3M4NVRsTXRSaUNyU00wX3NpenlpSHZ0bko5V2hOVV9LSnNjZw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1775424415,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1775367057,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "US officials have confirmed that a US airman was rescued from Iran after their F-15 fighter jet was downed. The incident occurred in a non-hostile environment, and the airman's safety is reported to be unharmed. This event is not directly related to any specific company or industry, but it may have implications for US-Iran relations and global geopolitics. The incident highlights the risks and challenges associated with military operations in sensitive regions. The rescue operation was reportedly successful, and the airman is being returned to the US.",
-      "impact": "The news is unlikely to have a direct impact on the stock market or specific companies, but it may lead to increased tensions between the US and Iran. This could potentially affect companies with exposure to the aerospace or defense industries, such as Boeing or Lockheed Martin, in the medium term. However, the impact is likely to be limited and short-term, and the companies' earnings outlook and valuation are unlikely to be significantly affected. The incident may also lead to increased defense spending, which could benefit companies in the industry.",
-      "risks": [
-        "Escalation of US-Iran tensions",
-        "Increased defense spending",
-        "Potential impact on aerospace and defense industry"
-      ]
-    }
-  },
-  {
     "id": "7750626",
     "headline": "How a perilous US rescue mission in Iran nearly went off course - Reuters",
     "summary": "How a perilous US rescue mission in Iran nearly went off course  Reuters",
@@ -1626,6 +1626,29 @@
     }
   },
   {
+    "id": "7747196",
+    "headline": "High-stakes US special forces mission rescues airman from Iran after F-15 crash - Reuters",
+    "summary": "High-stakes US special forces mission rescues airman from Iran after F-15 crash  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ3pvVXR4VlhVWDJPUkJaZVlrbkdzVjA5bVhkcWJST2VLZk8tTVd5VUNaTFJmVG1YRkpNWmZ4V0M2aFI2cmQtS1BSSWlMci1iTmJRZ1Z0VjJoaUdOMktaM1B1NEpubVEtUDJIZ2RLeG1pSERWMlZoNjNyeXM0UWxFR3FRX0ZwNXV0amRHSEpCcU54c3M4NVRsTXRSaUNyU00wX3NpenlpSHZ0bko5V2hOVV9LSnNjZw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1775362260,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1775367057,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "US officials have confirmed that a US airman was rescued from Iran after their F-15 fighter jet was downed. The incident occurred in a non-hostile environment, and the airman's safety is reported to be unharmed. This event is not directly related to any specific company or industry, but it may have implications for US-Iran relations and global geopolitics. The incident highlights the risks and challenges associated with military operations in sensitive regions. The rescue operation was reportedly successful, and the airman is being returned to the US.",
+      "impact": "The news is unlikely to have a direct impact on the stock market or specific companies, but it may lead to increased tensions between the US and Iran. This could potentially affect companies with exposure to the aerospace or defense industries, such as Boeing or Lockheed Martin, in the medium term. However, the impact is likely to be limited and short-term, and the companies' earnings outlook and valuation are unlikely to be significantly affected. The incident may also lead to increased defense spending, which could benefit companies in the industry.",
+      "risks": [
+        "Escalation of US-Iran tensions",
+        "Increased defense spending",
+        "Potential impact on aerospace and defense industry"
+      ]
+    }
+  },
+  {
     "id": "7746494",
     "headline": "Satellite firm Planet Labs to indefinitely withhold Iran war images - Reuters",
     "summary": "Satellite firm Planet Labs to indefinitely withhold Iran war images  Reuters",
@@ -1893,7 +1916,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1775314606,
+    "publishedAt": 1775314320,
     "analysis": {
       "version": 2,
       "generatedAt": 1775323000,
@@ -22734,29 +22757,6 @@
         "Increased conflict risk",
         "Global economic instability risk",
         "Oil price volatility risk"
-      ]
-    }
-  },
-  {
-    "id": "7657249",
-    "headline": "UAE central bank support package lifts lenders shaken by Iran war - Reuters",
-    "summary": "UAE central bank support package lifts lenders shaken by Iran war  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZUdiZmREZ2FMdk9rSlgzZFZJYjNudGNvUE5SRTRvMDNKX0tRcExkSmJBUkRicE9MZlpfVXlWdHNpTUY4TFdKMU9NUG94aU8zSnIyUExoMkI3WWc3aVhvWDdqMUxhNlY1QkRZUmJPdVVBTWpZd2lyLXlhTXg0SFJ3QXl5d0RnREdMZlZjVzExTk1KVElRQ21Pck9jYTR5NFNhLUpKbDBhV3lFRndpT1M0eUlJNWJjQQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1773781701,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1773811285,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The UAE central bank has launched a resilience package to mitigate the impact of the Iran crisis on the country's economy. The package includes measures to support banks, financial institutions, and businesses. The move is aimed at maintaining financial stability and confidence in the face of rising tensions with Iran. The UAE has significant trade and economic ties with Iran, and the crisis has raised concerns about the potential impact on the country's economy. The central bank's actions are a proactive response to the situation.",
-      "impact": "The news is likely to have a positive impact on the UAE banking sector in the short term, as the resilience package is expected to provide support to banks and financial institutions. This could lead to improved earnings outlook for banks in the UAE, particularly those with significant exposure to the country's economy. However, the medium-term impact is uncertain and will depend on the outcome of the Iran crisis and its effects on the UAE's economy. The package may also have a positive impact on the overall sentiment towards the UAE markets, which could lead to increased liquidity and investor confidence.",
-      "risks": [
-        "Escalation of the Iran crisis and its impact on the UAE's economy",
-        "Uncertainty about the effectiveness of the resilience package",
-        "Potential impact on the UAE's trade and economic ties with other countries"
       ]
     }
   }
