@@ -1,5 +1,28 @@
 [
   {
+    "id": "7758357",
+    "headline": "Novo Nordisk's explosive Wegovy pill launch draws a new wave of patients into GLP-1 weight loss treatment",
+    "summary": "CNBC spoke with five U.S. patients who recently started the pill following its launch and have varying initial experiences with the drug.",
+    "url": "https://www.cnbc.com/2026/04/07/novo-nordisks-wegovy-pill-launch-draws-new-wave-of-patients-to-glp-1s.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108253254-1768511651522-gettyimages-2255813461-WEGOVY_PILLS.jpeg?v=1775151970&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1775559601,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1775561998,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Novo Nordisk's Wegovy pill has seen an explosive demand with over 600,000 prescriptions written since its launch, largely drawing in new patients who were previously deterred by GLP-1 injections due to cost or needle phobia. This represents a significant expansion of the obesity treatment market, with patients like Jane Zuckerman losing weight and reporting positive experiences with the pill. The launch has not yet boosted Novo's stock price, however, as the company struggles to regain market share from Eli Lilly and convince investors of its pipeline potential. Analysts attribute the pill's success to its attractive entry price and connection to the well-known Wegovy brand.",
+      "impact": "The explosive demand for Wegovy is likely to have a positive impact on Novo Nordisk's revenue and earnings in the short term, driven by the high number of prescriptions written. However, the company's stock price has not yet reacted positively to this news, suggesting that investors are cautious about Novo's ability to sustain its market share and expand its pipeline. The launch of Eli Lilly's competing pill, Foundayo, could potentially disrupt Novo's sales in the medium term.",
+      "risks": [
+        "regulatory approval risk for Eli Lilly's Foundayo",
+        "market share erosion risk from Eli Lilly's entry",
+        "pipeline risk: Novo's ability to sustain growth beyond existing products"
+      ]
+    }
+  },
+  {
     "id": "7758251",
     "headline": "ASML shares fall after proposed U.S. export curbs target an already fragile China market",
     "summary": "Proposed U.S. restrictions would target ASML's deep ultraviolet (DUV) lithography machine, which Chinese companies have so far been able to access.",
@@ -19,29 +42,6 @@
         "China sales slowdown risk",
         "Regulatory uncertainty risk",
         "Geopolitical overhang risk"
-      ]
-    }
-  },
-  {
-    "id": "7757625",
-    "headline": "It's time to end the world's delusions over the Iran energy crisis - reuters.com",
-    "summary": "It's time to end the world's delusions over the Iran energy crisis  reuters.com",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdzJfcFA4c3pLSVpLbkFjOFpYQUgzNzRBZl9UQjNVSHJZemRjRXh0eV95bjZ3cENKN1dsNFF1bXpKSHdCTzRlRVkySXNMbUN6cXdJb2F4UTRkdnFHbWk4alZiLXlMRWtjdWk5a2lSeFVYMEFfMk95Smo2aTNJdlBoQlpYUGVEcC1pLXdiZVctUFBoaXJhMUE5MXhsc0J1ZmZET3hmVmtQR2Y?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1775556532,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1775555476,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "The article from Reuters argues that the world's concerns over the Iran energy crisis are overblown. The author suggests that Iran's oil production has been resilient and has not significantly impacted global oil markets. The article points out that Iran's oil exports have been reduced due to US sanctions, but this has been offset by increased production from other countries. The author concludes that the crisis is not as severe as perceived, and the market's fears are unwarranted. The article does not provide specific details on the oil industry or companies, but rather focuses on the broader geopolitical context.",
-      "impact": "The article's conclusion that the Iran energy crisis is not as severe as perceived may lead to a short-term bullish sentiment in the energy sector, as investors may reassess their expectations and reduce their caution. However, this may also lead to a medium-term bearish sentiment as investors may become complacent and overlook potential risks. The impact on specific stocks will depend on their exposure to the energy sector and their individual risk profiles.",
-      "risks": [
-        "Potential for increased US-Iran tensions and subsequent sanctions",
-        "Uncertainty around global oil demand and prices",
-        "Risk of unexpected disruptions to global oil supply"
       ]
     }
   },
@@ -70,8 +70,8 @@
   },
   {
     "id": "7758150",
-    "headline": "UK services firms report surge in costs, fading optimism as Iran war takes toll - reuters.com",
-    "summary": "UK services firms report surge in costs, fading optimism as Iran war takes toll  reuters.com",
+    "headline": "UK services firms report surge in costs, fading optimism as Iran war takes toll - Reuters",
+    "summary": "UK services firms report surge in costs, fading optimism as Iran war takes toll  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWWtuSFp0WjZfSmdKLWgtS0xRdUc0dFFRQ1c4SHNaeC14QVNsSFFFTjJBbEVIMHNMMk5rbThTTEpWb3JqdUt3WWtBT0p4bWgtU09JeW1nVXJXV0dGbWZsQkJuNTRHeWg2aVVIWmRPczVDNmN2X25tazBGOWI4UjBoMnFycjJFMXRTZU1hM19TQlV1cjlDb2tzSWowckFXRHFnYTlvdTRHVGtHaDFQaVEwYURVVXhLZ2t1?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -93,8 +93,8 @@
   },
   {
     "id": "7757834",
-    "headline": "Iran war jeopardizes U.S. global leadership, warns Italian minister - reuters.com",
-    "summary": "Iran war jeopardizes U.S. global leadership, warns Italian minister  reuters.com",
+    "headline": "Iran war jeopardizes U.S. global leadership, warns Italian minister - Reuters",
+    "summary": "Iran war jeopardizes U.S. global leadership, warns Italian minister  Reuters",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb3JCeVZ2QXktY0Vha2FWanpwdTNMaXd2TThHWW5oVnVSY3RVVVM1Q2lEOE5zdXVBX0N4MXRLdjk0OEVxLUtSUmtwNTFuV2dhRnhxSUQycHhuLWRDNlVxVGhQOFpaQU1qdlZ5R2FSbWdEeTE4LW5JU3k2cF92N3BDc3VDdmRkdFpCYXRvNURiUnVZejlhN2p5RW9qa0JERHI5Yl9BZU9HZi1abHA5NHk1ZE12TmFZY2hWb1JTUVlzbjZFNFRqYUE?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -116,8 +116,8 @@
   },
   {
     "id": "7757424",
-    "headline": "Exclusive: Russia supplies Iran with cyber support, spy imagery to hone attacks, Ukraine says - reuters.com",
-    "summary": "Exclusive: Russia supplies Iran with cyber support, spy imagery to hone attacks, Ukraine says  reuters.com",
+    "headline": "Exclusive: Russia supplies Iran with cyber support, spy imagery to hone attacks, Ukraine says - Reuters",
+    "summary": "Exclusive: Russia supplies Iran with cyber support, spy imagery to hone attacks, Ukraine says  Reuters",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbEx5cXlzMl84VU5QSkJha0FpQ0sweVh3WDVXR0R3aDVBVkZYNW9TdlhnUmQ1TFZtVTBuM29fdkcyT3NJSmxjUjgwT2F3TlNZd1pGVGhZcnp3bHlrUU1qMUxqOUdXS2gzaWwwd3lMcmJic2p5RF9VMkVOVWRxcFY5TmNQd3BOSnFjemRJMFRSOXJFdWI3c3V1TGpoNm9XYnI2OXRpSXFacWpYaTJWc3hqRjc1eGtWS1hEMFQ5V1R1VnFNdkd2?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -139,8 +139,8 @@
   },
   {
     "id": "7757730",
-    "headline": "Israeli military tells people in Iran to avoid using trains - reuters.com",
-    "summary": "Israeli military tells people in Iran to avoid using trains  reuters.com",
+    "headline": "Israeli military tells people in Iran to avoid using trains - Reuters",
+    "summary": "Israeli military tells people in Iran to avoid using trains  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWE12RXJENVVUYUthNnZndlJkUDVsSkVSdEVXdlRCZU1tdFJrN0p1a01KUk51OThXN193NmtBZ05wWWZJRWhuNF9CS3pMQWZjVVBpUEVYYjlydmM3NzNJQ3ZfbmNrY3V3OFhwUmk3bHRLRl9hVEM3SUxVMnNrd2hXVXR3S1R4elFBd3JTNjkyNzNBWmRnOFFNUHpaaVRUYWo4UW1NVWtwRldGQ0k?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -162,8 +162,8 @@
   },
   {
     "id": "7757318",
-    "headline": "Iran war may boost already rising support for euro in Bulgaria, central banker says - reuters.com",
-    "summary": "Iran war may boost already rising support for euro in Bulgaria, central banker says  reuters.com",
+    "headline": "Iran war may boost already rising support for euro in Bulgaria, central banker says - Reuters",
+    "summary": "Iran war may boost already rising support for euro in Bulgaria, central banker says  Reuters",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdmtFSHJxTms0OFQ5aElPRXdDeGJ3ODRzMmplc0ZfbmVoMmtWcWJzWHVtNzEwRU9WQTQ2cnpOWVZyaFhRbEZQNEdxQVdNYk5VUTBxc3BidVBNQ1V1R1ZtQ2NtcVlhUmxUcDd6bWNrU1NLSUlNTUhaUzRJQXhrZHphSXF2dEI4WFE1eXBKaVdURVlRenREci1LSGZqeFFtSlJMSGFUb2Q4cW12a1hZZ0NSbl82dUZyU016Xy1zYV9fQTVUM3FUQVlB?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -185,8 +185,8 @@
   },
   {
     "id": "7758151",
-    "headline": "UK new car sales post strong March, but industry warns Iran crisis threatens outlook - reuters.com",
-    "summary": "UK new car sales post strong March, but industry warns Iran crisis threatens outlook  reuters.com",
+    "headline": "UK new car sales post strong March, but industry warns Iran crisis threatens outlook - Reuters",
+    "summary": "UK new car sales post strong March, but industry warns Iran crisis threatens outlook  Reuters",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT1VrTXcwYlFCMFN2SmljVFNES0NMQTVGSDlLT2FWLWlCRVg3am10ODgyaG05NjNnWHBzNXd3MEY2NnhTZTM5V3M5Q245N1B0UDBTZHZVQ1hXQmhXV1A2XzhNaVBVdzZFZWFNZDFWSVNwbzFjRjVZMzFnUGQzNzNaUWY1RWs3V3JSZUUyak80Rm5IelhvM1Mta2Nn?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -208,8 +208,8 @@
   },
   {
     "id": "7757007",
-    "headline": "Iran defiant as clock ticks down on Trump's threat to unleash 'hell' - reuters.com",
-    "summary": "Iran defiant as clock ticks down on Trump's threat to unleash 'hell'  reuters.com",
+    "headline": "Defiant Iran rejects ceasefire as clock ticks down on Trump threat to unleash 'hell' - Reuters",
+    "summary": "Defiant Iran rejects ceasefire as clock ticks down on Trump threat to unleash 'hell'  Reuters",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONkdoNUg5eFdxOVZFWkhrMEtYUzl5VUtmUjJNZm5SWE5PbGFFUWVydUcyNHp3Q1E5ckJUaXpUUmZsU3NRcUxCY05lZEQwN2FFQldsUzJ3Mmt3NktrUU5MaDVsRHZicTE3M1NEZlJaNVo3WW00bWlYdFYzYUpZaWllOFZ6ZFNQQy11YlVvdEpRMjNEZmJfbm5sT1VtcGJGdw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -227,8 +227,8 @@
   },
   {
     "id": "7757835",
-    "headline": "India plans sovereign guarantees on loans to businesses hit by Iran war, sources say - reuters.com",
-    "summary": "India plans sovereign guarantees on loans to businesses hit by Iran war, sources say  reuters.com",
+    "headline": "India plans sovereign guarantees on loans to businesses hit by Iran war, sources say - Reuters",
+    "summary": "India plans sovereign guarantees on loans to businesses hit by Iran war, sources say  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbllMXzdwVkFYWnQ0RUo3QnQ4Nzl4ZHJHN2NVWkFlNF9nZU83RVZ1R3ZiSF9JNGl1UmtCUFBDYkszWS1CcTlfaGExTExKY3VHclJwUndJcDRiLTdpMDF0eDd1TzBxRUlUcEtjQm1XdVBtcW41RGtUX1FsQUlXREhMYlJVMWJCcmlJcGVpc2hNTGZLdWFRMFV3TXFZeDJJdGlzdFp0WDIzRXZlNVZseVV3UnhuSXFfSmJsSkRSWkx5d05mcDg?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -250,8 +250,8 @@
   },
   {
     "id": "7757008",
-    "headline": "Gold muted as Trump's Iran deadline keeps markets cautious - reuters.com",
-    "summary": "Gold muted as Trump's Iran deadline keeps markets cautious  reuters.com",
+    "headline": "Gold muted as Trump's Iran deadline keeps markets cautious - Reuters",
+    "summary": "Gold muted as Trump's Iran deadline keeps markets cautious  Reuters",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTTh4dGc3TVg3MGs1LXBfMVJhdFJRTGJmS01zbDNjZ2pjRXZiNG1Ram51dElkdFVaNGJodEhnRnpiMTdNeC1GLUREay0yRENaU1ZIdnAzTUg0Nk5RbWItSkMzX3NFalVPVFNzdDlmX2R0b0l6cl82LV9ONmxpTU9mX0VGSlNqTC10bE5SazZGT3dBbU9ndkZzOHh5anJvZ1UyQ09vNkVR?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -296,8 +296,8 @@
   },
   {
     "id": "7756700",
-    "headline": "Stocks nervy, oil above $110 as Trump's Iran deadline nears - reuters.com",
-    "summary": "Stocks nervy, oil above $110 as Trump's Iran deadline nears  reuters.com",
+    "headline": "Stocks nervy, oil above $110 as Trump's Iran deadline nears - Reuters",
+    "summary": "Stocks nervy, oil above $110 as Trump's Iran deadline nears  Reuters",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPclFHbk5DX2dtMzRqM1I2YzZuakJ1SmVFUm5pdzFSWFBOWE50bXMyWTFkSjhWUnRuTVhjMmlvOXBJdHU5NV93eU8tQmxyeVBUU3ZvYkJCcklqYlN6QXp6WFhUM0pHYXNmclJSR0tNMUR0QktJVF91OHFQQXc1Y3ZKWDNPcw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -319,8 +319,8 @@
   },
   {
     "id": "7757626",
-    "headline": "Japanese national detained in Iran in January released on bail - reuters.com",
-    "summary": "Japanese national detained in Iran in January released on bail  reuters.com",
+    "headline": "Japanese national detained in Iran in January released on bail - Reuters",
+    "summary": "Japanese national detained in Iran in January released on bail  Reuters",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSEhfaVlSQTE5SWZrRmdtdzF0MmlQcTRKdlRULTlkNy1qYU83Zmczbk1jSktHVC1MQzB0TnNUM2J4SDBOY1JsQU5RbEVzVnBfTWlLMGFyQU5JTDdZWEhsZHZNdFluREQ5X3BwcW5seUJwM1RfbmNYcFd5YUpyLTVYMmIySUdET0N3a3gxLXdtYy11SDY2SUMyVnJHc2dwemtfTmZTcm4yOGVPXzVZ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -341,9 +341,32 @@
     }
   },
   {
+    "id": "7757625",
+    "headline": "It's time to end the world's delusions over the Iran energy crisis - Reuters",
+    "summary": "It's time to end the world's delusions over the Iran energy crisis  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdzJfcFA4c3pLSVpLbkFjOFpYQUgzNzRBZl9UQjNVSHJZemRjRXh0eV95bjZ3cENKN1dsNFF1bXpKSHdCTzRlRVkySXNMbUN6cXdJb2F4UTRkdnFHbWk4alZiLXlMRWtjdWk5a2lSeFVYMEFfMk95Smo2aTNJdlBoQlpYUGVEcC1pLXdiZVctUFBoaXJhMUE5MXhsc0J1ZmZET3hmVmtQR2Y?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1775522774,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1775555476,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "The article from Reuters argues that the world's concerns over the Iran energy crisis are overblown. The author suggests that Iran's oil production has been resilient and has not significantly impacted global oil markets. The article points out that Iran's oil exports have been reduced due to US sanctions, but this has been offset by increased production from other countries. The author concludes that the crisis is not as severe as perceived, and the market's fears are unwarranted. The article does not provide specific details on the oil industry or companies, but rather focuses on the broader geopolitical context.",
+      "impact": "The article's conclusion that the Iran energy crisis is not as severe as perceived may lead to a short-term bullish sentiment in the energy sector, as investors may reassess their expectations and reduce their caution. However, this may also lead to a medium-term bearish sentiment as investors may become complacent and overlook potential risks. The impact on specific stocks will depend on their exposure to the energy sector and their individual risk profiles.",
+      "risks": [
+        "Potential for increased US-Iran tensions and subsequent sanctions",
+        "Uncertainty around global oil demand and prices",
+        "Risk of unexpected disruptions to global oil supply"
+      ]
+    }
+  },
+  {
     "id": "7755054",
-    "headline": "Wall St ends higher as investors parse US-Iran negotiations, threats - reuters.com",
-    "summary": "Wall St ends higher as investors parse US-Iran negotiations, threats  reuters.com",
+    "headline": "Wall St ends higher as investors parse US-Iran negotiations, threats - Reuters",
+    "summary": "Wall St ends higher as investors parse US-Iran negotiations, threats  Reuters",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUXJrYzYxUlR4aWZ1eWJIWHRabGpZNldYUm9BYi1jdXp4Q3RTa1k0Sk9oOHN6VDdBb0dMTk5YcVdiMExzbWstWFRRWnE5UTdHY3hVb3dPTUQ2NWFHaGljX0lBcEVyS2NlNHlGWTh3UWx2bm50WHI0QzRZN3gzQWNiUEhUMFZ2STZvdVB1eEpRWkoxVWJQbnJqMVg3a3VCSWJFNmRrYWRYQ290UERuUnhiYmpjTE8?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -361,8 +384,8 @@
   },
   {
     "id": "7754532",
-    "headline": "Trump says Tuesday deadline to make a deal with Iran is final - reuters.com",
-    "summary": "Trump says Tuesday deadline to make a deal with Iran is final  reuters.com",
+    "headline": "Trump says Tuesday deadline to make a deal with Iran is final - Reuters",
+    "summary": "Trump says Tuesday deadline to make a deal with Iran is final  Reuters",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcHNCOXFuN1ZCYU9JT0pIZldjZF9FODYzOXRMU2NEWFhYY3FpXzRTRkUtem9RcnQwZnlsdWFMV3FZc2xrTVN6akl2TE01Ylh6ZkJ1OVU1RFZaakVuNVlOU2dJSEU5LXR3Y1VCNUdWNEZvOUx1cm1FX0xKWEVYeFVSM2N5R2QyaUEyZVVjcGEtVXd6R3ViLW9Da2RldHUxV0hKQ3RSWEdwMTFvcVNkQko0?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -384,8 +407,8 @@
   },
   {
     "id": "7754844",
-    "headline": "Trump says Iran could be 'taken out' on Tuesday, Hegseth says major strikes to come - reuters.com",
-    "summary": "Trump says Iran could be 'taken out' on Tuesday, Hegseth says major strikes to come  reuters.com",
+    "headline": "Trump says Iran could be 'taken out' on Tuesday, Hegseth says major strikes to come - Reuters",
+    "summary": "Trump says Iran could be 'taken out' on Tuesday, Hegseth says major strikes to come  Reuters",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ1JuNHlScmVxUm9PUGhabTBxNEtnUXZSZkwzZ2RnQ3Zrd1FWdHBhSFhQR3UxcXM4LTIxTmM4SFdhWldRdXg5Y3VRS19KZkpQUy1odHdxdEpEOGdiOHFhX1h4dldmaW4tZTNBei1URVJWRGIxblZpNXlYMDlZajR5M01DSEM2aFpoRDd6cWJHNWIzRFBfcU5sdQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -407,8 +430,8 @@
   },
   {
     "id": "7756187",
-    "headline": "Saudi Arabia intercepts 7 missiles; debris falls near energy facilities - reuters.com",
-    "summary": "Saudi Arabia intercepts 7 missiles; debris falls near energy facilities  reuters.com",
+    "headline": "Saudi Arabia intercepts 7 missiles; debris falls near energy facilities - Reuters",
+    "summary": "Saudi Arabia intercepts 7 missiles; debris falls near energy facilities  Reuters",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMHo1enZTSm94YUpYbHRQMVhUMzgybzFseHVhWUhUSFljX24tNENhX0FZUlgzYzFVYnRzTTBFSUgzMEp0T184MndYd2dTVUpxOVhKN2c5T2pybG83UERad3VFel9wQ0FZY2JZOHUybENMdUtRd0ptUTJEUlhDd0JacEVfU2w2cEk1ZTI2UGdPSFF0cjFJOXRTbmpib3J1WlcwVEVGajZ1dzI2LUZBZHIxalVn?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -430,8 +453,8 @@
   },
   {
     "id": "7756086",
-    "headline": "Trump seizes on rescue of downed airman to recast unpopular Iran war - reuters.com",
-    "summary": "Trump seizes on rescue of downed airman to recast unpopular Iran war  reuters.com",
+    "headline": "Trump seizes on rescue of downed airman to recast unpopular Iran war - Reuters",
+    "summary": "Trump seizes on rescue of downed airman to recast unpopular Iran war  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYW0yVlFJX3NMVTU1YVlpT3BHR0NpaVI2MmxzOFpZUklRQTZTWUhXUFJJZVJGMFFsTUJCWHFPc2duSXM2V2puMTktNTYtVWRWYXZLcW5HMVZEXzNEOExFTDVEUFFHVVhuZ01mVGVsbFdNWUlRTWZubkhQUUtZZTlyZ1FQZmRKdHYtSWtQdWFxQ1ZUbDUxbl9jeHZCdFNSakw5Ym1IQ3dHT19ZWlNuajRPMHh4cWhLek42ZGc?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -453,8 +476,8 @@
   },
   {
     "id": "7756800",
-    "headline": "UN expected to vote on watered-down Hormuz resolution on Tuesday - reuters.com",
-    "summary": "UN expected to vote on watered-down Hormuz resolution on Tuesday  reuters.com",
+    "headline": "UN expected to vote on watered-down Hormuz resolution on Tuesday - Reuters",
+    "summary": "UN expected to vote on watered-down Hormuz resolution on Tuesday  Reuters",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc0NOOE1ncUZCQzF4ekUtb0w4cTduY0c2N210ZlU5Y0s2cnZzRlNNTG5EM2RoNnFxSkpDNmVFSkJaRkZyY21tMXd3VS1VTC0zMEZhQWNhZzkzcm1zZWEtNHNjT203Vnk4QWY2R0RYNGtNQlh0WXg5WHlNTzNqdFk1NG14VWc3eGJVY1JrOXA1Rm9fNUxTTE11QW9Kbm1pRXRSQVFpU21NYTk3YkFIcVE?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -476,8 +499,8 @@
   },
   {
     "id": "7755982",
-    "headline": "Oil prices climb as Hormuz stays shut ahead of Trump deadline - reuters.com",
-    "summary": "Oil prices climb as Hormuz stays shut ahead of Trump deadline  reuters.com",
+    "headline": "Oil prices hover around $110/bbl as Hormuz stays shut ahead of Trump deadline - Reuters",
+    "summary": "Oil prices hover around $110/bbl as Hormuz stays shut ahead of Trump deadline  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWmtnNUp0TXFkQWVyRzhFVUJTVDBVMmEza3lHTnB5bEtlZnNFSEVFWWhkSTJwZU4yNDNXUXlqMm44MDl5ZGVVTHFxazVKS2plSjhOQkhaVmtUbmFGRFJqXy1TeTRkQnh2VEhIR1VUOHZxdFNNRm5oRXpiSkhkTWlwcnMwUHE4SXpPeXhEejVOc2l4OGZEWjIzVkRvY2RnNkZTLWY5QkU2MmxmaHIzOVRMUmY5NA?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -499,8 +522,8 @@
   },
   {
     "id": "7756087",
-    "headline": "Phillips 66 faces $900 million loss as Iran crisis lifts oil prices - reuters.com",
-    "summary": "Phillips 66 faces $900 million loss as Iran crisis lifts oil prices  reuters.com",
+    "headline": "Phillips 66 faces $900 million loss as Iran crisis lifts oil prices - Reuters",
+    "summary": "Phillips 66 faces $900 million loss as Iran crisis lifts oil prices  Reuters",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOUd1MWo0bUxjMl90UmxqWW9BRElsRVFHSWludy12THRCN1lUSU5NUWRtcXVhWTA3T2YzUm1Wd1FBeEExZDd3SzJ5NTFMbUlNcEJSUk5wS3Q0bHZmdEFQeXpxVThNUTdDUVZLd1I3d0kyRVhJOXM4YWZUc3habWR5NlhmNGcybVk5LVhUWE0wX3NRaFcyQ0w2R1BqV3M5NGR3OU51YkhCdVZGbnpkV1pMcTBHZWd4MzZmaDhVVQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -545,8 +568,8 @@
   },
   {
     "id": "7755363",
-    "headline": "Trump threatens jail for reporter who revealed Iran airman rescue - reuters.com",
-    "summary": "Trump threatens jail for reporter who revealed Iran airman rescue  reuters.com",
+    "headline": "Trump threatens jail for reporter who revealed Iran airman rescue - Reuters",
+    "summary": "Trump threatens jail for reporter who revealed Iran airman rescue  Reuters",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZGtocXAxc3dkX19CUEpMOG5zMFlxQzRJdW0taTF2aUlqdnRvQjY4bzFmdUxzOEctTmx2THRSMmpPbjhFaWtGelVfVHl1dGREbFZydU9jdkpNMnNpNFF3Z05IZEVjaGFjMUNDNFdoUUFRNDJLU1RvZUNLdDNuRGR1Y2otOVFLbm1WajlVRTZwYVR0YlBFbWtnaFFVN2xQa2JBcHBkOGM3MU9JQ01RZGtoaWhPVl92NHNQOTgzdg?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -615,8 +638,8 @@
   },
   {
     "id": "7753274",
-    "headline": "JPMorgan's Dimon warns Iran war may drive inflation and interest rates higher - reuters.com",
-    "summary": "JPMorgan's Dimon warns Iran war may drive inflation and interest rates higher  reuters.com",
+    "headline": "JPMorgan's Dimon warns Iran war may drive inflation and interest rates higher - Reuters",
+    "summary": "JPMorgan's Dimon warns Iran war may drive inflation and interest rates higher  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOFItZ1lCRWJEZ3hkWlpnaGpFR0R3cTRtTTR5Z1dtemlwSVkxMzVFc3JVRUFpY1FMYzJQakRHLWo2Rl95SDJuN0ptWkhZbHhtdVU4emRLanFFS2kyZGcyQ2x1enJXM0pqa2hnYjNrUEVIMm5OTXdDejVDNFVZa3pTd01xZTZQbGJ4NVhyeXpDR3JWNHFsQ05iNlk5MmlNR3FFZldMZU5SS0xRaGM1TlFVdTMtZW9OUWxwVGdzdTNtcU5WYzg?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -656,6 +679,29 @@
         "conflict risk",
         "oil price volatility risk",
         "global economic slowdown risk"
+      ]
+    }
+  },
+  {
+    "id": "7758359",
+    "headline": "Middle East war means 'all roads' lead to higher prices, slower growth, IMF chief says - Reuters",
+    "summary": "Middle East war means 'all roads' lead to higher prices, slower growth, IMF chief says  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQejFWRTZvaDdzWGhZYTV3eDJfekxQMmZsQ09RNzF5X1ZnbllFNEwxeFpibmpkaExvMHZVQTNfTDlhVVdlcVZOcTgxOExnNmgtQzZkWFNZMWl1SldhdUs0VUFjUW9PdklfQU5aUm5HdkdPb0FzMm9ycUZfcEllanRaTnRPVDRqY3Z5OVVhWWdHbDVmR29CUTAxdFZHdF9WOUVsakd5YWZkZjJJVmlDN05ZMGh6TkpZeHZoaFQ5Si1CYzEybG1pNTBmQXB5QlFQSkk?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1775501700,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1775562044,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The International Monetary Fund (IMF) chief stated that a Middle East war would lead to higher prices and slower growth globally. This is due to potential disruptions in global supply chains, increased oil prices, and a decline in investor confidence. The IMF chief emphasized that all economic indicators point to a negative outcome, with no clear path to a positive scenario. The statement highlights the potential risks to the global economy, particularly in regions heavily reliant on oil exports.",
+      "impact": "The potential for a Middle East war would likely lead to a short-term increase in oil prices, which could negatively impact companies with high energy costs or those exposed to the oil and gas industry. This could also lead to a decline in investor confidence, potentially affecting the overall market sentiment and leading to a medium-term decrease in stock prices. Companies with exposure to the Middle East region or those with high debt levels may be particularly vulnerable to these developments.",
+      "risks": [
+        "Oil price shock risk",
+        "Investor sentiment risk",
+        "Global economic slowdown risk"
       ]
     }
   },
@@ -707,8 +753,8 @@
   },
   {
     "id": "7754006",
-    "headline": "Four killed in Israel's Haifa after Iranian missile strike - reuters.com",
-    "summary": "Four killed in Israel's Haifa after Iranian missile strike  reuters.com",
+    "headline": "Four killed in Israel's Haifa after Iranian missile strike - Reuters",
+    "summary": "Four killed in Israel's Haifa after Iranian missile strike  Reuters",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR3RTdkNwOHlSZXlkWUJqdXdYOXdrWEsyR00tcndjc1RCcV85OFZGU3VxYVNYRTl3aTNGUldsSTg3blI4OTRUUWlvWTlBODR1aWI5c215dlBBTWQ3a1VLRnNhNmQ2RWlOTXROcDQtYzhBaWNIellkLV9BeThsZW8zY2dNUW5zWk5ZMU1EdWZvX0xqZkdQdzRzMk1OYm1jN2NCUk0tRVAxWmxmQ1V5?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -730,8 +776,8 @@
   },
   {
     "id": "7754740",
-    "headline": "US service sector cools in March, inflation heating up amid Iran war - reuters.com",
-    "summary": "US service sector cools in March, inflation heating up amid Iran war  reuters.com",
+    "headline": "US service sector cools in March, inflation heating up amid Iran war - Reuters",
+    "summary": "US service sector cools in March, inflation heating up amid Iran war  Reuters",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVDRqY0NjWnFXcGtMbVgtS0VsWU9TTEItcDFvelh4dno0d2pkT0xyYXNzOGN1OExlcTRUNVhlUWhBdnA4NTVjODZXNmRFSkp6QmQ5bE5id2ZHUUZpbjVSMGNjTzBMU1BuS1ViMmY2Q2ZVZk9xaVhiUE94Y0JZbHE5YnBMQWlIdlAzbnhYS1dFSTJGalRRcmd5ZFpxWXp6a1duSnBrOVktSHVCWEplNmJKdVdn?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -753,8 +799,8 @@
   },
   {
     "id": "7754636",
-    "headline": "Trump says he is upset with Iran, they will pay a big price - reuters.com",
-    "summary": "Trump says he is upset with Iran, they will pay a big price  reuters.com",
+    "headline": "Trump says he is upset with Iran, they will pay a big price - Reuters",
+    "summary": "Trump says he is upset with Iran, they will pay a big price  Reuters",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUGs3eE1pQzdfX1BRQXJIZUZpWUFyUVR5TU5nWXpsNUZqZXFPV2tqYzdFb1AyVF9HNUdNM0w4U3JDTENMMjZ1VzZaZW90bmZiU29hb25vVzFlRk13Y0RHY1k3M3ZDTDdxaVFnNHp2MWtkRGNYM1R5SmtnMTVkWkRhV0xscm1EWlpjUDQ5SHRLSG1KQWxsdF9YYldHMXNZUVNVNjJYWDFGUFlZb2ZnYjdJ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -868,8 +914,8 @@
   },
   {
     "id": "7754005",
-    "headline": "Hormuz closure divides the fortunes of Middle Eastern oil states - reuters.com",
-    "summary": "Hormuz closure divides the fortunes of Middle Eastern oil states  reuters.com",
+    "headline": "Hormuz closure divides the fortunes of Middle Eastern oil states - Reuters",
+    "summary": "Hormuz closure divides the fortunes of Middle Eastern oil states  Reuters",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb1pUejBqV190WVVhZlhfTnJzaDRIWHEwVXZqc1ZxWFRScnlxYmFhRUVoc0NmUE9LXzBCVEZuT3BtaUhMeVlaYkVfeTdGekljdnZyVlVtQnFHUm1kSmpWM3JVZFB3VU0wSER0cGVYc1d1aGlKcHJ1SFFQY3hiVWZralNVYzhlY25lMnE5M19NRHhVQUVJN1l6RFRZdU5UeTQ1QlJ1azdnQ3BLZU54WEE?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -914,8 +960,8 @@
   },
   {
     "id": "7754218",
-    "headline": "Iran rejects ceasefire in response to proposals and emphasises need for permanent end to war, IRNA says - reuters.com",
-    "summary": "Iran rejects ceasefire in response to proposals and emphasises need for permanent end to war, IRNA says  reuters.com",
+    "headline": "Iran rejects ceasefire in response to proposals and emphasises need for permanent end to war, IRNA says - Reuters",
+    "summary": "Iran rejects ceasefire in response to proposals and emphasises need for permanent end to war, IRNA says  Reuters",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV1E3Y2hkd0dKaHdaUUNYN2x4V0dMLTN2QlMzNVlNUG9VTWNITjBCVDhrUFg1MTJuTTVSTThDSUVaM0F0M3FIUEFMVnhfb25ickE2YnJzMmxpVnNLUVJrTndmeGZfcUYyTXJ2TEVoZF9ac2RHaHJkZ01zVFNhWTBETEVUX1hjTkZVMjlDbFJoam5PQmx0a21QSFh0MGdiYWktR1U1Y0o0SC1NekN1cDY3bG9KTENyMHAwU1I3VjZUdw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -956,8 +1002,8 @@
   },
   {
     "id": "7753275",
-    "headline": "How is South Asia tackling the Iran war-driven energy crisis? - reuters.com",
-    "summary": "How is South Asia tackling the Iran war-driven energy crisis?  reuters.com",
+    "headline": "How is South Asia tackling the Iran war-driven energy crisis? - Reuters",
+    "summary": "How is South Asia tackling the Iran war-driven energy crisis?  Reuters",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV1RfYmM1M2IzQmMtaVVsRDh6d1NNelhxejZSOEp5TGV1eHdCMU5nQWFwMUt4U01wNXVDZm9HZmE2NUxCS2hrWS1KY3hoX0M4NzgySW5KRXh5ZjhBVjlKb194eTYyX2taZlB5dk8xWlk0ekdOVmVMYUVtdV95Ul9kRzd1YjhkYVFuZFhTaDVjVzg4TllvZC1jRkh1MXhPVEZOOThpWHk0cEZfVmFk?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1002,8 +1048,8 @@
   },
   {
     "id": "7754007",
-    "headline": "Ceasefire, Hormuz and Alcatraz - reuters.com",
-    "summary": "Ceasefire, Hormuz and Alcatraz  reuters.com",
+    "headline": "Ceasefire, Hormuz and Alcatraz - Reuters",
+    "summary": "Ceasefire, Hormuz and Alcatraz  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdURBVDUxNzF5RGJvMnBlUXZfWWhOc1oxeWlVMUYydXdnV0dzYnNPVWZnOHBubFVkX0wxZy1sVnJ2TXhfdmdMVjBoVENhUXdzenVhUjhnN0dINngyLWxidHJ5SkxLMWNXdEhwNnU5Nk4ydDRPZVU5OXpqdElKcGRhSWwzdzg3LXBKOEtCaGh2c2xUck40cDMwdUJLMUtzd05sREtWNzBESlE?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1025,8 +1071,8 @@
   },
   {
     "id": "7753692",
-    "headline": "Israel strikes Iran's petrochemical complex at Asaluyeh, defence minister says - reuters.com",
-    "summary": "Israel strikes Iran's petrochemical complex at Asaluyeh, defence minister says  reuters.com",
+    "headline": "Israel strikes Iran's petrochemical complex at Asaluyeh, defence minister says - Reuters",
+    "summary": "Israel strikes Iran's petrochemical complex at Asaluyeh, defence minister says  Reuters",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeEtPRS00QThJQ3gxWUM1MXpENklRekdZWTlsZ1l0ejN6NFlwaVZ5RG9HdmdoQmxBalFHM1FlRWZfS3BMLURnSS1sc2VOUXF2OW03S3lYSW5vb0ZRVVdmX29FUkNSd3MtVzJoWjRmd2laVW13R0xCam9ESTRmZDZtUWtvcTBXaDBrVWVwWTFPOUEtT1M3MzRIS1hnTG1BMEFrX0VqRXR5azRzQlBxZm15eFktTFVYYk9lVTFoR1Vab3R0STdoLXc?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1048,8 +1094,8 @@
   },
   {
     "id": "7754424",
-    "headline": "IAEA confirms impact of recent strikes near Iran's Bushehr nuclear power plant - reuters.com",
-    "summary": "IAEA confirms impact of recent strikes near Iran's Bushehr nuclear power plant  reuters.com",
+    "headline": "IAEA confirms impact of recent strikes near Iran's Bushehr nuclear power plant - Reuters",
+    "summary": "IAEA confirms impact of recent strikes near Iran's Bushehr nuclear power plant  Reuters",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONUpvREYzNlZPVWNTQ053VTBLbVZXYy1JY1ZEc3VJRHVPYVIzNFVfSUtBMGZod3VIcmFSRmV3alBVWVo3WFFiaTJVTmF6ZHMxb1FlM1F4YXBaVmpJcjJKbGJiU2Q2azlXUE1DaTJzeE5MVHZDLUlJWVJIZ2xCYTFFeWFSdk9sQnEtN0dGNmVzNGJGa1ZOTURhTGNMNmd0QWpnV1lHWjJpZ2VnSkU0TkZIOVJGNncwaHc?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1071,8 +1117,8 @@
   },
   {
     "id": "7753577",
-    "headline": "Kremlin says the whole Middle East is 'on fire' - reuters.com",
-    "summary": "Kremlin says the whole Middle East is 'on fire'  reuters.com",
+    "headline": "Kremlin says the whole Middle East is 'on fire' - Reuters",
+    "summary": "Kremlin says the whole Middle East is 'on fire'  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQzI0SjVrM190UG9ka3FIY1NXcERpVEJfQkdCZ2UzQzIyc1N2SFY5ZEstOXVqV2lNaEFTalNrOXZ5RnVrZHdXbFVnMnJxZ243dGtvTVI4c1poY1NLNzVUcXhyMERsbGNON0JXbDE2TXRTZHhJNWlLWXhDd2NtZmZla2N3MHctczVCT2NR?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1140,8 +1186,8 @@
   },
   {
     "id": "7753272",
-    "headline": "Iran has formulated its response to ceasefire proposals, foreign ministry spokesperson says - reuters.com",
-    "summary": "Iran has formulated its response to ceasefire proposals, foreign ministry spokesperson says  reuters.com",
+    "headline": "Iran has formulated its response to ceasefire proposals, foreign ministry spokesperson says - Reuters",
+    "summary": "Iran has formulated its response to ceasefire proposals, foreign ministry spokesperson says  Reuters",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc0hZMkxUcVZtT3VucnhOWk8yOHA3TnNPVUN1VnBiVU9ya19ERkVfTDdjYTNtSllGTUlCQ0dwX3RUQks2aGNNVGdSSGJRdE9NeEZaWlBaVExHWXJhTU5yWV94YzVkRHIwdEVSakw3OEk5dG40NnNlVkM5TnZ0YTlwRVpuVmxZYUw2RF9pcDdVeEFlUXlMWldPejh0eTBsNmFXdElSRWdMSDF3MkxEMkhsaFlSZ0FfU29wa2dqSE9GbE14WnJuMHlj?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1163,8 +1209,8 @@
   },
   {
     "id": "7753475",
-    "headline": "Iran halts two Qatar LNG tankers it previously cleared to transit Strait of Hormuz, source says - reuters.com",
-    "summary": "Iran halts two Qatar LNG tankers it previously cleared to transit Strait of Hormuz, source says  reuters.com",
+    "headline": "Iran halts two Qatar LNG tankers it previously cleared to transit Strait of Hormuz, source says - Reuters",
+    "summary": "Iran halts two Qatar LNG tankers it previously cleared to transit Strait of Hormuz, source says  Reuters",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZE5BeVdUSnFHSU5xN0gySDY2a253Y2hSUG5NOWt4d3U4bVlaR3FiS2FMZ0hiMGxjTC1WdWx0OEtrMnN5cWpJWFVBLUdkRk5scGM2cTZOczdEaGxMVG94bFdCSVFvdHVDcEwzVzdSWkIzRC1pS0E5cmx3SE1XV2FjT1NmR2xfZl9vS2hMZEF1Nm00V1UxQmJ6ajcyeDFkOUI4MEE2dnVHM25qekxDcUY2Qkw0OVlLeWJlUDlEQ2ZsRzdRcC1SSmZ0OS1QZmhzZw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1186,8 +1232,8 @@
   },
   {
     "id": "7753273",
-    "headline": "Iran accuses UN nuclear watchdog of inaction, warns of risk from attacks - reuters.com",
-    "summary": "Iran accuses UN nuclear watchdog of inaction, warns of risk from attacks  reuters.com",
+    "headline": "Iran accuses UN nuclear watchdog of inaction, warns of risk from attacks - Reuters",
+    "summary": "Iran accuses UN nuclear watchdog of inaction, warns of risk from attacks  Reuters",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPb1NxQmlyVjJONVVKTHo0anNEeFZEUUE2TWhWWGZBcmhPd043ZWZFbkRoM0FqTUFGLUszdEZpYWVFREFYTHkxdy14d1J0UGpybUZkVXl6bDlNNHhNWDV4Q2FIY1JNTnlqY1QzRHEzRVVhdjNMUFhQR0lvOTJwaFNoQUZGLUt1SUFReVlIQzc4RE1QdWllNEN0Skk1NlAyUXNfa0djRA?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1205,8 +1251,8 @@
   },
   {
     "id": "7752860",
-    "headline": "Intelligence head of Iran's Revolutionary Guards killed in strike, media say - reuters.com",
-    "summary": "Intelligence head of Iran's Revolutionary Guards killed in strike, media say  reuters.com",
+    "headline": "Intelligence head of Iran's Revolutionary Guards killed in strike, media say - Reuters",
+    "summary": "Intelligence head of Iran's Revolutionary Guards killed in strike, media say  Reuters",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZUh0Rmh5dnlRRURSd3dzR0ttZUVBSFYzVHZNQldILWJkR0lha3lZN0IzMWdocEJGM29FcVk0bXlYbFA0WGhkazlLM2tQMHgxRlNXaGFBcGFzbWluaEJYeU9tZkFrUXBuTkIwTVlHdERRSkc5MURUVEJxVEpiZ3l0YkhTT1VFQVVWSnlpUUxlU3ZKai1YRlRMQU92UERxZDFfZHhLU2MwR2QwbVZKdTI2TTJ0Z1QzNWlaTlBGNg?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1251,8 +1297,8 @@
   },
   {
     "id": "7752961",
-    "headline": "Iran struck US forces relocated on Kuwait's Bubiyan island, military spokesperson says - reuters.com",
-    "summary": "Iran struck US forces relocated on Kuwait's Bubiyan island, military spokesperson says  reuters.com",
+    "headline": "Iran struck US forces relocated on Kuwait's Bubiyan island, military spokesperson says - Reuters",
+    "summary": "Iran struck US forces relocated on Kuwait's Bubiyan island, military spokesperson says  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNY3hYc1l0LW5peTVaa3IxOEJlemZGN1YyUS14bEVINHd1NDM5X1RScnAwTTZYMXhIaHpnM3dQSk43czlLcV85WDBsRUIxZWlmZ2tvZ1R6ZG5VeXhXUTV3XzFGRkE4VmJxcWV6OTRRRV9VTXk3bHRRcV9EbmwzR2p0TTVnblRzeWtBNzN1ekN6MlNHLVlzZnBlRF9RX1g0VkhIMzFpYkNjdXhyaDFXd2JLSlNNd1RhWHJVR3VBNWxKZTJWUEhMVjVKOUp3?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1274,8 +1320,8 @@
   },
   {
     "id": "7752551",
-    "headline": "Iran, US receive plan to end hostilities, immediate ceasefire, source says - reuters.com",
-    "summary": "Iran, US receive plan to end hostilities, immediate ceasefire, source says  reuters.com",
+    "headline": "Iran, US receive plan to end hostilities, immediate ceasefire, source says - Reuters",
+    "summary": "Iran, US receive plan to end hostilities, immediate ceasefire, source says  Reuters",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTEhONXJNZUExZ05kcUZvU0F4SmhCYm1IQjJGeXNmUlY1ZUdOaTZ2czA1d2lpTndlOHBKRTMwdEEzWl9FQ2dLeHVCcDFWaW1fVUx2V1h6TlVZeVV1TFdSZnhsU1A4cWl4Z3g1YVU4NDJPQ194TnBQMWVCUWh1clBVZkJ0LU9EVjA3Wm01WHhiOU9pTWIyeHNwX01YZ3JRajRNNE5XMVVFdUE4SERGWXFkMnBma0kxNXc?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1297,8 +1343,8 @@
   },
   {
     "id": "7752654",
-    "headline": "Two more Indian-flagged LPG ships exit the Gulf, tracking data shows - reuters.com",
-    "summary": "Two more Indian-flagged LPG ships exit the Gulf, tracking data shows  reuters.com",
+    "headline": "Two more Indian-flagged LPG ships exit the Gulf, tracking data shows - Reuters",
+    "summary": "Two more Indian-flagged LPG ships exit the Gulf, tracking data shows  Reuters",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSDg2dzFMdjhTRHpxZ0Rld1NQQ29taVNUQUQ5c3JHcy1xZVpRblBhTVkxSjVraG1DaHZQZUxMVTUyRnAydk1RT0hVaGdDT0dZOVJyOWxLelpoNGRDUG1aMTA2Zk1oZnZHQkZZc3lURUllU29CTkljR2w2Yy0yY3NBamhBOFZOZW03ODg0aFhVNHpFd0h3dTZHcm1uNmpaY18zZ0ZLTFU3RDhaZHNLS3JKbg?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1320,8 +1366,8 @@
   },
   {
     "id": "7752447",
-    "headline": "UAE says the use of Hormuz must be guaranteed in any US-Iran deal - reuters.com",
-    "summary": "UAE says the use of Hormuz must be guaranteed in any US-Iran deal  reuters.com",
+    "headline": "UAE says the use of Hormuz must be guaranteed in any US-Iran deal - Reuters",
+    "summary": "UAE says the use of Hormuz must be guaranteed in any US-Iran deal  Reuters",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTllPQXVoc2Q4eGRzOGpTRzNNV3F4alV0Z0Y2VWFWMmlBUERhN3hReW9wYV9PZ0MtX0FDclVIQjBfWmZBd3U0cHY4aE01M25jMzV2R2FPOUZmclhlQ0x0bHhPM2tZcncwY3lxUVRRcXFmTDlRZEU5c1VNZTR4MXFzeUFFb2I3alF3WWFCRmNoQWpKUDdKcDNmV09Qa3RHeFh6NnlEazFHcw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1389,8 +1435,8 @@
   },
   {
     "id": "7752347",
-    "headline": "North Korea distancing itself from Iran to leave door open for US talks, Seoul says - reuters.com",
-    "summary": "North Korea distancing itself from Iran to leave door open for US talks, Seoul says  reuters.com",
+    "headline": "North Korea distancing itself from Iran to leave door open for US talks, Seoul says - Reuters",
+    "summary": "North Korea distancing itself from Iran to leave door open for US talks, Seoul says  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU1BKeHFTYk8zbjBQYzZMa09oMGs3Y1hCekx2VTNScWRxeG9NajNaNUxGUExHczN5Zm44bjduNW00SnhsTFFTQVlJRTkyemtEVHZmeExqR1FseXpBVkhoZFpKTnNSUFFISEpnalNwN2NBekpxLW5OQWY2dlliMWRfLW1IaUdxbGVKRnRvcU9KMHZSUDN5dXBpdEZqckFtWHNXRVNvMW96MkJmYjR4VnFkN0htYXBzdGZaV2c?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1412,8 +1458,8 @@
   },
   {
     "id": "7754111",
-    "headline": "Wells Fargo no longer expects Fed rate cuts in 2026 as Iran war drags on - reuters.com",
-    "summary": "Wells Fargo no longer expects Fed rate cuts in 2026 as Iran war drags on  reuters.com",
+    "headline": "Wells Fargo no longer expects Fed rate cuts in 2026 as Iran war drags on - Reuters",
+    "summary": "Wells Fargo no longer expects Fed rate cuts in 2026 as Iran war drags on  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSEtMb3llZ1plTjFsOEZWbE43ZlhYNzlCbFdsVGk5Z2hzUHJKbTdHTi13SUtLS1pSTGQ0Rm5FTUVHa0N1QTdQclpia2VWSmh2dnBmV1lqeVNVVjlKU2FsMmtxUW93bHlEWFd1Z29OZlhwYlIzQlV3emc4eVQ3WTJlNF9wcFpiQ1BFUE9IcTl0Nk5MS1o5RVpTRVBvbHhmc3VzWEJsZFdnTEVpRzRpd1lBQzJycw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1435,13 +1481,13 @@
   },
   {
     "id": "7752861",
-    "headline": "India auto dealers say Iran war to hit supplies - reuters.com",
-    "summary": "India auto dealers say Iran war to hit supplies  reuters.com",
+    "headline": "India auto dealers say Iran war to hit supplies - Reuters",
+    "summary": "India auto dealers say Iran war to hit supplies  Reuters",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLTNBTERIWWF5ZjljaTBUN1ZDN2VTWFFEMWQ0eGU3NjktYnhKc1d1Y2pEY05iWnNoU3JRM0FHejVnbmh1QUgyUWhEbmxXU05DNHQxVFNaZENTZ080T0xvLVVUNktFZktkNnF5RGljS014bk4wTFVPTlF3YkQ0VGJ0b2ZfVF84MUhDcERHVUNmS1ZINF93OG5PNVlTV2F4cHRBT3VUOXYtSHFOTHJ6SllEMldMRWczM29jRFBmSG9sSQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1775447820,
+    "publishedAt": 1775450126,
     "analysis": {
       "version": 2,
       "generatedAt": 1775470080,
@@ -1458,8 +1504,8 @@
   },
   {
     "id": "7752034",
-    "headline": "Iran rejects ceasefire as Trump ramps up threats ahead of deadline - reuters.com",
-    "summary": "Iran rejects ceasefire as Trump ramps up threats ahead of deadline  reuters.com",
+    "headline": "Iran rejects ceasefire as Trump ramps up threats ahead of deadline - Reuters",
+    "summary": "Iran rejects ceasefire as Trump ramps up threats ahead of deadline  Reuters",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNb1NVOGlScVVMZU1ST3hlMjZVOXJCVkNsN0t6YmM2aDd0SUdDT1NWVVdhTEY2RXNVYUlxUzV5ZXJiMlJEWTZjRFBIZ0Z4N2pKeFU1SnV3czNuOGpJY1dOMGVwZnlvbWRTd0dycEQwekU4YllaZV85c3B2UUZHRlN0eUVIQkpaTXVRSDdLR1U1UjUtUG01SUI5WENsamJuWjZYdjRpU0VYYnlJVFdna09pbFpSVllVOEk3SGFaR2g4WlRmbW5J?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1500,8 +1546,8 @@
   },
   {
     "id": "7752035",
-    "headline": "Gold edges lower as Trump's Iran war deadline nears - reuters.com",
-    "summary": "Gold edges lower as Trump's Iran war deadline nears  reuters.com",
+    "headline": "Gold edges lower as Trump's Iran war deadline nears - Reuters",
+    "summary": "Gold edges lower as Trump's Iran war deadline nears  Reuters",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdkRTdjQzQjlESGtxSjVISEVvRXdtbUtwcDBxY0I4dnpseV9CQ3phb29mcEk5Zm1GZTN4ak52ZFJiWkNsTmxmT1lVQ3FhRWsyNzhPYzFGUkRiNGp0TVhQQ3BHVEpyQ3UwamtEM2hOeUEwSFUtMEhRSWN2NGZQaVRaS1lYR1BhQmE4MVFjLXdFMnRMbFJkbEViODJfUkF4bFdXRnROTHVmWGRzZFQ0WDQ4?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1523,8 +1569,8 @@
   },
   {
     "id": "7752245",
-    "headline": "Indian shares rise on Mideast peace hopes; banks lead gains - reuters.com",
-    "summary": "Indian shares rise on Mideast peace hopes; banks lead gains  reuters.com",
+    "headline": "Indian shares rise on Mideast peace hopes; banks lead gains - Reuters",
+    "summary": "Indian shares rise on Mideast peace hopes; banks lead gains  Reuters",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOG5MTjh3SUJaNUVHVVRwcTlzWTVkUkZNVm5OOGZEWHRLVnJoV3luN3lyU0ItOThnVUNiOTZtdDhiekFmazlHWDkwS21fazloOEVyUVY2UzMxbllOTEc2WUR4WGZ4NkhrVTNycVU4SzZXWUM4emtta0lFTnVoeWJfMHVvejVDNWFleVIyeHNkSmMzRDYxQmJFSkdmZDA0YlRjYnd6UU8zR2UyV2xOUGZTMmNXZVJOc00?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1546,8 +1592,8 @@
   },
   {
     "id": "7751632",
-    "headline": "US, Iran and mediators make push for 45-day ceasefire, Axios reports - reuters.com",
-    "summary": "US, Iran and mediators make push for 45-day ceasefire, Axios reports  reuters.com",
+    "headline": "US, Iran and mediators make push for 45-day ceasefire, Axios reports - Reuters",
+    "summary": "US, Iran and mediators make push for 45-day ceasefire, Axios reports  Reuters",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLXdSNWp1SGppajdvZGVFQ3U3U2JfZTBocXFiLUFNdVEyUkVqXzh5ZUpIUjFaWTdvendlZ0RxZnFYMGZLbXFHU3h0RjRoNzlxUWg4QUZYNk5hd0RZLXhPRHZ5MVBXRjR6M2R0WDZvWmc1d2psNnFydXRrcmkzQ00zNm5xZW1fUjhhczBac2VWOFduUFRnQUdmdG9xR2Jtc2ZKUWtiX1pVN3pYUzR3UmtVV0pB?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1592,8 +1638,8 @@
   },
   {
     "id": "7751432",
-    "headline": "Equities gain, oil settles higher as investors watch US-Iran standoff - reuters.com",
-    "summary": "Equities gain, oil settles higher as investors watch US-Iran standoff  reuters.com",
+    "headline": "Equities gain, oil settles higher as investors watch US-Iran standoff - Reuters",
+    "summary": "Equities gain, oil settles higher as investors watch US-Iran standoff  Reuters",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzSkt0MXdoRmJTYzZsckdKcDFhdV9jNjF0MXlZTFpOVVlab2xWR193NExqRDdhWWpFNjFSaktTcUxjUENpelZyZS1wV2lQMmg5ZF9Sdy13eFEzS1hVcDl6ZHBYUmdpbGhwUE1Edm5qU2xtWDZmZEhnZzVpZw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1615,8 +1661,8 @@
   },
   {
     "id": "7751735",
-    "headline": "Dollar steady as traders weigh escalating Iran war against ceasefire hopes - reuters.com",
-    "summary": "Dollar steady as traders weigh escalating Iran war against ceasefire hopes  reuters.com",
+    "headline": "Dollar steady as traders weigh escalating Iran war against ceasefire hopes - Reuters",
+    "summary": "Dollar steady as traders weigh escalating Iran war against ceasefire hopes  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRm1ZXzAydjFIUk5NanVGMXNwWkdjd0F4dWFSODVaNXh1TVZOR2t5MFlWQ2FTd0RtTmYyNTFfVURBRlVzTUpFTjBvcU4xM0lVTEV5ajJsTWE5UXAxOXJST1VRMlpDal9rYlR6cHpuamM4R2ZIQ29zckhmaHlIYVRBZ0hWODVmSXVHeWlYOEpGRS1yZ181QUd1QUJTR3hYSmVxMk1yNVJnMDZVUFU?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1638,8 +1684,8 @@
   },
   {
     "id": "7751029",
-    "headline": "Trump invokes religious rhetoric in praise of Iran rescue, drawing criticism - reuters.com",
-    "summary": "Trump invokes religious rhetoric in praise of Iran rescue, drawing criticism  reuters.com",
+    "headline": "Trump invokes religious rhetoric in praise of Iran rescue, drawing criticism - Reuters",
+    "summary": "Trump invokes religious rhetoric in praise of Iran rescue, drawing criticism  Reuters",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYndIdVpnSEpCc01GbVhjLWZQeHRGS2lNRXp0ZE9saFlyY2NfTE8yb2s2NGg5Yk9tUHFEYl9ZTkYyMWgtZWU1eXJ0YXZhVjBFWHdWbEVieWcwY19LUEFOX0RLSk0yb0RuUDZIQVNxd2NLYnBpN2I0ZlNicUxpd3VwaGczMVVtTW9JdGtXQWJjVVhmNnFEMVROQ1l3QW1Wemh6V3VRb3VVaDZkbUgtTzF4WVJXaWVvY1QybldPcno4MjNjbWMzZy1F?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1657,8 +1703,8 @@
   },
   {
     "id": "7751030",
-    "headline": "Oil rises in choppy trade; US, Iran rhetoric heats up - reuters.com",
-    "summary": "Oil rises in choppy trade; US, Iran rhetoric heats up  reuters.com",
+    "headline": "Oil rises in choppy trade; US, Iran rhetoric heats up - Reuters",
+    "summary": "Oil rises in choppy trade; US, Iran rhetoric heats up  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQTFnY2M0NTVsQmJCTWJMbnJpekFQekJ4MkMzMnBVRHRuX2QzSTJ2N3RMN01QbVd3UkFvX0phNW1kbVg3dGRoS19USFRvSWhPTndPYVlJUUpDcjhfZ2ZzckstLWVwbEtocnRNZm1oZUFwQldRX0EzT2VQMHpVc2dDODdqOUF6dE9GNllRaTZPWEEzU2haS0dWZnAxR0pGSHVENU9vRW9kdm1uYUNOUVRrTXh3Uk5NQTZtbnczd0lkWGVuUQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1680,8 +1726,8 @@
   },
   {
     "id": "7747196",
-    "headline": "High-stakes US special forces mission rescues airman from Iran after F-15 crash - reuters.com",
-    "summary": "High-stakes US special forces mission rescues airman from Iran after F-15 crash  reuters.com",
+    "headline": "High-stakes US special forces mission rescues airman from Iran after F-15 crash - Reuters",
+    "summary": "High-stakes US special forces mission rescues airman from Iran after F-15 crash  Reuters",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ3pvVXR4VlhVWDJPUkJaZVlrbkdzVjA5bVhkcWJST2VLZk8tTVd5VUNaTFJmVG1YRkpNWmZ4V0M2aFI2cmQtS1BSSWlMci1iTmJRZ1Z0VjJoaUdOMktaM1B1NEpubVEtUDJIZ2RLeG1pSERWMlZoNjNyeXM0UWxFR3FRX0ZwNXV0amRHSEpCcU54c3M4NVRsTXRSaUNyU00wX3NpenlpSHZ0bko5V2hOVV9LSnNjZw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1703,8 +1749,8 @@
   },
   {
     "id": "7750626",
-    "headline": "How a perilous US rescue mission in Iran nearly went off course - reuters.com",
-    "summary": "How a perilous US rescue mission in Iran nearly went off course  reuters.com",
+    "headline": "How a perilous US rescue mission in Iran nearly went off course - Reuters",
+    "summary": "How a perilous US rescue mission in Iran nearly went off course  Reuters",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZlB6OWpEQUtjb2V2MkhwVU1KYWRLSWpzT2tzUlVSMzdtUzNHekN4UHlVVmZUZjFGSzMwM0RSZGZfMjgyZkdoaG9kM2VsZzJXSUJuQlAzZjg0Zi1yN2hYTkxIRTFLRnhLaVYyZDhZbnpwTjM1Z25jdmc5U3JpUnk3V3B1OE9BUGlWTFdyYUhsTjJhTk9vMGk5Rk9JYUtPV2NzMVhTSGVFRldXT2Z5SEhCSGQ0LW9IQVVaYjQtekdn?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1749,8 +1795,8 @@
   },
   {
     "id": "7749821",
-    "headline": "Trump gives Iran until Tuesday night to open Strait of Hormuz, WSJ reports - reuters.com",
-    "summary": "Trump gives Iran until Tuesday night to open Strait of Hormuz, WSJ reports  reuters.com",
+    "headline": "Trump gives Iran until Tuesday night to open Strait of Hormuz, WSJ reports - Reuters",
+    "summary": "Trump gives Iran until Tuesday night to open Strait of Hormuz, WSJ reports  Reuters",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbTU1cDlRT2tQNUMtdkM5VTNJWGR6aTV5MXF3ZzZpcnB6bHFGLXVicFJLUExkUW1nOER1cVZDX2EwbUI2RGtlOGdwLUtLcXdpaG1mbGdZU1B6Y1lqTTNBM1VkSGpPUHNEZ3NiLUxlX2lTX1pUTEZ1MGVWcmNEX3ZBaVFhT2ZrVndqdGpldHRXOE9hMW5La29RMVN6ZC0zMEtBUXhFem1iZHJNa3VIZllPTVdDZVhJM1VxRmcydmdn?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1795,8 +1841,8 @@
   },
   {
     "id": "7749719",
-    "headline": "Russia says US should abandon 'language of ultimatums' on Iran - reuters.com",
-    "summary": "Russia says US should abandon 'language of ultimatums' on Iran  reuters.com",
+    "headline": "Russia says US should abandon 'language of ultimatums' on Iran - Reuters",
+    "summary": "Russia says US should abandon 'language of ultimatums' on Iran  Reuters",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaWlSY3pVZVJQUTktNExIT0ZuSmU0VkdncE5kVHpPaVh4OTR6TkJRZlI3MjMyR1A4Z215dFJxLUZFSC0yeU1SdHFDWFVGaU50UEFkc3RZbGNHUWdpMl9MVWJBcHRGZkxnRV9JMlFYRmNLblB3U3pzVVBmX1FDN09EVW1vVjJwdFdfNjh3SkU2ZW5ieXNPSGZnT0ozeS1zcFZJVFpSV3FDWDhWZDFR?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1819,8 +1865,8 @@
   },
   {
     "id": "7749822",
-    "headline": "Trump threatens Iran after US rescues airman - reuters.com",
-    "summary": "Trump threatens Iran after US rescues airman  reuters.com",
+    "headline": "Trump threatens Iran after US rescues airman - Reuters",
+    "summary": "Trump threatens Iran after US rescues airman  Reuters",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPa281aFltNjZoOTB3MWNaVGNmX2lvcEYxZXl6WXJlZE5ZbzJBY1huT0Y3TjIyZlJzRzl4ZnJLNVVNblN0SGpySXdnRF9XMHI1b1U0R1RlZUV5WkR6aG1tUWZGeU4yZnJQSzR5eV95UzhTMmZuelJUOW50YW56VFJwQ2R2ODRGa0wtTFdFOVNaT2ZfWWM?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1838,8 +1884,8 @@
   },
   {
     "id": "7749114",
-    "headline": "Petronas-chartered tanker loaded with Iraqi crude passes through Hormuz - reuters.com",
-    "summary": "Petronas-chartered tanker loaded with Iraqi crude passes through Hormuz  reuters.com",
+    "headline": "Petronas-chartered tanker loaded with Iraqi crude passes through Hormuz - Reuters",
+    "summary": "Petronas-chartered tanker loaded with Iraqi crude passes through Hormuz  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObzM0R3hqdmpGMGtLdjg1bDhJZmtqM2VFRnVEY1h2M2NMNXJCYy1raHY5RDZqMHdDMUZvUVNJbmQ5cGNZTm5zd0NwM2FDZWQ0N2tvMjlMdmc3MFJLSDJOMThJVFVjbU5NcVVXN0ExOGtPbjMzZkZralBIMzRCRERmR0hDWXpPd2NibVVoT3pDQ3UwdEh4eXJaaTFLYmhVLW96eHBLZ3hhdC05S0dFdE9QeXhTNlU0VTZvSU5QUWhVcU8tUQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1907,8 +1953,8 @@
   },
   {
     "id": "7749216",
-    "headline": "Container ship reports incident at UAE's Khor Fakkan port, UKMTO says - reuters.com",
-    "summary": "Container ship reports incident at UAE's Khor Fakkan port, UKMTO says  reuters.com",
+    "headline": "Container ship reports incident at UAE's Khor Fakkan port, UKMTO says - Reuters",
+    "summary": "Container ship reports incident at UAE's Khor Fakkan port, UKMTO says  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVDQ3aGdMdDNBeVRPRVIwRGJCQV9aNm9oYlljZy0wMlJYYlVoTktVVVlEc292NHB1d1VvLVFnTzZFMEpDZzRUbFJSa2NtNTdlWHFwc2tPRjY3RnZLeFF0Tjd1OWI3WnhhYmtPMFdYX2ZJdzNjOVhIem9LMGJPOFQ4Vjc5R0M2YVZYUTcwR0JBRUFhX194Mmh0LUswSTRsd1ZxbjZ6cUFxMm5qckR4MWkwZXo2MC1BUjNmeWc?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1930,8 +1976,8 @@
   },
   {
     "id": "7749214",
-    "headline": "Trump says deal with Iran possible by Monday, Fox News reports - reuters.com",
-    "summary": "Trump says deal with Iran possible by Monday, Fox News reports  reuters.com",
+    "headline": "Trump says deal with Iran possible by Monday, Fox News reports - Reuters",
+    "summary": "Trump says deal with Iran possible by Monday, Fox News reports  Reuters",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQl9FSFcyNmtxS25qRmZaVnZlOF96czZtZDktRHVsRGNMUDl0RENyZmN3SmFfNjAtNWp0S05GelYyeWFzYThHV1NuaS1MalhuUGVvNzY2UXBiMHN2MTdJUDFyNjdfb1N2QUF4OWNOY1o0Z3pBMDZpQ2Uxc0JFQUJXM21nOGZxZHZKek1wMW9pZk1xdVZveUtRb01vTF9wUlptTE1mMURnbnZwVTZwcG1NeHR3OVJuZw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1999,8 +2045,8 @@
   },
   {
     "id": "7748810",
-    "headline": "Trump, on Easter, threatens 'hell' on Iran's infrastructure if Strait remains blocked - reuters.com",
-    "summary": "Trump, on Easter, threatens 'hell' on Iran's infrastructure if Strait remains blocked  reuters.com",
+    "headline": "Trump, on Easter, threatens 'hell' on Iran's infrastructure if Strait remains blocked - Reuters",
+    "summary": "Trump, on Easter, threatens 'hell' on Iran's infrastructure if Strait remains blocked  Reuters",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM3pCRHpvWFotR0dkUGg2a1Z5LUx3RWYwZ1BpLUw2SVNsb1pQdXROdFhjUWZXeERuNUFveE5rd0xrTEpwWWNhU3QwWFFSZHg1aDFoSmp6LWdCTXhsQXhjZjJ2VExZdDlCSWZkUTdFVnNhZEZDeUlfN3h5YnAwM3ZhVE00dEtMMy1lMmlzcHRjVGZ5ZG45Zzg3NmZ3VDlBVzdJcmd6WkJnMzlvZnpv?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -2022,8 +2068,8 @@
   },
   {
     "id": "7749215",
-    "headline": "Iran's Revolutionary Guards say they targeted petrochemical facilities in the Gulf - reuters.com",
-    "summary": "Iran's Revolutionary Guards say they targeted petrochemical facilities in the Gulf  reuters.com",
+    "headline": "Iran's Revolutionary Guards say they targeted petrochemical facilities in the Gulf - Reuters",
+    "summary": "Iran's Revolutionary Guards say they targeted petrochemical facilities in the Gulf  Reuters",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOa25vR2JoVElBN2NRYm5DM3V2dEc4RVpnODJ5Z1dPRWM3UEFnZE1zUTlSWUkwUFo2Q1FoZDRxcXp1bXZzTUZNaVFBTS1WNkZ6YU9LT3lHWW1WNzJJVkFvRGdUUTF0eUdTQ2JYOV9mS1FTdldYa1N2VS1RQzQtMVh6Q0ZXZGRUdFVXSTdEVnhUOXV3aGlwbzQ5cGNNQUNTRDZJSzNLT1FwVjVreVBrdzJldVpFYVpxWVhhMXpKTWR0X0VFRC1Kemdv?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -2045,8 +2091,8 @@
   },
   {
     "id": "7744584",
-    "headline": "US says its agents arrested Qassem Soleimani's relatives after revoking green cards - reuters.com",
-    "summary": "US says its agents arrested Qassem Soleimani's relatives after revoking green cards  reuters.com",
+    "headline": "US says its agents arrested Qassem Soleimani's relatives after revoking green cards - Reuters",
+    "summary": "US says its agents arrested Qassem Soleimani's relatives after revoking green cards  Reuters",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMlZXRVJHOE5oclhKaGVjcGlFVkpyd09HTmxlZlQzLXY0X0RZb2I0R2RJSUZadVhsbVQzSjdZanJhdjlJLWhINE1HRG43Z2liOVVrQzVxcUh2ODdkRTFtV1MtYjlvOWNMUmY0NlZpVEFQYkplZGdSMmk3X1FKaXVHT2VzaElpSm1aRV9EYm14WjBMZm1RMzBYXzhyUE45MU9jZndFemZyeC1VM0NVUC1JbXNCeElURlJjUEp0ZGdn?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -2064,8 +2110,8 @@
   },
   {
     "id": "7749012",
-    "headline": "Israeli intelligence helped US airman rescue mission in Iran, official says - reuters.com",
-    "summary": "Israeli intelligence helped US airman rescue mission in Iran, official says  reuters.com",
+    "headline": "Israeli intelligence helped US airman rescue mission in Iran, official says - Reuters",
+    "summary": "Israeli intelligence helped US airman rescue mission in Iran, official says  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPczEtMEcydVlaY3FLdndQN2tLZUdjekVDYmJmeEZIa0pkSW5Fc0Yxd19DendCVW5ZUzgyQ01Mc0tXaDFCX0lHUEtnQThjYXJwVFJiRXVmYXJnSUNtZWlXV0VxdENMeXhxX0dfSEU4U0p3SXJpMXdSamxZb3FuX0ptbzdrX21kSDRIekZOVXQwc2had3pNV2RaYVUySklEeXhsdm9aNzJpbjZleXJnbVNBalA5TmxTbEM3bERqNzRhOXBYVEU?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -2087,8 +2133,8 @@
   },
   {
     "id": "7748603",
-    "headline": "Kuwait Petroleum Corp reports damage at units after Iran drone attack - reuters.com",
-    "summary": "Kuwait Petroleum Corp reports damage at units after Iran drone attack  reuters.com",
+    "headline": "Kuwait Petroleum Corp reports damage at units after Iran drone attack - Reuters",
+    "summary": "Kuwait Petroleum Corp reports damage at units after Iran drone attack  Reuters",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZVBjZS1ibjRmNHEwdkdBT3R0U0dadm5aMVR2dVFvUGFXQjF0ZlpBMzNwMWZNTkV1UHRHNHdjY1FpLVpzUFNBaXExeWpwYUI1QzdoLUJNeDRrTU14UFVmMWswSXZoWndyNklrYVVDWkFvbmYyUmZveXhRZFluNjVHUmtGOTFCVXRuVXpoT3RjX0MyUTZtUWNMa21RejRORWUtbVRsbGdhRWUwcjlaSGdkSHl2QXM1STk3NXFNWA?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -2110,8 +2156,8 @@
   },
   {
     "id": "7748202",
-    "headline": "OPEC+ agrees to boost oil output when Strait of Hormuz reopens - reuters.com",
-    "summary": "OPEC+ agrees to boost oil output when Strait of Hormuz reopens  reuters.com",
+    "headline": "OPEC+ agrees to boost oil output when Strait of Hormuz reopens - Reuters",
+    "summary": "OPEC+ agrees to boost oil output when Strait of Hormuz reopens  Reuters",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ0w1SHNLQ1k1UGtoeDZfXzZ6N3pwVzNzc2tkZ2xCdmpjazMwQktBeEpzMXZLYTB0NzJZakNtdUdKV2FENkc0eW9nZHZseWQzTVNObWpidElWby1UTGhCaTlSZ2tSWU4weXlHNEppMlBXNUR0YXotR3dMbUgxdzlHSXdoM3REd2NQRG1COFlTeVlwRXZzR3RCckh6Q2pyTWRKTmExVkJjWXRpZlZBNUUzcExkdDYxdGxuRXB6QlZQTjF3MWlVdFpF?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -2175,8 +2221,8 @@
   },
   {
     "id": "7741252",
-    "headline": "Trump proposes \"historic\" defense spending budget, eyes 10% cut to other federal programs - reuters.com",
-    "summary": "Trump proposes \"historic\" defense spending budget, eyes 10% cut to other federal programs  reuters.com",
+    "headline": "Trump proposes \"historic\" defense spending budget, eyes 10% cut to other federal programs - Reuters",
+    "summary": "Trump proposes \"historic\" defense spending budget, eyes 10% cut to other federal programs  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMVA1Ym02OGJuQkdHMnFmTGd3cjNKdVFYY2xYQkx6S1JlRERLVnV2d19QR0xLRUlkb2c5bE1uUHpkZnVRSUM2RjlRbXUxVkt6empwVnF5Z2UzUWYxU0x5Q1J3T3pDSmVfTExGX05zdTEtSE1xcE9CRVZDOThGUUpwVVZ0R2VhSGk0R1JBblhPVjRFWXRaWWpBZVhPTTI5TU02ZHF3NG5ERHB1TXdRWGY5dkdOVXZHTmg2RzI1UmptdTFTZw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -2198,8 +2244,8 @@
   },
   {
     "id": "7747700",
-    "headline": "Iran says several 'enemy aircraft' destroyed during US pilot rescue mission - reuters.com",
-    "summary": "Iran says several 'enemy aircraft' destroyed during US pilot rescue mission  reuters.com",
+    "headline": "Iran says several 'enemy aircraft' destroyed during US pilot rescue mission - Reuters",
+    "summary": "Iran says several 'enemy aircraft' destroyed during US pilot rescue mission  Reuters",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYzVScW5LSmV5c2R2MG1YVVVZbmgwS0EzZ21yWWo5enZpb2xJSXRDd0t6VDBZemx6NERsRzFGdDg5cW9RWDdoTHVZMGliV1F5dWQzQWpYVmIwUnRteWIta3o4SldBWGs4OHZkT2JTMVVoQy1OYmFCc080ejR3dE5tSTVBazNlTHlWZENUMkFNdVBIcnBkWkZTc3NYa3FBVUtZZjJLa3l1TjRDaUdoT2ZEVjg2bm5IckJVUDZqLXp4b25mQmJHcUlLdGhfNG1ldw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -22710,53 +22756,6 @@
       "summary": "Iranian Intelligence Minister Khatib's killing by Israel is a significant escalation in the ongoing conflict between the two nations. This event is likely a response to recent Iranian actions, possibly related to the country's nuclear program. The incident may lead to increased tensions and potential military action, which could have far-reaching consequences for the global energy market, particularly for oil-producing countries like Saudi Arabia and the UAE. The event's impact on the business world is still uncertain, but it may lead to increased volatility in the energy sector.",
       "impact": "The potential impact on related stocks is significant, with a short-term increase in volatility expected. Oil prices may rise due to the heightened tensions, benefiting energy companies like Saudi Aramco (TADAWUL: 7010) and the UAE's ADNOC. Medium-term, the situation may lead to a reevaluation of the region's energy market, potentially affecting the earnings outlook for companies like Schlumberger (SLB) and Halliburton (HAL).",
       "risks": []
-    }
-  },
-  {
-    "id": "7659576",
-    "headline": "Kremlin condemns US-Israeli 'murder' of Iran’s leaders after Ali Larijani killing - Reuters",
-    "summary": "Kremlin condemns US-Israeli 'murder' of Iran’s leaders after Ali Larijani killing  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc3R6UGhiUkl2N0RCaHdvMlV3d3loODNYRFBFaUdtOERNYUhQR1dJOWtxRFdOUkM1cGNfSWlWNGFjUFIwelA2TFJuUGl5Mk5ZbG92WWZjMlRMdWtYYTZfd0k0by1fMDVqYXV2WjFIeDU4V0hDYUNMU3FsYUt0aDhlVEE4SFJGb0puQUQzY3lpamliUVUyVzI5dnQxNVpuME0zLVZhLWZMem1LZGhERFNuRUxTTEtqUnBTQ0prdzFPdlZ1UWRPQ3dmaw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1773829333,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1773843059,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The Kremlin has condemned the alleged murder of Iran's former parliament speaker Ali Larijani, attributing it to the US and Israel. This development is likely to escalate tensions between Iran and the US-Israeli alliance, potentially leading to increased geopolitical instability in the region. The situation may lead to a heightened state of alertness among investors, potentially causing a risk-off sentiment in the market. This could negatively impact the valuation of companies with exposure to the Middle East or with significant operations in the region.",
-      "impact": "The potential escalation of tensions may lead to a short-term sell-off in stocks with exposure to the Middle East, such as oil and gas companies, defense contractors, and companies with significant operations in the region. In the medium term, this could lead to a decline in investor sentiment, potentially impacting earnings outlook and valuation of these companies. The increased geopolitical uncertainty may also lead to a decrease in liquidity and an increase in volatility in the market.",
-      "risks": [
-        "geopolitical instability risk",
-        "valuation risk",
-        "liquidity risk",
-        "earnings outlook risk"
-      ]
-    }
-  },
-  {
-    "id": "7663493",
-    "headline": "Malaysia fertiliser producers halt new orders as Iran war drives up prices - Reuters",
-    "summary": "Malaysia fertiliser producers halt new orders as Iran war drives up prices  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVFRYVXR5ZjlWMEJMSFRld2liMVpXM18wUlhHZzZRMUJKWUJnRjVxUDFpLTNSbktxUTRJMWQzX2R6cXJwYmd3MXktUk9EZjVyNTFwRklNS0Z2SVRJZzFKQ041aXZOaXdUQzY3X0ExRnNMRmkxaDJ6M3YzRmNEN1VPZGhuekJNelhCd1BRdEF5dHVzcnQ1QjgxcXE3Zjlsbzl6eUxGaXZrYWV0d0U5Wm03TVVxNUF1YU9NQUtZaWpsQjQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1773828809,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1773908975,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Malaysian fertiliser producers have halted new orders due to the Iran war driving up prices. The conflict has disrupted global supply chains, leading to increased demand for fertilisers. This surge in demand has pushed up prices, making it unprofitable for Malaysian producers to take on new orders. The industry's reliance on global supply chains makes it vulnerable to geopolitical events.",
-      "impact": "This news is likely to have a short-term negative impact on Malaysian fertiliser producers, as they will struggle to maintain profitability with higher input costs. The medium-term outlook is also uncertain, as the conflict in Iran may persist, leading to sustained price increases. This could lead to a decline in earnings for fertiliser producers, making their stocks less attractive to investors. The increased volatility in the market may also lead to reduced liquidity, making it challenging for investors to buy or sell shares.",
-      "risks": [
-        "increased input costs risk",
-        "reduced profitability risk",
-        "volatile market risk"
-      ]
     }
   }
 ]
