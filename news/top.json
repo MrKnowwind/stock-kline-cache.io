@@ -1,5 +1,93 @@
 [
   {
+    "id": "7765006",
+    "headline": "Latest investigation of Bitcoin founder ties identity to Blockstream CEO Adam Back",
+    "summary": "A report by the New York Times claims it has discovered the identity of the pseudonymous creator of Bitcoin known as Satoshi Nakamoto.",
+    "url": "https://www.cnbc.com/2026/04/08/latest-investigation-of-bitcoin-founder-ties-identity-to-blockstream-ceo-adam-back.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108288814-1775671466594-gettyimages-2216970661-BITCOIN_2025.jpeg?v=1775671519&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1775672784,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1775674409,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "A New York Times investigation claims that Adam Back, CEO of Blockstream, is the likely creator of Bitcoin. Back has consistently denied this claim. The investigation points to similarities in language, timelines, and work history between Back and Satoshi Nakamoto. However, Blockstream has stated that the claims are based on circumstantial evidence and speculation. The crypto community has downplayed the significance of the revelation, suggesting that it would have little impact on Bitcoin fundamentals.",
+      "impact": "The news is unlikely to have a significant impact on Blockstream's stock price in the short term, as the company has maintained that the claims are unfounded. However, the revelation may lead to increased scrutiny of Blockstream's leadership and potentially affect investor sentiment in the medium term. The price of Bitcoin has been driven by broader market factors, and this news is unlikely to have a material impact on its price.",
+      "risks": [
+        "reputation risk for Blockstream and its leadership",
+        "potential regulatory scrutiny",
+        "impact on investor sentiment and confidence in the company"
+      ]
+    }
+  },
+  {
+    "id": "7764791",
+    "headline": "Jeff Shell leaves Paramount after allegations of SEC violations; company calls claims 'baseless'",
+    "summary": "Paramount President Jeff Shell is leaving his position after a lawsuit accused him of violating SEC rules.",
+    "url": "https://www.cnbc.com/2026/04/08/jeff-shell-paramount.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108271264-17722308922026-02-27t222039z_678889052_rc2kujarjasl_rtrmadp_0_paramount-warner-bros.jpeg?v=1772230963&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1775669586,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1775674453,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Paramount's President Jeff Shell is leaving his position after allegations of SEC rule violations. A $150 million lawsuit claims Shell shared confidential information, which he denies. The company calls the claims 'baseless' and Shell is taking legal action. Shell's departure comes after the company acquired Warner Bros. Discovery, bringing in new executives and potentially altering his role. This incident may raise concerns about corporate governance and compliance at Paramount.",
+      "impact": "The news may lead to short-term stock volatility due to investor concerns about corporate governance and potential regulatory scrutiny. In the medium term, Shell's departure could impact Paramount's ability to execute on its strategic plans, particularly with the integration of Warner Bros. Discovery. This may lead to a reassessment of the company's earnings outlook and valuation. The incident may also affect investor sentiment towards the company, potentially leading to a decline in stock price.",
+      "risks": []
+    }
+  },
+  {
+    "id": "7763701",
+    "headline": "US bank profits to rise on deals, but Iran war fuels outlook uncertainty - Reuters",
+    "summary": "US bank profits to rise on deals, but Iran war fuels outlook uncertainty  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeE96cldzVEJ3a0M1MVR3Zkt6TFVINS1FcFlHZkR2eW1ZcDFlUTVlMjJsbUFvRUx1MjJSZHp0TzJPNTJDTzFBNHV0dnNrUk1FRk15eTFlMDZGSFR6OU91SnVoQVlmRTU2aHp2OUk0dkl5eDl0aVZEamNvamJWX1p2NDBWcjRpTDhkbEVieFFRNWs0TzJiZVJKN2VQZl9qSDN2bnJudFNVSnpWblpOSTNULWwyR1Q?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1775669036,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1775652450,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "US bank profits are expected to rise due to a surge in deal-making activity, driven by a low-interest-rate environment and a strong economy. However, the ongoing tensions with Iran and the potential for war have created uncertainty about the future outlook. This uncertainty may impact banks' ability to accurately forecast their earnings and make informed investment decisions. The US banking sector has been performing well in recent years, with many banks reporting strong profits and returning capital to shareholders through dividends and share buybacks.",
+      "impact": "The potential for war with Iran may lead to increased volatility in the financial markets, which could negatively impact bank stocks in the short term. In the medium term, a prolonged conflict could lead to a slowdown in economic growth, which would negatively impact bank earnings. However, the current low-interest-rate environment and strong economy may continue to support bank profits, at least in the short term. The uncertainty surrounding the Iran situation may lead to a decrease in investor sentiment towards bank stocks, making them more attractive to value investors.",
+      "risks": [
+        "Iran war risk",
+        "Economic slowdown risk",
+        "Investor sentiment risk"
+      ]
+    }
+  },
+  {
+    "id": "7763826",
+    "headline": "Shippers seek clarity on Hormuz passage as Iran issues fresh warnings - Reuters",
+    "summary": "Shippers seek clarity on Hormuz passage as Iran issues fresh warnings  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ3BMRUluT3NoVWwzRzBhbEJTWlhqTVhYR2hGNDh6bFhyVUF6d3RWcnpxbTlHVG9GUThRdXd5ZzB6T1kwZDV3WTFOQi1qczRrN2V1X3N2VHA0NjBQclViSnFxQ3ZpUzZCQlp5QnlZNU1vYWVoWGFuRVE4ODR3UWswUnlRaVctb0RTU2t4ZWlHdk8zTzI0U1k0REJ6Mk1fbXpfN0N6SG82NzlpWEZOY1UxQ2xidFlER3JUQnZJ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1775668451,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1775664441,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Shippers are seeking clarity on the reopening of the Strait of Hormuz after a US-Iran ceasefire deal. The Strait is a critical waterway for global oil trade, with many countries relying on it for oil imports. The deal has raised hopes for a reduction in tensions in the region, which could lead to increased trade and economic activity. However, the situation remains uncertain, and shippers are seeking more information before making decisions. The Strait's reopening is crucial for the global oil market, and any disruptions could have significant economic implications.",
+      "impact": "The potential reopening of the Strait of Hormuz could have a positive impact on oil-related stocks, such as those of shipping companies and oil majors, as trade and economic activity increase. However, the uncertainty surrounding the situation could lead to a short-term volatility in the stock prices of these companies. In the medium term, the reopening of the Strait could lead to increased demand for oil and related services, potentially driving up earnings for companies involved in the oil industry.",
+      "risks": [
+        "Risk of prolonged tensions in the region",
+        "Uncertainty surrounding the Strait's reopening timeline",
+        "Potential for increased costs and disruptions to shipping operations"
+      ]
+    }
+  },
+  {
     "id": "7762818",
     "headline": "Israel pounds Lebanon with heaviest airstrikes of war as Hezbollah pauses attacks - Reuters",
     "summary": "Israel pounds Lebanon with heaviest airstrikes of war as Hezbollah pauses attacks  Reuters",
@@ -19,6 +107,29 @@
         "Risk of renewed conflict between the US and Iran",
         "Uncertainty around the long-term implications of the ceasefire",
         "Potential for increased military spending in the region"
+      ]
+    }
+  },
+  {
+    "id": "7764794",
+    "headline": "Explainer: US-Iran ceasefire: what we know - Reuters",
+    "summary": "Explainer: US-Iran ceasefire: what we know  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbW95emZzTlpaX2lCbEE1QVNNcGEzZ2oybG1VUUNkNzQ1elNyeGFBNXk0LXVDU1hXQVdLbklGUTJXNDM3aURzbGFxVDdQdmw4ZGU4enhzT0J5cURhSzF0SUFNUGJnU2tCSzRDZC1yS0JKWUtTQWFjUENTbWlGRXVPNTdBVGZxRlk2U2QyMnhR?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1775666600,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1775674510,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The US-Iran ceasefire agreement has been reached, marking a significant development in the region. The agreement is a result of diplomatic efforts to de-escalate tensions between the two countries. The ceasefire is a positive step towards reducing the risk of conflict and its associated economic costs. However, the agreement's long-term implications and the potential for future tensions remain uncertain. The ceasefire may have a positive impact on regional stability, but its effects on the global economy and specific industries are unclear.",
+      "impact": "The ceasefire may lead to a short-term increase in investor sentiment, potentially benefiting stocks with exposure to the aerospace and defense industries. However, the medium-term impact is uncertain, and investors should monitor developments in the region for signs of increased stability or renewed tensions. The ceasefire may also have a positive impact on oil prices, benefiting energy stocks.",
+      "risks": [
+        "Renewed tensions between the US and Iran could lead to a breakdown in the ceasefire and increased instability in the region.",
+        "The agreement's long-term implications and potential for future tensions remain uncertain, making it challenging to predict its impact on the global economy and specific industries.",
+        "The ceasefire may not address underlying issues between the US and Iran, potentially leading to future conflicts and economic instability."
       ]
     }
   },
@@ -291,29 +402,6 @@
     }
   },
   {
-    "id": "7763826",
-    "headline": "Shippers seek clarity on Hormuz reopening after US-Iran ceasefire deal - Reuters",
-    "summary": "Shippers seek clarity on Hormuz reopening after US-Iran ceasefire deal  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ3BMRUluT3NoVWwzRzBhbEJTWlhqTVhYR2hGNDh6bFhyVUF6d3RWcnpxbTlHVG9GUThRdXd5ZzB6T1kwZDV3WTFOQi1qczRrN2V1X3N2VHA0NjBQclViSnFxQ3ZpUzZCQlp5QnlZNU1vYWVoWGFuRVE4ODR3UWswUnlRaVctb0RTU2t4ZWlHdk8zTzI0U1k0REJ6Mk1fbXpfN0N6SG82NzlpWEZOY1UxQ2xidFlER3JUQnZJ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1775660916,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1775664441,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Shippers are seeking clarity on the reopening of the Strait of Hormuz after a US-Iran ceasefire deal. The Strait is a critical waterway for global oil trade, with many countries relying on it for oil imports. The deal has raised hopes for a reduction in tensions in the region, which could lead to increased trade and economic activity. However, the situation remains uncertain, and shippers are seeking more information before making decisions. The Strait's reopening is crucial for the global oil market, and any disruptions could have significant economic implications.",
-      "impact": "The potential reopening of the Strait of Hormuz could have a positive impact on oil-related stocks, such as those of shipping companies and oil majors, as trade and economic activity increase. However, the uncertainty surrounding the situation could lead to a short-term volatility in the stock prices of these companies. In the medium term, the reopening of the Strait could lead to increased demand for oil and related services, potentially driving up earnings for companies involved in the oil industry.",
-      "risks": [
-        "Risk of prolonged tensions in the region",
-        "Uncertainty surrounding the Strait's reopening timeline",
-        "Potential for increased costs and disruptions to shipping operations"
-      ]
-    }
-  },
-  {
     "id": "7763823",
     "headline": "Trump says US will work closely with Iran, discuss sanctions - Reuters",
     "summary": "Trump says US will work closely with Iran, discuss sanctions  Reuters",
@@ -367,7 +455,20 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/108151527-1748460412080-gettyimages-135509618-da9e719c-f696-4f98-96a7-014511503266.jpeg?v=1748460421&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1775657401
+    "publishedAt": 1775657401,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1775674559,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "The article highlights luxury housing markets in the US where million-dollar listings are common, with Nantucket, Massachusetts, having the highest concentration of such listings. These markets are characterized by scarcity, strict building codes, and finite land availability, driving up prices. Realtor.com identified 13 such markets across the country, including non-coastal areas like Jackson, Wyoming, and Petoskey, Michigan. The report notes that the luxury housing market is showing signs of softness, with the luxury threshold declining 2.9% year-over-year. This trend may be driven by high-income consumers' reduced spending in the luxury segment.",
+      "impact": "The article may have a neutral to slightly bearish impact on homebuilders and real estate companies, as it highlights the luxury housing market's softness. This could lead to a decline in demand for high-end homes, potentially affecting earnings for companies like Toll Brothers (TOL) and D.R. Horton (DHI). However, the article also highlights the resilience of certain luxury markets, which could support the valuations of companies like Lennar (LEN), which has a strong presence in California and other high-end markets.",
+      "risks": [
+        "luxury housing market slowdown risk",
+        "decline in high-income consumer spending risk",
+        "valuation risk for homebuilders and real estate companies"
+      ]
+    }
   },
   {
     "id": "7762297",
@@ -401,7 +502,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1775655783
+    "publishedAt": 1775655783,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1775674607,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Iran's economy is severely weakened, making any potential success in the war against the country's government a fleeting achievement. The country's economy has been severely impacted by international sanctions, corruption, and mismanagement, leading to high inflation, unemployment, and poverty. This fragile economic situation means that any gains from a successful war would be short-lived, as the country would struggle to maintain stability and provide basic services to its citizens. The article highlights the dire economic situation in Iran, which could have significant implications for the country's ability to respond to external threats.",
+      "impact": "The news is likely to have a bearish impact on the global oil market, as a prolonged conflict in Iran could lead to supply disruptions and higher prices. This could negatively affect oil majors such as ExxonMobil (XOM) and Chevron (CVX), which are heavily reliant on global oil prices. Additionally, the article's focus on Iran's economic fragility could lead to a decrease in investor sentiment towards emerging markets, potentially affecting stocks such as the iShares MSCI Emerging Markets ETF (EEM).",
+      "risks": [
+        "Supply chain disruptions risk",
+        "Increased oil prices risk",
+        "Decreased investor sentiment risk"
+      ]
+    }
   },
   {
     "id": "7764143",
@@ -424,14 +538,23 @@
     "publishedAt": 1775655193
   },
   {
-    "id": "7763371",
-    "headline": "Gulf equities rally on US-Iran ceasefire agreement - Reuters",
-    "summary": "Gulf equities rally on US-Iran ceasefire agreement  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR2ZjNS1UcUJ3WV9naTgwVU5pUkI2N2R5dHJTcGQ0cnN6Z05PNkRaY3dXa09LM25OTFZzZnlXRkRkMFdfYk05a0ZCN3AyOF9mMVBHSFktZHcySGQyZk50Q0lEVmZMaDk5SmtKUlE0TWpYS0h4d3BZVHJBWXVpeFlxb05ZRERHNU5QQ1FSdXFQaG9SR3NqUDNYbGdoRHRxaTA?oc=5",
+    "id": "7762819",
+    "headline": "Shell flags lower gas output, capital outflow amid Iran conflict but sees oil trading boost - Reuters",
+    "summary": "Shell flags lower gas output, capital outflow amid Iran conflict but sees oil trading boost  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdy1uaWJsY0hfTnY0bV9tTnVwY1ZJUlRPSUllNEkyRmZ5SmRjUk9kQ1B6Qm1iQ1ozMTk1MUJub0RGdm5QaWc4MVNaQ05NTVZQWEpHbUY5UlhkMlA3cWF5ZzhrZzRYbGNIUmpLOTJCWUdBbGZNSDRwa2Y2RG80eWpLQlZSUGJRRnhJRHlLbFJzdTFVdVFZa2Nscnd5QkZZZ255OUNOejVNTkdhdGZzWnpvYUxzNA?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1775655149
+    "publishedAt": 1775655044,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1775641841,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Royal Dutch Shell has warned of a hit to its first-quarter gas output and capital outflow due to the ongoing conflict in Iran. The company's operations in the region have been impacted by the tensions, leading to a reduction in gas production. This is a significant development for Shell, as the company relies heavily on its gas production to drive revenue. The conflict in Iran has also led to a capital outflow, which will further impact Shell's financials.",
+      "impact": "This news is likely to have a negative impact on Shell's earnings outlook, particularly in the short-term. The reduction in gas production will lead to lower revenue, which may put pressure on the company's valuation. Additionally, the capital outflow will further strain Shell's financials, potentially leading to a decrease in liquidity. In the medium-term, this news may also impact investor sentiment, leading to a decrease in stock price.",
+      "risks": []
+    }
   },
   {
     "id": "7763924",
@@ -556,6 +679,29 @@
     "publishedAt": 1775650066
   },
   {
+    "id": "7761677",
+    "headline": "Iran ceasefire provides hope, but physical oil markets to remain stressed - Reuters",
+    "summary": "Iran ceasefire provides hope, but physical oil markets to remain stressed  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNnp6SFdwX3ZVbmF0NVUtMEZyV05SX19sdEVmM3M5a1pPc3RRVnBpZERCcnp4dXV5anVMeHNNZW5LTVY5RDdteTdTTnUwQjdZQlZoczgxc2xyS05fSnVkWWNyc01wLW1xNmxVOWFkVDBJZ192bW1vZHozaXdEcmhfNmJrRFQ0RGpaYXkzdC1kUmlHX3BvNVFlanlWRTdaNVFQRlgzWXRsVWYyOTFRbGJSM20wVUp0VFRhLUptcjlB?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1775649624,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1775622259,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "A ceasefire in Iran has brought hope for a reduction in tensions in the region, which could positively impact oil prices. However, physical oil markets are expected to remain stressed due to ongoing supply chain disruptions and logistical challenges. The news is a mixed bag for oil-producing countries, as a decrease in oil prices could negatively impact their revenues, but a reduction in tensions could also lead to increased oil demand. The ceasefire may also have a positive impact on global economic sentiment, which could benefit oil-consuming companies. The article does not mention any specific companies or stocks, but the news is relevant to the broader oil and energy sector.",
+      "impact": "The news is likely to have a mixed impact on oil-producing companies' earnings outlook, with lower oil prices potentially reducing revenues but a decrease in tensions potentially leading to increased oil demand. In the short-term, oil prices may remain volatile due to ongoing supply chain disruptions, but a decrease in tensions could lead to increased oil demand in the medium-term. This could benefit oil-consuming companies, such as airlines and trucking companies, which may see an increase in demand for their services.",
+      "risks": [
+        "Supply chain disruptions risk",
+        "Logistical challenges risk",
+        "Decreased oil prices risk for oil-producing countries"
+      ]
+    }
+  },
+  {
     "id": "7763258",
     "headline": "Pope Leo praises Iran war ceasefire after criticizing Trump threat - Reuters",
     "summary": "Pope Leo praises Iran war ceasefire after criticizing Trump threat  Reuters",
@@ -661,25 +807,35 @@
     "publishedAt": 1775645678
   },
   {
-    "id": "7763701",
-    "headline": "US bank profits to rise on deals, but Iran war fuels outlook uncertainty - Reuters",
-    "summary": "US bank profits to rise on deals, but Iran war fuels outlook uncertainty  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeE96cldzVEJ3a0M1MVR3Zkt6TFVINS1FcFlHZkR2eW1ZcDFlUTVlMjJsbUFvRUx1MjJSZHp0TzJPNTJDTzFBNHV0dnNrUk1FRk15eTFlMDZGSFR6OU91SnVoQVlmRTU2aHp2OUk0dkl5eDl0aVZEamNvamJWX1p2NDBWcjRpTDhkbEVieFFRNWs0TzJiZVJKN2VQZl9qSDN2bnJudFNVSnpWblpOSTNULWwyR1Q?oc=5",
+    "id": "7764903",
+    "headline": "Turkey's Erdogan welcomes Iran ceasefire, urges full implementation - Reuters",
+    "summary": "Turkey's Erdogan welcomes Iran ceasefire, urges full implementation  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNFZJTTlwTHFkV3dUSjNSQm1GeXhTOUVGYWZ2MVg3YjNLNWJZLW0xc1JjTlNwaUlrUkZwVEFWSTJsUmhEOWZEVVB0M2RIanZTR0I4ZjhfcFJNdFZidENLV2l5dzNqVjdmZVlRX29Kdk1OczdmdnF5Uy1nQTBGRlNPX3BhZEZsMmlpc2MyQlVQbjRwRXhNc0lwa0NjN3RFeG0wRS1FeXdldGh4T0plNUcxdkMyWXFHbnRxeWpV?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1775643171,
+    "publishedAt": 1775645482
+  },
+  {
+    "id": "7761882",
+    "headline": "Indian equities soar as Iran ceasefire sparks global rally - Reuters",
+    "summary": "Indian equities soar as Iran ceasefire sparks global rally  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX3hSOEQ0UUU1ekFrTXFBcEpkdkp1a2VWY1FYbGFmeTlxeXlWdmhMLTNGRlY2Sl9mS2d3NlhXV1p1d3FCdWRFd1ZjRHl5bHdQNDRXX09LS1FIODUwRUNIb3kyNW16eXZqdDNTa2JUUjR2VjhMWHEwZnVJT3RYcWZublMtU2JIRkg2WXZPWEppNmVWZHc4VXRpTDVaV3dhV1ZmakN5ZmNKRDJJdVhQQy1z?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1775644236,
     "analysis": {
       "version": 2,
-      "generatedAt": 1775652450,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "US bank profits are expected to rise due to a surge in deal-making activity, driven by a low-interest-rate environment and a strong economy. However, the ongoing tensions with Iran and the potential for war have created uncertainty about the future outlook. This uncertainty may impact banks' ability to accurately forecast their earnings and make informed investment decisions. The US banking sector has been performing well in recent years, with many banks reporting strong profits and returning capital to shareholders through dividends and share buybacks.",
-      "impact": "The potential for war with Iran may lead to increased volatility in the financial markets, which could negatively impact bank stocks in the short term. In the medium term, a prolonged conflict could lead to a slowdown in economic growth, which would negatively impact bank earnings. However, the current low-interest-rate environment and strong economy may continue to support bank profits, at least in the short term. The uncertainty surrounding the Iran situation may lead to a decrease in investor sentiment towards bank stocks, making them more attractive to value investors.",
+      "generatedAt": 1775622212,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Indian shares are expected to open higher on the news of a ceasefire in Iran, which is seen as a positive development for the global economy. The Reserve Bank of India (RBI) is also set to make a decision today, which could have a significant impact on the market. The RBI's decision is expected to influence the direction of the Indian rupee and interest rates, which in turn could affect the overall market sentiment. The ceasefire in Iran is expected to reduce tensions in the region and boost investor confidence, leading to a positive opening in the Indian stock market.",
+      "impact": "The potential ceasefire in Iran and the RBI decision could lead to a short-term rally in Indian stocks, particularly in sectors such as energy, finance, and consumer staples. This is because a reduction in global tensions and a stable monetary policy could boost investor sentiment and increase demand for Indian assets. In the medium term, a stable RBI decision could lead to a re-rating of Indian stocks, particularly those with a high exposure to the domestic market. The ceasefire in Iran could also lead to an increase in oil prices, which could benefit Indian oil companies and other energy-related stocks.",
       "risks": [
-        "Iran war risk",
-        "Economic slowdown risk",
-        "Investor sentiment risk"
+        "market volatility risk",
+        "RBI decision uncertainty risk",
+        "geopolitical risk"
       ]
     }
   },
@@ -799,46 +955,14 @@
     "publishedAt": 1775630580
   },
   {
-    "id": "7762819",
-    "headline": "Shell flags lower gas output, capital outflow amid Iran conflict but sees oil trading boost - Reuters",
-    "summary": "Shell flags lower gas output, capital outflow amid Iran conflict but sees oil trading boost  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdy1uaWJsY0hfTnY0bV9tTnVwY1ZJUlRPSUllNEkyRmZ5SmRjUk9kQ1B6Qm1iQ1ozMTk1MUJub0RGdm5QaWc4MVNaQ05NTVZQWEpHbUY5UlhkMlA3cWF5ZzhrZzRYbGNIUmpLOTJCWUdBbGZNSDRwa2Y2RG80eWpLQlZSUGJRRnhJRHlLbFJzdTFVdVFZa2Nscnd5QkZZZ255OUNOejVNTkdhdGZzWnpvYUxzNA?oc=5",
+    "id": "7763371",
+    "headline": "Gulf equities rally on US-Iran ceasefire agreement - Reuters",
+    "summary": "Gulf equities rally on US-Iran ceasefire agreement  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR2ZjNS1UcUJ3WV9naTgwVU5pUkI2N2R5dHJTcGQ0cnN6Z05PNkRaY3dXa09LM25OTFZzZnlXRkRkMFdfYk05a0ZCN3AyOF9mMVBHSFktZHcySGQyZk50Q0lEVmZMaDk5SmtKUlE0TWpYS0h4d3BZVHJBWXVpeFlxb05ZRERHNU5QQ1FSdXFQaG9SR3NqUDNYbGdoRHRxaTA?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1775628600,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1775641841,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Royal Dutch Shell has warned of a hit to its first-quarter gas output and capital outflow due to the ongoing conflict in Iran. The company's operations in the region have been impacted by the tensions, leading to a reduction in gas production. This is a significant development for Shell, as the company relies heavily on its gas production to drive revenue. The conflict in Iran has also led to a capital outflow, which will further impact Shell's financials.",
-      "impact": "This news is likely to have a negative impact on Shell's earnings outlook, particularly in the short-term. The reduction in gas production will lead to lower revenue, which may put pressure on the company's valuation. Additionally, the capital outflow will further strain Shell's financials, potentially leading to a decrease in liquidity. In the medium-term, this news may also impact investor sentiment, leading to a decrease in stock price.",
-      "risks": []
-    }
-  },
-  {
-    "id": "7761983",
-    "headline": "Israel backs Trump's two-week pause on Iran strikes, says Lebanon excluded - Reuters",
-    "summary": "Israel backs Trump's two-week pause on Iran strikes, says Lebanon excluded  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORkVCVG9QTEZxTFM5R252SjFLZFFhMi1JdFdNY1ozakZVWFVEQlBYOWo0bHkzOEVXdkE5RVZHSkd4QzRFTkpoNzRJbmQzQkV4Y2VwNi1MV0xGend0Y2R6YUhlcGRyTV9NdjJXbkJZbGJSb1FLWlFCYlFTaXU1eUZ3ZzJ0YzFfM182ZUtrVmFFenBqQVRIb0NIQ2R6LWd2Z1hTRkFLMXluWUc0WjFBMGd4SWdKeml3Ukk5OHB0YlBvdVVfLWFMLVZJag?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1775628124,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1775628795,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "Israel has backed the US President's two-week pause on strikes against Iran, excluding Lebanon from the potential conflict. This development is a response to the recent tensions between the US and Iran. The pause is seen as a de-escalation of the conflict, which could lead to a decrease in tensions in the region. The news does not have a direct impact on the business fundamentals of any specific companies, but it may have implications for the global oil market and the aerospace industry.",
-      "impact": "The potential impact of this news on stocks related to the aerospace and defense industries is neutral, as it does not provide a clear direction for the industry. However, a decrease in tensions in the region could lead to an increase in investor confidence, which may positively impact the stocks of companies involved in the aerospace and defense industries. In the short-term, the news may lead to a decrease in oil prices, which could negatively impact the stocks of oil-producing companies.",
-      "risks": [
-        "decrease in investor confidence",
-        "increase in oil production",
-        "volatile oil prices"
-      ]
-    }
+    "publishedAt": 1775629980
   },
   {
     "id": "7762505",
@@ -1054,48 +1178,25 @@
     }
   },
   {
-    "id": "7761677",
-    "headline": "Iran ceasefire provides hope, but physical oil markets to remain stressed - Reuters",
-    "summary": "Iran ceasefire provides hope, but physical oil markets to remain stressed  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNnp6SFdwX3ZVbmF0NVUtMEZyV05SX19sdEVmM3M5a1pPc3RRVnBpZERCcnp4dXV5anVMeHNNZW5LTVY5RDdteTdTTnUwQjdZQlZoczgxc2xyS05fSnVkWWNyc01wLW1xNmxVOWFkVDBJZ192bW1vZHozaXdEcmhfNmJrRFQ0RGpaYXkzdC1kUmlHX3BvNVFlanlWRTdaNVFQRlgzWXRsVWYyOTFRbGJSM20wVUp0VFRhLUptcjlB?oc=5",
+    "id": "7761983",
+    "headline": "Israel backs Trump's two-week pause on Iran strikes, says Lebanon excluded - Reuters",
+    "summary": "Israel backs Trump's two-week pause on Iran strikes, says Lebanon excluded  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORkVCVG9QTEZxTFM5R252SjFLZFFhMi1JdFdNY1ozakZVWFVEQlBYOWo0bHkzOEVXdkE5RVZHSkd4QzRFTkpoNzRJbmQzQkV4Y2VwNi1MV0xGend0Y2R6YUhlcGRyTV9NdjJXbkJZbGJSb1FLWlFCYlFTaXU1eUZ3ZzJ0YzFfM182ZUtrVmFFenBqQVRIb0NIQ2R6LWd2Z1hTRkFLMXluWUc0WjFBMGd4SWdKeml3Ukk5OHB0YlBvdVVfLWFMLVZJag?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1775616262,
+    "publishedAt": 1775617080,
     "analysis": {
       "version": 2,
-      "generatedAt": 1775622259,
+      "generatedAt": 1775628795,
       "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "A ceasefire in Iran has brought hope for a reduction in tensions in the region, which could positively impact oil prices. However, physical oil markets are expected to remain stressed due to ongoing supply chain disruptions and logistical challenges. The news is a mixed bag for oil-producing countries, as a decrease in oil prices could negatively impact their revenues, but a reduction in tensions could also lead to increased oil demand. The ceasefire may also have a positive impact on global economic sentiment, which could benefit oil-consuming companies. The article does not mention any specific companies or stocks, but the news is relevant to the broader oil and energy sector.",
-      "impact": "The news is likely to have a mixed impact on oil-producing companies' earnings outlook, with lower oil prices potentially reducing revenues but a decrease in tensions potentially leading to increased oil demand. In the short-term, oil prices may remain volatile due to ongoing supply chain disruptions, but a decrease in tensions could lead to increased oil demand in the medium-term. This could benefit oil-consuming companies, such as airlines and trucking companies, which may see an increase in demand for their services.",
+      "confidence": 0.7,
+      "summary": "Israel has backed the US President's two-week pause on strikes against Iran, excluding Lebanon from the potential conflict. This development is a response to the recent tensions between the US and Iran. The pause is seen as a de-escalation of the conflict, which could lead to a decrease in tensions in the region. The news does not have a direct impact on the business fundamentals of any specific companies, but it may have implications for the global oil market and the aerospace industry.",
+      "impact": "The potential impact of this news on stocks related to the aerospace and defense industries is neutral, as it does not provide a clear direction for the industry. However, a decrease in tensions in the region could lead to an increase in investor confidence, which may positively impact the stocks of companies involved in the aerospace and defense industries. In the short-term, the news may lead to a decrease in oil prices, which could negatively impact the stocks of oil-producing companies.",
       "risks": [
-        "Supply chain disruptions risk",
-        "Logistical challenges risk",
-        "Decreased oil prices risk for oil-producing countries"
-      ]
-    }
-  },
-  {
-    "id": "7761882",
-    "headline": "Indian equities soar as Iran ceasefire sparks global rally - Reuters",
-    "summary": "Indian equities soar as Iran ceasefire sparks global rally  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX3hSOEQ0UUU1ekFrTXFBcEpkdkp1a2VWY1FYbGFmeTlxeXlWdmhMLTNGRlY2Sl9mS2d3NlhXV1p1d3FCdWRFd1ZjRHl5bHdQNDRXX09LS1FIODUwRUNIb3kyNW16eXZqdDNTa2JUUjR2VjhMWHEwZnVJT3RYcWZublMtU2JIRkg2WXZPWEppNmVWZHc4VXRpTDVaV3dhV1ZmakN5ZmNKRDJJdVhQQy1z?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1775615040,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1775622212,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Indian shares are expected to open higher on the news of a ceasefire in Iran, which is seen as a positive development for the global economy. The Reserve Bank of India (RBI) is also set to make a decision today, which could have a significant impact on the market. The RBI's decision is expected to influence the direction of the Indian rupee and interest rates, which in turn could affect the overall market sentiment. The ceasefire in Iran is expected to reduce tensions in the region and boost investor confidence, leading to a positive opening in the Indian stock market.",
-      "impact": "The potential ceasefire in Iran and the RBI decision could lead to a short-term rally in Indian stocks, particularly in sectors such as energy, finance, and consumer staples. This is because a reduction in global tensions and a stable monetary policy could boost investor sentiment and increase demand for Indian assets. In the medium term, a stable RBI decision could lead to a re-rating of Indian stocks, particularly those with a high exposure to the domestic market. The ceasefire in Iran could also lead to an increase in oil prices, which could benefit Indian oil companies and other energy-related stocks.",
-      "risks": [
-        "market volatility risk",
-        "RBI decision uncertainty risk",
-        "geopolitical risk"
+        "decrease in investor confidence",
+        "increase in oil production",
+        "volatile oil prices"
       ]
     }
   },
@@ -22402,94 +22503,6 @@
         "Potential for a decrease in global demand for oil due to the ongoing pandemic",
         "Risk of further escalation of the Iran conflict leading to increased supply disruptions",
         "Uncertainty around the duration of the supply disruptions and their impact on the global economy"
-      ]
-    }
-  },
-  {
-    "id": "7668787",
-    "headline": "Iran conflict could flip China's deflation into 'bad inflation' - Reuters",
-    "summary": "Iran conflict could flip China's deflation into 'bad inflation'  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPREJoblFTaldtZ1lIM1pJR3pwRjN2dlVpZk1ZRGhVcTFZaXg3eEFlMk5UVzU2anlXNEZvMjFYNE5FbDFtQmhMZ0tabFRlNloxTWNYOVVXSkpmRnhIT0JYdXVqOFFvVGRvYmt6YmhVMGxjM2JORWtCWTFjV1QwZUZ5UV9QUVpLeHBaal9NT1FUYm80V0dUSjEyR29BbHNKMEVCWEpacmdkcVFkNEpyUHZfUEJSZmhqZw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1773983100,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1773998904,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "A potential conflict with Iran could lead to a significant escalation of global oil prices, which in turn could flip China's deflation into 'bad inflation'. This is because China's economy is heavily reliant on oil imports, and higher oil prices would increase the country's production costs and inflation rate. The article cites experts who believe that a prolonged conflict could lead to a sharp increase in oil prices, which would have a ripple effect on China's economy. This could lead to a shift from deflation to inflation, which would be a negative development for the Chinese economy.",
-      "impact": "The potential escalation of the Iran conflict could lead to a short-term increase in oil prices, which would negatively impact the earnings outlook of companies with high oil exposure in China. This could lead to a decline in stock prices of these companies in the short term. In the medium term, the shift from deflation to inflation could lead to a revaluation of the Chinese yuan, which could negatively impact the country's exports and economic growth. This could also lead to a decline in the stock prices of companies with high exposure to the Chinese market.",
-      "risks": [
-        "Oil price volatility risk",
-        "Economic slowdown risk",
-        "Currency devaluation risk"
-      ]
-    }
-  },
-  {
-    "id": "7668888",
-    "headline": "Vietnam accelerates shift to ethanol fuel as Iran war drives up energy prices - Reuters",
-    "summary": "Vietnam accelerates shift to ethanol fuel as Iran war drives up energy prices  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPajJPUXpKci0yUU5iNmRvN1RXN3Q5T1ZrOTUwS1ZXaDFkeEJLRzBOanV5T1FycTN3RmRQYjhXVU4yUHNPTHIxRzlRc29CQkJ4STRieTVVNFVud2czY1VGWnZaOHh5VjRjcGRCSFRZbG1GZVZtZ1RGaU5HZ1JXSVpmNzV5NGtjRVBNZTZCVVJtUkphRFBWTWxKaHNyMXZYYjNua3lxTVJVUU92aXZvejBzZld2S1JTR1V5Q2h3cTBLTG50VVY5dGRNbXpMVE5ZTmktNzlzZG9wQXo1eG45NGlTaQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1773979800,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1774002176,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Vietnam is accelerating its shift to ethanol fuel due to the Iran war-driven surge in energy prices. This move aims to reduce reliance on imported fuels and increase energy security. The country has set a target to increase ethanol production capacity by 30% by 2025. The government has also provided incentives for ethanol producers, including tax breaks and subsidies. This shift is expected to benefit domestic ethanol producers, such as those in the agricultural sector.",
-      "impact": "The news is likely to have a positive impact on the stocks of ethanol producers in Vietnam, particularly those in the agricultural sector. The increased demand for ethanol and government incentives may lead to higher earnings and valuations for these companies. However, the short-term impact may be limited due to the time it takes for the new policies to be implemented and the ethanol production capacity to increase. In the medium term, the shift to ethanol fuel is expected to reduce Vietnam's reliance on imported fuels, leading to a decrease in energy costs and an increase in energy security.",
-      "risks": []
-    }
-  },
-  {
-    "id": "7673761",
-    "headline": "Gold falls 1.8% after report of US sending more troops to Middle East - Reuters",
-    "summary": "Gold falls 1.8% after report of US sending more troops to Middle East  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTDJleEl2MlVaRVR6RkE3UHBDTGpwRkJ6NkVwcElHbW1VWG41ZEtpUXJ2NkxrREhOZU9IZTM1cC1PdjdsME0wYUY5Yy1EMFNvTjVKdm9RaVJCejItamYyMWRPVjg4ek9LQXFQbm1XRXNiajVGelVOTlB1OFJsaXR2RGxvSnRrQmRfenNTRnFLQlItdDloQkpCWWZ3enBBUnpBeGM0OE50RVo?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1773979320,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1774083937,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Gold prices fell 1.8% after a news report that the US is sending more troops to the Middle East. This development increases tensions in the region, which has historically been a major driver of gold demand due to its safe-haven appeal. The escalation of military activity in the region may lead to increased uncertainty and volatility in global markets, causing investors to seek safer assets like the US dollar, which in turn puts downward pressure on gold prices. The US Federal Reserve has also hinted at a potential interest rate hike, which could further reduce the appeal of gold as a safe-haven asset.",
-      "impact": "The short-term impact on gold prices is likely to be negative, with the potential for further declines in the coming days. The medium-term impact may also be bearish, as increased tensions in the Middle East could lead to a prolonged period of uncertainty and volatility in global markets, reducing gold's safe-haven appeal. This could lead to lower earnings for gold miners and a decrease in their stock prices.",
-      "risks": [
-        "Increased military activity in the Middle East leading to a prolonged period of uncertainty and volatility in global markets",
-        "Potential interest rate hike by the US Federal Reserve reducing the appeal of gold as a safe-haven asset",
-        "Decrease in gold demand due to increased investor preference for the US dollar"
-      ]
-    }
-  },
-  {
-    "id": "7669208",
-    "headline": "Iran war, HDFC Bank offset value buying as Indian shares log weekly losses - Reuters",
-    "summary": "Iran war, HDFC Bank offset value buying as Indian shares log weekly losses  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ25CY0hZMHQ0ak1sMk1SUjBoWEhhUHIyVWRIZnFXdFVxVFJlUVVUSUNNVUZ6MHRMOGlsbnpTLUUtUHBFMm5rT0htT21ueVlpSndDN0FUVkMtLUVPZ3ZyVG54V0RsbWRZS1RzTzNZaTM1MS1vVl95MEtLVmtCOU9oZzFVa01ucktvNnEzN0NSUW02c1JaRkhGRzlKdVlkUQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1773975656,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1774005608,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Indian shares logged weekly losses due to the escalating tensions between the US and Iran, but HDFC Bank's strong fundamentals and recent value buying activity helped offset the losses. The situation in the Middle East remains uncertain, and any potential conflict could impact global oil prices and the Indian economy. HDFC Bank's exposure to the Indian market and its diversified business model make it less vulnerable to external shocks. The bank's recent value buying activity suggests that investors are focusing on its strong fundamentals and long-term growth prospects.",
-      "impact": "The news is unlikely to have a significant impact on HDFC Bank's stock price in the short term, but it may lead to a medium-term increase in volatility. The bank's strong fundamentals and diversified business model make it less vulnerable to external shocks, but any significant escalation of the conflict could impact the Indian economy and, by extension, HDFC Bank's earnings outlook. The recent value buying activity suggests that investors are focused on the bank's long-term growth prospects and are willing to overlook near-term volatility.",
-      "risks": [
-        "escalation of the conflict and its impact on the Indian economy",
-        "potential increase in oil prices and its impact on HDFC Bank's cost of operations",
-        "geopolitical risk and its impact on investor sentiment"
       ]
     }
   }
