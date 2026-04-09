@@ -1,5 +1,74 @@
 [
   {
+    "id": "7770130",
+    "headline": "Costco shares rise on impressive monthly sales. We still have one big question",
+    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+    "url": "https://www.cnbc.com/2026/04/09/costco-rises-on-impressive-monthly-sales-we-still-have-one-question.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108281005-1774024987139-gettyimages-2267037625-US_FUEL.jpeg?v=1774025083&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1775758693,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1775760007,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Costco reported impressive monthly sales, with a 11.3% year-over-year increase in net sales and 9.4% comparable sales growth. The company's strong performance is driven by rising gasoline prices, which have contributed to higher sales. However, analysts are still uncertain about whether higher gasoline prices have driven an influx of new memberships and helped stabilize renewal rates. This uncertainty may impact the company's ability to sustain its growth trajectory.",
+      "impact": "The strong sales growth may lead to an increase in Costco's stock price in the short term, driven by the company's ability to adapt to changing market conditions. In the medium term, the company's earnings outlook may improve, as higher sales and membership growth could lead to increased revenue and profitability. Additionally, the potential for a special dividend may also contribute to the stock's upward momentum.",
+      "risks": [
+        "Uncertainty about the sustainability of Costco's growth driven by gasoline prices",
+        "Potential impact of membership and renewal rates on long-term growth",
+        "Market volatility and potential changes in consumer spending habits"
+      ]
+    }
+  },
+  {
+    "id": "7767728",
+    "headline": "Israel seeks Lebanon talks after bombardments threaten Iran truce - Reuters",
+    "summary": "Israel seeks Lebanon talks after bombardments threaten Iran truce  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMFEzUEk2UktwUExCbWdZb3V3akR1TW5RREtqVkJVaFpfdmV4R1ozS3VqU0IybTNTOHlBaWdteHZnRFMwVU4wV2p3MWRMS3BEenBYUENVWGdtOXo5MWQyampLendIcDlNOF84UHVocXZXM21rN19NNXhyOGQ4aWE2WE1LZkpkdlpTRHliVUk4eURNT21yWTNFV3NMcnNnRVdPU2dZUzRiemVDQUJfSFFQM3VFQWZoQQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1775757801,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1775724889,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "US President Trump has issued a warning that a failure of the Iran peace process could lead to a major war escalation. This statement has significant implications for the global energy market, particularly for companies with exposure to the Middle East region. The escalating tensions between the US and Iran have already led to increased volatility in the oil price, with Brent crude reaching a 6-month high. The potential for a major conflict could lead to a significant disruption in oil supplies, resulting in higher energy prices and a negative impact on companies with high energy costs or exposure to the region.",
+      "impact": "The potential for a major war escalation in the Middle East could lead to a significant increase in oil prices, negatively impacting companies with high energy costs or exposure to the region. This could lead to a short-term decrease in earnings for these companies, particularly those in the energy sector. In the medium term, a prolonged conflict could lead to a decrease in investor sentiment and a reduction in economic activity, further exacerbating the negative impact on the stock market.",
+      "risks": [
+        "Oil price volatility risk",
+        "Disruption to global supply chains risk",
+        "Decrease in investor sentiment risk"
+      ]
+    }
+  },
+  {
+    "id": "7770025",
+    "headline": "DOJ launches probe into NFL over media rights packages and antitrust concerns",
+    "summary": "The Department of Justice is raising concerns about the NFL's offerings across various platforms and affordability of consumers.",
+    "url": "https://www.cnbc.com/2026/04/09/doj-investigating-nfl-media-rights-antitrust.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108289314-1775749043443-gettyimages-2260612208-_th24306_hxolv1fl.jpeg?v=1775749068&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1775757404,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1775760074,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The US Department of Justice has launched an investigation into the NFL's media rights deals, citing concerns over anticompetitive tactics and affordability for consumers. The investigation comes as the NFL renegotiates its media rights deals with broadcast networks, potentially leading to increased revenue for the league. The NFL's current 11-year, $111 billion media rights agreement is set to expire in 2033-34, and the league is seeking to eliminate an opt-out clause to secure longer-term deals. This development may impact the NFL's relationships with its broadcast partners, including CBS, NBC, Fox, Disney's ESPN, and Amazon's Prime Video.",
+      "impact": "The investigation and potential changes to the NFL's media rights deals may lead to increased costs for consumers, which could negatively impact the earnings outlook for companies like CBS, NBC, and Fox. This could also lead to a reevaluation of the NFL's valuation, potentially impacting the stock prices of its broadcast partners. In the short term, the uncertainty surrounding the investigation may lead to increased volatility in the stocks of companies involved in the NFL's media rights deals.",
+      "risks": [
+        "Regulatory risk: The investigation may lead to changes in the NFL's media rights deals, potentially impacting the earnings and valuation of its broadcast partners.",
+        "Industry disruption risk: The shift towards streaming and pay-per-view models may disrupt the traditional TV viewing habits of consumers, potentially impacting the revenue streams of companies like CBS, NBC, and Fox.",
+        "Valuation risk: The potential changes to the NFL's media rights deals may impact the valuation of its broadcast partners, potentially leading to a reevaluation of their stock prices."
+      ]
+    }
+  },
+  {
     "id": "7768255",
     "headline": "Spain ramps up criticism of Israel, US, defying Trump threats - Reuters",
     "summary": "Spain ramps up criticism of Israel, US, defying Trump threats  Reuters",
@@ -30,7 +99,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1775753275
+    "publishedAt": 1775753275,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1775760122,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The US labor market has shown resilience, with steady employment numbers and a firming inflation rate. This stability comes before the potential escalation of the Iran conflict, which could have a significant impact on the global economy. The steady labor market suggests that the US economy is still growing, but the inflation rate is increasing, which may lead to higher interest rates. This could have a mixed impact on various industries, particularly those sensitive to interest rates and global trade.",
+      "impact": "The steady labor market and firming inflation rate are likely to have a neutral to slightly positive impact on the US economy in the short term. However, the potential escalation of the Iran conflict could lead to increased volatility in the markets and a negative impact on industries with significant exposure to global trade, such as airlines, oil and gas companies, and multinational corporations. In the medium term, higher interest rates could lead to a decrease in consumer spending and a slowdown in economic growth.",
+      "risks": [
+        "Escalation of the Iran conflict and its impact on global trade and oil prices",
+        "Higher interest rates and their impact on consumer spending and economic growth",
+        "Uncertainty around the US-China trade negotiations and their impact on global trade"
+      ]
+    }
   },
   {
     "id": "7769598",
@@ -577,29 +659,6 @@
         "Prolonged Iran war risk",
         "Global economic slowdown risk",
         "Oil price volatility risk"
-      ]
-    }
-  },
-  {
-    "id": "7767728",
-    "headline": "Israel seeks Lebanon talks after bombardments threaten Iran truce - Reuters",
-    "summary": "Israel seeks Lebanon talks after bombardments threaten Iran truce  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMFEzUEk2UktwUExCbWdZb3V3akR1TW5RREtqVkJVaFpfdmV4R1ozS3VqU0IybTNTOHlBaWdteHZnRFMwVU4wV2p3MWRMS3BEenBYUENVWGdtOXo5MWQyampLendIcDlNOF84UHVocXZXM21rN19NNXhyOGQ4aWE2WE1LZkpkdlpTRHliVUk4eURNT21yWTNFV3NMcnNnRVdPU2dZUzRiemVDQUJfSFFQM3VFQWZoQQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1775715780,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1775724889,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "US President Trump has issued a warning that a failure of the Iran peace process could lead to a major war escalation. This statement has significant implications for the global energy market, particularly for companies with exposure to the Middle East region. The escalating tensions between the US and Iran have already led to increased volatility in the oil price, with Brent crude reaching a 6-month high. The potential for a major conflict could lead to a significant disruption in oil supplies, resulting in higher energy prices and a negative impact on companies with high energy costs or exposure to the region.",
-      "impact": "The potential for a major war escalation in the Middle East could lead to a significant increase in oil prices, negatively impacting companies with high energy costs or exposure to the region. This could lead to a short-term decrease in earnings for these companies, particularly those in the energy sector. In the medium term, a prolonged conflict could lead to a decrease in investor sentiment and a reduction in economic activity, further exacerbating the negative impact on the stock market.",
-      "risks": [
-        "Oil price volatility risk",
-        "Disruption to global supply chains risk",
-        "Decrease in investor sentiment risk"
       ]
     }
   },
@@ -1576,7 +1635,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1775660790
+    "publishedAt": 1775660790,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1775760171,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Iran's Araqchi is seen as the country's most powerful foreign minister yet, indicating a shift in the country's diplomatic approach. This development has significant implications for Iran's international relations and potential economic sanctions. Araqchi's appointment suggests a more pragmatic and diplomatic approach, which could lead to improved relations with Western countries. This, in turn, could lead to increased trade and investment opportunities for Iranian companies, particularly in the energy sector. The country's economy has been heavily sanctioned, and a more diplomatic approach could lead to a relaxation of these sanctions, benefiting companies operating in Iran.",
+      "impact": "The appointment of Araqchi as Iran's most powerful foreign minister could lead to a short-term increase in the stock prices of companies with exposure to the Iranian market, particularly those in the energy sector. In the medium term, a more diplomatic approach could lead to increased trade and investment opportunities, benefiting companies with operations in Iran. This could also lead to a re-rating of companies with exposure to the Iranian market, as investors become more optimistic about the country's economic prospects.",
+      "risks": [
+        "Risk of increased sanctions if the US or other Western countries do not reciprocate Iran's diplomatic efforts",
+        "Uncertainty around the effectiveness of Araqchi's diplomatic approach in improving relations with Western countries",
+        "Potential backlash from hardline factions within Iran who may oppose Araqchi's more pragmatic approach"
+      ]
+    }
   },
   {
     "id": "7763823",
@@ -1598,6 +1670,29 @@
         "Uncertainty around the outcome of the discussions and the potential for a prolonged period of uncertainty",
         "Potential backlash from US lawmakers and other countries that oppose the move",
         "Risk of increased tensions with other countries in the region"
+      ]
+    }
+  },
+  {
+    "id": "7769924",
+    "headline": "Traders place large $950 million bet on oil price falling hours ahead of ceasefire - Reuters",
+    "summary": "Traders place large $950 million bet on oil price falling hours ahead of ceasefire  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNY1lkQUpuQVdBcnlJQlB6ZmdFS1Bnb3NIeVBPdUUxQUpYTHd5NUNUUkJxWG1Jd1N1eEVSclN5SVVqb3B3LUNTOTU2ZHhjUlNUYU5wcS1xcWRYSkUwT1M5VUEyVmE4emlXQ3dqUDlSOUh5MDZZRTg2YWJ5LUJIcXBWQVBuY1dNNG1TbHhWZF9wYXpJbUFaVHRXV2NyVFlFSU4wek9oMm1ac0xhZUViV1hfTGkwS09IcktJaHZXdnlySGpIS3lqU0E?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1775660220,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1775760221,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Traders have placed a massive $950 million bet on oil prices falling, just hours before a ceasefire between warring parties in Libya. This large-scale wager on a decline in oil prices suggests that market participants expect a decrease in oil production, which could be driven by the potential disruption to Libya's oil exports due to the conflict. Libya is a significant oil producer, and any disruption to its exports could lead to a supply shortage, thereby increasing oil prices. However, the ceasefire agreement may alleviate some of these concerns, potentially leading to a decrease in oil prices.",
+      "impact": "The potential decrease in oil prices could negatively impact oil-related stocks in the short-term, as lower prices could reduce their revenue and profitability. This could lead to a decrease in their stock prices, making them more attractive to value investors. In the medium-term, a decrease in oil prices could also lead to increased demand for oil-related stocks, as investors seek to capitalize on the lower prices and potential future growth. However, this is contingent on the ceasefire holding and Libya's oil production returning to normal.",
+      "risks": [
+        "Oil price volatility risk",
+        "Geopolitical risk in Libya",
+        "Uncertainty around the ceasefire agreement"
       ]
     }
   },
@@ -22583,75 +22678,6 @@
         "Increased conflict risk",
         "Sanctions risk",
         "Regional economic instability risk"
-      ]
-    }
-  },
-  {
-    "id": "7673760",
-    "headline": "Putin tells Tehran: Russia stands by Iran - Reuters",
-    "summary": "Putin tells Tehran: Russia stands by Iran  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON1MxNmthT1l2akVpa2ExRkR2MXg0VnJ6My1mODY2SUwwTE5fLWVrQ0xiRnlGclRjVGdTNU16bmdQTWlNcE51bEtDYnloX1FZN3ExWFg0ZjhEdExaQjktcWdqbzFvQjNQeWFMN3VFTHBVblBPUU5tRE1EbGQ2b2hWOGE3N1NRcXB0VVBiQWJDWVdyNE94QlRNYkxn?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1774079549,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1774083888,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Russian President Putin has reaffirmed Russia's support for Iran, indicating a strengthening of their bilateral relations. This development is likely a response to the US's increasing pressure on Iran, particularly with regards to the nuclear deal. The statement is a clear demonstration of Russia's commitment to its strategic partnership with Iran. This move is expected to have implications for the energy sector, given Russia's significant investments in Iran's oil and gas industry.",
-      "impact": "This news is likely to have a positive impact on Russian energy companies such as Gazprom and Rosneft, as their investments in Iran's energy sector may receive a boost. In the short-term, this could lead to increased investor confidence and a potential rally in their stock prices. However, the medium-term impact will depend on the actual implementation of the strengthened partnership and any potential changes in the global energy market.",
-      "risks": [
-        "Escalation of US sanctions on Russia",
-        "Potential backlash from other countries in the region",
-        "Uncertainty surrounding the actual implementation of the strengthened partnership"
-      ]
-    }
-  },
-  {
-    "id": "7673660",
-    "headline": "Iran fires missiles toward US-UK base in Indian ocean, Iran's Mehr says - Reuters",
-    "summary": "Iran fires missiles toward US-UK base in Indian ocean, Iran's Mehr says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaDdzWGxaNkhhVkFYME5DOHZObVZvc29QSG1iRFBFa0JfbUZJaFZTdWhGX1JqTE9yN1hERDZ6eFQwamJyV1JkamlSRHVzTXlLQ0pELWRxTU9jSFlXMno2dVVOTlNoUHBHbWppWk5PdFpYZzk4OE1ielNRRnd5TUpHekMzeEdzX2JxcEZqcjZwcnJJQWItS3d2bDJyUVpIQ3hLc3hiQ1NkT01Kb1BvUTJ1N3d2bjZKUQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1774076724,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1774082096,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Iran's missile attack on a US-UK base in the Indian Ocean has escalated tensions in the region, potentially increasing the risk of conflict. The incident occurred after a recent increase in tensions between the US and Iran. The attack is a significant escalation of the ongoing conflict between the two nations, which could lead to a further deterioration of relations. The incident may also impact global oil prices, as Iran is a significant oil producer. The situation is fluid and developing, with the potential for further escalation.",
-      "impact": "The news is likely to increase concerns about global instability and the potential for conflict, which could negatively impact oil prices and the energy sector. This, in turn, could lead to a decline in earnings for oil-related companies, particularly those with significant exposure to the Middle East region. The incident may also increase the risk of supply chain disruptions, further exacerbating the negative impact on the energy sector. Oil prices may also be influenced by the potential for further escalation, leading to increased volatility in the short term.",
-      "risks": [
-        "Increased conflict risk",
-        "Oil price volatility",
-        "Supply chain disruptions"
-      ]
-    }
-  },
-  {
-    "id": "7673662",
-    "headline": "EU urges members to cut gas-storage targets due to Iran war, FT reports - Reuters",
-    "summary": "EU urges members to cut gas-storage targets due to Iran war, FT reports  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWjBYMzVoUE1KWkdTMVpBSHoyQm5JZjBpVTF6MW16XzJsM1JiNEVuN1N2T1hKckF6ZWM5Z2ZzS1lrX2NCQkE2alV6cEhvNG55YTJ4U2FTU3QwYXJTOVpIbkplNGZjV05EaFhOWFpseGdWTHcwU1podFVoNzU2bHpXMjRGcWNFRk9Kc25oNk5zRDRUdHdpRmhfcHd3a0Z1UTBuN3JkZ3ZsZENCUDJ1cDUtQmFyTTExQTg?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1774073400,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1774082143,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The European Union (EU) is urging its members to reduce their gas-storage targets in response to the ongoing conflict in Iran. The move aims to mitigate potential supply disruptions and ensure energy security. The EU's gas storage levels are currently above average, and reducing targets will help to prevent unnecessary stockpiling. This decision is a precautionary measure to address potential risks associated with the Iran conflict. The EU's gas storage targets are set by the European Commission, which will reassess the targets in the coming months.",
-      "impact": "The news is likely to have a neutral impact on the energy sector, as it does not directly affect the fundamentals of individual companies. However, it may lead to increased volatility in energy prices, which could benefit companies with significant exposure to gas production and trading. In the short term, the news may lead to a slight increase in energy prices, which could positively impact companies with high natural gas production or trading volumes. In the medium term, the EU's decision may lead to increased investment in renewable energy sources and energy efficiency, which could benefit companies in the renewable energy sector.",
-      "risks": [
-        "Increased energy prices risk",
-        "Supply chain disruption risk",
-        "Renewable energy investment risk"
       ]
     }
   }
