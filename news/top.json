@@ -1,5 +1,74 @@
 [
   {
+    "id": "7769598",
+    "headline": "Jim Cramer says one thing surprises him most about Thursday's stock market",
+    "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+    "url": "https://www.cnbc.com/2026/04/09/cramer-says-one-thing-surprises-him-most-about-thursdays-stock-market.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108288644-17756572742026-04-08t140149z_723459142_rc21lkalpf5c_rtrmadp_0_usa-stocks.jpeg?v=1775657305&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1775750043,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1775750870,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Jim Cramer's comments on Thursday's stock market highlighted several key events, including a surge in US oil prices due to concerns about the Iran-US truce and its impact on crude transport through the Strait of Hormuz. This led to a rally in oil futures, with West Texas Intermediate oil prices rising 8% to over $100 per barrel. Cramer noted that despite this, the S&P 500 remained flat, attributing it to support from various stocks such as GE Vernova, Amazon, and Corning. Additionally, Meta Platforms saw a 2.5% increase after announcing an expanded AI infrastructure agreement with CoreWeave worth $21 billion, and Capital One received an upgrade to a buy-equivalent overweight rating from JPMorgan with a price target of $213 per share.",
+      "impact": "The surge in oil prices and the subsequent rally in oil futures could have a positive impact on energy-related stocks, particularly those involved in oil production and transportation. However, the flat S&P 500 suggests that the market is not overly concerned about the Iran-US truce, which may indicate a lack of conviction in the market. In the short term, the rally in Meta Platforms and Capital One could lead to increased investor sentiment and potentially drive up their stock prices. In the medium term, the integration of Discover into Capital One's operations could lead to improved earnings and valuation for the company.",
+      "risks": [
+        "Geopolitical instability risk",
+        "Valuation risk for Meta Platforms",
+        "Integration risk for Capital One"
+      ]
+    }
+  },
+  {
+    "id": "7768819",
+    "headline": "Hormuz at near standstill as Iran warns ships to keep to its waters - Reuters",
+    "summary": "Hormuz at near standstill as Iran warns ships to keep to its waters  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbTJQR3N1VWw2dXc3bm5YbUQ1NkQwakVtMHNkbUtjVWU1VDlRWTdiSHhVNndZQk1nd3RXZm5RdjJnNE1OMmRZaFhNeF9TaWc2V2lNX1lLMmM3R080RTRlaVBfajZMQ09QQWVvcnRwWDkzQmFCSEZOMjE4LU9LWkxtaHQ4MlY4UFZJRUU2R3lGcU5Tdm1jTEgzMWdfYW00UG5xRjhWcks0aGZEcWFsam1VYWZSS3JUNzJVaWdsbXh3MFRNWWhPaTVhcmJOVU1OZw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1775747102,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1775745009,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Tensions in the Middle East have escalated as Iran has warned ships to keep to its waters, effectively creating a near standstill at the Strait of Hormuz. This development is a result of the ongoing conflict between Iran and the US, which has led to increased military presence in the region. The Strait of Hormuz is a critical waterway for global oil trade, accounting for approximately 20% of the world's oil exports. The situation has the potential to disrupt global oil supplies, leading to increased prices and economic instability.",
+      "impact": "The news is likely to have a bearish impact on oil-related stocks in the short term, as increased tensions and potential disruptions to oil supplies could lead to higher oil prices. This could be particularly negative for companies with high oil exposure, such as oil majors and refiners. In the medium term, the situation could lead to increased volatility in the oil market, making it challenging for investors to predict future oil prices. This could lead to a decline in investor sentiment and potentially impact the valuation of oil-related stocks.",
+      "risks": [
+        "Oil price volatility risk",
+        "Disruption to global oil supplies risk",
+        "Increased military presence in the region risk"
+      ]
+    }
+  },
+  {
+    "id": "7769268",
+    "headline": "Student loan forgiveness for public servants could be pricier to access, after new changes",
+    "summary": "It may be pricier now for some student borrowers to access Public Service Loan Forgiveness, after new changes quietly rolled out by the Education Department.",
+    "url": "https://www.cnbc.com/2026/04/09/public-service-loan-forgiveness-may-be-pricier-to-access-after-changes.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108289179-1775738818060-gettyimages-2238534319-mage25976.jpeg?v=1775738829&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1775744429,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1775750917,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The US Education Department has introduced changes to the Public Service Loan Forgiveness (PSLF) program, specifically affecting the buyback option. The new policy will calculate buyback offers using the Income-Based Repayment (IBR) plan instead of the Saving on a Valuable Education (SAVE) plan, resulting in higher monthly payments for some borrowers. This change may deter borrowers from pursuing buyback, potentially impacting the demand for student loan forgiveness. The SAVE plan was blocked by a federal appeals court in March, leading to the Education Department's decision to switch to the IBR plan.",
+      "impact": "The change may lead to a decrease in demand for student loan forgiveness, potentially affecting companies that offer student loan repayment assistance or related services. This could negatively impact the earnings outlook for these companies in the short term. However, the medium-term effect may be less significant, as borrowers may still seek alternative options for debt forgiveness. The change may also increase the burden on borrowers, potentially affecting their financial stability and overall sentiment towards student loan forgiveness programs.",
+      "risks": [
+        "Decreased demand for student loan forgiveness",
+        "Negative impact on earnings outlook for companies offering student loan repayment assistance",
+        "Increased financial burden on borrowers"
+      ]
+    }
+  },
+  {
     "id": "7769165",
     "headline": "Why young Americans are buying $200 notebooks from a store in Paris",
     "summary": "Notebooks made by Paris-based Louise Carmen have become a status symbol for a swath of young Americans, amid journaling's post-pandemic popularity.",
@@ -23,25 +92,48 @@
     }
   },
   {
-    "id": "7768819",
-    "headline": "Hormuz at near standstill as Iran warns ships to keep to its waters - Reuters",
-    "summary": "Hormuz at near standstill as Iran warns ships to keep to its waters  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbTJQR3N1VWw2dXc3bm5YbUQ1NkQwakVtMHNkbUtjVWU1VDlRWTdiSHhVNndZQk1nd3RXZm5RdjJnNE1OMmRZaFhNeF9TaWc2V2lNX1lLMmM3R080RTRlaVBfajZMQ09QQWVvcnRwWDkzQmFCSEZOMjE4LU9LWkxtaHQ4MlY4UFZJRUU2R3lGcU5Tdm1jTEgzMWdfYW00UG5xRjhWcks0aGZEcWFsam1VYWZSS3JUNzJVaWdsbXh3MFRNWWhPaTVhcmJOVU1OZw?oc=5",
+    "id": "7768366",
+    "headline": "Exclusive: Iran war doubles Russia's main oil revenue to $9 bln in April, Reuters calculations show - Reuters",
+    "summary": "Exclusive: Iran war doubles Russia's main oil revenue to $9 bln in April, Reuters calculations show  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZnkwOWotSUd6QS0tWFNRQ3pybElMRF9IanZnVE9hU1ZoVENKSU5CUDF6clF6a3NSTjdGa2pGQUpOLTdiS3FoNTl5VF9fUlo3d3AxZ1JJTnpmWkxjQ0tPeWxCTTdpN25BQVAwSFgyam9jTXBkb2lRU3lzemtZRC1BczVscUpGaU9sU2JDWk9vRlc1NGUzM0NBeFNtWnJuRm4zSGNlcG91ck1kNzhKNG5RSDBGbUhBdmFKaURETm1tem4xc3MtX0VjSVBrNA?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1775741713,
+    "publishedAt": 1775741760,
     "analysis": {
       "version": 2,
-      "generatedAt": 1775745009,
-      "sentiment": "bearish",
+      "generatedAt": 1775734842,
+      "sentiment": "bullish",
       "confidence": 0.8,
-      "summary": "Tensions in the Middle East have escalated as Iran has warned ships to keep to its waters, effectively creating a near standstill at the Strait of Hormuz. This development is a result of the ongoing conflict between Iran and the US, which has led to increased military presence in the region. The Strait of Hormuz is a critical waterway for global oil trade, accounting for approximately 20% of the world's oil exports. The situation has the potential to disrupt global oil supplies, leading to increased prices and economic instability.",
-      "impact": "The news is likely to have a bearish impact on oil-related stocks in the short term, as increased tensions and potential disruptions to oil supplies could lead to higher oil prices. This could be particularly negative for companies with high oil exposure, such as oil majors and refiners. In the medium term, the situation could lead to increased volatility in the oil market, making it challenging for investors to predict future oil prices. This could lead to a decline in investor sentiment and potentially impact the valuation of oil-related stocks.",
+      "summary": "Russia's oil revenue has more than doubled in April due to the Iran war, according to Reuters calculations. The conflict in Ukraine has led to a significant increase in global oil prices, benefiting Russia's oil exports. Iran's oil exports have also surged, with Russia's main oil revenue reaching $9 billion in April. This increase in revenue is primarily driven by the rise in global oil prices, which has been fueled by the ongoing conflict in Ukraine and the subsequent sanctions on Russia.",
+      "impact": "This news is likely to have a positive impact on energy-related stocks, particularly those with exposure to Russian oil exports. Companies that benefit from higher oil prices, such as oil majors and energy producers, may see an increase in earnings and revenue. The medium-term impact may also be positive for Russian stocks, as the increased revenue could lead to higher valuations and improved sentiment. However, the ongoing conflict in Ukraine and potential sanctions on Russia may pose a risk to the sustainability of this revenue increase.",
       "risks": [
-        "Oil price volatility risk",
-        "Disruption to global oil supplies risk",
-        "Increased military presence in the region risk"
+        "sanctions risk",
+        "geopolitical risk",
+        "demand slowdown risk"
+      ]
+    }
+  },
+  {
+    "id": "7769167",
+    "headline": "Chevron sees Iran war oil boost, warns hedging to weigh - Reuters",
+    "summary": "Chevron sees Iran war oil boost, warns hedging to weigh  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVThwNEgxZDdtNjlCeGhlcndOR2l0U05SV2VtbUhxeXdjVDQ0ZXJrRTdnT2NvYjYxcXo4UUZRekJJYThwTldyeHpyNy0wdldXRk5DQ0VMeF92LVp1cmlfR3hXaDJDNVZKTjlsS3RtQXZVNHZzNlFmT2I5YkJ5Z0tlcDhVY1VPR3pIeTIwQ0lTOU44XzRRLXlfVERxTzFjMmpMU3ZhOXNHYnR2cE5OOGZwVTdOQkRNbmd1Vlhpag?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1775741385,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1775750963,
+      "sentiment": "bullish",
+      "confidence": 0.7,
+      "summary": "Chevron, a major oil company, expects an increase in oil prices due to a potential war in Iran. This is because a war in Iran could lead to a disruption in oil production, resulting in higher prices. Chevron has warned that its hedging strategy may not fully offset the potential price increase. The company's earnings could benefit from higher oil prices, but the impact of hedging on its financials is uncertain.",
+      "impact": "The news is likely to have a positive impact on Chevron's stock price in the short term, as higher oil prices could boost its earnings. However, the company's hedging strategy may weigh on its financials, making it difficult to gauge the full impact on the stock. In the medium term, the potential disruption in oil production could lead to higher oil prices, benefiting Chevron's earnings outlook. The company's valuation may also be reevaluated by investors in light of the new information.",
+      "risks": [
+        "hedging strategy risk",
+        "oil production disruption risk",
+        "uncertainty in earnings impact"
       ]
     }
   },
@@ -88,6 +180,29 @@
         "Oil prices may continue to rise, weighing on the market",
         "Capital One's ability to realize synergies from the Discover acquisition and its plans for payments startup Brex",
         "The impact of the AI boom on the broader market and individual companies"
+      ]
+    }
+  },
+  {
+    "id": "7769385",
+    "headline": "Iran to let no more than 15 vessels a day to pass Strait of Hormuz, TASS cites a senior Iranian source - Reuters",
+    "summary": "Iran to let no more than 15 vessels a day to pass Strait of Hormuz, TASS cites a senior Iranian source  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPanRZcUoyRUhPcjRwQnpCOEppZUg0dXNDYzVFcUcteWNjNndyODA1UXZzeVJ5V1NMTDdvNVVQUWxmRDUzYUVsUmZTOWNwWkJKOXhtRDM1OGplN3IzZ0RGYU5iQ3otSXlKZm9wOGc3ZjhfYU9BdXVPVEh0b0czbDdwNzVUbVM1WF9tdU54emUzdDdxT01QSzdfZXhmNUpaSjkxOS12RHNGTllOVzF4V3phVUdWYnpScTN6OE42c2VvYlFCZXdaZkE?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1775738624,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1775751011,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Iran's decision to limit the number of vessels passing through the Strait of Hormuz to 15 per day could lead to increased shipping costs and potential disruptions to global oil supplies. The Strait of Hormuz is a critical waterway for oil exports, with around 20% of the world's oil passing through it. This move by Iran could be a response to the ongoing tensions with the US and its allies, and may be an attempt to exert pressure on the global oil market. The impact on the oil industry and related companies is likely to be significant, with potential increases in costs and volatility.",
+      "impact": "This news is likely to have a negative impact on oil-related stocks, particularly those with high exposure to crude oil prices. Companies such as oil majors, refiners, and shipping companies may see their earnings outlook deteriorate in the short term due to increased costs and potential supply chain disruptions. The medium-term impact could be a re-rating of these stocks as investors reassess their valuations in light of the increased risks and costs associated with doing business in the region.",
+      "risks": [
+        "Increased shipping costs and supply chain disruptions",
+        "Potential escalation of tensions between Iran and the US and its allies",
+        "Volatility in global oil prices"
       ]
     }
   },
@@ -145,7 +260,26 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1775735743
+    "publishedAt": 1775735743,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1775751059,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Iran's President has stated that Israeli strikes on Lebanon render negotiations meaningless, escalating tensions in the region. This development comes as a surprise to the market, which had been expecting a potential breakthrough in negotiations. The statement increases the likelihood of further conflict, potentially disrupting regional stability and oil supplies. The news is a negative development for companies involved in the energy sector, particularly those with operations in the Middle East.",
+      "impact": "The news is likely to have a bearish impact on oil prices in the short-term, potentially benefiting companies with exposure to oil prices, such as ExxonMobil (XOM) and Chevron (CVX). In the medium-term, the increased tensions may lead to a decline in investor sentiment, affecting the overall market, particularly companies with significant exposure to the Middle East, such as Schlumberger (SLB) and Halliburton (HAL). The escalation of the conflict may also lead to increased military spending, benefiting defense contractors, such as Lockheed Martin (LMT) and Raytheon (RTN).",
+      "risks": []
+    }
+  },
+  {
+    "id": "7769276",
+    "headline": "Breakingviews - UAE Iran-asset freeze would be double-edged sword - Reuters",
+    "summary": "Breakingviews - UAE Iran-asset freeze would be double-edged sword  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbXQ2ckFlRU5VX0pwRmN2c2c1ZVVlSHF4VWxDdXMyMFlIMkhkNEJBaTlBbDE4XzZtdzZCREY2QXJVRnc4Wmh1VXl5X3ZvWDJhTmJMR09FNEdXV2czY3BRTGxSdmxxcGRreUlWS0lWcC1XV1BGREljeE1uWll5aWNzcGFmUFdOcm1TbGNHMGNaZUZHYmo4SWVhMnNMV25Ha1dUUzU2elJySm14N01GMHZR?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1775734255
   },
   {
     "id": "7768820",
@@ -210,29 +344,6 @@
         "uncertainty around Vonn's recovery and ability to compete at a high level",
         "potential negative impact on Vonn's personal brand if she is unable to return to competition",
         "limited direct connection to specific companies or industries"
-      ]
-    }
-  },
-  {
-    "id": "7768366",
-    "headline": "Exclusive: Iran war doubles Russia's main oil revenue to $9 bln in April, Reuters calculations show - Reuters",
-    "summary": "Exclusive: Iran war doubles Russia's main oil revenue to $9 bln in April, Reuters calculations show  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZnkwOWotSUd6QS0tWFNRQ3pybElMRF9IanZnVE9hU1ZoVENKSU5CUDF6clF6a3NSTjdGa2pGQUpOLTdiS3FoNTl5VF9fUlo3d3AxZ1JJTnpmWkxjQ0tPeWxCTTdpN25BQVAwSFgyam9jTXBkb2lRU3lzemtZRC1BczVscUpGaU9sU2JDWk9vRlc1NGUzM0NBeFNtWnJuRm4zSGNlcG91ck1kNzhKNG5RSDBGbUhBdmFKaURETm1tem4xc3MtX0VjSVBrNA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1775728188,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1775734842,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Russia's oil revenue has more than doubled in April due to the Iran war, according to Reuters calculations. The conflict in Ukraine has led to a significant increase in global oil prices, benefiting Russia's oil exports. Iran's oil exports have also surged, with Russia's main oil revenue reaching $9 billion in April. This increase in revenue is primarily driven by the rise in global oil prices, which has been fueled by the ongoing conflict in Ukraine and the subsequent sanctions on Russia.",
-      "impact": "This news is likely to have a positive impact on energy-related stocks, particularly those with exposure to Russian oil exports. Companies that benefit from higher oil prices, such as oil majors and energy producers, may see an increase in earnings and revenue. The medium-term impact may also be positive for Russian stocks, as the increased revenue could lead to higher valuations and improved sentiment. However, the ongoing conflict in Ukraine and potential sanctions on Russia may pose a risk to the sustainability of this revenue increase.",
-      "risks": [
-        "sanctions risk",
-        "geopolitical risk",
-        "demand slowdown risk"
       ]
     }
   },
@@ -352,6 +463,29 @@
     }
   },
   {
+    "id": "7767414",
+    "headline": "As US and Iran talk truce, Israel digs in for a 'forever war' - Reuters",
+    "summary": "As US and Iran talk truce, Israel digs in for a 'forever war'  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbWpLZW5VYVdjM2FQVHM4aDYtTTdMS2dqdGwyQ0d3V2RNc3VEYXdmSWpLWTFxVzRmTjJBRWlaSWdxYWpsUVh6VzlQM1dSZ3RnTTdpVGlBbmY0T0h4MEQzaTVNOVJXczRMWG9Ub2lOYVd6WGlSR1lVZWp4bXdLTkVuOXN5OVBpTGJUU21IMzlKMksyWkNLbEcteWl5MFVVdnpCQ3dtRFQxYVA?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1775719798,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1775718327,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The article reports on the ongoing tensions between Israel and Iran, with Israel preparing for a 'forever war' despite US-Iran talks. This development has significant implications for the region's stability and security. The situation is a continuation of the long-standing conflict between Israel and Iran, with Israel's military actions and Iran's nuclear program being major points of contention. The article highlights the complexities of the situation, with various parties involved and multiple interests at play.",
+      "impact": "The news is likely to have a bearish impact on defense-related stocks, particularly those of companies involved in the Israeli defense industry. The increased tensions and potential for conflict may lead to higher demand for defense equipment and services, but this may be offset by the uncertainty and volatility associated with the situation. In the short-term, the news may lead to a sell-off in defense stocks, while in the medium-term, it may lead to increased investment in the sector as companies position themselves for potential future growth.",
+      "risks": [
+        "geopolitical risk",
+        "security risk",
+        "defense spending risk"
+      ]
+    }
+  },
+  {
     "id": "7768481",
     "headline": "OMV says higher energy prices to balance losses caused by Iran war - Reuters",
     "summary": "OMV says higher energy prices to balance losses caused by Iran war  Reuters",
@@ -376,8 +510,8 @@
   },
   {
     "id": "7767728",
-    "headline": "Israeli strikes on Lebanon jeopardise Iran truce; talks planned but Strait still shut - Reuters",
-    "summary": "Israeli strikes on Lebanon jeopardise Iran truce; talks planned but Strait still shut  Reuters",
+    "headline": "Huge Israeli strikes on Lebanon threaten Iran truce; talks planned but strait still shut - Reuters",
+    "summary": "Huge Israeli strikes on Lebanon threaten Iran truce; talks planned but strait still shut  Reuters",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMFEzUEk2UktwUExCbWdZb3V3akR1TW5RREtqVkJVaFpfdmV4R1ozS3VqU0IybTNTOHlBaWdteHZnRFMwVU4wV2p3MWRMS3BEenBYUENVWGdtOXo5MWQyampLendIcDlNOF84UHVocXZXM21rN19NNXhyOGQ4aWE2WE1LZkpkdlpTRHliVUk4eURNT21yWTNFV3NMcnNnRVdPU2dZUzRiemVDQUJfSFFQM3VFQWZoQQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -440,29 +574,6 @@
     }
   },
   {
-    "id": "7767414",
-    "headline": "As US and Iran talk truce, Israel digs in for a 'forever war' - Reuters",
-    "summary": "As US and Iran talk truce, Israel digs in for a 'forever war'  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbWpLZW5VYVdjM2FQVHM4aDYtTTdMS2dqdGwyQ0d3V2RNc3VEYXdmSWpLWTFxVzRmTjJBRWlaSWdxYWpsUVh6VzlQM1dSZ3RnTTdpVGlBbmY0T0h4MEQzaTVNOVJXczRMWG9Ub2lOYVd6WGlSR1lVZWp4bXdLTkVuOXN5OVBpTGJUU21IMzlKMksyWkNLbEcteWl5MFVVdnpCQ3dtRFQxYVA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1775710860,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1775718327,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The article reports on the ongoing tensions between Israel and Iran, with Israel preparing for a 'forever war' despite US-Iran talks. This development has significant implications for the region's stability and security. The situation is a continuation of the long-standing conflict between Israel and Iran, with Israel's military actions and Iran's nuclear program being major points of contention. The article highlights the complexities of the situation, with various parties involved and multiple interests at play.",
-      "impact": "The news is likely to have a bearish impact on defense-related stocks, particularly those of companies involved in the Israeli defense industry. The increased tensions and potential for conflict may lead to higher demand for defense equipment and services, but this may be offset by the uncertainty and volatility associated with the situation. In the short-term, the news may lead to a sell-off in defense stocks, while in the medium-term, it may lead to increased investment in the sector as companies position themselves for potential future growth.",
-      "risks": [
-        "geopolitical risk",
-        "security risk",
-        "defense spending risk"
-      ]
-    }
-  },
-  {
     "id": "7767415",
     "headline": "UK to call for toll-free Strait of Hormuz, wants Lebanon in ceasefire deal - Reuters",
     "summary": "UK to call for toll-free Strait of Hormuz, wants Lebanon in ceasefire deal  Reuters",
@@ -510,8 +621,8 @@
   },
   {
     "id": "7767099",
-    "headline": "Gold rises as dollar weakens and Middle East tensions persist - Reuters",
-    "summary": "Gold rises as dollar weakens and Middle East tensions persist  Reuters",
+    "headline": "Gold prices firm, spotlight on US-Iran ceasefire and CPI data - Reuters",
+    "summary": "Gold prices firm, spotlight on US-Iran ceasefire and CPI data  Reuters",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYl9EaUlhYS0xVVZsSVBXQ0h2TGpuLTFyZkF1SEdidEJ5UFFIRVoyWmFMTnRPUU9pWGcwSEF2RVRZTnU2X2dHc3NxT0hzVl9fZENrRDJWelpRWU9scmxJTGdreFpHaWxjSW9qM19STjhHeEhoSzA3LW5jc0gxNW5EZmx4MmU5MnpFdVdRUVkxNmVweGs1ZjBCWEh4N1RCUnk2UXIzRjdXaV9rSWdD?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -22516,121 +22627,6 @@
         "oil price volatility risk",
         "trade disruption risk",
         "credit rating downgrade risk"
-      ]
-    }
-  },
-  {
-    "id": "7673057",
-    "headline": "Iran ready to let Japanese vessels transit Hormuz, Kyodo reports - Reuters",
-    "summary": "Iran ready to let Japanese vessels transit Hormuz, Kyodo reports  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN3RsSFJDcUVYb2t1eDhJc2F0eXNYSl9kMTlEVHNUa0dRSVFpU1g5Ql9ydVpvRDF3bFMybS1FdWhDTldDZnUtcTgzeXFLUHBZZWoxVUlrdEVDdktEYmZQcE13X1RTY19CY2dQMnVoMFlzSzBTdXZFYTZIbU9Ralotb1V6WklVTGp3aFUyUDRTWjVBNVhLTHRIZVM5V2R3RklCVDNWaTVfbFZzdE1ldHJVUDJR?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1774057483,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1774074344,
-      "sentiment": "bullish",
-      "confidence": 0.7,
-      "summary": "Iran's willingness to allow Japanese vessels to transit the Strait of Hormuz is a positive development for the global oil market, particularly for Japanese oil importers. The Strait of Hormuz is a critical waterway for oil exports, and any disruptions to it can lead to supply chain disruptions and higher oil prices. Japan relies heavily on oil imports, and this news may alleviate concerns about potential supply disruptions. The news is also a positive sign for Japanese shipping companies that operate in the region, as it may lead to increased demand for their services.",
-      "impact": "This news may have a positive impact on Japanese oil importers such as Idemitsu Kosan and Showa Shell Sekiyu, as it reduces the risk of supply disruptions and potentially leads to lower oil prices. It may also benefit Japanese shipping companies such as Mitsui O.S.K. Lines and NYK Line, as increased demand for their services could lead to higher revenues and profitability. In the short-term, this news may boost sentiment and liquidity for these stocks, potentially leading to higher prices.",
-      "risks": [
-        "geopolitical tensions could escalate and disrupt the Strait of Hormuz again",
-        "Iran's willingness to allow Japanese vessels may not be a permanent solution",
-        "other countries may not follow suit and allow their vessels to transit the Strait"
-      ]
-    }
-  },
-  {
-    "id": "7672454",
-    "headline": "Iran targeted but did not hit Diego Garcia base with missiles, WSJ reports - Reuters",
-    "summary": "Iran targeted but did not hit Diego Garcia base with missiles, WSJ reports  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ2ZtY2hlWUJPa21DNUcxOU1vQ29oYjNiX2Fway1jU25QTEhMZFJ6TE55S2lQVktIX1g1TnJzN2NEX2FSNm9PQmtkT1Y0RUtRR0pfX01td2F1cHBMMnNEdERVNVN3LXY2bXRubUxhTnlKNndYZ0tJVE11c3FTRnd2dUwxZ1Ric2ZRTmhpb3F1anZSWXNaY2RzbWhmZjhUV3VEQkp4MzVhcUlFalAyazFqTVJVd0lkRXNCeG1OX2Fya2w?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1774053960,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1774066803,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "Iran reportedly targeted but did not hit the US military base at Diego Garcia with missiles, according to a Wall Street Journal report citing Reuters. The incident is a significant geopolitical event, but its direct impact on the global economy and related stocks is unclear. The news may have a mixed effect on the defense and aerospace industries, as it could lead to increased military spending and a heightened sense of security concerns, but it may also contribute to a more tense geopolitical environment that could negatively impact international trade and business operations. The incident is a reminder of the ongoing tensions between the US and Iran, which could have medium-term implications for the global economy and related stocks.",
-      "impact": "The news may lead to a short-term increase in demand for defense and aerospace stocks, as investors seek to capitalize on potential government contracts and military spending. However, the medium-term impact could be negative, as a prolonged period of heightened tensions between the US and Iran could lead to a decline in international trade and business operations, negatively affecting the earnings outlook of related companies. The incident may also lead to a rise in oil prices, which could have a negative impact on the global economy and related stocks.",
-      "risks": [
-        "Increased military spending risk",
-        "Heightened geopolitical tensions risk",
-        "Oil price volatility risk"
-      ]
-    }
-  },
-  {
-    "id": "7672149",
-    "headline": "Jim Cramer says to prepare for further stock declines but be open to opportunities",
-    "summary": "CNBC's Jim Cramer said on \"Mad Money\" on Friday that a tough market can also present an opportune time to selectively buy.",
-    "url": "https://www.cnbc.com/2026/03/20/jim-cramer-says-to-prepare-for-further-stock-declines-but-be-open-to-opportunities.html",
-    "source": "CNBC",
-    "image": "https://fm.cnbc.com/applications/cnbc.com/staticcontent/img/versant/cnbc_share_versant.png?v=1524171804&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1774050270,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1774058628,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "CNBC's Jim Cramer warns that the stock market is unlikely to recover soon due to the ongoing conflict in the Middle East and the inverse relationship between oil and stocks. The war has taken on an 'unrestrained nature' with President Trump's shifting stance, causing market volatility. Cramer suggests that investors should be prepared for further stock declines but remain open to opportunities. He highlights the importance of corporate earnings, particularly from KB Home, Cintas, and Paychex, which may provide insight into the housing sector and the overall economy.",
-      "impact": "The potential impact on stocks is significant, with Cramer warning of further declines. The upcoming earnings reports from KB Home, Cintas, and Paychex may influence investor sentiment and provide insight into the housing sector and the overall economy. The high mortgage rates and weak housing sales may lead to a lukewarm sales quarter for KB Home, which could negatively impact its stock. The earnings reports may also affect the sentiment towards the broader market, particularly if the results are disappointing.",
-      "risks": [
-        "Further escalation of the conflict in the Middle East",
-        "Global economic impact of the war",
-        "Disappointing earnings reports from KB Home, Cintas, and Paychex"
-      ]
-    }
-  },
-  {
-    "id": "7672252",
-    "headline": "US allows 30-day sale of Iran oil at sea in bid to tame prices - Reuters",
-    "summary": "US allows 30-day sale of Iran oil at sea in bid to tame prices  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVThQV2w3RUFSVU5YeThFdFVXMUxVYTN2elRyRk5vdG5MWWtLdUpRM2lERkNpd29wZkVjQlYwaWR4RTFvNm5zUUwyc0ptVHlsbXR5MVlCa1B3dkVIUzgyaEs5aFM5WFpiWTVJUnJSY3o2M1FlOHdOZEV1ZUZPV1NCNDZ1VEQ1d0xOUjdtQl9rSHpZZ1J3RHh0LUpHVUxEekd2QmRJVFlqWXl6Q19uRnNz?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1774048192,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1774058722,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The US has issued a 30-day sanctions waiver for the sale of Iranian oil at sea, allowing Iran to temporarily continue exporting oil despite ongoing sanctions. This move is seen as a temporary reprieve for Iran, which has been struggling to export oil due to the sanctions. The waiver is expected to provide a short-term boost to global oil prices, as the increased supply could lead to a decrease in prices. The US has been imposing sanctions on Iran's oil exports in an effort to pressure the country to renegotiate its nuclear deal.",
-      "impact": "The news is likely to have a positive impact on oil-related stocks in the short-term, as the increased supply of oil could lead to lower prices and increased demand. This could be particularly beneficial for companies that have been struggling with high production costs or have exposure to the Middle East region. However, the long-term implications of the sanctions waiver are uncertain, and the US could reimpose sanctions at any time, leading to volatility in the oil market. The waiver could also lead to increased tensions with Iran, which could have negative implications for regional stability and oil prices.",
-      "risks": [
-        "Reimposition of sanctions risk",
-        "Increased tensions with Iran risk",
-        "Volatility in oil prices risk"
-      ]
-    }
-  },
-  {
-    "id": "7673260",
-    "headline": "US lends oil companies 45.2 mln barrels from reserve, first batch of Iran war - Reuters",
-    "summary": "US lends oil companies 45.2 mln barrels from reserve, first batch of Iran war  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQWRqalFRdDVNUVJYZTBFakNRMy1LUG5MYTc2N2lFWm9kUjNZLWJEc2hlSHBlamdjZGJWZHpjY2tzb2VKaDc5NmZzdEwyNGcxd2FGYjdNNnY4SUdHMWx0clQwWFpocG04bmZqQnZpWE02R1JNemYxUGdHcThnd3RpV0gzM0l2bnhyQmJyalRYb1NDTms5RXhReFcxeU84ajF4Rjl5cnF1aGJRVk45bjcwSHUzOA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1774045971,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1774077788,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The US government has lent 45.2 million barrels of oil from its Strategic Petroleum Reserve (SPR) to oil companies, marking the first batch of oil released in response to the Iran-US conflict. The move aims to stabilize global oil markets and mitigate price volatility. The SPR is a stockpile of emergency oil reserves that can be drawn upon during times of supply disruptions. This development is a response to the escalating tensions between the US and Iran, which has led to concerns about potential disruptions to global oil supplies. The US government's action is expected to provide temporary relief to oil companies and consumers.",
-      "impact": "The news is likely to have a positive impact on oil companies' stocks in the short term, as the injection of oil into the market is expected to reduce prices and alleviate supply concerns. This could lead to an increase in earnings for oil companies, particularly those with exposure to the US market. However, the medium-term impact is uncertain, as the situation with Iran remains volatile and could lead to further supply disruptions. The US government's action may also increase the likelihood of future price volatility, which could negatively impact oil companies' stocks.",
-      "risks": [
-        "Iran-US conflict escalation risk",
-        "Global oil supply disruption risk",
-        "Price volatility risk"
       ]
     }
   }
