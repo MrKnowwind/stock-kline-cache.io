@@ -1,5 +1,28 @@
 [
   {
+    "id": "7776006",
+    "headline": "Cramer warns of ‘incredibly overconfident’ market after U.S.-Iran ceasefire",
+    "summary": "\"The idea that everything will finally go right in the Middle East seems like a real stretch to me,\" Cramer said.",
+    "url": "https://www.cnbc.com/2026/04/10/cramer-warns-overconfident-market-after-us-iran-ceasefire.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108284118-1774987331899-108284118-1774622976528-gettyimages-2268627697-6k4a3456_5s6yvay5.jpeg?v=1775849747&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1775861830,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1775863293,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "CNBC's Jim Cramer warns that the market has become 'incredibly overconfident' following the Iran-U.S. ceasefire news, which led to a significant rally in stocks. Cramer believes that the market is not accurately pricing in the risks associated with the conflict in the Middle East, particularly the possibility of Iran shutting down the Strait of Hormuz. This could have a devastating impact on global oil supplies and the economy. Cramer advises investors to be cautious and not make any sudden moves in the market.",
+      "impact": "The Iran-U.S. ceasefire news may lead to a short-term correction in the market as investors reassess the risks associated with the conflict. Cramer's comments may also lead to a decrease in investor sentiment, which could negatively impact stocks such as Goldman Sachs, Johnson & Johnson, JPMorgan, Wells Fargo, and Citigroup. The earnings reports from these companies may also be impacted by the market's current sentiment and the uncertainty surrounding the conflict.",
+      "risks": [
+        "Risk of market correction due to reassessment of conflict risks",
+        "Decrease in investor sentiment due to Cramer's bearish comments",
+        "Uncertainty surrounding earnings reports from major banks and companies"
+      ]
+    }
+  },
+  {
     "id": "7774457",
     "headline": "US likely to extend Russian oil waiver to temper Iran war shock, sources say - Reuters",
     "summary": "US likely to extend Russian oil waiver to temper Iran war shock, sources say  Reuters",
@@ -115,29 +138,6 @@
     }
   },
   {
-    "id": "7769815",
-    "headline": "US labor market holds steady; inflation firmer before Iran war - Reuters",
-    "summary": "US labor market holds steady; inflation firmer before Iran war  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcUtyZllvWGFQOGoxQW1WTmZBb0J6U1ktUjVSSGNTNUdzTjdBdDVLb0xMUk9kV2p5enFrU1BtZFQxU0pmQWpfWUZLNXRzRnBXZDNnU3FfLUlSN0llU3MyRkd2Z3RSd0czdktlLURJSDgyTlNPS1R3cFVHOTBtWk9uWHowQTZUMHF1RkotenQzWnFUcGZ5WEg4?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1775845365,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1775760122,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The US labor market has shown resilience, with steady employment numbers and a firming inflation rate. This stability comes before the potential escalation of the Iran conflict, which could have a significant impact on the global economy. The steady labor market suggests that the US economy is still growing, but the inflation rate is increasing, which may lead to higher interest rates. This could have a mixed impact on various industries, particularly those sensitive to interest rates and global trade.",
-      "impact": "The steady labor market and firming inflation rate are likely to have a neutral to slightly positive impact on the US economy in the short term. However, the potential escalation of the Iran conflict could lead to increased volatility in the markets and a negative impact on industries with significant exposure to global trade, such as airlines, oil and gas companies, and multinational corporations. In the medium term, higher interest rates could lead to a decrease in consumer spending and a slowdown in economic growth.",
-      "risks": [
-        "Escalation of the Iran conflict and its impact on global trade and oil prices",
-        "Higher interest rates and their impact on consumer spending and economic growth",
-        "Uncertainty around the US-China trade negotiations and their impact on global trade"
-      ]
-    }
-  },
-  {
     "id": "7775288",
     "headline": "Oil whiplash: Iran war shock to flip market to deficit in 2026, analysts say - Reuters",
     "summary": "Oil whiplash: Iran war shock to flip market to deficit in 2026, analysts say  Reuters",
@@ -208,8 +208,8 @@
   },
   {
     "id": "7775289",
-    "headline": "Mapping the Strait of Hormuz at near standstill after ceasefire - Reuters",
-    "summary": "Mapping the Strait of Hormuz at near standstill after ceasefire  Reuters",
+    "headline": "Hormuz remains at near standstill after ceasefire - Reuters",
+    "summary": "Hormuz remains at near standstill after ceasefire  Reuters",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3Y0hEbUhxS05DSGxmRXpTZ2c5WkxvclROSi1yT3NYUWdhM0FSMGFBNFVDNm9YV012ckpRTFlNOFp0Ykh0T0oxNUdUbHhmME1ZR1EwdERWQ0RFSGgxLWh2MTRaaHc5ZUw0R1hEakFXdw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -763,8 +763,8 @@
   },
   {
     "id": "7771597",
-    "headline": "US VP Vance leaves for Islamabad, Iran demands measures as 'make-or-break' talks near - Reuters",
-    "summary": "US VP Vance leaves for Islamabad, Iran demands measures as 'make-or-break' talks near  Reuters",
+    "headline": "Iranian delegation lands in Islamabad ahead of 'make-or-break' talks - Reuters",
+    "summary": "Iranian delegation lands in Islamabad ahead of 'make-or-break' talks  Reuters",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSjVnU2MyTVRjaWpYcWNnS3pGQUNLUkxaYTlPOHVvdVBudl9DYmE0WEhBaXUyeDlQZ3RDeXFiQTUweU9oZ0NYWl8waGF4LWpCTHFPcmRyMTIwNy1VOFJMekpnVkRjeWQ5LTNhYlR6Tkd4c3EzV3E1ZG5USjViSDZjV3FPRHNFX011OGVGX1ViU0IyZ2tMVzJlOUgxckVnOTF6Rk1JS0RYUzF3MUVmSnBFVGg0aTVhSWZFRm5kUmlDX2hrcnNo?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -778,6 +778,29 @@
       "summary": "The US-Iran ceasefire deal is facing strain ahead of talks, squeezing oil flows. The agreement, aimed at reviving the 2015 nuclear deal, has been stalled due to disagreements over key issues. The tension in the region has led to a decline in oil exports from Iran, affecting global oil supplies. This has put pressure on oil-producing countries, particularly those with high production costs, such as Saudi Arabia and Iraq.",
       "impact": "The reduced oil flows from Iran are likely to weigh on the earnings of oil producers, particularly those with high production costs. This could lead to a decline in their stock prices in the short term. In the medium term, the reduced oil supplies could drive up oil prices, benefiting oil-producing companies with low production costs, such as those in the US shale industry. However, this could also lead to increased inflation and reduced consumer spending, negatively impacting the broader market.",
       "risks": []
+    }
+  },
+  {
+    "id": "7775906",
+    "headline": "Oil ends lower ahead of U.S.-Iran ceasefire talks, posts steepest weekly loss since 2022 - Reuters",
+    "summary": "Oil ends lower ahead of U.S.-Iran ceasefire talks, posts steepest weekly loss since 2022  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSWpoazdNRjAyOFQxcGxtNmlDRVFVamlLUVRWXzU3TjFwQmY0cVl3azhtVjFjbm9DbFljWWRFeFBDZEladkdybVE4V0lQUE1ocmNROFRPZG05X2ZxRGVrajJsbHE3S3FhazdiRWFBUFRoOUdOV25oTS1wN0hQSm03TWxWQ3hSVXFsT1Uwb2JlUzZiY2pRTUFOa3ZTQ1V1WGd1a2FOZg?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1775783280,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1775863340,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Oil prices declined ahead of US-Iran ceasefire talks, marking the steepest weekly loss since 2022. The drop in oil prices is attributed to concerns about a potential relaxation of sanctions on Iran, which could lead to increased oil supply. This development is significant as it could impact the global oil market, particularly for companies that rely heavily on crude oil production. The US and Iran are set to hold ceasefire talks, which may lead to a reduction in tensions and a potential increase in oil supply.",
+      "impact": "The decline in oil prices is likely to have a negative impact on energy stocks, particularly those with high exposure to crude oil production. Companies like ExxonMobil (XOM), Chevron (CVX), and ConocoPhillips (COP) may see their stock prices decline in the short term due to the decreased demand for their products. However, in the medium term, a relaxation of sanctions on Iran could lead to increased competition and downward pressure on oil prices, negatively impacting the earnings outlook for these companies.",
+      "risks": [
+        "Increased competition from Iran",
+        "Downward pressure on oil prices",
+        "Negative impact on earnings outlook"
+      ]
     }
   },
   {
@@ -912,29 +935,6 @@
         "Geopolitical risk",
         "Supply chain disruption risk",
         "Decreased investor confidence risk"
-      ]
-    }
-  },
-  {
-    "id": "7767729",
-    "headline": "Iranian delegation to reach Islamabad Thursday, Iran's ambassador to Pakistan says - Reuters",
-    "summary": "Iranian delegation to reach Islamabad Thursday, Iran's ambassador to Pakistan says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVGtweFpLVndhNHNlZ21FR3pRc1Q2UDkzV0EzeXIwaXBhcS0wZG5oRHlxZkw3S19yZkVkaFBXOTZIMW9KcFRWNlctdmdDOUFEbnRXLWpqcTk2U2dXQWV1blNsdTYycEhkdFZxUGRNb3QxNlU3Zm5kQXI4RnQyaWdlMnMyWHFacC1TWDBXZEc2VmtQT1gtM2REU3hxNFZGOE9IWTFSWWc5Y1BFU0JReE16ZWNESkptZjExaFdQSUc0a3NLaW14YTliUA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1775767812,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1775724937,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Iran's ambassador to Pakistan announced that an Iranian delegation will arrive in Islamabad on Thursday. This development comes as the two countries are expected to strengthen their economic ties. The visit is likely a follow-up to the recent agreement between Iran and Pakistan to boost bilateral trade. The delegation's visit may lead to new business opportunities and investments between the two nations. The background is that Iran has been seeking to diversify its economy and reduce its dependence on oil exports, while Pakistan is looking to boost its economy through foreign investment.",
-      "impact": "The news is unlikely to have a significant impact on the stocks of companies directly involved in Iran-Pakistan trade or diplomacy. However, the medium-term outlook for Pakistani stocks may be positively affected if the delegation's visit leads to increased investment and trade between the two countries. This could boost Pakistan's economic growth prospects and potentially lead to higher earnings for companies with exposure to the country. The visit may also increase investor sentiment towards Pakistani stocks, leading to higher liquidity and valuations.",
-      "risks": [
-        "geopolitical tensions between Iran and other countries could impact the delegation's visit and subsequent trade agreements",
-        "the success of the delegation's visit is uncertain and may depend on various factors such as the level of interest from Pakistani businesses and the ease of doing business between the two countries",
-        "the impact on the Pakistani economy and stock market may be limited if the delegation's visit does not lead to significant new investments or trade agreements"
       ]
     }
   },
@@ -1511,6 +1511,29 @@
     }
   },
   {
+    "id": "7769815",
+    "headline": "US labor market holds steady; inflation firmer before Iran war - Reuters",
+    "summary": "US labor market holds steady; inflation firmer before Iran war  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcUtyZllvWGFQOGoxQW1WTmZBb0J6U1ktUjVSSGNTNUdzTjdBdDVLb0xMUk9kV2p5enFrU1BtZFQxU0pmQWpfWUZLNXRzRnBXZDNnU3FfLUlSN0llU3MyRkd2Z3RSd0czdktlLURJSDgyTlNPS1R3cFVHOTBtWk9uWHowQTZUMHF1RkotenQzWnFUcGZ5WEg4?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1775738280,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1775760122,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The US labor market has shown resilience, with steady employment numbers and a firming inflation rate. This stability comes before the potential escalation of the Iran conflict, which could have a significant impact on the global economy. The steady labor market suggests that the US economy is still growing, but the inflation rate is increasing, which may lead to higher interest rates. This could have a mixed impact on various industries, particularly those sensitive to interest rates and global trade.",
+      "impact": "The steady labor market and firming inflation rate are likely to have a neutral to slightly positive impact on the US economy in the short term. However, the potential escalation of the Iran conflict could lead to increased volatility in the markets and a negative impact on industries with significant exposure to global trade, such as airlines, oil and gas companies, and multinational corporations. In the medium term, higher interest rates could lead to a decrease in consumer spending and a slowdown in economic growth.",
+      "risks": [
+        "Escalation of the Iran conflict and its impact on global trade and oil prices",
+        "Higher interest rates and their impact on consumer spending and economic growth",
+        "Uncertainty around the US-China trade negotiations and their impact on global trade"
+      ]
+    }
+  },
+  {
     "id": "7768930",
     "headline": "Halt to Iran attacks means Netanyahu's corruption trial will resume on Sunday - Reuters",
     "summary": "Halt to Iran attacks means Netanyahu's corruption trial will resume on Sunday  Reuters",
@@ -1963,6 +1986,29 @@
     }
   },
   {
+    "id": "7767729",
+    "headline": "Iranian delegation to reach Islamabad Thursday, Iran's ambassador to Pakistan says - Reuters",
+    "summary": "Iranian delegation to reach Islamabad Thursday, Iran's ambassador to Pakistan says  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVGtweFpLVndhNHNlZ21FR3pRc1Q2UDkzV0EzeXIwaXBhcS0wZG5oRHlxZkw3S19yZkVkaFBXOTZIMW9KcFRWNlctdmdDOUFEbnRXLWpqcTk2U2dXQWV1blNsdTYycEhkdFZxUGRNb3QxNlU3Zm5kQXI4RnQyaWdlMnMyWHFacC1TWDBXZEc2VmtQT1gtM2REU3hxNFZGOE9IWTFSWWc5Y1BFU0JReE16ZWNESkptZjExaFdQSUc0a3NLaW14YTliUA?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1775713140,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1775724937,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Iran's ambassador to Pakistan announced that an Iranian delegation will arrive in Islamabad on Thursday. This development comes as the two countries are expected to strengthen their economic ties. The visit is likely a follow-up to the recent agreement between Iran and Pakistan to boost bilateral trade. The delegation's visit may lead to new business opportunities and investments between the two nations. The background is that Iran has been seeking to diversify its economy and reduce its dependence on oil exports, while Pakistan is looking to boost its economy through foreign investment.",
+      "impact": "The news is unlikely to have a significant impact on the stocks of companies directly involved in Iran-Pakistan trade or diplomacy. However, the medium-term outlook for Pakistani stocks may be positively affected if the delegation's visit leads to increased investment and trade between the two countries. This could boost Pakistan's economic growth prospects and potentially lead to higher earnings for companies with exposure to the country. The visit may also increase investor sentiment towards Pakistani stocks, leading to higher liquidity and valuations.",
+      "risks": [
+        "geopolitical tensions between Iran and other countries could impact the delegation's visit and subsequent trade agreements",
+        "the success of the delegation's visit is uncertain and may depend on various factors such as the level of interest from Pakistani businesses and the ease of doing business between the two countries",
+        "the impact on the Pakistani economy and stock market may be limited if the delegation's visit does not lead to significant new investments or trade agreements"
+      ]
+    }
+  },
+  {
     "id": "7772324",
     "headline": "Russia offers sanctioned LNG to energy-hungry Asia at a discount",
     "summary": "The effective closure of the Strait of Hormuz — and attacks on the world’s largest LNG export plant in Qatar — has throttled about a fifth of global supply, upending the gas market and lifting prices",
@@ -2150,7 +2196,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1775689920,
+    "publishedAt": 1775690083,
     "analysis": {
       "version": 2,
       "generatedAt": 1775706020,
@@ -22659,52 +22705,6 @@
         "decline in demand risk",
         "earnings slowdown risk",
         "valuation risk"
-      ]
-    }
-  },
-  {
-    "id": "7683817",
-    "headline": "Every missile fired over Iran is burning through US tungsten stocks - Reuters",
-    "summary": "Every missile fired over Iran is burning through US tungsten stocks  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPS24tMkdIMkRtMTBxSE1FSHZreGZmVndSZDl0NnMtd3NST3VXSU5Yb3hnOXZsOHZNbnFhYTd5Rm9DMW5qRmtTcTB2dXgydVV6QjJaaTJWUHRZOGgwaDRHRXF6dHlNY2QyZGQ2SWhNRUN0QzllRnl0LU1BNllSX0tsaUx0TUVpblpIV2JSMWd0VWV1Z0VKdERXeUE4ajdkLTVZaWhHQUUxMHZGSmU1WHVJQzFNdnAtNlQ0bEh3ZnUyUDk?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1774250290,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1774265572,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The article reports that the US is depleting its tungsten stocks due to the increasing number of missiles fired over Iran. Tungsten is a key component in the production of missiles and other defense systems. The US relies heavily on imports to meet its tungsten needs, making it vulnerable to supply chain disruptions. The depletion of tungsten stocks may lead to a shortage, which could impact the production of defense systems and other industries that rely on tungsten. This could have a positive impact on the stock prices of companies that supply tungsten or related materials, such as General Electric (GE) and Kennametal (KMT).",
-      "impact": "The potential impact on the related stocks is a short-term increase in price due to the expected shortage of tungsten. This could lead to a medium-term increase in earnings for companies that supply tungsten or related materials, as they may be able to increase prices or take advantage of the shortage. The news may also lead to a shift in investor sentiment, with investors becoming more bullish on the defense and industrial sectors.",
-      "risks": [
-        "Supply chain disruptions risk",
-        "Price volatility risk",
-        "Economic downturn risk"
-      ]
-    }
-  },
-  {
-    "id": "7683500",
-    "headline": "Trump's Iran war oil shield is cracking - Reuters",
-    "summary": "Trump's Iran war oil shield is cracking  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQVJ0TDlLLTNHb0VSSnlEb3VDNlhzVXBKakZGSjlERmJ4V3Q4b3lTWVAtb3pvNzRXRXNxRWhqRTNMWEdhRDM0VHVsaEpvMm5vbEttNGYzdzRfS1ZnNWxsZXVmcUFpVUZoWjM2dUxGeDhsNnVDcnI3dHJ2VGVybTRQRjdoYnlXd1JmSEh3MUhrcWJ2RU1faEZkcUJ3?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1774249992,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1774259224,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The article reports that the US oil price shield, implemented by former President Trump to protect American oil producers from Iranian oil sanctions, is weakening. The shield, which allowed eight countries to import Iranian oil without US sanctions, is set to expire on May 3. The expiration of the shield is expected to lead to a surge in oil prices, potentially benefiting oil producers such as ExxonMobil and Chevron. The article notes that the US has not yet decided whether to extend the shield, leaving uncertainty in the market.",
-      "impact": "The expiration of the oil shield is likely to have a short-term positive impact on oil prices, benefiting oil producers such as ExxonMobil and Chevron. This could lead to a medium-term increase in earnings for these companies, as higher oil prices would result in higher revenue. However, the article does not provide clear guidance on the US government's plans to extend the shield, leaving uncertainty in the market and potentially affecting investor sentiment. The impact on oil prices and earnings will depend on the US government's decision to extend the shield.",
-      "risks": [
-        "US government policy uncertainty",
-        "oil price volatility",
-        "impact on earnings uncertainty"
       ]
     }
   }
