@@ -1,5 +1,28 @@
 [
   {
+    "id": "7773912",
+    "headline": "Jim Cramer's top 10 things to watch in the stock market Friday",
+    "summary": "March CPI spiked, showing the impact of surging oil prices. And TSMC reported strong revenue numbers.",
+    "url": "https://www.cnbc.com/2026/04/10/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108248606-1767689779972-gettyimages-2253792540-US_STOCKS.jpeg?v=1775823848&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1775825818,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1775829913,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The market is expected to have a tame open due to a decline in oil prices, despite the March CPI report showing a 0.9% increase. Taiwan Semiconductor Manufacturing Co. (TSMC) reported strong revenue growth, which may positively impact Nvidia's shares. Intel's partnership with Elon Musk and Google, as well as its talks with Amazon, have led to a price target increase from UBS. Conversely, ServiceNow and DocuSign were downgraded due to concerns about their ability to withstand AI disruption and saturation in their respective markets.",
+      "impact": "The strong revenue growth from TSMC may lead to a short-term rally in Nvidia's shares, potentially breaking the stock out of its current range. Intel's partnerships and collaborations may also drive its stock price higher in the medium term. However, the downgrades of ServiceNow and DocuSign may lead to a decline in their stock prices, as investors become less optimistic about their growth prospects. The market's sentiment towards these stocks may also be influenced by the ongoing AI disruption and saturation concerns.",
+      "risks": [
+        "AI disruption risk",
+        "saturation risk",
+        "valuation risk"
+      ]
+    }
+  },
+  {
     "id": "7773688",
     "headline": "After years of war with Russia, Ukraine's farmers are hit by Iran conflict - Reuters",
     "summary": "After years of war with Russia, Ukraine's farmers are hit by Iran conflict  Reuters",
@@ -46,25 +69,25 @@
     }
   },
   {
-    "id": "7771705",
-    "headline": "Shares gain as investor nerves ease before U.S.-Iran talks; oil set for weekly drop - Reuters",
-    "summary": "Shares gain as investor nerves ease before U.S.-Iran talks; oil set for weekly drop  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MZ1daUm9fTmVBRlFTMU9oX3BLNjhQaHFwdy1rRzhQaTVhMG56TlhVaTdzUE1EUlVGU2stVmZkVXgzZUs1TlBDdUZLTjltMGxNMjAzS240U3BuYUM4Z3M5WWlKbWY3WVh1NEJ5RzFNNTJuamgtTXZwbDV2WXFEN0U?oc=5",
+    "id": "7773917",
+    "headline": "USTR: China involvement in Iran would complicate matters - Reuters",
+    "summary": "USTR: China involvement in Iran would complicate matters  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYnB2aU85MXloUlBDQkUybzdFNFFnUHdXWWRCMXlIaGRuQjl0WklRWTlSQlUzQXZicE9lTDFKcEhfVkxwLU9UcHItOXlNWS12ZmhZM1VxYUNvZWJqM1VDME5iaTdpTDZKY1JCR3JTN1A5LTYtZ2dXMDgyZVdYM0V0d05IcXpfWDZmb0hZV0Y0aDlrX3NFeDlON0NrWlJ5andUQTNHYlZ2SQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1775821703,
+    "publishedAt": 1775823096,
     "analysis": {
       "version": 2,
-      "generatedAt": 1775795788,
+      "generatedAt": 1775829961,
       "sentiment": "bearish",
       "confidence": 0.8,
-      "summary": "The recent Israeli attacks on Lebanon have tested Iran's ceasefire, creating uncertainty in the region. This development has led to a shaky stock market, as investors worry about the potential escalation of the conflict. The situation is a concern for companies operating in the region, particularly those with interests in Israel or Iran. The tension in the Middle East has historically had a negative impact on global markets and the economy. The current situation is a reminder of the ongoing geopolitical risks in the region.",
-      "impact": "The potential escalation of the conflict in the Middle East could lead to a short-term decline in stock prices of companies with significant operations in the region, such as those in the energy and defense sectors. In the medium term, a prolonged conflict could impact earnings outlook for these companies, particularly if it disrupts supply chains or leads to a decline in economic activity. The uncertainty surrounding the situation may also lead to increased volatility in the stock market, making it a riskier investment environment.",
+      "summary": "The United States Trade Representative (USTR) has expressed concerns that China's involvement in Iran would complicate matters. This statement is likely in response to recent reports of China's increasing economic ties with Iran. The USTR's warning suggests that a deeper Chinese involvement in Iran could lead to increased tensions with the US, potentially affecting global trade and economic stability. The US has imposed sanctions on Iran and has been critical of China's involvement in the country's economy. This development may have implications for the global energy market and the oil and gas sector.",
+      "impact": "The potential involvement of China in Iran's economy could lead to a short-term increase in tensions between the US and China, potentially affecting the global trade landscape. This could have a negative impact on the earnings outlook for companies with significant exposure to the US-China trade relationship, such as those in the technology and manufacturing sectors. In the medium term, a deterioration in US-China relations could lead to a decrease in investor sentiment, potentially affecting stock prices and liquidity in the affected sectors.",
       "risks": [
-        "Geopolitical risk",
-        "Economic uncertainty",
-        "Supply chain disruption risk"
+        "Escalation of US-China trade tensions",
+        "Decrease in investor sentiment",
+        "Impact on global trade and economic stability"
       ]
     }
   },
@@ -92,25 +115,6 @@
     }
   },
   {
-    "id": "7771597",
-    "headline": "Strait still shut and Lebanon fighting strains truce as US and Iran aim for first talks - Reuters",
-    "summary": "Strait still shut and Lebanon fighting strains truce as US and Iran aim for first talks  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSjVnU2MyTVRjaWpYcWNnS3pGQUNLUkxaYTlPOHVvdVBudl9DYmE0WEhBaXUyeDlQZ3RDeXFiQTUweU9oZ0NYWl8waGF4LWpCTHFPcmRyMTIwNy1VOFJMekpnVkRjeWQ5LTNhYlR6Tkd4c3EzV3E1ZG5USjViSDZjV3FPRHNFX011OGVGX1ViU0IyZ2tMVzJlOUgxckVnOTF6Rk1JS0RYUzF3MUVmSnBFVGg0aTVhSWZFRm5kUmlDX2hrcnNo?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1775820463,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1775795644,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The US-Iran ceasefire deal is facing strain ahead of talks, squeezing oil flows. The agreement, aimed at reviving the 2015 nuclear deal, has been stalled due to disagreements over key issues. The tension in the region has led to a decline in oil exports from Iran, affecting global oil supplies. This has put pressure on oil-producing countries, particularly those with high production costs, such as Saudi Arabia and Iraq.",
-      "impact": "The reduced oil flows from Iran are likely to weigh on the earnings of oil producers, particularly those with high production costs. This could lead to a decline in their stock prices in the short term. In the medium term, the reduced oil supplies could drive up oil prices, benefiting oil-producing companies with low production costs, such as those in the US shale industry. However, this could also lead to increased inflation and reduced consumer spending, negatively impacting the broader market.",
-      "risks": []
-    }
-  },
-  {
     "id": "7772016",
     "headline": "Ceasefire sends dollar on weekly drop; US-Iran talks in focus - Reuters",
     "summary": "Ceasefire sends dollar on weekly drop; US-Iran talks in focus  Reuters",
@@ -131,6 +135,25 @@
         "Potential for increased volatility in currency markets",
         "Risk of negative developments in US-Iran relations"
       ]
+    }
+  },
+  {
+    "id": "7773916",
+    "headline": "Trump warns Iran on Hormuz tolls as energy crunch prompts Japan to release more oil - Reuters",
+    "summary": "Trump warns Iran on Hormuz tolls as energy crunch prompts Japan to release more oil  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYjk4d05Xam1oMklFb1pJSmJWemJ6OFJ0QlJZZTVCVmRsa29YbDZmSUc5YkxLbkQ3NjV5djNsV0ZmWUk0ZHIxMlI3aExkUzE2MHBzRFdtQzRFSEFsekt6R0hDQ3E0RkJjSUlGbXNnTEVTVmtIOGZJVVJNdzNSNE9sbVZqSHJoeUdVNG9GMjhON2xwZUJ1TWxHZzlHSUJuUXRUdFhtaGtYS1MxZGZRdnRnRWdQUHhYOWp6TTVLZU9zMUlVb0xp?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1775816613,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1775830007,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "US President Trump has warned Iran on imposing tolls on the Strait of Hormuz, a critical oil shipping route. This comes as Japan has released more oil from its reserves due to an energy crunch. The Strait of Hormuz is a key chokepoint for global oil supplies, and any disruptions to shipping could impact oil prices. Japan's move to release more oil is a response to the potential supply chain risks.",
+      "impact": "The news may have a moderate impact on energy stocks, particularly those with exposure to oil prices. In the short-term, a potential disruption to oil supplies could lead to higher oil prices, benefiting oil producers such as ExxonMobil and Chevron. However, this could also lead to increased costs for consumers and potentially weigh on economic growth, impacting stocks with high exposure to consumer discretionary sectors. In the medium-term, a prolonged disruption could lead to changes in global energy policies and investment in alternative energy sources, benefiting companies like Vestas and Siemens Gamesa.",
+      "risks": []
     }
   },
   {
@@ -311,6 +334,48 @@
         "supply chain disruption risk",
         "earnings volatility risk"
       ]
+    }
+  },
+  {
+    "id": "7771705",
+    "headline": "Shares gain as investor nerves ease before U.S.-Iran talks; oil set for weekly drop - Reuters",
+    "summary": "Shares gain as investor nerves ease before U.S.-Iran talks; oil set for weekly drop  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MZ1daUm9fTmVBRlFTMU9oX3BLNjhQaHFwdy1rRzhQaTVhMG56TlhVaTdzUE1EUlVGU2stVmZkVXgzZUs1TlBDdUZLTjltMGxNMjAzS240U3BuYUM4Z3M5WWlKbWY3WVh1NEJ5RzFNNTJuamgtTXZwbDV2WXFEN0U?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1775784180,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1775795788,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The recent Israeli attacks on Lebanon have tested Iran's ceasefire, creating uncertainty in the region. This development has led to a shaky stock market, as investors worry about the potential escalation of the conflict. The situation is a concern for companies operating in the region, particularly those with interests in Israel or Iran. The tension in the Middle East has historically had a negative impact on global markets and the economy. The current situation is a reminder of the ongoing geopolitical risks in the region.",
+      "impact": "The potential escalation of the conflict in the Middle East could lead to a short-term decline in stock prices of companies with significant operations in the region, such as those in the energy and defense sectors. In the medium term, a prolonged conflict could impact earnings outlook for these companies, particularly if it disrupts supply chains or leads to a decline in economic activity. The uncertainty surrounding the situation may also lead to increased volatility in the stock market, making it a riskier investment environment.",
+      "risks": [
+        "Geopolitical risk",
+        "Economic uncertainty",
+        "Supply chain disruption risk"
+      ]
+    }
+  },
+  {
+    "id": "7771597",
+    "headline": "Strait still shut and Lebanon fighting strains truce as US and Iran aim for first talks - Reuters",
+    "summary": "Strait still shut and Lebanon fighting strains truce as US and Iran aim for first talks  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSjVnU2MyTVRjaWpYcWNnS3pGQUNLUkxaYTlPOHVvdVBudl9DYmE0WEhBaXUyeDlQZ3RDeXFiQTUweU9oZ0NYWl8waGF4LWpCTHFPcmRyMTIwNy1VOFJMekpnVkRjeWQ5LTNhYlR6Tkd4c3EzV3E1ZG5USjViSDZjV3FPRHNFX011OGVGX1ViU0IyZ2tMVzJlOUgxckVnOTF6Rk1JS0RYUzF3MUVmSnBFVGg0aTVhSWZFRm5kUmlDX2hrcnNo?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1775783520,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1775795644,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The US-Iran ceasefire deal is facing strain ahead of talks, squeezing oil flows. The agreement, aimed at reviving the 2015 nuclear deal, has been stalled due to disagreements over key issues. The tension in the region has led to a decline in oil exports from Iran, affecting global oil supplies. This has put pressure on oil-producing countries, particularly those with high production costs, such as Saudi Arabia and Iraq.",
+      "impact": "The reduced oil flows from Iran are likely to weigh on the earnings of oil producers, particularly those with high production costs. This could lead to a decline in their stock prices in the short term. In the medium term, the reduced oil supplies could drive up oil prices, benefiting oil-producing companies with low production costs, such as those in the US shale industry. However, this could also lead to increased inflation and reduced consumer spending, negatively impacting the broader market.",
+      "risks": []
     }
   },
   {
@@ -718,6 +783,29 @@
         "Regional instability risk",
         "Earnings outlook risk",
         "Valuation risk due to increased volatility"
+      ]
+    }
+  },
+  {
+    "id": "7767729",
+    "headline": "Iranian delegation to reach Islamabad Thursday, Iran's ambassador to Pakistan says - Reuters",
+    "summary": "Iranian delegation to reach Islamabad Thursday, Iran's ambassador to Pakistan says  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVGtweFpLVndhNHNlZ21FR3pRc1Q2UDkzV0EzeXIwaXBhcS0wZG5oRHlxZkw3S19yZkVkaFBXOTZIMW9KcFRWNlctdmdDOUFEbnRXLWpqcTk2U2dXQWV1blNsdTYycEhkdFZxUGRNb3QxNlU3Zm5kQXI4RnQyaWdlMnMyWHFacC1TWDBXZEc2VmtQT1gtM2REU3hxNFZGOE9IWTFSWWc5Y1BFU0JReE16ZWNESkptZjExaFdQSUc0a3NLaW14YTliUA?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1775750815,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1775724937,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Iran's ambassador to Pakistan announced that an Iranian delegation will arrive in Islamabad on Thursday. This development comes as the two countries are expected to strengthen their economic ties. The visit is likely a follow-up to the recent agreement between Iran and Pakistan to boost bilateral trade. The delegation's visit may lead to new business opportunities and investments between the two nations. The background is that Iran has been seeking to diversify its economy and reduce its dependence on oil exports, while Pakistan is looking to boost its economy through foreign investment.",
+      "impact": "The news is unlikely to have a significant impact on the stocks of companies directly involved in Iran-Pakistan trade or diplomacy. However, the medium-term outlook for Pakistani stocks may be positively affected if the delegation's visit leads to increased investment and trade between the two countries. This could boost Pakistan's economic growth prospects and potentially lead to higher earnings for companies with exposure to the country. The visit may also increase investor sentiment towards Pakistani stocks, leading to higher liquidity and valuations.",
+      "risks": [
+        "geopolitical tensions between Iran and other countries could impact the delegation's visit and subsequent trade agreements",
+        "the success of the delegation's visit is uncertain and may depend on various factors such as the level of interest from Pakistani businesses and the ease of doing business between the two countries",
+        "the impact on the Pakistani economy and stock market may be limited if the delegation's visit does not lead to significant new investments or trade agreements"
       ]
     }
   },
@@ -1424,29 +1512,6 @@
       "summary": "A ceasefire in Iran has eased fears of conflict, but the LNG sector remains scarred. Industry executives are concerned about the long-term implications of the conflict on global energy markets. The ongoing tensions have led to a decrease in LNG exports from Iran, which has had a ripple effect on the global supply chain. This has resulted in higher prices for LNG, benefiting producers but potentially harming consumers. The industry is also grappling with the aftermath of the conflict, including damage to infrastructure and equipment.",
       "impact": "The news is likely to have a bearish impact on LNG stocks in the short term, as the industry continues to recover from the effects of the conflict. The higher prices for LNG may lead to a decrease in demand, potentially affecting earnings for companies in the sector. In the medium term, the industry may face challenges in rebuilding infrastructure and equipment, which could lead to increased costs and decreased productivity. The ceasefire may also lead to increased competition for LNG supplies, potentially putting downward pressure on prices and earnings.",
       "risks": []
-    }
-  },
-  {
-    "id": "7767729",
-    "headline": "Iranian delegation to reach Islamabad Thursday, Iran's ambassador to Pakistan says - Reuters",
-    "summary": "Iranian delegation to reach Islamabad Thursday, Iran's ambassador to Pakistan says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVGtweFpLVndhNHNlZ21FR3pRc1Q2UDkzV0EzeXIwaXBhcS0wZG5oRHlxZkw3S19yZkVkaFBXOTZIMW9KcFRWNlctdmdDOUFEbnRXLWpqcTk2U2dXQWV1blNsdTYycEhkdFZxUGRNb3QxNlU3Zm5kQXI4RnQyaWdlMnMyWHFacC1TWDBXZEc2VmtQT1gtM2REU3hxNFZGOE9IWTFSWWc5Y1BFU0JReE16ZWNESkptZjExaFdQSUc0a3NLaW14YTliUA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1775713140,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1775724937,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Iran's ambassador to Pakistan announced that an Iranian delegation will arrive in Islamabad on Thursday. This development comes as the two countries are expected to strengthen their economic ties. The visit is likely a follow-up to the recent agreement between Iran and Pakistan to boost bilateral trade. The delegation's visit may lead to new business opportunities and investments between the two nations. The background is that Iran has been seeking to diversify its economy and reduce its dependence on oil exports, while Pakistan is looking to boost its economy through foreign investment.",
-      "impact": "The news is unlikely to have a significant impact on the stocks of companies directly involved in Iran-Pakistan trade or diplomacy. However, the medium-term outlook for Pakistani stocks may be positively affected if the delegation's visit leads to increased investment and trade between the two countries. This could boost Pakistan's economic growth prospects and potentially lead to higher earnings for companies with exposure to the country. The visit may also increase investor sentiment towards Pakistani stocks, leading to higher liquidity and valuations.",
-      "risks": [
-        "geopolitical tensions between Iran and other countries could impact the delegation's visit and subsequent trade agreements",
-        "the success of the delegation's visit is uncertain and may depend on various factors such as the level of interest from Pakistani businesses and the ease of doing business between the two countries",
-        "the impact on the Pakistani economy and stock market may be limited if the delegation's visit does not lead to significant new investments or trade agreements"
-      ]
     }
   },
   {
@@ -22645,75 +22710,6 @@
         "no direct impact on stock market",
         "limited relevance to specific companies or industries",
         "no clear earnings or revenue implications"
-      ]
-    }
-  },
-  {
-    "id": "7679733",
-    "headline": "Scores hurt after Iranian missiles hit Israeli desert towns - Reuters",
-    "summary": "Scores hurt after Iranian missiles hit Israeli desert towns  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOW1uN1pCbWJEbzFuX3I4bjhmQXVOM3hYYXdfVzNrNkR4SlM1T0hvOHJXVjlQZXRZbXdmT0YyamtfQ0FhdHltSl9PVHJCdE9IalhyQk9qb3ZxRmhHTFRQMHFWQVlqb01qMDdmY2JTNDVjcVYyTXFFOExMWVZodE02MUc5QnJOYW5BQUw5M2syOGtxbUJ5OFVYMEgxTjNHT1FBUWhFbFRKeXhadWJLaXVtc3RMbw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1774182748,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1774191669,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Tensions between Iran and Israel have escalated as Iranian missiles hit Israeli desert towns, causing injuries and damage. This event increases the likelihood of further conflict in the region, which could have significant implications for the global economy and the Israeli defense industry. The Israeli government has vowed to respond to the attacks, and the situation is likely to remain volatile in the short term. The increased military activity in the region may lead to a boost in defense spending, but the overall impact on the economy and related stocks is uncertain.",
-      "impact": "The potential impact on related stocks is bearish in the short term due to the increased tensions and volatility in the region. The Israeli defense industry may see a short-term boost in defense spending, but the long-term effects are uncertain. The increased risk of conflict and economic instability in the region may lead to a decline in investor sentiment and a decrease in stock prices. The situation is likely to remain fluid and may lead to a re-evaluation of the earnings outlook for companies with exposure to the region.",
-      "risks": [
-        "Increased conflict risk",
-        "Economic instability risk",
-        "Decreased investor sentiment risk"
-      ]
-    }
-  },
-  {
-    "id": "7679734",
-    "headline": "Pope Leo calls war in Middle East a 'scandal' to humanity - Reuters",
-    "summary": "Pope Leo calls war in Middle East a 'scandal' to humanity  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcUFlZGEyc1drWEI4c3dfem1Hb05mMnFtd2w0bnZ3NWpzUWJGODVtcHRxVmpqTUhyam9iWGJZVlVKX3FxMTJ2VWY2WHZHNVRoVXhXZmF2RlAybmJmZTRfd1F0S3VYVU5CamVvZWNhM0tMR1JrNGJsVTBDN3pPT1FHSFVmV2xicXNEWDg2LUk1UGRPSmtUaDRnZFNyNU1WcFpES1h3?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1774181776,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1774191714,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Pope Leo's statement calling the war in the Middle East a 'scandal to humanity' is a humanitarian concern rather than an economic or business-related event. The statement is unlikely to have a direct impact on the stock market or specific companies. The war in the Middle East has been ongoing for years, and its effects on the global economy and business have been well-documented. The statement is more of a moral and diplomatic commentary rather than an economic or business-related development.",
-      "impact": "The statement is unlikely to have a significant impact on the stock market or specific companies in the short term. However, it may lead to a slight increase in volatility in the energy and defense sectors as investors reassess the geopolitical risks in the region. In the medium term, the ongoing conflict in the Middle East may continue to affect the global economy, particularly in terms of oil prices and regional stability.",
-      "risks": [
-        "geopolitical risk",
-        "oil price volatility risk",
-        "regional instability risk"
-      ]
-    }
-  },
-  {
-    "id": "7679220",
-    "headline": "Iran threatens to retaliate against Gulf energy and water after Trump ultimatum - Reuters",
-    "summary": "Iran threatens to retaliate against Gulf energy and water after Trump ultimatum  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQem5pR05BaElqUUtXclhzMzM1Q0JScmpvckhjUGJ6TV96TDg3OTFIaEVxUHFGN2RqdnplY3ZhLW5iSGVsUDdSNFU3REFzemJIZEwzQ0JRaTNqbmxUUk1BTEkyZnMwOEJKZUhQcWg2WWx4d0JlSDJlbGVES19NWVVCb1ZVOFRVT1BfaktFWmRCODVZYkc1SUh5NWUxNzRycTFVWU8wMkhlcUY0ZHZ2cGJWUWZB?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1774176799,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1774182995,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "US-Iran tensions have escalated with Trump's threats targeting Iran's energy sector, potentially disrupting global oil supplies. The situation is a result of a long-standing dispute over Iran's nuclear program and US withdrawal from the JCPOA. This escalation increases the risk of oil price volatility, which could negatively impact energy companies' earnings and valuations. The US has already imposed sanctions on Iran's energy sector, and further action could exacerbate the situation.",
-      "impact": "The short-term impact on energy stocks, particularly those with significant exposure to the Middle East, could be significant. Companies like ExxonMobil (XOM) and Chevron (CVX) may see their earnings and valuations impacted due to potential supply disruptions. The medium-term effect could be a shift towards alternative energy sources, benefiting companies like renewable energy providers Vestas (VWDRY) and Siemens Gamesa (GCTAF). However, this is still a developing situation, and the market's reaction may be unpredictable.",
-      "risks": [
-        "Oil price volatility risk",
-        "Supply chain disruption risk",
-        "Earnings downgrade risk for energy companies"
       ]
     }
   }
