@@ -7,7 +7,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1776115569,
+    "publishedAt": 1776120354,
     "analysis": {
       "version": 2,
       "generatedAt": 1776078351,
@@ -30,7 +30,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1776114979,
+    "publishedAt": 1776120301,
     "analysis": {
       "version": 2,
       "generatedAt": 1776078447,
@@ -42,6 +42,29 @@
         "Negative sentiment towards the US government and its policies",
         "Decreased investor confidence",
         "Potential decline in stock prices for companies with significant exposure to the US market"
+      ]
+    }
+  },
+  {
+    "id": "7790447",
+    "headline": "Trading Day: US stocks gain, dollar dips on hopes for Iran war negotiations - Reuters",
+    "summary": "Trading Day: US stocks gain, dollar dips on hopes for Iran war negotiations  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0T1FSX0NzQlRpYjNPQU1rbkVBa2M5RnB0NjdoUjhfb0gxUUlmTG1LSlRyN21UMmF1Y0RtZnZzdXZoMnVxSlFWYVQxaFRCZ3dqSF9VcW8zeUJjUTNsMERURWJmQkhvd3JFUFUyR2ZORTJyMDJncGpOWWpGVQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1776119519,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1776123006,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "US stocks gained on hopes for Iran war negotiations, which reduced concerns about a potential escalation of tensions in the Middle East. This led to a dip in the US dollar, as investors sought safer assets. The news is a positive development for the global economy, as a war in the region could have had significant negative impacts on trade and economic growth. The US market has been sensitive to geopolitical events, and this news is likely to boost investor sentiment in the short term.",
+      "impact": "The news is likely to have a positive impact on US stocks, particularly those with exposure to the energy and defense sectors, as a reduced risk of war in the Middle East could lead to increased investor confidence and higher earnings expectations. In the short term, this could lead to a rally in stocks such as ExxonMobil (XOM) and Boeing (BA), which have been sensitive to geopolitical events. However, investors should be cautious of the potential risks associated with a prolonged period of uncertainty in the region, which could impact the medium-term outlook for these stocks.",
+      "risks": [
+        "Prolonged uncertainty in the Middle East could impact investor sentiment and earnings expectations",
+        "Potential for increased volatility in the oil market if tensions escalate",
+        "Uncertainty around the effectiveness of diplomatic efforts to prevent war"
       ]
     }
   },
@@ -682,6 +705,29 @@
         "geopolitical risk",
         "supply chain disruption risk",
         "oil price volatility risk"
+      ]
+    }
+  },
+  {
+    "id": "7790550",
+    "headline": "Nigeria seeks IMF, World Bank support as Iran shock hits reforms - Reuters",
+    "summary": "Nigeria seeks IMF, World Bank support as Iran shock hits reforms  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa0xGWVV4anp5V25mbC1LY0FYcWNsd2pPSDhIVFNLZ2k5SDYtazZoSlJTNFNnNGFzVjBDenZHbjliczVuRE51bFU0TGh5aGpZSVVubHN2RlV2STZjMjFGNVg0Y1A4OW5KU2VxVHZEbXhWX3EwMDN4aUxpQ0JTY2R4YWpKckliLUV3WGcyRHlIdzZXeHdhcmRSbHJULTJrSzF3ZGp1b1NIblZhMHpZNXpOQ2Vn?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1776076784,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1776123051,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Nigeria is seeking support from the International Monetary Fund (IMF) and the World Bank to help implement economic reforms. The country's plans have been disrupted by the ongoing crisis in Iran, which has led to a sharp increase in oil prices. This has put pressure on Nigeria's economy, which relies heavily on oil exports. The IMF and World Bank support is expected to help Nigeria stabilize its economy and implement structural reforms.",
+      "impact": "The news is likely to have a negative impact on Nigeria's stocks in the short term as investors become risk-averse due to the country's economic uncertainty. The increased oil prices will also lead to higher production costs for Nigerian oil companies, potentially affecting their profitability. In the medium term, the IMF and World Bank support may help stabilize the economy, but the impact on stocks will depend on the effectiveness of the reforms and the country's ability to implement them.",
+      "risks": [
+        "Economic instability risk",
+        "Oil price volatility risk",
+        "Reform implementation risk"
       ]
     }
   },
@@ -22639,52 +22685,6 @@
         "Ongoing war tensions and potential disruptions to global supply chains",
         "Uncertainty around the timing and success of OpenAI's potential IPO",
         "Competition in the AI sector and potential disruption to Nvidia's and Arm's market share"
-      ]
-    }
-  },
-  {
-    "id": "7689961",
-    "headline": "Iran toughens negotiating stance amid mediation efforts, sources say - Reuters",
-    "summary": "Iran toughens negotiating stance amid mediation efforts, sources say  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU3UwNkI5VlBmMzc4aXhPQzgyVE5hYTdVTk9sZHJ3Y2RpZlZyNXV5ZGpBazE2MlFUZ3UxMGx1cWZsV1BwQmJHMF9mZFBfWEczb0NOTC1xY1NRbHk1M3YxWHFZc21yNElwWlJTenF4ZC1IeDJBTHh1ZDU0SlRHRUh6d2prMGw4WHpPcGk4aExWSnB6SmpEeHRTRzZxclV2NzlNbENJQ3RBZmFweVVJSnRwYjBMTmdfeU85amVOalN3?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1774357864,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1774367268,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Iran has stiffened its negotiating stance in ongoing mediation efforts, which may indicate a prolonged and potentially contentious process. This development could hinder the country's ability to secure a favorable deal, potentially impacting oil prices and the global energy market. The news comes as the US and Iran have been engaged in indirect talks to revive the 2015 nuclear deal. A prolonged negotiation process could weigh on the earnings outlook of energy companies, particularly those with significant exposure to the Middle East region.",
-      "impact": "The news may lead to increased volatility in the energy sector, particularly for companies with significant exposure to the Middle East region. This could result in a short-term decline in stock prices as investors reassess their earnings expectations. Medium-term, a prolonged negotiation process could lead to a decrease in oil prices, negatively impacting the earnings of energy companies. This, in turn, could lead to a decrease in investor sentiment and liquidity in the sector.",
-      "risks": [
-        "prolonged negotiation risk",
-        "oil price volatility risk",
-        "energy sector earnings decline risk"
-      ]
-    }
-  },
-  {
-    "id": "7689499",
-    "headline": "More women are entering wealth management, but few are in advisory roles, study finds",
-    "summary": "Women have yet to gain ground in client-facing roles that are better-paid and more likely to lead to executive roles, per a recent study.",
-    "url": "https://www.cnbc.com/2026/03/24/women-wealth-management-advisory-roles.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108279712-1773852242372-gettyimages-2184726576-pi-3136180.jpeg?v=1773852253&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1774357201,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1774361311,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "The wealth management industry is facing a persistent gender gap, with women underrepresented in client-facing advisory roles, which are better-paid and more likely to lead to executive roles. Despite an increase in women entering the industry, the gap remains, with women accounting for only 20.2% of producing advisors aged 20-30. This lack of representation affects female employees' earnings and opportunities for leadership and ownership. Younger women are making inroads in administrative or operational roles, but the industry needs to create better pathways for them to move into revenue-generating roles.",
-      "impact": "The underrepresentation of women in advisory roles may lead to a talent shortage and increased competition for a limited pool of female advisors, potentially affecting earnings and revenue growth for wealth management firms. This could also impact the industry's ability to attract and retain top talent, particularly women, which may lead to a decline in market share and valuation for firms that fail to address this issue. In the long term, the industry's ability to tap into the growing wealth of women may be hindered by this persistent gender gap.",
-      "risks": [
-        "Talent shortage risk",
-        "Competition for female advisors risk",
-        "Declining market share and valuation risk"
       ]
     }
   }
