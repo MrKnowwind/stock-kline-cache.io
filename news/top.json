@@ -1,5 +1,74 @@
 [
   {
+    "id": "7789706",
+    "headline": "IRS publishes list of occupations that qualify for 'no tax on tips' provision",
+    "summary": "The \"big beautiful bill\" introduced a tax provision that allows some workers to deduct the tips they earn. The IRS released the final rule on who qualifies.",
+    "url": "https://www.cnbc.com/2026/04/13/irs-tax-on-tips-big-beautiful-bill.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108290028-1775850592183-gettyimages-1270694647-sc1064k0450.jpeg?v=1775850600&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1776104484,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1776106291,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The IRS has released a final rule outlining occupations that qualify for a tax provision allowing workers to deduct tips from their income. This provision, part of the 'big beautiful bill', applies to tax years 2025-2028 and allows workers to deduct up to $25,000 in 'qualified tips'. The rule clarifies that tips must be received in cash or through a cash-equivalent medium, be voluntary, and meet other criteria. The provision only applies to federal income tax, and workers will still be subject to payroll taxes and state income tax. An estimated 6 million taxpayers report tipped wages.",
+      "impact": "The news may have a positive impact on workers in the service industry, particularly those in occupations that receive tips, as they may be able to reduce their tax liability. However, the provision only applies to federal income tax, and workers will still face payroll taxes and state income tax. This may lead to increased disposable income for workers, potentially boosting consumer spending and benefiting companies in the service industry. In the short-term, this news may have a positive impact on companies with a high proportion of tipped workers, such as restaurants and hotels, as they may see increased consumer demand.",
+      "risks": [
+        "regulatory risk",
+        "macroeconomic risk",
+        "industry disruption risk"
+      ]
+    }
+  },
+  {
+    "id": "7789603",
+    "headline": "Oracle pops 11%, leading bounce back rally in software stocks",
+    "summary": "Oracle has lost more than a fifth of its value this year on AI disruption concerns.",
+    "url": "https://www.cnbc.com/2026/04/13/oracle-orcl-stock-rally-software-ai-risk.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108260818-1770138652072-Oracle-OB-Photo-20260203-KK-PRESS-011.jpg?v=1770138734&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1776103082,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1776106341,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Oracle's 11% surge, accompanied by similar gains in software stocks, marks a potential turning point in the sector's recent sell-off. The rally is driven by investors' renewed optimism about the future of software companies in the face of AI disruption fears. Despite tech executives dismissing the concerns as 'overblown,' the sell-off has led to significant losses for several major players, including HubSpot and Atlassian. The sector's decline has also contributed to panic in the private credit market, where software companies are major borrowers.",
+      "impact": "The rally could lead to a short-term bounce in software stocks, potentially alleviating some of the year-to-date losses. However, the medium-term impact will depend on the sector's ability to adapt to the changing landscape and mitigate the risks associated with AI disruption. The earnings outlook for software companies may be impacted, as investors reassess their valuations in light of the potential threats and opportunities presented by AI. The rally may also lead to increased liquidity in the sector, potentially benefiting stocks that have been hit hard by the sell-off.",
+      "risks": [
+        "AI disruption risk",
+        "valuation risk",
+        "earnings slowdown risk"
+      ]
+    }
+  },
+  {
+    "id": "7787987",
+    "headline": "Wall St indexes mixed as US-Iran concerns clash with bargain-hunting - Reuters",
+    "summary": "Wall St indexes mixed as US-Iran concerns clash with bargain-hunting  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNnlHODRfWHZBSmRTd0hYTjBoVndLOTk4dm8tS1Q5WmVlQVZ5NEtoYU9wUFZKdXdMOXlYc0d4RU5jMEFyTUthSTZaMTlGMEJEaHdtNWh1YndGQnlRWjhQMnJzVmZFNTFhZ2FQX3JESzhxc1NaMXRiclVmNHlaZkIwT3dhWTJ6eFgtZ3ZQVDBZV2FoQ3RPWlRCbm5ZSDNSX2tqV0NjWE9EM0JLaENHRTNj?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1776102102,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1776078351,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "US-Iran peace talks failing has led to a decline in Wall Street futures, indicating a negative market reaction. The peace talks were a key point of interest for investors, as a resolution could have positively impacted the global economy and, in turn, the stock market. The failure of the talks suggests that tensions between the US and Iran will persist, potentially leading to increased volatility in the market. This development is a negative signal for investors, as it may lead to a decline in investor confidence and a decrease in stock prices.",
+      "impact": "The failure of US-Iran peace talks may lead to increased tensions and volatility in the market, potentially impacting stocks with exposure to the energy and defense sectors. In the short term, investors may see a decline in stock prices as a result of the negative market reaction. In the medium term, the prolonged tensions may lead to a decrease in investor confidence, resulting in lower stock prices and reduced liquidity. The impact may be particularly pronounced for companies with significant exposure to the Middle East region or those with a high degree of dependence on global trade.",
+      "risks": [
+        "Increased market volatility risk",
+        "Decreased investor confidence risk",
+        "Potential decline in stock prices risk"
+      ]
+    }
+  },
+  {
     "id": "7789185",
     "headline": "NATO allies refuse to join Trump's Iranian port blockade - Reuters",
     "summary": "NATO allies refuse to join Trump's Iranian port blockade  Reuters",
@@ -46,48 +115,25 @@
     }
   },
   {
-    "id": "7787987",
-    "headline": "Wall St indexes mixed as US-Iran concerns clash with bargain-hunting - Reuters",
-    "summary": "Wall St indexes mixed as US-Iran concerns clash with bargain-hunting  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNnlHODRfWHZBSmRTd0hYTjBoVndLOTk4dm8tS1Q5WmVlQVZ5NEtoYU9wUFZKdXdMOXlYc0d4RU5jMEFyTUthSTZaMTlGMEJEaHdtNWh1YndGQnlRWjhQMnJzVmZFNTFhZ2FQX3JESzhxc1NaMXRiclVmNHlaZkIwT3dhWTJ6eFgtZ3ZQVDBZV2FoQ3RPWlRCbm5ZSDNSX2tqV0NjWE9EM0JLaENHRTNj?oc=5",
+    "id": "7787571",
+    "headline": "Exclusive: Luxury brands face profit squeeze as Iran conflict shrinks UAE mall sales, sources say - Reuters",
+    "summary": "Exclusive: Luxury brands face profit squeeze as Iran conflict shrinks UAE mall sales, sources say  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZGQ2c1RKWXhPWl93U3BJR0NUS3hJaXY4aG04d3ctME93OWx6WmxsWHFnSDZERmdvMUNaU1BiT2hpVUxueV9JLUlWXzdkMTh4SlVXdjNJU2NkZzBjdUcyZnhzOTFfcXBvb3kwTERqMzFudkdQT2Q5cUxDMmx5dUlrVjdnRTVVeVRsemFWa2xMMGlJUFFSeVRpeE5DRG1vTktCSWswMEdXRUNNUjdiN1k1TU1QY0xGcFRhWnMyRkFJZUNfa0RwaWc?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1776097443,
+    "publishedAt": 1776096179,
     "analysis": {
       "version": 2,
-      "generatedAt": 1776078351,
+      "generatedAt": 1776084607,
       "sentiment": "bearish",
       "confidence": 0.8,
-      "summary": "US-Iran peace talks failing has led to a decline in Wall Street futures, indicating a negative market reaction. The peace talks were a key point of interest for investors, as a resolution could have positively impacted the global economy and, in turn, the stock market. The failure of the talks suggests that tensions between the US and Iran will persist, potentially leading to increased volatility in the market. This development is a negative signal for investors, as it may lead to a decline in investor confidence and a decrease in stock prices.",
-      "impact": "The failure of US-Iran peace talks may lead to increased tensions and volatility in the market, potentially impacting stocks with exposure to the energy and defense sectors. In the short term, investors may see a decline in stock prices as a result of the negative market reaction. In the medium term, the prolonged tensions may lead to a decrease in investor confidence, resulting in lower stock prices and reduced liquidity. The impact may be particularly pronounced for companies with significant exposure to the Middle East region or those with a high degree of dependence on global trade.",
+      "summary": "Luxury brands operating in the UAE are facing a profit squeeze due to the Iran conflict, which has led to a decline in mall sales. The conflict has resulted in a decrease in tourist traffic and a subsequent decline in consumer spending. This has negatively impacted the sales of luxury brands, which rely heavily on tourism and consumer spending. The decline in sales is expected to continue in the short term, affecting the earnings outlook for luxury brands operating in the UAE.",
+      "impact": "The Iran conflict and subsequent decline in mall sales are likely to have a negative impact on the earnings outlook for luxury brands operating in the UAE. This could lead to a decline in stock prices, particularly for companies with high exposure to the UAE market. The decline in consumer spending and tourist traffic may also lead to a decrease in revenue and profitability for these companies, making them less attractive to investors. In the medium term, the conflict could lead to a re-evaluation of the UAE as a tourist destination and a shift in consumer spending habits, further impacting the luxury brands operating in the region.",
       "risks": [
-        "Increased market volatility risk",
-        "Decreased investor confidence risk",
-        "Potential decline in stock prices risk"
-      ]
-    }
-  },
-  {
-    "id": "7786933",
-    "headline": "Gold slips as dollar firms, US-Iran peace talks falter - Reuters",
-    "summary": "Gold slips as dollar firms, US-Iran peace talks falter  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaUFTSW41Q2Y0S2IzQkhhWGppdnJGckdGZjFnVmRzbGNlRmVoc1RzWUNJblUtcTVEcFBETXpYaEl0WDNfN1Z5LTB1ZDJlT1J0TWhHeDdxNGMza3JnUThuVGlxTWVTM25MSnRPV3ZSYnJjOTF6b0RTUHc0a1ozQ3U4dVFiaW9nVWYwRHJNZTVnZ1ZYQ0FIU0FzTnByWFlhN3dNY0E?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1776096354,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1776063898,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The recent failed US-Iran talks have reignited inflation worries, causing gold prices to drop. The talks' collapse has increased concerns about a potential escalation of tensions in the Middle East, which could lead to higher oil prices and inflation. This, in turn, may reduce the appeal of gold as a safe-haven asset. The US Federal Reserve's dovish stance on interest rates has also contributed to the decline in gold prices, as lower interest rates reduce the opportunity cost of holding gold.",
-      "impact": "The failed US-Iran talks and subsequent inflation worries may lead to a short-term decline in gold prices, potentially benefiting gold mining companies such as Newmont Goldcorp (NEM) and Barrick Gold (GOLD). However, this may also lead to a medium-term increase in oil prices, which could negatively impact the earnings outlook for companies such as ExxonMobil (XOM) and Chevron (CVX). The decline in gold prices may also reduce the appeal of gold ETFs such as SPDR Gold Shares (GLD), leading to a decrease in trading volume and liquidity.",
-      "risks": [
-        "inflation risk",
-        "interest rate risk",
-        "geopolitical risk"
+        "Decline in tourist traffic and consumer spending",
+        "Negative impact on earnings outlook",
+        "Decrease in revenue and profitability"
       ]
     }
   },
@@ -134,6 +180,29 @@
         "over-reliance on AI companions leading to decreased critical thinking skills",
         "increased scrutiny on AI companies to provide more nuanced and balanced advice",
         "potential backlash from consumers who feel misled by AI companions"
+      ]
+    }
+  },
+  {
+    "id": "7789502",
+    "headline": "Iran war weighs on global economy as IMF meeting starts - Reuters",
+    "summary": "Iran war weighs on global economy as IMF meeting starts  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR3JDdVhEa1FKcjhXb09Sb25lVnpsXzk5WlZlcDJnZVpMTHdmbGVnZ2h4OXA0TDVxV3EzTVdfbGFNTTFJc0cwZlJmTHpBVDc3aW5hS0JseXJLT2d0cmVTNEhxMmdHSmMwSmRPazN5dGVxeHNMVGtQYnZkOFdFQnNQc2FqX0RjTnVEZkJSQ2ExMXJNa3Y4aV9DbUV5ZERJUUk?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1776092511,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1776106394,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The escalating tensions between Iran and the US have heightened global economic uncertainty, weighing on the global economy as the IMF meeting starts. The conflict has led to increased oil prices, which in turn could lead to higher inflation and reduced consumer spending. This could negatively impact companies with high exposure to oil prices, such as airlines and transportation companies. The IMF meeting aims to discuss global economic policies, but the current uncertainty may lead to a more cautious approach.",
+      "impact": "The potential impact on related stocks is significant, with a short-term increase in oil prices likely to boost energy companies such as ExxonMobil and Chevron. However, the medium-term effect may be a slowdown in consumer spending, negatively impacting companies such as Amazon and Walmart. The uncertainty may also lead to a decrease in investor sentiment, making it a challenging time for companies with high valuations, such as Tesla and Netflix.",
+      "risks": [
+        "Oil price volatility risk",
+        "Global economic slowdown risk",
+        "Consumer spending slowdown risk"
       ]
     }
   },
@@ -479,29 +548,6 @@
     }
   },
   {
-    "id": "7787673",
-    "headline": "European chemical firms, hit hard by Iran war, to report falling Q1 earnings - Reuters",
-    "summary": "European chemical firms, hit hard by Iran war, to report falling Q1 earnings  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV1JlN2FvLUFxZGZGeFBpZGc3VlhfaEpUbUdKQ0RlRjJ3eTlWWFdEYkNYSEczTVNUX0VnZWFPME1jUGpwaEVUa0hDQUgzYlBKeW1Fd2hKY2FoT3dpWERzdUUxXzlYLUlSOGZpWTBnUlJUczNGVGt0Y3dYaU8wd1hMZFlkNVBEZW5HTnpaS0VUWGo3Z08xdEt1TFVVRUFMZG9wWVpqdGNBZ1haQUpQWlZ5eFptbVZWdnc?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1776076277,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1776084560,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "European chemical firms are expected to report falling Q1 earnings due to the ongoing Iran war, which has disrupted global supply chains and increased production costs. The conflict has led to a shortage of raw materials, particularly natural gas and petroleum products, making it challenging for chemical companies to maintain their profit margins. This is a continuation of the industry's struggles in 2022, as the Ukraine-Russia conflict and COVID-19 pandemic also affected the sector. The Q1 earnings reports will likely reflect the negative impact of these external factors on the chemical industry's performance.",
-      "impact": "The news is expected to have a negative impact on the European chemical sector, particularly on companies that rely heavily on imported raw materials. The falling earnings reports may lead to a decline in stock prices, making the sector more attractive to value investors. However, the medium-term impact may be more significant, as the industry's recovery will depend on the resolution of the Iran war and the subsequent normalization of global supply chains. This could lead to a re-evaluation of the sector's valuation multiples and a potential shift in investor sentiment.",
-      "risks": [
-        "Supply chain disruption risk",
-        "Earnings guidance risk",
-        "Valuation multiple compression risk"
-      ]
-    }
-  },
-  {
     "id": "7786214",
     "headline": "US blockade of Iran will be major military endeavor, experts say - Reuters",
     "summary": "US blockade of Iran will be major military endeavor, experts say  Reuters",
@@ -521,6 +567,30 @@
         "Increased military spending risk",
         "Disruption to global oil supplies risk",
         "Escalation of regional tensions risk"
+      ]
+    }
+  },
+  {
+    "id": "7789503",
+    "headline": "Sterling dips as US-Iran peace talks stall; energy prices surge - Reuters",
+    "summary": "Sterling dips as US-Iran peace talks stall; energy prices surge  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN2hURWoyWEN3aGNrc2ItM2Z3cDZ1dFZJWWZPbDdmNDhJa2otbU5ldTZiWkVzZlcxWU1SU3lxMDJlVDJ0Zm9tYzFzazduSEkwTzhtZlNEVTNXUjNsVU1DNnFrQXdFZ05HRjFyNERxUGpXbGtQNVpYdVEwVHczd005aG9mN0labDNoQjl3RUZmWnNDNVl1UlhvLXBQYzE4TjZ2bDJvV3FqZw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1776075311,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1776106451,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The British pound sterling has declined as US-Iran peace talks have stalled, leading to a surge in energy prices. This development is a concern for the UK's economy, which is heavily reliant on global energy markets. The stalling of peace talks increases the risk of a prolonged period of high energy prices, which could negatively impact the UK's inflation rate and economic growth. The UK's energy-intensive industries, such as manufacturing and transportation, may also be affected by the rising energy costs.",
+      "impact": "The potential impact on the UK's energy-intensive industries, such as manufacturing and transportation, could lead to a decline in their earnings outlook. This, in turn, may result in a decline in the stocks of companies operating in these sectors. The increased energy prices may also lead to higher production costs for these companies, which could negatively impact their profit margins. In the short-term, the sterling's decline may lead to a decrease in the attractiveness of the UK market for foreign investors, resulting in a decline in liquidity.",
+      "risks": [
+        "Increased energy costs risk",
+        "Higher production costs risk",
+        "Decreased investor sentiment risk",
+        "Potential decline in earnings outlook risk"
       ]
     }
   },
@@ -594,6 +664,29 @@
     }
   },
   {
+    "id": "7787569",
+    "headline": "China's exports set to lose momentum as Iran war undercuts AI-driven boom: Reuters poll - Reuters",
+    "summary": "China's exports set to lose momentum as Iran war undercuts AI-driven boom: Reuters poll  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdERDRjNUTDdSVjN3VTNORUVPajA1eEVTLUU2UWdmN1BHblZkc2hnVGNwa0JtWS1ZSWtjWW9nZ1k3ckNXbkwzNFphMG9Wc3MxaDEySThzRk1BR1RHYXF5Q2pmMEotb3RQR1dkY3AzaWxlc0JRZzA1b2dxbjVrU0I3eDk2U1R6cU1EYXhZVldCOFA2UGNrbkNJbVNVM200TWo3aC14VEozWVhVSWRycWQ3OTIyQ00?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1776069484,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1776072277,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "China's exports are expected to lose momentum due to the ongoing Iran war, which is underpinning a decline in global trade and economic growth. The war has led to increased uncertainty and instability in the global market, causing a decline in investor confidence and a subsequent decrease in demand for Chinese exports. This is particularly concerning for China's AI-driven exports, which have been a key driver of the country's economic growth in recent years. The decline in exports is expected to have a ripple effect on the global economy, with potential impacts on industries such as technology and manufacturing.",
+      "impact": "The potential impact on related stocks could be significant, with a decline in exports leading to lower earnings for companies that rely heavily on Chinese exports. In the short-term, this could lead to a decline in stock prices, particularly for companies with high exposure to Chinese exports. In the medium-term, the decline in exports could lead to a decrease in investor confidence, causing a broader market downturn. This could have a negative impact on the overall market sentiment and liquidity, making it more challenging for companies to raise capital and grow their businesses.",
+      "risks": [
+        "Decline in investor confidence",
+        "Decrease in demand for Chinese exports",
+        "Ripple effect on global economy"
+      ]
+    }
+  },
+  {
     "id": "7788871",
     "headline": "China poised for Q1 GDP growth rebound but Iran war dims 2026 outlook: Reuters poll - Reuters",
     "summary": "China poised for Q1 GDP growth rebound but Iran war dims 2026 outlook: Reuters poll  Reuters",
@@ -601,7 +694,21 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1776069175
+    "publishedAt": 1776069175,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1776106500,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "China is expected to experience a Q1 GDP growth rebound, according to a Reuters poll. This is driven by a pickup in industrial production and a recovery in consumer spending. However, the ongoing conflict in Iran has dimmed the outlook for 2026, with many analysts citing concerns about global economic instability and potential supply chain disruptions. The poll also highlighted the need for China to address its debt levels and structural issues to sustain long-term growth.",
+      "impact": "The news is likely to have a mixed impact on the market, with some stocks benefiting from the expected Q1 GDP growth rebound while others may be negatively affected by the dimmed 2026 outlook. Investors may reassess their exposure to Chinese stocks, potentially leading to a short-term increase in volatility. The ongoing conflict in Iran may also lead to a decrease in investor sentiment towards companies with significant exposure to the region or those with supply chains vulnerable to disruptions.",
+      "risks": [
+        "Iran conflict risk",
+        "Chinese debt risk",
+        "Global economic instability risk",
+        "Supply chain disruption risk"
+      ]
+    }
   },
   {
     "id": "7787568",
@@ -637,48 +744,25 @@
     "publishedAt": 1776061620
   },
   {
-    "id": "7787571",
-    "headline": "Exclusive: Luxury brands face profit squeeze as Iran conflict shrinks UAE mall sales, sources say - Reuters",
-    "summary": "Exclusive: Luxury brands face profit squeeze as Iran conflict shrinks UAE mall sales, sources say  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZGQ2c1RKWXhPWl93U3BJR0NUS3hJaXY4aG04d3ctME93OWx6WmxsWHFnSDZERmdvMUNaU1BiT2hpVUxueV9JLUlWXzdkMTh4SlVXdjNJU2NkZzBjdUcyZnhzOTFfcXBvb3kwTERqMzFudkdQT2Q5cUxDMmx5dUlrVjdnRTVVeVRsemFWa2xMMGlJUFFSeVRpeE5DRG1vTktCSWswMEdXRUNNUjdiN1k1TU1QY0xGcFRhWnMyRkFJZUNfa0RwaWc?oc=5",
+    "id": "7787673",
+    "headline": "European chemical firms, hit hard by Iran war, to report falling Q1 earnings - Reuters",
+    "summary": "European chemical firms, hit hard by Iran war, to report falling Q1 earnings  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV1JlN2FvLUFxZGZGeFBpZGc3VlhfaEpUbUdKQ0RlRjJ3eTlWWFdEYkNYSEczTVNUX0VnZWFPME1jUGpwaEVUa0hDQUgzYlBKeW1Fd2hKY2FoT3dpWERzdUUxXzlYLUlSOGZpWTBnUlJUczNGVGt0Y3dYaU8wd1hMZFlkNVBEZW5HTnpaS0VUWGo3Z08xdEt1TFVVRUFMZG9wWVpqdGNBZ1haQUpQWlZ5eFptbVZWdnc?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1776060060,
+    "publishedAt": 1776060240,
     "analysis": {
       "version": 2,
-      "generatedAt": 1776084607,
+      "generatedAt": 1776084560,
       "sentiment": "bearish",
       "confidence": 0.8,
-      "summary": "Luxury brands operating in the UAE are facing a profit squeeze due to the Iran conflict, which has led to a decline in mall sales. The conflict has resulted in a decrease in tourist traffic and a subsequent decline in consumer spending. This has negatively impacted the sales of luxury brands, which rely heavily on tourism and consumer spending. The decline in sales is expected to continue in the short term, affecting the earnings outlook for luxury brands operating in the UAE.",
-      "impact": "The Iran conflict and subsequent decline in mall sales are likely to have a negative impact on the earnings outlook for luxury brands operating in the UAE. This could lead to a decline in stock prices, particularly for companies with high exposure to the UAE market. The decline in consumer spending and tourist traffic may also lead to a decrease in revenue and profitability for these companies, making them less attractive to investors. In the medium term, the conflict could lead to a re-evaluation of the UAE as a tourist destination and a shift in consumer spending habits, further impacting the luxury brands operating in the region.",
+      "summary": "European chemical firms are expected to report falling Q1 earnings due to the ongoing Iran war, which has disrupted global supply chains and increased production costs. The conflict has led to a shortage of raw materials, particularly natural gas and petroleum products, making it challenging for chemical companies to maintain their profit margins. This is a continuation of the industry's struggles in 2022, as the Ukraine-Russia conflict and COVID-19 pandemic also affected the sector. The Q1 earnings reports will likely reflect the negative impact of these external factors on the chemical industry's performance.",
+      "impact": "The news is expected to have a negative impact on the European chemical sector, particularly on companies that rely heavily on imported raw materials. The falling earnings reports may lead to a decline in stock prices, making the sector more attractive to value investors. However, the medium-term impact may be more significant, as the industry's recovery will depend on the resolution of the Iran war and the subsequent normalization of global supply chains. This could lead to a re-evaluation of the sector's valuation multiples and a potential shift in investor sentiment.",
       "risks": [
-        "Decline in tourist traffic and consumer spending",
-        "Negative impact on earnings outlook",
-        "Decrease in revenue and profitability"
-      ]
-    }
-  },
-  {
-    "id": "7787569",
-    "headline": "China's exports set to lose momentum as Iran war undercuts AI-driven boom: Reuters poll - Reuters",
-    "summary": "China's exports set to lose momentum as Iran war undercuts AI-driven boom: Reuters poll  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdERDRjNUTDdSVjN3VTNORUVPajA1eEVTLUU2UWdmN1BHblZkc2hnVGNwa0JtWS1ZSWtjWW9nZ1k3ckNXbkwzNFphMG9Wc3MxaDEySThzRk1BR1RHYXF5Q2pmMEotb3RQR1dkY3AzaWxlc0JRZzA1b2dxbjVrU0I3eDk2U1R6cU1EYXhZVldCOFA2UGNrbkNJbVNVM200TWo3aC14VEozWVhVSWRycWQ3OTIyQ00?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1776057180,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1776072277,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "China's exports are expected to lose momentum due to the ongoing Iran war, which is underpinning a decline in global trade and economic growth. The war has led to increased uncertainty and instability in the global market, causing a decline in investor confidence and a subsequent decrease in demand for Chinese exports. This is particularly concerning for China's AI-driven exports, which have been a key driver of the country's economic growth in recent years. The decline in exports is expected to have a ripple effect on the global economy, with potential impacts on industries such as technology and manufacturing.",
-      "impact": "The potential impact on related stocks could be significant, with a decline in exports leading to lower earnings for companies that rely heavily on Chinese exports. In the short-term, this could lead to a decline in stock prices, particularly for companies with high exposure to Chinese exports. In the medium-term, the decline in exports could lead to a decrease in investor confidence, causing a broader market downturn. This could have a negative impact on the overall market sentiment and liquidity, making it more challenging for companies to raise capital and grow their businesses.",
-      "risks": [
-        "Decline in investor confidence",
-        "Decrease in demand for Chinese exports",
-        "Ripple effect on global economy"
+        "Supply chain disruption risk",
+        "Earnings guidance risk",
+        "Valuation multiple compression risk"
       ]
     }
   },
@@ -729,6 +813,29 @@
     }
   },
   {
+    "id": "7786933",
+    "headline": "Gold slips as dollar firms, US-Iran peace talks falter - Reuters",
+    "summary": "Gold slips as dollar firms, US-Iran peace talks falter  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaUFTSW41Q2Y0S2IzQkhhWGppdnJGckdGZjFnVmRzbGNlRmVoc1RzWUNJblUtcTVEcFBETXpYaEl0WDNfN1Z5LTB1ZDJlT1J0TWhHeDdxNGMza3JnUThuVGlxTWVTM25MSnRPV3ZSYnJjOTF6b0RTUHc0a1ozQ3U4dVFiaW9nVWYwRHJNZTVnZ1ZYQ0FIU0FzTnByWFlhN3dNY0E?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1776048660,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1776063898,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The recent failed US-Iran talks have reignited inflation worries, causing gold prices to drop. The talks' collapse has increased concerns about a potential escalation of tensions in the Middle East, which could lead to higher oil prices and inflation. This, in turn, may reduce the appeal of gold as a safe-haven asset. The US Federal Reserve's dovish stance on interest rates has also contributed to the decline in gold prices, as lower interest rates reduce the opportunity cost of holding gold.",
+      "impact": "The failed US-Iran talks and subsequent inflation worries may lead to a short-term decline in gold prices, potentially benefiting gold mining companies such as Newmont Goldcorp (NEM) and Barrick Gold (GOLD). However, this may also lead to a medium-term increase in oil prices, which could negatively impact the earnings outlook for companies such as ExxonMobil (XOM) and Chevron (CVX). The decline in gold prices may also reduce the appeal of gold ETFs such as SPDR Gold Shares (GLD), leading to a decrease in trading volume and liquidity.",
+      "risks": [
+        "inflation risk",
+        "interest rate risk",
+        "geopolitical risk"
+      ]
+    }
+  },
+  {
     "id": "7786517",
     "headline": "Indian shares slide as US to blockade Iran ports after failed peace talks - Reuters",
     "summary": "Indian shares slide as US to blockade Iran ports after failed peace talks  Reuters",
@@ -753,8 +860,8 @@
   },
   {
     "id": "7786416",
-    "headline": "Iran threatens to retaliate against Gulf ports for US blockade - Reuters",
-    "summary": "Iran threatens to retaliate against Gulf ports for US blockade  Reuters",
+    "headline": "Deadline passes for US blockade of Iran's ports, Tehran threatens to retaliate - Reuters",
+    "summary": "Deadline passes for US blockade of Iran's ports, Tehran threatens to retaliate  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSzI4N2RNd3Atb3R2R3E3WjlPUEhJeHlHd29YUEcxN0RWWUpqZ0FENVhxWWFSTGlZVTl1NjZzMnl1ZU5qM2dUZmRRZ3lBd1BtRWtIck8yWWFZVEV3aWVvMDJaRXo4dVZzemEzY1R2bDNEVHB6dFdhelpIYTRtc3FuZ1hkN05VdmNZZmFZY25LSWd5WnA3YWlFN051bkZZNjFRZXc?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -2006,8 +2113,8 @@
   },
   {
     "id": "7775289",
-    "headline": "Mapping the Strait of Hormuz at near standstill after ceasefire - Reuters",
-    "summary": "Mapping the Strait of Hormuz at near standstill after ceasefire  Reuters",
+    "headline": "Hormuz remains at near standstill after ceasefire - Reuters",
+    "summary": "Hormuz remains at near standstill after ceasefire  Reuters",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3Y0hEbUhxS05DSGxmRXpTZ2c5WkxvclROSi1yT3NYUWdhM0FSMGFBNFVDNm9YV012ckpRTFlNOFp0Ykh0T0oxNUdUbHhmME1ZR1EwdERWQ0RFSGgxLWh2MTRaaHc5ZUw0R1hEakFXdw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -22522,98 +22629,6 @@
         "Credit loss risk",
         "Earnings decline risk",
         "Liquidity risk due to investor withdrawals"
-      ]
-    }
-  },
-  {
-    "id": "7689134",
-    "headline": "FedEx launches same-day delivery with OneRail as Amazon, Walmart boost their speeds",
-    "summary": "FedEx announced it's partnering with last-mile delivery company OneRail to bring same-day delivery to all of its customers.",
-    "url": "https://www.cnbc.com/2026/03/24/fedex-same-day-delivery-onerail.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108240023-1765391471345-gettyimages-2248825812-CYBER_MONDAY_2025.jpeg?v=1765391511&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1774350001,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1774352028,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "FedEx is partnering with OneRail to offer same-day delivery to all customers, leveraging OneRail's AI-powered last-mile delivery technology. This move comes as Amazon and other retailers are also increasing their delivery speeds to keep up with consumer demand. The partnership allows retailers to offer same-day shipping without needing to change their infrastructure, making it a competitive advantage. This development is a response to the growing demand for faster shipping and Amazon's dominance in the market.",
-      "impact": "The partnership is likely to positively impact FedEx's earnings outlook as it increases its competitiveness in the market. The medium-term effect could be a rise in valuation as investors recognize the company's ability to adapt to changing consumer demands. The increased focus on same-day delivery may also lead to a shift in investor sentiment, making the stock more attractive to growth investors. However, the short-term impact may be muted as the market absorbs the news and adjusts to the changing landscape.",
-      "risks": [
-        "Integration risk: The successful integration of OneRail's technology with FedEx's existing infrastructure is crucial to the success of the partnership.",
-        "Competition risk: Amazon and other retailers may respond with their own same-day delivery offerings, increasing competition in the market.",
-        "Regulatory risk: Changes in regulations or laws governing delivery services could impact the viability of the partnership and the industry as a whole."
-      ]
-    }
-  },
-  {
-    "id": "7689517",
-    "headline": "Brewers in India warn of shortages as Iran war hits glass bottle, can makers - Reuters",
-    "summary": "Brewers in India warn of shortages as Iran war hits glass bottle, can makers  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMXZmWXd2eThkeVBvZjllbWNJX0NYLWRvMXc2bklaLTRPY05WaF9SRExnNi15VkVZbGxfTDA5NG1vcVZCUkgzTW5ib0dPS0hPSXlyOVFwR2JsS1l2Mko4VnRnMFpnUi1FaWlvb1lxNXhTZG8wM0FvQUdUNzFuMGFYMTFnOHU4Tm90ZHZ0NnY5ZHQyYUx4aUZlYTNrVFZfLWJOSnVzNnZ1a3RhYVIxdWNxd2ZlcFo?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1774349796,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1774361403,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "Brewers in India are warning of potential shortages due to disruptions in the supply of glass bottles and cans, caused by the ongoing Iran war. The conflict has affected the production of glass and metal, key materials used in packaging. This has led to a shortage of glass bottles and cans, which are essential for the Indian brewing industry. The shortage is expected to impact the production of beer, potentially leading to supply chain disruptions and reduced sales. The Indian brewing industry is a significant contributor to the country's economy, and any disruptions could have broader implications.",
-      "impact": "The potential shortage of glass bottles and cans is likely to have a short-term impact on the earnings of Indian breweries, particularly those that rely heavily on glass packaging. The shortage could lead to reduced sales and revenue, potentially affecting the companies' bottom line. In the medium term, the shortage could lead to increased costs for breweries as they seek alternative packaging solutions, which may negatively impact their profit margins. The shortage may also lead to a decrease in beer prices as breweries try to maintain market share.",
-      "risks": [
-        "Supply chain disruption risk",
-        "Increased costs risk",
-        "Decreased profitability risk"
-      ]
-    }
-  },
-  {
-    "id": "7689514",
-    "headline": "Iran names hardline ex-Revolutionary Guards commander to replace slain security chief - Reuters",
-    "summary": "Iran names hardline ex-Revolutionary Guards commander to replace slain security chief  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT2VDWmNYMDF1a09CZ3JwRVU5NlY0SXpSUHV1NllRWno5XzQwTGlJcjFsR0Y0MzA3cDRMOTRoWmNqWHI0MktwSWlERjBIOU9ycHhYMDhlQVBfVlZKMEdSODY3VWprU092blg2YVZ6aXliTkhFUUJHcGVONGtJcWVERF9kSEp6ZFdQcXVoNDlTQTNpR2hhOHpEWU16QTVITmtGNkpJSExBSl9UczlWNm1BaWd0RlhfZVRlZ2ZwN0lqR1hQaW5iTE9DdHJrZnl5dw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1774349368,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1774361495,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "Iran's appointment of a hardline ex-Revolutionary Guards commander to replace the slain security chief is a concerning development that may indicate a shift towards increased domestic repression and regional aggression. This could lead to heightened tensions with the West, particularly the US, and potentially disrupt global oil markets. The new appointee's background suggests a strong allegiance to the regime's hardline faction, which may exacerbate existing economic sanctions and isolate Iran from international trade. This could have a negative impact on Iran's economy, particularly the oil and gas sector, which is a significant contributor to the country's GDP.",
-      "impact": "The appointment may lead to a short-term sell-off in stocks related to the Iranian oil and gas sector, as well as those with exposure to the country's economy. In the medium term, the increased tensions and potential sanctions may lead to a decline in investor sentiment and a decrease in stock prices. The appointee's hardline stance may also lead to a reduction in foreign investment and a decline in economic growth, further weighing on the country's stock market.",
-      "risks": [
-        "Escalation of tensions with the West and potential imposition of new sanctions",
-        "Decrease in investor sentiment and foreign investment",
-        "Reduced economic growth and decline in oil and gas sector"
-      ]
-    }
-  },
-  {
-    "id": "7689515",
-    "headline": "Russia says it would be very concerned by Iran war spillover into Caspian Sea - Reuters",
-    "summary": "Russia says it would be very concerned by Iran war spillover into Caspian Sea  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZlM5YmJCREtwRExLX0xPQmphUjhiWmIwTnlJN1lrVkdjdlJTbnY1Zjl1aEdDY2owRzdaQTRLZ1ZNMUxOVm4zV3h4ZUZYTm5SejhoSGpidWdQOVRqa0l3V3RUNmlCTXpNcEVfQjZ6TGNjYkJpUmlPMjQyMllraHUycXhjY05SMjU5a0ZSc0VZZzI0OFNZNW9kMTZkb2pyeFBvbXVCMXlnc1NTX2ptaGlaeUJRenVEWW8xNHJr?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1774347233,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1774367313,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "Russia's statement on the potential spillover of the Iran war into the Caspian Sea suggests a heightened geopolitical risk in the region. The Caspian Sea is a critical waterway for oil exports from Russia, Azerbaijan, Kazakhstan, and Turkmenistan. This development may lead to increased tensions between Russia and Iran, potentially disrupting oil exports and impacting the global energy market. The situation may also affect the earnings outlook for companies operating in the region or involved in the oil industry.",
-      "impact": "The potential conflict in the Caspian Sea region may lead to a short-term increase in oil prices, benefiting oil producers such as Rosneft and Gazprom. However, the medium-term impact could be negative, as escalating tensions may lead to reduced oil exports, hurting the earnings of companies reliant on the region's oil production. Investors should be cautious of the potential risks to the global energy market and the related stocks.",
-      "risks": [
-        "geopolitical risk",
-        "oil price volatility risk",
-        "earnings downgrade risk"
       ]
     }
   }
