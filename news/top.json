@@ -1,5 +1,120 @@
 [
   {
+    "id": "7793820",
+    "headline": "Trump says gas prices 'could be the same' or 'a little bit higher' by the midterms",
+    "summary": "The U.S. began blocking ships through the Strait of Hormuz on Monday, sending oil prices surging after peace talks failed over the weekend.",
+    "url": "https://www.cnbc.com/2026/04/14/trump-gas-prices-midterms-iran-war.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108290425-17760872422026-04-13t011610z_49431240_rc21okahtf4e_rtrmadp_0_usa-trump.jpeg?v=1776087260&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1776175317,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1776176739,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The US-Iran conflict has led to a surge in oil prices, with Brent crude oil rising to $97 per barrel. The blockade of the Strait of Hormuz has caused major disruptions to the global oil supply chain, driving up gas prices. President Trump's comments suggest that gas prices may not come down before the midterm elections, with some analysts predicting further price increases. This has significant implications for consumers and the oil industry, with potential changes to driving habits and lifestyles.",
+      "impact": "The ongoing conflict and potential further price increases could negatively impact the earnings outlook for companies in the oil and gas industry, particularly those with high exposure to refined products. This could lead to a decrease in stock prices, reduced liquidity, and a negative sentiment shift among investors. Companies with high debt levels or limited financial flexibility may be particularly vulnerable to these market fluctuations.",
+      "risks": [
+        "Further escalation of the conflict and potential disruptions to the global oil supply chain",
+        "Increased competition from alternative energy sources and electric vehicles",
+        "Potential changes in government policies or regulations affecting the oil industry"
+      ]
+    }
+  },
+  {
+    "id": "7793703",
+    "headline": "Lucid names auto industry outsider as CEO, expands Uber deal",
+    "summary": "Lucid Group has named former chairman and CEO of Schindler Group, an industrial machinery manufacturer of escalators and elevators, as its new chief executive.",
+    "url": "https://www.cnbc.com/2026/04/14/lucid-ceo-silvio-napoli.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108287650-1775514739032-NYIAS_04022026_DeVries-409.jpg?v=1775515119&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1776173192,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1776176789,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Lucid Group has appointed Silvio Napoli as its new CEO, replacing Peter Rawlinson who departed in February 2025. Napoli, a former chairman and CEO of Schindler Group, brings operational expertise and financial discipline to the role. The company also announced a $750 million investment from an affiliate of Saudi Arabia's Public Investment Fund and Uber, expanding their previous tie-up. This investment includes Uber purchasing at least 35,000 Lucid vehicles for its robotaxi service, up from 20,000 previously announced. Lucid's new CEO and investments signal a shift in direction for the company, focusing on scaling and executing its strategy.",
+      "impact": "The news is likely to have a positive impact on Lucid's stock price in the short-term, driven by the increased investment and partnership with Uber. The expanded deal with Uber could also lead to increased revenue and growth prospects for Lucid. However, the company's earnings outlook and valuation multiples may face upward pressure as investors reassess the company's growth potential. Additionally, the appointment of a new CEO with a non-auto industry background may lead to a period of transition and uncertainty for the company.",
+      "risks": [
+        "Transition risk: The company may face challenges in adapting to Napoli's leadership style and operational expertise.",
+        "Integration risk: The expanded partnership with Uber may require significant integration efforts, which could be time-consuming and costly.",
+        "Valuation risk: The increased investment and growth prospects may lead to a revaluation of the company's stock price, potentially making it overvalued."
+      ]
+    }
+  },
+  {
+    "id": "7793599",
+    "headline": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+    "summary": "Stocks are headed for a higher open, including the Nasdaq. The index enters today's session up nine sessions in a row, the longest winning streak since 2023.",
+    "url": "https://www.cnbc.com/2026/04/14/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108282848-1774449065459-gettyimages-2268295148-mms23900_hp4oyc4i.jpeg?v=1776170994&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1776171967,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1776176836,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The stock market is expected to open higher, with the Nasdaq entering its longest winning streak since 2023. Johnson & Johnson reported a solid Q1, beating estimates and raising guidance. Wells Fargo's Q1 earnings fell short of expectations, while JPMorgan and Citigroup's earnings were mixed. United Airlines and American Airlines shares rose after a potential merger was pitched at the White House. Analysts are bullish on Starbucks and Microsoft, but with caution.",
+      "impact": "The market's overbought condition and potential earnings misses may lead to a short-term correction. Johnson & Johnson's strong earnings and raised guidance could support the stock's price. Wells Fargo's disappointing earnings may lead to a decline in its stock price. The potential merger between United Airlines and American Airlines could lead to increased volatility in their shares. Analysts' upgraded price targets for Starbucks and Microsoft may support their stock prices, but investors should keep expectations low due to the companies' challenges in their respective industries.",
+      "risks": [
+        "market correction risk",
+        "earnings miss risk",
+        "industry challenges risk"
+      ]
+    }
+  },
+  {
+    "id": "7793598",
+    "headline": "Treasury Secretary Bessent now says it's OK for the Fed to wait to lower rates amid oil surge",
+    "summary": "Bessent has previously said the Fed should hasten cutting interest rates, calling reductions \"the only ingredient missing\" for stronger economic growth.",
+    "url": "https://www.cnbc.com/2026/04/14/treasury-secretary-bessent-now-says-its-ok-for-the-fed-to-wait-to-lower-rates-amid-oil-surge.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108284103-17746217232026-03-27t141849z_160614809_rc22dkascbwt_rtrmadp_0_usa-vance.jpeg?v=1774621753&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1776171254,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1776176882,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "US Treasury Secretary Scott Bessent has changed his stance on interest rates, now suggesting the Fed can wait to lower rates amid an oil price surge. This shift in thinking comes as the Fed faces a complicated mandate to balance rising inflation with slowing growth. Bessent previously advocated for rate cuts, citing them as a key driver of stronger economic growth. The change in his stance may indicate a more cautious approach to monetary policy. The Fed is expected to hold rates steady this year, with a slim possibility of a hike.",
+      "impact": "The news may lead to a short-term pause in the decline of the US dollar, potentially benefiting export-oriented companies. However, the medium-term impact on the US economy and interest rates remains uncertain, as the Fed's decision will depend on various economic indicators. The shift in Bessent's stance may also influence the market's expectations for Fed Chair Jerome Powell's term, potentially affecting the stock prices of banks and financial institutions.",
+      "risks": [
+        "inflation risk",
+        "economic growth slowdown risk",
+        "Fed policy uncertainty risk"
+      ]
+    }
+  },
+  {
+    "id": "7792624",
+    "headline": "IEA warns Iran war oil shock will cut supply, cause demand to shrink - Reuters",
+    "summary": "IEA warns Iran war oil shock will cut supply, cause demand to shrink  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQXM5Q1RVNkFkMGRfUDZtODlwWXU0dGJGWFc3d2RaYVpLNHl1bHZuM01kcFpxUmdZOFRHa19zNUFwTHdRZ1EzbXJYMjhFUDlPOUVJUXBYZVlHdW84WGpjSXI3Q3BvQ0JxYmMxdmE2VV9xNTdCU09oOFFUVk4yVzJ1NC1MUmQ0WkhIRmZ0ZDQ4cGtfdGxLWnNZREE0eEsxUkk?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1776168950,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1776160896,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The International Energy Agency (IEA) has revised its global oil market outlook due to the recent Iran war, which has led to increased uncertainty and volatility in the oil market. The conflict has disrupted oil production and exports from Iran, a major oil producer, causing a surge in oil prices. The IEA expects a tighter oil market in the coming months, which could lead to higher prices and increased costs for oil-consuming countries. This development is a significant shift from the IEA's previous forecast, indicating a more bearish outlook for oil prices.",
+      "impact": "The Iran war and its impact on the oil market are likely to have a negative impact on oil-producing companies, such as those listed on the NYMEX, as higher oil prices reduce their profit margins. In the short-term, oil prices may surge, leading to a decline in the earnings of oil producers. In the medium-term, the increased costs and volatility may lead to a revaluation of oil-producing companies, potentially affecting their stock prices. The uncertainty surrounding the conflict may also lead to increased hedging and risk management activities, which could impact liquidity in the oil market.",
+      "risks": [
+        "Increased oil prices risk",
+        "Disrupted supply chain risk",
+        "Volatility risk"
+      ]
+    }
+  },
+  {
     "id": "7793365",
     "headline": "The top 10 large U.S. cities for recent college graduates in 2026, according to new report—3 are in Texas",
     "summary": "New York City and LA didn't make the list, published by Glassdoor and Redfin on April 14.",
@@ -8,29 +123,6 @@
     "image": "https://image.cnbcfm.com/api/v1/image/108290598-1776100844183-gettyimages-2199311424-jjl09129.jpeg?v=1776100860&w=1920&h=1080",
     "relatedSymbols": [],
     "publishedAt": 1776168061
-  },
-  {
-    "id": "7792831",
-    "headline": "Iran war allows Australia to revive green iron ambitions - Reuters",
-    "summary": "Iran war allows Australia to revive green iron ambitions  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaGtEcG9oTzBTQkQ2S3ZyN0Q4dFE5dm1SYWdabEdHRGgteHpoRC1uS2ZHLXBSSF9qX3Ayd0pJNTNnYTJGYV9JMjhmWE5yNTJLRHJGa2dfeVhUU2NnYm9Fd01XUUtKOTI4M0ZRWFhjOER1LThvSGtwVjFPblNQWnd1eW9pQXdOdW04UUJFbEFmbnpwWEZoOS1fZWliclRnTlB0Nk14ZWtidllLUC13bnc?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1776168023,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1776167140,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Australia's green iron ambitions have been revived due to the ongoing Iran war, which has created a favorable market environment for the country's iron ore exports. The conflict has led to a surge in global demand for iron ore as Iran's main steel producers struggle to meet domestic demand. Australia's iron ore producers, such as BHP Group and Rio Tinto, are well-positioned to capitalize on this increased demand. The country's green iron ambitions, which involve the production of low-carbon iron, are now more feasible as the focus shifts to meeting the growing demand for sustainable steel.",
-      "impact": "The potential impact on Australian iron ore producers is positive, with increased demand and higher prices driving earnings growth. This could lead to a short-term increase in stock prices for companies like BHP Group and Rio Tinto. However, medium-term concerns around the sustainability of the demand growth and the impact of global trade policies on the iron ore market may temper the enthusiasm. The increased focus on green iron production could also lead to investment opportunities in this space.",
-      "risks": [
-        "Dependence on a single market or customer",
-        "Global trade policy risks",
-        "Sustainability of demand growth"
-      ]
-    }
   },
   {
     "id": "7792830",
@@ -79,29 +171,6 @@
     }
   },
   {
-    "id": "7792624",
-    "headline": "Iran war upends IEA's oil market outlook as global supply and demand to contract in 2026 - Reuters",
-    "summary": "Iran war upends IEA's oil market outlook as global supply and demand to contract in 2026  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQXM5Q1RVNkFkMGRfUDZtODlwWXU0dGJGWFc3d2RaYVpLNHl1bHZuM01kcFpxUmdZOFRHa19zNUFwTHdRZ1EzbXJYMjhFUDlPOUVJUXBYZVlHdW84WGpjSXI3Q3BvQ0JxYmMxdmE2VV9xNTdCU09oOFFUVk4yVzJ1NC1MUmQ0WkhIRmZ0ZDQ4cGtfdGxLWnNZREE0eEsxUkk?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1776159603,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1776160896,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The International Energy Agency (IEA) has revised its global oil market outlook due to the recent Iran war, which has led to increased uncertainty and volatility in the oil market. The conflict has disrupted oil production and exports from Iran, a major oil producer, causing a surge in oil prices. The IEA expects a tighter oil market in the coming months, which could lead to higher prices and increased costs for oil-consuming countries. This development is a significant shift from the IEA's previous forecast, indicating a more bearish outlook for oil prices.",
-      "impact": "The Iran war and its impact on the oil market are likely to have a negative impact on oil-producing companies, such as those listed on the NYMEX, as higher oil prices reduce their profit margins. In the short-term, oil prices may surge, leading to a decline in the earnings of oil producers. In the medium-term, the increased costs and volatility may lead to a revaluation of oil-producing companies, potentially affecting their stock prices. The uncertainty surrounding the conflict may also lead to increased hedging and risk management activities, which could impact liquidity in the oil market.",
-      "risks": [
-        "Increased oil prices risk",
-        "Disrupted supply chain risk",
-        "Volatility risk"
-      ]
-    }
-  },
-  {
     "id": "7792414",
     "headline": "US, Iranian teams could return to Islamabad for peace talks this week, multiple sources say - Reuters",
     "summary": "US, Iranian teams could return to Islamabad for peace talks this week, multiple sources say  Reuters",
@@ -123,6 +192,16 @@
         "impact on global oil prices"
       ]
     }
+  },
+  {
+    "id": "7793494",
+    "headline": "UK's Reeves 'frustrated and angry' over US Iran war strategy, Mirror reports - Reuters",
+    "summary": "UK's Reeves 'frustrated and angry' over US Iran war strategy, Mirror reports  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTzhvekFDdEVRZk5VQkEzWlVNYm4wanFOckR0aXNBbDRaU0FyQTc2ajk0Q2ZLRF9fMm9Ja0ZXV0xkR2FuWHA1d1Bya3Y5SU1JVmZxemZsYXo2XzYzM0szS3JDaG5kRTQ1RXo1Z2w4WWdyMkF4MDJERmViRUNvQzdGNkhXc25oaFBXLUNqNE9MVFpTRjJlNWtBdnZDODNWVl9rV0NsNUNfV0gyOEVCWGZteDgyX3YwMHl4NTExQUtBUQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1776158640
   },
   {
     "id": "7792623",
@@ -380,8 +459,8 @@
   },
   {
     "id": "7791177",
-    "headline": "Safe-haven dollar nudges lower as traders hope for Mideast breakthrough - Reuters",
-    "summary": "Safe-haven dollar nudges lower as traders hope for Mideast breakthrough  Reuters",
+    "headline": "Dollar falls as traders hope for Mideast conflict resolution - Reuters",
+    "summary": "Dollar falls as traders hope for Mideast conflict resolution  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOHRVTkxBaVhqdlNsU0RlMlc4aTFqdUdlMlZWVlBteF8yeUtJSGJIM2hFV3F0SzVtYzNUMWVMWllnQ2tkdWJXb08zYklfRWU4QnY3UzdOUmJjRUpzOXFUSlVrY0VnX0tyQ19kZU9tRHJwWEZTY2F6bmpnS1RkZGtLcTIxR0JMNzQ1VUNzaFNIckluYnYzNlJHWkFUNDZ5aXk5emc?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -398,6 +477,29 @@
         "Increased tensions in the region leading to oil price volatility",
         "Potential disruption to global trade",
         "Uncertainty over the long-term outcome of diplomatic efforts"
+      ]
+    }
+  },
+  {
+    "id": "7792831",
+    "headline": "Iran war allows Australia to revive green iron ambitions - Reuters",
+    "summary": "Iran war allows Australia to revive green iron ambitions  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaGtEcG9oTzBTQkQ2S3ZyN0Q4dFE5dm1SYWdabEdHRGgteHpoRC1uS2ZHLXBSSF9qX3Ayd0pJNTNnYTJGYV9JMjhmWE5yNTJLRHJGa2dfeVhUU2NnYm9Fd01XUUtKOTI4M0ZRWFhjOER1LThvSGtwVjFPblNQWnd1eW9pQXdOdW04UUJFbEFmbnpwWEZoOS1fZWliclRnTlB0Nk14ZWtidllLUC13bnc?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1776126864,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1776167140,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Australia's green iron ambitions have been revived due to the ongoing Iran war, which has created a favorable market environment for the country's iron ore exports. The conflict has led to a surge in global demand for iron ore as Iran's main steel producers struggle to meet domestic demand. Australia's iron ore producers, such as BHP Group and Rio Tinto, are well-positioned to capitalize on this increased demand. The country's green iron ambitions, which involve the production of low-carbon iron, are now more feasible as the focus shifts to meeting the growing demand for sustainable steel.",
+      "impact": "The potential impact on Australian iron ore producers is positive, with increased demand and higher prices driving earnings growth. This could lead to a short-term increase in stock prices for companies like BHP Group and Rio Tinto. However, medium-term concerns around the sustainability of the demand growth and the impact of global trade policies on the iron ore market may temper the enthusiasm. The increased focus on green iron production could also lead to investment opportunities in this space.",
+      "risks": [
+        "Dependence on a single market or customer",
+        "Global trade policy risks",
+        "Sustainability of demand growth"
       ]
     }
   },
@@ -423,6 +525,16 @@
         "interest rate risk"
       ]
     }
+  },
+  {
+    "id": "7793495",
+    "headline": "Jet fuel shock from Iran war worsens crisis for global airlines - Reuters",
+    "summary": "Jet fuel shock from Iran war worsens crisis for global airlines  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzBVZ1d6c1RuREw1Mk12djJnTXBCYmE1WEhjaTFkNW5rNEdncFdVRDdfZDVmYWk0Z05aYlhIS05IZUg4b24wM21aNGVPRmJtWXNJaWZLd0E4eHN6R3dTN3BSRmwtX0ZyOGk0eHdXZEZ6SEctbFptYlB2eFZjMkd2RTRaNFR2NHBUVUZGLUNHVnNPSUZnaXFaUkV3djlQT21zM2dMdTBDV0VXcFBWVVQzVTBOamVoVmJNeWx5bQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1776122460
   },
   {
     "id": "7793374",
@@ -1088,6 +1200,29 @@
     }
   },
   {
+    "id": "7787674",
+    "headline": "Rupee falls most in two weeks as oil spikes on US move to blockade Iran ports - Reuters",
+    "summary": "Rupee falls most in two weeks as oil spikes on US move to blockade Iran ports  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY1hFZTQ5Z01RTkMwNzR1dXFMMGg0ZnV4d19XOW5VMUJFR0JGVjJVaXAxQ0VUZ296Zm85M0hxcThoeVFjZll0YUlsaGkteXFwRTUya2pXQmFDSFRKanpHanVlc3diTlFTRUM3THE4VFB2UXNJd3VtYjZ4MnkycTNTTWZFSXloZGlCbVJYbUlDWng4NEYycXFNZ3ZNT3h2ZkdtOEg5WXB6bXo?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1776083178,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1776084659,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The Indian rupee has fallen to its lowest level in two weeks due to a spike in oil prices following the US move to blockade Iranian ports. The blockade, which aims to pressure Iran to renegotiate its nuclear deal, has led to concerns about oil supply disruptions, causing oil prices to surge. This, in turn, has put pressure on the Indian rupee, which is heavily reliant on oil imports. The rupee has depreciated by 0.6% against the US dollar, with the dollar index also rising 0.2%. The move is likely to have a negative impact on India's trade deficit and inflation, which could lead to a decrease in consumer spending and economic growth.",
+      "impact": "The news is likely to have a negative impact on Indian oil and gas companies such as ONGC and IOC, as higher oil prices will increase their input costs and reduce their profitability. In the short term, the rupee's depreciation may lead to a decrease in consumer spending, which could negatively impact companies with high exposure to discretionary spending, such as consumer staples and retail companies. In the medium term, the increased trade deficit and inflation may lead to a decrease in economic growth, which could negatively impact companies with high exposure to the Indian economy, such as IT and banking companies.",
+      "risks": [
+        "Increased input costs for oil and gas companies",
+        "Decreased consumer spending and economic growth",
+        "Increased trade deficit and inflation"
+      ]
+    }
+  },
+  {
     "id": "7788974",
     "headline": "India gets first Iranian oil in 7 years, ship tracking data shows - Reuters",
     "summary": "India gets first Iranian oil in 7 years, ship tracking data shows  Reuters",
@@ -1176,6 +1311,29 @@
         "Escalation of conflict in the Middle East",
         "Disruption to global oil trade",
         "Increased volatility in oil prices"
+      ]
+    }
+  },
+  {
+    "id": "7787673",
+    "headline": "European chemical firms, hit hard by Iran war, to report falling Q1 earnings - Reuters",
+    "summary": "European chemical firms, hit hard by Iran war, to report falling Q1 earnings  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV1JlN2FvLUFxZGZGeFBpZGc3VlhfaEpUbUdKQ0RlRjJ3eTlWWFdEYkNYSEczTVNUX0VnZWFPME1jUGpwaEVUa0hDQUgzYlBKeW1Fd2hKY2FoT3dpWERzdUUxXzlYLUlSOGZpWTBnUlJUczNGVGt0Y3dYaU8wd1hMZFlkNVBEZW5HTnpaS0VUWGo3Z08xdEt1TFVVRUFMZG9wWVpqdGNBZ1haQUpQWlZ5eFptbVZWdnc?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1776078821,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1776084560,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "European chemical firms are expected to report falling Q1 earnings due to the ongoing Iran war, which has disrupted global supply chains and increased production costs. The conflict has led to a shortage of raw materials, particularly natural gas and petroleum products, making it challenging for chemical companies to maintain their profit margins. This is a continuation of the industry's struggles in 2022, as the Ukraine-Russia conflict and COVID-19 pandemic also affected the sector. The Q1 earnings reports will likely reflect the negative impact of these external factors on the chemical industry's performance.",
+      "impact": "The news is expected to have a negative impact on the European chemical sector, particularly on companies that rely heavily on imported raw materials. The falling earnings reports may lead to a decline in stock prices, making the sector more attractive to value investors. However, the medium-term impact may be more significant, as the industry's recovery will depend on the resolution of the Iran war and the subsequent normalization of global supply chains. This could lead to a re-evaluation of the sector's valuation multiples and a potential shift in investor sentiment.",
+      "risks": [
+        "Supply chain disruption risk",
+        "Earnings guidance risk",
+        "Valuation multiple compression risk"
       ]
     }
   },
@@ -1527,29 +1685,6 @@
     }
   },
   {
-    "id": "7787673",
-    "headline": "European chemical firms, hit hard by Iran war, to report falling Q1 earnings - Reuters",
-    "summary": "European chemical firms, hit hard by Iran war, to report falling Q1 earnings  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV1JlN2FvLUFxZGZGeFBpZGc3VlhfaEpUbUdKQ0RlRjJ3eTlWWFdEYkNYSEczTVNUX0VnZWFPME1jUGpwaEVUa0hDQUgzYlBKeW1Fd2hKY2FoT3dpWERzdUUxXzlYLUlSOGZpWTBnUlJUczNGVGt0Y3dYaU8wd1hMZFlkNVBEZW5HTnpaS0VUWGo3Z08xdEt1TFVVRUFMZG9wWVpqdGNBZ1haQUpQWlZ5eFptbVZWdnc?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1776060240,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1776084560,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "European chemical firms are expected to report falling Q1 earnings due to the ongoing Iran war, which has disrupted global supply chains and increased production costs. The conflict has led to a shortage of raw materials, particularly natural gas and petroleum products, making it challenging for chemical companies to maintain their profit margins. This is a continuation of the industry's struggles in 2022, as the Ukraine-Russia conflict and COVID-19 pandemic also affected the sector. The Q1 earnings reports will likely reflect the negative impact of these external factors on the chemical industry's performance.",
-      "impact": "The news is expected to have a negative impact on the European chemical sector, particularly on companies that rely heavily on imported raw materials. The falling earnings reports may lead to a decline in stock prices, making the sector more attractive to value investors. However, the medium-term impact may be more significant, as the industry's recovery will depend on the resolution of the Iran war and the subsequent normalization of global supply chains. This could lead to a re-evaluation of the sector's valuation multiples and a potential shift in investor sentiment.",
-      "risks": [
-        "Supply chain disruption risk",
-        "Earnings guidance risk",
-        "Valuation multiple compression risk"
-      ]
-    }
-  },
-  {
     "id": "7787571",
     "headline": "Exclusive: Luxury brands face profit squeeze as Iran conflict shrinks UAE mall sales, sources say - Reuters",
     "summary": "Exclusive: Luxury brands face profit squeeze as Iran conflict shrinks UAE mall sales, sources say  Reuters",
@@ -1615,29 +1750,6 @@
         "Potential for OPEC to increase production to mitigate the price surge",
         "Uncertainty around the duration of the US blockade",
         "Risk of a global economic slowdown due to higher oil prices"
-      ]
-    }
-  },
-  {
-    "id": "7787674",
-    "headline": "Rupee falls most in two weeks as oil spikes on US move to blockade Iran ports - Reuters",
-    "summary": "Rupee falls most in two weeks as oil spikes on US move to blockade Iran ports  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY1hFZTQ5Z01RTkMwNzR1dXFMMGg0ZnV4d19XOW5VMUJFR0JGVjJVaXAxQ0VUZ296Zm85M0hxcThoeVFjZll0YUlsaGkteXFwRTUya2pXQmFDSFRKanpHanVlc3diTlFTRUM3THE4VFB2UXNJd3VtYjZ4MnkycTNTTWZFSXloZGlCbVJYbUlDWng4NEYycXFNZ3ZNT3h2ZkdtOEg5WXB6bXo?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1776049740,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1776084659,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The Indian rupee has fallen to its lowest level in two weeks due to a spike in oil prices following the US move to blockade Iranian ports. The blockade, which aims to pressure Iran to renegotiate its nuclear deal, has led to concerns about oil supply disruptions, causing oil prices to surge. This, in turn, has put pressure on the Indian rupee, which is heavily reliant on oil imports. The rupee has depreciated by 0.6% against the US dollar, with the dollar index also rising 0.2%. The move is likely to have a negative impact on India's trade deficit and inflation, which could lead to a decrease in consumer spending and economic growth.",
-      "impact": "The news is likely to have a negative impact on Indian oil and gas companies such as ONGC and IOC, as higher oil prices will increase their input costs and reduce their profitability. In the short term, the rupee's depreciation may lead to a decrease in consumer spending, which could negatively impact companies with high exposure to discretionary spending, such as consumer staples and retail companies. In the medium term, the increased trade deficit and inflation may lead to a decrease in economic growth, which could negatively impact companies with high exposure to the Indian economy, such as IT and banking companies.",
-      "risks": [
-        "Increased input costs for oil and gas companies",
-        "Decreased consumer spending and economic growth",
-        "Increased trade deficit and inflation"
       ]
     }
   },
@@ -22536,144 +22648,6 @@
         "disruption to global oil supplies",
         "increase in military spending",
         "decline in investor sentiment"
-      ]
-    }
-  },
-  {
-    "id": "7690932",
-    "headline": "US expected to send thousands more soldiers to Middle East, sources say - Reuters",
-    "summary": "US expected to send thousands more soldiers to Middle East, sources say  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMkFKaVFuOUpkY1NPMzUtWkd1TEdoY2JNbjhLM18tajNQWW5VRnBrR1dZdWdQVnFyU040alF5Y2Z6WFBmM1BQb3BUY21sMGFRVTdmdHU4TGNHcUgyeHd3RGF1alFGcF82UVJMN181aFZPUDdfV1dLVm9VYUc0ZDBNcVZFWGpGdVpyVFpXYjk2YnNHdnVFajY0WEl4UVYwdi1Ic2djTmFOdnY3WElWOURSbVRnMA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1774404306,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1774383961,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The US is expected to send thousands more soldiers to the Middle East, according to sources. This development is likely a response to ongoing tensions in the region. The move is expected to escalate military presence in the area, which could lead to increased instability and potential conflict. The news comes as a surprise to many, and its implications are still unclear. The US government has not officially confirmed the report, but the move is expected to have significant geopolitical implications.",
-      "impact": "The news is likely to have a negative impact on defense contractors and aerospace companies that supply the US military. Companies such as Lockheed Martin (LMT) and Boeing (BA) may see increased demand for their products and services, but the escalation of military presence in the Middle East could also lead to increased scrutiny and potential backlash. In the short-term, the news may lead to a surge in defense stocks, but the medium-term impact is uncertain and may be influenced by the outcome of the conflict. The news may also have a negative impact on oil prices, which could benefit companies such as ExxonMobil (XOM) and Chevron (CVX).",
-      "risks": [
-        "Increased military spending and conflict risk",
-        "Escalation of tensions in the Middle East",
-        "Potential backlash against defense contractors"
-      ]
-    }
-  },
-  {
-    "id": "7693448",
-    "headline": "Philippines says working with Washington to obtain oil from U.S.-sanctioned countries - Reuters",
-    "summary": "Philippines says working with Washington to obtain oil from U.S.-sanctioned countries  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeEZhMkE0QXNzZEoxdEFfZXlUQ1RuSTZRTXp5cHlOVktJeFVTbDJ6MEw1SXFNbEZXV2NCVmhaMFJORHZDYzB1Mkt1dnpCMXZqVFh4Y01tb2ZjdUpYVkFsLWRNeHRqLTUxX2lVa0MzdWQtUzhiRHhyTExldWYzcnJfOGxURklOT1VnS21PZHItRm9UUEpzODRNT0hmVUhoOGk4b1EzTUlROUJvMmU4OTZWdHJmMFVzQU5tQ2hXM25OazJhWWtTdUE?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1774401780,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1774427586,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The Philippines is working with Washington to obtain oil from U.S.-sanctioned countries, which could provide a much-needed boost to the country's energy security. The move is seen as a strategic shift in the Philippines' energy policy, as it seeks to diversify its oil sources and reduce its dependence on imports. This development is likely to have a positive impact on the country's energy sector, particularly for companies involved in the importation and distribution of oil. The Philippines' energy demand is expected to increase in the coming years, driven by a growing economy and population.",
-      "impact": "This news is likely to have a positive impact on the stocks of oil importers and distributors in the Philippines, particularly those with exposure to international oil markets. The increased demand for oil imports could lead to higher earnings for these companies in the short-term, driving up their stock prices. In the medium-term, this development could also lead to increased investment in the energy sector, as companies seek to capitalize on the growing demand for oil imports.",
-      "risks": [
-        "geopolitical risk",
-        "price volatility risk",
-        "regulatory risk"
-      ]
-    }
-  },
-  {
-    "id": "7692508",
-    "headline": "Dollar firms as fading Middle East ceasefire hopes lift safe-haven demand - Reuters",
-    "summary": "Dollar firms as fading Middle East ceasefire hopes lift safe-haven demand  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcC0yZ3llWEdfenRkUXBGR2JoRGZHSXVjUnlxWDNpYmcxTWN2WWVkX0Y4QjhXMUVKYVVEVmpkRDRaejZfTUwxTUU5QlRMV2RWVFdSZWxJcVMyNE1BcS1rUE12UWx3VGJoREdIZkpUcFFUT216N1BlVTZoVjlqekZjbV9iazhub01mX041b3pFMTQ2aEdZbDg0NF9ndWRZQVZDT2xnVEZLQzJWcmRLOVFpOWlEMlFSRVFhMDlz?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1774401540,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1774415763,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The article reports that currency markets are experiencing a drift due to traders' skepticism about the US efforts to end the war with Iran. The war has led to increased tensions in the region, affecting the global economy and currency markets. The US government's efforts to de-escalate the situation have been met with skepticism, leading to a lack of confidence in the market. This has resulted in a drift in currency markets, with traders waiting for a clear resolution to the conflict.",
-      "impact": "The potential impact on the related stocks is bearish in the short term, as the ongoing conflict and uncertainty in the region could lead to a decline in earnings for companies with exposure to the Middle East. The uncertainty also increases the risk of supply chain disruptions, which could further exacerbate the situation. In the medium term, a prolonged conflict could lead to a decrease in investor sentiment and a subsequent decline in stock prices. The impact on the US dollar could also be negative, as a prolonged conflict could lead to a decrease in investor confidence and a subsequent decline in the value of the dollar.",
-      "risks": [
-        "Supply chain disruption risk",
-        "Earnings decline risk",
-        "Investor sentiment risk"
-      ]
-    }
-  },
-  {
-    "id": "7692710",
-    "headline": "Stocks gain, oil prices fall on guarded hope for possible Iran war ceasefire - Reuters",
-    "summary": "Stocks gain, oil prices fall on guarded hope for possible Iran war ceasefire  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQnJCdTBUSzl3Y2M3WE1iZjZQX1RXRngwdFB3bFptU3VQbFNkMmRXck9RTVFWc1kxc1VtWlk5NWVXUHhpZWF4ZEZjWWJrVU8xZlpUUFFtQk56OEN6Q1lMbUVpVklERzRSaXQwalVNbmF3dmp1ZXFMNVd1SUFsV2R2Y0VlZGZMU1ha?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1774400700,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1774415822,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "A ceasefire in the Middle East has led to a bounce in global stocks and a retreat in oil prices. The news has lifted investor sentiment, as the conflict had been a major source of uncertainty and volatility in the market. The ceasefire has reduced the risk of a significant escalation of the conflict, which had been weighing on investor minds. This development is expected to boost investor confidence and lead to a rally in stocks.",
-      "impact": "The news is likely to have a positive impact on the stocks of companies with exposure to the Middle East region, such as oil and gas producers, airlines, and logistics companies. The ceasefire may also lead to an improvement in earnings outlook for these companies, as the reduced risk of conflict may lead to increased business activity and investment in the region. In the short term, the rally in stocks may lead to a decrease in volatility and an increase in liquidity, making it an attractive time for investors to enter the market. However, the medium-term impact will depend on the sustainability of the ceasefire and the subsequent economic activity in the region.",
-      "risks": [
-        "Risk of a sudden escalation of the conflict",
-        "Uncertainty around the sustainability of the ceasefire",
-        "Potential impact of the conflict on global economic growth"
-      ]
-    }
-  },
-  {
-    "id": "7687255",
-    "headline": "Oil pares gains after reports of US plan aimed at ending the Middle East war - Reuters",
-    "summary": "Oil pares gains after reports of US plan aimed at ending the Middle East war  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNTAzcnlQVGZUNHlIbmhqMWt0ZS1sN3RYclMyTGd1endqLVhRTkJ5N2tVaG9ZODlQUjhRMTlWcmFCQmtUOXlqVVRROUM4SXNoQUJJRUZHeUlkTXYtQzN3QzJmSmV2dGw1U2RyaXNiblRsQkptWFpZampBeXZEVmlyVVhpaW9tdVd1WldBRDQzRnl0bFgzbi1iODJhVzlrVXF6ZHV4ZnMxakxoOUljZXl2TUd0TjRjaGs?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1774393587,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1774322800,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Oil prices rose as markets assessed the potential supply risks following Iran's denial of US talks. The news sparked concerns about a possible disruption to oil supplies, which could lead to increased prices. Iran is a major oil producer, and any disruption to its exports could impact global oil markets. The US and Iran have been engaged in a tense standoff over Iran's nuclear program, and the denial of talks suggests that the situation may escalate.",
-      "impact": "The news is likely to have a positive impact on oil prices in the short term, which could benefit oil-related stocks such as ExxonMobil, Chevron, and ConocoPhillips. The increased prices could also boost the earnings outlook for these companies in the coming quarters. However, the medium-term impact is uncertain, as a prolonged supply disruption could lead to a global economic slowdown, which would negatively impact the earnings of these companies.",
-      "risks": [
-        "supply disruption risk",
-        "global economic slowdown risk",
-        "geopolitical tensions risk"
-      ]
-    }
-  },
-  {
-    "id": "7698853",
-    "headline": "Lamborghinis stranded in Sri Lanka as war disrupts Asia's used-car trade - Reuters",
-    "summary": "Lamborghinis stranded in Sri Lanka as war disrupts Asia's used-car trade  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYmloTE84dEM4UjI2Vk5vUjlVSTZFQms5Qm5NR2JTampFbVNYeUdGUmw5aktBSUE1a2NSaE5WNDAwUGlBclE2NmxlbkVQVFpGRGNBUXFuQlhUMno4SlB3TmRxUmx0Q0VWMnNzQUExYjByWm9jbzRSQ3NWa2txZThlLTFONk5VYTI5LXVzSDVVbzJwMWx1STluY2FGcUlOcV80VVVJdXpISnl6ZGVUb1lCTjZ2WF9JN3llN1Aw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1774393358,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1774521412,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The ongoing war in Sri Lanka has disrupted the used-car trade in Asia, causing a backlog of luxury vehicles, including Lamborghinis, to be stranded in the country. This has significant implications for the automotive industry, particularly for companies involved in the import and export of used cars. The war has created logistical challenges, making it difficult for cars to be transported out of the country. The used-car trade is a significant contributor to the economies of several Asian countries, including Sri Lanka, Malaysia, and the Philippines. The disruption is expected to have a ripple effect on the global used-car market, potentially impacting companies that rely on this trade.",
-      "impact": "The disruption in the used-car trade is likely to have a negative impact on companies that rely on this trade, such as shipping and logistics companies, as well as those involved in the import and export of used cars. In the short-term, earnings outlook for these companies may be negatively affected due to the disruption in trade. In the medium-term, the war in Sri Lanka may lead to a decrease in demand for used cars, potentially affecting the valuation of companies in the industry. The sentiment towards the industry may also be negatively impacted due to the disruption.",
-      "risks": [
-        "logistical disruption risk",
-        "trade disruption risk",
-        "earnings slowdown risk"
       ]
     }
   }
