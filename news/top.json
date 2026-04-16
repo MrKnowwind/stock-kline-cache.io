@@ -30,7 +30,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1776350055,
+    "publishedAt": 1776352985,
     "analysis": {
       "version": 2,
       "generatedAt": 1776355865,
@@ -326,7 +326,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1776324583
+    "publishedAt": 1776324583,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1776362304,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The ongoing Iran war has highlighted the vulnerability of Asian economies to disruptions in fossil fuel supply. The region's reliance on oil imports has led to a surge in prices, affecting countries such as India, Japan, and South Korea. The increased cost of energy is expected to impact economic growth, inflation, and consumer spending. This development is particularly concerning for countries with already fragile economies, such as Indonesia and Malaysia.",
+      "impact": "The Iran war is likely to have a short-term negative impact on energy stocks, particularly those with high exposure to crude oil production and refining. Companies such as PetroChina and Sinopec, which have significant refining operations in Asia, may experience a decline in earnings due to higher input costs. In the medium term, the increased energy prices may lead to a slowdown in economic growth, affecting consumer discretionary stocks and industries reliant on fossil fuels. The overall market sentiment may also turn bearish, leading to a decline in stock prices across the board.",
+      "risks": [
+        "higher energy prices risk",
+        "economic growth slowdown risk",
+        "inflation risk"
+      ]
+    }
   },
   {
     "id": "7803625",
@@ -353,8 +366,8 @@
   },
   {
     "id": "7803405",
-    "headline": "Lufthansa grounds planes, easyJet bookings lag as Iran war strains show - Reuters",
-    "summary": "Lufthansa grounds planes, easyJet bookings lag as Iran war strains show  Reuters",
+    "headline": "Lufthansa grounds planes, Nigerian carriers threaten to stop flying as Iran war strains show - Reuters",
+    "summary": "Lufthansa grounds planes, Nigerian carriers threaten to stop flying as Iran war strains show  Reuters",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSmhfWjMtWkZwa2dLQURfVlp4R2ktajVvU1BEcmRBRjZEb0liQ1dmZlRJTkhkeGlGMXdZSzVnVDl5RzN6MFFGVXk5NDBHa3lySXdKS3FJaXlPSkJVeHhFM1d2N0lMLXFNY2lVQ29PZ0RBUUJDam1DZ05XRjFORFdRWnhtcVo3ck5NeWZLZ19QcEhJdkNyenlKN0tlV2tBR3plYjVxaVZPUVBOTFpVdzNOa0hVX2VHWW8?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -468,6 +481,29 @@
     }
   },
   {
+    "id": "7804522",
+    "headline": "Pernod Ricard says Iran war to hit full-year sales despite Q3 pickup - Reuters",
+    "summary": "Pernod Ricard says Iran war to hit full-year sales despite Q3 pickup  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORHM1T1hKTGdOSC1xMDVGb3ZxcnpYaXdEY2RpOVRFM3JTZUlxa0VOVlFuWG5udkhhaUtDYXJ4c0ljbl90UldDaXk3UVNXR05MemVZWjdOTGZFLXgwNnRzLWEtS1RyN18wV0FoVGJ2OU1kMnVTWWZsd25NZzRsd05tOTl5UmJPTnZwZkxqclRDNXRWbG16RzJaTGJlLUx3azNhcHU0WHRQMEVlUmV6QXQ5dWhEaTlDUQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1776317460,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1776362361,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Pernod Ricard, a French multinational spirits and wine company, has reported a Q3 sales pickup, but expects the ongoing Iran war to negatively impact its full-year sales. The company's revenue growth has been driven by its premium spirits segment, but the conflict in Iran is expected to disrupt its operations and sales in the Middle East. The Iran war is likely to reduce demand for Pernod Ricard's products in the region, particularly in Iran, where the company has a significant presence. This development is a concern for the company's full-year sales, despite the Q3 pickup.",
+      "impact": "The Iran war is likely to negatively impact Pernod Ricard's full-year sales, potentially leading to a decline in earnings per share. In the short-term, the company's stock price may experience volatility due to the uncertainty surrounding the conflict. In the medium-term, the disruption to operations in the Middle East may lead to a decline in revenue growth, which could negatively impact the company's valuation. Additionally, the sentiment towards the company may turn bearish, leading to a decrease in investor confidence and a subsequent decline in the stock price.",
+      "risks": [
+        "Iran war risk",
+        "Middle East sales disruption risk",
+        "Revenue growth slowdown risk"
+      ]
+    }
+  },
+  {
     "id": "7802874",
     "headline": "Explainer: Can Iran legally impose tolls on the Strait of Hormuz? - Reuters",
     "summary": "Explainer: Can Iran legally impose tolls on the Strait of Hormuz?  Reuters",
@@ -538,8 +574,8 @@
   },
   {
     "id": "7802556",
-    "headline": "Gold gains on revived rate cut bets as Iran peace hopes calm inflation fears - Reuters",
-    "summary": "Gold gains on revived rate cut bets as Iran peace hopes calm inflation fears  Reuters",
+    "headline": "Gold holds ground with market focus on Iran peace talks - Reuters",
+    "summary": "Gold holds ground with market focus on Iran peace talks  Reuters",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMFM4QTNoUVdiNWc3T0xRdlA2MENCZW1XZC1PSEVub2MyRndLYmstX0ItT1VzMzdockxjSUh4T1NjS0RFR09sZHdla2FOS01kLTFwV0NzVFJiYldlYmJPRV8yLUJrT2NOaVJFdWkwRFNKNkppN3BlQmVNZV9YWFdLUjFfWnY2VG12T1VLWEJLeUFZcy1DVXlaUWM0NjJ5Xzg5S0FZdQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -745,8 +781,8 @@
   },
   {
     "id": "7802448",
-    "headline": "Stocks back to record-setting ways on Middle East truce hopes - Reuters",
-    "summary": "Stocks back to record-setting ways on Middle East truce hopes  Reuters",
+    "headline": "Stocks choppy, oil rises as doubts persist about US-Iran peace deal - Reuters",
+    "summary": "Stocks choppy, oil rises as doubts persist about US-Iran peace deal  Reuters",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBvUjRvejZxVWVXenRxbUdwU3NVOG1BcThJXzNuUHU1QV9qSVRFM1V2dFZxbU11ZnIxbHdGU0RpVllERUtZUTNHcWlBUUtUOFNlS3Bxa2FiRG9xdkdJaUx2c29WZWVWWkNkQmxpaXd1a3A3WWFDVURRLVRFVQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1553,6 +1589,29 @@
     }
   },
   {
+    "id": "7796357",
+    "headline": "Sanctioned China tanker turns back to Strait of Hormuz, day after Gulf exit - Reuters",
+    "summary": "Sanctioned China tanker turns back to Strait of Hormuz, day after Gulf exit  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObEh1ZmJsbmVzcEpEdlFGbFBFZ0tacGk1VUc4elh0c2Z4SnVtekJidTVNakY1OU5EcGZpSHp4VkpmdUU5Tzd4NElMb2VEUDF5OEF4WUotYURpdXZsZmp3bjZQVmxia08tR2xZcm5BRU1ZZVYtdmRCN2Z3NWk5bkZUWm4yZ1llcUd4clRCX3llR1FVWlktbEFuaDJHMXVvLS1IMEN1MWRhZUNPdHVZYjdj?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1776248250,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1776227670,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "A sanctioned tanker has turned back to the Strait of Hormuz, a day after exiting the Gulf. The tanker's return is a significant development in the ongoing tensions between Iran and the West. The Strait of Hormuz is a critical waterway for global oil trade, with many oil tankers passing through it daily. The tanker's actions are likely a response to the sanctions imposed on it, but the exact reasons behind its decision are unclear. The situation remains uncertain, with potential implications for global oil prices and trade.",
+      "impact": "The news may have a neutral impact on oil prices in the short-term, as the tanker's return is not a surprise given the sanctions. However, the ongoing tensions in the region could lead to increased volatility in oil prices in the medium-term. Oil majors such as ExxonMobil (XOM) and Chevron (CVX) may benefit from the increased demand for oil in the region, but the risks associated with the conflict may offset these benefits. The tanker's actions may also lead to increased scrutiny on shipping companies operating in the region, potentially impacting their stock prices.",
+      "risks": [
+        "Escalation of tensions in the region",
+        "Increased volatility in oil prices",
+        "Impact on shipping companies operating in the region"
+      ]
+    }
+  },
+  {
     "id": "7803191",
     "headline": "Codelco in talks with Hindustan Copper for Chile copper joint venture",
     "summary": "Indian companies, meanwhile, are looking to Chile, which boasts the world’s biggest copper reserves, to secure supply, integrate upstream and stay competitive in a tightening global market",
@@ -1695,7 +1754,20 @@
     "source": "Bloomberg",
     "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
     "relatedSymbols": [],
-    "publishedAt": 1776235419
+    "publishedAt": 1776235419,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1776362409,
+      "sentiment": "bullish",
+      "confidence": 0.7,
+      "summary": "The Reserve Bank of India (RBI) has initiated talks with banks to discuss strategies for boosting deposits, driven by rising household investments in equities and financial markets. This development is a response to the growing trend of Indians investing in stocks, which has led to a decline in deposits. The RBI aims to encourage banks to adopt innovative approaches to attract and retain deposits, potentially benefiting banks' profitability and stability. The move is also expected to support the overall financial system's stability.",
+      "impact": "The RBI's initiative is likely to have a positive impact on banks' deposits, potentially leading to increased profitability and stability in the short term. This, in turn, may boost banks' earnings outlook and sentiment, making them more attractive to investors. However, the success of this initiative depends on the effectiveness of the strategies implemented by banks, and the RBI's ability to address the root causes of the deposit outflow.",
+      "risks": [
+        "Deposits may not increase as expected, due to the ongoing trend of household investments in equities and financial markets",
+        "Banks may struggle to implement effective strategies to attract and retain deposits",
+        "The RBI's initiative may not address the underlying structural issues driving the decline in deposits"
+      ]
+    }
   },
   {
     "id": "7798496",
@@ -1814,6 +1886,29 @@
     }
   },
   {
+    "id": "7797088",
+    "headline": "Saudi Arabia backstops Pakistan with $3 billion as UAE debt looms - Reuters",
+    "summary": "Saudi Arabia backstops Pakistan with $3 billion as UAE debt looms  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbVNTWVR6cTU3cFo5SEF6a3owU3E5UXhrZGlLaW5EcExhbzR5RWF1b011S09vWl82NXZGQjQyeXB6VlJFY2xyckJPNElLSkVzdVlUNGtIZmVFeXVVZEUyVjRaTWpnVGc5ODNpcUgxbWZzbHVkSl9oSVo3MkVybGpueE5HVmhVa3ktOG1CQ0J0bnM2LXRUQV9qdDZYVlUwcnBQREhfdnh3ZHFUR284R2w5ZTdfX2U?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1776227902,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1776234324,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Saudi Arabia's $3 billion bailout of Pakistan is a positive development for the country's economy, which has been struggling with debt issues. The bailout package is expected to help alleviate some of the pressure on Pakistan's finances, particularly its debt to the UAE. This move also highlights the strong relationship between Saudi Arabia and Pakistan, which could have positive implications for regional trade and investment. The bailout is a short-term solution, but it may help to stabilize the Pakistani rupee and attract foreign investment in the long term. The Pakistani government has been working to address its debt issues, and this bailout is a step in the right direction.",
+      "impact": "The news is likely to have a positive impact on the Pakistani rupee, which may appreciate in value against the US dollar. This could also lead to improved sentiment among investors, potentially boosting the country's stock market. In the short term, the bailout may alleviate some of the pressure on Pakistan's debt obligations, but the country's long-term debt issues remain a concern. The relationship between Saudi Arabia and Pakistan may also lead to increased trade and investment opportunities in the region.",
+      "risks": [
+        "Pakistan's debt sustainability remains a concern, and the country may struggle to repay its debts in the long term.",
+        "The bailout may not address the underlying structural issues in Pakistan's economy, and the country may still face challenges in attracting foreign investment.",
+        "The relationship between Saudi Arabia and Pakistan is complex, and there may be risks associated with relying on Saudi Arabia's financial support."
+      ]
+    }
+  },
+  {
     "id": "7797086",
     "headline": "Iran used Chinese spy satellite to target US bases, FT reports, Beijing denies story - Reuters",
     "summary": "Iran used Chinese spy satellite to target US bases, FT reports, Beijing denies story  Reuters",
@@ -1867,7 +1962,20 @@
     "source": "Bloomberg",
     "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
     "relatedSymbols": [],
-    "publishedAt": 1776224800
+    "publishedAt": 1776224800,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1776362457,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The recent retreat in energy prices has eased inflationary pressure on gold, a safe-haven asset, following the ongoing US-Iran conflict. This development has led to a gain in gold prices as investors seek to hedge against potential economic uncertainty. The renewed push for US-Iran talks has reduced the risk of a prolonged conflict, which has been a major concern for gold investors. This shift in sentiment has relieved some of the downward pressure on gold prices.",
+      "impact": "The potential impact on gold stocks is positive, with a potential short-term increase in prices driven by the reduced risk of a prolonged conflict. This could lead to a boost in investor sentiment and a subsequent increase in demand for gold-related stocks. However, the medium-term impact is less clear, as the US-Iran conflict remains a significant uncertainty and could lead to increased volatility in the gold market. The reduced inflationary pressure may also lead to a decrease in gold prices if interest rates rise in response to the easing of inflationary concerns.",
+      "risks": [
+        "Risk of a prolonged US-Iran conflict",
+        "Increased volatility in the gold market",
+        "Interest rate hike risk"
+      ]
+    }
   },
   {
     "id": "7801806",
@@ -1877,7 +1985,20 @@
     "source": "Bloomberg",
     "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
     "relatedSymbols": [],
-    "publishedAt": 1776223683
+    "publishedAt": 1776223683,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1776362509,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "The International Monetary Fund (IMF) has expressed concern over the rising risks associated with Artificial Intelligence (AI) technology, specifically citing Anthropic's new Mythos models as a potential threat to global cybersecurity. The IMF's warning comes after US officials expressed alarm at the technology's potential for catastrophic cyber attacks. This development highlights the growing unease among policymakers and financial institutions regarding the unregulated use of advanced AI technologies. The IMF's stance may lead to increased scrutiny and regulation of AI development, potentially impacting companies involved in AI research and development.",
+      "impact": "The news may lead to a short-term sell-off in stocks of companies involved in AI research and development, as investors become more cautious and regulatory risks increase. Medium-term, the growing regulatory scrutiny may lead to increased costs and compliance burdens for these companies, potentially weighing on their earnings outlook. The IMF's warning may also lead to a decrease in investor sentiment towards the AI sector, exacerbating the sell-off.",
+      "risks": [
+        "Regulatory risk",
+        "Increased compliance costs",
+        "Decreased investor sentiment"
+      ]
+    }
   },
   {
     "id": "7797509",
@@ -1899,29 +2020,6 @@
         "Decrease in gold prices",
         "Negative impact on gold mining companies",
         "Decreased demand for gold as an investment"
-      ]
-    }
-  },
-  {
-    "id": "7797088",
-    "headline": "Saudi Arabia backstops Pakistan with $3 billion as UAE debt looms - Reuters",
-    "summary": "Saudi Arabia backstops Pakistan with $3 billion as UAE debt looms  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbVNTWVR6cTU3cFo5SEF6a3owU3E5UXhrZGlLaW5EcExhbzR5RWF1b011S09vWl82NXZGQjQyeXB6VlJFY2xyckJPNElLSkVzdVlUNGtIZmVFeXVVZEUyVjRaTWpnVGc5ODNpcUgxbWZzbHVkSl9oSVo3MkVybGpueE5HVmhVa3ktOG1CQ0J0bnM2LXRUQV9qdDZYVlUwcnBQREhfdnh3ZHFUR284R2w5ZTdfX2U?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1776222480,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1776234324,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Saudi Arabia's $3 billion bailout of Pakistan is a positive development for the country's economy, which has been struggling with debt issues. The bailout package is expected to help alleviate some of the pressure on Pakistan's finances, particularly its debt to the UAE. This move also highlights the strong relationship between Saudi Arabia and Pakistan, which could have positive implications for regional trade and investment. The bailout is a short-term solution, but it may help to stabilize the Pakistani rupee and attract foreign investment in the long term. The Pakistani government has been working to address its debt issues, and this bailout is a step in the right direction.",
-      "impact": "The news is likely to have a positive impact on the Pakistani rupee, which may appreciate in value against the US dollar. This could also lead to improved sentiment among investors, potentially boosting the country's stock market. In the short term, the bailout may alleviate some of the pressure on Pakistan's debt obligations, but the country's long-term debt issues remain a concern. The relationship between Saudi Arabia and Pakistan may also lead to increased trade and investment opportunities in the region.",
-      "risks": [
-        "Pakistan's debt sustainability remains a concern, and the country may struggle to repay its debts in the long term.",
-        "The bailout may not address the underlying structural issues in Pakistan's economy, and the country may still face challenges in attracting foreign investment.",
-        "The relationship between Saudi Arabia and Pakistan is complex, and there may be risks associated with relying on Saudi Arabia's financial support."
       ]
     }
   },
@@ -1964,29 +2062,6 @@
         "inflation risk",
         "economic slowdown risk",
         "trade war risk"
-      ]
-    }
-  },
-  {
-    "id": "7796357",
-    "headline": "Sanctioned China tanker turns back to Strait of Hormuz, day after Gulf exit - Reuters",
-    "summary": "Sanctioned China tanker turns back to Strait of Hormuz, day after Gulf exit  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObEh1ZmJsbmVzcEpEdlFGbFBFZ0tacGk1VUc4elh0c2Z4SnVtekJidTVNakY1OU5EcGZpSHp4VkpmdUU5Tzd4NElMb2VEUDF5OEF4WUotYURpdXZsZmp3bjZQVmxia08tR2xZcm5BRU1ZZVYtdmRCN2Z3NWk5bkZUWm4yZ1llcUd4clRCX3llR1FVWlktbEFuaDJHMXVvLS1IMEN1MWRhZUNPdHVZYjdj?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1776215820,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1776227670,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "A sanctioned tanker has turned back to the Strait of Hormuz, a day after exiting the Gulf. The tanker's return is a significant development in the ongoing tensions between Iran and the West. The Strait of Hormuz is a critical waterway for global oil trade, with many oil tankers passing through it daily. The tanker's actions are likely a response to the sanctions imposed on it, but the exact reasons behind its decision are unclear. The situation remains uncertain, with potential implications for global oil prices and trade.",
-      "impact": "The news may have a neutral impact on oil prices in the short-term, as the tanker's return is not a surprise given the sanctions. However, the ongoing tensions in the region could lead to increased volatility in oil prices in the medium-term. Oil majors such as ExxonMobil (XOM) and Chevron (CVX) may benefit from the increased demand for oil in the region, but the risks associated with the conflict may offset these benefits. The tanker's actions may also lead to increased scrutiny on shipping companies operating in the region, potentially impacting their stock prices.",
-      "risks": [
-        "Escalation of tensions in the region",
-        "Increased volatility in oil prices",
-        "Impact on shipping companies operating in the region"
       ]
     }
   },
@@ -22613,29 +22688,6 @@
         "Oil price shock risk",
         "Inflation risk",
         "Economic growth slowdown risk"
-      ]
-    }
-  },
-  {
-    "id": "7705579",
-    "headline": "Gulf states tell US ending the war is not enough, Iran’s capabilities must be degraded - Reuters",
-    "summary": "Gulf states tell US ending the war is not enough, Iran’s capabilities must be degraded  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMFpYcjZtQUJuVEJsNG02OF9tTXVzeWVPd1A0ZGdyUHpSeG01dmRka19YVldNTUNkSnFjSTNNLUxvajVEVkMzQjJLbUJTQW9lYXpYdzZNenpERGh6MW1xTGFsX2xXQU9vTzM2NVQxaVRUZWhYd1BtVnRKdURqa0F6azhjYVctUzJmUERubW1GcWgzVG1MelNxMnhBTUZHbkhoMmtLa2N4YTRnbDd2cXc2TjJxWVdBVHcybFc0UGx0ZHkzMUJfVUpEeV94aHV4alU?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1774620103,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1774636775,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The Gulf states have told the US that ending the war with Iran is not enough, and that Iran's capabilities must be degraded. This statement suggests a hardline stance from the Gulf states, indicating a prolonged conflict with Iran. The background of this statement is the ongoing tensions between the US and Iran, which have been escalating in recent months. The Gulf states' demand for Iran's capabilities to be degraded implies a desire for a more decisive outcome, which could lead to further military action. This development is likely to increase tensions in the region and have significant implications for the global energy market.",
-      "impact": "The news is likely to have a negative impact on the energy sector, particularly companies with exposure to the Middle East region. Oil prices may rise in response to the increased tensions, which could negatively impact the earnings outlook for energy companies. In the short-term, investors may take a cautious approach to the energy sector, leading to a decline in stock prices. Medium-term, the prolonged conflict could lead to a shift in global energy supply chains, benefiting companies with diversified operations and those with a strong presence in alternative energy sources.",
-      "risks": [
-        "Oil price volatility risk",
-        "Global energy supply chain disruption risk",
-        "Increased military conflict risk"
       ]
     }
   }
