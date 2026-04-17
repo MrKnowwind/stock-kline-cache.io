@@ -1,5 +1,28 @@
 [
   {
+    "id": "7808492",
+    "headline": "Some grocers are using AI to cut food waste and boost profit margins",
+    "summary": "Grocers turn to AI pricing to cut waste, protect margins and compete for deal-seeking shoppers—targeting dynamic pricing discounts.",
+    "url": "https://www.cnbc.com/2026/04/17/some-grocers-are-using-ai-to-cut-food-waste-and-boost-profit-margins.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108292779-1776367066131-Flashfood_30_App_Screens_1_2.png?v=1776367130&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1776423298,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1776426323,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Grocery chains are turning to AI-powered pricing strategies to reduce food waste and boost profit margins as inflation-weary shoppers seek value. This shift is driven by the increasing competition from discounters and warehouse clubs, forcing traditional grocers to rethink their pricing strategies. By using AI to dynamically price perishable inventory, grocers can reduce losses from food waste and improve customer experience. Companies like Kroger are already seeing results from this approach, with Flashfood's app helping to convert waste into incremental revenue.",
+      "impact": "The adoption of AI-powered pricing strategies by grocers could lead to improved profit margins and increased competitiveness in the industry. This could positively impact stocks like Kroger (KR) and other traditional grocers, potentially driving short-term earnings growth and medium-term stock price appreciation. However, the increasing competition from discounters and warehouse clubs may also lead to downward pressure on prices, potentially offsetting some of the benefits.",
+      "risks": [
+        "Increased competition from discounters and warehouse clubs",
+        "Dependence on AI technology and data quality",
+        "Potential negative impact on brand image from discounting and promotions"
+      ]
+    }
+  },
+  {
     "id": "7808172",
     "headline": "Exclusive: Indian refiners pay for Iran oil in yuan via ICICI Bank, sources say - Reuters",
     "summary": "Exclusive: Indian refiners pay for Iran oil in yuan via ICICI Bank, sources say  Reuters",
@@ -24,8 +47,8 @@
   },
   {
     "id": "7807440",
-    "headline": "Trump says Iran war should end 'soon', says Hezbollah should support truce - Reuters",
-    "summary": "Trump says Iran war should end 'soon', says Hezbollah should support truce  Reuters",
+    "headline": "Trump says Iran war should end 'soon', allies to meet on Strait of Hormuz - Reuters",
+    "summary": "Trump says Iran war should end 'soon', allies to meet on Strait of Hormuz  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU20wMW9MaXRSMS1kYzhMbHdwWGRYcjB4NHR4NFhIN0RTMnZQREE1Sl9nY3FuTHg4VkRqcnpKcTBwR3puU3NtZTlBZjd6dmktNnI0RzZHbGdPTC1icHBmUDRVREZZa0l6Uzk5dmNMWS1sdm5XcU1PYlZxVEhRQUVoeV8tdjhkczZmRTRGc0ZGM0ViSWVSeGg1blk2YWlWUnpIYUcyTVZBMzc4aDhEYmNFOWVGbFo5enFKQ0E?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1021,6 +1044,30 @@
     }
   },
   {
+    "id": "7801808",
+    "headline": "China's Q1 economic rebound faces rough seas as Iran war jolts global outlook - Reuters",
+    "summary": "China's Q1 economic rebound faces rough seas as Iran war jolts global outlook  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT0pySGZlMXMzbWl0cTJnbEJqUDFScnpSYkJFMjBNZ1M0Z21MZnFucVlqY1hLVnMwbThKY1VjYy10cklnSzRZWlBGbU9RcnNIaUhUeTNaVm04Zkc5bGJvV3JNUElaaTRDVVladk5YRkRYSmhMbWhnN2R5d2V3MzkwcUpoLWNQU2hTVWJXdDZMWmxkM0F0ZzRoamNEbFdwWlc4M1d4dDlaRExEZlFRcjVmUVNIWVV2dw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1776319742,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1776320809,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "China's Q1 economic rebound is facing challenges due to the Iran war, which has jolted the global outlook. The conflict has led to increased oil prices, which in turn will likely lead to higher production costs for Chinese manufacturers. This will negatively impact their profit margins and overall economic growth. The uncertainty surrounding the global economy will also lead to a decrease in investor confidence, making it harder for Chinese companies to raise capital.",
+      "impact": "The Iran war will likely have a negative impact on Chinese stocks, particularly those in the manufacturing and energy sectors. The increased production costs will lead to lower profit margins, and the decreased investor confidence will make it harder for companies to raise capital. This will negatively impact the earnings outlook for these companies, leading to a potential decrease in their stock prices. The medium-term impact will be a decrease in economic growth, as the uncertainty surrounding the global economy will lead to a slowdown in investment and consumption.",
+      "risks": [
+        "Decreased investor confidence",
+        "Increased production costs",
+        "Lower profit margins",
+        "Decreased economic growth"
+      ]
+    }
+  },
+  {
     "id": "7802875",
     "headline": "UK economy surged ahead of Iran war, but energy shock to test resilience - Reuters",
     "summary": "UK economy surged ahead of Iran war, but energy shock to test resilience  Reuters",
@@ -1432,30 +1479,6 @@
         "Decrease in economic growth",
         "Decline in Thai baht",
         "Higher energy prices"
-      ]
-    }
-  },
-  {
-    "id": "7801808",
-    "headline": "China's Q1 economic rebound faces rough seas as Iran war jolts global outlook - Reuters",
-    "summary": "China's Q1 economic rebound faces rough seas as Iran war jolts global outlook  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT0pySGZlMXMzbWl0cTJnbEJqUDFScnpSYkJFMjBNZ1M0Z21MZnFucVlqY1hLVnMwbThKY1VjYy10cklnSzRZWlBGbU9RcnNIaUhUeTNaVm04Zkc5bGJvV3JNUElaaTRDVVladk5YRkRYSmhMbWhnN2R5d2V3MzkwcUpoLWNQU2hTVWJXdDZMWmxkM0F0ZzRoamNEbFdwWlc4M1d4dDlaRExEZlFRcjVmUVNIWVV2dw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1776294120,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1776320809,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "China's Q1 economic rebound is facing challenges due to the Iran war, which has jolted the global outlook. The conflict has led to increased oil prices, which in turn will likely lead to higher production costs for Chinese manufacturers. This will negatively impact their profit margins and overall economic growth. The uncertainty surrounding the global economy will also lead to a decrease in investor confidence, making it harder for Chinese companies to raise capital.",
-      "impact": "The Iran war will likely have a negative impact on Chinese stocks, particularly those in the manufacturing and energy sectors. The increased production costs will lead to lower profit margins, and the decreased investor confidence will make it harder for companies to raise capital. This will negatively impact the earnings outlook for these companies, leading to a potential decrease in their stock prices. The medium-term impact will be a decrease in economic growth, as the uncertainty surrounding the global economy will lead to a slowdown in investment and consumption.",
-      "risks": [
-        "Decreased investor confidence",
-        "Increased production costs",
-        "Lower profit margins",
-        "Decreased economic growth"
       ]
     }
   },
@@ -22652,29 +22675,6 @@
         "Oil price volatility risk",
         "Regional economic instability risk",
         "Decreased investor confidence risk"
-      ]
-    }
-  },
-  {
-    "id": "7706098",
-    "headline": "Musk joined Trump and Modi call on Iran, says New York Times - Reuters",
-    "summary": "Musk joined Trump and Modi call on Iran, says New York Times  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRGI0ejQ0SFl4THRqM2t1STZ5Q0U1Yk9xbHE0LTU4NzRFQk84U0J1dFZnV2MxUzlZWTlYZGN0ZlBKb2xWenJjTDY4ekRqVmNZUnctRE9aalFIRERpcjBOUXF5YVFLdHVBLTdJZVdkZ3NGUFNBZEZIZWxwbmE2V1R5by1zWDFJSVRiVW9Mc1l2ZUZ1clJDQmtfQ19n?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1774645946,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1774646561,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Elon Musk joined a call with US President Donald Trump and Indian Prime Minister Narendra Modi to discuss Iran, according to a report by the New York Times. The call was reportedly focused on the Iran nuclear deal and the US's withdrawal from the agreement. This news is a continuation of the ongoing diplomatic efforts regarding Iran's nuclear program. The involvement of key global leaders and business figures in these discussions may have a broader impact on the global economy and international relations. However, the specific details of the call and its implications are not yet clear.",
-      "impact": "The news may have a mixed impact on the global economy and related stocks. In the short term, the increased diplomatic efforts may lead to a slight increase in investor sentiment and a positive impact on stocks related to international trade and diplomacy. However, the long-term implications of the Iran nuclear deal and its potential effects on oil prices and global markets are still uncertain and may have a negative impact on stocks related to the energy sector.",
-      "risks": [
-        "Uncertainty around the Iran nuclear deal and its potential effects on oil prices and global markets",
-        "Potential escalation of tensions in the region and its impact on international trade and diplomacy",
-        "Uncertainty around the involvement of key global leaders and business figures in the diplomatic efforts"
       ]
     }
   }
