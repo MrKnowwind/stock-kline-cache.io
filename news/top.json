@@ -114,7 +114,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1776512743
+    "publishedAt": 1776512743,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1776522517,
+      "sentiment": "neutral",
+      "confidence": 0.5,
+      "summary": "Iran's announcement that no date has been set for the next round of negotiations with the US indicates a lack of progress in diplomatic efforts. The US and Iran have been engaged in negotiations aimed at reviving the Joint Comprehensive Plan of Action (JCPOA), a nuclear deal that was abandoned by the US in 2018. The absence of a scheduled negotiation date suggests that the talks may be stalled or uncertain. This development may have implications for the global energy market, as Iran is a significant oil producer and any changes to its nuclear program could impact oil prices.",
+      "impact": "The lack of progress in negotiations may have a neutral impact on oil prices in the short term, as it is unclear how the situation will unfold. However, if the talks were to stall or collapse, it could lead to increased tensions in the region and potentially higher oil prices in the medium term. This could be a positive for oil-producing companies, particularly those with significant exposure to the US market, such as ExxonMobil (XOM) and Chevron (CVX).",
+      "risks": [
+        "Increased tensions in the region leading to higher oil prices",
+        "Uncertainty around the outcome of negotiations and its impact on global energy markets",
+        "Potential for a decline in oil prices if negotiations progress and a deal is reached"
+      ]
+    }
   },
   {
     "id": "7813640",
@@ -124,7 +137,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1776509365
+    "publishedAt": 1776509365,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1776522565,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Merchant vessels reporting gunfire while attempting to cross the Hormuz Strait is a concerning development that highlights the escalating tensions in the region. The Hormuz Strait is a critical shipping lane, and disruptions to its operations can have far-reaching consequences for the global oil market. The incident may indicate a heightened risk of conflict in the region, which could impact the oil and gas industry. This, in turn, may affect the earnings outlook for companies involved in the oil and gas sector, particularly those with significant exposure to the Middle East.",
+      "impact": "The potential impact on related stocks could be significant, with a heightened risk of conflict in the region leading to increased volatility in oil prices. This, in turn, could affect the earnings outlook for companies such as ExxonMobil, Chevron, and Royal Dutch Shell, which have significant operations in the Middle East. The incident may also lead to increased costs and logistical challenges for companies operating in the region, further impacting their bottom line. In the short term, we expect a negative reaction from the market, with a potential decline in stock prices for companies exposed to the oil and gas sector.",
+      "risks": [
+        "Escalating conflict risk in the Middle East",
+        "Disruptions to global oil supply",
+        "Increased costs and logistical challenges for companies operating in the region"
+      ]
+    }
   },
   {
     "id": "7813842",
@@ -134,7 +160,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1776507762
+    "publishedAt": 1776507762,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1776522612,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Turkey's announcement that the Iran gas pipeline contract is nearing expiry and no talks are underway for extension has significant implications for energy companies operating in the region. The pipeline, which transports natural gas from Iran to Turkey, is a crucial energy artery for both countries. The impending expiry of the contract raises concerns about the future supply of natural gas to Turkey, potentially disrupting energy markets and affecting the earnings of companies involved. The news is a negative development for energy companies that rely on the pipeline for their operations.",
+      "impact": "The news is likely to weigh on the stocks of energy companies that rely on the pipeline for their operations, particularly those with significant exposure to the Turkish market. In the short-term, investors may experience a decline in stock prices as the uncertainty surrounding the pipeline's future supply weighs on investor sentiment. Medium-term, the impact on earnings outlook could be significant if the pipeline is not extended or replaced, potentially leading to a revaluation of these companies' stocks.",
+      "risks": [
+        "supply chain disruption risk",
+        "earnings decline risk",
+        "valuation risk"
+      ]
+    }
   },
   {
     "id": "7813230",
@@ -167,7 +206,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1776493140
+    "publishedAt": 1776493140,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1776522659,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "Recent ship-tracking data shows that some tankers have crossed the Strait of Hormuz before shots were fired, contradicting earlier reports that all ships had halted. This development suggests that the situation in the region is more complex than initially thought. The Strait of Hormuz is a critical waterway for global oil trade, with many major oil producers relying on it for exports. The incident has raised concerns about the potential for further disruptions to oil supplies, which could impact the global economy. The exact circumstances surrounding the shots fired are still unclear, but the incident highlights the ongoing tensions in the region.",
+      "impact": "The news may have a neutral impact on oil prices in the short-term, as the situation is still developing and its full implications are unclear. However, if the incident leads to a prolonged disruption to oil supplies, it could put upward pressure on oil prices, benefiting oil producers such as ExxonMobil and Chevron in the medium-term. The incident may also increase geopolitical tensions in the region, which could lead to a rise in oil prices and a boost to the shares of oil-related companies.",
+      "risks": [
+        "Oil supply disruption risk",
+        "Geopolitical tensions risk",
+        "Oil price volatility risk"
+      ]
+    }
   },
   {
     "id": "7812823",
@@ -955,6 +1007,29 @@
     }
   },
   {
+    "id": "7807337",
+    "headline": "Exclusive: Kenya requests emergency World Bank funds to cushion Iran war shocks - Reuters",
+    "summary": "Exclusive: Kenya requests emergency World Bank funds to cushion Iran war shocks  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTFVDRUI2RnNVTElVOXV4YkNfWm9hZFNJV0dCLXBnZU8tcXFmRC1EX2c2V0dFVDJEOHh6ZHUxSVB3U3Ftc1hCMEtZclNrNXU5QWFiOEtwQi0xZG10SjBYbE5NUVBKUGRRbGN0cXNqUWFab3FtXzl3S21ROTUwSmlZb2RDQ28zX2dCYU5ieElrUVNkTmtJQUxFdml0QWVOTURuVFppSldWblFDOV9yX0kzWG93RUN2M0c1OTZTcUNJOVBPVHF0MWc?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1776418938,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1776407200,
+      "sentiment": "neutral",
+      "confidence": 0.65,
+      "summary": "Kenya's central bank chief has requested World Bank funds to mitigate the economic impact of the Iran war. The request is aimed at cushioning the country's economy from potential trade disruptions and supply chain shocks. Kenya is a significant recipient of international aid and financial assistance, and this request is part of its efforts to maintain economic stability. The World Bank has not yet confirmed whether it will provide the requested funds. The move is a response to the escalating tensions between the US and Iran, which have led to increased uncertainty in global markets.",
+      "impact": "The news is unlikely to have a significant impact on the Kenyan stock market in the short term. However, if the World Bank does provide the requested funds, it could lead to increased investor confidence in the Kenyan economy, potentially boosting the stock market in the medium term. The move may also have a positive impact on companies with significant exposure to the Kenyan market, such as those in the financial and consumer goods sectors.",
+      "risks": [
+        "Macro-economic uncertainty risk",
+        "Dependence on international aid risk",
+        "Potential for World Bank funding rejection risk"
+      ]
+    }
+  },
+  {
     "id": "7808172",
     "headline": "Exclusive: Indian refiners pay for Iran oil in yuan via ICICI Bank, sources say - Reuters",
     "summary": "Exclusive: Indian refiners pay for Iran oil in yuan via ICICI Bank, sources say  Reuters",
@@ -1695,29 +1770,6 @@
         "Trade disruptions",
         "Instability in the region",
         "Decreased profitability"
-      ]
-    }
-  },
-  {
-    "id": "7807337",
-    "headline": "Exclusive: Kenya requests emergency World Bank funds to cushion Iran war shocks - Reuters",
-    "summary": "Exclusive: Kenya requests emergency World Bank funds to cushion Iran war shocks  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTFVDRUI2RnNVTElVOXV4YkNfWm9hZFNJV0dCLXBnZU8tcXFmRC1EX2c2V0dFVDJEOHh6ZHUxSVB3U3Ftc1hCMEtZclNrNXU5QWFiOEtwQi0xZG10SjBYbE5NUVBKUGRRbGN0cXNqUWFab3FtXzl3S21ROTUwSmlZb2RDQ28zX2dCYU5ieElrUVNkTmtJQUxFdml0QWVOTURuVFppSldWblFDOV9yX0kzWG93RUN2M0c1OTZTcUNJOVBPVHF0MWc?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1776358260,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1776407200,
-      "sentiment": "neutral",
-      "confidence": 0.65,
-      "summary": "Kenya's central bank chief has requested World Bank funds to mitigate the economic impact of the Iran war. The request is aimed at cushioning the country's economy from potential trade disruptions and supply chain shocks. Kenya is a significant recipient of international aid and financial assistance, and this request is part of its efforts to maintain economic stability. The World Bank has not yet confirmed whether it will provide the requested funds. The move is a response to the escalating tensions between the US and Iran, which have led to increased uncertainty in global markets.",
-      "impact": "The news is unlikely to have a significant impact on the Kenyan stock market in the short term. However, if the World Bank does provide the requested funds, it could lead to increased investor confidence in the Kenyan economy, potentially boosting the stock market in the medium term. The move may also have a positive impact on companies with significant exposure to the Kenyan market, such as those in the financial and consumer goods sectors.",
-      "risks": [
-        "Macro-economic uncertainty risk",
-        "Dependence on international aid risk",
-        "Potential for World Bank funding rejection risk"
       ]
     }
   },
