@@ -53,7 +53,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1776549720
+    "publishedAt": 1776549720,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1776585468,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "North Korea's latest ballistic missile test is a significant escalation of tensions in the region, particularly in the context of the ongoing Iran war. This development could lead to increased military spending and a heightened sense of uncertainty in the global market. The test also raises concerns about the potential for a broader conflict involving North Korea and its neighbors. The situation is likely to have a negative impact on regional and global economic stability.",
+      "impact": "The news is likely to have a negative impact on the global economy, particularly in the short-term, due to increased uncertainty and potential for conflict. This could lead to a decline in investor sentiment, resulting in lower stock prices for companies with exposure to the region. Companies with a high exposure to the defense industry, such as major defense contractors, may see a short-term boost in earnings due to increased military spending. However, this could be offset by a decline in earnings in the medium-term if the conflict escalates and disrupts global trade.",
+      "risks": [
+        "Increased military spending and conflict risk",
+        "Global economic instability risk",
+        "Disruption to global trade risk"
+      ]
+    }
   },
   {
     "id": "7814154",
@@ -554,6 +567,29 @@
     }
   },
   {
+    "id": "7807132",
+    "headline": "Dollar falls to multi-week lows as risk appetite rises on Hormuz news - Reuters",
+    "summary": "Dollar falls to multi-week lows as risk appetite rises on Hormuz news  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYVRmZy1YUkNPZDJ2Yy13MFFYOUp0RVpGUXpWVXI5ZjNUQk4wdE1mYWpHTFFXYWFGWVd4LU1iemNMQ1RlZjVLODlVczFvUTByZGJaTWpQZGoyOGRSc1dPM3Rabkx0TS12MEpkNHhjREtISWVaYXh4TXQ2THdRZFB1ckxqeFJSSE01MnZESFVvcmJTaWlkZ3NwWm1zbXR0bDRS?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1776457721,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1776407154,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The US dollar is expected to decline for the second consecutive week due to hopes of a peaceful resolution to the Iran-US conflict. This development has led to a decrease in the value of the dollar as investors become more optimistic about the global economy. The news is a result of ongoing diplomatic efforts between the US and Iran, which have reduced tensions between the two nations. The impact on the global economy is still uncertain, but a peaceful resolution could lead to increased trade and economic growth. This, in turn, could have a positive impact on various industries, including those related to international trade and commerce.",
+      "impact": "The potential impact on the related stocks is mixed. In the short term, a decline in the dollar could lead to a boost in the earnings of companies that export goods, as their products become cheaper for foreign buyers. However, this could also lead to a decrease in the value of multinational companies' earnings, as their revenue is denominated in dollars. In the medium term, a peaceful resolution could lead to increased trade and economic growth, benefiting companies that are exposed to international trade and commerce.",
+      "risks": [
+        "currency volatility risk",
+        "trade war risk",
+        "economic uncertainty risk"
+      ]
+    }
+  },
+  {
     "id": "7811916",
     "headline": "Canadian dollar hits one-month high as Iran says key waterway open - Reuters",
     "summary": "Canadian dollar hits one-month high as Iran says key waterway open  Reuters",
@@ -688,6 +724,29 @@
         "Supply chain disruptions risk",
         "Price volatility risk",
         "Reduced demand risk"
+      ]
+    }
+  },
+  {
+    "id": "7806725",
+    "headline": "Oil settles down 9% after Iran declares Strait of Hormuz open - Reuters",
+    "summary": "Oil settles down 9% after Iran declares Strait of Hormuz open  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZW95WjdqOWMtQmw3M2RqS21LeThqazlYbW9hX1JsdWlJN3RIYkUzWVFuUVd5SlR4OHh5MUs1YzJ6TFl1bnlWR0FuZ0RZYWlCZ25rRUZacEFPdTF3VmtZNm5sLVZrcFU3ZWFNZ3hqMl9PLTZwbGRtQ3owU1AteGUtZy11SXczU2pJOVlKUC1LMklJQ0ZzY2Jkb0h3QXNCcVVsakJQMFdhTQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1776446244,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1776400673,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Oil prices fell on prospects of talks to end the Iran war and revive oil supply. The news suggests a potential decrease in global oil demand, which is a positive sign for oil-consuming industries. This development is a result of diplomatic efforts to resolve the conflict in Iran, which has been a major contributor to the current supply shortage. The reduction in oil prices may also lead to increased economic activity and consumer spending, benefiting industries such as airlines, travel, and retail. The decrease in oil prices is a result of the easing of supply concerns, which is a positive development for the global economy.",
+      "impact": "The decrease in oil prices may lead to increased consumer spending and economic activity, benefiting industries such as airlines, travel, and retail. This may also lead to an increase in demand for oil-consuming companies, potentially boosting their earnings outlook. However, the medium-term impact may be a decrease in oil prices, which could lead to decreased earnings for oil-producing companies. The reduced supply concerns may also lead to a decrease in oil prices, which could impact the earnings outlook for oil-producing companies.",
+      "risks": [
+        "Decrease in oil prices may lead to decreased earnings for oil-producing companies",
+        "Increased volatility in oil prices due to ongoing supply concerns",
+        "Potential for a decrease in global oil demand if the Iran war is resolved"
       ]
     }
   },
@@ -1542,52 +1601,6 @@
         "Potential for geopolitical tensions to escalate and impact the Strait of Hormuz again",
         "Uncertainty around global oil demand and supply",
         "Risk of oil price volatility"
-      ]
-    }
-  },
-  {
-    "id": "7807132",
-    "headline": "Dollar falls to multi-week lows as risk appetite rises on Hormuz news - Reuters",
-    "summary": "Dollar falls to multi-week lows as risk appetite rises on Hormuz news  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYVRmZy1YUkNPZDJ2Yy13MFFYOUp0RVpGUXpWVXI5ZjNUQk4wdE1mYWpHTFFXYWFGWVd4LU1iemNMQ1RlZjVLODlVczFvUTByZGJaTWpQZGoyOGRSc1dPM3Rabkx0TS12MEpkNHhjREtISWVaYXh4TXQ2THdRZFB1ckxqeFJSSE01MnZESFVvcmJTaWlkZ3NwWm1zbXR0bDRS?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1776391380,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1776407154,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The US dollar is expected to decline for the second consecutive week due to hopes of a peaceful resolution to the Iran-US conflict. This development has led to a decrease in the value of the dollar as investors become more optimistic about the global economy. The news is a result of ongoing diplomatic efforts between the US and Iran, which have reduced tensions between the two nations. The impact on the global economy is still uncertain, but a peaceful resolution could lead to increased trade and economic growth. This, in turn, could have a positive impact on various industries, including those related to international trade and commerce.",
-      "impact": "The potential impact on the related stocks is mixed. In the short term, a decline in the dollar could lead to a boost in the earnings of companies that export goods, as their products become cheaper for foreign buyers. However, this could also lead to a decrease in the value of multinational companies' earnings, as their revenue is denominated in dollars. In the medium term, a peaceful resolution could lead to increased trade and economic growth, benefiting companies that are exposed to international trade and commerce.",
-      "risks": [
-        "currency volatility risk",
-        "trade war risk",
-        "economic uncertainty risk"
-      ]
-    }
-  },
-  {
-    "id": "7806725",
-    "headline": "Oil settles down 9% after Iran declares Strait of Hormuz open - Reuters",
-    "summary": "Oil settles down 9% after Iran declares Strait of Hormuz open  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZW95WjdqOWMtQmw3M2RqS21LeThqazlYbW9hX1JsdWlJN3RIYkUzWVFuUVd5SlR4OHh5MUs1YzJ6TFl1bnlWR0FuZ0RZYWlCZ25rRUZacEFPdTF3VmtZNm5sLVZrcFU3ZWFNZ3hqMl9PLTZwbGRtQ3owU1AteGUtZy11SXczU2pJOVlKUC1LMklJQ0ZzY2Jkb0h3QXNCcVVsakJQMFdhTQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1776387720,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1776400673,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Oil prices fell on prospects of talks to end the Iran war and revive oil supply. The news suggests a potential decrease in global oil demand, which is a positive sign for oil-consuming industries. This development is a result of diplomatic efforts to resolve the conflict in Iran, which has been a major contributor to the current supply shortage. The reduction in oil prices may also lead to increased economic activity and consumer spending, benefiting industries such as airlines, travel, and retail. The decrease in oil prices is a result of the easing of supply concerns, which is a positive development for the global economy.",
-      "impact": "The decrease in oil prices may lead to increased consumer spending and economic activity, benefiting industries such as airlines, travel, and retail. This may also lead to an increase in demand for oil-consuming companies, potentially boosting their earnings outlook. However, the medium-term impact may be a decrease in oil prices, which could lead to decreased earnings for oil-producing companies. The reduced supply concerns may also lead to a decrease in oil prices, which could impact the earnings outlook for oil-producing companies.",
-      "risks": [
-        "Decrease in oil prices may lead to decreased earnings for oil-producing companies",
-        "Increased volatility in oil prices due to ongoing supply concerns",
-        "Potential for a decrease in global oil demand if the Iran war is resolved"
       ]
     }
   },
