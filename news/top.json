@@ -1,5 +1,74 @@
 [
   {
+    "id": "7834455",
+    "headline": "Jim Cramer calls this stock 'one for the ages' after a monster post-earnings rally",
+    "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+    "url": "https://www.cnbc.com/2026/04/22/jim-cramer-calls-this-stock-one-for-the-ages-after-a-monster-post-earnings-rally-.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108251944-1768333646532-gettyimages-2256116868-dji_20260113082153_0990_d_jnhgbkgx.jpeg?v=1776871832&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1776873923,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1776876707,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Jim Cramer highlighted GE Vernova's impressive earnings performance, with a 12% surge after reporting a 16% year-over-year revenue increase to $9.3 billion. The company's strong equipment orders and increased backlog expectations, reaching $200 billion by 2027, a year ahead of schedule, are key drivers. Cramer emphasized GE Vernova's potential as a leader in powering data centers with its natural gas turbines and other products. He also mentioned that when war worries subside, stocks can trade on earnings, and GE Vernova is a prime example.",
+      "impact": "The news is likely to have a positive impact on GE Vernova's stock price in the short term, driven by the strong earnings report and increased backlog expectations. In the medium term, the company's leadership in powering data centers could lead to increased demand and revenue growth. Cramer's endorsement may also boost sentiment and attract more investors to the stock. However, the S&P Short Range Oscillator still indicates an overbought market, which could lead to a potential correction.",
+      "risks": [
+        "overbought market risk",
+        "valuation risk",
+        "macroeconomic uncertainty risk"
+      ]
+    }
+  },
+  {
+    "id": "7834345",
+    "headline": "Strait of Hormuz remains basically closed as Iran seizes ships after Trump ceasefire extension",
+    "summary": "Ship traffic in the Strait of Hormuz is still way below normal levels before the war when more than 100 vessels crossed daily.",
+    "url": "https://www.cnbc.com/2026/04/22/iran-war-strait-hormuz-tanker-ship-trump-blockade.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108293657-17766029382026-04-18t130032z_1433448002_rc2orkamayew_rtrmadp_0_iran-crisis-oman-hormuz.jpeg?v=1776602975&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1776873060,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1776876755,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The Strait of Hormuz remains closed, with only a handful of ships transiting the waterway despite President Trump's extension of the ceasefire with Iran. Iran continues to control ship traffic, seizing vessels that attempt to cross without authorization. The security situation in the strait is dangerous, with reports of gunfire and attacks on ships. This has resulted in significantly reduced oil traffic, with only 6 ships transiting the strait on Wednesday, compared to over 100 before the war. The situation is expected to continue to impact global oil supplies, with Rystad Energy predicting it will take until July for oil flows to reach 90% of pre-war levels.",
+      "impact": "The closure of the Strait of Hormuz is likely to have a negative impact on oil-related stocks, particularly those with exposure to Middle Eastern oil production. Companies such as ExxonMobil (XOM) and Chevron (CVX) may see their earnings outlook decline in the short-term due to reduced oil exports. The situation may also lead to increased volatility in oil prices, which could affect the valuations of oil-related stocks. In the medium-term, the prolonged closure of the strait could lead to a decrease in investor sentiment towards oil-related stocks, potentially impacting liquidity.",
+      "risks": [
+        "Oil supply disruption risk",
+        "Decreased investor sentiment risk",
+        "Increased volatility risk"
+      ]
+    }
+  },
+  {
+    "id": "7833480",
+    "headline": "Wall St gains as Iran ceasefire extension and robust earnings bring relief - Reuters",
+    "summary": "Wall St gains as Iran ceasefire extension and robust earnings bring relief  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTE1IRDNDTDNBUmcwZFVXOW40dldfSmc0YzU3WHZGb3pxZzJCY1RVWmotelJHa0g4SURfUHQwdFh3cTk5LTUwR283Z2NxWE5IdjVrUnNScERKaU56TkpnbkhaTk5ucGZCWHpDVVRmdUpGMjRDUjBHV3BSSGdDSFdrbzB4NVd3T0doSnhzajQwMWFYdjRRRVpxLU4tSm04R05WR0IzbUNTNA?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1776872544,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1776862032,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "US stock index futures have climbed after US President Trump extended a truce with Iran, suggesting a reduction in tensions in the Middle East. This news comes after a recent escalation of tensions between the US and Iran, which had led to concerns about a potential conflict. The truce extension is seen as a positive development for the global economy, as it reduces the risk of a conflict that could disrupt oil supplies and global trade. The news has been welcomed by investors, who have been worried about the potential impact of a conflict on the economy.",
+      "impact": "The extension of the truce is likely to have a positive impact on the stock market in the short-term, as it reduces the risk of a conflict and its associated economic costs. This could lead to a boost in investor sentiment and a rise in stock prices. In the medium-term, the truce could also lead to an increase in oil prices, which could benefit energy stocks. Additionally, the reduced tensions could lead to an increase in global trade, benefiting companies with exposure to international trade.",
+      "risks": [
+        "oil price volatility risk",
+        "global trade slowdown risk",
+        "geopolitical instability risk"
+      ]
+    }
+  },
+  {
     "id": "7834027",
     "headline": "From paint to planes, Iran war lifts costs, darkens outlooks - Reuters",
     "summary": "From paint to planes, Iran war lifts costs, darkens outlooks  Reuters",
@@ -7,7 +76,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1776870460,
+    "publishedAt": 1776871703,
     "analysis": {
       "version": 2,
       "generatedAt": 1776873444,
@@ -24,25 +93,25 @@
     }
   },
   {
-    "id": "7833480",
-    "headline": "Wall St gains after Iran ceasefire extension and robust earnings bring relief - Reuters",
-    "summary": "Wall St gains after Iran ceasefire extension and robust earnings bring relief  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTE1IRDNDTDNBUmcwZFVXOW40dldfSmc0YzU3WHZGb3pxZzJCY1RVWmotelJHa0g4SURfUHQwdFh3cTk5LTUwR283Z2NxWE5IdjVrUnNScERKaU56TkpnbkhaTk5ucGZCWHpDVVRmdUpGMjRDUjBHV3BSSGdDSFdrbzB4NVd3T0doSnhzajQwMWFYdjRRRVpxLU4tSm04R05WR0IzbUNTNA?oc=5",
+    "id": "7833149",
+    "headline": "Iran says seizes two container ships attempting to exit Gulf - Reuters",
+    "summary": "Iran says seizes two container ships attempting to exit Gulf  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOek56STB6bE5kUE9aLUU4RmtzZmxhTmM1SFRSWHRlMF8xbWFiQlR0MUI1QldvdUZmbGlrYmpucWVvWEVxWi01d1pzSDVzU3E2WDlod3ppRTZIcnBlc09vd0ROSDVBNkk3V1BjaFBBQ0ZuQ3B4aE90Rm9TUWZxeWxUeFhKRkMtS3lmNzMxdFB3WHdnOTdoUGVuMEJxQVBJUkJxSm1TTg?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1776867890,
+    "publishedAt": 1776870609,
     "analysis": {
       "version": 2,
-      "generatedAt": 1776862032,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "US stock index futures have climbed after US President Trump extended a truce with Iran, suggesting a reduction in tensions in the Middle East. This news comes after a recent escalation of tensions between the US and Iran, which had led to concerns about a potential conflict. The truce extension is seen as a positive development for the global economy, as it reduces the risk of a conflict that could disrupt oil supplies and global trade. The news has been welcomed by investors, who have been worried about the potential impact of a conflict on the economy.",
-      "impact": "The extension of the truce is likely to have a positive impact on the stock market in the short-term, as it reduces the risk of a conflict and its associated economic costs. This could lead to a boost in investor sentiment and a rise in stock prices. In the medium-term, the truce could also lead to an increase in oil prices, which could benefit energy stocks. Additionally, the reduced tensions could lead to an increase in global trade, benefiting companies with exposure to international trade.",
+      "generatedAt": 1776858330,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Three vessels were hit by gunfire in the Strait of Hormuz, but crew members are reported safe. The incident occurred in a sensitive region where tensions between Iran and the US have been escalating. The Strait of Hormuz is a critical waterway for global oil trade, with approximately 20% of the world's oil passing through it. The incident highlights the ongoing geopolitical risks in the region. The Strait of Hormuz has been a point of contention between Iran and the US in the past, with the US imposing sanctions on Iran and Iran threatening to block the waterway in response.",
+      "impact": "The incident may have a short-term impact on oil prices, potentially leading to an increase in crude oil prices as investors become more cautious about the stability of oil supply. However, the medium-term impact on the oil and gas industry is likely to be minimal, as the incident is an isolated event and the Strait of Hormuz remains a critical waterway for global oil trade. The incident may also increase tensions between Iran and the US, which could have a negative impact on the US dollar and global markets in the long term.",
       "risks": [
+        "geopolitical risk",
         "oil price volatility risk",
-        "global trade slowdown risk",
-        "geopolitical instability risk"
+        "global market instability risk"
       ]
     }
   },
@@ -135,29 +204,6 @@
     }
   },
   {
-    "id": "7833149",
-    "headline": "Iran says seizes two container ships attempting to exit Gulf - Reuters",
-    "summary": "Iran says seizes two container ships attempting to exit Gulf  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOek56STB6bE5kUE9aLUU4RmtzZmxhTmM1SFRSWHRlMF8xbWFiQlR0MUI1QldvdUZmbGlrYmpucWVvWEVxWi01d1pzSDVzU3E2WDlod3ppRTZIcnBlc09vd0ROSDVBNkk3V1BjaFBBQ0ZuQ3B4aE90Rm9TUWZxeWxUeFhKRkMtS3lmNzMxdFB3WHdnOTdoUGVuMEJxQVBJUkJxSm1TTg?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1776859277,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1776858330,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Three vessels were hit by gunfire in the Strait of Hormuz, but crew members are reported safe. The incident occurred in a sensitive region where tensions between Iran and the US have been escalating. The Strait of Hormuz is a critical waterway for global oil trade, with approximately 20% of the world's oil passing through it. The incident highlights the ongoing geopolitical risks in the region. The Strait of Hormuz has been a point of contention between Iran and the US in the past, with the US imposing sanctions on Iran and Iran threatening to block the waterway in response.",
-      "impact": "The incident may have a short-term impact on oil prices, potentially leading to an increase in crude oil prices as investors become more cautious about the stability of oil supply. However, the medium-term impact on the oil and gas industry is likely to be minimal, as the incident is an isolated event and the Strait of Hormuz remains a critical waterway for global oil trade. The incident may also increase tensions between Iran and the US, which could have a negative impact on the US dollar and global markets in the long term.",
-      "risks": [
-        "geopolitical risk",
-        "oil price volatility risk",
-        "global market instability risk"
-      ]
-    }
-  },
-  {
     "id": "7833472",
     "headline": "Why the confusion around the Iran situation could get worse. How to profit anyway",
     "summary": "Brian Sullivan's sources tell him it is not clear who is actually \"running\" Iran, which Trump essentially confirmed Tuesday night.",
@@ -234,7 +280,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1776855886
+    "publishedAt": 1776855886,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1776876800,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "A top sector official has warned that a potential war conflict with Iran could lead to systemic gas demand destruction. This is due to the potential disruption of global oil supplies, which could result in higher prices and reduced demand. The official's comments come as tensions between the US and Iran escalate. The impact on the global economy and energy markets is uncertain, but a conflict could have significant consequences for the energy sector.",
+      "impact": "The potential conflict in Iran could lead to a short-term increase in oil prices, which could negatively impact the earnings outlook for energy companies. This could also lead to a decline in investor sentiment and a decrease in stock prices. In the medium term, a prolonged conflict could lead to a decline in global economic growth, which could further impact energy demand and prices.",
+      "risks": [
+        "Oil price volatility risk",
+        "Global economic slowdown risk",
+        "Energy sector earnings decline risk"
+      ]
+    }
   },
   {
     "id": "7833372",
@@ -558,8 +617,8 @@
   },
   {
     "id": "7831461",
-    "headline": "Dollar steady as Iran war uncertainty persists even as Trump extends ceasefire - Reuters",
-    "summary": "Dollar steady as Iran war uncertainty persists even as Trump extends ceasefire  Reuters",
+    "headline": "Dollar gains as Iran war keeps central banks in wait-and-see mode - Reuters",
+    "summary": "Dollar gains as Iran war keeps central banks in wait-and-see mode  Reuters",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMlR2QTRocm1UcTllSVNxWW5SN09SaWJvQ2N6RmdhMkVxdVRwQVJhSE1jbW9CX1otTzJlaFQ5bUpqbEpaU09aQ2J0Z2QtdmVQdm4yT3dLd3VWQjBtaW1DbnczRjdNUVlld3lxSmtiU0swdEdPYTdocV8tOWg2MHBGN3d6QVY1QUwtX09kRnVHSzdIVTItSEpjY3ViQ2FYVHk2Z1FhVWczWXhlN2xwVFQ1WTBB?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -22615,53 +22674,6 @@
         "Increased trade tensions between the US and Europe",
         "Potential impact on UK trade agreements and relationships with European countries",
         "Uncertainty around the UK's stance on global relations"
-      ]
-    }
-  },
-  {
-    "id": "7729757",
-    "headline": "'I hate customer-service chatbots': The consumer-AI refund relationship is off to a rocky start",
-    "summary": "Generative AI is designed to please humans, but maybe not in the case of customer service chatbots dealing with angry consumers looking for refunds.",
-    "url": "https://www.cnbc.com/2026/04/01/ai-chatbot-customer-service-complaints-refunds.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108275492-1773069652788-gettyimages-2087321692-ADV_callcenter_06.jpeg?v=1773069672&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1775053457,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1775059241,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Customer service chatbots powered by AI are not meeting consumer expectations, with many customers reporting frustration with the technology. A recent report found that nearly one in five consumers who used AI for customer service saw no benefit from the experience. This is attributed to companies prioritizing cost-cutting over problem-solving, which leads to AI systems optimizing for metrics such as minimizing refunds and reducing escalation to humans. As a result, AI-powered chatbots often deflect rather than resolve issues, leaving customers dissatisfied.",
-      "impact": "The negative sentiment towards AI-powered customer service chatbots may lead to a decline in consumer trust and loyalty, potentially impacting companies' revenue and earnings in the medium term. This could result in a decrease in stock prices for companies that heavily rely on AI-powered chatbots for customer service. The shift in consumer behavior may also lead to increased demand for human customer service, benefiting companies that prioritize employee empowerment and customer satisfaction.",
-      "risks": [
-        "Decreased consumer trust and loyalty risk",
-        "Negative impact on revenue and earnings risk",
-        "Increased competition from human customer service providers risk"
-      ]
-    }
-  },
-  {
-    "id": "7730093",
-    "headline": "France suspects link to pro-Iranian group in foiled BofA Paris plot - Reuters",
-    "summary": "France suspects link to pro-Iranian group in foiled BofA Paris plot  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbWZiZ0hCZ0FJUmtHWHhSNHpUVDZieF9adzdwTHlIbHRrQ3VuOFRlNm9SRnFsaEtmQXhweUdmZ3V6Y1pQbTB2LVhoT3k5T29ra3RkSi1JbEZCaExJUkpOWjhCTFFuQnRlNUE3eERQdXVrNlVJeWNqd21WZTlIbEZieUEtLTIxM1htb09oTHhYNThySGRPTGRnRy1ELTNWY3hRTjhZT3F5SDVodjBEZkxmbDNMaDdCYW81UDJ2aGlmS200NEV2S0NMbw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1775052706,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1775062275,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "French authorities suspect a link between a foiled plot to attack Bank of America's Paris office and a pro-Iranian group. The plot, allegedly involving a group of individuals, was reportedly foiled by French intelligence. This incident highlights the ongoing threat of terrorism and geopolitical tensions in the region. The incident may lead to increased security measures and scrutiny of international banks operating in France.",
-      "impact": "The foiled plot may lead to a short-term increase in volatility for Bank of America's stock as investors react to the news. In the medium term, the incident may lead to increased security costs and regulatory scrutiny for the bank, potentially affecting its earnings outlook. The incident may also impact the broader banking sector, as investors become more risk-averse and demand higher returns for taking on increased security risks.",
-      "risks": [
-        "terrorism risk",
-        "regulatory risk",
-        "security costs risk",
-        "geopolitical uncertainty"
       ]
     }
   }
