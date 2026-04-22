@@ -1,5 +1,74 @@
 [
   {
+    "id": "7835000",
+    "headline": "We're adding a speculative stock to our Bullpen that can benefit from the AI data center boom",
+    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+    "url": "https://www.cnbc.com/2026/04/22/were-adding-a-speculative-stock-to-our-bullpen-that-can-benefit-from-the-ai-boom.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108185265-1755089130634-gettyimages-1232777110-PGONCHAR_W8239.jpeg?v=1755089150&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1776884596,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1776888134,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Alphabet's announcement of its new custom tensor processor units (TPUs) is driving gains in stocks tied to the data center buildout, including Alphabet and Broadcom. The new TPUs are expected to deliver improved performance and efficiency, enabling companies to scale their AI capabilities. This development is also a positive signal for Arm Holdings, as it stands to benefit from a surge in CPU spending over the coming years. BWX Technologies, a company that designs and manufactures nuclear components, is being added to the Bullpen as a speculative name, as it has a growing commercial business connected to civilian nuclear applications and could benefit from the AI infrastructure capital expenditures cycle.",
+      "impact": "The news is likely to have a positive impact on stocks related to the data center buildout, including Alphabet and Broadcom, as investors become more optimistic about the growth prospects of these companies. In the short term, we expect to see increased trading activity and potentially higher stock prices for these companies. In the medium term, the increased demand for AI infrastructure could lead to increased earnings for these companies, driving their stock prices even higher. The addition of BWX Technologies to the Bullpen is a speculative bet on the company's potential to benefit from the AI infrastructure capital expenditures cycle, but it carries significant risks, including the uncertainty of the company's ability to adapt to the changing landscape and the potential for increased competition in the nuclear components market.",
+      "risks": [
+        "uncertainty of BWX Technologies' ability to adapt to the changing landscape",
+        "increased competition in the nuclear components market",
+        "potential for regulatory changes affecting the nuclear industry"
+      ]
+    }
+  },
+  {
+    "id": "7833480",
+    "headline": "Wall Street rises on Iran ceasefire extension and solid earnings - Reuters",
+    "summary": "Wall Street rises on Iran ceasefire extension and solid earnings  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTE1IRDNDTDNBUmcwZFVXOW40dldfSmc0YzU3WHZGb3pxZzJCY1RVWmotelJHa0g4SURfUHQwdFh3cTk5LTUwR283Z2NxWE5IdjVrUnNScERKaU56TkpnbkhaTk5ucGZCWHpDVVRmdUpGMjRDUjBHV3BSSGdDSFdrbzB4NVd3T0doSnhzajQwMWFYdjRRRVpxLU4tSm04R05WR0IzbUNTNA?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1776884326,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1776862032,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "US stock index futures have climbed after US President Trump extended a truce with Iran, suggesting a reduction in tensions in the Middle East. This news comes after a recent escalation of tensions between the US and Iran, which had led to concerns about a potential conflict. The truce extension is seen as a positive development for the global economy, as it reduces the risk of a conflict that could disrupt oil supplies and global trade. The news has been welcomed by investors, who have been worried about the potential impact of a conflict on the economy.",
+      "impact": "The extension of the truce is likely to have a positive impact on the stock market in the short-term, as it reduces the risk of a conflict and its associated economic costs. This could lead to a boost in investor sentiment and a rise in stock prices. In the medium-term, the truce could also lead to an increase in oil prices, which could benefit energy stocks. Additionally, the reduced tensions could lead to an increase in global trade, benefiting companies with exposure to international trade.",
+      "risks": [
+        "oil price volatility risk",
+        "global trade slowdown risk",
+        "geopolitical instability risk"
+      ]
+    }
+  },
+  {
+    "id": "7833149",
+    "headline": "Iran seizes two container ships attempting to leave Gulf - Reuters",
+    "summary": "Iran seizes two container ships attempting to leave Gulf  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOek56STB6bE5kUE9aLUU4RmtzZmxhTmM1SFRSWHRlMF8xbWFiQlR0MUI1QldvdUZmbGlrYmpucWVvWEVxWi01d1pzSDVzU3E2WDlod3ppRTZIcnBlc09vd0ROSDVBNkk3V1BjaFBBQ0ZuQ3B4aE90Rm9TUWZxeWxUeFhKRkMtS3lmNzMxdFB3WHdnOTdoUGVuMEJxQVBJUkJxSm1TTg?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1776883085,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1776858330,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Three vessels were hit by gunfire in the Strait of Hormuz, but crew members are reported safe. The incident occurred in a sensitive region where tensions between Iran and the US have been escalating. The Strait of Hormuz is a critical waterway for global oil trade, with approximately 20% of the world's oil passing through it. The incident highlights the ongoing geopolitical risks in the region. The Strait of Hormuz has been a point of contention between Iran and the US in the past, with the US imposing sanctions on Iran and Iran threatening to block the waterway in response.",
+      "impact": "The incident may have a short-term impact on oil prices, potentially leading to an increase in crude oil prices as investors become more cautious about the stability of oil supply. However, the medium-term impact on the oil and gas industry is likely to be minimal, as the incident is an isolated event and the Strait of Hormuz remains a critical waterway for global oil trade. The incident may also increase tensions between Iran and the US, which could have a negative impact on the US dollar and global markets in the long term.",
+      "risks": [
+        "geopolitical risk",
+        "oil price volatility risk",
+        "global market instability risk"
+      ]
+    }
+  },
+  {
     "id": "7834891",
     "headline": "Rivian hits production milestone for R2 EV ahead of customer deliveries",
     "summary": "Rivian Automotive on Wednesday said it has started production of its new R2 all-electric vehicle for customers at its plant in Normal, Illinois.",
@@ -65,29 +134,6 @@
     }
   },
   {
-    "id": "7833149",
-    "headline": "Iran says it seizes two container ships attempting to leave Gulf - Reuters",
-    "summary": "Iran says it seizes two container ships attempting to leave Gulf  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOek56STB6bE5kUE9aLUU4RmtzZmxhTmM1SFRSWHRlMF8xbWFiQlR0MUI1QldvdUZmbGlrYmpucWVvWEVxWi01d1pzSDVzU3E2WDlod3ppRTZIcnBlc09vd0ROSDVBNkk3V1BjaFBBQ0ZuQ3B4aE90Rm9TUWZxeWxUeFhKRkMtS3lmNzMxdFB3WHdnOTdoUGVuMEJxQVBJUkJxSm1TTg?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1776874421,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1776858330,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Three vessels were hit by gunfire in the Strait of Hormuz, but crew members are reported safe. The incident occurred in a sensitive region where tensions between Iran and the US have been escalating. The Strait of Hormuz is a critical waterway for global oil trade, with approximately 20% of the world's oil passing through it. The incident highlights the ongoing geopolitical risks in the region. The Strait of Hormuz has been a point of contention between Iran and the US in the past, with the US imposing sanctions on Iran and Iran threatening to block the waterway in response.",
-      "impact": "The incident may have a short-term impact on oil prices, potentially leading to an increase in crude oil prices as investors become more cautious about the stability of oil supply. However, the medium-term impact on the oil and gas industry is likely to be minimal, as the incident is an isolated event and the Strait of Hormuz remains a critical waterway for global oil trade. The incident may also increase tensions between Iran and the US, which could have a negative impact on the US dollar and global markets in the long term.",
-      "risks": [
-        "geopolitical risk",
-        "oil price volatility risk",
-        "global market instability risk"
-      ]
-    }
-  },
-  {
     "id": "7834455",
     "headline": "Jim Cramer calls this stock 'one for the ages' after a monster post-earnings rally",
     "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
@@ -130,29 +176,6 @@
         "Oil supply disruption risk",
         "Decreased investor sentiment risk",
         "Increased volatility risk"
-      ]
-    }
-  },
-  {
-    "id": "7833480",
-    "headline": "Wall St gains as Iran ceasefire extension and robust earnings bring relief - Reuters",
-    "summary": "Wall St gains as Iran ceasefire extension and robust earnings bring relief  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTE1IRDNDTDNBUmcwZFVXOW40dldfSmc0YzU3WHZGb3pxZzJCY1RVWmotelJHa0g4SURfUHQwdFh3cTk5LTUwR283Z2NxWE5IdjVrUnNScERKaU56TkpnbkhaTk5ucGZCWHpDVVRmdUpGMjRDUjBHV3BSSGdDSFdrbzB4NVd3T0doSnhzajQwMWFYdjRRRVpxLU4tSm04R05WR0IzbUNTNA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1776872544,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1776862032,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "US stock index futures have climbed after US President Trump extended a truce with Iran, suggesting a reduction in tensions in the Middle East. This news comes after a recent escalation of tensions between the US and Iran, which had led to concerns about a potential conflict. The truce extension is seen as a positive development for the global economy, as it reduces the risk of a conflict that could disrupt oil supplies and global trade. The news has been welcomed by investors, who have been worried about the potential impact of a conflict on the economy.",
-      "impact": "The extension of the truce is likely to have a positive impact on the stock market in the short-term, as it reduces the risk of a conflict and its associated economic costs. This could lead to a boost in investor sentiment and a rise in stock prices. In the medium-term, the truce could also lead to an increase in oil prices, which could benefit energy stocks. Additionally, the reduced tensions could lead to an increase in global trade, benefiting companies with exposure to international trade.",
-      "risks": [
-        "oil price volatility risk",
-        "global trade slowdown risk",
-        "geopolitical instability risk"
       ]
     }
   },
@@ -22652,25 +22675,6 @@
         "Lebanese economic instability risk",
         "currency devaluation risk"
       ]
-    }
-  },
-  {
-    "id": "7730090",
-    "headline": "Iran says Trump's statements on Tehran requesting ceasefire are false and baseless - Reuters",
-    "summary": "Iran says Trump's statements on Tehran requesting ceasefire are false and baseless  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVFRjRmpZNFdwZzR2Rm1xRE54TndvSFBPcWNYZ3JEZXQzTldVNGRQYnN2c2sxV0ZvT0xEVDlIY21vMURNRXpDa0JGRFo5VERoZTRUV0c0LXlfQVNKcEhqeUFiRmMyRlRXb0wwOUxIZkF1N0xxdHlfVnB2TTJjdk1KbE9Wbm5PTmNWSXI1Uk1aTW56bFF6ZDVZeTVQbFR3bU5Wa0J0UFdPbWFWVTYtd1J6N2ZNUWczNnRGenNEbEg2T1ZLWkhUN2tj?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1775054311,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1775062230,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "Iran's denial of requesting a ceasefire escalates tensions with the US, which may lead to increased military actions and geopolitical instability. This development is a negative for the global oil market, as Iran is a major oil producer. The US and Iran have been engaged in a trade war, and this news may lead to further escalation. The impact on the oil and gas industry, particularly companies with exposure to the Middle East, may be significant.",
-      "impact": "The potential impact on oil and gas companies with exposure to the Middle East may be negative, as increased tensions could lead to supply disruptions and higher prices. This may be particularly concerning for companies with significant operations in the region, such as ExxonMobil (XOM) and Chevron (CVX). The escalation of the US-Iran conflict may also lead to a rise in oil prices, which could negatively impact airline and travel companies, such as American Airlines (AAL) and Expedia (EXPE).",
-      "risks": []
     }
   }
 ]
