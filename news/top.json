@@ -1,5 +1,51 @@
 [
   {
+    "id": "7845933",
+    "headline": "How the restaurant group behind NYC's Carbone is overcoming young people shunning alcohol",
+    "summary": "Major Food Group CEO Mario Carbone said younger consumers are spending less on alcohol and more on experiences, which is playing into his company's strategy.",
+    "url": "https://www.cnbc.com/2026/04/24/how-the-restaurant-group-behind-nycs-carbone-is-overcoming-young-people-shunning-alcohol.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/107076251-1655306130769-IMG_0154.jpg?v=1655306185&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1777070720,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1777073185,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Major Food Group, the parent company of upscale restaurant chain Carbone, is benefiting from a shift in consumer behavior where younger customers are spending less on alcohol but more on high-end dining experiences. This trend is driven by a desire for experiences over material goods, which aligns with Major Food Group's focus on 'theatrical, experiential fine dining'. As a result, the company is expanding rapidly, opening new locations and growing its consumer products business. This shift in consumer behavior is also impacting the broader alcohol industry, with major brewers and spirits makers experiencing slower volume growth and weaker demand among younger consumers.",
+      "impact": "The news is positive for Major Food Group's stock, as the company's strategy is well-positioned to benefit from the trend of younger consumers prioritizing experiences over material goods. This could lead to increased revenue and earnings growth in the medium term, potentially driving up the stock price. However, the broader industry is facing challenges, including slower volume growth and weaker demand, which could impact the stock prices of major brewers and spirits makers, such as Constellation Brands and Diageo.",
+      "risks": [
+        "slowing consumer spending trend",
+        "increased competition in the experiential dining market",
+        "regulatory changes in the restaurant industry"
+      ]
+    }
+  },
+  {
+    "id": "7845213",
+    "headline": "Iran to make offer aimed at satisfying US demands, Trump says - Reuters",
+    "summary": "Iran to make offer aimed at satisfying US demands, Trump says  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVU1IdW84VV9hWU1fLV9oenFqamNXZkFsUHZQN19mMllqRzFLOEhRMUI3NHpaVHJKV1NlN3ZETFA2SkJBOHpsV1I2RXRkaHZFZkdERW4zZk5Hc3JJeHlwdUg0aVNNbHRvX21ZWVdjdmd1ekZqcFBBU0M0WVhnaDVSNWNnUEh2RllnOHRyRFpBemdxX1NFOXBNZFMxSTFwRnk3a1dONVJzaDk3YUc5RFlNTUVNZlRMemVZ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1777066283,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1777062663,
+      "sentiment": "bullish",
+      "confidence": 0.7,
+      "summary": "Iran's intention to make an offer aimed at satisfying US demands could potentially ease tensions between the two countries, which in turn could positively impact the global energy market. The news comes after a period of heightened tensions following the US's reimposition of sanctions on Iran. The offer is seen as a step towards de-escalation and could lead to a decrease in oil prices, benefiting energy companies that have been negatively impacted by the sanctions. The development could also have a positive impact on the US economy, which has been affected by the rising oil prices.",
+      "impact": "The news could have a positive impact on energy stocks, particularly those that have been negatively impacted by the sanctions, such as oil majors like ExxonMobil (XOM) and Chevron (CVX). The decrease in oil prices could also benefit airlines and other industries that rely heavily on oil prices. In the medium term, the easing of tensions could lead to increased US economic growth, benefiting companies that are heavily exposed to the US market, such as technology and consumer staples companies.",
+      "risks": [
+        "Uncertainty around the success of the offer and the potential for further escalation in tensions",
+        "Potential for oil prices to rebound if the offer is rejected or fails to materialize",
+        "Risks associated with the US-China trade tensions and their impact on the global economy"
+      ]
+    }
+  },
+  {
     "id": "7845527",
     "headline": "US imposes sanctions on Chinese teapot refinery for buying Iranian oil - Reuters",
     "summary": "US imposes sanctions on Chinese teapot refinery for buying Iranian oil  Reuters",
@@ -65,75 +111,6 @@
         "Geopolitical tensions between the US and Iran may escalate, negatively impacting the market",
         "Intel's earnings may not meet expectations, leading to a decline in its stock price",
         "The US-Iran talks may not lead to a lasting peace agreement, disappointing investors"
-      ]
-    }
-  },
-  {
-    "id": "7845213",
-    "headline": "Iran to make offer aimed at satisfying US demands, Trump tells Reuters - Reuters",
-    "summary": "Iran to make offer aimed at satisfying US demands, Trump tells Reuters  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVU1IdW84VV9hWU1fLV9oenFqamNXZkFsUHZQN19mMllqRzFLOEhRMUI3NHpaVHJKV1NlN3ZETFA2SkJBOHpsV1I2RXRkaHZFZkdERW4zZk5Hc3JJeHlwdUg0aVNNbHRvX21ZWVdjdmd1ekZqcFBBU0M0WVhnaDVSNWNnUEh2RllnOHRyRFpBemdxX1NFOXBNZFMxSTFwRnk3a1dONVJzaDk3YUc5RFlNTUVNZlRMemVZ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1777060349,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1777062663,
-      "sentiment": "bullish",
-      "confidence": 0.7,
-      "summary": "Iran's intention to make an offer aimed at satisfying US demands could potentially ease tensions between the two countries, which in turn could positively impact the global energy market. The news comes after a period of heightened tensions following the US's reimposition of sanctions on Iran. The offer is seen as a step towards de-escalation and could lead to a decrease in oil prices, benefiting energy companies that have been negatively impacted by the sanctions. The development could also have a positive impact on the US economy, which has been affected by the rising oil prices.",
-      "impact": "The news could have a positive impact on energy stocks, particularly those that have been negatively impacted by the sanctions, such as oil majors like ExxonMobil (XOM) and Chevron (CVX). The decrease in oil prices could also benefit airlines and other industries that rely heavily on oil prices. In the medium term, the easing of tensions could lead to increased US economic growth, benefiting companies that are heavily exposed to the US market, such as technology and consumer staples companies.",
-      "risks": [
-        "Uncertainty around the success of the offer and the potential for further escalation in tensions",
-        "Potential for oil prices to rebound if the offer is rejected or fails to materialize",
-        "Risks associated with the US-China trade tensions and their impact on the global economy"
-      ]
-    }
-  },
-  {
-    "id": "7841799",
-    "headline": "Oil prices end volatile session mixed but up sharply for the week on supply worries - Reuters",
-    "summary": "Oil prices end volatile session mixed but up sharply for the week on supply worries  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX1hFdFBWbnRDYkJIN01UakRzSG9Nb2duY0Zoakh6M3NIcHU4NzU4VERXU2lYRktUT1ZfSWNvY2JJZWh1elpHSmgtQTJkdkYwM0VFbGlnX3dfaGROamM2dnVLcF9OQW5tRkFPYWlQR2hQZjZqTURyMFloZlBTOUNZcER1NkIyc0dzNmUwUFozeDdoYklaRzhoOWRxTGN2c1I0UHEwM2RrZEZsVTQ2QmZ6TUFQc2hxeDQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1777058817,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1777005831,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Oil prices have risen due to escalating military tensions in the Middle East, which has heightened concerns about potential disruptions to global oil supplies. The region is a major oil-producing area, and any conflict could lead to a reduction in oil production and exports. This, in turn, could drive up prices as demand remains strong. The situation is being closely monitored by the global oil market, with many investors watching for any developments that could impact oil prices.",
-      "impact": "The potential disruption to oil supplies could lead to a short-term increase in oil prices, benefiting oil-producing companies such as ExxonMobil (XOM) and Chevron (CVX). In the medium term, a sustained increase in oil prices could boost earnings for these companies, leading to higher valuations. However, the situation is highly uncertain, and any escalation of the conflict could lead to a sharp increase in oil prices, which could be detrimental to the overall economy and consumer sentiment.",
-      "risks": [
-        "Escalation of conflict leading to a significant reduction in oil production and exports",
-        "Uncertainty surrounding the duration and impact of the conflict on oil supplies",
-        "Potential for a sharp increase in oil prices, which could negatively impact the overall economy and consumer sentiment"
-      ]
-    }
-  },
-  {
-    "id": "7842209",
-    "headline": "Iran's foreign minister arrives in Pakistan, raising hopes for US peace talks - Reuters",
-    "summary": "Iran's foreign minister arrives in Pakistan, raising hopes for US peace talks  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSnpNOVBIV2pyZjNCd1lNdTlINmtvbWFHTV95NDh6U1pyOXZ1bWlDZzgydUtJS3FsWjBpNmowRjJ6ZkEtb3FsUXRfSzJaWVRFcHQ4WEtFUHlYMlpvdmctRHZaXy1fY25USE15NVR2M0gxd2pZcHd5ZlVNdW1kVXhma2RJRHo0cWhKemtsTV9iQmswbVhmd3F4aTM2dlFzdlgzMnhoMVh1VUJfdXVKdXVMM1RTMHpZLUh2?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1777058389,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1777012273,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Israel and Lebanon have extended a ceasefire, while US President Trump is seeking a 'best deal' with Iran. The ceasefire extension suggests a temporary de-escalation of tensions in the region. This news is largely unrelated to specific companies or industries, but may have broader implications for global geopolitics and macroeconomic factors. The news does not provide any direct information on earnings outlook, valuation, or sentiment for any particular stock. The background of the news is the ongoing conflict between Israel and Lebanon, and the US-Iran relations.",
-      "impact": "The news is unlikely to have a direct impact on the stock market in the short term. However, a prolonged ceasefire could lead to increased investor confidence in the region, potentially benefiting companies with exposure to Middle Eastern markets. Conversely, a breakdown in the ceasefire could lead to increased volatility and negatively impact companies with ties to the region.",
-      "risks": [
-        "geopolitical risk",
-        "macroeconomic risk",
-        "event risk"
       ]
     }
   },
@@ -475,25 +452,6 @@
     }
   },
   {
-    "id": "7841699",
-    "headline": "Dollar holds weekly gains as war uncertainty keeps markets on edge - Reuters",
-    "summary": "Dollar holds weekly gains as war uncertainty keeps markets on edge  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTzk5d3dIR2hyS2ZlWmhpcWdmNlhidVA2ZktwSFYzcDFISmJLc0VxbUFHOXEwTEZTMV9Jdk1halA0NC10bkRJS3ZFNGdlamxPZE91bXEzS2pBeU0xcEF0bUEyODVnUmpzRHNlak9EWU9GY1NIRklURWJPbE5qVWo5ODFWempuSzFJMGkxckFCLVlIZllleVpLT2ppcFZIUGx6VkRDMFRPVFcwanFNbjhtdHZTLTMtMUk?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1777039170,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1777005876,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The US dollar is expected to gain this week due to stalled US-Iran talks and Middle East uncertainty. This development has increased tensions in the region, making investors seek safe-haven assets like the US dollar. The US dollar has historically been a safe-haven asset during times of geopolitical uncertainty. The Middle East is a significant oil-producing region, and any escalation of tensions could impact global oil prices, further supporting the US dollar.",
-      "impact": "The potential impact on related stocks is likely to be bullish, particularly for companies with significant exposure to the US dollar or those operating in the energy sector. A stronger US dollar could lead to lower oil prices, benefiting energy companies and consumers. This could also lead to higher demand for US exports, supporting companies with significant international sales. However, the impact on the overall market may be limited, as the US dollar's strength is largely driven by macroeconomic factors rather than company-specific fundamentals.",
-      "risks": []
-    }
-  },
-  {
     "id": "7844567",
     "headline": "South African rand edges up as investors track US-Iran talks, await local month-end data - Reuters",
     "summary": "South African rand edges up as investors track US-Iran talks, await local month-end data  Reuters",
@@ -701,29 +659,6 @@
     }
   },
   {
-    "id": "7843365",
-    "headline": "Forecast for strong El Nino fans worries about global crops as Iran war bites - Reuters",
-    "summary": "Forecast for strong El Nino fans worries about global crops as Iran war bites  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQzg5eVU3QWlHUVUzTk5SWmZYTDFYSWVwUmJZZFdNRDZEVXNuTXpnOUQ2UzNFWFB4aEx4cmtpVy1fT0FOR2psRHRibTF2SU5UdWZNSmRISUdyX1RhbGFULXRCck5KNGR1eWROby11d3h5SWo3QWgzMTJxV2NPb2trdF9TWk1XYm13czdMUUEzdEtlSmJTc3MzSU15SFFlUkxLWU1obHJQRGU5N0FuMEFNd1ppSHNnZC1WU1p2T2JBZUtibnVmUjlzb255TG1wSkYtdVE?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1777014103,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1777031220,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "A strong El Nino event is forecasted, which may lead to droughts and heatwaves in key agricultural regions, exacerbating crop yields and prices. This comes as the ongoing Iran war is already affecting global food supplies. The combination of these factors could lead to increased food prices and reduced crop yields, impacting the agriculture and food processing industries. The news may also have a broader impact on the global economy, particularly in regions reliant on grain exports.",
-      "impact": "The potential impact on related stocks could be significant, with a short-term decrease in agricultural commodity prices and a medium-term increase in food prices. This may lead to a decrease in earnings for companies involved in agriculture and food processing, as well as a decrease in consumer spending power. The news may also lead to increased volatility in the global markets, affecting liquidity and sentiment for related stocks.",
-      "risks": [
-        "Decreased crop yields and prices",
-        "Increased food prices",
-        "Reduced consumer spending power"
-      ]
-    }
-  },
-  {
     "id": "7843700",
     "headline": "Indian rupee's valuation sinks to over-a-decade low, bruised by Iran war, portfolio outflows - Reuters",
     "summary": "Indian rupee's valuation sinks to over-a-decade low, bruised by Iran war, portfolio outflows  Reuters",
@@ -731,7 +666,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1777012663,
+    "publishedAt": 1777012560,
     "analysis": {
       "version": 2,
       "generatedAt": 1777034815,
@@ -743,6 +678,29 @@
         "Increased input costs and reduced profitability",
         "Further outflows and currency weakness",
         "Reduced investor sentiment and potential stock price decline"
+      ]
+    }
+  },
+  {
+    "id": "7843365",
+    "headline": "Forecast for strong El Nino fans worries about global crops as Iran war bites - Reuters",
+    "summary": "Forecast for strong El Nino fans worries about global crops as Iran war bites  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQzg5eVU3QWlHUVUzTk5SWmZYTDFYSWVwUmJZZFdNRDZEVXNuTXpnOUQ2UzNFWFB4aEx4cmtpVy1fT0FOR2psRHRibTF2SU5UdWZNSmRISUdyX1RhbGFULXRCck5KNGR1eWROby11d3h5SWo3QWgzMTJxV2NPb2trdF9TWk1XYm13czdMUUEzdEtlSmJTc3MzSU15SFFlUkxLWU1obHJQRGU5N0FuMEFNd1ppSHNnZC1WU1p2T2JBZUtibnVmUjlzb255TG1wSkYtdVE?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1777012260,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1777031220,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "A strong El Nino event is forecasted, which may lead to droughts and heatwaves in key agricultural regions, exacerbating crop yields and prices. This comes as the ongoing Iran war is already affecting global food supplies. The combination of these factors could lead to increased food prices and reduced crop yields, impacting the agriculture and food processing industries. The news may also have a broader impact on the global economy, particularly in regions reliant on grain exports.",
+      "impact": "The potential impact on related stocks could be significant, with a short-term decrease in agricultural commodity prices and a medium-term increase in food prices. This may lead to a decrease in earnings for companies involved in agriculture and food processing, as well as a decrease in consumer spending power. The news may also lead to increased volatility in the global markets, affecting liquidity and sentiment for related stocks.",
+      "risks": [
+        "Decreased crop yields and prices",
+        "Increased food prices",
+        "Reduced consumer spending power"
       ]
     }
   },
@@ -885,6 +843,29 @@
     }
   },
   {
+    "id": "7842209",
+    "headline": "Iran's foreign minister arrives in Pakistan, Trump expects offer satisfying US demands - Reuters",
+    "summary": "Iran's foreign minister arrives in Pakistan, Trump expects offer satisfying US demands  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSnpNOVBIV2pyZjNCd1lNdTlINmtvbWFHTV95NDh6U1pyOXZ1bWlDZzgydUtJS3FsWjBpNmowRjJ6ZkEtb3FsUXRfSzJaWVRFcHQ4WEtFUHlYMlpvdmctRHZaXy1fY25USE15NVR2M0gxd2pZcHd5ZlVNdW1kVXhma2RJRHo0cWhKemtsTV9iQmswbVhmd3F4aTM2dlFzdlgzMnhoMVh1VUJfdXVKdXVMM1RTMHpZLUh2?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1777003560,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1777012273,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Israel and Lebanon have extended a ceasefire, while US President Trump is seeking a 'best deal' with Iran. The ceasefire extension suggests a temporary de-escalation of tensions in the region. This news is largely unrelated to specific companies or industries, but may have broader implications for global geopolitics and macroeconomic factors. The news does not provide any direct information on earnings outlook, valuation, or sentiment for any particular stock. The background of the news is the ongoing conflict between Israel and Lebanon, and the US-Iran relations.",
+      "impact": "The news is unlikely to have a direct impact on the stock market in the short term. However, a prolonged ceasefire could lead to increased investor confidence in the region, potentially benefiting companies with exposure to Middle Eastern markets. Conversely, a breakdown in the ceasefire could lead to increased volatility and negatively impact companies with ties to the region.",
+      "risks": [
+        "geopolitical risk",
+        "macroeconomic risk",
+        "event risk"
+      ]
+    }
+  },
+  {
     "id": "7842734",
     "headline": "Fitch says no immediate downgrade if Indonesia's deficit tops 3% due to Iran war impact - Reuters",
     "summary": "Fitch says no immediate downgrade if Indonesia's deficit tops 3% due to Iran war impact  Reuters",
@@ -892,7 +873,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1777000662,
+    "publishedAt": 1777000620,
     "analysis": {
       "version": 2,
       "generatedAt": 1777019966,
@@ -951,6 +932,48 @@
         "global economic growth slowdown risk",
         "decrease in investor sentiment risk"
       ]
+    }
+  },
+  {
+    "id": "7841799",
+    "headline": "Oil prices end volatile session mixed but up sharply for the week on supply worries - Reuters",
+    "summary": "Oil prices end volatile session mixed but up sharply for the week on supply worries  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX1hFdFBWbnRDYkJIN01UakRzSG9Nb2duY0Zoakh6M3NIcHU4NzU4VERXU2lYRktUT1ZfSWNvY2JJZWh1elpHSmgtQTJkdkYwM0VFbGlnX3dfaGROamM2dnVLcF9OQW5tRkFPYWlQR2hQZjZqTURyMFloZlBTOUNZcER1NkIyc0dzNmUwUFozeDdoYklaRzhoOWRxTGN2c1I0UHEwM2RrZEZsVTQ2QmZ6TUFQc2hxeDQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1776993240,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1777005831,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Oil prices have risen due to escalating military tensions in the Middle East, which has heightened concerns about potential disruptions to global oil supplies. The region is a major oil-producing area, and any conflict could lead to a reduction in oil production and exports. This, in turn, could drive up prices as demand remains strong. The situation is being closely monitored by the global oil market, with many investors watching for any developments that could impact oil prices.",
+      "impact": "The potential disruption to oil supplies could lead to a short-term increase in oil prices, benefiting oil-producing companies such as ExxonMobil (XOM) and Chevron (CVX). In the medium term, a sustained increase in oil prices could boost earnings for these companies, leading to higher valuations. However, the situation is highly uncertain, and any escalation of the conflict could lead to a sharp increase in oil prices, which could be detrimental to the overall economy and consumer sentiment.",
+      "risks": [
+        "Escalation of conflict leading to a significant reduction in oil production and exports",
+        "Uncertainty surrounding the duration and impact of the conflict on oil supplies",
+        "Potential for a sharp increase in oil prices, which could negatively impact the overall economy and consumer sentiment"
+      ]
+    }
+  },
+  {
+    "id": "7841699",
+    "headline": "Dollar holds weekly gains as war uncertainty keeps markets on edge - Reuters",
+    "summary": "Dollar holds weekly gains as war uncertainty keeps markets on edge  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTzk5d3dIR2hyS2ZlWmhpcWdmNlhidVA2ZktwSFYzcDFISmJLc0VxbUFHOXEwTEZTMV9Jdk1halA0NC10bkRJS3ZFNGdlamxPZE91bXEzS2pBeU0xcEF0bUEyODVnUmpzRHNlak9EWU9GY1NIRklURWJPbE5qVWo5ODFWempuSzFJMGkxckFCLVlIZllleVpLT2ppcFZIUGx6VkRDMFRPVFcwanFNbjhtdHZTLTMtMUk?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1776992820,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1777005876,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The US dollar is expected to gain this week due to stalled US-Iran talks and Middle East uncertainty. This development has increased tensions in the region, making investors seek safe-haven assets like the US dollar. The US dollar has historically been a safe-haven asset during times of geopolitical uncertainty. The Middle East is a significant oil-producing region, and any escalation of tensions could impact global oil prices, further supporting the US dollar.",
+      "impact": "The potential impact on related stocks is likely to be bullish, particularly for companies with significant exposure to the US dollar or those operating in the energy sector. A stronger US dollar could lead to lower oil prices, benefiting energy companies and consumers. This could also lead to higher demand for US exports, supporting companies with significant international sales. However, the impact on the overall market may be limited, as the US dollar's strength is largely driven by macroeconomic factors rather than company-specific fundamentals.",
+      "risks": []
     }
   },
   {
@@ -22662,29 +22685,6 @@
         "Increased production costs for oil and gas companies",
         "Potential decline in economic growth",
         "Negative impact on consumer spending"
-      ]
-    }
-  },
-  {
-    "id": "7743969",
-    "headline": "US Army chief of staff fired by Hegseth, sources say - Reuters",
-    "summary": "US Army chief of staff fired by Hegseth, sources say  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ2U1elZuMmNMNFB2bVVrWW53RW1nTjRmdDV3ZEhSMHFTekxEZHY2aHR6ODFtbUNKTzh0eUs1endya2FhMzVjVmVZa055aUY0d0VkYXFQT2FfX0VadEpWaGNSaGc5aGNFcU5TTTRveVB3dGZwdkZSSURmZFFOTXBZblRvX2k2azlrYjloYW1CY1lDU2FMQ2dSUTI1NEwycWlXYkpSbG1fU2k5OWEyeHc?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1775251253,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1775307516,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The US Army chief of staff has been fired by Hegseth, according to sources. This news is not directly related to any specific publicly traded company, but it may have implications for defense contractors and related industries. The US Army is a major customer for these companies, and changes in leadership can impact procurement decisions and spending priorities. The article does not provide further details on the reasons behind the firing or potential successors.",
-      "impact": "This news may have a neutral to slightly positive impact on defense contractors such as Lockheed Martin (LMT) and Boeing (BA) in the short term, as the new leadership may prioritize different projects or allocate resources differently. However, the medium-term impact is uncertain and will depend on the new leadership's priorities and policies. The news may also have a positive impact on the overall defense sector, as a change in leadership can bring new perspectives and potentially lead to increased spending or changes in procurement priorities.",
-      "risks": [
-        "uncertainty around future procurement decisions",
-        "potential changes in defense spending priorities",
-        "impact on the overall defense sector"
       ]
     }
   }
