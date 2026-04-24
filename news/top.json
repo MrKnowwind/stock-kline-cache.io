@@ -1,5 +1,28 @@
 [
   {
+    "id": "7843687",
+    "headline": "Wall Street's 'fear gauge' is doing something unusual. What it means",
+    "summary": "The S&P 500 touched record highs Thursday morning, but the Cboe Volatility Index (VIX) remained stuck near 20 and is up from five days ago.",
+    "url": "https://www.cnbc.com/2026/04/24/wall-streets-fear-gauge-is-doing-something-unusual-what-it-means.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108296254-17769568252026-04-23t145358z_716100223_rc22vka5zk4e_rtrmadp_0_usa-stocks.jpeg?v=1776956884&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1777031051,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1777034718,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "The Cboe Volatility Index (VIX) has remained elevated near 20 despite the S&P 500 reaching record highs, indicating a potential disconnect between the market's sentiment and the options market. This unusual phenomenon is likely driven by investors' doubts about new highs in stocks and their desire to hedge against risks such as the Iran war and crude oil. However, another interpretation suggests that traders are willing to pay high premiums for upside calls in stocks making big moves, particularly in semiconductors and tech names, which could keep options prices inflated and contribute to the sticky VIX. This dynamic is visible in the VanEck Semiconductor ETF (SMH) and individual stocks like Marvell Technology.",
+      "impact": "The elevated VIX and high call premiums may lead to a near-term pullback in the index as realized volatility 'catches up' to VIX, potentially affecting the overall market sentiment and stock prices. In the medium term, the high call premiums may indicate a positive earnings outlook for semiconductors and tech names, but also increase the risk of a correction if their growth expectations are not met.",
+      "risks": [
+        "near-term pullback in the index",
+        "realized volatility catching up to VIX",
+        "earnings disappointment in semiconductors and tech names"
+      ]
+    }
+  },
+  {
     "id": "7843262",
     "headline": "No US-Iran peace talks in sight, but Islamabad maintains security lockdown - Reuters",
     "summary": "No US-Iran peace talks in sight, but Islamabad maintains security lockdown  Reuters",
@@ -23,25 +46,25 @@
     }
   },
   {
-    "id": "7842004",
-    "headline": "World stocks, oil on edge as US-Iran deadlock weighs - Reuters",
-    "summary": "World stocks, oil on edge as US-Iran deadlock weighs  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcGFfSlR2bzRVYUJjekt5UlU3ZFlaLWc1aXI2SXFmMEhaUWhuYVFEN0hFNC00QzlOZ0d3eGFqUEt5RGcxS2JLVTZsVFNKZUlxM0Ytd05mRVBTdy1Fc3E1MUNSeGZOOWNaWlh1WS1sYS1MN3pwX0ZJWVlyRXZBbXlBWEV4eEZVcUMzWnRFWA?oc=5",
+    "id": "7843585",
+    "headline": "EU to prepare blueprint for mutual assistance pact, amid NATO doubts - Reuters",
+    "summary": "EU to prepare blueprint for mutual assistance pact, amid NATO doubts  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQTNDbjZ4TUtMSnJfYS1qaFQ1Q1RlUy1PdGdOWnVFVEVmNGpoYWpjVk5KVmtZdmFWamJsdDlDcEUwNGlRVGthdV95VzQtWi1Gekpwb01mcnh1am9aUzBQbnZUSDQ1dDFrRVprNkRPZy1PVU1CME1sYm5CVU9WaTkyV0tpRVJ3ZnpETGFQaUhTU0RncTJzd3JuX2tsRF9faEVjSDV4ZXNmQWxYeklScFY2RjhCWm82UDhsWXpITG9HdHY?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1777020879,
+    "publishedAt": 1777017740,
     "analysis": {
       "version": 2,
-      "generatedAt": 1777005784,
+      "generatedAt": 1777034768,
       "sentiment": "neutral",
       "confidence": 0.6,
-      "summary": "Asian stock markets are experiencing mixed trading as tensions between the US and Iran escalate. The deadlock has led to an increase in oil prices, with Brent crude rising 1.5% to $71.50 per barrel. The US-Iran conflict has created uncertainty in the global energy market, which may have a positive impact on oil-producing companies. However, the overall impact on the broader market remains neutral as the conflict's effects are still unfolding.",
-      "impact": "The increase in oil prices may have a positive impact on oil producers such as ExxonMobil (XOM) and Chevron (CVX) in the short-term, as they benefit from higher oil prices. However, the medium-term impact is uncertain due to the potential for a prolonged conflict and its effects on global economic growth. The increased uncertainty may lead to a decrease in investor sentiment and liquidity in the market, potentially affecting stock prices of companies with high exposure to the Middle East region.",
+      "summary": "The European Union (EU) plans to create a blueprint for a mutual assistance pact, which is likely in response to doubts about NATO's ability to provide collective defense. This move aims to strengthen the EU's defense capabilities and enhance its strategic autonomy. The development comes as NATO faces challenges in its eastern flank, particularly with regards to Russia's actions in Ukraine. The EU's plan is expected to involve increased cooperation among member states, potentially leading to a more robust defense alliance.",
+      "impact": "The news may have a neutral impact on defense-related stocks in the short term, as it does not indicate a significant shift in the EU's defense spending or a major change in its military strategy. However, in the medium term, a more robust EU defense alliance could lead to increased defense spending and a more stable security environment, potentially benefiting defense contractors and related industries. This could be positive for companies like Airbus, BAE Systems, and Leonardo, which are major players in the European defense sector.",
       "risks": [
-        "prolonged conflict risk",
-        "global economic growth slowdown risk",
-        "decrease in investor sentiment risk"
+        "Implementation risk: The success of the EU's mutual assistance pact depends on the ability of member states to cooperate and agree on a common defense strategy.",
+        "Funding risk: The EU's defense spending plans may face budget constraints, which could impact the effectiveness of the mutual assistance pact.",
+        "Geopolitical risk: The EU's efforts to strengthen its defense capabilities may be influenced by the ongoing tensions between NATO and Russia, which could escalate into a larger conflict."
       ]
     }
   },
@@ -65,6 +88,29 @@
         "trade war risk",
         "global economic slowdown risk",
         "energy sector volatility risk"
+      ]
+    }
+  },
+  {
+    "id": "7843700",
+    "headline": "Indian rupee's valuation sinks to over-a-decade low, bruised by Iran war, portfolio outflows - Reuters",
+    "summary": "Indian rupee's valuation sinks to over-a-decade low, bruised by Iran war, portfolio outflows  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMFpaaFJnWEE2NGNGMl9KdWswM1ZYNWY3RlJPRjhJOUl0cko4eXpkbXFsSTBmekFWelgwTmp3a1pzWWx3WHdNVnhwQ3BtZnl2d0VGQ2t1MHNzOWRmblpIeGExdTZpV2xIR2xydnotU0R1X1h1SXhpczJNQ3M3SnF5aENQMGR2R1cwZTZPbTlqLWdzQzQ1aXJDUE04bzF6MDNYTkF2bWUzNGhSWWt6OG9NRV9kTXZlVXYxbmotZm9VOVpNaGM?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1777012560,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1777034815,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The Indian rupee has depreciated to a 10-year low due to the ongoing Iran war and portfolio outflows. The war has led to increased oil prices, which has put pressure on the Indian economy and currency. Portfolio outflows have also contributed to the rupee's decline as foreign investors have been selling Indian assets. This has resulted in a significant depreciation of the rupee, making imports more expensive and potentially impacting the Indian economy.",
+      "impact": "The depreciation of the Indian rupee is likely to have a negative impact on Indian companies with significant import costs, such as those in the consumer staples and industrials sectors. This could lead to higher input costs, reduced profitability, and potentially lower earnings outlook. The rupee's decline may also make Indian assets less attractive to foreign investors, leading to further outflows and exacerbating the currency's weakness. In the short term, this could lead to increased volatility in Indian stocks, particularly those with high exposure to global markets.",
+      "risks": [
+        "Increased input costs and reduced profitability",
+        "Further outflows and currency weakness",
+        "Reduced investor sentiment and potential stock price decline"
       ]
     }
   },
@@ -208,8 +254,8 @@
   },
   {
     "id": "7842209",
-    "headline": "Israel, Lebanon extend ceasefire as Trump seeks 'best deal' with Iran - Reuters",
-    "summary": "Israel, Lebanon extend ceasefire as Trump seeks 'best deal' with Iran  Reuters",
+    "headline": "US Iran peace talks could resume in Pakistan; Iran's foreign minister due, say sources - Reuters",
+    "summary": "US Iran peace talks could resume in Pakistan; Iran's foreign minister due, say sources  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSnpNOVBIV2pyZjNCd1lNdTlINmtvbWFHTV95NDh6U1pyOXZ1bWlDZzgydUtJS3FsWjBpNmowRjJ6ZkEtb3FsUXRfSzJaWVRFcHQ4WEtFUHlYMlpvdmctRHZaXy1fY25USE15NVR2M0gxd2pZcHd5ZlVNdW1kVXhma2RJRHo0cWhKemtsTV9iQmswbVhmd3F4aTM2dlFzdlgzMnhoMVh1VUJfdXVKdXVMM1RTMHpZLUh2?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -276,9 +322,32 @@
     }
   },
   {
+    "id": "7842004",
+    "headline": "World stocks, oil on edge as US-Iran deadlock weighs - Reuters",
+    "summary": "World stocks, oil on edge as US-Iran deadlock weighs  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcGFfSlR2bzRVYUJjekt5UlU3ZFlaLWc1aXI2SXFmMEhaUWhuYVFEN0hFNC00QzlOZ0d3eGFqUEt5RGcxS2JLVTZsVFNKZUlxM0Ytd05mRVBTdy1Fc3E1MUNSeGZOOWNaWlh1WS1sYS1MN3pwX0ZJWVlyRXZBbXlBWEV4eEZVcUMzWnRFWA?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1776998160,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1777005784,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Asian stock markets are experiencing mixed trading as tensions between the US and Iran escalate. The deadlock has led to an increase in oil prices, with Brent crude rising 1.5% to $71.50 per barrel. The US-Iran conflict has created uncertainty in the global energy market, which may have a positive impact on oil-producing companies. However, the overall impact on the broader market remains neutral as the conflict's effects are still unfolding.",
+      "impact": "The increase in oil prices may have a positive impact on oil producers such as ExxonMobil (XOM) and Chevron (CVX) in the short-term, as they benefit from higher oil prices. However, the medium-term impact is uncertain due to the potential for a prolonged conflict and its effects on global economic growth. The increased uncertainty may lead to a decrease in investor sentiment and liquidity in the market, potentially affecting stock prices of companies with high exposure to the Middle East region.",
+      "risks": [
+        "prolonged conflict risk",
+        "global economic growth slowdown risk",
+        "decrease in investor sentiment risk"
+      ]
+    }
+  },
+  {
     "id": "7841799",
-    "headline": "Oil rises on concerns over escalating military tensions in the Middle East - Reuters",
-    "summary": "Oil rises on concerns over escalating military tensions in the Middle East  Reuters",
+    "headline": "Oil turns negative as source says Iran-U.S. peace talks likely - Reuters",
+    "summary": "Oil turns negative as source says Iran-U.S. peace talks likely  Reuters",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX1hFdFBWbnRDYkJIN01UakRzSG9Nb2duY0Zoakh6M3NIcHU4NzU4VERXU2lYRktUT1ZfSWNvY2JJZWh1elpHSmgtQTJkdkYwM0VFbGlnX3dfaGROamM2dnVLcF9OQW5tRkFPYWlQR2hQZjZqTURyMFloZlBTOUNZcER1NkIyc0dzNmUwUFozeDdoYklaRzhoOWRxTGN2c1I0UHEwM2RrZEZsVTQ2QmZ6TUFQc2hxeDQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -22620,76 +22689,6 @@
         "Potential escalation of tensions between the US and Iran could lead to a rise in oil prices",
         "Uncertainty around the US's stance on the Iran situation could lead to market volatility",
         "Global economic downturn could lead to decreased demand for energy companies' products"
-      ]
-    }
-  },
-  {
-    "id": "7736964",
-    "headline": "US experts say American strikes on Iran may amount to war crimes - reuters.com",
-    "summary": "US experts say American strikes on Iran may amount to war crimes  reuters.com",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMjVNem01Ujl1TGY5aGhPdXM0QkdJbDFxbWdOb2s4QUVvRFYyT2d2WGlPTkpyYnB0LTc0Qy1GVEhPYlZaem5pNWF1ei1WcU9SZDc4Y3NyNFZmdnR2Vjh1ckVOcDZxQmpnSW9hMVFaMTdjMjk0MzRIRi1Ic1FsVEtTVWxQY2VFc0ZrWmpKSkNVY05OUXhxRkxYUm11QWl6T1hqWFB2dkhkeFBFOWpiNnpqVlN3?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1775173860,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1775187515,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "US experts have accused the US of committing war crimes through its strikes on Iran, which could escalate tensions and lead to further conflict. This development is a significant escalation of the ongoing Iran-US conflict, which has been simmering for months. The US strikes on Iran have already led to increased tensions in the region, and the accusation of war crimes could further destabilize the situation. The US military action in Iran is likely to have a negative impact on the global economy, particularly in the energy sector, as Iran is a major oil producer. The US-Iran conflict is also likely to have a negative impact on the overall market sentiment, leading to increased volatility and potential losses for investors.",
-      "impact": "The potential impact on the US defense industry is likely to be negative in the short term, as the US government may face increased scrutiny and potential lawsuits related to the war crimes accusation. The medium-term impact may be a decrease in defense spending, as the US government may re-evaluate its military strategy and priorities. The conflict may also lead to a decline in oil prices, which could have a positive impact on the energy sector, but a negative impact on energy companies that have invested heavily in Iran. The overall market sentiment is likely to be bearish, leading to increased volatility and potential losses for investors.",
-      "risks": [
-        "Escalation of the conflict and further military action",
-        "Increased regulatory scrutiny and potential lawsuits",
-        "Decrease in defense spending and military contracts",
-        "Decline in oil prices and impact on energy companies"
-      ]
-    }
-  },
-  {
-    "id": "7737064",
-    "headline": "A year after 'Liberation Day,' Trump sets new drug tariffs, adjusts metals duties - Reuters",
-    "summary": "A year after 'Liberation Day,' Trump sets new drug tariffs, adjusts metals duties  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWFZKb2ppb3RHdXNXbnBJZzR4WGc5dHJ3ZkVvVlVMYVFwUjN4TkxQR203bEtjTlo3d3NnTDBaSXZSZzMxUkY5QVlWMFF2V3NGM2VOMk0zMk14NkVfWDVyNF96QlVMQ2tHb0oyWm5nRm9pQmpOYTdoWTJQUTdXMHZOR1RLT0RJaldfT3NMRmNJXzhMcHhMM1p2dHVzaEtHaGtBME54MGJUbW5MdDFNX2tkZkktOGNiLTQ3ZjRiTw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1775172708,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1775187561,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "US President Trump has announced new tariffs on pharmaceuticals and adjusted metals duties, effective immediately. This move is a year after the 'Liberation Day' event, which was expected to bring relief to the industry. The new tariffs are likely to increase costs for pharmaceutical companies, potentially affecting their profit margins and earnings outlook. The metals duties adjustment may also impact companies involved in the metals supply chain, such as miners and manufacturers.",
-      "impact": "The new tariffs and adjusted metals duties may lead to short-term headwinds for pharmaceutical companies, including increased costs and potential earnings pressure. Medium-term, this could impact the industry's valuation, as investors reassess the sector's attractiveness. Companies with significant exposure to pharmaceuticals or metals may see their stock prices decline in response to these developments.",
-      "risks": [
-        "Increased regulatory uncertainty",
-        "Potential earnings pressure for pharmaceutical companies",
-        "Supply chain disruptions due to metals duties adjustment"
-      ]
-    }
-  },
-  {
-    "id": "7735079",
-    "headline": "Iran war exposes frailties of 'no-hire' US economy - Reuters",
-    "summary": "Iran war exposes frailties of 'no-hire' US economy  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcXVuUHhnRU93UmlKZFhmWmNpZ05yMnA2SUVyQTdHM0FybmRzN0dMNkZrWWdORElJQzdzN3hTREJodlRhRUtFX3c3RzRXUnhFNzNGSjB2WDk0R2lBYWE0TTFMYlA2dUhWTGdiaWZGR1ZqT1UzWE1yYThuYW1jWjdpaFAtSzZWamJDY2RXN1NKOWRwMWo1SDlN?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1775172627,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1775147991,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The ongoing Iran war has exposed the frailties of the US 'no-hire' economy, highlighting the country's reliance on temporary and contract workers. This trend is particularly evident in the labor market, where job openings outnumber available workers, leading to a surge in temporary and contract employment. The lack of full-time job creation has resulted in a decrease in consumer spending, which in turn affects the overall economy. This situation is expected to continue, as the US economy struggles to recover from the 2020 recession.",
-      "impact": "The Iran war and the 'no-hire' economy will likely lead to a decrease in consumer spending, which may negatively impact companies that rely heavily on consumer demand, such as retail and hospitality firms. The ongoing labor market uncertainty may also lead to increased costs for companies, as they struggle to find and retain full-time employees. In the short-term, this may result in decreased earnings for these companies, leading to a potential decline in stock prices. In the medium-term, the 'no-hire' economy may lead to a decrease in economic growth, further exacerbating the situation.",
-      "risks": [
-        "Decreased consumer spending risk",
-        "Increased labor costs risk",
-        "Decreased economic growth risk"
       ]
     }
   }
