@@ -1,5 +1,51 @@
 [
   {
+    "id": "7864942",
+    "headline": "U.S. airlines are hiking fares — and travelers keep booking",
+    "summary": "Executives say travelers keep booking despite big jumps in airfare as they seek to cover the cost of fuel.",
+    "url": "https://www.cnbc.com/2026/04/28/airlines-fares-fuel.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108294993-1776806810140-gettyimages-2272449578-_73a9283_thf40opz.jpeg?v=1776806840&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1777408097,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1777409540,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "US airlines are hiking fares due to surging jet fuel prices, but travelers are still booking flights, indicating resilient consumer demand. The price spike is eating into airline profits, but executives expect customers to cover the higher fuel costs by early 2027. Airlines have trimmed capacity to cut costs, which can boost airfare. This has led to a 21% increase in domestic economy ticket prices and a 17% rise in premium-seat prices.",
+      "impact": "The news is positive for airlines with a strong premium offering, such as Delta Air Lines and United Airlines, as they can charge higher fares for premium seats. The earnings outlook for these airlines is also boosted by the expectation of higher yields. However, low-cost carriers like Frontier Airlines and Avelo Airlines may struggle to maintain their competitiveness with higher fuel prices. The potential relief package from the Trump administration could provide some support to these carriers.",
+      "risks": [
+        "fuel price volatility risk",
+        "demand slowdown risk towards the end of the year",
+        "competitiveness risk for low-cost carriers"
+      ]
+    }
+  },
+  {
+    "id": "7861097",
+    "headline": "Oil ends up nearly 3% as Hormuz disruption outweighs UAE OPEC exit - Reuters",
+    "summary": "Oil ends up nearly 3% as Hormuz disruption outweighs UAE OPEC exit  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSWdEcWtxT1pxaGxwMmc3bHE1elRLZlNOZHlvNWQtWG94NTZ0RzB3STJ3NmQxT0ZMUVhKYWYwWVZjbGhyMkdLaDZ1VEZHT3ZGdTB6cTFXdlV3MzRUT0s0N0JFZV9OUk9sRGNiS2NNeDlGa1czbGgxeGhhOV9BT09qcURMcDNRb3Q2SnE4Y1NSU2JzOXNyX0Q4eFl4My1SNVU1NWJITm43aUc?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1777406569,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1777352697,
+      "sentiment": "neutral",
+      "confidence": 0.5,
+      "summary": "The ongoing Iran war stand-off has led to a rise in oil prices, with no end to the conflict in sight. The situation has been escalating, with both sides exchanging blows, and the international community struggling to find a resolution. This has resulted in increased tensions in the Middle East, a key oil-producing region. As a result, oil prices have risen, which could have a positive impact on oil-producing companies' earnings. The situation is complex, with multiple parties involved and various interests at play.",
+      "impact": "The rise in oil prices could have a positive impact on oil-producing companies' earnings, potentially leading to higher revenue and profitability in the short-term. However, the medium-term impact is uncertain, as the ongoing conflict could lead to increased volatility in the oil market. Oil-producing companies with significant exposure to the Middle East, such as ExxonMobil (XOM) and Chevron (CVX), may benefit from the higher oil prices, while companies with significant exposure to the global economy, such as airlines and transportation companies, may be negatively impacted by the rising oil prices.",
+      "risks": [
+        "Escalation of the conflict leading to a further increase in oil prices and volatility",
+        "Impact on global economic growth due to higher oil prices",
+        "Uncertainty around the duration and outcome of the conflict"
+      ]
+    }
+  },
+  {
     "id": "7864316",
     "headline": "Exclusive: Trump approval sinks to new low as war with Iran drives cost-of-living concerns - Reuters",
     "summary": "Exclusive: Trump approval sinks to new low as war with Iran drives cost-of-living concerns  Reuters",
@@ -7,7 +53,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1777401343,
+    "publishedAt": 1777406098,
     "analysis": {
       "version": 2,
       "generatedAt": 1777403519,
@@ -23,6 +69,29 @@
     }
   },
   {
+    "id": "7864727",
+    "headline": "Red-hot Corning shares slide on earnings. Why that's a gift to investors",
+    "summary": "The stock's massive rally in 2026 established a high bar for Tuesday's results.",
+    "url": "https://www.cnbc.com/2026/04/28/red-hot-corning-shares-slide-on-earnings-why-thats-a-gift-to-investors.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108256652-1769211369805-Contour_wide.jpg?v=1777394877&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1777404038,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1777409586,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Corning's shares fell 7% despite beating earnings expectations, driven by a massive rally earlier this year. The company reported 18% core revenue growth and 30% EPS growth, led by its AI and solar businesses. Corning finalized two new long-term supply agreements with hyperscalers, similar to its deal with Meta, which should help alleviate investor concerns about capacity expansion. This structure allows Corning to share the risk and rewards with its customers, making it a critical player in the AI infrastructure buildout.",
+      "impact": "The news is a gift to investors who have yet to start a position in Corning, as the price action is relieving some of the hype. The stock can be bought on the dip, as the long-term story remains intact. The company's ability to secure new supply agreements with hyperscalers should support its growth prospects and alleviate concerns about capacity expansion.",
+      "risks": [
+        "operating margin miss",
+        "revenue guidance came in light for the current quarter",
+        "valuation risk due to the stock's massive rally earlier this year"
+      ]
+    }
+  },
+  {
     "id": "7864524",
     "headline": "Exclusive: US spy agencies examine how Iran would react to Trump declaring victory - Reuters",
     "summary": "Exclusive: US spy agencies examine how Iran would react to Trump declaring victory  Reuters",
@@ -30,7 +99,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1777400863,
+    "publishedAt": 1777402673,
     "analysis": {
       "version": 2,
       "generatedAt": 1777403565,
@@ -42,6 +111,52 @@
         "Escalation of tensions between the US and Iran",
         "Decrease in oil demand",
         "Increased investor caution"
+      ]
+    }
+  },
+  {
+    "id": "7864840",
+    "headline": "US imposes sanctions on 35 individuals, entities for aiding Iran's sanctions evasions - Reuters",
+    "summary": "US imposes sanctions on 35 individuals, entities for aiding Iran's sanctions evasions  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcVk3REZRcV85OXdkbXhkUUtocGdLSld3OWN6VVEzYTFPRlJEdV9IczlLSjA0VEVvSmNCOGlWQVh3T0o5cmpRSzdvN3Y3RnFuVXg4ai0zODJuTUhIVWhyeExzSzQ3T1Z6enBPV0MtT3FBODNUQ1hEV2tNSksyZ3Y3LWNxSGltc184c3FUejZhQXd6MVVKSno3RVZUSUdEd2FUNmMwbG1qNFk3aVNHN19PbUlGbktxbnRLeDBFQkFwSHRiY2VmN2NFNA?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1777400744,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1777409635,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The US government has imposed sanctions on 35 individuals and entities for their involvement in aiding Iran's sanctions evasion efforts. This move is a significant escalation of tensions between the US and Iran, and is likely to have far-reaching consequences for global trade and geopolitics. The sanctions are aimed at disrupting Iran's ability to access international financial systems and markets, which could have a negative impact on the country's economy. The US has been increasing pressure on Iran in recent months, and this move is likely to be seen as a further tightening of the noose around the country's economy.",
+      "impact": "The sanctions are likely to have a negative impact on companies with exposure to Iran, particularly those in the energy and financial sectors. This could lead to a decline in earnings for these companies in the short-term, as they may face reduced revenue and increased costs due to the sanctions. In the medium-term, the sanctions could also lead to a decrease in investor sentiment and a decline in stock prices for companies with exposure to Iran. This could lead to a decrease in liquidity and an increase in volatility for these stocks.",
+      "risks": [
+        "Decrease in earnings for companies with exposure to Iran",
+        "Reduced investor sentiment and stock prices for companies with exposure to Iran",
+        "Decrease in liquidity and increase in volatility for stocks with exposure to Iran"
+      ]
+    }
+  },
+  {
+    "id": "7864624",
+    "headline": "A good investing lesson on parabolic stock moves in Tuesday's market downswing",
+    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+    "url": "https://www.cnbc.com/2026/04/28/a-good-investing-lesson-on-parabolic-stock-moves-in-tuesdays-downswing.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108188497-1755694394554-SG-Friar-02.jpg?v=1755694558&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1777400204,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1777409684,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "A recent Wall Street Journal report on OpenAI's revenue and user growth targets has led to a selloff in AI-related stocks. OpenAI has pushed back against the report, citing its ability to raise hundreds of billions of dollars and its recent cost-cutting measures. The company's ability to secure compute capacity is a key concern, but the global shortage of compute capacity may actually benefit OpenAI. The market's reaction to the report highlights the importance of being cautious when dealing with parabolic stock moves.",
+      "impact": "The selloff in AI-related stocks may have a short-term impact on companies like Amazon, Alphabet, Microsoft, and Meta Platforms, which report earnings on Wednesday. If these companies report strong revenue and point to increased AI spending, sentiment could quickly recover. However, the damage is already done, and the stocks that ran up quickly are taking a hit. This may lead to a medium-term impact on the overall market, as investors become more cautious and re-evaluate their positions.",
+      "risks": [
+        "valuation risk: AI-related stocks may be overvalued after their recent run-up",
+        "sentiment risk: market sentiment may remain bearish for AI-related stocks in the short term",
+        "earnings risk: companies like Amazon, Alphabet, and Microsoft may report disappointing earnings if they are unable to meet AI-related growth expectations"
       ]
     }
   },
@@ -62,6 +177,29 @@
       "summary": "GM's CEO Mary Barra stated that the Iran war is causing cost increases, but the company's vehicle mix remains healthy despite higher gas prices. The average transaction price for vehicles in Q1 was $52,000, in line with last year. The company is offsetting higher costs through warranty improvements, cost efficiencies, and potential deferrals in hiring. GM is well-positioned to meet potential shifts in demand, including a move to less expensive or all-electric vehicles.",
       "impact": "The news is likely to have a positive impact on GM's stock in the short-term, as the company's ability to maintain a healthy vehicle mix and offset cost increases is a positive sign. However, the uncertainty surrounding the duration of the Iran war and its impact on costs remains a risk. In the medium-term, GM's ability to adapt to shifts in demand, particularly towards all-electric vehicles, could be a key driver of growth. The company's strong earnings performance and efforts to offset costs may also support its valuation.",
       "risks": []
+    }
+  },
+  {
+    "id": "7864525",
+    "headline": "US pump prices near 4-year high on Iran war disruption, refinery outages - Reuters",
+    "summary": "US pump prices near 4-year high on Iran war disruption, refinery outages  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQXy1va2liUDd1dVk3MDU1S1R1LUFvc2ZSdVBiV2Y0MkxRcDEwUlR5UzFJN1Rrd0ZScDRha042MzY1ZWJtNGQtNi16M0p1SVRfR0pmNGpDOU5zUXlMQ3RJUG1hMmhfckh2cXIyUkszTVFVS3pxWnVQVVJtdG85aWh2dW9pS0RDQmxCUElIWXRqRHJEeHZteGdfdzFnbXMzNWE1eF9hTFd4OElzMnlqeGQzTFVlOA?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1777399102,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1777403704,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "US gasoline prices have risen to a four-year high due to disruptions in Iran's oil exports and refinery outages in the US. The price increase is attributed to a combination of factors, including the US's decision to impose sanctions on Iran, which has reduced the country's oil exports, and the shutdown of several major refineries in the US. This has led to a shortage of gasoline supply, driving up prices. The situation is expected to continue in the near term, with no immediate resolution in sight.",
+      "impact": "The increase in gasoline prices is likely to have a negative impact on the earnings of companies in the oil refining and distribution sector, particularly those with high exposure to the US market. This could lead to a decline in their stock prices in the short term. In the medium term, the increased prices could also lead to a decrease in demand for gasoline, which could have a negative impact on the earnings of companies in the sector. The situation could also lead to a rise in inflation, which could have a negative impact on the overall economy.",
+      "risks": [
+        "refinery shutdown risk",
+        "supply chain disruption risk",
+        "inflation risk"
+      ]
     }
   },
   {
@@ -88,6 +226,27 @@
     }
   },
   {
+    "id": "7864741",
+    "headline": "Trump greets King Charles on 'beautiful British day' at White House - Reuters",
+    "summary": "Trump greets King Charles on 'beautiful British day' at White House  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdmxqankyYmRpM0Uxbm9LcTN1dFFzangzTjNBc3NsWkFlelZCZGhnSDhMM2lBUUdZdE5HRWV0LWxDejN3MDlFT2NqeU5OSFRMNHVOY1FYc1pjUUs0WjRUT29YOGxDek1vNFdwNncySGREdE1xZG5PQnN1RE50VXpoTDhXbnB6Z3Qwa25CSm94dDJQQWNGa09xSGtXUmFZeHlEYmhqVG5mN3JCdmo1amc?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1777396821,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1777409729,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "US President Donald Trump hosted a meeting with King Charles at the White House on a 'beautiful British day'. The meeting was a diplomatic event and did not have any direct implications on the business world. The article does not provide any information about the agenda or outcomes of the meeting. The event was reported as a courtesy call, and there is no indication of any business-related discussions.",
+      "impact": "The news has a neutral impact on the US or global economy, and therefore, it is unlikely to have any significant effect on the stock market or related stocks. The meeting between the two leaders is a diplomatic gesture and does not have any direct implications on the business world. However, a positive tone from the meeting could potentially boost sentiment and improve the perception of the US as a welcoming and diplomatic nation, which could have a positive impact on tourism and related industries in the long term.",
+      "risks": [
+        "no specific risks identified"
+      ]
+    }
+  },
+  {
     "id": "7864205",
     "headline": "UK summons Iranian ambassador over embassy's 'unacceptable' comments on social media - Reuters",
     "summary": "UK summons Iranian ambassador over embassy's 'unacceptable' comments on social media  Reuters",
@@ -107,29 +266,6 @@
         "escalation of tensions",
         "supply chain disruptions",
         "higher production costs"
-      ]
-    }
-  },
-  {
-    "id": "7864525",
-    "headline": "US pump prices near 4 year high on Iran war disruption, refinery outages - Reuters",
-    "summary": "US pump prices near 4 year high on Iran war disruption, refinery outages  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQXy1va2liUDd1dVk3MDU1S1R1LUFvc2ZSdVBiV2Y0MkxRcDEwUlR5UzFJN1Rrd0ZScDRha042MzY1ZWJtNGQtNi16M0p1SVRfR0pmNGpDOU5zUXlMQ3RJUG1hMmhfckh2cXIyUkszTVFVS3pxWnVQVVJtdG85aWh2dW9pS0RDQmxCUElIWXRqRHJEeHZteGdfdzFnbXMzNWE1eF9hTFd4OElzMnlqeGQzTFVlOA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1777393549,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1777403704,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "US gasoline prices have risen to a four-year high due to disruptions in Iran's oil exports and refinery outages in the US. The price increase is attributed to a combination of factors, including the US's decision to impose sanctions on Iran, which has reduced the country's oil exports, and the shutdown of several major refineries in the US. This has led to a shortage of gasoline supply, driving up prices. The situation is expected to continue in the near term, with no immediate resolution in sight.",
-      "impact": "The increase in gasoline prices is likely to have a negative impact on the earnings of companies in the oil refining and distribution sector, particularly those with high exposure to the US market. This could lead to a decline in their stock prices in the short term. In the medium term, the increased prices could also lead to a decrease in demand for gasoline, which could have a negative impact on the earnings of companies in the sector. The situation could also lead to a rise in inflation, which could have a negative impact on the overall economy.",
-      "risks": [
-        "refinery shutdown risk",
-        "supply chain disruption risk",
-        "inflation risk"
       ]
     }
   },
@@ -188,6 +324,26 @@
         "sector sentiment risk"
       ]
     }
+  },
+  {
+    "id": "7862562",
+    "headline": "Oil prices rise with eyes on UAE, AI concerns weigh on stocks - Reuters",
+    "summary": "Oil prices rise with eyes on UAE, AI concerns weigh on stocks  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeWRhN2c0RU1tV2otcDBmWHdiTXVGZ19LVDFnTmJVUHI5TTBiRkJQaXQ3OUNGLVJQNDl0bVJtTmNmVWlMQ0UwVnNidVp6OG9zWDJLNGwxVUJ1M21oNG1OWDV6bFk1eDQxbUxMemxfRk5JMTcxMHNSVUxBV3V0NDVvckVuel8?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1777392220
+  },
+  {
+    "id": "7864626",
+    "headline": "South Africa extends fuel tax cuts to cushion Iran war impact - Reuters",
+    "summary": "South Africa extends fuel tax cuts to cushion Iran war impact  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTkd4VGxaUTBZdVBFMmNhM1JJSTlrM1pId203UkRLVTY3d1BfXzl2SkR6RmNrVGhkaDJQZ3ByTUVmNkk4U2ZqOVd0VjI1a1FzSHBfdDdpZDJmVW5heWR2blRFVVJWaU9vUm4xUzVJalc3eGN0N3ZNQUpHV3RMcEl0N1VBOXZfT0hZX0hhd2lEbVlfYlNIRU5HcXQ0YnVna0JPdGU4ZTV4X2pZY2JfY2FZYVpmM0NyeUNrNXUw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1777391792
   },
   {
     "id": "7863987",
@@ -254,6 +410,29 @@
       "risks": [
         "Shift in consumer sentiment may not directly translate to increased spending or positive market impact",
         "Article's focus on relationships may not have a significant impact on business fundamentals or industry context"
+      ]
+    }
+  },
+  {
+    "id": "7863566",
+    "headline": "Idemitsu Maru tanker carrying Saudi oil crosses Strait of Hormuz - Reuters",
+    "summary": "Idemitsu Maru tanker carrying Saudi oil crosses Strait of Hormuz  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbTlTbDZzNWptOVZ4REdQQmx4ZDZEbVNNT1locUNPM2ppcmFwbmhYZEZmNV9iMFo1S1Fsejl1SVc5V2dOR2JYaklfcWFrdzFqc3Z6blVxdDNobmZnNlFaeVpocmQ3NzZlZGdGbkMzMzg1RWtxSE5xeDhoWXlTUFJIN19FVlV1QWhKWElZajBVeTgtZ21TOUFaWk96Z1lfMlhfZnU4UmNXMnNycDFLRVJoMFZDcWxEODd4RXByTjFPRGg3VW1OQ1U4Yg?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1777385011,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1777389312,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Idemitsu Maru, a tanker carrying Saudi oil, is attempting to cross the Strait of Hormuz. The Strait is a critical waterway for global oil trade, with over 20% of the world's oil passing through it. The incident highlights the ongoing tensions in the region, particularly between the US and Iran. The Strait's importance to global oil supply and the potential for disruptions to oil exports could impact oil prices and related industries. The news does not directly mention any specific company or stock, but it may affect the overall oil market and related stocks.",
+      "impact": "The news may lead to increased volatility in the oil market, potentially driving up oil prices in the short term. This could positively impact oil producers and related companies, such as those in the energy sector, in the short term. However, the medium-term impact is uncertain, as the situation in the Strait of Hormuz is unpredictable and may lead to supply chain disruptions or price volatility. The news may also increase investor caution, leading to a short-term decrease in oil-related stock prices.",
+      "risks": [
+        "Supply chain disruptions risk",
+        "Price volatility risk",
+        "Investor caution risk"
       ]
     }
   },
@@ -379,6 +558,16 @@
     }
   },
   {
+    "id": "7864742",
+    "headline": "India douses fears of retail fuel price hike amid panic buying - Reuters",
+    "summary": "India douses fears of retail fuel price hike amid panic buying  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYWJxMkoyMUNfQjdCWlVEUGFFS3B3VV9ZR2VndkJuQWUxSnBFWmxXQkY3QUpfU3pWN2pFY1RSVHdSUkRKdzRsWjUxXzlsck9Pc3EyZzdSR3V6OTlDeEt2bVpWVnNhbEYxYjhqOVlXTjI4Ui1kQm9HSUNXWEtKbTZpSG9JZENlUWQtaXJhMFpDX2xzbUM2UG1TZ3FjQVJIbXN3REFrWFBLYU8yTGU3UWVELQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1777378329
+  },
+  {
     "id": "7862350",
     "headline": "BP quarterly profit beats expectations at $3.2 billion, driven by Iran war trading boon - Reuters",
     "summary": "BP quarterly profit beats expectations at $3.2 billion, driven by Iran war trading boon  Reuters",
@@ -398,29 +587,6 @@
         "Oil price volatility risk",
         "Geopolitical risk in the Middle East",
         "Dependence on Iran war-related trading activities"
-      ]
-    }
-  },
-  {
-    "id": "7863566",
-    "headline": "Idemitsu Maru tanker carrying Saudi oil seeks to cross Strait of Hormuz - Reuters",
-    "summary": "Idemitsu Maru tanker carrying Saudi oil seeks to cross Strait of Hormuz  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbTlTbDZzNWptOVZ4REdQQmx4ZDZEbVNNT1locUNPM2ppcmFwbmhYZEZmNV9iMFo1S1Fsejl1SVc5V2dOR2JYaklfcWFrdzFqc3Z6blVxdDNobmZnNlFaeVpocmQ3NzZlZGdGbkMzMzg1RWtxSE5xeDhoWXlTUFJIN19FVlV1QWhKWElZajBVeTgtZ21TOUFaWk96Z1lfMlhfZnU4UmNXMnNycDFLRVJoMFZDcWxEODd4RXByTjFPRGg3VW1OQ1U4Yg?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1777373748,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1777389312,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Idemitsu Maru, a tanker carrying Saudi oil, is attempting to cross the Strait of Hormuz. The Strait is a critical waterway for global oil trade, with over 20% of the world's oil passing through it. The incident highlights the ongoing tensions in the region, particularly between the US and Iran. The Strait's importance to global oil supply and the potential for disruptions to oil exports could impact oil prices and related industries. The news does not directly mention any specific company or stock, but it may affect the overall oil market and related stocks.",
-      "impact": "The news may lead to increased volatility in the oil market, potentially driving up oil prices in the short term. This could positively impact oil producers and related companies, such as those in the energy sector, in the short term. However, the medium-term impact is uncertain, as the situation in the Strait of Hormuz is unpredictable and may lead to supply chain disruptions or price volatility. The news may also increase investor caution, leading to a short-term decrease in oil-related stock prices.",
-      "risks": [
-        "Supply chain disruptions risk",
-        "Price volatility risk",
-        "Investor caution risk"
       ]
     }
   },
@@ -446,6 +612,16 @@
         "Reduced profit margins risk"
       ]
     }
+  },
+  {
+    "id": "7864740",
+    "headline": "Iran eases internet curbs for businesses as blackout enters third month - Reuters",
+    "summary": "Iran eases internet curbs for businesses as blackout enters third month  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVDNBbVpFdXk4cG43aVBZZmdPSEJKQzR0MkpobzVSR1JQT0t2enlDcHgyNUpxQkxXMXc4YmZIWmFkOF9vX1JIaVBTRG9rTFBRd3VNZlB0WXZ3ZnRqVVlzaDlUY2s1NXhkLS16NGpYbFVidUxPb1B3Sk1TZWx1a3ZfakRkbFUzM1lDcTJGb3FQbDVCd2k0QmhxZFpOTmZxZVRaSy01SlZSbENwVFZfelM3dEdnTkNBMlItODhMT1Myd0cxODJ1TWhPdUhn?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1777372468
   },
   {
     "id": "7862975",
@@ -710,39 +886,6 @@
     "publishedAt": 1777339200
   },
   {
-    "id": "7862562",
-    "headline": "Oil prices rise with eyes on UAE, AI concerns weigh on stocks - Reuters",
-    "summary": "Oil prices rise with eyes on UAE, AI concerns weigh on stocks  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeWRhN2c0RU1tV2otcDBmWHdiTXVGZ19LVDFnTmJVUHI5TTBiRkJQaXQ3OUNGLVJQNDl0bVJtTmNmVWlMQ0UwVnNidVp6OG9zWDJLNGwxVUJ1M21oNG1OWDV6bFk1eDQxbUxMemxfRk5JMTcxMHNSVUxBV3V0NDVvckVuel8?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1777338540
-  },
-  {
-    "id": "7861097",
-    "headline": "Oil pares gains but stays firm as Middle East risks outweigh UAE move - Reuters",
-    "summary": "Oil pares gains but stays firm as Middle East risks outweigh UAE move  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSWdEcWtxT1pxaGxwMmc3bHE1elRLZlNOZHlvNWQtWG94NTZ0RzB3STJ3NmQxT0ZMUVhKYWYwWVZjbGhyMkdLaDZ1VEZHT3ZGdTB6cTFXdlV3MzRUT0s0N0JFZV9OUk9sRGNiS2NNeDlGa1czbGgxeGhhOV9BT09qcURMcDNRb3Q2SnE4Y1NSU2JzOXNyX0Q4eFl4My1SNVU1NWJITm43aUc?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1777338120,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1777352697,
-      "sentiment": "neutral",
-      "confidence": 0.5,
-      "summary": "The ongoing Iran war stand-off has led to a rise in oil prices, with no end to the conflict in sight. The situation has been escalating, with both sides exchanging blows, and the international community struggling to find a resolution. This has resulted in increased tensions in the Middle East, a key oil-producing region. As a result, oil prices have risen, which could have a positive impact on oil-producing companies' earnings. The situation is complex, with multiple parties involved and various interests at play.",
-      "impact": "The rise in oil prices could have a positive impact on oil-producing companies' earnings, potentially leading to higher revenue and profitability in the short-term. However, the medium-term impact is uncertain, as the ongoing conflict could lead to increased volatility in the oil market. Oil-producing companies with significant exposure to the Middle East, such as ExxonMobil (XOM) and Chevron (CVX), may benefit from the higher oil prices, while companies with significant exposure to the global economy, such as airlines and transportation companies, may be negatively impacted by the rising oil prices.",
-      "risks": [
-        "Escalation of the conflict leading to a further increase in oil prices and volatility",
-        "Impact on global economic growth due to higher oil prices",
-        "Uncertainty around the duration and outcome of the conflict"
-      ]
-    }
-  },
-  {
     "id": "7860991",
     "headline": "Trump unhappy with Iranian proposal, US official says - Reuters",
     "summary": "Trump unhappy with Iranian proposal, US official says  Reuters",
@@ -831,6 +974,29 @@
         "geopolitical risk",
         "oil price volatility",
         "economic instability"
+      ]
+    }
+  },
+  {
+    "id": "7856757",
+    "headline": "US reviews latest Iranian proposal to end war stalemate - Reuters",
+    "summary": "US reviews latest Iranian proposal to end war stalemate  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSDRna1VZUzc4VC10UGRDU01UVWFRWlV0TmdxXzJuT1hPd0ZXeVpUbUo0Nmd4b0JsVHNTQnoyU1YtY0NISUdRMXREYWdYdzBETDBibjR6Z05vN1NjSWkyeVo2QkJBTEhuZFlxaUpuYm9vVTJlOU9xT195bzg2VDRIRTItdHk3MHV3eU9OQ1BadlFfdmRCenI4aGhlT2duVmVYVmVya3cyUVMwUF81SUNTbHRFTEZOWDFnTXlQUnJn?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1777328496,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1777275004,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Iranian Foreign Minister Javad Zarif is traveling to Russia for a visit, and US President Donald Trump has invited Iran to call the US to negotiate. The development comes amid ongoing tensions between the US and Iran. The visit is seen as a potential step towards de-escalation of tensions, but the outcome is uncertain. The situation remains volatile, with both sides maintaining a hardline stance. The US has imposed sanctions on Iran, which has led to a decline in Iranian oil exports and economic growth.",
+      "impact": "The news may have a neutral impact on oil prices in the short term, as it could potentially lead to a decrease in tensions and a subsequent increase in oil exports from Iran. However, the US sanctions on Iran remain in place, which could limit the impact of any potential deal. In the medium term, a negotiated deal could lead to an increase in oil production and exports from Iran, which could put downward pressure on oil prices. This could be a negative for oil majors such as ExxonMobil (XOM) and Chevron (CVX).",
+      "risks": [
+        "sanctions risk",
+        "tensions escalation risk",
+        "economic instability risk"
       ]
     }
   },
@@ -1816,29 +1982,6 @@
     "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
     "relatedSymbols": [],
     "publishedAt": 1777265103
-  },
-  {
-    "id": "7856757",
-    "headline": "US reviews latest Iranian proposal to end war stalemate - Reuters",
-    "summary": "US reviews latest Iranian proposal to end war stalemate  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSDRna1VZUzc4VC10UGRDU01UVWFRWlV0TmdxXzJuT1hPd0ZXeVpUbUo0Nmd4b0JsVHNTQnoyU1YtY0NISUdRMXREYWdYdzBETDBibjR6Z05vN1NjSWkyeVo2QkJBTEhuZFlxaUpuYm9vVTJlOU9xT195bzg2VDRIRTItdHk3MHV3eU9OQ1BadlFfdmRCenI4aGhlT2duVmVYVmVya3cyUVMwUF81SUNTbHRFTEZOWDFnTXlQUnJn?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1777264500,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1777275004,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Iranian Foreign Minister Javad Zarif is traveling to Russia for a visit, and US President Donald Trump has invited Iran to call the US to negotiate. The development comes amid ongoing tensions between the US and Iran. The visit is seen as a potential step towards de-escalation of tensions, but the outcome is uncertain. The situation remains volatile, with both sides maintaining a hardline stance. The US has imposed sanctions on Iran, which has led to a decline in Iranian oil exports and economic growth.",
-      "impact": "The news may have a neutral impact on oil prices in the short term, as it could potentially lead to a decrease in tensions and a subsequent increase in oil exports from Iran. However, the US sanctions on Iran remain in place, which could limit the impact of any potential deal. In the medium term, a negotiated deal could lead to an increase in oil production and exports from Iran, which could put downward pressure on oil prices. This could be a negative for oil majors such as ExxonMobil (XOM) and Chevron (CVX).",
-      "risks": [
-        "sanctions risk",
-        "tensions escalation risk",
-        "economic instability risk"
-      ]
-    }
   },
   {
     "id": "7856960",
@@ -22330,187 +22473,6 @@
         "decline in passenger demand",
         "increased fuel costs",
         "operational disruption risk"
-      ]
-    }
-  },
-  {
-    "id": "7758907",
-    "headline": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
-    "summary": "Hopes are fading for an agreement ahead of President Donald Trump's evening deadline for Iran to reopen the Strait of Hormuz.",
-    "url": "https://www.cnbc.com/2026/04/07/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108229617-1763686216721-Ironwood_board.jpg?v=1763691454&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1775566260,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1775577766,
-      "sentiment": "neutral",
-      "confidence": 0.8,
-      "summary": "The market is cautious ahead of President Trump's deadline for Iran to reopen the Strait of Hormuz, potentially leading to a lower open for the S&P 500. In the tech sector, Broadcom is gaining momentum with deals with Google and Anthropic, while Intel's CEO is seen as a positive factor for the company. Morgan Stanley downgraded Arm to hold, citing execution risks and memory supply constraints. Meanwhile, US lawmakers are considering trade curbs on ASML, a Dutch semiconductor equipment provider. Wells Fargo initiated coverage of Reddit with a hold rating and price target, while JPMorgan trimmed price targets on bank stocks ahead of Q1 earnings season.",
-      "impact": "The Strait of Hormuz situation may lead to a short-term market volatility, potentially affecting the overall market sentiment and liquidity. Broadcom's deals with Google and Anthropic could boost its stock price in the medium term, driven by increased demand for its chips. Intel's CEO and Wells Fargo's positive outlook on the company's server CPU and execution may also contribute to its stock price growth. However, Arm's downgrade and potential trade curbs on ASML may weigh on their respective stocks.",
-      "risks": [
-        "Iran Strait of Hormuz situation risk",
-        "Trade curbs on ASML risk",
-        "Arm's execution and memory supply constraints risk",
-        "Bank stocks' earnings outlook uncertainty"
-      ]
-    }
-  },
-  {
-    "id": "7758675",
-    "headline": "Delta raises checked bag fees $10 amid jet fuel price surge, joining other carriers",
-    "summary": "Delta is joining United and JetBlue in raising checked bag fees.",
-    "url": "https://www.cnbc.com/2026/04/07/delta-checked-bag-fees.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108286764-1775145809651-gettyimages-2265481115-260307_lax_183.jpeg?v=1775145864&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1775565696,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1775577817,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "Delta Air Lines has raised its checked bag fees by $10, following United Airlines and JetBlue Airways in increasing prices due to a surge in jet fuel costs. The price hike is part of Delta's ongoing review of pricing across its business, driven by evolving global conditions and industry dynamics. Jet fuel prices have increased by nearly 88% since the US and Israel attacked Iran, affecting global crude and refined fuel supplies. This development is significant as airlines' biggest expense after labor is fuel, and it's unclear if carriers can cover the entirety of the fuel price run-up.",
-      "impact": "The price hike is likely to have a short-term negative impact on Delta's earnings, as investors will scrutinize the company's ability to cover the surge in fuel costs. This may lead to a decline in the stock price, especially if Delta's Q1 results do not meet expectations. The medium-term impact will depend on how well Delta and other airlines can manage their fuel expenses and maintain strong demand, which is currently a salve for high fuel prices. The industry's ability to pass on fuel costs to consumers through price hikes will be closely watched.",
-      "risks": [
-        "fuel price volatility risk",
-        "earnings miss risk",
-        "industry-wide price war risk"
-      ]
-    }
-  },
-  {
-    "id": "7758463",
-    "headline": "US strikes military targets on Iran's Kharg Island, US official says - Reuters",
-    "summary": "US strikes military targets on Iran's Kharg Island, US official says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOGRwY2dBZmxXZklNdEYtNlIwU1NnSFc0a05RbkxIQWppT0pPaVFQQWgwRjdKRmhpMTNTMEdkZWFfbWVzUXg2b0tZdnppVHRBekVOeGtIajRud2JrQ3Jwdi1HV0xuNDNVUzZ2N21rSGVXeENGY256ZjdkYjNRVlIxbTJzbnVOTlZIYkZVV0VPOFFUUHZhVzJkT3VKQnNnbF8tQlVfSjcwZkhMc21XRUxGMk5mTVJGUnV5?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1775564655,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1775577864,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "The US has launched a military strike on Iran's Kharg Island, a key oil terminal, according to a US official. This development comes amid heightened tensions between the US and Iran. Kharg Island is a critical location for Iran's oil exports, with the majority of its crude oil being shipped through the island. The strike may disrupt oil production and exports, potentially affecting global oil prices. This escalation in tensions between the US and Iran could lead to increased volatility in the energy sector.",
-      "impact": "The potential strike on Kharg Island could lead to short-term volatility in oil prices, benefiting energy companies that are net oil importers such as airlines, trucking companies, and other transportation firms. In the medium term, a prolonged conflict could impact the earnings outlook for oil majors such as ExxonMobil (XOM) and Chevron (CVX), as well as other companies with significant exposure to the Middle East. The strike may also increase investor risk aversion, leading to a flight to safe-haven assets such as US Treasury bonds.",
-      "risks": [
-        "Oil price volatility risk",
-        "Escalation of conflict risk",
-        "Global economic downturn risk"
-      ]
-    }
-  },
-  {
-    "id": "7758694",
-    "headline": "Trump says 'a whole civilization will die tonight' if Iran does not make a deal - reuters.com",
-    "summary": "Trump says 'a whole civilization will die tonight' if Iran does not make a deal  reuters.com",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObFJFWDhZTXY4bWtFeEljbWw5OEV0cTY3VG1CSjExY2s3c0FYWm4wYkwzdjRwSUVZZHhuZGVXTEFJdlIyRWczajhtSmdwX1pNRFh0SjN3TTNWTTJIX1cwMTRmaHpBTms5LXhBTXRkZ0ZBSGs0Q2hfTDJCZng4MjZNSW9yUVQ2X2pmZUpmbTNabkVQZzg4RElRcG45d05qcXhMRGxQZFdSWkpvR3E0S1RyUlZLdlM5Q1dndkdYUkFvMHlEY2lCX3NpQw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1775564385,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1775581579,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "US-Iran tensions have escalated as President Trump warned that 'a whole civilization will die tonight' if Iran fails to make a deal. This statement is a reflection of the heightened military and diplomatic tensions between the two nations. The background of this situation is the ongoing dispute over Iran's nuclear program and the US's withdrawal from the Joint Comprehensive Plan of Action (JCPOA). The logical chain from this news to the business fundamentals is that increased tensions could lead to a disruption in global oil supplies, which could have a negative impact on energy companies and the broader economy.",
-      "impact": "The potential impact of this news on related stocks could be significant, particularly for energy companies such as ExxonMobil (XOM) and Chevron (CVX), which could see a short-term increase in oil prices due to concerns over supply disruptions. In the medium term, a prolonged conflict could lead to a slowdown in global economic growth, negatively impacting companies with exposure to the Middle East region, such as Boeing (BA) and Caterpillar (CAT).",
-      "risks": []
-    }
-  },
-  {
-    "id": "7758565",
-    "headline": "House Democrats call on federal regulator to crack down on offshore prediction market war bets",
-    "summary": "Prediction markets like Kalshi and Polymarket have exploded in popularity recently, raising questions about how to properly regulate the platforms.",
-    "url": "https://www.cnbc.com/2026/04/07/kalshi-polymarket-prediction-markets-cftc-war-bets.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/105863287-1555931795602gettyimages-1061945244.jpeg?v=1566566009&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1775563201,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1775565936,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "A group of House Democrats has written to the Commodity Futures Trading Commission (CFTC) expressing concerns about the lack of regulation on offshore prediction markets, specifically regarding bets on war and government actions. The letter highlights recent instances of alleged insider trading on platforms like Kalshi and Polymarket, which have drawn the ire of lawmakers. The CFTC has the authority to regulate these markets, but has not taken public action. The Democrats are questioning the agency's role in policing insider trading and its ability to regulate offshore trades.",
-      "impact": "The potential impact on the related stocks is bearish in the short-term, as the news could lead to increased regulatory scrutiny and potential restrictions on prediction markets. This could negatively affect companies like Kalshi and Polymarket, which operate in this space. The medium-term impact is uncertain, but the increased regulatory focus could lead to a re-evaluation of the industry's business model and potential changes to the way these markets operate.",
-      "risks": [
-        "Regulatory risk: increased scrutiny and potential restrictions on prediction markets",
-        "Operational risk: potential changes to business model and operations",
-        "Reputational risk: negative publicity and potential damage to brand reputation"
-      ]
-    }
-  },
-  {
-    "id": "7758357",
-    "headline": "Novo Nordisk's explosive Wegovy pill launch draws a new wave of patients into GLP-1 weight loss treatment",
-    "summary": "CNBC spoke with five U.S. patients who recently started the pill following its launch and have varying initial experiences with the drug.",
-    "url": "https://www.cnbc.com/2026/04/07/novo-nordisks-wegovy-pill-launch-draws-new-wave-of-patients-to-glp-1s.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108253254-1768511651522-gettyimages-2255813461-WEGOVY_PILLS.jpeg?v=1775151970&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1775559601,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1775561998,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Novo Nordisk's Wegovy pill has seen an explosive demand with over 600,000 prescriptions written since its launch, largely drawing in new patients who were previously deterred by GLP-1 injections due to cost or needle phobia. This represents a significant expansion of the obesity treatment market, with patients like Jane Zuckerman losing weight and reporting positive experiences with the pill. The launch has not yet boosted Novo's stock price, however, as the company struggles to regain market share from Eli Lilly and convince investors of its pipeline potential. Analysts attribute the pill's success to its attractive entry price and connection to the well-known Wegovy brand.",
-      "impact": "The explosive demand for Wegovy is likely to have a positive impact on Novo Nordisk's revenue and earnings in the short term, driven by the high number of prescriptions written. However, the company's stock price has not yet reacted positively to this news, suggesting that investors are cautious about Novo's ability to sustain its market share and expand its pipeline. The launch of Eli Lilly's competing pill, Foundayo, could potentially disrupt Novo's sales in the medium term.",
-      "risks": [
-        "regulatory approval risk for Eli Lilly's Foundayo",
-        "market share erosion risk from Eli Lilly's entry",
-        "pipeline risk: Novo's ability to sustain growth beyond existing products"
-      ]
-    }
-  },
-  {
-    "id": "7758806",
-    "headline": "Artemis, Iran deadline and Kanye West - reuters.com",
-    "summary": "Artemis, Iran deadline and Kanye West  reuters.com",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMzFvUGJ6VUVzR2pWZHN2Y094NjhoM2VqWDhWMXV5eXhBeXpjcE54dS1ZRk4yUXFwXy1feDFoTGpyUGZETUZia0pjcnVldFdVSmlXRWVrVUpnMGptclZKU1lrMUR4ZGMyVXhBQURPS0F1dlVLODBmRk9MMkFud0x2eER2RQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1775558923,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1775587389,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The article discusses a mysterious connection between a US-based company Artemis, an Iran deadline, and Kanye West. The article does not provide clear details on how these entities are related, but it hints at a potential business deal or partnership. The background suggests that Artemis is a company involved in the space industry, and the Iran deadline might be related to a business opportunity or challenge in the region. The article does not provide any concrete information on the business fundamentals or industry context, but it suggests a potential connection between the space industry, business deals, and celebrity involvement. The lack of clarity and specificity makes it difficult to draw a clear logical chain from the news to the business fundamentals or industry context.",
-      "impact": "The potential impact of this news on related stocks is unclear, but it could lead to increased interest and speculation in the space industry. This might drive short-term gains for companies involved in the space industry, such as satellite manufacturers or launch services providers. However, the lack of concrete details and the involvement of a celebrity like Kanye West might also lead to skepticism and decreased interest in the space industry, potentially weighing on stock prices. The medium-term impact will depend on the actual business deal or partnership that emerges from this news.",
-      "risks": [
-        "speculation risk",
-        "skepticism risk",
-        "lack of concrete details risk"
-      ]
-    }
-  },
-  {
-    "id": "7758807",
-    "headline": "Some firms in Saudi extend work from home ahead of Iran ultimatum - reuters.com",
-    "summary": "Some firms in Saudi extend work from home ahead of Iran ultimatum  reuters.com",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNU1pTLUl6bVdrRkN2aHVkZ041YTBDZmt2WndHT21pbHhidVozMXZuR0NTYTQtQjRwM3VkQ3V0ZEZGQVFZcEpaNnhOZ0RkYjNDRWZXOXRtd2hCeGthckx6WndEQ1JveGZHTHZsMXQ4NVNpeGpxdTlxS2VzMkZNT2g5bTh4b0ZmdGkzT2Y3NnNCWXV4TjNtci1WUjEtZ2o0bVVoSGhwYWg2Y1hqcVRsMDd1TTdoVQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1775558025,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1775593857,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Some firms in Saudi Arabia are extending work-from-home policies in anticipation of potential unrest following an Iranian ultimatum. The ultimatum, issued by Iran, has sparked concerns about regional stability. This development is a precautionary measure to ensure business continuity. The Saudi firms are taking proactive steps to mitigate potential risks. The news is largely a domestic issue, but it may have some indirect implications for the Saudi economy and related stocks.",
-      "impact": "The news is unlikely to have a significant impact on the Saudi stock market in the short term. However, if the situation escalates, it could lead to increased volatility and a potential decline in investor sentiment, affecting stocks with high exposure to Saudi Arabia. The medium-term impact will depend on the outcome of the ultimatum and the response of the Saudi government. This could influence the earnings outlook and valuation of companies with significant operations in the region.",
-      "risks": [
-        "Regional instability risk",
-        "Increased volatility risk",
-        "Decline in investor sentiment risk"
       ]
     }
   }
