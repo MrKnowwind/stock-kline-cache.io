@@ -1,5 +1,61 @@
 [
   {
+    "id": "7869981",
+    "headline": "Iranian FIFA Congress delegation claims 'inappropriate behavior' at Toronto airport - Reuters",
+    "summary": "Iranian FIFA Congress delegation claims 'inappropriate behavior' at Toronto airport  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZ3VSeUtPcnhDNGxTakFYc3g3WWp2YWptcjJRdE1JUnhOUF90czJqa2d6Y28wNTBxdnk3LU5DWk5Ibi1HbFdXazBjcUlFNmlwYTNBRDUyTEpyY0IySEp3WmQ1QkFZYUJWZFFVYU9WTzlzOHdPS3lIQmQzT2NmaEJSbzBoQlNicUYwRVZJdFlReTBNRjE4RjNlTFduXzFnZnhTb2RTdGtfZUdGZVRMdTBBcWJ6NGF3cFFubVF3eFduSWU2WlUy?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1777496822
+  },
+  {
+    "id": "7869104",
+    "headline": "US war in Iran has cost $25 billion so far, says Pentagon official - Reuters",
+    "summary": "US war in Iran has cost $25 billion so far, says Pentagon official  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM0pxNmpQTG80bzB6MDFrTi1IcHBXZEZEc2hoNEc5bTZ2cFllZ3ExcWZYSzVaVGJmbGVra0plRDFVdlUxX0VDM0hxSGdiTzE1M3hXaXg4allzazM4SllWUkU3RDBBZVg4YTRaRzZLVkhqS3VlSE50blp1UVpOdGt1VWNzVmpseGtmdXY5SFJxLWJBcWZpWFllMGJ1dVpJUmtQbVJXVF9ndFNVc2VENmk3ZjRkbUpJQQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1777496331,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1777482701,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The article reports that the U.S. war in Iran has cost $25 billion so far, according to a Pentagon official. This news is a reminder of the ongoing conflict and its potential long-term implications. The war has been ongoing since January 2020, with a significant escalation in January 2022. The cost of the war is likely to have a negative impact on the U.S. economy and defense spending. The article highlights the ongoing conflict and its potential costs, which could lead to a reevaluation of defense spending and its impact on the broader economy.",
+      "impact": "The potential impact of this news on the defense industry is significant. Companies such as Lockheed Martin (LMT) and Boeing (BA) may see a decrease in demand for their defense products and services due to reduced defense spending. Additionally, the ongoing conflict in Iran may lead to a decrease in investor sentiment and a decline in stock prices for defense-related companies. The medium-term impact may be a decrease in earnings outlook for these companies, as well as a reevaluation of their valuation multiples.",
+      "risks": [
+        "reduced defense spending risk",
+        "decrease in investor sentiment risk",
+        "earnings outlook risk"
+      ]
+    }
+  },
+  {
+    "id": "7870199",
+    "headline": "Amazon's cloud unit reports 28% sales growth, topping estimates",
+    "summary": "Amazon Web Services now accounts for over 20% of its parent company's total revenue.",
+    "url": "https://www.cnbc.com/2026/04/29/aws-earnings-q1-2026.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108298892-17774389372025-12-05t144936z_254473113_rc279iahprbv_rtrmadp_0_aws-conference.jpeg?v=1777438995&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1777495880,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1777499116,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Amazon Web Services (AWS) reported 28% revenue growth in Q1, beating estimates and solidifying its position as the leader in cloud infrastructure. AWS now accounts for over 20% of Amazon's total revenue, with its operating income increasing 23% to $14.16 billion. The company is investing heavily in AI, partnering with OpenAI and Anthropic, and expanding its cloud services. This growth and investment are driven by the increasing demand for cloud computing and AI services.",
+      "impact": "The strong earnings from AWS are likely to boost Amazon's stock price in the short term, as investors react positively to the company's growth and investment in AI. The increased competition from Microsoft Azure and Google Cloud may put pressure on AWS's market share, but the company's strong growth and investment in AI suggest it is well-positioned to maintain its leadership. The partnership with OpenAI and Anthropic could lead to new revenue streams and further growth for AWS in the medium term.",
+      "risks": [
+        "increased competition from Microsoft Azure and Google Cloud",
+        "integration risk with OpenAI and Anthropic",
+        "AI adoption slowdown risk"
+      ]
+    }
+  },
+  {
     "id": "7867993",
     "headline": "Trump holds talks on prolonged Iran blockade, urges Tehran to reach a deal - Reuters",
     "summary": "Trump holds talks on prolonged Iran blockade, urges Tehran to reach a deal  Reuters",
@@ -42,29 +98,6 @@
         "Potential for a more hawkish Fed tone in the future",
         "Uncertainty around the timing and terms of the Boeing-China deal",
         "Risk of a slowdown in AI demand trends"
-      ]
-    }
-  },
-  {
-    "id": "7869104",
-    "headline": "US war in Iran has cost $25 billion so far, says Pentagon official - Reuters",
-    "summary": "US war in Iran has cost $25 billion so far, says Pentagon official  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM0pxNmpQTG80bzB6MDFrTi1IcHBXZEZEc2hoNEc5bTZ2cFllZ3ExcWZYSzVaVGJmbGVra0plRDFVdlUxX0VDM0hxSGdiTzE1M3hXaXg4allzazM4SllWUkU3RDBBZVg4YTRaRzZLVkhqS3VlSE50blp1UVpOdGt1VWNzVmpseGtmdXY5SFJxLWJBcWZpWFllMGJ1dVpJUmtQbVJXVF9ndFNVc2VENmk3ZjRkbUpJQQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1777487349,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1777482701,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The article reports that the U.S. war in Iran has cost $25 billion so far, according to a Pentagon official. This news is a reminder of the ongoing conflict and its potential long-term implications. The war has been ongoing since January 2020, with a significant escalation in January 2022. The cost of the war is likely to have a negative impact on the U.S. economy and defense spending. The article highlights the ongoing conflict and its potential costs, which could lead to a reevaluation of defense spending and its impact on the broader economy.",
-      "impact": "The potential impact of this news on the defense industry is significant. Companies such as Lockheed Martin (LMT) and Boeing (BA) may see a decrease in demand for their defense products and services due to reduced defense spending. Additionally, the ongoing conflict in Iran may lead to a decrease in investor sentiment and a decline in stock prices for defense-related companies. The medium-term impact may be a decrease in earnings outlook for these companies, as well as a reevaluation of their valuation multiples.",
-      "risks": [
-        "reduced defense spending risk",
-        "decrease in investor sentiment risk",
-        "earnings outlook risk"
       ]
     }
   },
@@ -412,6 +445,29 @@
     }
   },
   {
+    "id": "7869982",
+    "headline": "Inside Ukraine's drive to defeat the dreaded Shahed drone - Reuters",
+    "summary": "Inside Ukraine's drive to defeat the dreaded Shahed drone  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOUlQUVpFN3dsRUZJUFdJWWdHYXk4X2xmaUF3SE1BUE5fbWNBWTdDaW5teTN4YkI0allpWDBsUjJpNU5CbkFDaXIxOHBEMG1ybzFXUE9nYXNvMnRHYXJlTG9sR3dDVDlBeTNYSUNid2VSUktQWnNmbXpVVTVmUHNUNjVZMWVDRUhGOW53UGtBT05pSm5wVWVQNmhzM0pheEN6TUFBcFVRellwS3RuLXhLelpn?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1777439040,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1777499162,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Ukraine's efforts to counter the Shahed drone, a drone used by Russia to attack Ukraine, are gaining momentum. The Ukrainian military has developed a new system to detect and destroy the drones, and the US has provided significant funding to support the development of anti-drone technology. This development is a positive signal for the defense industry, particularly for companies involved in drone technology and counter-drone systems. The increased demand for defense technology due to the ongoing conflict in Ukraine is likely to drive growth for these companies.",
+      "impact": "The news is likely to have a positive impact on defense stocks, particularly those involved in drone technology and counter-drone systems. Companies such as Lockheed Martin (LMT) and Northrop Grumman (NOC) may benefit from the increased demand for defense technology. The news may also lead to a short-term increase in the stock prices of these companies as investors become more optimistic about their earnings outlook.",
+      "risks": [
+        "geopolitical risk",
+        "supply chain disruption risk",
+        "technological risk"
+      ]
+    }
+  },
+  {
     "id": "7867661",
     "headline": "Breakingviews - Iran crisis makes green jet fuel interesting again - Reuters",
     "summary": "Breakingviews - Iran crisis makes green jet fuel interesting again  Reuters",
@@ -482,8 +538,8 @@
   },
   {
     "id": "7866295",
-    "headline": "Oil prices jump to the highest in weeks as global supply worries mount - Reuters",
-    "summary": "Oil prices jump to the highest in weeks as global supply worries mount  Reuters",
+    "headline": "Oil prices settle at multi-week highs as global supply worries mount - Reuters",
+    "summary": "Oil prices settle at multi-week highs as global supply worries mount  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQXlrVUs5UEQxV1pTNkRzOTBVdWtaSW1ONTlkQmRmUHdld1BpVnlzWnRhYXZzeHRCXzhPTHpWTmpvbGN6dDlYaTd0WTBfMUZ0U1ZQX3g2M3ptbFNFUGhtQ3Q0NHg4SnFOeVozeTNQSXJ6dTFiZlkyd3ZhTmpzZDU2X2xjYWFrMDdkenJNbTNaQl9fVHliclZjazYxLVFLY2VEc3A0UC1mLTlzcl9LdW1IT3h6bko1b19aNzNkWVBwUzhQdw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -528,8 +584,8 @@
   },
   {
     "id": "7866817",
-    "headline": "Gold extends decline as inflation worries linger, Fed meeting looms - Reuters",
-    "summary": "Gold extends decline as inflation worries linger, Fed meeting looms  Reuters",
+    "headline": "Gold extends fall after US Fed keeps rate unchanged - Reuters",
+    "summary": "Gold extends fall after US Fed keeps rate unchanged  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa28tUzNNX3Jya0JvSlVmOXFUMXc1dk01a210RUFFSFE5OGNmQm1hdnJYUF9ldkxyTFJxbFFzQl80X051RkVZWFotX3NMWlk4WmdrYUtxUWRFRU52OUlUbEZZYXl2VHNzVFBhaFdfbXh1MUdpeVRzQ1plZ1lwbklyRkVzVTBKNkM4Z3RQQV9WLUY0eUwwNUpYeFBCU1hwVGdrVnYxOFpzYV9mdw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -22654,75 +22710,6 @@
         "Escalation of military conflict risk",
         "Oil price volatility risk",
         "Global economic downturn risk"
-      ]
-    }
-  },
-  {
-    "id": "7761264",
-    "headline": "Investor reactions to Trump agreeing to two-week ceasefire with Iran - Reuters",
-    "summary": "Investor reactions to Trump agreeing to two-week ceasefire with Iran  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV1Q3b1d4ME5IYjNsNTZCMW9sMTdPbWVsQk0tNXNSWUlRTU9UR0w4NmY4N1lGUDc4VVFHWVh2Mlg0M3RCUWFpNnhySkRiQlZmZFlaR1JQSjhLbjVyRDZXVVJoMjJPZTl1NDNYZXNvMktlVkRvZDJINEowQ3dVTlYtMndPQUotX1VEVERxeTRmamtZd3ZCTkstNno4b283bzV4Q1k2dDFJTQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1775605080,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1775622365,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "US President Trump has agreed to a two-week ceasefire with Iran, marking a significant development in the ongoing conflict between the two nations. The ceasefire is set to begin on Saturday and is seen as a positive step towards de-escalation. The agreement comes after weeks of tensions between the US and Iran, which have been fueled by the US's withdrawal from the Iran nuclear deal. The ceasefire is expected to have a positive impact on the global oil market, as it reduces the risk of a conflict that could disrupt oil supplies.",
-      "impact": "The ceasefire is likely to have a positive impact on oil prices, which could benefit oil producers such as ExxonMobil (XOM) and Chevron (CVX). In the short-term, the agreement may lead to a decrease in oil prices, which could be negative for energy stocks. However, in the medium-term, the reduced risk of conflict could lead to increased investor confidence and a boost to the overall market. This could have a positive impact on the overall market, particularly for companies with exposure to the Middle East region.",
-      "risks": [
-        "Potential for the ceasefire to be short-lived or broken",
-        "Uncertainty around the long-term implications of the agreement",
-        "Risk of increased tensions with other countries in the region"
-      ]
-    }
-  },
-  {
-    "id": "7758930",
-    "headline": "Wall Street closes mixed, with signs of progress as Trump's Iran deadline draws near - Reuters",
-    "summary": "Wall Street closes mixed, with signs of progress as Trump's Iran deadline draws near  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUndxdEZZYkw0UTcxeDlIdDFmU29YYVRRRFRxWG83Y3M5bmtYQUI1d1VYNXFYdGZfYjFhcHhiZXpYSElWcTJrazFUTi1YQVB0WUdnYm5xbkx0aUREV25zRDFfaVJHYXppbnpoTzRTclJjd3U5SzBVN2dqemVvX1VpWF9jQlVIamVzdmt3Yi1GYnB0WU02Nm9EQUMwbzJXWTE3TXRrcjBGQnBNcjlaUTJZ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1775604933,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1775571428,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "The US stock market opened lower ahead of the deadline set by US President Trump for Iran to comply with nuclear deal demands. The deadline, which marks the end of a 60-day period, is seen as a key test of the fragile nuclear deal. The market's reaction is likely driven by the uncertainty surrounding the outcome of the deadline, which could lead to increased tensions in the region and potentially disrupt global oil supplies. The situation is further complicated by the ongoing trade tensions between the US and Iran.",
-      "impact": "The potential impact on the market is likely to be short-term, with a possible increase in volatility and a decline in investor sentiment. Oil-related stocks, such as those in the energy sector, may be particularly affected, as a disruption in oil supplies could lead to higher prices. The medium-term impact could be a re-evaluation of the earnings outlook for companies with significant exposure to the Middle East region. This could lead to a decline in stock prices for these companies.",
-      "risks": [
-        "Increased geopolitical tensions",
-        "Disruption in global oil supplies",
-        "Uncertainty surrounding the outcome of the deadline"
-      ]
-    }
-  },
-  {
-    "id": "7762298",
-    "headline": "Oil tumbles below $100 after Trump announces two-week ceasefire - Reuters",
-    "summary": "Oil tumbles below $100 after Trump announces two-week ceasefire  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb0ljU3NuME91S2JiMTM0Yko5enY4cHBPbEFGNEktYXNqSnNPZ29FZDRMZFMzODVwU1hlNFVXcjBxZ0lBLW9OZmRnajNwektqUmt5TXNocXNEZlk2MmJVWkFWNVpPSTlxUGJQZHlEeER6YWdBMnVrT0pHOHkzbWUyR2hudHBjclRQWGVWVDF1eENzaEQ2R0JrTG5abi1pYkoyN21ZYkplcHJGSTdUV05LR3hGSWpwdWRBZTBwR1YwYlJtUnVzWTE0?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1775602860,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1775628890,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "US President Donald Trump announced a two-week ceasefire in the conflict between the US and Iran, leading to a decline in oil prices below $100 per barrel. The ceasefire is seen as a positive development for the global oil market, as it reduces the risk of a significant disruption to oil supplies. The news comes after a period of heightened tensions between the two countries, which had driven up oil prices in recent weeks. The decline in oil prices is likely to benefit oil producers and consumers alike, with a potential boost to economic growth and a reduction in inflation.",
-      "impact": "The decline in oil prices is likely to have a positive impact on oil producers such as ExxonMobil (XOM) and Chevron (CVX), as lower prices can increase demand for their products. In the short term, the decline in oil prices may also benefit airlines and other transportation companies, as lower fuel costs can reduce their operating expenses. However, the medium-term impact may be more nuanced, as lower oil prices can also reduce the incentive for OPEC to cut production, potentially leading to a surplus in the market.",
-      "risks": [
-        "Potential for OPEC to cut production in response to lower oil prices",
-        "Risk of a supply disruption if the ceasefire is not sustained",
-        "Uncertainty around the long-term impact on global economic growth"
       ]
     }
   }
