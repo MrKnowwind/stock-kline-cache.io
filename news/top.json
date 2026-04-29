@@ -7,7 +7,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1777496822
+    "publishedAt": 1777496822,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1777502397,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The Iranian FIFA Congress delegation has accused airport staff at Toronto airport of 'inappropriate behavior' during their recent visit. The delegation was in Toronto for a FIFA Congress meeting. The incident occurred at a time when Iran is facing increased international pressure over its human rights record and nuclear program. The delegation's claims are unlikely to have a direct impact on the global sports industry, but could potentially strain relations between Iran and Canada. The incident highlights the challenges faced by international delegations when traveling to Western countries.",
+      "impact": "The incident is unlikely to have a significant impact on the earnings outlook of sports-related companies, such as sports equipment manufacturers or sports media providers. However, it could lead to a short-term increase in geopolitical tensions between Iran and Canada, potentially affecting the sentiment of investors in companies with exposure to the Canadian market. In the medium term, the incident may lead to a re-evaluation of international travel policies and protocols for high-profile delegations.",
+      "risks": [
+        "geopolitical tensions risk",
+        "diplomatic relations risk",
+        "international travel disruption risk"
+      ]
+    }
   },
   {
     "id": "7869104",
@@ -561,8 +574,8 @@
   },
   {
     "id": "7866195",
-    "headline": "Oil rises, stocks dip with Iran, earnings and Fed in focus - Reuters",
-    "summary": "Oil rises, stocks dip with Iran, earnings and Fed in focus  Reuters",
+    "headline": "Oil soars, US stocks end muted on Iran worries with earnings, Fed in focus - Reuters",
+    "summary": "Oil soars, US stocks end muted on Iran worries with earnings, Fed in focus  Reuters",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9od0NpclZ4VU9xb3Q5Qm9fNFk3ejI5a3ZrWmlTMmpqb0lWT0g3ZExrdmh6MnlfZTRabkVXS1hENXlEakN6QVJFaE1COWk1N0xfdTV1d2EyUS1uTjlsUnV3SVdoTU00RWtidE1NRDFBOVhaY2JQVEJyQkRfZw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1444,29 +1457,6 @@
     }
   },
   {
-    "id": "7862240",
-    "headline": "Somalia's malnourished children hit hard by Iran war - Reuters",
-    "summary": "Somalia's malnourished children hit hard by Iran war  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcm5sVFNMX3NPek1ocFFFWHRCNWRtZTlxOFA2YnhkSklONVpoNEk5cGZla2NHUnR3MndYS194TkgwbTR6b0tUdWJ2clRiRU8tZERHT3RzR0JjMVZoZ294LVJRUXdJd0stRTVJMlZZMUJ1UC1oSkxQZVNSbHZSMkM5UGRsSmV2OFB0cXJGeWRfVUJfbVFXdnhWZ1hWaWM?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1777375791,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1777362984,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Somalia's malnourished children are being disproportionately affected by the ongoing Iran war, with the conflict exacerbating the country's humanitarian crisis. The war has led to a shortage of food and medicine, causing a significant increase in malnutrition rates among children. The situation is further complicated by the fact that many aid organizations are struggling to access affected areas due to security concerns. The humanitarian crisis in Somalia is expected to worsen in the coming months, with potential long-term consequences for the country's economic development. The conflict has also led to a rise in global food prices, which could impact food manufacturers and producers.",
-      "impact": "The news is unlikely to have a direct impact on the stock market in the short term, but it may lead to increased demand for humanitarian aid and food assistance in the medium term. This could benefit companies involved in the humanitarian aid industry, such as logistics and transportation companies. However, the conflict's impact on global food prices could negatively affect food manufacturers and producers, potentially leading to decreased earnings and lower stock prices. Additionally, the humanitarian crisis in Somalia may lead to increased geopolitical tensions, which could impact oil prices and the energy sector.",
-      "risks": [
-        "humanitarian aid demand risk",
-        "food price inflation risk",
-        "geopolitical tensions risk"
-      ]
-    }
-  },
-  {
     "id": "7867982",
     "headline": "Tech drags stocks lower as crude oil tops $110: Markets wrap",
     "summary": "Nasdaq 100 futures slipped 0.6%, with tech on the back foot after the Wall Street Journal reported that OpenAI recently failed to meet its goals for new users and sales",
@@ -1801,6 +1791,29 @@
         "valuation risk",
         "macroeconomic uncertainty risk",
         "sentiment-driven trading risk"
+      ]
+    }
+  },
+  {
+    "id": "7862240",
+    "headline": "Somalia's malnourished children hit hard by Iran war - Reuters",
+    "summary": "Somalia's malnourished children hit hard by Iran war  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcm5sVFNMX3NPek1ocFFFWHRCNWRtZTlxOFA2YnhkSklONVpoNEk5cGZla2NHUnR3MndYS194TkgwbTR6b0tUdWJ2clRiRU8tZERHT3RzR0JjMVZoZ294LVJRUXdJd0stRTVJMlZZMUJ1UC1oSkxQZVNSbHZSMkM5UGRsSmV2OFB0cXJGeWRfVUJfbVFXdnhWZ1hWaWM?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1777356180,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1777362984,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Somalia's malnourished children are being disproportionately affected by the ongoing Iran war, with the conflict exacerbating the country's humanitarian crisis. The war has led to a shortage of food and medicine, causing a significant increase in malnutrition rates among children. The situation is further complicated by the fact that many aid organizations are struggling to access affected areas due to security concerns. The humanitarian crisis in Somalia is expected to worsen in the coming months, with potential long-term consequences for the country's economic development. The conflict has also led to a rise in global food prices, which could impact food manufacturers and producers.",
+      "impact": "The news is unlikely to have a direct impact on the stock market in the short term, but it may lead to increased demand for humanitarian aid and food assistance in the medium term. This could benefit companies involved in the humanitarian aid industry, such as logistics and transportation companies. However, the conflict's impact on global food prices could negatively affect food manufacturers and producers, potentially leading to decreased earnings and lower stock prices. Additionally, the humanitarian crisis in Somalia may lead to increased geopolitical tensions, which could impact oil prices and the energy sector.",
+      "risks": [
+        "humanitarian aid demand risk",
+        "food price inflation risk",
+        "geopolitical tensions risk"
       ]
     }
   },
