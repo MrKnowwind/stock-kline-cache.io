@@ -1,13 +1,82 @@
 [
   {
+    "id": "7867022",
+    "headline": "CNBC Daily Open: UAE leaves OPEC adrift",
+    "summary": "Markets grapple with the UAE's shock OPEC exit, while also contending with a host of earnings reports and a Fed decision later today.",
+    "url": "https://www.cnbc.com/2026/04/29/cnbc-daily-open-uae-leaves-opec-adrift.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108131441-1744637464662-gettyimages-2183878433-AZERBAIJAN_COP29.jpeg?v=1748891906&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1777443811,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1777447499,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "The UAE's surprise exit from OPEC is causing market volatility, potentially disrupting global energy markets and OPEC's production quotas. This move is not unprecedented, with countries like Qatar, Ecuador, and Angola having left the group in the past. The UAE's decision may lead to a domino effect, with other OPEC members potentially following suit, making the cartel less relevant. This shift could impact oil prices and the energy sector as a whole.",
+      "impact": "The UAE's exit from OPEC may lead to increased uncertainty in the energy sector, potentially weighing on oil prices and related stocks. This could negatively impact earnings outlook for energy companies, particularly those with significant exposure to OPEC production quotas. In the short term, market sentiment may be bearish, with investors reassessing their positions in energy-related stocks. Medium-term, the impact on the energy sector's valuation and liquidity could be significant if OPEC's relevance continues to decline.",
+      "risks": [
+        "Oil price volatility risk",
+        "Earnings outlook risk for energy companies",
+        "Decreased relevance of OPEC as a cartel risk"
+      ]
+    }
+  },
+  {
+    "id": "7866817",
+    "headline": "Gold steady as markets await Powell's comments on Iran war impact - Reuters",
+    "summary": "Gold steady as markets await Powell's comments on Iran war impact  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa28tUzNNX3Jya0JvSlVmOXFUMXc1dk01a210RUFFSFE5OGNmQm1hdnJYUF9ldkxyTFJxbFFzQl80X051RkVZWFotX3NMWlk4WmdrYUtxUWRFRU52OUlUbEZZYXl2VHNzVFBhaFdfbXh1MUdpeVRzQ1plZ1lwbklyRkVzVTBKNkM4Z3RQQV9WLUY0eUwwNUpYeFBCU1hwVGdrVnYxOFpzYV9mdw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1777438832,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1777447544,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "Gold prices remain stable as the market awaits Federal Reserve Chairman Jerome Powell's comments on the potential impact of a war with Iran on the US economy. The conflict has raised concerns about global economic instability and inflation, which could lead to increased demand for safe-haven assets like gold. The market is waiting for Powell's assessment of the situation to gauge the potential effects on interest rates and the overall economy. The current uncertainty surrounding the situation has led to a lack of clear direction for investors.",
+      "impact": "The potential for a war with Iran could lead to increased inflation and economic instability, driving up demand for gold as a safe-haven asset. This could positively impact gold mining companies and related stocks in the short-term. However, the medium-term impact is uncertain, as a prolonged conflict could lead to a decline in global economic activity and decreased demand for gold. The market is closely watching Powell's comments to gauge the potential effects on interest rates and the overall economy.",
+      "risks": [
+        "economic instability risk",
+        "inflation risk",
+        "interest rate risk"
+      ]
+    }
+  },
+  {
+    "id": "7866922",
+    "headline": "Trump says King Charles does not want Iran to have nuclear weapon - Reuters",
+    "summary": "Trump says King Charles does not want Iran to have nuclear weapon  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdlZGS1E0bE5KX3l4dEl6YW5aOXRadS13ckhISUJPem00aFV0RUo2NDJ4WVVicUtxTExiQmI5RkFvNUV4YURIWUVaUU5oYk1qT1c4MlcweVd0Y0VKRjhxM0tEZVZYZXdtZWdnY2VCbXFxbG5PQTFlOHVIT1VheFlHZWNIUE1XTkl6UlZheEN3UnY3Z1NZNWd6d09mQ2Z2TmdFTElLSDhtVGRpTEZ3WkRYTQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1777429380,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1777447590,
+      "sentiment": "bullish",
+      "confidence": 0.7,
+      "summary": "US President Donald Trump has made a statement that King Charles does not want Iran to have a nuclear weapon. This statement is related to the ongoing tensions between the US and Iran. The background of this issue is the long-standing conflict over Iran's nuclear program. The logical chain from the news to the business fundamentals is that a reduction in tensions between the US and Iran could lead to an increase in oil prices, benefiting oil companies. This could also positively impact companies involved in the energy sector.",
+      "impact": "The potential impact on related stocks could be a short-term increase in oil prices, benefiting oil companies such as ExxonMobil (XOM) and Chevron (CVX). This could also positively impact companies involved in the energy sector, such as Schlumberger (SLB) and Halliburton (HAL). The medium-term impact could be a decrease in tensions between the US and Iran, leading to increased investor confidence and a potential increase in economic activity in the region.",
+      "risks": [
+        "geopolitical risk",
+        "economic uncertainty",
+        "market volatility"
+      ]
+    }
+  },
+  {
     "id": "7866295",
-    "headline": "Oil rises on reports US will extend Iran blockade, prolonging Mideast supply disruptions - Reuters",
-    "summary": "Oil rises on reports US will extend Iran blockade, prolonging Mideast supply disruptions  Reuters",
+    "headline": "Oil slips as market digests UAE exit from OPEC, supply concerns linger - Reuters",
+    "summary": "Oil slips as market digests UAE exit from OPEC, supply concerns linger  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQXlrVUs5UEQxV1pTNkRzOTBVdWtaSW1ONTlkQmRmUHdld1BpVnlzWnRhYXZzeHRCXzhPTHpWTmpvbGN6dDlYaTd0WTBfMUZ0U1ZQX3g2M3ptbFNFUGhtQ3Q0NHg4SnFOeVozeTNQSXJ6dTFiZlkyd3ZhTmpzZDU2X2xjYWFrMDdkenJNbTNaQl9fVHliclZjazYxLVFLY2VEc3A0UC1mLTlzcl9LdW1IT3h6bko1b19aNzNkWVBwUzhQdw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1777429063,
+    "publishedAt": 1777428360,
     "analysis": {
       "version": 2,
       "generatedAt": 1777438851,
@@ -30,7 +99,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1777427650,
+    "publishedAt": 1777427580,
     "analysis": {
       "version": 2,
       "generatedAt": 1777438898,
@@ -65,6 +134,29 @@
         "Potential disruption to global oil supplies could lead to a decrease in demand for oil tankers and negatively impact the earnings of companies operating in the sector.",
         "Geopolitical tensions in the Middle East could escalate, leading to further disruptions to global oil supplies and negatively impacting the shipping and logistics sector.",
         "Changes in global oil prices could impact the demand for oil tankers and negatively impact the earnings of companies operating in the sector."
+      ]
+    }
+  },
+  {
+    "id": "7861097",
+    "headline": "Oil ends up nearly 3% as Hormuz disruption outweighs UAE OPEC exit - Reuters",
+    "summary": "Oil ends up nearly 3% as Hormuz disruption outweighs UAE OPEC exit  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSWdEcWtxT1pxaGxwMmc3bHE1elRLZlNOZHlvNWQtWG94NTZ0RzB3STJ3NmQxT0ZMUVhKYWYwWVZjbGhyMkdLaDZ1VEZHT3ZGdTB6cTFXdlV3MzRUT0s0N0JFZV9OUk9sRGNiS2NNeDlGa1czbGgxeGhhOV9BT09qcURMcDNRb3Q2SnE4Y1NSU2JzOXNyX0Q4eFl4My1SNVU1NWJITm43aUc?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1777412659,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1777352697,
+      "sentiment": "neutral",
+      "confidence": 0.5,
+      "summary": "The ongoing Iran war stand-off has led to a rise in oil prices, with no end to the conflict in sight. The situation has been escalating, with both sides exchanging blows, and the international community struggling to find a resolution. This has resulted in increased tensions in the Middle East, a key oil-producing region. As a result, oil prices have risen, which could have a positive impact on oil-producing companies' earnings. The situation is complex, with multiple parties involved and various interests at play.",
+      "impact": "The rise in oil prices could have a positive impact on oil-producing companies' earnings, potentially leading to higher revenue and profitability in the short-term. However, the medium-term impact is uncertain, as the ongoing conflict could lead to increased volatility in the oil market. Oil-producing companies with significant exposure to the Middle East, such as ExxonMobil (XOM) and Chevron (CVX), may benefit from the higher oil prices, while companies with significant exposure to the global economy, such as airlines and transportation companies, may be negatively impacted by the rising oil prices.",
+      "risks": [
+        "Escalation of the conflict leading to a further increase in oil prices and volatility",
+        "Impact on global economic growth due to higher oil prices",
+        "Uncertainty around the duration and outcome of the conflict"
       ]
     }
   },
@@ -111,29 +203,6 @@
         "regulatory risk: potential changes in gaming regulations could impact Resorts World's operations and profitability",
         "competition risk: the opening of other casinos in the area may erode Resorts World's market share",
         "operational risk: the company's ability to manage its new operations and maintain high standards of service"
-      ]
-    }
-  },
-  {
-    "id": "7862562",
-    "headline": "Oil prices rise with eyes on Iran, UAE; AI concerns weigh on stocks - Reuters",
-    "summary": "Oil prices rise with eyes on Iran, UAE; AI concerns weigh on stocks  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeWRhN2c0RU1tV2otcDBmWHdiTXVGZ19LVDFnTmJVUHI5TTBiRkJQaXQ3OUNGLVJQNDl0bVJtTmNmVWlMQ0UwVnNidVp6OG9zWDJLNGwxVUJ1M21oNG1OWDV6bFk1eDQxbUxMemxfRk5JMTcxMHNSVUxBV3V0NDVvckVuel8?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1777409553,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1777419580,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Oil prices rose due to concerns over tensions between Iran and the UAE, but the overall market sentiment was dampened by worries about the impact of artificial intelligence (AI) on stocks. The news comes amidst a backdrop of ongoing geopolitical tensions in the Middle East, with Iran's nuclear program and the UAE's role in the region being closely watched. The rise in oil prices is a positive development for oil-producing companies, but the AI concerns could weigh on the overall market sentiment. The AI-related worries are driven by the potential for job displacement and the impact on various industries.",
-      "impact": "The rise in oil prices could have a positive impact on oil-producing companies such as ExxonMobil (XOM) and Chevron (CVX), potentially leading to higher earnings and improved valuation multiples. However, the AI concerns could lead to a short-term sell-off in the overall market, potentially affecting the earnings outlook of companies with high exposure to AI-related industries. In the medium term, the impact of AI on the job market and various industries could lead to a re-rating of companies that are well-positioned to benefit from the shift towards automation and AI.",
-      "risks": [
-        "AI-related job displacement risk",
-        "Industry disruption risk",
-        "Market sentiment risk"
       ]
     }
   },
@@ -214,7 +283,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1777406252,
+    "publishedAt": 1777404660,
     "analysis": {
       "version": 2,
       "generatedAt": 1777419626,
@@ -406,6 +475,29 @@
         "refinery shutdown risk",
         "supply chain disruption risk",
         "inflation risk"
+      ]
+    }
+  },
+  {
+    "id": "7861402",
+    "headline": "Gold falls as Middle East tensions keep oil soaring, Fed meeting in focus - Reuters",
+    "summary": "Gold falls as Middle East tensions keep oil soaring, Fed meeting in focus  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZGNpbTBCYzQ2NWNmX3k1azB3TGczbV9nb3hsM1lQR2l5dTlxUkxQdjZjZks2T0xZM1Q4MEtSX3psV3lRT3ZIbU41VS1fSUF5MTBtV1liTUl3QW5HUGhHZ2ZKWi1GVHlTOC1zMW1obTFOamZ0OGdRRFlTNDA0SFZtQkZ6VUg3U1Z6R1Zvemw4RGhYRmhVLXBQWUM1c1AwMl9qaHFISEJ2RTI2NTA?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1777398909,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1777352649,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Gold prices remain steady as US-Iran talks continue, with investors closely watching the situation for potential market volatility. The talks are a key factor in the global economic landscape, with central banks also in focus. The stability of gold prices indicates a cautious market sentiment, as investors seek safe-haven assets. The situation is closely tied to global economic uncertainty and the potential for increased inflation, which could impact central banks' monetary policies.",
+      "impact": "The steady gold prices may have a neutral impact on gold mining companies, as the current market conditions do not indicate a significant increase in demand. However, if the US-Iran talks lead to increased global economic uncertainty, gold prices may rise, benefiting gold mining companies. In the short term, the stability of gold prices may also lead to reduced volatility in the gold mining sector, potentially benefiting liquidity. Medium-term, the situation could impact central banks' monetary policies, potentially affecting the gold mining sector's earnings outlook.",
+      "risks": [
+        "Increased global economic uncertainty risk",
+        "Central banks' monetary policy risk",
+        "Inflation risk"
       ]
     }
   },
@@ -659,6 +751,48 @@
         "shift in US-Russia relations",
         "impact on global oil prices"
       ]
+    }
+  },
+  {
+    "id": "7862240",
+    "headline": "Somalia's malnourished children hit hard by Iran war - Reuters",
+    "summary": "Somalia's malnourished children hit hard by Iran war  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcm5sVFNMX3NPek1ocFFFWHRCNWRtZTlxOFA2YnhkSklONVpoNEk5cGZla2NHUnR3MndYS194TkgwbTR6b0tUdWJ2clRiRU8tZERHT3RzR0JjMVZoZ294LVJRUXdJd0stRTVJMlZZMUJ1UC1oSkxQZVNSbHZSMkM5UGRsSmV2OFB0cXJGeWRfVUJfbVFXdnhWZ1hWaWM?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1777384025,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1777362984,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Somalia's malnourished children are being disproportionately affected by the ongoing Iran war, with the conflict exacerbating the country's humanitarian crisis. The war has led to a shortage of food and medicine, causing a significant increase in malnutrition rates among children. The situation is further complicated by the fact that many aid organizations are struggling to access affected areas due to security concerns. The humanitarian crisis in Somalia is expected to worsen in the coming months, with potential long-term consequences for the country's economic development. The conflict has also led to a rise in global food prices, which could impact food manufacturers and producers.",
+      "impact": "The news is unlikely to have a direct impact on the stock market in the short term, but it may lead to increased demand for humanitarian aid and food assistance in the medium term. This could benefit companies involved in the humanitarian aid industry, such as logistics and transportation companies. However, the conflict's impact on global food prices could negatively affect food manufacturers and producers, potentially leading to decreased earnings and lower stock prices. Additionally, the humanitarian crisis in Somalia may lead to increased geopolitical tensions, which could impact oil prices and the energy sector.",
+      "risks": [
+        "humanitarian aid demand risk",
+        "food price inflation risk",
+        "geopolitical tensions risk"
+      ]
+    }
+  },
+  {
+    "id": "7866818",
+    "headline": "European aluminium billet premium doubles after Iran war disrupts supply, squeezes consumers - Reuters",
+    "summary": "European aluminium billet premium doubles after Iran war disrupts supply, squeezes consumers  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcHdIVGZoUnJoZDZybmlmak9hSUVqdzNMRkg5M1ViMmMxeEZ2aktBOWdFOWljQ2pxd2M4QzdUNTljdlZuYUoyRk53aGpNYm5Ed1hKaVpfSU5Lbi1rdnB2SXl1alBsT0dsY1JCQWxTbjVwOXZlUEdYSFdIcy1SVWRZVmFheDRhaVA2V3lqMmQwSVFPZGZGZlV2Wkl5Y0RhdFJhVXIwenh6dGNRcDRGSWVBQ19ZUVFvT3B2aGlHWW9Yc2g4UQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1777383678,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1777447634,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The recent Iran war has disrupted aluminium supply chains, leading to a doubling of European aluminium billet premiums. This increase in premiums will squeeze consumers, particularly those in the automotive and aerospace industries that rely heavily on aluminium. The supply disruption is attributed to the conflict in Iran, which is a major aluminium producer. The impact of this disruption is expected to be felt across the European market, with aluminium prices potentially rising in response to the increased demand and scarcity of supply.",
+      "impact": "The news is expected to have a positive impact on aluminium producers, particularly those with significant European operations. Companies such as Alcoa and Rio Tinto may benefit from the increased demand and prices. However, the increased costs for consumers may lead to a slowdown in demand, potentially offsetting some of the benefits for aluminium producers. The medium-term impact will depend on the duration of the supply disruption and the ability of producers to pass on the increased costs to consumers.",
+      "risks": []
     }
   },
   {
@@ -935,6 +1069,29 @@
     }
   },
   {
+    "id": "7858465",
+    "headline": "Germany's Merz says Iran is humiliating US as talks stall - Reuters",
+    "summary": "Germany's Merz says Iran is humiliating US as talks stall  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbkZuazVRSDloUjJ2R0ZWQzlMWkRON0FkZHppaWx4WjBscXdqMUVZNXFSZTJHcXBBMU10TDBxX0N0aF96S2drZVJEb09VeF9YMDQ2MTdxcm1XUWNWRGFJc01xVVh2LW9XamFESE1sNGRoNm00RmltWjMxSEpRWmpKTXZva2tIOEVQcmVvcWFMb1I2TTNlT1BaVXR4eFlJRXQ0Q3R3bjh4LWhLRHBX?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1777371456,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1777303684,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "German politician Friedrich Merz has publicly criticized Iran's stance in stalled nuclear talks, accusing the country of humiliating the US. This development comes as negotiations between the US and Iran have reached an impasse, with both sides unable to agree on key issues. The US has been seeking to re-enter the Joint Comprehensive Plan of Action (JCPOA) with Iran, but the talks have stalled due to disagreements over sanctions and nuclear restrictions. The situation is a concern for global energy markets, as Iran is a significant oil producer.",
+      "impact": "The escalating tensions between the US and Iran could lead to a short-term increase in oil prices, benefiting energy companies such as ExxonMobil (XOM) and Chevron (CVX). However, the medium-term impact on the energy sector remains uncertain, as a prolonged conflict could lead to decreased demand and lower oil prices. The situation could also lead to increased volatility in the global markets, affecting the overall sentiment and liquidity of energy stocks.",
+      "risks": [
+        "Escalating tensions between the US and Iran leading to a global conflict",
+        "Decreased demand for oil due to a prolonged conflict",
+        "Increased volatility in the global markets"
+      ]
+    }
+  },
+  {
     "id": "7862872",
     "headline": "Starbucks' turnaround enters a new phase: Investors want stronger profits served",
     "summary": "CEO Brian Niccol has sales going in the right direction. Now, investors want to see profits follow suit.",
@@ -954,6 +1111,29 @@
         "margin contraction risk",
         "earnings disappointment risk",
         "valuation re-rating risk"
+      ]
+    }
+  },
+  {
+    "id": "7856757",
+    "headline": "US reviews latest Iranian proposal to end war stalemate - Reuters",
+    "summary": "US reviews latest Iranian proposal to end war stalemate  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSDRna1VZUzc4VC10UGRDU01UVWFRWlV0TmdxXzJuT1hPd0ZXeVpUbUo0Nmd4b0JsVHNTQnoyU1YtY0NISUdRMXREYWdYdzBETDBibjR6Z05vN1NjSWkyeVo2QkJBTEhuZFlxaUpuYm9vVTJlOU9xT195bzg2VDRIRTItdHk3MHV3eU9OQ1BadlFfdmRCenI4aGhlT2duVmVYVmVya3cyUVMwUF81SUNTbHRFTEZOWDFnTXlQUnJn?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1777371100,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1777275004,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Iranian Foreign Minister Javad Zarif is traveling to Russia for a visit, and US President Donald Trump has invited Iran to call the US to negotiate. The development comes amid ongoing tensions between the US and Iran. The visit is seen as a potential step towards de-escalation of tensions, but the outcome is uncertain. The situation remains volatile, with both sides maintaining a hardline stance. The US has imposed sanctions on Iran, which has led to a decline in Iranian oil exports and economic growth.",
+      "impact": "The news may have a neutral impact on oil prices in the short term, as it could potentially lead to a decrease in tensions and a subsequent increase in oil exports from Iran. However, the US sanctions on Iran remain in place, which could limit the impact of any potential deal. In the medium term, a negotiated deal could lead to an increase in oil production and exports from Iran, which could put downward pressure on oil prices. This could be a negative for oil majors such as ExxonMobil (XOM) and Chevron (CVX).",
+      "risks": [
+        "sanctions risk",
+        "tensions escalation risk",
+        "economic instability risk"
       ]
     }
   },
@@ -1065,6 +1245,16 @@
     }
   },
   {
+    "id": "7867127",
+    "headline": "India says West Asia war complicates Chabahar talks With US, Iran",
+    "summary": "“This issue is under discussion with both Iran and US,” Randhir Jaiswal, a spokesperson for India’s Ministry of External Affairs, said adding: “Obviously, the current conflict is also a complicating factor.”",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-28/india-says-mideast-war-complicates-chabahar-talks-with-us-iran",
+    "source": "Bloomberg",
+    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+    "relatedSymbols": [],
+    "publishedAt": 1777358888
+  },
+  {
     "id": "7862350",
     "headline": "BP quarterly profit beats expectations at $3.2 billion, driven by Iran war trading boon - Reuters",
     "summary": "BP quarterly profit beats expectations at $3.2 billion, driven by Iran war trading boon  Reuters",
@@ -1084,29 +1274,6 @@
         "Oil price volatility risk",
         "Geopolitical risk in the Middle East",
         "Dependence on Iran war-related trading activities"
-      ]
-    }
-  },
-  {
-    "id": "7862240",
-    "headline": "Somalia's malnourished children hit hard by Iran war - Reuters",
-    "summary": "Somalia's malnourished children hit hard by Iran war  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcm5sVFNMX3NPek1ocFFFWHRCNWRtZTlxOFA2YnhkSklONVpoNEk5cGZla2NHUnR3MndYS194TkgwbTR6b0tUdWJ2clRiRU8tZERHT3RzR0JjMVZoZ294LVJRUXdJd0stRTVJMlZZMUJ1UC1oSkxQZVNSbHZSMkM5UGRsSmV2OFB0cXJGeWRfVUJfbVFXdnhWZ1hWaWM?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1777356180,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1777362984,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Somalia's malnourished children are being disproportionately affected by the ongoing Iran war, with the conflict exacerbating the country's humanitarian crisis. The war has led to a shortage of food and medicine, causing a significant increase in malnutrition rates among children. The situation is further complicated by the fact that many aid organizations are struggling to access affected areas due to security concerns. The humanitarian crisis in Somalia is expected to worsen in the coming months, with potential long-term consequences for the country's economic development. The conflict has also led to a rise in global food prices, which could impact food manufacturers and producers.",
-      "impact": "The news is unlikely to have a direct impact on the stock market in the short term, but it may lead to increased demand for humanitarian aid and food assistance in the medium term. This could benefit companies involved in the humanitarian aid industry, such as logistics and transportation companies. However, the conflict's impact on global food prices could negatively affect food manufacturers and producers, potentially leading to decreased earnings and lower stock prices. Additionally, the humanitarian crisis in Somalia may lead to increased geopolitical tensions, which could impact oil prices and the energy sector.",
-      "risks": [
-        "humanitarian aid demand risk",
-        "food price inflation risk",
-        "geopolitical tensions risk"
       ]
     }
   },
@@ -1132,6 +1299,16 @@
         "economic instability risk"
       ]
     }
+  },
+  {
+    "id": "7866813",
+    "headline": "India’s heat wave creates new inflation risks after oil surge",
+    "summary": "India faces inflation risks as heat waves and erratic monsoon threaten food prices amid soaring energy costs.",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-28/india-s-heat-wave-creates-new-inflation-risks-after-oil-surge",
+    "source": "Bloomberg",
+    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+    "relatedSymbols": [],
+    "publishedAt": 1777353826
   },
   {
     "id": "7864741",
@@ -1178,29 +1355,6 @@
     }
   },
   {
-    "id": "7861402",
-    "headline": "Gold falls as Middle East tensions keep oil soaring, Fed meeting in focus - Reuters",
-    "summary": "Gold falls as Middle East tensions keep oil soaring, Fed meeting in focus  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZGNpbTBCYzQ2NWNmX3k1azB3TGczbV9nb3hsM1lQR2l5dTlxUkxQdjZjZks2T0xZM1Q4MEtSX3psV3lRT3ZIbU41VS1fSUF5MTBtV1liTUl3QW5HUGhHZ2ZKWi1GVHlTOC1zMW1obTFOamZ0OGdRRFlTNDA0SFZtQkZ6VUg3U1Z6R1Zvemw4RGhYRmhVLXBQWUM1c1AwMl9qaHFISEJ2RTI2NTA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1777339920,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1777352649,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Gold prices remain steady as US-Iran talks continue, with investors closely watching the situation for potential market volatility. The talks are a key factor in the global economic landscape, with central banks also in focus. The stability of gold prices indicates a cautious market sentiment, as investors seek safe-haven assets. The situation is closely tied to global economic uncertainty and the potential for increased inflation, which could impact central banks' monetary policies.",
-      "impact": "The steady gold prices may have a neutral impact on gold mining companies, as the current market conditions do not indicate a significant increase in demand. However, if the US-Iran talks lead to increased global economic uncertainty, gold prices may rise, benefiting gold mining companies. In the short term, the stability of gold prices may also lead to reduced volatility in the gold mining sector, potentially benefiting liquidity. Medium-term, the situation could impact central banks' monetary policies, potentially affecting the gold mining sector's earnings outlook.",
-      "risks": [
-        "Increased global economic uncertainty risk",
-        "Central banks' monetary policy risk",
-        "Inflation risk"
-      ]
-    }
-  },
-  {
     "id": "7864317",
     "headline": "Dollar gains on risk-off mood; BOJ split vote gives yen brief lift - Reuters",
     "summary": "Dollar gains on risk-off mood; BOJ split vote gives yen brief lift  Reuters",
@@ -1224,25 +1378,25 @@
     }
   },
   {
-    "id": "7861097",
-    "headline": "Oil ends up nearly 3% as Hormuz disruption outweighs UAE OPEC exit - Reuters",
-    "summary": "Oil ends up nearly 3% as Hormuz disruption outweighs UAE OPEC exit  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSWdEcWtxT1pxaGxwMmc3bHE1elRLZlNOZHlvNWQtWG94NTZ0RzB3STJ3NmQxT0ZMUVhKYWYwWVZjbGhyMkdLaDZ1VEZHT3ZGdTB6cTFXdlV3MzRUT0s0N0JFZV9OUk9sRGNiS2NNeDlGa1czbGgxeGhhOV9BT09qcURMcDNRb3Q2SnE4Y1NSU2JzOXNyX0Q4eFl4My1SNVU1NWJITm43aUc?oc=5",
+    "id": "7862562",
+    "headline": "Oil prices rise with eyes on Iran, UAE; AI concerns weigh on stocks - Reuters",
+    "summary": "Oil prices rise with eyes on Iran, UAE; AI concerns weigh on stocks  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeWRhN2c0RU1tV2otcDBmWHdiTXVGZ19LVDFnTmJVUHI5TTBiRkJQaXQ3OUNGLVJQNDl0bVJtTmNmVWlMQ0UwVnNidVp6OG9zWDJLNGwxVUJ1M21oNG1OWDV6bFk1eDQxbUxMemxfRk5JMTcxMHNSVUxBV3V0NDVvckVuel8?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1777338120,
+    "publishedAt": 1777338540,
     "analysis": {
       "version": 2,
-      "generatedAt": 1777352697,
+      "generatedAt": 1777419580,
       "sentiment": "neutral",
-      "confidence": 0.5,
-      "summary": "The ongoing Iran war stand-off has led to a rise in oil prices, with no end to the conflict in sight. The situation has been escalating, with both sides exchanging blows, and the international community struggling to find a resolution. This has resulted in increased tensions in the Middle East, a key oil-producing region. As a result, oil prices have risen, which could have a positive impact on oil-producing companies' earnings. The situation is complex, with multiple parties involved and various interests at play.",
-      "impact": "The rise in oil prices could have a positive impact on oil-producing companies' earnings, potentially leading to higher revenue and profitability in the short-term. However, the medium-term impact is uncertain, as the ongoing conflict could lead to increased volatility in the oil market. Oil-producing companies with significant exposure to the Middle East, such as ExxonMobil (XOM) and Chevron (CVX), may benefit from the higher oil prices, while companies with significant exposure to the global economy, such as airlines and transportation companies, may be negatively impacted by the rising oil prices.",
+      "confidence": 0.6,
+      "summary": "Oil prices rose due to concerns over tensions between Iran and the UAE, but the overall market sentiment was dampened by worries about the impact of artificial intelligence (AI) on stocks. The news comes amidst a backdrop of ongoing geopolitical tensions in the Middle East, with Iran's nuclear program and the UAE's role in the region being closely watched. The rise in oil prices is a positive development for oil-producing companies, but the AI concerns could weigh on the overall market sentiment. The AI-related worries are driven by the potential for job displacement and the impact on various industries.",
+      "impact": "The rise in oil prices could have a positive impact on oil-producing companies such as ExxonMobil (XOM) and Chevron (CVX), potentially leading to higher earnings and improved valuation multiples. However, the AI concerns could lead to a short-term sell-off in the overall market, potentially affecting the earnings outlook of companies with high exposure to AI-related industries. In the medium term, the impact of AI on the job market and various industries could lead to a re-rating of companies that are well-positioned to benefit from the shift towards automation and AI.",
       "risks": [
-        "Escalation of the conflict leading to a further increase in oil prices and volatility",
-        "Impact on global economic growth due to higher oil prices",
-        "Uncertainty around the duration and outcome of the conflict"
+        "AI-related job displacement risk",
+        "Industry disruption risk",
+        "Market sentiment risk"
       ]
     }
   },
@@ -1354,29 +1508,6 @@
         "geopolitical risk",
         "oil price volatility",
         "economic instability"
-      ]
-    }
-  },
-  {
-    "id": "7856757",
-    "headline": "US reviews latest Iranian proposal to end war stalemate - Reuters",
-    "summary": "US reviews latest Iranian proposal to end war stalemate  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSDRna1VZUzc4VC10UGRDU01UVWFRWlV0TmdxXzJuT1hPd0ZXeVpUbUo0Nmd4b0JsVHNTQnoyU1YtY0NISUdRMXREYWdYdzBETDBibjR6Z05vN1NjSWkyeVo2QkJBTEhuZFlxaUpuYm9vVTJlOU9xT195bzg2VDRIRTItdHk3MHV3eU9OQ1BadlFfdmRCenI4aGhlT2duVmVYVmVya3cyUVMwUF81SUNTbHRFTEZOWDFnTXlQUnJn?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1777328496,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1777275004,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Iranian Foreign Minister Javad Zarif is traveling to Russia for a visit, and US President Donald Trump has invited Iran to call the US to negotiate. The development comes amid ongoing tensions between the US and Iran. The visit is seen as a potential step towards de-escalation of tensions, but the outcome is uncertain. The situation remains volatile, with both sides maintaining a hardline stance. The US has imposed sanctions on Iran, which has led to a decline in Iranian oil exports and economic growth.",
-      "impact": "The news may have a neutral impact on oil prices in the short term, as it could potentially lead to a decrease in tensions and a subsequent increase in oil exports from Iran. However, the US sanctions on Iran remain in place, which could limit the impact of any potential deal. In the medium term, a negotiated deal could lead to an increase in oil production and exports from Iran, which could put downward pressure on oil prices. This could be a negative for oil majors such as ExxonMobil (XOM) and Chevron (CVX).",
-      "risks": [
-        "sanctions risk",
-        "tensions escalation risk",
-        "economic instability risk"
       ]
     }
   },
@@ -2058,29 +2189,6 @@
         "Dependence on commodity prices and global demand",
         "Geopolitical risks and sanctions",
         "Uncertainty around future tax policies and regulations"
-      ]
-    }
-  },
-  {
-    "id": "7858465",
-    "headline": "Germany's Merz says Iran is humiliating US as talks stall - Reuters",
-    "summary": "Germany's Merz says Iran is humiliating US as talks stall  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbkZuazVRSDloUjJ2R0ZWQzlMWkRON0FkZHppaWx4WjBscXdqMUVZNXFSZTJHcXBBMU10TDBxX0N0aF96S2drZVJEb09VeF9YMDQ2MTdxcm1XUWNWRGFJc01xVVh2LW9XamFESE1sNGRoNm00RmltWjMxSEpRWmpKTXZva2tIOEVQcmVvcWFMb1I2TTNlT1BaVXR4eFlJRXQ0Q3R3bjh4LWhLRHBX?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1777293720,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1777303684,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "German politician Friedrich Merz has publicly criticized Iran's stance in stalled nuclear talks, accusing the country of humiliating the US. This development comes as negotiations between the US and Iran have reached an impasse, with both sides unable to agree on key issues. The US has been seeking to re-enter the Joint Comprehensive Plan of Action (JCPOA) with Iran, but the talks have stalled due to disagreements over sanctions and nuclear restrictions. The situation is a concern for global energy markets, as Iran is a significant oil producer.",
-      "impact": "The escalating tensions between the US and Iran could lead to a short-term increase in oil prices, benefiting energy companies such as ExxonMobil (XOM) and Chevron (CVX). However, the medium-term impact on the energy sector remains uncertain, as a prolonged conflict could lead to decreased demand and lower oil prices. The situation could also lead to increased volatility in the global markets, affecting the overall sentiment and liquidity of energy stocks.",
-      "risks": [
-        "Escalating tensions between the US and Iran leading to a global conflict",
-        "Decreased demand for oil due to a prolonged conflict",
-        "Increased volatility in the global markets"
       ]
     }
   },
@@ -22532,144 +22640,6 @@
         "inflation risk",
         "oil price volatility risk",
         "global economic uncertainty risk"
-      ]
-    }
-  },
-  {
-    "id": "7759574",
-    "headline": "The 'magic number' Americans say they need to retire comfortably is $1.46 million—how to catch up if you're behind",
-    "summary": "Data from Northwestern Mutual shows that Americans say they need a bigger number to retire, and they're having trouble getting there.",
-    "url": "https://www.cnbc.com/2026/04/07/how-much-money-americans-say-they-need-to-retire-comfortably.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108287579-1775509085320-gettyimages-2268473893-dsc08815.jpeg?v=1775509108&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1775579388,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1775581423,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "According to a recent survey by Northwestern Mutual, Americans believe they need $1.46 million to retire comfortably, a 15% increase from last year. This increase is attributed to factors such as inflation, longer life expectancies, and uncertainty about Social Security. The survey also found that many Americans are not financially prepared for retirement, with 46% of non-retirees fearing they won't have enough savings. Experts recommend starting to save early and consistently, and adjusting the savings rate as income increases.",
-      "impact": "The news may have a mixed impact on the financial services industry, particularly on companies that offer retirement planning and savings products. In the short-term, there may be increased demand for financial advisory services as individuals seek to catch up on their retirement savings. However, the medium-term impact could be a shift towards more conservative investment strategies as investors become more risk-averse in the face of uncertainty about Social Security and inflation.",
-      "risks": [
-        "Increased demand for financial advisory services may lead to higher costs and reduced profit margins for financial institutions.",
-        "Investors may become more risk-averse, leading to reduced demand for higher-risk investments and potentially lower returns for financial institutions.",
-        "The survey's findings may not be representative of the entire population, and actual retirement savings needs may vary widely depending on individual circumstances."
-      ]
-    }
-  },
-  {
-    "id": "7758929",
-    "headline": "UK stocks fall in broad-based declines as Trump's Iran deadline looms - Reuters",
-    "summary": "UK stocks fall in broad-based declines as Trump's Iran deadline looms  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdFZRdUZTR3RhdHVnNFpOWjJYNW55TDNsQU5fX3A1Q1B2bWFJcWJDNXk1YWQ2NWdycGdnNzlXYjB0RGQwanpFZnZvallRbFcwUG42Qm52MV9WNC1kLVh5Nzh0TnVwR1NxSG9BTXZQRUFHNFNWUGs3UzVibmg0a2lNcGt4bUJrUk5XeEVZYll4WTZPcjRRZGZHdXFXbFJWUFVpSWJwaURtX1c?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1775579004,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1775581629,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "UK stocks have risen on the back of a boost from oil and staples as investors await the deadline set by US President Donald Trump for Iran to comply with nuclear deal demands. The news has sparked a surge in demand for oil, causing prices to rise, which in turn has positively impacted oil-related stocks. Additionally, staples such as food and household items have seen increased demand as investors seek safe-haven assets. This has led to a rise in the prices of these staples, benefiting companies in the industry. The looming deadline has created uncertainty and driven investors to seek safe-haven assets, resulting in a positive sentiment shift towards UK stocks.",
-      "impact": "The rise in oil prices is likely to have a positive impact on oil-related stocks in the short-term, with companies such as BP and Royal Dutch Shell potentially benefiting from increased demand. In the medium-term, the increased demand for staples may lead to higher earnings for companies in the industry, such as Unilever and Reckitt Benckiser. The positive sentiment shift may also lead to an increase in investor confidence, potentially driving up valuations for UK stocks as a whole. However, the uncertainty surrounding the Iran deadline may lead to increased volatility in the market.",
-      "risks": [
-        "Increased volatility due to uncertainty surrounding the Iran deadline",
-        "Potential decline in oil prices if Iran complies with nuclear deal demands",
-        "Risk of increased inflation due to higher staple prices"
-      ]
-    }
-  },
-  {
-    "id": "7760006",
-    "headline": "European shares decline as markets turn wary ahead of Trump's Iran deadline - Reuters",
-    "summary": "European shares decline as markets turn wary ahead of Trump's Iran deadline  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaURJVGl1d1JXLXUwZ2VoTVhOUW1XcmdTTVRBV1ZhT1NkZnFYaElyY3FEUkw4TWd0NEg1VWFUMlNyQUt2dWZ6dmpRQm5KcHJJTnphNFk4UUNUMWNoNlJDRVZycHZlN01UM1VTZmtiU1BVYXgxd2NYTjZCdjdfZEpNSFQ4Y3lVQjlZM2NpcGY4VWlLZll5Tnp5a1dScUNwVWZpN2VJTVNqeGxYTXdWYmVQOTJZOXA4Mk8tTmFLbmdmb3UzNjdE?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1775578939,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1775591307,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "European shares declined as investors grew wary ahead of the deadline set by US President Trump for Iran. The looming deadline has increased tensions in the region, leading to a cautious approach from market participants. This news comes as a backdrop to ongoing trade tensions and global economic uncertainty. The market's reaction is a reflection of the growing concern over the potential escalation of the situation, which could have far-reaching consequences for the global economy. The decline in European shares is a result of the increased uncertainty and risk aversion.",
-      "impact": "The potential impact on stocks is likely to be short-term, with a focus on defensive sectors such as healthcare and consumer staples. These sectors are often seen as less vulnerable to economic downturns and may provide a safe haven for investors. However, the medium-term impact could be more significant, particularly if the situation in the Middle East escalates, leading to a decline in global trade and economic growth. This could negatively impact companies with high exposure to international trade, such as those in the aerospace and defense sectors.",
-      "risks": [
-        "Escalation of tensions in the Middle East leading to a decline in global trade and economic growth",
-        "Increased risk aversion and market volatility",
-        "Potential impact on companies with high exposure to international trade"
-      ]
-    }
-  },
-  {
-    "id": "7760003",
-    "headline": "Can Iran charge fees for ships to transit the Strait of Hormuz? - Reuters",
-    "summary": "Can Iran charge fees for ships to transit the Strait of Hormuz?  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORzRwbnZrSGQ2STBZSzVDQVBrN1dZdU9HVkRpNTNzV1ZBRTJZMUx6RXQ4U3ZxcWtzcDh6UDVKVThBTXhNOUZ2Q1ZFQ1g2NmdyeVN1RlJ5OHd4QVNBVENMY0V2QWNmcEIwWlhHZTNnVGZkWDk4WVQxMENEU29GYUxKcTdFUGh2aGhjckZES194YnprX1U4TV9SbHpGV0NPN1RSdG85MQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1775578915,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1775593763,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "Iran has been considering charging fees for ships to transit the Strait of Hormuz, a crucial waterway for global oil trade. The move is in response to a US ban on Iranian oil exports and a US Navy presence in the region. The Strait of Hormuz is a critical chokepoint for oil exports from the Middle East, with around 20% of global oil shipments passing through it. The potential fee could range from $1 to $5 per barrel of oil. The US and its allies have expressed concerns about Iran's plan, with the US Secretary of State saying it would be a 'bad idea'.",
-      "impact": "The potential introduction of fees for ships transiting the Strait of Hormuz could lead to higher oil prices in the short term, as shippers may pass on the costs to consumers. This could be a positive for oil producers such as Saudi Aramco and National Iranian Oil Company, but a negative for oil consumers and companies that rely on low oil prices, such as airlines and trucking companies. The move could also increase tensions in the region, potentially affecting global trade and economic growth.",
-      "risks": [
-        "Escalation of tensions in the region, leading to disruptions in global trade",
-        "Increased costs for oil consumers, potentially affecting demand and economic growth",
-        "Uncertainty around the effectiveness of Iran's plan to charge fees, and potential pushback from the US and its allies"
-      ]
-    }
-  },
-  {
-    "id": "7758927",
-    "headline": "US-Iran talks continuing, but strikes on Saudi Arabia may derail effort, say sources - Reuters",
-    "summary": "US-Iran talks continuing, but strikes on Saudi Arabia may derail effort, say sources  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMHlxMUhLSmtud0VaTFRhZWNqYTN3YjA4UHlkeDB6dl9DS241NElqck52eElVb0g3emxQT3FjcTB6NUlIRldIUzI0UHB1SnVhUmI4R3I0RHFJYWNWTWRBSmRvUTdwZkJOU3VTUmIxVVV5bDRfUnlFZm96Y2dNRW1hQkdnd1dtcG82NzNTVGdxcjdEOVplMVVISkJhS3FSazJndTFTemdxTXRvaHViTzF5aENWelpxTUNDb3M3YkhFOW1LWms?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1775578538,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1775571474,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Efforts to facilitate talks between the US and Iran are ongoing, according to Pakistani sources. This development comes as a positive sign for the region, potentially leading to reduced tensions and increased stability. The news is a result of diplomatic efforts between the two countries, which have been strained in recent years. The talks may lead to a more favorable business environment, particularly for companies operating in the Middle East. However, the outcome of the talks is uncertain, and it may take time to achieve a breakthrough.",
-      "impact": "The news may have a positive impact on the earnings outlook for companies operating in the Middle East, particularly those with exposure to Iran, such as oil and gas companies. However, the impact may be short-term, as the outcome of the talks is uncertain and may not lead to significant changes in the near term. The news may also increase sentiment for the region, potentially leading to higher valuations for companies with exposure to the Middle East.",
-      "risks": [
-        "uncertain outcome risk",
-        "regional instability risk",
-        "geopolitical risk"
-      ]
-    }
-  },
-  {
-    "id": "7758931",
-    "headline": "India plans sovereign guarantees for insurers as Iran war heightens shipping risks, sources say - Reuters",
-    "summary": "India plans sovereign guarantees for insurers as Iran war heightens shipping risks, sources say  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOb1J1V2E0YTdvS0pFaFJRbHl0MEdfWGJZc2pxdVAxZ252NFdsTFQ1R0JBbUNwZ1pqSXBHcVVrZGtGcW5ZZmN2WWJ6bnhLYmE4SUpaYlVrR1BhcEtuMTU4RnF1RkNBdHB3N1ZSVU0zTnJGQjNsSVVORmhBQUdtVEdaQm1CaVdKeV9KM05wbS1wcFNLTTBvVlZaNWhYT3JhMk9xenpzVTFOMm5nVzdoYUQ4LW91TDB6aTRGdWFDX3dvLUx3anFITnB0b0pKczRwVVFYZUpLMzh3aFRORnAwY3BXVXdpdkxJZw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1775578015,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1775581473,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "India plans to provide sovereign guarantees to insurance companies to mitigate the risks associated with increased shipping costs due to the heightened tensions between Iran and the US. This move aims to support the Indian insurance industry, which is exposed to potential losses from increased shipping costs and potential disruptions to global trade. The Indian government's decision is a response to the escalating situation in the Middle East, which has led to a surge in shipping costs and insurance premiums. The guarantees are expected to provide a safety net for insurance companies, allowing them to continue providing coverage to shipping companies. The move is seen as a proactive step by the Indian government to support the country's shipping industry.",
-      "impact": "The potential impact on insurance stocks in India could be positive in the short-term, as the sovereign guarantees are expected to provide a safety net for insurance companies. This could lead to increased investor confidence and potentially higher stock prices for insurance companies that provide shipping insurance. However, the medium-term impact is uncertain, as the situation in the Middle East remains volatile and could lead to further disruptions to global trade. The increased demand for shipping insurance could also lead to higher premiums, which could negatively impact the earnings outlook for insurance companies.",
-      "risks": [
-        "Uncertainty around the duration and impact of the Iran-US conflict",
-        "Potential for increased competition from international insurance companies",
-        "Risk of further disruptions to global trade and supply chains"
       ]
     }
   }
