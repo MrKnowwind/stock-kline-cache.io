@@ -1,5 +1,51 @@
 [
   {
+    "id": "7874322",
+    "headline": "Blue Owl shares surge after private credit firm cites 10X gains from SpaceX loan",
+    "summary": "Blue Owl said it's made 10 times its investment in SpaceX, which is headed for a record IPO later this year.",
+    "url": "https://www.cnbc.com/2026/04/30/blue-owl-shares-private-credit-spacex-gains.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/106886242-16215425443312a-Blue-Owl-CB-Photo-210520-PRESS-22-jpg?v=1621542582&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1777566420,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1777568698,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Blue Owl, a private credit firm, announced on its earnings call that it has made 10 times its investment in SpaceX, citing a $1.25 trillion valuation. This significant gain is expected to offset potential losses in its software company portfolio. The firm has already sold half of its SpaceX position and continues to hold the remainder. Blue Owl's shares surged 10% in trading after the announcement, alleviating concerns about the firm's exposure to the software industry.",
+      "impact": "The news is expected to have a positive impact on Blue Owl's stock in the short term, with the 10% surge in shares a direct result of the announcement. The gains from SpaceX are likely to boost the firm's earnings and valuation, potentially leading to increased investor confidence and liquidity. In the medium term, the firm's ability to navigate the software industry downturn and generate significant returns on its investments may also have a positive impact on its stock price and overall industry sentiment.",
+      "risks": [
+        "Potential software company defaults could offset gains from SpaceX",
+        "Dependence on a single high-risk investment",
+        "Uncertainty around SpaceX's IPO and its potential impact on Blue Owl's valuation"
+      ]
+    }
+  },
+  {
+    "id": "7872634",
+    "headline": "From surplus to strain: world rice supply threatened by Iran war, El Nino - Reuters",
+    "summary": "From surplus to strain: world rice supply threatened by Iran war, El Nino  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObXhRRDdPYUtROHRKeDAtNG5zcHQzRFAwVXpSQTZQQjlBbTNPeGVMdjJCNVV6Z3dMbnN3dTdFdTl3eFZMYms4Q0tQTTVEeEZEUjRrblFrMUMwbXpVZmRnZ3A0MVNNTDJuVlJTRUFwVExxNGVBQ3JyQVc5Z2F3a21JLTcyZkdfcEs2dkJlZ2F0cDF4SmViaWYyRktWbkF1SWE4NVlJUXEzZXY3STBrblgwMDRjd2NtSktqX0E?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1777560718,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1777543037,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "A potential war in Iran and the El Nino weather phenomenon are threatening the global rice supply, leading to a shift from a surplus to a strain in the market. Iran is a major rice exporter, and a conflict could disrupt shipments, while El Nino is expected to impact rice production in key countries such as Thailand and Vietnam. This could lead to higher prices and reduced availability of rice, affecting food security and potentially impacting the agricultural and food processing industries. The impact on the global rice market is expected to be significant, with prices potentially increasing by 10-20% in the coming months.",
+      "impact": "The potential shortage of rice could have a negative impact on companies involved in the agricultural and food processing industries, particularly those with significant exposure to the global rice market. Companies such as Archer Daniels Midland (ADM) and Bunge Limited (BG) may see their earnings outlook deteriorate due to higher input costs and reduced demand. The sentiment towards these companies could become more bearish, leading to a decline in their stock prices. Additionally, the potential for food price inflation could lead to a decrease in consumer demand for food products, further impacting the earnings of companies in the food processing industry.",
+      "risks": [
+        "Disruption to global rice supply chain",
+        "Increased food price inflation",
+        "Reduced demand for food products"
+      ]
+    }
+  },
+  {
     "id": "7873408",
     "headline": "Iran threatens painful response if US resumes attacks, oil prices seesaw - Reuters",
     "summary": "Iran threatens painful response if US resumes attacks, oil prices seesaw  Reuters",
@@ -30,7 +76,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1777557588
+    "publishedAt": 1777557588,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1777568747,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "US President Trump has publicly criticized Germany's Friedrich Merz, a prominent politician, over his comments on Iran. Merz had expressed concerns about the US's Iran policy, which Trump took as an interference. Trump responded by telling Merz to stop interfering in US foreign policy. This exchange is a continuation of the ongoing tensions between the US and Germany, particularly regarding Iran. The incident highlights the complexities of international diplomacy and the potential for diplomatic fallout. The news does not have a direct impact on the stock market, but it may affect the overall sentiment towards the US and its foreign policy.",
+      "impact": "The news is unlikely to have a direct impact on the stock market in the short term. However, it may contribute to a more volatile trading environment, particularly for companies with significant exposure to the US government's foreign policy decisions. In the medium term, the ongoing tensions between the US and Germany may lead to a reevaluation of the US's international relationships and potential trade agreements, which could impact companies with significant global operations. This may lead to increased uncertainty and volatility in the stock prices of companies with significant international exposure.",
+      "risks": [
+        "Increased diplomatic tensions between the US and Germany",
+        "Potential impact on trade agreements and international relationships",
+        "Volatility in the stock prices of companies with significant international exposure"
+      ]
+    }
   },
   {
     "id": "7873771",
@@ -63,7 +122,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1777550304,
+    "publishedAt": 1777556409,
     "analysis": {
       "version": 2,
       "generatedAt": 1777563064,
@@ -75,6 +134,29 @@
         "Oil price volatility risk",
         "Decline in oil demand risk",
         "Geopolitical tensions risk"
+      ]
+    }
+  },
+  {
+    "id": "7874222",
+    "headline": "ECB keeps rates on hold and warns about Iran war hit - Reuters",
+    "summary": "ECB keeps rates on hold and warns about Iran war hit  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcHNBNlNnNUFuRVpQM0VDX283ZEtmREtiUHBQYVJTMlM5bkxkQ3czemo0NW5JeFUzSnBrSlVTYkJWeE9USkRxSnNnNU5GcVA2TG5FN2pyQTdheTFqWXp3NG9TV2pfb1ZMUW1Rb0R4SEZLa0lub1VYdXJFaFoxVEp4N21hU3g1U3ZXaFRmZU04R2dwUWkwUTNjYjRheGczOWs?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1777551712,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1777568793,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "The European Central Bank (ECB) has kept its interest rates unchanged, citing a stable economic outlook. The decision was made in light of ongoing tensions between the US and Iran, with the ECB warning that a war between the two countries could have significant economic consequences. The ECB's decision is a neutral signal for the European economy, as it suggests that the bank is not anticipating a significant economic downturn. The ECB's warning about the potential impact of a war on the economy is a reminder of the ongoing geopolitical risks that are affecting global markets.",
+      "impact": "The ECB's decision is likely to have a neutral impact on European stocks in the short term, with some potential for a slight increase in risk aversion due to the ongoing geopolitical tensions. However, if a war were to break out, it could lead to a significant increase in volatility and a potential decline in stock prices, particularly for companies with exposure to the energy and defense sectors. The ECB's warning highlights the potential risks to the global economy, which could impact the earnings outlook for companies with significant international operations.",
+      "risks": [
+        "geopolitical risk",
+        "economic downturn risk",
+        "volatility risk"
       ]
     }
   },
@@ -102,6 +184,29 @@
     }
   },
   {
+    "id": "7874098",
+    "headline": "Bank of England holds rates and spells out inflation risks from Iran war - Reuters",
+    "summary": "Bank of England holds rates and spells out inflation risks from Iran war  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQUxLemtDVGZyamRweGVXaUZxY1g3UExMRWcydjBMQUxTTk1DSkg1LWdaTXNHNEJTYTN4WU9ZSlZXZjdnd1hGY1FjSnhtSDRCRUN5MmRSSk1pVUNBZGc0TF9BRnJpMWFld3F1VnplelBQWHhqLTM0anpmazJpMTFGNDBpSFJtbEZLWTJzRGUtb1FTX0tzcmZoeGRMZ1prZHRvbERzdG5kQ24?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1777547723,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1777568840,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The Bank of England has decided to hold interest rates steady, citing inflation risks stemming from a potential war with Iran. The central bank's decision comes as tensions between the US and Iran escalate, with the UK's economy already facing uncertainty due to Brexit. The Bank of England's governor, Andrew Bailey, emphasized that a war with Iran could lead to higher oil prices, which in turn could fuel inflation. This inflation risk has implications for the UK's economic growth and monetary policy.",
+      "impact": "The news may have a neutral impact on the UK's financial markets in the short term, as the Bank of England's decision to hold rates steady suggests that it is monitoring the situation closely. However, the potential for higher oil prices due to a war with Iran could lead to increased costs for businesses and consumers, which could negatively impact earnings for companies with high energy costs or those exposed to the oil industry. This could lead to a revaluation of stocks in the medium term as investors reassess the earnings outlook for these companies.",
+      "risks": [
+        "inflation risk",
+        "oil price volatility risk",
+        "economic growth slowdown risk"
+      ]
+    }
+  },
+  {
     "id": "7873538",
     "headline": "Iran's Supreme Leader Mojtaba Khamenei says new management of Strait of Hormuz 'will bring calm' - Reuters",
     "summary": "Iran's Supreme Leader Mojtaba Khamenei says new management of Strait of Hormuz 'will bring calm'  Reuters",
@@ -125,6 +230,39 @@
     }
   },
   {
+    "id": "7873666",
+    "headline": "Iran's North American diaspora split over next steps after Trump's ceasefire - Reuters",
+    "summary": "Iran's North American diaspora split over next steps after Trump's ceasefire  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQzNvZ21GZUpXNXdKakwwVW1FaFc4YTZubjBtQmp1SmFWb2VORUdIa3RIeGwtdGpEQWtIaEhreVpKcUp1cWM0R2lETzJRQVdIWGltbmtQc3V6Zk9NT0FBUzVVSUdqaW9UejgxVUJnT0ljdjVlOHU0Z1ZfSWJIYlNEeXFucHQ2YXd6QVBZVHNPTUMtRlV3Rl92aFZLWjA1TVlrcldiRHBxcXpLb2ZCOXllazhwUUl0eFFmS20yd3ZfeTdDRnRFVl9MZmhGcXk0dw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1777545145,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1777568889,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Iran's North American diaspora is divided on the next steps following the US President Trump's ceasefire announcement. The diaspora, which has been a vocal critic of the Iranian government, is split between those who see the ceasefire as a positive development and those who believe it is a sign of weakness. The background is that the US has imposed economic sanctions on Iran, which has affected the Iranian economy and led to protests and unrest. The ceasefire announcement has sparked a debate among the diaspora on whether it is a sign of a shift in US policy or just a temporary measure. The logical chain from the news to the business fundamentals is that a shift in US policy could have a positive impact on Iran's economy, but it is uncertain whether this will happen.",
+      "impact": "The potential impact on related stocks is neutral in the short-term, as the ceasefire announcement does not provide clear guidance on the future of US-Iran relations. However, if the ceasefire leads to a shift in US policy, it could have a positive impact on Iran's economy, potentially benefiting companies with exposure to the country. This could lead to a medium-term increase in earnings outlook and valuation for these companies, as well as a positive sentiment shift among investors.",
+      "risks": [
+        "Uncertainty around US policy towards Iran",
+        "Potential for protests and unrest in Iran",
+        "Impact on US-Iran relations"
+      ]
+    }
+  },
+  {
+    "id": "7874337",
+    "headline": "Trader or driller? Iran war exposes Big Oil's transatlantic divide - Reuters",
+    "summary": "Trader or driller? Iran war exposes Big Oil's transatlantic divide  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUUxSUlpzR05WdWNTTnBJaElDd21LZ1dtdDZzQ2lNVTJSM0ZyNTkwMkZ5djRHUnNRNkpaYkVWb0hIalJIQ1hUbEIzanJrNm1xcEUwOEZGV0tneXkzOFZ2VThJcjdFQnpINWl2Z1hpQTJMcjBjOGxrRlFMWUZsOGJ0S2hVdzBZVGdSamNIbERDaDFIVmR0bjVxMV85Q2g0VUd2bTRZUkJlZ0gxVjNIcUNpdHZJMjB6Nm5OWHFLRw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1777529460
+  },
+  {
     "id": "7873772",
     "headline": "Unilever to hike prices in 'small doses' as Iran war threatens to hit shoppers - Reuters",
     "summary": "Unilever to hike prices in 'small doses' as Iran war threatens to hit shoppers  Reuters",
@@ -132,7 +270,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1777545968,
+    "publishedAt": 1777529400,
     "analysis": {
       "version": 2,
       "generatedAt": 1777563159,
@@ -144,39 +282,6 @@
         "higher raw material costs risk",
         "supply chain disruption risk",
         "consumer spending slowdown risk"
-      ]
-    }
-  },
-  {
-    "id": "7873666",
-    "headline": "Iran's North American diaspora split over next steps after Trump's ceasefire - Reuters",
-    "summary": "Iran's North American diaspora split over next steps after Trump's ceasefire  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQzNvZ21GZUpXNXdKakwwVW1FaFc4YTZubjBtQmp1SmFWb2VORUdIa3RIeGwtdGpEQWtIaEhreVpKcUp1cWM0R2lETzJRQVdIWGltbmtQc3V6Zk9NT0FBUzVVSUdqaW9UejgxVUJnT0ljdjVlOHU0Z1ZfSWJIYlNEeXFucHQ2YXd6QVBZVHNPTUMtRlV3Rl92aFZLWjA1TVlrcldiRHBxcXpLb2ZCOXllazhwUUl0eFFmS20yd3ZfeTdDRnRFVl9MZmhGcXk0dw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1777545145
-  },
-  {
-    "id": "7872634",
-    "headline": "From surplus to strain: world rice supply threatened by Iran war, El Nino - Reuters",
-    "summary": "From surplus to strain: world rice supply threatened by Iran war, El Nino  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObXhRRDdPYUtROHRKeDAtNG5zcHQzRFAwVXpSQTZQQjlBbTNPeGVMdjJCNVV6Z3dMbnN3dTdFdTl3eFZMYms4Q0tQTTVEeEZEUjRrblFrMUMwbXpVZmRnZ3A0MVNNTDJuVlJTRUFwVExxNGVBQ3JyQVc5Z2F3a21JLTcyZkdfcEs2dkJlZ2F0cDF4SmViaWYyRktWbkF1SWE4NVlJUXEzZXY3STBrblgwMDRjd2NtSktqX0E?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1777534715,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1777543037,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "A potential war in Iran and the El Nino weather phenomenon are threatening the global rice supply, leading to a shift from a surplus to a strain in the market. Iran is a major rice exporter, and a conflict could disrupt shipments, while El Nino is expected to impact rice production in key countries such as Thailand and Vietnam. This could lead to higher prices and reduced availability of rice, affecting food security and potentially impacting the agricultural and food processing industries. The impact on the global rice market is expected to be significant, with prices potentially increasing by 10-20% in the coming months.",
-      "impact": "The potential shortage of rice could have a negative impact on companies involved in the agricultural and food processing industries, particularly those with significant exposure to the global rice market. Companies such as Archer Daniels Midland (ADM) and Bunge Limited (BG) may see their earnings outlook deteriorate due to higher input costs and reduced demand. The sentiment towards these companies could become more bearish, leading to a decline in their stock prices. Additionally, the potential for food price inflation could lead to a decrease in consumer demand for food products, further impacting the earnings of companies in the food processing industry.",
-      "risks": [
-        "Disruption to global rice supply chain",
-        "Increased food price inflation",
-        "Reduced demand for food products"
       ]
     }
   },
@@ -199,6 +304,16 @@
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
     "publishedAt": 1777524600
+  },
+  {
+    "id": "7874338",
+    "headline": "StanChart profit surges on Gulf bond issuance, books $190 million charge on Iran war - Reuters",
+    "summary": "StanChart profit surges on Gulf bond issuance, books $190 million charge on Iran war  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb2pnd3lIRUxzaHQ0dFgwMmhYOEMtUEwwNmdZbGdiWjNlZ1Ywa3ZUdVM1VVRxcVdTVzZhOTl4S0dSVmRFbmpsYzdMN1FsaUs2a24xbTROMFNlTGdpTExXNHAyc0xaQS1YWEt6dmIzZHQ0akkxSC1oY01LdWJSMDVHcHlocXg5YzU2U2Y2Z2NsSi1SRFpiSkJ4WjRSb0FkVmJiODUxaC1ZTGRzSjJGMUE?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1777522260
   },
   {
     "id": "7871880",
@@ -1892,6 +2007,29 @@
     }
   },
   {
+    "id": "7862350",
+    "headline": "BP quarterly profit beats expectations at $3.2 billion, driven by Iran war trading boon - Reuters",
+    "summary": "BP quarterly profit beats expectations at $3.2 billion, driven by Iran war trading boon  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSllpY284Nm5nTk5hN0dGZ1RKXzFCLVg5UkQ5TjNsLUtEbzlmMFJzUWF2VlpCaFpNM0RZSXYyZ1lQQVdwU2gxYUVXLVdZbzRKVW5ndm05dFhHeHRwSGNnWlRVVWQwY0tlWXlMQm16R2dJNFY2dGl5cWhFenVHOUJRRU1YTDdkd2RjOGZBRUdnUXhFNkE5eVE?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1777387562,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1777370927,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "BP's quarterly profit has exceeded expectations, driven by a significant gain from trading activities related to the Iran war. This unexpected windfall has boosted the company's earnings, providing a positive surprise to investors. The Iran war has created a surge in demand for oil, leading to increased trading opportunities for BP. The company's ability to capitalize on this situation demonstrates its agility and adaptability in a rapidly changing market.",
+      "impact": "The positive earnings surprise is likely to boost investor sentiment towards BP, potentially leading to a short-term increase in stock price. In the medium term, this news may also positively impact BP's earnings outlook, as the company's trading activities continue to benefit from the Iran war. However, investors should be cautious of potential risks, including the volatility of oil prices and the ongoing geopolitical tensions in the region.",
+      "risks": [
+        "Oil price volatility risk",
+        "Geopolitical risk in the Middle East",
+        "Dependence on Iran war-related trading activities"
+      ]
+    }
+  },
+  {
     "id": "7863994",
     "headline": "Iran's Guards seize wartime power, weakening Supreme Leader's role - Reuters",
     "summary": "Iran's Guards seize wartime power, weakening Supreme Leader's role  Reuters",
@@ -1899,7 +2037,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1777386682,
+    "publishedAt": 1777386360,
     "analysis": {
       "version": 2,
       "generatedAt": 1777397131,
@@ -2585,29 +2723,6 @@
         "Project delay risk",
         "Trade disruption risk",
         "Earnings decline risk"
-      ]
-    }
-  },
-  {
-    "id": "7862350",
-    "headline": "BP quarterly profit beats expectations at $3.2 billion, driven by Iran war trading boon - Reuters",
-    "summary": "BP quarterly profit beats expectations at $3.2 billion, driven by Iran war trading boon  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSllpY284Nm5nTk5hN0dGZ1RKXzFCLVg5UkQ5TjNsLUtEbzlmMFJzUWF2VlpCaFpNM0RZSXYyZ1lQQVdwU2gxYUVXLVdZbzRKVW5ndm05dFhHeHRwSGNnWlRVVWQwY0tlWXlMQm16R2dJNFY2dGl5cWhFenVHOUJRRU1YTDdkd2RjOGZBRUdnUXhFNkE5eVE?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1777356360,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1777370927,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "BP's quarterly profit has exceeded expectations, driven by a significant gain from trading activities related to the Iran war. This unexpected windfall has boosted the company's earnings, providing a positive surprise to investors. The Iran war has created a surge in demand for oil, leading to increased trading opportunities for BP. The company's ability to capitalize on this situation demonstrates its agility and adaptability in a rapidly changing market.",
-      "impact": "The positive earnings surprise is likely to boost investor sentiment towards BP, potentially leading to a short-term increase in stock price. In the medium term, this news may also positively impact BP's earnings outlook, as the company's trading activities continue to benefit from the Iran war. However, investors should be cautious of potential risks, including the volatility of oil prices and the ongoing geopolitical tensions in the region.",
-      "risks": [
-        "Oil price volatility risk",
-        "Geopolitical risk in the Middle East",
-        "Dependence on Iran war-related trading activities"
       ]
     }
   },
@@ -22551,117 +22666,6 @@
         "Employee engagement risk: Companies with disengaged employees may see decreased productivity and increased turnover, leading to higher recruitment and training costs.",
         "Reputation risk: Companies with poor leadership and employee engagement may suffer reputational damage, leading to decreased customer loyalty and revenue."
       ]
-    }
-  },
-  {
-    "id": "7763479",
-    "headline": "Iranian Oil Refining Company confirms attack on Lavan refinery, Shana reports - Reuters",
-    "summary": "Iranian Oil Refining Company confirms attack on Lavan refinery, Shana reports  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNmEyWW9lZkpSSkZrLXdud1FvTVh6VXFMcEtoZktKRjJ4SFhCemI5aVNydFNpZXk4NllTWXZQZzZvdkxfUDVJVzhLTTNhLW9xMDFTXzE2X2YyUEdnbDBFRXQ4SDB6VVYzTFNVRDlzOFNTV0RJOE1ock1RMmlOMnhXNjBvc2Fhb01pRVcydWNZb0E5cW5SOUEyTDZlaW43MHhob0tjc1hEY0JBd0ltMFJOWlIyUVFzVE9OMHlKSmU4TnFtV0U?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1775653293,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1775648600,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The Iranian Oil Refining Company has confirmed an attack on its Lavan refinery, according to a report by Shana, a news agency. The attack is likely to disrupt oil production and exports from Iran, a major oil producer. The Lavan refinery is a significant facility, and its disruption could impact Iran's oil production capacity. The attack may be a result of ongoing tensions in the region, which could escalate further.",
-      "impact": "The attack on the Lavan refinery is likely to have a negative impact on oil prices in the short term, as it reduces Iran's oil production capacity. This could lead to a decrease in global oil supply, potentially driving up prices. The medium-term impact will depend on the duration of the disruption and the ability of Iran to restore production. The attack may also increase tensions in the region, potentially affecting investor sentiment and oil prices.",
-      "risks": [
-        "Disruption to oil production and exports from Iran",
-        "Escalation of regional tensions",
-        "Uncertainty around the duration of the refinery disruption"
-      ]
-    }
-  },
-  {
-    "id": "7764039",
-    "headline": "Can the US and Iran bridge their differences in talks? - Reuters",
-    "summary": "Can the US and Iran bridge their differences in talks?  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRjFPWXAxalZybTVKUmx5QVlGOVktWU50dF96aDFUSmF3TnFMSTdscURBcldSd05xbWFfV2wxR3BVVzBMb19zMGJiMC13T1YtbjFaY3VRdXB2TzdFSDlhTXhCcjZWQWJQdFJYVUdUTHpsc2VwdnhLNWloaFlsa1Y5eHJscjVrQzNNSjdGdGFSa0RGOGhaR1pRNGFvMElzc3NFZGpoMFNTWHhubFJYeFE?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1775652600,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1775683970,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The US, Iran, Israel, and Pakistan have announced a ceasefire in the region, but the news is largely neutral in its impact on the stock market. The ceasefire is a result of diplomatic efforts to reduce tensions in the region, which has been a major concern for investors. The development is seen as a positive step towards stability, but its impact on the stock market is likely to be limited. The ceasefire may have a positive impact on industries such as defense, aerospace, and energy, which have been affected by the tensions in the region.",
-      "impact": "The ceasefire may lead to a short-term increase in investor sentiment and a subsequent boost to stocks in the defense and aerospace industries, such as Lockheed Martin (LMT) and Boeing (BA). However, the medium-term impact is uncertain, as the ceasefire may not necessarily lead to a significant increase in defense spending or a surge in demand for energy resources. The news may also have a positive impact on the energy sector, particularly oil and gas companies such as ExxonMobil (XOM) and Chevron (CVX).",
-      "risks": [
-        "Uncertainty around the sustainability of the ceasefire",
-        "Potential for renewed tensions in the region",
-        "Impact on defense spending and energy demand"
-      ]
-    }
-  },
-  {
-    "id": "7764041",
-    "headline": "Turkish intelligence played a role securing U.S.-Iran ceasefire, media says - Reuters",
-    "summary": "Turkish intelligence played a role securing U.S.-Iran ceasefire, media says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONFd2LXNsc1VDOUw1Uy05X3B5LXlvbzhUVFFUZFZTclMtTUQ0V3NvMFlFX3lUZ2J0UWhValZJcWJoejlPVFpubEtqOW5TZWNfdVZBd1J4OUxmMFhjN0t0a1Fwei0yenBqNjNYaFN1LUNXSVdwTTJvcU5ja3dNVzNYV0ZRSmxpbXpJRElqb045WFZ1ejd5T3hLV1pGSXI1azBvMmV2MHNnNklqYWVhVHBFS0N5aUtaZXJiSXplS19acFQwLW5oVFJXUg?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1775652584,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1775684017,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Turkish intelligence reportedly played a role in securing a ceasefire between the US and Iran, according to a Reuters article. This development is seen as a positive step towards de-escalation in the region. The ceasefire is a result of diplomatic efforts, with no direct mention of military action. The article does not specify the exact nature of Turkish intelligence's involvement, but it is clear that their efforts contributed to the agreement. This news may have implications for global politics and international relations.",
-      "impact": "The news is unlikely to have a direct impact on the stock market in the short term, but it may lead to a positive sentiment shift towards countries with a strong diplomatic presence in the region, such as Turkey. This could potentially lead to an increase in investor confidence and a subsequent boost in stock prices. However, the impact on individual stocks will depend on their specific exposure to the region and their reliance on diplomatic relations with Iran and the US.",
-      "risks": [
-        "Geopolitical risks remain high in the region, with ongoing tensions between the US and Iran",
-        "Uncertainty surrounding the long-term effectiveness of the ceasefire",
-        "Potential backlash from other countries or groups in the region"
-      ]
-    }
-  },
-  {
-    "id": "7763694",
-    "headline": "Trump threatens tariffs of 50% on countries 'supplying military weapons to Iran'",
-    "summary": "President Donald Trump says the U.S. will impose tariffs of 50% on goods imported to the country from any nation \"supplying military weapons to Iran\".",
-    "url": "https://www.cnbc.com/2026/04/08/trump-threatens-tariffs-countries-supplying-weapons-iran-ceasefire.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108287457-1775497823577-gettyimages-2269551911-AFP_A6VY2T8.jpeg?v=1775649502&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1775650294,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1775652309,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "US President Donald Trump has threatened to impose 50% tariffs on countries supplying military weapons to Iran, effective immediately. This move is in response to a ceasefire agreement announced on Tuesday. The US will work closely with Iranian authorities to discuss tariffs and sanctions relief. The US has also stated that there will be no enrichment of uranium and many of the 15 points in the US peace proposals have already been agreed.",
-      "impact": "The tariffs threat is likely to have a negative impact on countries that supply military weapons to Iran, such as Russia and China. This could lead to a decline in earnings for these companies, as well as a decrease in stock prices. The medium-term effect may be a reduction in trade volumes and a decrease in economic growth for these countries. The sentiment towards these stocks may also turn bearish, leading to lower liquidity and further price declines.",
-      "risks": [
-        "geopolitical risk",
-        "trade war risk",
-        "economic slowdown risk"
-      ]
-    }
-  },
-  {
-    "id": "7764142",
-    "headline": "Iran could open Strait of Hormuz in a controlled way ahead of meeting with US, senior Iranian official says - Reuters",
-    "summary": "Iran could open Strait of Hormuz in a controlled way ahead of meeting with US, senior Iranian official says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdnpxdFo5TkcwMFdGcmdCcTgtODJGdEZHVTVMc1UzYmp2UV9rLWdIV2RPdUlHdFF3ZjZGbDlwejI1czhYWjljckswd01Qem9VcDdMZE1jeWFnY0lyLWFKSjZJelRRQVkydlhXOXRPSy1mNWF3VzFWNFZMaFFzYlFDSWVObHMtSTNnXzhvWW5vZmVpSGRDN1dlaEZ3Y25LLVJUU04wUzlaSjhZd0FhZHNaMW9uTlNqS2dycW55dnUwV2hFSkpZcVU0?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1775650066,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1775687179,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "A senior Iranian official has stated that Iran may open the Strait of Hormuz in a controlled manner ahead of a meeting with the US. The Strait of Hormuz is a critical waterway for global oil trade, and its closure or disruption would have significant economic implications. The announcement comes as tensions between Iran and the US have escalated in recent months. The move could potentially ease concerns about a major oil supply disruption, which has weighed on oil prices and related stocks. The official's statement suggests a possible de-escalation of tensions, but the situation remains uncertain.",
-      "impact": "The potential opening of the Strait of Hormuz could have a positive impact on oil prices and related stocks in the short term, as it would alleviate concerns about a major supply disruption. This could lead to a decrease in oil prices, which could be beneficial for companies with high oil exposure, such as oil producers and refiners. However, the medium-term impact is uncertain, as the situation remains volatile and subject to change. The development could also lead to increased tensions with other countries in the region, which could have negative implications for regional stability and global trade.",
-      "risks": []
     }
   }
 ]
