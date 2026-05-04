@@ -1,5 +1,70 @@
 [
   {
+    "id": "7894843",
+    "headline": "SEC and Elon Musk agree to settle lawsuit over Twitter buyout in 2022",
+    "summary": "The SEC and Elon Musk agreed to settle a lawsuit filed by the regulator last year against the world's richest person.",
+    "url": "https://www.cnbc.com/2026/05/04/sec-and-elon-musk-agree-to-settle-lawsuit-over-twitter-buyout-in-2022.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108299219-17774771532026-04-29t153646z_2098091898_rc23zkalxkbx_rtrmadp_0_musk-openai-court.jpeg?v=1777477287&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1777926555,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1777931181,
+      "sentiment": "neutral",
+      "confidence": 0.8,
+      "summary": "Elon Musk's revocable trust has agreed to pay a $1.5 million civil penalty to settle a lawsuit with the SEC over his delayed disclosure of his Twitter stake in 2022. This is the second settlement between Musk and the SEC, following a 2018 agreement involving Tesla. The SEC had accused Musk of violating securities law, claiming that his delayed disclosure allowed him to buy shares at artificially low prices. The settlement still requires judicial approval. Musk is currently involved in another lawsuit with OpenAI CEO Sam Altman.",
+      "impact": "The settlement is unlikely to have a significant short-term impact on Tesla's stock price, as the fine is relatively small compared to Musk's net worth. However, it may slightly increase investor concerns about Musk's governance and regulatory compliance, potentially affecting sentiment and liquidity in the medium term. The ongoing lawsuits and regulatory scrutiny may also impact Musk's ability to focus on his other business ventures, including Tesla's electric vehicle and renewable energy initiatives.",
+      "risks": [
+        "regulatory scrutiny risk",
+        "governance risk",
+        "sentiment risk"
+      ]
+    }
+  },
+  {
+    "id": "7894844",
+    "headline": "Spirit Airlines CEO on carrier's collapse: 'We just kind of ran out of runway'",
+    "summary": "Spirit Airlines shut down before dawn on Saturday ending its run as the most famous U.S. discount airline.",
+    "url": "https://www.cnbc.com/2026/05/04/spirit-airlines-shut-down-ceo-dave-davis.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108292682-1776360600406-gettyimages-2271644473-_73a8690_wqksapdt.jpeg?v=1776360700&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1777925928,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1777931228,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Spirit Airlines' collapse is a result of years of struggles due to larger airlines copying its business model, failed mergers, higher costs, and rising jet fuel prices. The airline's second bankruptcy filing in less than a year was followed by a failed attempt to secure a $500 million loan from the Trump administration. The loan deal was contingent on fuel prices moderating, but they continued to rise, ultimately leading to the airline's demise. This collapse will leave a significant gap in the US airline market, which other carriers will likely fill.",
+      "impact": "The collapse of Spirit Airlines will likely have a negative impact on the airline industry, particularly for smaller carriers that may struggle to compete with the larger players. In the short term, earnings outlook for airlines may suffer due to the loss of market share and increased capacity. The medium-term impact will be a shift in market dynamics, with other carriers potentially benefiting from the collapse. This may lead to increased competition and downward pressure on prices, affecting the overall profitability of the industry.",
+      "risks": [
+        "Increased competition from other airlines filling the gap left by Spirit",
+        "Potential downward pressure on prices and profitability in the airline industry",
+        "Risk of further consolidation in the industry as smaller carriers struggle to compete"
+      ]
+    }
+  },
+  {
+    "id": "7893235",
+    "headline": "US restaurant sales drop as Iran war pushes gasoline prices higher - Reuters",
+    "summary": "US restaurant sales drop as Iran war pushes gasoline prices higher  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRzl3R2pyaUFGcC16Q2dlUkJoQnVFNmNYMG1DRXlLNkU3eF8tdGlMV1p4NFhCNVdIc0JQdUczWU1jY1NJTTViMVd6SWJZYktaUkdrUmtYdFhPNHdXYXpBOEhxQ0ZoQXNOWnI0R3JsRHRmTWxYTGRLSGh6UEIzVl90ZHhKWWFDV09WZWUzel9peHVhQ1lPOWgtSlBFYnpCZDQxUDF6RVdjYmN5SlJM?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1777923217,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1777906759,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "US restaurant sales have dropped due to the recent escalation of the Iran war, which has pushed gasoline prices higher. This increase in gasoline prices is a significant factor as restaurants rely heavily on gasoline for delivery and transportation costs. The higher costs will likely be passed on to consumers, potentially reducing demand for dining out. The restaurant industry is already facing a challenging environment with rising labor costs, increased competition, and changing consumer preferences. This latest development may exacerbate the existing headwinds.",
+      "impact": "The higher gasoline prices due to the Iran war are likely to negatively impact the restaurant industry's earnings outlook, particularly for companies with high delivery or transportation costs. This may lead to a short-term decline in sales and profitability for these companies. In the medium term, the increased costs may also lead to a re-evaluation of business models, potentially driving consolidation or changes in the industry. The sentiment towards the restaurant industry may also become more bearish, leading to a decline in stock prices.",
+      "risks": []
+    }
+  },
+  {
     "id": "7894208",
     "headline": "US sinks Iranian small boats, shoots down missiles, drones as it opens Strait - Reuters",
     "summary": "US sinks Iranian small boats, shoots down missiles, drones as it opens Strait  Reuters",
@@ -202,7 +267,20 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/108297727-1777305626076-108297727-1777305547238-gettyimages-2257998438-260127_lax_156.jpg?v=1777305636&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1777912776
+    "publishedAt": 1777912776,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1777931275,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Amazon's announcement to open its supply chain network to outside companies poses a significant threat to UPS and FedEx, two major logistics providers. This move allows Amazon to expand its services and potentially capture market share from its competitors. The partnership with major retailers such as Procter & Gamble and American Eagle Outfitters further solidifies Amazon's position in the industry. The impact on UPS and FedEx is likely to be negative, as Amazon's increased presence could lead to reduced demand for their services.",
+      "impact": "The short-term impact on UPS and FedEx is likely to be a decline in stock prices, potentially in the range of 10-20% due to the increased competition. In the medium term, the companies may need to reassess their pricing strategies and operational efficiency to remain competitive. The increased competition from Amazon could also lead to reduced earnings for UPS and FedEx, potentially affecting their valuation multiples. The liquidity of the stocks may also be affected as investors reassess their exposure to the logistics sector.",
+      "risks": [
+        "Reduced demand for UPS and FedEx services",
+        "Increased competition from Amazon",
+        "Potential decline in earnings and valuation multiples"
+      ]
+    }
   },
   {
     "id": "7892986",
@@ -235,7 +313,20 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/108301675-1777910535619-gettyimages-2207487154-20250320_lax_rain_160.jpeg?v=1777910583&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1777912271
+    "publishedAt": 1777912271,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1777931321,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Spirit Airlines' collapse has given its rivals an opportunity to capture its valuable assets, including airport gates and a customer base. Airlines have been preparing for this eventuality and are now launching new flights to fill the gaps left by Spirit's absence. This will likely drive up airfare even more, as there is now less competition in the market. The removal of excess capacity will also benefit other airlines, leading to higher unit revenue outcomes in the near term.",
+      "impact": "The collapse of Spirit Airlines is expected to have a positive impact on the stocks of JetBlue Airways and Breeze Airways, as they are expanding their routes and capacity to capture Spirit's customers. This could lead to higher earnings for these airlines in the short to medium term. However, the increased airfare may negatively impact consumer sentiment and travel demand, which could be a risk for the industry. Additionally, the reduced competition may lead to higher valuations for the affected airlines.",
+      "risks": [
+        "Increased airfare may lead to a slowdown in travel demand",
+        "Regulatory approval risk for new routes and capacity expansion",
+        "Integration risk for airlines expanding their operations in new markets"
+      ]
+    }
   },
   {
     "id": "7893987",
@@ -245,7 +336,20 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/108301675-1777910535619-gettyimages-2207487154-20250320_lax_rain_160.jpeg?v=1777910583&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1777911839
+    "publishedAt": 1777911839,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1777931369,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Spirit Airlines' collapse has triggered a scramble among its rivals to capture its customer base and airport gates, leading to a surge in new flights and route expansions. This move is expected to drive up airfare prices even further, as the remaining airlines vie for market share. The industry has been experiencing rising fuel costs and already-high airfare prices, and Spirit's exit is likely to exacerbate these trends. As a result, airlines are poised to benefit from the removal of excess capacity and increased pricing power.",
+      "impact": "The collapse of Spirit Airlines is likely to have a positive impact on the stocks of its rivals, such as Breeze Airways and JetBlue Airways, as they expand their routes and capture Spirit's customers. This could lead to increased earnings and revenue for these airlines in the near term, driving up their stock prices. However, the increased airfare prices may also lead to a decrease in demand, potentially impacting the airlines' liquidity and sentiment. In the medium term, the industry's pricing power and revenue growth may be sustained, leading to a re-rating of the sector.",
+      "risks": [
+        "Demand slowdown risk due to high airfare prices",
+        "Increased competition risk from new entrants",
+        "Regulatory approval risk for new route expansions"
+      ]
+    }
   },
   {
     "id": "7893988",
@@ -466,25 +570,6 @@
     "publishedAt": 1777890463
   },
   {
-    "id": "7893235",
-    "headline": "US restaurant sales drop as Iran war pushes gasoline prices higher - Reuters",
-    "summary": "US restaurant sales drop as Iran war pushes gasoline prices higher  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRzl3R2pyaUFGcC16Q2dlUkJoQnVFNmNYMG1DRXlLNkU3eF8tdGlMV1p4NFhCNVdIc0JQdUczWU1jY1NJTTViMVd6SWJZYktaUkdrUmtYdFhPNHdXYXpBOEhxQ0ZoQXNOWnI0R3JsRHRmTWxYTGRLSGh6UEIzVl90ZHhKWWFDV09WZWUzel9peHVhQ1lPOWgtSlBFYnpCZDQxUDF6RVdjYmN5SlJM?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1777889485,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1777906759,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "US restaurant sales have dropped due to the recent escalation of the Iran war, which has pushed gasoline prices higher. This increase in gasoline prices is a significant factor as restaurants rely heavily on gasoline for delivery and transportation costs. The higher costs will likely be passed on to consumers, potentially reducing demand for dining out. The restaurant industry is already facing a challenging environment with rising labor costs, increased competition, and changing consumer preferences. This latest development may exacerbate the existing headwinds.",
-      "impact": "The higher gasoline prices due to the Iran war are likely to negatively impact the restaurant industry's earnings outlook, particularly for companies with high delivery or transportation costs. This may lead to a short-term decline in sales and profitability for these companies. In the medium term, the increased costs may also lead to a re-evaluation of business models, potentially driving consolidation or changes in the industry. The sentiment towards the restaurant industry may also become more bearish, leading to a decline in stock prices.",
-      "risks": []
-    }
-  },
-  {
     "id": "7892765",
     "headline": "Iran's Revolutionary Guards unveil new map of Strait of Hormuz under their control, state media says - Reuters",
     "summary": "Iran's Revolutionary Guards unveil new map of Strait of Hormuz under their control, state media says  Reuters",
@@ -588,8 +673,8 @@
   },
   {
     "id": "7891300",
-    "headline": "Gold falls nearly 2% as Middle East risks support dollar, keep inflation fears in focus - Reuters",
-    "summary": "Gold falls nearly 2% as Middle East risks support dollar, keep inflation fears in focus  Reuters",
+    "headline": "Gold falls 2% as Middle East risks support dollar, keep inflation fears in focus - Reuters",
+    "summary": "Gold falls 2% as Middle East risks support dollar, keep inflation fears in focus  Reuters",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZV9RZUw2TkhabGxXQVlGdUNxNkQ4UHVKaUZqSmNFSUFtRXZyYmdZcE1mMmhoQV9ZWHZDRGxfMFdKYTRLeUhZdWxZOTV4SUJFelNBY2prTmw1eVhub3JvZWdFelcxRFY2amJJZnVQVUlNamJkQWwwVThyRnpYalJISlFPVzI0Ym4tZDhmd1k4bFo1NnhDUDVhSFlfQnRWLVRwU2h3U1FkNDBGQzJaYjZpQg?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -680,8 +765,8 @@
   },
   {
     "id": "7893097",
-    "headline": "Dollar edges up as US-Iran conflict keeps risk appetite in check - Reuters",
-    "summary": "Dollar edges up as US-Iran conflict keeps risk appetite in check  Reuters",
+    "headline": "Dollar higher as US-Iran conflict keeps risk appetite muted - Reuters",
+    "summary": "Dollar higher as US-Iran conflict keeps risk appetite muted  Reuters",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMXdTMlJYSnJyVnlpZTRkemFVRUdxS2N1RVpIRTBPOG8yMlB6dGxIUGdqb3VMVEJKSVNmZ3BqbnpoSzNJWXo5MWVDMWF5dVlzaC1tVndTYU02THZIWU8wRDVST0NjZW5BSDdDN0lBT3IzYzRpX29EVGVvcUNLSGd6Ni1mcTJkbFNqZzlKV0NVS1FnVEFHdTU2TlRocGdXa1dyazlnb1NHZlJwamRuRlI1MTE2NmYwLW8?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -22523,52 +22608,6 @@
         "Increased government spending risk",
         "Defense sector earnings slowdown risk",
         "Interest rate sensitivity risk"
-      ]
-    }
-  },
-  {
-    "id": "7775391",
-    "headline": "Sam Altman's house hit with Molotov cocktail, OpenAI San Francisco headquarters threatened",
-    "summary": "Police arrested a suspect at OpenAI's headquarters for allegedly threatening arson after an attack on CEO Sam Altman's home.",
-    "url": "https://www.cnbc.com/2026/04/10/sam-altman-house-hit-with-molotov-cocktail-openai-office-threatened.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108277141-17733159142026-03-11t184619z_378292367_rc2i2ka95hnw_rtrmadp_0_usa-blackrock.jpeg?v=1773315937&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1775851198,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1775852402,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "OpenAI CEO Sam Altman's home was attacked with a Molotov cocktail, and the company's San Francisco headquarters was threatened by the same suspect. This incident occurs amidst controversy surrounding OpenAI's deal with the Department of Defense and a lawsuit from Elon Musk. The attack and subsequent arrest of the suspect may heighten concerns about the company's safety and security, potentially impacting its operations and reputation. The incident also coincides with OpenAI's pursuit of a potential IPO, which may be affected by the negative publicity.",
-      "impact": "The attack and threats may lead to a short-term decline in OpenAI's stock price as investors become increasingly concerned about the company's safety and security. In the medium term, the incident may also impact OpenAI's ability to attract and retain talent, potentially affecting its competitive edge in the market for large language models. Additionally, the lawsuit from Elon Musk and the controversy surrounding the deal with the Department of Defense may continue to weigh on the company's reputation and valuation.",
-      "risks": [
-        "reputation risk",
-        "security risk",
-        "talent attraction and retention risk"
-      ]
-    }
-  },
-  {
-    "id": "7773688",
-    "headline": "After years of war with Russia, Ukraine's farmers are hit by Iran conflict - Reuters",
-    "summary": "After years of war with Russia, Ukraine's farmers are hit by Iran conflict  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPczlQSC01QnYwZXJjeDhTOXpMdEtkalI2QVFaZXQtTzlHNjVhQlYwanpGdXhsZkh0dU8tMm5QV05md1Y2R2xQSU42cDlfX0tSMTdtY0JyYzh6aUs1MkhoakhzSkRSLVdIUmp0NHJpSWpqNzljRHFnZHJNa3BENkoxWngzcVNSVmdieWU4cVJqS013anVoano5VDFuV1hpQkJvRnBsazMzVEwyMV84a0o0X01XQjIwOE1ZTklKMnB3?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1775850033,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1775824612,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Ukraine's farmers are facing a new challenge as the ongoing conflict with Russia is compounded by the Iran conflict, leading to increased costs and uncertainty for agricultural production. The war with Russia has already disrupted Ukraine's agricultural sector, and the Iran conflict is expected to further exacerbate the situation. The conflict has led to increased costs for farmers, including higher fuel prices and reduced access to markets. This is likely to impact Ukraine's agricultural production and exports, which are a significant contributor to the country's economy.",
-      "impact": "The Iran conflict is likely to have a negative impact on Ukrainian agricultural stocks in the short term, as higher costs and reduced access to markets are expected to lead to lower earnings and reduced exports. This could lead to a decline in stock prices for companies such as Kernel Holding SA and Nibulon, which are major players in the Ukrainian agricultural sector. In the medium term, the conflict could also lead to a decrease in investor sentiment and a reduction in foreign investment in the sector, further exacerbating the impact on stock prices.",
-      "risks": [
-        "higher input costs risk",
-        "reduced export risk",
-        "decreased investor sentiment risk"
       ]
     }
   }
