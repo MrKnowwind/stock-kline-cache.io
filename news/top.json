@@ -1,5 +1,51 @@
 [
   {
+    "id": "7908309",
+    "headline": "Jim Cramer's top 10 things to watch in the stock market Thursday",
+    "summary": "Arm shares dropped despite strong CPU demand. And why you shouldn't write off Kraft Heinz.",
+    "url": "https://www.cnbc.com/2026/05/07/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108013743-1722362210934-gettyimages-2155382583-TAIWAN_COMPUTEX.jpeg?v=1774357705&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1778159070,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778167125,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "Jim Cramer highlighted several key events in the stock market, including Arm's disappointing earnings, Kraft Heinz's turnaround efforts, and a partnership between Corning and Nvidia. Arm's shares dropped despite strong CPU demand due to supply chain concerns, while Kraft Heinz's CEO has a plan to restore the company's growth. Cramer also discussed private equity giant Carlyle Group's missed quarter and its potential to sell portfolio companies. Additionally, he touched on McDonald's earnings beat and Fortinet's strong quarter, which boosted cybersecurity stocks.",
+      "impact": "Arm's shares may experience short-term volatility due to supply chain concerns, while Kraft Heinz's turnaround efforts may lead to medium-term growth. Fortinet's strong quarter and cybersecurity stocks' rally may have a positive impact on the sector. The partnership between Corning and Nvidia may have long-term implications for the fiber optic industry. Carlyle Group's missed quarter may lead to a sale of portfolio companies, potentially affecting related stocks.",
+      "risks": [
+        "supply chain disruption risk",
+        "valuation risk for Arm",
+        "portfolio company sale risk for Carlyle Group"
+      ]
+    }
+  },
+  {
+    "id": "7908082",
+    "headline": "Exclusive: Hungry to sell, UAE slips hidden oil tankers through Strait of Hormuz - Reuters",
+    "summary": "Exclusive: Hungry to sell, UAE slips hidden oil tankers through Strait of Hormuz  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRjNQVDRxamlZMDlncVBKeDc1WXpxMERnZHcwb2FPOWxyU3dIb0RUaGk4c1RXczQxeS1HQ1RMbGwybkpNckFTT0ZsNGdOdUR5bFRnVFlzcEZiQUpOWWVOR0hYLW1FWlJtMEZVbW9zOTRfX3puVzY5bVhjWnA3cEI0WVI0bkNZWERuZ3lWOWFqX2ZwRGxxc242d2RjUEFtZ2dJcVdJc3cycDdEaHJxYlQybkVJSDI?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1778158549,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778156862,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The United Arab Emirates (UAE) has been secretly sending oil tankers through the Strait of Hormuz, bypassing international sanctions. This move is seen as a sign of the UAE's desperation to sell oil, despite the ongoing global supply glut. The UAE's actions are likely driven by a need to meet its financial obligations and maintain its economic stability. The Strait of Hormuz is a critical waterway for oil exports, and any disruptions to its flow can have significant implications for global oil markets.",
+      "impact": "The news is likely to have a bearish impact on oil prices in the short-term, as the increased supply from the UAE could exacerbate the existing supply glut. This could lead to a decline in oil prices, negatively affecting the earnings outlook of oil-related companies. The medium-term impact may be more significant, as the UAE's actions could lead to a re-evaluation of the global oil market dynamics and potentially disrupt the OPEC+ agreement. This could result in a shift in the global oil price trajectory, affecting the valuation of oil-related stocks.",
+      "risks": [
+        "Global oil price volatility risk",
+        "Disruption to OPEC+ agreement risk",
+        "Increased supply glut risk"
+      ]
+    }
+  },
+  {
     "id": "7907968",
     "headline": "Gold and silver's historic rally could resume 'as fog of war lifts', market watchers say",
     "summary": "On Thursday, spot gold jumped 1.2% to $4,750 per ounce amid hopes that the U.S. and Iran could be nearing a deal to bring the 69-day war to an end.",
@@ -23,25 +69,49 @@
     }
   },
   {
-    "id": "7908082",
-    "headline": "Exclusive: Hungry to sell, UAE slips hidden oil tankers through Strait of Hormuz - Reuters",
-    "summary": "Exclusive: Hungry to sell, UAE slips hidden oil tankers through Strait of Hormuz  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRjNQVDRxamlZMDlncVBKeDc1WXpxMERnZHcwb2FPOWxyU3dIb0RUaGk4c1RXczQxeS1HQ1RMbGwybkpNckFTT0ZsNGdOdUR5bFRnVFlzcEZiQUpOWWVOR0hYLW1FWlJtMEZVbW9zOTRfX3puVzY5bVhjWnA3cEI0WVI0bkNZWERuZ3lWOWFqX2ZwRGxxc242d2RjUEFtZ2dJcVdJc3cycDdEaHJxYlQybkVJSDI?oc=5",
+    "id": "7908434",
+    "headline": "Wall Street bonuses seen flat to slightly positive in 2026 as Iran war and private credit turmoil hurt - Reuters",
+    "summary": "Wall Street bonuses seen flat to slightly positive in 2026 as Iran war and private credit turmoil hurt  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZ0owa0Q1TU1oaFM3WXVVZ0UwQURFUjA3U0tTOFptcG9VcWp1OWRFbjZIWWdYVFJHWWVwSHNfRTZ6bHB1NUFtbHp2QmxQOW9LVzZfVm56YUppNkJOOVRZVzJGaU1ubG0wN0l0aW5TY1REYlhtS3RRXzd4M0lnV3RwNE54eE5ObmZEVTlKeUhOb25nSFF6SGd0b0lqRW9VZ2RGVkJzSzd6T3V6VDN0Q3p3LUF1dWM2VEYzc3g2YWpWa05PZWhsazhmU1NOamliRUNNZ3VSOTVLcjQ2Uy0zZllMZGdhTWZwY0k?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1778151842,
+    "publishedAt": 1778148225,
     "analysis": {
       "version": 2,
-      "generatedAt": 1778156862,
+      "generatedAt": 1778167170,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "The article reports that Wall Street bonuses are expected to remain flat or slightly positive in 2026 due to the ongoing Iran war and private credit turmoil. This is a negative development for the financial industry, particularly for investment banks and financial institutions that rely heavily on bonuses as a significant portion of their revenue. The Iran war has led to increased uncertainty and volatility in the global economy, making it challenging for financial institutions to predict their earnings and bonuses. As a result, investors may become more cautious, leading to decreased trading volumes and lower stock prices for related stocks.",
+      "impact": "The potential impact on stocks related to the financial industry, such as investment banks and financial institutions, may be negative in the short-term due to decreased bonuses and lower trading volumes. This could lead to lower earnings and reduced stock prices. In the medium-term, the Iran war and private credit turmoil may also impact the overall economic growth, leading to a decrease in corporate earnings and further pressure on stock prices. The sentiment towards the financial industry may also become more negative, leading to decreased investor confidence and lower stock prices.",
+      "risks": [
+        "Decreased trading volumes risk",
+        "Lower earnings risk",
+        "Decreased investor confidence risk",
+        "Economic downturn risk"
+      ]
+    }
+  },
+  {
+    "id": "7908436",
+    "headline": "First Chinese product tanker attacked on Monday near the Strait of Hormuz, Caixin reports - Reuters",
+    "summary": "First Chinese product tanker attacked on Monday near the Strait of Hormuz, Caixin reports  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOa3k1bVJQd0NHeHlYZmNKZmZhVkpQWk9PbV9OcWNSQ2VZcGpNdS1UeXgyTDFHSUtSdllmRHR3WmNOOEo5eDlOYnZCSGc5UkctRW1aS0tpZVdlek5DbTRNeFJWRkNVMEVZcks3SDBkWnRsaEo5amxmUmFNNHo2YXRmemp0YVFZd2F1cDM5LUQzZFVxNlRkYXNLcUY0V0NCVzEwTmcyeGF3YVNFWDgyWEkzYmdLenVlel9zbEJ6YkhGbmxLQ05y?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1778147781,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778167214,
       "sentiment": "bearish",
       "confidence": 0.8,
-      "summary": "The United Arab Emirates (UAE) has been secretly sending oil tankers through the Strait of Hormuz, bypassing international sanctions. This move is seen as a sign of the UAE's desperation to sell oil, despite the ongoing global supply glut. The UAE's actions are likely driven by a need to meet its financial obligations and maintain its economic stability. The Strait of Hormuz is a critical waterway for oil exports, and any disruptions to its flow can have significant implications for global oil markets.",
-      "impact": "The news is likely to have a bearish impact on oil prices in the short-term, as the increased supply from the UAE could exacerbate the existing supply glut. This could lead to a decline in oil prices, negatively affecting the earnings outlook of oil-related companies. The medium-term impact may be more significant, as the UAE's actions could lead to a re-evaluation of the global oil market dynamics and potentially disrupt the OPEC+ agreement. This could result in a shift in the global oil price trajectory, affecting the valuation of oil-related stocks.",
+      "summary": "A Chinese product tanker was attacked near the Strait of Hormuz on Monday, according to Caixin. The incident highlights the increasing risks and uncertainties in the global shipping industry, particularly in the Middle East. The Strait of Hormuz is a critical waterway for oil exports, and any disruptions can impact global oil prices and demand. This incident may lead to increased costs and risks for shipping companies, potentially affecting their earnings and profitability.",
+      "impact": "The attack on the Chinese product tanker may lead to a short-term increase in oil prices, which could negatively impact the earnings of companies in the shipping and oil industries. In the medium term, this incident may lead to increased costs and risks for shipping companies, potentially affecting their profitability and valuation. The incident may also lead to a decrease in investor sentiment towards the shipping industry, potentially affecting liquidity and stock prices.",
       "risks": [
-        "Global oil price volatility risk",
-        "Disruption to OPEC+ agreement risk",
-        "Increased supply glut risk"
+        "Increased costs and risks for shipping companies",
+        "Decreased investor sentiment towards the shipping industry",
+        "Potential disruption to global oil supplies and prices"
       ]
     }
   },
@@ -65,6 +135,29 @@
         "trade war escalation risk",
         "economic slowdown risk",
         "geopolitical risk"
+      ]
+    }
+  },
+  {
+    "id": "7908647",
+    "headline": "Iran war to accelerate China's shift to electric trucks from diesel - Reuters",
+    "summary": "Iran war to accelerate China's shift to electric trucks from diesel  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbmtKTG9Oem5EMkFYaG10MTY3TTNVaEExR2VhcGJXOTB6X0VLUlJ4M0w4SjlTay01NHo3c2JuOC1WRnFZbGxmRFNhT3Fzcmo2WHFvWk4zWEZxaXIyT1NlR0hETzNmdm1qX09zSTh3bkp6OWhWWm9BZ1NyRmYtQ3JJcm5ncUJPRnhha2l5UFZHcm12dU1Ya0xnWWQ2U0trTFZOYjVlenV3?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1778142944,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778167262,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "China's shift to electric trucks from diesel is expected to accelerate due to the Iran war, which could disrupt oil supplies and increase fuel prices. This development is a result of the ongoing conflict in the Middle East and its impact on global energy markets. China's trucking industry is heavily reliant on diesel fuel, and a shift to electric trucks would reduce dependence on foreign oil and mitigate the risks associated with price volatility. The move towards electric trucks is expected to be driven by government policies and regulations, as well as increasing consumer demand for sustainable and environmentally friendly transportation options.",
+      "impact": "This news is likely to have a positive impact on companies involved in the electric vehicle (EV) and battery technology sectors in China. Companies such as BYD and Geely, which are already investing heavily in EV technology, may see an increase in demand for their products and services. In the short-term, this could lead to higher earnings and revenue growth for these companies, while also driving up their stock prices. In the medium-term, the increased demand for EVs could lead to a reduction in production costs and an improvement in margins for these companies.",
+      "risks": [
+        "Supply chain disruptions risk due to increased demand for EV components",
+        "Competition from established players in the trucking industry",
+        "Regulatory risks associated with the adoption of new technologies"
       ]
     }
   },
@@ -118,7 +211,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1778133840
+    "publishedAt": 1778133840,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778167306,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "The article suggests that an end to the Iran war could lead to a decline in the US dollar's value. This is because the war has been a safe-haven asset for investors, and its end would lead to a decrease in demand for the dollar. The article implies that this could have a significant impact on the US economy and the dollar's value. The dollar has been a key safe-haven asset during the war, and its decline could lead to a shift in investor sentiment and a potential increase in risk-taking behavior.",
+      "impact": "The potential decline of the dollar could have a positive impact on US multinational companies with significant international operations, as a weaker dollar would make their exports more competitive. However, it could also lead to higher import costs and inflation, potentially negatively impacting companies with significant import exposure. The article does not mention specific stocks, but companies with significant international operations, such as Boeing (BA) or Caterpillar (CAT), could be positively impacted.",
+      "risks": [
+        "economic downturn risk",
+        "inflation risk",
+        "currency volatility risk"
+      ]
+    }
   },
   {
     "id": "7907327",
@@ -145,8 +251,8 @@
   },
   {
     "id": "7906695",
-    "headline": "US and Iran inch towards short-term deal to end fighting - Reuters",
-    "summary": "US and Iran inch towards short-term deal to end fighting  Reuters",
+    "headline": "US and Iran explore short-term deal to end fighting - Reuters",
+    "summary": "US and Iran explore short-term deal to end fighting  Reuters",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVW03RmZ6aF9hQjdpSlhWdVZwVl90c0UzLTBpSXlGVFFHVi1MaXJQU21yQXgwZ1BmeEplUlFWSE1mdS0wMTdzQm9uaEFmSmNzcGo0V2hxdFpSUzVJWEdkdFIyLUlTeTduT2FKV2xwOG94V1FCYjNjWnFGUGo0V2pHLWQ0dUFQTzVsS3ExaVlDSVhrNXN1V09LZjFFVzc3UTg3M05RTjN3?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -165,6 +271,16 @@
         "Impact on global oil prices may be short-lived"
       ]
     }
+  },
+  {
+    "id": "7908435",
+    "headline": "Rubio departs Vatican after meeting Pope Leo amid tensions with Trump - Reuters",
+    "summary": "Rubio departs Vatican after meeting Pope Leo amid tensions with Trump  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTjNJc05oWWgyS1FkQUxOemhPaW1wclRWM295SGRHdWd4dW40ZFFMTUtWR3dxMHFfamdhY2RPOGIwQnRjT0dPWVpUU0JfZWhDVE9rLURoWHNkbkNYaGxHUTV1YS1rNnkxZlo1MmIwQmJhd0dZc1pocTRFYzhyR3JKOW5uejY1MjhYSWpYSzlyTk9BLVl0QnFZ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1778122920
   },
   {
     "id": "7907433",
@@ -237,9 +353,19 @@
     }
   },
   {
+    "id": "7908540",
+    "headline": "Stocks edge up, oil prices continue pullback on peace optimism - Reuters",
+    "summary": "Stocks edge up, oil prices continue pullback on peace optimism  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSjgybFlUbGtvQkkxNUJZeHVsd3ZYMzN5MW9vLWk2TUZtZ1FRTUFsOXZhUEVEZnVuNG00THMzaTRtQWY5UENKb3F0dkc0ODdDQlJCSmhqWUpNMmhIaHBpV0poaVpYWXBHZ1ZwZUZvU2djWm5tYU1nNFJSQ1NFR2t5MFEyRy0?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1778118600
+  },
+  {
     "id": "7906912",
-    "headline": "Gold climbs to two-week high as US-Iran peace hopes push oil lower - Reuters",
-    "summary": "Gold climbs to two-week high as US-Iran peace hopes push oil lower  Reuters",
+    "headline": "Gold extends gains as US-Iran peace hopes ease inflation concerns - Reuters",
+    "summary": "Gold extends gains as US-Iran peace hopes ease inflation concerns  Reuters",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOa21wcmpORlVhZVFvRWs3QmduODVRMU9TenpJWXNIX1dpVUFFNzRleEQ0OVFGdkx1dXRkSmN5dXpSNlB1SmZrQ1d5V2czZVZZR3ZLcy1LLUlGRzVOS3Vib01ESGtiTlpDakVjdXFmR2NfWUFWdFhkWWZrWkpSQS1vQlZvbE5UcEVBQjEwQk9jVDFub0RnRjRvSWd2SUhzMWFnRmZITA?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -327,6 +453,16 @@
         "macroeconomic risk: changes in consumer spending habits and economic conditions could impact the company's sales and revenue"
       ]
     }
+  },
+  {
+    "id": "7908648",
+    "headline": "ASEAN presses for joint response to Iran war fallout as energy crisis weighs - Reuters",
+    "summary": "ASEAN presses for joint response to Iran war fallout as energy crisis weighs  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeFZZZGxhcE9Db2JWSERoNlI1TzBnVFp2b3BoTjBOaWdsZW1KbXRLU09qbjFfTGxJa1hsSERNdGZucm1jZlJ1NlF0YWpzUmFmS0NjR2FHNzlVdVpBaGdlNTNVbFI3RWxMQ2VLTHc0U3hTbEszbGZLelpNa2FzQkk1R0M1OWpWdFVVd1kydnFuRnJWMzhqSkNyYkZnekNkaDdPbGVWTzZ3?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1778104980
   },
   {
     "id": "7904922",
@@ -22528,167 +22664,6 @@
         "valuation risk",
         "sentiment risk",
         "liquidity risk"
-      ]
-    }
-  },
-  {
-    "id": "7793703",
-    "headline": "Lucid names auto industry outsider as CEO, expands Uber deal",
-    "summary": "Lucid Group has named former chairman and CEO of Schindler Group, an industrial machinery manufacturer of escalators and elevators, as its new chief executive.",
-    "url": "https://www.cnbc.com/2026/04/14/lucid-ceo-silvio-napoli.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108287650-1775514739032-NYIAS_04022026_DeVries-409.jpg?v=1775515119&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1776173192,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1776176789,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Lucid Group has appointed Silvio Napoli as its new CEO, replacing Peter Rawlinson who departed in February 2025. Napoli, a former chairman and CEO of Schindler Group, brings operational expertise and financial discipline to the role. The company also announced a $750 million investment from an affiliate of Saudi Arabia's Public Investment Fund and Uber, expanding their previous tie-up. This investment includes Uber purchasing at least 35,000 Lucid vehicles for its robotaxi service, up from 20,000 previously announced. Lucid's new CEO and investments signal a shift in direction for the company, focusing on scaling and executing its strategy.",
-      "impact": "The news is likely to have a positive impact on Lucid's stock price in the short-term, driven by the increased investment and partnership with Uber. The expanded deal with Uber could also lead to increased revenue and growth prospects for Lucid. However, the company's earnings outlook and valuation multiples may face upward pressure as investors reassess the company's growth potential. Additionally, the appointment of a new CEO with a non-auto industry background may lead to a period of transition and uncertainty for the company.",
-      "risks": [
-        "Transition risk: The company may face challenges in adapting to Napoli's leadership style and operational expertise.",
-        "Integration risk: The expanded partnership with Uber may require significant integration efforts, which could be time-consuming and costly.",
-        "Valuation risk: The increased investment and growth prospects may lead to a revaluation of the company's stock price, potentially making it overvalued."
-      ]
-    }
-  },
-  {
-    "id": "7793599",
-    "headline": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
-    "summary": "Stocks are headed for a higher open, including the Nasdaq. The index enters today's session up nine sessions in a row, the longest winning streak since 2023.",
-    "url": "https://www.cnbc.com/2026/04/14/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108282848-1774449065459-gettyimages-2268295148-mms23900_hp4oyc4i.jpeg?v=1776170994&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1776171967,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1776176836,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The stock market is expected to open higher, with the Nasdaq entering its longest winning streak since 2023. Johnson & Johnson reported a solid Q1, beating estimates and raising guidance. Wells Fargo's Q1 earnings fell short of expectations, while JPMorgan and Citigroup's earnings were mixed. United Airlines and American Airlines shares rose after a potential merger was pitched at the White House. Analysts are bullish on Starbucks and Microsoft, but with caution.",
-      "impact": "The market's overbought condition and potential earnings misses may lead to a short-term correction. Johnson & Johnson's strong earnings and raised guidance could support the stock's price. Wells Fargo's disappointing earnings may lead to a decline in its stock price. The potential merger between United Airlines and American Airlines could lead to increased volatility in their shares. Analysts' upgraded price targets for Starbucks and Microsoft may support their stock prices, but investors should keep expectations low due to the companies' challenges in their respective industries.",
-      "risks": [
-        "market correction risk",
-        "earnings miss risk",
-        "industry challenges risk"
-      ]
-    }
-  },
-  {
-    "id": "7793598",
-    "headline": "Treasury Secretary Bessent now says it's OK for the Fed to wait to lower rates amid oil surge",
-    "summary": "Bessent has previously said the Fed should hasten cutting interest rates, calling reductions \"the only ingredient missing\" for stronger economic growth.",
-    "url": "https://www.cnbc.com/2026/04/14/treasury-secretary-bessent-now-says-its-ok-for-the-fed-to-wait-to-lower-rates-amid-oil-surge.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108284103-17746217232026-03-27t141849z_160614809_rc22dkascbwt_rtrmadp_0_usa-vance.jpeg?v=1774621753&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1776171254,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1776176882,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "US Treasury Secretary Scott Bessent has changed his stance on interest rates, now suggesting the Fed can wait to lower rates amid an oil price surge. This shift in thinking comes as the Fed faces a complicated mandate to balance rising inflation with slowing growth. Bessent previously advocated for rate cuts, citing them as a key driver of stronger economic growth. The change in his stance may indicate a more cautious approach to monetary policy. The Fed is expected to hold rates steady this year, with a slim possibility of a hike.",
-      "impact": "The news may lead to a short-term pause in the decline of the US dollar, potentially benefiting export-oriented companies. However, the medium-term impact on the US economy and interest rates remains uncertain, as the Fed's decision will depend on various economic indicators. The shift in Bessent's stance may also influence the market's expectations for Fed Chair Jerome Powell's term, potentially affecting the stock prices of banks and financial institutions.",
-      "risks": [
-        "inflation risk",
-        "economic growth slowdown risk",
-        "Fed policy uncertainty risk"
-      ]
-    }
-  },
-  {
-    "id": "7787568",
-    "headline": "What does a US naval blockade of Iran mean for oil flows? - Reuters",
-    "summary": "What does a US naval blockade of Iran mean for oil flows?  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQWl1RFA3RW1leHlOYVRnNDdIcjVubVI3VjhfU1FVN3BvdFNLRFNKY2l0OUxJVVRPR0djcEtBX1hzOWk2TkVTMk4wWGN3N1NINmhfRmtjUGNoRUpPWkdFWk52a013UVFtNVBORnRuRzFQdWUwLWdQTDBYNU1heFN5R24yQnVfZVZJOTk0N1NNbzlQamhGZ0hZcFBoMGJ4c1B0a2dF?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1776171231,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1776072220,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "A US naval blockade of Iran would significantly disrupt oil flows from the region, particularly from Iran, which is a major oil producer. The blockade would likely lead to a shortage of oil supply, causing prices to rise. This, in turn, would negatively impact oil-importing countries, particularly those with large economies, such as the US, China, and India. The blockade would also have a ripple effect on the global economy, potentially leading to higher inflation and reduced economic growth.",
-      "impact": "The potential blockade would likely lead to a short-term increase in oil prices, benefiting oil-producing companies such as ExxonMobil (XOM) and Chevron (CVX) in the near term. However, the medium-term impact would be bearish for the oil sector as a whole, as the shortage of supply would lead to reduced demand and lower prices. The blockade would also increase the risk of supply chain disruptions, further exacerbating the negative impact on the oil sector.",
-      "risks": [
-        "Supply chain disruption risk",
-        "Price volatility risk",
-        "Economic slowdown risk"
-      ]
-    }
-  },
-  {
-    "id": "7793825",
-    "headline": "Despite Israeli firepower, Netanyahu struggles for political gains in Iran war - Reuters",
-    "summary": "Despite Israeli firepower, Netanyahu struggles for political gains in Iran war  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaFdkUERuUm9RWnBOMl9CdmY3bnlHT0ZBWmZuMEJrQzdFZXhELTNIQThwaE4zRGNJdjV4aTRad2t5VmcxMjVCYTlIVlNuTVJCV0pXTVZNTjNpT1dCeWl1N0pHWGNacU9xMkVnR1pHRWhSSDZ6RGNsV0FTTUdfbTJkaFJfY3dOOFBCWFhZakFXeGRTVDY0aTlMbWcxM3FKbFNhTkRNMFc5ZEhDTXJjMk5BZ1NYM01rTFlVLUQwblIzZzF1NDA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1776171000,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1776182273,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Israeli Prime Minister Benjamin Netanyahu's struggles to achieve political gains in the Iran war have been highlighted by recent news. Despite the country's military firepower, Netanyahu's efforts to build a coalition government have been hindered by opposition from various parties. This development is significant as it suggests that Netanyahu's leadership may be weakened, potentially impacting his ability to implement policies that could affect the country's economy and defense industry. The situation is complex, with multiple parties involved and competing interests at play. The outcome of these negotiations will be crucial in determining the future direction of Israel's government and its implications for the country's economy.",
-      "impact": "The potential impact on related stocks is bearish, particularly for defense contractors and companies with exposure to the Israeli economy. The uncertainty surrounding Netanyahu's leadership and the government's ability to implement policies could lead to volatility in the short term, potentially affecting earnings outlook and sentiment. In the medium term, a weakened Netanyahu could lead to a shift in the country's defense spending priorities, which could impact companies like Lockheed Martin and Northrop Grumman. However, this is highly speculative and dependent on various factors, including the outcome of the coalition negotiations.",
-      "risks": [
-        "Weakened Netanyahu leadership risk",
-        "Government instability risk",
-        "Defense spending priorities shift risk"
-      ]
-    }
-  },
-  {
-    "id": "7792624",
-    "headline": "IEA warns Iran war oil shock will cut supply, cause demand to shrink - Reuters",
-    "summary": "IEA warns Iran war oil shock will cut supply, cause demand to shrink  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQXM5Q1RVNkFkMGRfUDZtODlwWXU0dGJGWFc3d2RaYVpLNHl1bHZuM01kcFpxUmdZOFRHa19zNUFwTHdRZ1EzbXJYMjhFUDlPOUVJUXBYZVlHdW84WGpjSXI3Q3BvQ0JxYmMxdmE2VV9xNTdCU09oOFFUVk4yVzJ1NC1MUmQ0WkhIRmZ0ZDQ4cGtfdGxLWnNZREE0eEsxUkk?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1776170493,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1776160896,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The International Energy Agency (IEA) has revised its global oil market outlook due to the recent Iran war, which has led to increased uncertainty and volatility in the oil market. The conflict has disrupted oil production and exports from Iran, a major oil producer, causing a surge in oil prices. The IEA expects a tighter oil market in the coming months, which could lead to higher prices and increased costs for oil-consuming countries. This development is a significant shift from the IEA's previous forecast, indicating a more bearish outlook for oil prices.",
-      "impact": "The Iran war and its impact on the oil market are likely to have a negative impact on oil-producing companies, such as those listed on the NYMEX, as higher oil prices reduce their profit margins. In the short-term, oil prices may surge, leading to a decline in the earnings of oil producers. In the medium-term, the increased costs and volatility may lead to a revaluation of oil-producing companies, potentially affecting their stock prices. The uncertainty surrounding the conflict may also lead to increased hedging and risk management activities, which could impact liquidity in the oil market.",
-      "risks": [
-        "Increased oil prices risk",
-        "Disrupted supply chain risk",
-        "Volatility risk"
-      ]
-    }
-  },
-  {
-    "id": "7794374",
-    "headline": "Aid groups use land routes to deliver humanitarian relief to Iran - Reuters",
-    "summary": "Aid groups use land routes to deliver humanitarian relief to Iran  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbGNXbHN0Yzh5bUhDMnZneDM5cUNpR0ljcVRreGlXcFRiZGw2SkE5Zmp6bHhzSVg4T2NyTlh4dl8xMlFlY09TVkh6RmotcTJPUW5VRjVrVmlTZ2pic2Q1VVZwZU5hRGczOG1rRkVWUzdFS1ZpcHNwZW0weU93REM5cnNhS0lDc0NpeUQ2MC1XVzliZm5HM0hyTFFfOUtYTkxtbHAtOGVhdFV1ZHFGUmMxWmtfSQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1776169605,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1776189634,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Aid groups are using land routes to deliver humanitarian relief to Iran, bypassing traditional air routes due to sanctions and logistical challenges. This development is a response to the ongoing humanitarian crisis in the country. The use of land routes is not a new phenomenon, but it has become more pronounced in recent times. The land routes are being used to transport food, medicine, and other essential supplies to areas in need. This news does not have a direct impact on the global economy or specific companies, but it highlights the ongoing humanitarian situation in Iran.",
-      "impact": "The news is unlikely to have a significant impact on the stock market or specific companies in the short term. However, it may have a medium-term impact on companies involved in logistics and transportation services, as they may see an increase in demand for their services. Companies that provide humanitarian aid and relief services may also benefit from this development. The news may also lead to increased awareness and concern about the humanitarian situation in Iran, potentially driving sentiment and investor interest in related stocks.",
-      "risks": [
-        "sanctions risk",
-        "logistical challenges risk",
-        "humanitarian crisis risk"
       ]
     }
   }
