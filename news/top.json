@@ -1,5 +1,70 @@
 [
   {
+    "id": "7914711",
+    "headline": "Wall Street sees 'changing of the guard in AI' as Intel, AMD shares soar while Nvidia lags",
+    "summary": "Intel, AMD and Micron surged double digits this week as investors bet on CPU makers and memory companies powering the next stage of AI",
+    "url": "https://www.cnbc.com/2026/05/08/wall-street-ai-chip-love-moves-from-nvidia-to-intel-amd-and-micron.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108302934-1778074131329-LisaSu4.jpg?v=1778074231&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1778268181,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778270353,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The AI infrastructure boom is shifting towards CPU makers and memory companies, with Intel, AMD, and Micron surging 25-35% this week. This trend is driven by insatiable demand for CPUs and memory, particularly in the data center space, where Nvidia's dominance is being challenged. The shift is attributed to the growing need for a wider array of advanced components to support AI agents, which are replacing chatbots as the next wave of AI adoption. This trend is expected to continue, with Bank of America estimating the data center CPU market could more than double by 2030.",
+      "impact": "The shift in investor sentiment towards CPU makers and memory companies could lead to a short-term rally in stocks like Intel, AMD, and Micron, with potential medium-term benefits from increased earnings and revenue growth. The stocks may also see increased trading activity and liquidity as investors seek to capitalize on the trend. However, Nvidia's valuation may be impacted by the shift in investor attention, potentially leading to a short-term correction.",
+      "risks": []
+    }
+  },
+  {
+    "id": "7914607",
+    "headline": "What an Apple deal to buy Intel chips would mean for the iPhone maker",
+    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+    "url": "https://www.cnbc.com/2026/05/08/what-an-apple-deal-to-buy-intel-chips-would-mean-for-the-iphone-maker.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108255964-1769112419128-gettyimages-2257634535-_75a0085_1dhk3ucw.jpeg?v=1777991221&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1778266057,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778270399,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Apple is reportedly in talks to buy chips from Intel, which would diversify its supply chain and alleviate future advanced-node constraints. This news comes as the semiconductor industry continues to rally, with AI-related stocks leading the charge. Intel's deal with Apple could be a significant win for the company, which has been struggling with supply chain constraints. The move could also have implications for other companies in the semiconductor industry, including Broadcom, which is seeking financing to fund its AI chip development.",
+      "impact": "The news could have a positive impact on Apple's stock, as it would reduce its dependence on a single supplier and improve its ability to produce AI-enabled devices. Intel's stock could also benefit from the deal, as it would provide a stable source of revenue. Additionally, the news could boost the entire semiconductor industry, as it would demonstrate the growing demand for AI-enabled chips. However, the impact on Broadcom's stock is less clear, as the company's decision to seek private credit financing suggests that it may be facing financial challenges.",
+      "risks": [
+        "Integration risk for Apple and Intel",
+        "Uncertainty around the terms of the deal",
+        "Potential disruption to Intel's existing supply chain"
+      ]
+    }
+  },
+  {
+    "id": "7913226",
+    "headline": "Wall St Week Ahead: Data, Iran, US-China meeting in focus for scorching US stock market - Reuters",
+    "summary": "Wall St Week Ahead: Data, Iran, US-China meeting in focus for scorching US stock market  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVm1NRGVCTU9VOWx2YmpPRV91WVVQeHh5WGhFeDdfTVVodi1QdUgzUVNScHlCRVY2c1ZkbVZHQlFlVHREWG91c1YxMkhkSTNfcXBtazZfQ3NReloycDJMYUlKWFRMMTd4dXJnTWtjQ3RCTXJmbmNab21xQjgwd2h1TDZkeU1zNzMyVkdxSU9vcTRzUnd5bnVqZG9tb2lrSXpsSG1CUS1WekZJcVNMODFGRlA0RWx2MEVvXzV4UkpXMENmT1U?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1778265515,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778247070,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The US stock market is expected to remain strong, driven by upcoming data releases, a US-China meeting, and the easing of tensions with Iran. The article highlights the potential for positive economic data to boost investor sentiment and support the market's current momentum. The US-China meeting is seen as a key event, with the possibility of a trade deal being reached, which could have a significant impact on the market. The easing of tensions with Iran also reduces the risk of a global economic downturn.",
+      "impact": "The positive sentiment and potential for a trade deal with China could lead to a short-term increase in stock prices, driven by improved earnings outlook and increased investor confidence. The medium-term impact could be a re-rating of the market, as investors become more optimistic about the US economy and corporate earnings. The easing of tensions with Iran could also reduce the risk of a global economic downturn, making it easier for companies to operate and invest in the region.",
+      "risks": [
+        "Trade deal risk: The US-China meeting may not result in a trade deal, which could lead to a market correction.",
+        "Economic data risk: Weak economic data could negatively impact investor sentiment and the market.",
+        "Geopolitical risk: The situation with Iran could escalate, leading to increased tensions and a negative impact on the market."
+      ]
+    }
+  },
+  {
     "id": "7914292",
     "headline": "Stock pullbacks can be an opportunity to make your money back and then some. Here's how",
     "summary": "Following its Q1 2026 earnings release, Fluor is pulling back by 15%.",
@@ -46,6 +111,29 @@
     }
   },
   {
+    "id": "7911521",
+    "headline": "US expects Iranian response to peace proposal on Friday, fighting flares in Gulf - Reuters",
+    "summary": "US expects Iranian response to peace proposal on Friday, fighting flares in Gulf  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaG9nWFIyNS0xRHQ0VDZFdnNHQTZtMjQtbzhOUS1HWjg0MG9CLXBBb0Y0WjNFVGppR2hUWjllMllXSjNJMGdfUEluSklFNktiR1FQM1VRVnlDa1JVUmZsSFpZRDJBNGdOZzk1clRKc3NIZGpOX0VQMTlha1R3TVUtS0daUGQyRUNHVEtqa2txSFlmVEtqT0wtaW5qRGpxeFRxWnhxWlZkcTVOYnlsR2UwNHBvVmJTRXZKM1k0UWlFLVRTR2xCdUE?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1778259992,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778215461,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The United Arab Emirates (UAE) has reportedly countered an Iranian air attack, contradicting US President Trump's earlier statement that a ceasefire was still in effect. The incident highlights escalating tensions between the UAE and Iran, a major oil producer. The UAE is a key player in the global oil market, and any disruption to its operations could impact oil prices. The situation may also affect the earnings outlook for oil-related companies, particularly those with significant exposure to the Middle East region.",
+      "impact": "The potential impact on oil-related stocks could be significant, with a rise in tensions between the UAE and Iran potentially leading to increased oil prices. This could boost the earnings of oil producers, but may also weigh on the sentiment of investors, leading to short-term volatility. Medium-term, the situation may lead to increased military spending by the UAE, potentially benefiting defense contractors. However, the risks of a broader conflict in the region could also lead to a slowdown in economic growth, negatively impacting the earnings outlook for a range of industries.",
+      "risks": [
+        "Escalating tensions between the UAE and Iran leading to a broader conflict",
+        "Increased military spending by the UAE potentially benefiting defense contractors",
+        "Slowing economic growth in the region due to conflict-related uncertainty"
+      ]
+    }
+  },
+  {
     "id": "7913979",
     "headline": "Jim Cramer says this struggling stock could remain under pressure in AI-driven market",
     "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
@@ -62,29 +150,6 @@
       "summary": "Jim Cramer expressed concerns about Nike's turnaround prospects, citing a challenging retail environment favoring AI-related stocks over traditional consumer names. The Investing Club downgraded Nike following its recent quarter, highlighting concerns that improving fundamentals alone may not lift sentiment. Qnity Electronics, on the other hand, is expected to benefit from semiconductor demand tied to AI and data center spending, but its massive rally may require a strong earnings report to continue.",
       "impact": "The news is likely to put pressure on Nike's stock, potentially leading to further declines in the short term. The company's valuation may be impacted by the downgrade and the challenging retail environment. In the medium term, Nike's earnings outlook and sentiment may continue to be affected by the shift towards AI-related stocks. Qnity Electronics, while benefiting from semiconductor demand, may face increased expectations and scrutiny after its recent rally.",
       "risks": []
-    }
-  },
-  {
-    "id": "7911521",
-    "headline": "US expects Iranian response to peace proposal on Friday, fighting flares in Gulf - Reuters",
-    "summary": "US expects Iranian response to peace proposal on Friday, fighting flares in Gulf  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaG9nWFIyNS0xRHQ0VDZFdnNHQTZtMjQtbzhOUS1HWjg0MG9CLXBBb0Y0WjNFVGppR2hUWjllMllXSjNJMGdfUEluSklFNktiR1FQM1VRVnlDa1JVUmZsSFpZRDJBNGdOZzk1clRKc3NIZGpOX0VQMTlha1R3TVUtS0daUGQyRUNHVEtqa2txSFlmVEtqT0wtaW5qRGpxeFRxWnhxWlZkcTVOYnlsR2UwNHBvVmJTRXZKM1k0UWlFLVRTR2xCdUE?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778254192,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778215461,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The United Arab Emirates (UAE) has reportedly countered an Iranian air attack, contradicting US President Trump's earlier statement that a ceasefire was still in effect. The incident highlights escalating tensions between the UAE and Iran, a major oil producer. The UAE is a key player in the global oil market, and any disruption to its operations could impact oil prices. The situation may also affect the earnings outlook for oil-related companies, particularly those with significant exposure to the Middle East region.",
-      "impact": "The potential impact on oil-related stocks could be significant, with a rise in tensions between the UAE and Iran potentially leading to increased oil prices. This could boost the earnings of oil producers, but may also weigh on the sentiment of investors, leading to short-term volatility. Medium-term, the situation may lead to increased military spending by the UAE, potentially benefiting defense contractors. However, the risks of a broader conflict in the region could also lead to a slowdown in economic growth, negatively impacting the earnings outlook for a range of industries.",
-      "risks": [
-        "Escalating tensions between the UAE and Iran leading to a broader conflict",
-        "Increased military spending by the UAE potentially benefiting defense contractors",
-        "Slowing economic growth in the region due to conflict-related uncertainty"
-      ]
     }
   },
   {
@@ -176,29 +241,6 @@
         "geopolitical risk",
         "global trade slowdown risk",
         "energy sector earnings risk"
-      ]
-    }
-  },
-  {
-    "id": "7911932",
-    "headline": "ASEAN summit ends with only a push to fast-track oil share pact - Reuters",
-    "summary": "ASEAN summit ends with only a push to fast-track oil share pact  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORUN2eVpZOFVtaGhyRHZCdHNTWVJrMmVzOHVJbzZ0dnUyMVh5UTJlVjM3c0x1b1pPMnp2bWpwdXdhc01LdU5taGxQY0FMVU1hMjV6VjhoM2tvd2Z6bVR3NDAxZDJQLXlJdkNZUFRYdnZPTU9VQXVQak1rblFfZlM5Y2F3T09vazFzOEFDc3J1OVdSUkhEWHVuWlA2emtjNm9PNXRKeWoxQ1MwZDg?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778248278,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778228100,
-      "sentiment": "bearish",
-      "confidence": 0.6,
-      "summary": "Southeast Asian leaders are seeking a strategy to mitigate the economic impacts of a potential war with Iran. The region's economies are heavily reliant on international trade, and a conflict in the Middle East could disrupt oil supplies, increase shipping costs, and lead to a decline in global economic growth. This could have a negative impact on the earnings outlook for companies in the region, particularly those with significant exposure to international trade. The leaders are meeting to discuss ways to reduce their dependence on imported oil and diversify their economies.",
-      "impact": "The potential war in Iran could lead to a short-term increase in oil prices, which could negatively impact the earnings of companies with significant oil-related expenses, such as airlines and shipping companies. In the medium-term, a decline in global economic growth could lead to a decline in demand for goods and services, negatively impacting companies with significant exposure to international trade. The increased uncertainty and volatility in the market could also lead to a decline in investor sentiment, making it more difficult for companies to raise capital and increasing the cost of borrowing.",
-      "risks": [
-        "disruption to international trade",
-        "decline in global economic growth",
-        "increase in oil prices"
       ]
     }
   },
@@ -295,25 +337,25 @@
     }
   },
   {
-    "id": "7913226",
-    "headline": "Wall St Week Ahead Data, Iran, US-China meeting in focus for scorching US stock market - Reuters",
-    "summary": "Wall St Week Ahead Data, Iran, US-China meeting in focus for scorching US stock market  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVm1NRGVCTU9VOWx2YmpPRV91WVVQeHh5WGhFeDdfTVVodi1QdUgzUVNScHlCRVY2c1ZkbVZHQlFlVHREWG91c1YxMkhkSTNfcXBtazZfQ3NReloycDJMYUlKWFRMMTd4dXJnTWtjQ3RCTXJmbmNab21xQjgwd2h1TDZkeU1zNzMyVkdxSU9vcTRzUnd5bnVqZG9tb2lrSXpsSG1CUS1WekZJcVNMODFGRlA0RWx2MEVvXzV4UkpXMENmT1U?oc=5",
+    "id": "7912464",
+    "headline": "Rupee gains on week, US-Iran jitters spark choppy trading - Reuters",
+    "summary": "Rupee gains on week, US-Iran jitters spark choppy trading  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQzhPS2pXMlBIZng3SHA0djlGWlJmTWM1SEN3ZXdpT0tPYWhjX2JmbUtCMUo2Q1lIU2tGYTF6YVM1UDVwT051VWliUHAwUHdLcjNlTG8zLS11SS1qclhydnhncHA1cXczdzhCVC1yZGpSZzlUTlBscGw5NzRoUTBJNTRsRzBNbVZULXE5dm1VOU5BeWJPT0V4cTFsNFhMWXBzQUljaWl4bzdBM3ZGdV9nQ0Robw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1778235174,
+    "publishedAt": 1778234862,
     "analysis": {
       "version": 2,
-      "generatedAt": 1778247070,
+      "generatedAt": 1778235038,
       "sentiment": "bullish",
       "confidence": 0.8,
-      "summary": "The US stock market is expected to remain strong, driven by upcoming data releases, a US-China meeting, and the easing of tensions with Iran. The article highlights the potential for positive economic data to boost investor sentiment and support the market's current momentum. The US-China meeting is seen as a key event, with the possibility of a trade deal being reached, which could have a significant impact on the market. The easing of tensions with Iran also reduces the risk of a global economic downturn.",
-      "impact": "The positive sentiment and potential for a trade deal with China could lead to a short-term increase in stock prices, driven by improved earnings outlook and increased investor confidence. The medium-term impact could be a re-rating of the market, as investors become more optimistic about the US economy and corporate earnings. The easing of tensions with Iran could also reduce the risk of a global economic downturn, making it easier for companies to operate and invest in the region.",
+      "summary": "The Indian rupee's decline, triggered by rising crude oil prices, has been mitigated by state-run lenders providing liquidity to the market. This intervention has helped stabilize the currency, reducing the impact of the price increase on the economy. The Reserve Bank of India (RBI) has been actively managing the currency's value, and the government has also taken steps to reduce the country's dependence on oil imports. As a result, the rupee's decline has been less severe than initially anticipated.",
+      "impact": "The news is likely to have a positive impact on Indian banks, particularly state-run lenders, as they benefit from the increased liquidity and reduced currency volatility. This could lead to improved earnings prospects for these banks in the short to medium term. The RBI's actions may also have a positive impact on the overall economy, reducing the pressure on the rupee and supporting economic growth.",
       "risks": [
-        "Trade deal risk: The US-China meeting may not result in a trade deal, which could lead to a market correction.",
-        "Economic data risk: Weak economic data could negatively impact investor sentiment and the market.",
-        "Geopolitical risk: The situation with Iran could escalate, leading to increased tensions and a negative impact on the market."
+        "Potential for future oil price shocks",
+        "Risk of currency volatility if RBI's liquidity measures are insufficient",
+        "Uncertainty surrounding the long-term impact of government policies on the economy"
       ]
     }
   },
@@ -387,6 +429,29 @@
     }
   },
   {
+    "id": "7913227",
+    "headline": "UK housing market slows as Iran war hits demand, Halifax data shows - Reuters",
+    "summary": "UK housing market slows as Iran war hits demand, Halifax data shows  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZzhzU2JSbDVuNkd5RXdNcmJMRlFFMEUxQWxiSk9FLTBoN3I4a3dteW5NMzRxdkEwOFd5RkNvd1BqbkcteDJZMEM4aTVpVkVXcEVUXzFQem5JNEh0Rk9Rc0F0TGdjZzFzZFBGMThwbVNBem94YWhCWkk3TFphVWlYVlF1VW90OUhTTk1WQ2pYRU1KVVNn?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1778226982,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778253134,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The UK housing market has slowed down due to the ongoing Iran war, as per Halifax data. The war has led to increased uncertainty and demand for housing has decreased as a result. This development is a negative indicator for the UK economy, particularly for industries related to housing and construction. The slowdown in the housing market may also have a ripple effect on the broader economy, impacting consumer spending and overall economic growth.",
+      "impact": "The slowdown in the UK housing market is likely to have a negative impact on companies involved in the housing and construction sectors, such as builders, real estate companies, and mortgage lenders. This may lead to a decline in earnings for these companies in the short term, potentially affecting their stock prices. In the medium term, the reduced demand for housing may also impact the broader economy, leading to a decrease in consumer spending and economic growth. This may also lead to a decrease in interest rates, which could have a positive impact on the housing market in the long term, but may also lead to a decrease in bond yields, affecting the valuations of companies with high debt levels.",
+      "risks": [
+        "Decrease in demand for housing",
+        "Negative impact on earnings for housing and construction companies",
+        "Ripple effect on the broader economy and consumer spending"
+      ]
+    }
+  },
+  {
     "id": "7913007",
     "headline": "Seven markets to track if peace breaks out in the Middle East - Reuters",
     "summary": "Seven markets to track if peace breaks out in the Middle East  Reuters",
@@ -406,29 +471,6 @@
         "geopolitical uncertainty risk",
         "implementation risk",
         "valuation risk"
-      ]
-    }
-  },
-  {
-    "id": "7913227",
-    "headline": "UK housing market slows as Iran war hits demand, Halifax data shows - Reuters",
-    "summary": "UK housing market slows as Iran war hits demand, Halifax data shows  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZzhzU2JSbDVuNkd5RXdNcmJMRlFFMEUxQWxiSk9FLTBoN3I4a3dteW5NMzRxdkEwOFd5RkNvd1BqbkcteDJZMEM4aTVpVkVXcEVUXzFQem5JNEh0Rk9Rc0F0TGdjZzFzZFBGMThwbVNBem94YWhCWkk3TFphVWlYVlF1VW90OUhTTk1WQ2pYRU1KVVNn?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778220420,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778253134,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The UK housing market has slowed down due to the ongoing Iran war, as per Halifax data. The war has led to increased uncertainty and demand for housing has decreased as a result. This development is a negative indicator for the UK economy, particularly for industries related to housing and construction. The slowdown in the housing market may also have a ripple effect on the broader economy, impacting consumer spending and overall economic growth.",
-      "impact": "The slowdown in the UK housing market is likely to have a negative impact on companies involved in the housing and construction sectors, such as builders, real estate companies, and mortgage lenders. This may lead to a decline in earnings for these companies in the short term, potentially affecting their stock prices. In the medium term, the reduced demand for housing may also impact the broader economy, leading to a decrease in consumer spending and economic growth. This may also lead to a decrease in interest rates, which could have a positive impact on the housing market in the long term, but may also lead to a decrease in bond yields, affecting the valuations of companies with high debt levels.",
-      "risks": [
-        "Decrease in demand for housing",
-        "Negative impact on earnings for housing and construction companies",
-        "Ripple effect on the broader economy and consumer spending"
       ]
     }
   },
@@ -479,6 +521,29 @@
     }
   },
   {
+    "id": "7911932",
+    "headline": "ASEAN summit ends with only a push to fast-track oil share pact - Reuters",
+    "summary": "ASEAN summit ends with only a push to fast-track oil share pact  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORUN2eVpZOFVtaGhyRHZCdHNTWVJrMmVzOHVJbzZ0dnUyMVh5UTJlVjM3c0x1b1pPMnp2bWpwdXdhc01LdU5taGxQY0FMVU1hMjV6VjhoM2tvd2Z6bVR3NDAxZDJQLXlJdkNZUFRYdnZPTU9VQXVQak1rblFfZlM5Y2F3T09vazFzOEFDc3J1OVdSUkhEWHVuWlA2emtjNm9PNXRKeWoxQ1MwZDg?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1778211720,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778228100,
+      "sentiment": "bearish",
+      "confidence": 0.6,
+      "summary": "Southeast Asian leaders are seeking a strategy to mitigate the economic impacts of a potential war with Iran. The region's economies are heavily reliant on international trade, and a conflict in the Middle East could disrupt oil supplies, increase shipping costs, and lead to a decline in global economic growth. This could have a negative impact on the earnings outlook for companies in the region, particularly those with significant exposure to international trade. The leaders are meeting to discuss ways to reduce their dependence on imported oil and diversify their economies.",
+      "impact": "The potential war in Iran could lead to a short-term increase in oil prices, which could negatively impact the earnings of companies with significant oil-related expenses, such as airlines and shipping companies. In the medium-term, a decline in global economic growth could lead to a decline in demand for goods and services, negatively impacting companies with significant exposure to international trade. The increased uncertainty and volatility in the market could also lead to a decline in investor sentiment, making it more difficult for companies to raise capital and increasing the cost of borrowing.",
+      "risks": [
+        "disruption to international trade",
+        "decline in global economic growth",
+        "increase in oil prices"
+      ]
+    }
+  },
+  {
     "id": "7912462",
     "headline": "China's exports likely picked up pace in April on Iran war stockpiling: Reuters poll - Reuters",
     "summary": "China's exports likely picked up pace in April on Iran war stockpiling: Reuters poll  Reuters",
@@ -521,29 +586,6 @@
         "Oil price volatility risk",
         "Economic slowdown risk due to increased production costs",
         "Investor sentiment risk due to geopolitical uncertainty"
-      ]
-    }
-  },
-  {
-    "id": "7912464",
-    "headline": "Rupee gains on week, US-Iran jitters spark choppy trading - Reuters",
-    "summary": "Rupee gains on week, US-Iran jitters spark choppy trading  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQzhPS2pXMlBIZng3SHA0djlGWlJmTWM1SEN3ZXdpT0tPYWhjX2JmbUtCMUo2Q1lIU2tGYTF6YVM1UDVwT051VWliUHAwUHdLcjNlTG8zLS11SS1qclhydnhncHA1cXczdzhCVC1yZGpSZzlUTlBscGw5NzRoUTBJNTRsRzBNbVZULXE5dm1VOU5BeWJPT0V4cTFsNFhMWXBzQUljaWl4bzdBM3ZGdV9nQ0Robw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778209200,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778235038,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The Indian rupee's decline, triggered by rising crude oil prices, has been mitigated by state-run lenders providing liquidity to the market. This intervention has helped stabilize the currency, reducing the impact of the price increase on the economy. The Reserve Bank of India (RBI) has been actively managing the currency's value, and the government has also taken steps to reduce the country's dependence on oil imports. As a result, the rupee's decline has been less severe than initially anticipated.",
-      "impact": "The news is likely to have a positive impact on Indian banks, particularly state-run lenders, as they benefit from the increased liquidity and reduced currency volatility. This could lead to improved earnings prospects for these banks in the short to medium term. The RBI's actions may also have a positive impact on the overall economy, reducing the pressure on the rupee and supporting economic growth.",
-      "risks": [
-        "Potential for future oil price shocks",
-        "Risk of currency volatility if RBI's liquidity measures are insufficient",
-        "Uncertainty surrounding the long-term impact of government policies on the economy"
       ]
     }
   },
@@ -1225,6 +1267,29 @@
       "summary": "A potential deal between the US and Iran to end the war is weighing on oil prices, with Brent plummeting as much as 12% and WTI falling up to 13%. The news suggests a reduction in tensions and a potential increase in oil supply, which is negatively impacting oil prices. This is a significant development in the global energy market, with oil prices being a key driver of inflation and economic growth. The US and Iran have been at odds over Iran's nuclear program, and a potential deal could lead to a significant increase in oil production from Iran.",
       "impact": "The potential deal between the US and Iran is likely to have a short-term bearish impact on oil stocks, particularly those with high exposure to the US and global oil markets. Companies such as ExxonMobil (XOM), Chevron (CVX), and ConocoPhillips (COP) may see their stock prices decline in the near term as oil prices fall. However, in the medium term, a deal could lead to increased oil production and a reduction in prices, making oil stocks more attractive to investors. This could lead to a re-rating of oil stocks, particularly those with strong production growth profiles.",
       "risks": []
+    }
+  },
+  {
+    "id": "7914611",
+    "headline": "Gold Fields flags cost pressures as Iran war drives up input prices - Reuters",
+    "summary": "Gold Fields flags cost pressures as Iran war drives up input prices  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdXE0S2lzSlFUMUJGNEZHaHVPOC1sVXRuNDVDMUNMcGp0VkJ0RXNQY0MyNkJrQV9CbXN2WGxlZ1hkN252QnVWaTZSUE9uTWZTeDBia0x5ajBhUE5raTRVQTh1NWxoWF83ZnFodGJBNnlMMWVMTUoxMjgxYU5GTTdHc1prVHJ3NU1JVlZkUDFoaGZHbnA5MFBiWC1tM1JibWtsOUVubzF1d09zc01vWTdzSTlRdw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1778143802,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778270445,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Gold Fields, a gold mining company, has flagged cost pressures due to the ongoing Iran war, which has driven up input prices. The company's costs are likely to increase as a result of higher prices for fuel, equipment, and other essential inputs. This news is a concern for Gold Fields as it may negatively impact their profit margins and earnings outlook. The company's ability to maintain its production levels and meet its financial obligations will be closely watched by investors.",
+      "impact": "The potential impact on Gold Fields' stock could be negative in the short-term due to increased costs and reduced profit margins. This may lead to a decrease in the stock's price as investors reassess the company's financial health and earnings potential. In the medium-term, the company may need to take cost-cutting measures or adjust its production levels to mitigate the effects of the cost pressures. This could lead to a decrease in production levels and a subsequent impact on the company's valuation.",
+      "risks": [
+        "increased cost pressure risk",
+        "reduced profit margins risk",
+        "earnings outlook risk"
+      ]
     }
   },
   {
@@ -22634,75 +22699,6 @@
         "uncertainty around the outcome of the Iran talks and Lebanon-Israel agreement",
         "increased competition in the satellite communication market",
         "integration risk for Amazon's Globalstar acquisition"
-      ]
-    }
-  },
-  {
-    "id": "7796357",
-    "headline": "Sanctioned China tanker turns back to Strait of Hormuz, day after Gulf exit - Reuters",
-    "summary": "Sanctioned China tanker turns back to Strait of Hormuz, day after Gulf exit  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObEh1ZmJsbmVzcEpEdlFGbFBFZ0tacGk1VUc4elh0c2Z4SnVtekJidTVNakY1OU5EcGZpSHp4VkpmdUU5Tzd4NElMb2VEUDF5OEF4WUotYURpdXZsZmp3bjZQVmxia08tR2xZcm5BRU1ZZVYtdmRCN2Z3NWk5bkZUWm4yZ1llcUd4clRCX3llR1FVWlktbEFuaDJHMXVvLS1IMEN1MWRhZUNPdHVZYjdj?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1776248250,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1776227670,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "A sanctioned tanker has turned back to the Strait of Hormuz, a day after exiting the Gulf. The tanker's return is a significant development in the ongoing tensions between Iran and the West. The Strait of Hormuz is a critical waterway for global oil trade, with many oil tankers passing through it daily. The tanker's actions are likely a response to the sanctions imposed on it, but the exact reasons behind its decision are unclear. The situation remains uncertain, with potential implications for global oil prices and trade.",
-      "impact": "The news may have a neutral impact on oil prices in the short-term, as the tanker's return is not a surprise given the sanctions. However, the ongoing tensions in the region could lead to increased volatility in oil prices in the medium-term. Oil majors such as ExxonMobil (XOM) and Chevron (CVX) may benefit from the increased demand for oil in the region, but the risks associated with the conflict may offset these benefits. The tanker's actions may also lead to increased scrutiny on shipping companies operating in the region, potentially impacting their stock prices.",
-      "risks": [
-        "Escalation of tensions in the region",
-        "Increased volatility in oil prices",
-        "Impact on shipping companies operating in the region"
-      ]
-    }
-  },
-  {
-    "id": "7803191",
-    "headline": "Codelco in talks with Hindustan Copper for Chile copper joint venture",
-    "summary": "Indian companies, meanwhile, are looking to Chile, which boasts the world’s biggest copper reserves, to secure supply, integrate upstream and stay competitive in a tightening global market",
-    "url": "https://www.bloomberg.com/news/articles/2026-04-15/codelco-in-talks-with-india-s-hcl-for-chile-copper-joint-venture",
-    "source": "Bloomberg",
-    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
-    "relatedSymbols": [],
-    "publishedAt": 1776248107,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1776343977,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Codelco, the world's largest copper producer, is in talks with Hindustan Copper, an Indian state-owned copper producer, to form a joint venture in Chile. Chile boasts the world's largest copper reserves, making it an attractive location for Hindustan Copper to secure supply and integrate upstream operations. This move is part of India's efforts to secure copper supply and stay competitive in a tightening global market. The joint venture would allow Hindustan Copper to tap into Codelco's expertise and resources, while also providing a strategic foothold in Chile. This development is likely to have a positive impact on the copper market, potentially leading to increased demand and higher prices.",
-      "impact": "The potential joint venture between Codelco and Hindustan Copper could have a positive impact on the copper market, leading to increased demand and higher prices. This could be beneficial for copper producers, such as Freeport-McMoRan (FCX) and BHP Group (BHP), which could see an increase in earnings and valuation. Additionally, the partnership could also lead to increased liquidity in the copper market, benefiting traders and investors. However, there are risks associated with the integration of the two companies and regulatory approval, which could impact the success of the joint venture.",
-      "risks": [
-        "regulatory approval risk",
-        "integration risk",
-        "market volatility risk"
-      ]
-    }
-  },
-  {
-    "id": "7798037",
-    "headline": "Bank of America is set to report earnings. Here's what to expect",
-    "summary": "Bank of America, the second-largest U.S. bank by assets, has topped expectations for earnings per share for 23 consecutive quarters.",
-    "url": "https://www.cnbc.com/2026/04/15/bank-of-america-bac-earnings-q1-2026.html",
-    "source": "CNBC",
-    "image": "",
-    "relatedSymbols": [],
-    "publishedAt": 1776248101,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1776253447,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Bank of America (BAC) has reported Q1 earnings that beat expectations, with EPS of $1.11 and revenue of $30.43 billion. The bank's strong performance was driven by equities sales and trading, investment banking, and net interest income. The firm's consumer banking and global wealth divisions also saw significant growth, with net income gains of over 20%. This beats the bank's previous guidance and suggests a resilient American economy.",
-      "impact": "The strong earnings report is likely to boost investor sentiment and drive the stock price higher in the short term. The bank's ability to beat expectations and deliver strong growth in key areas such as equities sales and trading, investment banking, and net interest income suggests a positive outlook for the company. This could lead to an increase in the stock price, potentially driven by improved earnings expectations and a more favorable valuation multiple.",
-      "risks": [
-        "Interest rate risk: a rise in interest rates could negatively impact the bank's net interest income and profitability.",
-        "Geopolitical risk: ongoing global uncertainty and market volatility could impact the bank's equities sales and trading business.",
-        "Regulatory risk: changes in banking regulations could impact the bank's operations and profitability."
       ]
     }
   }
