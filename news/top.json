@@ -1,5 +1,28 @@
 [
   {
+    "id": "7914815",
+    "headline": "Dunkin' owner Inspire Brands confidentially files for IPO",
+    "summary": "The restaurant company owns Dunkin', Arby's, Buffalo Wild Wings, Baskin Robbins, Sonic Drive-In and Jimmy John's.",
+    "url": "https://www.cnbc.com/2026/05/08/dunkin-owner-inspire-brands-confidentially-files-for-ipo.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/107281242-1691068745295-gettyimages-843749824-DUNKIN_DONUTS.jpeg?v=1691068780&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1778269962,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778273898,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Inspire Brands, the parent company of Dunkin', Arby's, Buffalo Wild Wings, Baskin Robbins, Sonic Drive-In, and Jimmy John's, has confidentially filed for an initial public offering (IPO) with a reported valuation of $20 billion. This move comes as the company has grown significantly through acquisitions, including Dunkin' and Baskin Robbins in 2020, and now operates over 33,300 restaurants worldwide with $33.4 billion in annual sales. The IPO market has been slow, but several high-profile listings are anticipated, which could lead to increased investor interest in the space. Inspire's growth and scale make it an attractive candidate for a successful IPO.",
+      "impact": "The IPO could lead to increased liquidity and valuation for Inspire Brands, potentially benefiting its subsidiary companies, including Dunkin', Arby's, and Buffalo Wild Wings. This could also lead to increased investor interest in the restaurant industry, driving up valuations and earnings expectations for other companies in the space. However, the IPO market's recent performance and economic uncertainty may temper investor enthusiasm, and Inspire's high valuation could make it vulnerable to market fluctuations.",
+      "risks": [
+        "Market volatility risk",
+        "Economic uncertainty risk",
+        "Overvaluation risk"
+      ]
+    }
+  },
+  {
     "id": "7914711",
     "headline": "Wall Street sees 'changing of the guard in AI' as Intel, AMD shares soar while Nvidia lags",
     "summary": "Intel, AMD and Micron surged double digits this week as investors bet on CPU makers and memory companies powering the next stage of AI",
@@ -429,29 +452,6 @@
     }
   },
   {
-    "id": "7913227",
-    "headline": "UK housing market slows as Iran war hits demand, Halifax data shows - Reuters",
-    "summary": "UK housing market slows as Iran war hits demand, Halifax data shows  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZzhzU2JSbDVuNkd5RXdNcmJMRlFFMEUxQWxiSk9FLTBoN3I4a3dteW5NMzRxdkEwOFd5RkNvd1BqbkcteDJZMEM4aTVpVkVXcEVUXzFQem5JNEh0Rk9Rc0F0TGdjZzFzZFBGMThwbVNBem94YWhCWkk3TFphVWlYVlF1VW90OUhTTk1WQ2pYRU1KVVNn?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778226982,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778253134,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The UK housing market has slowed down due to the ongoing Iran war, as per Halifax data. The war has led to increased uncertainty and demand for housing has decreased as a result. This development is a negative indicator for the UK economy, particularly for industries related to housing and construction. The slowdown in the housing market may also have a ripple effect on the broader economy, impacting consumer spending and overall economic growth.",
-      "impact": "The slowdown in the UK housing market is likely to have a negative impact on companies involved in the housing and construction sectors, such as builders, real estate companies, and mortgage lenders. This may lead to a decline in earnings for these companies in the short term, potentially affecting their stock prices. In the medium term, the reduced demand for housing may also impact the broader economy, leading to a decrease in consumer spending and economic growth. This may also lead to a decrease in interest rates, which could have a positive impact on the housing market in the long term, but may also lead to a decrease in bond yields, affecting the valuations of companies with high debt levels.",
-      "risks": [
-        "Decrease in demand for housing",
-        "Negative impact on earnings for housing and construction companies",
-        "Ripple effect on the broader economy and consumer spending"
-      ]
-    }
-  },
-  {
     "id": "7913007",
     "headline": "Seven markets to track if peace breaks out in the Middle East - Reuters",
     "summary": "Seven markets to track if peace breaks out in the Middle East  Reuters",
@@ -471,6 +471,29 @@
         "geopolitical uncertainty risk",
         "implementation risk",
         "valuation risk"
+      ]
+    }
+  },
+  {
+    "id": "7913227",
+    "headline": "UK housing market slows as Iran war hits demand, Halifax data shows - Reuters",
+    "summary": "UK housing market slows as Iran war hits demand, Halifax data shows  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZzhzU2JSbDVuNkd5RXdNcmJMRlFFMEUxQWxiSk9FLTBoN3I4a3dteW5NMzRxdkEwOFd5RkNvd1BqbkcteDJZMEM4aTVpVkVXcEVUXzFQem5JNEh0Rk9Rc0F0TGdjZzFzZFBGMThwbVNBem94YWhCWkk3TFphVWlYVlF1VW90OUhTTk1WQ2pYRU1KVVNn?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1778220420,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778253134,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The UK housing market has slowed down due to the ongoing Iran war, as per Halifax data. The war has led to increased uncertainty and demand for housing has decreased as a result. This development is a negative indicator for the UK economy, particularly for industries related to housing and construction. The slowdown in the housing market may also have a ripple effect on the broader economy, impacting consumer spending and overall economic growth.",
+      "impact": "The slowdown in the UK housing market is likely to have a negative impact on companies involved in the housing and construction sectors, such as builders, real estate companies, and mortgage lenders. This may lead to a decline in earnings for these companies in the short term, potentially affecting their stock prices. In the medium term, the reduced demand for housing may also impact the broader economy, leading to a decrease in consumer spending and economic growth. This may also lead to a decrease in interest rates, which could have a positive impact on the housing market in the long term, but may also lead to a decrease in bond yields, affecting the valuations of companies with high debt levels.",
+      "risks": [
+        "Decrease in demand for housing",
+        "Negative impact on earnings for housing and construction companies",
+        "Ripple effect on the broader economy and consumer spending"
       ]
     }
   },
@@ -1227,6 +1250,25 @@
     }
   },
   {
+    "id": "7907867",
+    "headline": "Emirates' cash reserves, fuel hedging help airline ride out Iran war turmoil - Reuters",
+    "summary": "Emirates' cash reserves, fuel hedging help airline ride out Iran war turmoil  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQT0VVVzVvS3RvNEliZ0xuMFVQUW9Ub3NGZG5odkd1MERJME93VFE3MTRxVG9CTmlNWEEyaTAxdldMcWxVam4wZ1FtNmozOXh4SU5sNGo1Yk40dktJcVREREhncEhka1ZhUExIaVpyWTBSWmI2eHdXQllTZGE0MHFaM0FfMlVGSmtnbjhzQi1oVkZsT1gyM1o1VFJweG5PRktqbXBqZVg4OGRsVTBF?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1778149214,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778157001,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Emirates airline has successfully navigated the turmoil caused by the Iran war due to its robust cash reserves and effective fuel hedging strategies. The airline's cash reserves have been a significant factor in its ability to absorb the impact of rising fuel prices and other operational costs. This demonstrates the airline's financial resilience and ability to adapt to market volatility. The news highlights the importance of cash reserves and hedging strategies for airlines operating in a volatile market. The article does not mention any specific financial metrics or performance indicators, but it suggests that Emirates' financial management has been effective in mitigating the risks associated with the Iran war.",
+      "impact": "The news is likely to have a positive impact on Emirates' stock price in the short term, as investors will view the airline's financial resilience as a positive factor. The airline's ability to navigate the Iran war turmoil without significant financial strain suggests that it is well-positioned to weather future market volatility. This could lead to increased investor confidence and potentially higher stock prices. In the medium term, the news may also lead to a reevaluation of Emirates' valuation, as investors reassess the airline's financial strength and ability to adapt to market changes.",
+      "risks": []
+    }
+  },
+  {
     "id": "7908434",
     "headline": "Wall Street bonuses seen flat to slightly positive in 2026 as Iran war and private credit turmoil hurt - Reuters",
     "summary": "Wall Street bonuses seen flat to slightly positive in 2026 as Iran war and private credit turmoil hurt  Reuters",
@@ -1385,25 +1427,6 @@
     }
   },
   {
-    "id": "7907867",
-    "headline": "Emirates' cash reserves, fuel hedging help airline ride out Iran war turmoil - Reuters",
-    "summary": "Emirates' cash reserves, fuel hedging help airline ride out Iran war turmoil  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQT0VVVzVvS3RvNEliZ0xuMFVQUW9Ub3NGZG5odkd1MERJME93VFE3MTRxVG9CTmlNWEEyaTAxdldMcWxVam4wZ1FtNmozOXh4SU5sNGo1Yk40dktJcVREREhncEhka1ZhUExIaVpyWTBSWmI2eHdXQllTZGE0MHFaM0FfMlVGSmtnbjhzQi1oVkZsT1gyM1o1VFJweG5PRktqbXBqZVg4OGRsVTBF?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778134860,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778157001,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Emirates airline has successfully navigated the turmoil caused by the Iran war due to its robust cash reserves and effective fuel hedging strategies. The airline's cash reserves have been a significant factor in its ability to absorb the impact of rising fuel prices and other operational costs. This demonstrates the airline's financial resilience and ability to adapt to market volatility. The news highlights the importance of cash reserves and hedging strategies for airlines operating in a volatile market. The article does not mention any specific financial metrics or performance indicators, but it suggests that Emirates' financial management has been effective in mitigating the risks associated with the Iran war.",
-      "impact": "The news is likely to have a positive impact on Emirates' stock price in the short term, as investors will view the airline's financial resilience as a positive factor. The airline's ability to navigate the Iran war turmoil without significant financial strain suggests that it is well-positioned to weather future market volatility. This could lead to increased investor confidence and potentially higher stock prices. In the medium term, the news may also lead to a reevaluation of Emirates' valuation, as investors reassess the airline's financial strength and ability to adapt to market changes.",
-      "risks": []
-    }
-  },
-  {
     "id": "7910290",
     "headline": "Maersk says energy crunch to persist even if Iran peace deal struck - Reuters",
     "summary": "Maersk says energy crunch to persist even if Iran peace deal struck  Reuters",
@@ -1469,6 +1492,29 @@
         "IPO cancellation risk",
         "Family succession risk",
         "Valuation re-rating risk"
+      ]
+    }
+  },
+  {
+    "id": "7902181",
+    "headline": "Iran reviewing US proposal to end war, though key demands remain unaddressed - Reuters",
+    "summary": "Iran reviewing US proposal to end war, though key demands remain unaddressed  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYy04enE2RGhod3NneGVSTEo4STVXQThRT1FlQmE3YlpZSWtFejhyWHJwTnZEczB1VzVjWmdyRXpfZXFQRFYyUlR0WXBOWkludjExaV9YVWFOQlhJOHJrSndhdVZQZlVCMjMtbUp1bDFzOUhaN1NfVlFZTlhDeGY5b2hwcHRYQldpZUs2SkxjSVZIbzhjVGpOOFc5TERvNzA?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1778129192,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778062424,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Iran's statement on seeking a comprehensive agreement with the US is a diplomatic development that may have implications for regional tensions and global politics. The news does not provide specific details on the nature of the agreement or its potential terms. A comprehensive agreement could potentially lead to increased stability in the region, which could be beneficial for oil prices and energy companies. However, the path to such an agreement is uncertain and may be subject to various obstacles.",
+      "impact": "The news may have a neutral to slightly positive impact on energy stocks, particularly those with exposure to the Middle East region, as a comprehensive agreement could lead to increased stability and potentially higher oil prices. However, the short-term impact may be limited, and the outcome of the negotiations is uncertain. In the medium term, a successful agreement could lead to increased investor confidence and improved sentiment in the region, potentially benefiting energy companies with operations in the area.",
+      "risks": [
+        "negotiation breakdown risk",
+        "sanctions risk",
+        "regional instability risk"
       ]
     }
   },
@@ -2756,29 +2802,6 @@
         "Supply chain disruption risk",
         "Geopolitical risk",
         "Decreased investor sentiment risk"
-      ]
-    }
-  },
-  {
-    "id": "7902181",
-    "headline": "Iran reviewing US proposal to end war, though key demands remain unaddressed - Reuters",
-    "summary": "Iran reviewing US proposal to end war, though key demands remain unaddressed  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYy04enE2RGhod3NneGVSTEo4STVXQThRT1FlQmE3YlpZSWtFejhyWHJwTnZEczB1VzVjWmdyRXpfZXFQRFYyUlR0WXBOWkludjExaV9YVWFOQlhJOHJrSndhdVZQZlVCMjMtbUp1bDFzOUhaN1NfVlFZTlhDeGY5b2hwcHRYQldpZUs2SkxjSVZIbzhjVGpOOFc5TERvNzA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778051220,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778062424,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Iran's statement on seeking a comprehensive agreement with the US is a diplomatic development that may have implications for regional tensions and global politics. The news does not provide specific details on the nature of the agreement or its potential terms. A comprehensive agreement could potentially lead to increased stability in the region, which could be beneficial for oil prices and energy companies. However, the path to such an agreement is uncertain and may be subject to various obstacles.",
-      "impact": "The news may have a neutral to slightly positive impact on energy stocks, particularly those with exposure to the Middle East region, as a comprehensive agreement could lead to increased stability and potentially higher oil prices. However, the short-term impact may be limited, and the outcome of the negotiations is uncertain. In the medium term, a successful agreement could lead to increased investor confidence and improved sentiment in the region, potentially benefiting energy companies with operations in the area.",
-      "risks": [
-        "negotiation breakdown risk",
-        "sanctions risk",
-        "regional instability risk"
       ]
     }
   },
@@ -22676,29 +22699,6 @@
         "geopolitical tensions flare up again",
         "economic sanctions on Iran are reinstated",
         "trade disruptions due to ongoing tensions"
-      ]
-    }
-  },
-  {
-    "id": "7798611",
-    "headline": "Iran talks, Lebanon-Israel and Amazon's Globalstar deal - Reuters",
-    "summary": "Iran talks, Lebanon-Israel and Amazon's Globalstar deal  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWi1aTW9oRks0bHFvNjR2OHQwU0hXN1J1eGRfTGJiaEV2dUstQVRsd1RTYVRDbFhESjU1VlYyZ3JoOWtkVzlscVFRbk9qQjhDZFJpUUVWTlAyaFVLMDJBYU9PWjE5NlJHZUdPbUVxVFJGd01NVmQzX3g1MzJZeVZyZXcwVHpqV0FCaXFLWGx0bjE0QXZxU1ZXOXV3?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1776249471,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1776268358,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The article reports on three separate news items: Iran and the US are holding talks, Lebanon and Israel are working towards a maritime border agreement, and Amazon has acquired a majority stake in Globalstar, a satellite-based communication company. The Iran talks are a positive development for the region, potentially leading to reduced tensions and increased economic cooperation. The Lebanon-Israel agreement could have a positive impact on regional stability and trade. Amazon's acquisition of Globalstar is a strategic move to expand its satellite-based communication capabilities. The deal is expected to be completed in the second half of 2023.",
-      "impact": "The Iran talks and Lebanon-Israel agreement may have a positive impact on the global economy, potentially leading to increased trade and investment in the region. However, the short-term impact on stocks is uncertain, as the outcome of these talks is still unclear. In the medium term, a stable region could lead to increased demand for Amazon's satellite-based communication services, potentially boosting its stock price. The acquisition of Globalstar may also lead to increased competition in the satellite communication market, potentially affecting the stock prices of other players in the industry.",
-      "risks": [
-        "uncertainty around the outcome of the Iran talks and Lebanon-Israel agreement",
-        "increased competition in the satellite communication market",
-        "integration risk for Amazon's Globalstar acquisition"
       ]
     }
   }
