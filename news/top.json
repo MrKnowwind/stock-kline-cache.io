@@ -1,5 +1,51 @@
 [
   {
+    "id": "7914292",
+    "headline": "Stock pullbacks can be an opportunity to make your money back and then some. Here's how",
+    "summary": "Following its Q1 2026 earnings release, Fluor is pulling back by 15%.",
+    "url": "https://www.cnbc.com/2026/05/08/stock-pullbacks-can-be-an-opportunity-to-make-your-money-back-and-then-some-heres-how.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108303746-17781672612026-05-07t151516z_362339104_rc2d4lajy3w5_rtrmadp_0_usa-stocks.jpeg?v=1778167294&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1778260735,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778263542,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Fluor Corp. (FLR) is experiencing a 15% pullback after its Q1 2026 earnings release, primarily due to a revenue miss and narrowed EBITDA guidance. However, the company's CEO highlighted a surge in new awards for gas-fueled and nuclear power, which supports the 'data center' bull thesis. This provides a buying opportunity for shareholders to recover their losses using a 1x2 Call Ratio Spread options trade. The trade involves buying one lower-strike call and selling two higher-strike calls, which can provide a small credit and accelerate recovery if the stock drifts back towards its pre-earnings levels.",
+      "impact": "The potential impact on Fluor Corp. is a short-term recovery of the stock price to its pre-earnings levels, driven by the 'data center' bull thesis and the company's ability to deliver new awards for gas-fueled and nuclear power. This could also have a positive impact on the overall sentiment towards the stock, potentially leading to increased buying interest and a higher stock price. The 1x2 Call Ratio Spread options trade can help shareholders recover their losses and potentially make a profit, depending on the stock's price movement.",
+      "risks": [
+        "The stock could be called away if the price exceeds the higher strike price, resulting in a loss of the premium received",
+        "The trade may not be executed at the desired price, resulting in a less favorable outcome",
+        "The stock's price may not recover to the expected level, resulting in a loss for the trade"
+      ]
+    }
+  },
+  {
+    "id": "7912899",
+    "headline": "Rubio questions allies' support on Iran following Italy talks - Reuters",
+    "summary": "Rubio questions allies' support on Iran following Italy talks  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0hJakNXX2htd0RtTDNZbW5icEZRTkN0RVBjdlRZbDh3TUhhaTdOMFo4UE9JQlRQY24xZzI2TUVjVUpQeGVBYXhjYnZQNE5DSlhCXzd0aWFNVVdxWlM3WVhSYUdXQ0M2MkV6ZjAwSkpSWEhIMHpiU29TZzdBb2lRMDRUZ0hCWnFiQnp5OXNmWmVUbjctU0E?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1778260519,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778241614,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Italian Prime Minister Giorgia Meloni met with US Senator Marco Rubio to discuss the escalating tensions between Italy and the US over Iran's nuclear program. The meeting comes as Italy's relations with the US are strained due to disagreements on how to address the crisis. The situation is affecting the country's relations with the US, which is a key trading partner and investor. The tensions are also impacting the Italian government's ability to implement economic policies. The meeting between Meloni and Rubio is seen as an attempt to ease the tensions and find a common ground.",
+      "impact": "The news is likely to have a negative impact on Italian stocks in the short term, particularly those with high exposure to the US market. The tensions between Italy and the US may lead to a decrease in investor confidence, causing a decline in stock prices. In the medium term, the situation may also affect the Italian government's ability to implement economic policies, potentially impacting the earnings outlook of companies with significant government contracts.",
+      "risks": [
+        "Decrease in investor confidence",
+        "Impact on government contracts",
+        "Economic policy uncertainty"
+      ]
+    }
+  },
+  {
     "id": "7913979",
     "headline": "Jim Cramer says this struggling stock could remain under pressure in AI-driven market",
     "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
@@ -38,29 +84,6 @@
         "Escalating tensions between the UAE and Iran leading to a broader conflict",
         "Increased military spending by the UAE potentially benefiting defense contractors",
         "Slowing economic growth in the region due to conflict-related uncertainty"
-      ]
-    }
-  },
-  {
-    "id": "7912899",
-    "headline": "Rubio questions allies' support on Iran following Italy talks - Reuters",
-    "summary": "Rubio questions allies' support on Iran following Italy talks  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0hJakNXX2htd0RtTDNZbW5icEZRTkN0RVBjdlRZbDh3TUhhaTdOMFo4UE9JQlRQY24xZzI2TUVjVUpQeGVBYXhjYnZQNE5DSlhCXzd0aWFNVVdxWlM3WVhSYUdXQ0M2MkV6ZjAwSkpSWEhIMHpiU29TZzdBb2lRMDRUZ0hCWnFiQnp5OXNmWmVUbjctU0E?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778252575,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778241614,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "Italian Prime Minister Giorgia Meloni met with US Senator Marco Rubio to discuss the escalating tensions between Italy and the US over Iran's nuclear program. The meeting comes as Italy's relations with the US are strained due to disagreements on how to address the crisis. The situation is affecting the country's relations with the US, which is a key trading partner and investor. The tensions are also impacting the Italian government's ability to implement economic policies. The meeting between Meloni and Rubio is seen as an attempt to ease the tensions and find a common ground.",
-      "impact": "The news is likely to have a negative impact on Italian stocks in the short term, particularly those with high exposure to the US market. The tensions between Italy and the US may lead to a decrease in investor confidence, causing a decline in stock prices. In the medium term, the situation may also affect the Italian government's ability to implement economic policies, potentially impacting the earnings outlook of companies with significant government contracts.",
-      "risks": [
-        "Decrease in investor confidence",
-        "Impact on government contracts",
-        "Economic policy uncertainty"
       ]
     }
   },
@@ -410,6 +433,29 @@
     }
   },
   {
+    "id": "7913446",
+    "headline": "Iran price shock highlights limits of inflation-linked bonds - Reuters",
+    "summary": "Iran price shock highlights limits of inflation-linked bonds  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV3Fua3dDd2N1VEo0UGc3WkdvTmhpbWNEQnNrUzNxV05tSzY1ZHRYeHBDaUp4Y3AzSHl1WmxtTXNhMkM1cG81RXZRTHhLOHNRbmFILUJicm1ZNVNqeWMzNEJTeXhDLW1VbU1RRUlLSzA4RC12d1Z4a1h5aFpGTy00OVJIRHNQMXdmbGdRWUVRRE1MVnFUS3lDODlBMFRYYmx1NWJtVmRSN3RxbUtkSklkQg?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1778217142,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778253180,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Iran's price shock highlights the limitations of inflation-linked bonds, which are designed to protect investors from inflation. The Iranian government's decision to increase fuel prices has led to widespread protests, demonstrating the potential for price shocks to have a significant impact on the economy. This event serves as a reminder that inflation-linked bonds may not always provide adequate protection against inflationary pressures. The article does not mention any specific companies or industries, but the broader implications of this event could affect the overall market sentiment and investor confidence in inflation-linked bonds.",
+      "impact": "The potential impact on the market could be a decrease in investor confidence in inflation-linked bonds, leading to a decrease in their prices and potentially affecting the overall market. This could also lead to a reevaluation of the inflation-linked bond market, potentially resulting in a decrease in demand for these types of bonds. The medium-term impact could be a decrease in the attractiveness of inflation-linked bonds, potentially affecting the earnings outlook for companies that rely heavily on these types of bonds.",
+      "risks": [
+        "Decrease in investor confidence in inflation-linked bonds",
+        "Decrease in demand for inflation-linked bonds",
+        "Decrease in attractiveness of inflation-linked bonds"
+      ]
+    }
+  },
+  {
     "id": "7912143",
     "headline": "Toyota expects $4.3 billion hit from effects of Iran war - Reuters",
     "summary": "Toyota expects $4.3 billion hit from effects of Iran war  Reuters",
@@ -429,29 +475,6 @@
         "Supply chain disruption risk",
         "Production slowdown risk",
         "Earnings outlook risk"
-      ]
-    }
-  },
-  {
-    "id": "7913446",
-    "headline": "Iran price shock highlights limits of inflation-linked bonds - Reuters",
-    "summary": "Iran price shock highlights limits of inflation-linked bonds  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV3Fua3dDd2N1VEo0UGc3WkdvTmhpbWNEQnNrUzNxV05tSzY1ZHRYeHBDaUp4Y3AzSHl1WmxtTXNhMkM1cG81RXZRTHhLOHNRbmFILUJicm1ZNVNqeWMzNEJTeXhDLW1VbU1RRUlLSzA4RC12d1Z4a1h5aFpGTy00OVJIRHNQMXdmbGdRWUVRRE1MVnFUS3lDODlBMFRYYmx1NWJtVmRSN3RxbUtkSklkQg?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778216640,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778253180,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Iran's price shock highlights the limitations of inflation-linked bonds, which are designed to protect investors from inflation. The Iranian government's decision to increase fuel prices has led to widespread protests, demonstrating the potential for price shocks to have a significant impact on the economy. This event serves as a reminder that inflation-linked bonds may not always provide adequate protection against inflationary pressures. The article does not mention any specific companies or industries, but the broader implications of this event could affect the overall market sentiment and investor confidence in inflation-linked bonds.",
-      "impact": "The potential impact on the market could be a decrease in investor confidence in inflation-linked bonds, leading to a decrease in their prices and potentially affecting the overall market. This could also lead to a reevaluation of the inflation-linked bond market, potentially resulting in a decrease in demand for these types of bonds. The medium-term impact could be a decrease in the attractiveness of inflation-linked bonds, potentially affecting the earnings outlook for companies that rely heavily on these types of bonds.",
-      "risks": [
-        "Decrease in investor confidence in inflation-linked bonds",
-        "Decrease in demand for inflation-linked bonds",
-        "Decrease in attractiveness of inflation-linked bonds"
       ]
     }
   },
@@ -526,8 +549,8 @@
   },
   {
     "id": "7911522",
-    "headline": "Gold extends gains after jobs data, heads for weekly gain on US–Iran deal hopes - Reuters",
-    "summary": "Gold extends gains after jobs data, heads for weekly gain on US–Iran deal hopes  Reuters",
+    "headline": "Gold firms and heads for weekly gain on US-Iran deal hopes - Reuters",
+    "summary": "Gold firms and heads for weekly gain on US-Iran deal hopes  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZXM5QVhTWjRwT2VVN2NHZzlpdFlfTXM3ZDBEMUVmNmx3dlg3aUtfQXVnR2ZBRjNlWmtVVUpSNXlRY2RDQkV4V2tlYnQtR1JwQWtnVFlrajE0ckpiMDc5eGViWVQ5WTU1XzV6Q3lfbXJpOEx3N3EzcHNzMGVtaVpCeVBCUTdBUWt4MTkwZ2VkU2VFOG4wQjM2d2pjNlVURTNucDJwNHQ4Z2ZFRU1XUDZReWpjVQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -568,8 +591,8 @@
   },
   {
     "id": "7910809",
-    "headline": "Oil pares early gains a day after renewed US-Iran fighting - Reuters",
-    "summary": "Oil pares early gains a day after renewed US-Iran fighting  Reuters",
+    "headline": "Oil jumps after renewed US-Iran fighting, then pares gains - Reuters",
+    "summary": "Oil jumps after renewed US-Iran fighting, then pares gains  Reuters",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb1ZZWVlWYlVTaXhlS2ZkTnQ0UUhrNGpVbTRVeHhMRGpkNmRSMTdySFdQWTZBT3VIa1d4VXRqZ3hXZklsX0V1MkxOSmN3LW9GUnV6UFFySXE5YnhXTmpiM3FQUTFlQ2ZmNkFvVG95ckZnX29oZVlRdnNxaElDWG1YeTlzczR1UkhxR1RXcWhqdzdQdDQx?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -858,29 +881,6 @@
         "Competition from local fast-food chains in China",
         "Potential slowdown in consumer demand due to economic factors",
         "Integration risk from rapid expansion"
-      ]
-    }
-  },
-  {
-    "id": "7908435",
-    "headline": "Pope Leo, Rubio commit to stronger ties, Vatican says, amid Trump tensions - Reuters",
-    "summary": "Pope Leo, Rubio commit to stronger ties, Vatican says, amid Trump tensions  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTjNJc05oWWgyS1FkQUxOemhPaW1wclRWM295SGRHdWd4dW40ZFFMTUtWR3dxMHFfamdhY2RPOGIwQnRjT0dPWVpUU0JfZWhDVE9rLURoWHNkbkNYaGxHUTV1YS1rNnkxZlo1MmIwQmJhd0dZc1pocTRFYzhyR3JKOW5uejY1MjhYSWpYSzlyTk9BLVl0QnFZ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778178964,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778174957,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Pope Leo and Rubio have committed to strengthening ties between the Vatican and the US, amid tensions with the Trump administration. This development is a diplomatic move aimed at improving relations between the two nations. The Vatican has been a key player in international diplomacy for centuries, and this move could have implications for global politics and international relations. The news does not directly impact the business fundamentals of any specific company, but it may influence the sentiment towards the US and its relations with other countries.",
-      "impact": "This news may have a positive impact on US-based companies with exposure to international diplomacy, such as defense contractors or companies involved in international trade. However, the impact is likely to be short-term and limited, as the news does not provide any concrete economic benefits or changes to business operations. The medium-term impact may be a shift in investor sentiment towards US-based companies with international exposure, leading to increased investor interest and potentially higher stock prices.",
-      "risks": [
-        "geopolitical risk",
-        "sentiment-driven market volatility risk",
-        "uncertainty around US foreign policy"
       ]
     }
   },
@@ -1427,6 +1427,29 @@
         "Uncertainty around the outcome of the US-Iran negotiations",
         "Potential for a reversal of the peace proposal",
         "Impact on global oil prices may be short-lived"
+      ]
+    }
+  },
+  {
+    "id": "7908435",
+    "headline": "Pope Leo, Rubio commit to stronger ties, Vatican says, amid Trump tensions - Reuters",
+    "summary": "Pope Leo, Rubio commit to stronger ties, Vatican says, amid Trump tensions  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTjNJc05oWWgyS1FkQUxOemhPaW1wclRWM295SGRHdWd4dW40ZFFMTUtWR3dxMHFfamdhY2RPOGIwQnRjT0dPWVpUU0JfZWhDVE9rLURoWHNkbkNYaGxHUTV1YS1rNnkxZlo1MmIwQmJhd0dZc1pocTRFYzhyR3JKOW5uejY1MjhYSWpYSzlyTk9BLVl0QnFZ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1778122920,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778174957,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Pope Leo and Rubio have committed to strengthening ties between the Vatican and the US, amid tensions with the Trump administration. This development is a diplomatic move aimed at improving relations between the two nations. The Vatican has been a key player in international diplomacy for centuries, and this move could have implications for global politics and international relations. The news does not directly impact the business fundamentals of any specific company, but it may influence the sentiment towards the US and its relations with other countries.",
+      "impact": "This news may have a positive impact on US-based companies with exposure to international diplomacy, such as defense contractors or companies involved in international trade. However, the impact is likely to be short-term and limited, as the news does not provide any concrete economic benefits or changes to business operations. The medium-term impact may be a shift in investor sentiment towards US-based companies with international exposure, leading to increased investor interest and potentially higher stock prices.",
+      "risks": [
+        "geopolitical risk",
+        "sentiment-driven market volatility risk",
+        "uncertainty around US foreign policy"
       ]
     }
   },
@@ -22680,29 +22703,6 @@
         "Interest rate risk: a rise in interest rates could negatively impact the bank's net interest income and profitability.",
         "Geopolitical risk: ongoing global uncertainty and market volatility could impact the bank's equities sales and trading business.",
         "Regulatory risk: changes in banking regulations could impact the bank's operations and profitability."
-      ]
-    }
-  },
-  {
-    "id": "7798387",
-    "headline": "Dollar sheds bulk of Iran war premium, but few expect a sharper drop - Reuters",
-    "summary": "Dollar sheds bulk of Iran war premium, but few expect a sharper drop  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZTJidVo0bXJCOVY1NGlMUFJ1YlppSHREVFJ4TkxCUFM0eU9VZXJaMjR1ZUFEMDRKcG9oeDFOUmdVSXlDdWcyaFp4X3Q2MnNWckZPbE02NlpmN3VPSFBrc05lUVJOeEl2d0VzdllfUmd6U1RPYzhiZEp3OHRhLXJVbzVvc0FHYVJUTkIxS3hwYTQ1d05uQ0FoYXRwQkhHcmdmWHJjZkJsVFlmdHUzOGxZUg?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1776247735,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1776257309,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The US dollar has lost most of its 'war premium' following the easing of tensions between the US and Iran. The war premium was a surge in the value of the dollar due to the increased likelihood of a conflict. With the tensions subsiding, the dollar has returned to its pre-conflict levels. The article does not mention any specific stocks, but the development is relevant for investors who hold stocks in companies that benefit from a strong or weak dollar, such as multinational corporations with international operations. The dollar's value can impact these companies' earnings and competitiveness.",
-      "impact": "The decrease in the dollar's value may positively impact US multinational corporations with significant international operations, as a weaker dollar can make their exports more competitive. However, the article does not mention any specific stocks, so the impact is uncertain. The medium-term effect may be a reevaluation of the earnings outlook for these companies, potentially leading to higher stock prices.",
-      "risks": [
-        "uncertainty in US-Iran relations",
-        "geopolitical risk",
-        "macroeconomic uncertainty"
       ]
     }
   }
