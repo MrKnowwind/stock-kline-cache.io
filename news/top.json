@@ -1,5 +1,51 @@
 [
   {
+    "id": "7919688",
+    "headline": "S&P 500 extends winning streak to 6 weeks. What drove the stock market gains",
+    "summary": "Investors cheered positive earnings, economic data, and a high-profile AI partnership.",
+    "url": "https://www.cnbc.com/2026/05/09/sp-500-extends-winning-streak-to-6-weeks-what-drove-the-stock-market-gains.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108265635-1770999292005-gettyimages-2260936508-AFP_97EN9RV.jpeg?v=1774272523&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1778357937,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778362148,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The S&P 500 and Nasdaq extended their winning streak to 6 weeks, driven by positive earnings, economic data, and a high-profile AI partnership. The Iran war remained a major focus for investors, but the market remained resilient, with oil prices and bond yields dropping. The strong April jobs report and resilient labor market weakened the case for a near-term rate cut, but didn't completely rule it out. The University of Michigan survey showed consumers' sentiment remains low, but the market is holding out hope for an end to the hostilities in the Mideast.",
+      "impact": "The positive earnings and economic data are likely to boost investor sentiment and drive the market higher in the short-term. The resilient labor market and low bond yields may also support the ongoing bull run. However, the Iran war and its impact on oil prices remain a significant risk to the market. The market's reaction to the potential rate cut by the Fed will also be closely watched, as it could have a significant impact on the market's trajectory.",
+      "risks": [
+        "Iran war escalation risk",
+        "Fed rate cut uncertainty",
+        "Oil price volatility risk"
+      ]
+    }
+  },
+  {
+    "id": "7919588",
+    "headline": "Qatari LNG tanker sailing towards Hormuz Strait, shipping data shows - Reuters",
+    "summary": "Qatari LNG tanker sailing towards Hormuz Strait, shipping data shows  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM2RPQWdNdmc3T2d1aDhIR3FBVl82NF8xTFplbmI3MDdHYUZOWlNmMHBjek1aOUdxaHltVnFYMnNoRGNOWk42em9TWlUwVzdXQ2lZdTZXMmJHWXVFSHdubWxlZkp2VG5wcWFia1hYalJxdVRqVmlrclRzQ3FJQzdLNFRiX3ZiT2xVTndFNGVKQXRLNk5JZVhodVJuT0lISVhNbmE0UjNVNEh0RUEwM0FJd1g4WUlrR0x6TFYtN29kWQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1778348390,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778362195,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "A Qatari LNG tanker is reported to be sailing towards the Hormuz Strait, according to shipping data. The Hormuz Strait is a critical shipping lane for oil and gas exports, particularly for Qatar, which relies heavily on energy exports. This development may indicate an increase in Qatari LNG exports, potentially benefiting companies involved in the global LNG market. However, the article does not provide specific details on the tanker's destination or the volume of LNG being transported.",
+      "impact": "The news may have a positive impact on LNG-focused companies, such as those in the supply chain or involved in LNG trading. In the short-term, the increased LNG exports could lead to higher earnings for these companies due to increased demand. However, the medium-term impact will depend on the global LNG market's response to the increased supply, which may lead to decreased prices and reduced earnings for these companies. Additionally, the geopolitical tensions in the region may affect the tanker's journey and the overall LNG market.",
+      "risks": [
+        "Geopolitical tensions in the region",
+        "Decreased LNG prices due to increased supply",
+        "Potential disruptions to tanker operations"
+      ]
+    }
+  },
+  {
     "id": "7919082",
     "headline": "AI-powered scam calls are getting more convincing—and more common: 'It was her voice, I know her scared cry'",
     "summary": "AI can now mimic a familiar voice in seconds, making scam calls harder to spot.",
@@ -191,7 +237,20 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/107042188-gettyimages-1389723078-0j5a3168_e3e436b8-28a7-4891-aafd-4fc54124e6ed.jpeg?v=1696000531&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1778280639
+    "publishedAt": 1778280639,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778362243,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Burger King's President Tom Curtis credited customer feedback for the company's turnaround, citing over 70,000 incoming calls that led to improvements in the Whopper and broader in-store experience. The revamped Whopper, featuring a new bun and creamier mayo, has driven positive guest feedback and increased average unit volumes. Burger King has also renovated restaurants and introduced family-friendly promotions, resulting in a 40% increase in kids meal sales over the past six months. The company's renewed focus on customer feedback and modernization efforts are expected to continue driving growth.",
+      "impact": "The news is bullish for Restaurant Brands International (RBI), the parent company of Burger King, with potential short-term and medium-term benefits including increased same-store sales growth, improved earnings outlook, and enhanced brand reputation. The company's focus on customer feedback and modernization efforts may also lead to increased investor confidence and improved sentiment, potentially driving up the stock price. However, risks include the potential for competitors to respond with similar menu changes and promotions, and the ongoing challenge of maintaining customer loyalty in a competitive fast-food market.",
+      "risks": [
+        "Competitive response risk",
+        "Customer loyalty risk",
+        "Ongoing operational execution risk"
+      ]
+    }
   },
   {
     "id": "7912899",
@@ -22633,52 +22692,6 @@
         "Escalation of violence in the region",
         "Impact on US military spending and foreign policy decisions",
         "Uncertainty in the US-Pakistan relationship"
-      ]
-    }
-  },
-  {
-    "id": "7799920",
-    "headline": "For cruise lines, Iran conflict and oil prices threaten to dent profits",
-    "summary": "Even as the industry navigates choppy seas, cruise companies are looking for their next avenues for growth.",
-    "url": "https://www.cnbc.com/2026/04/15/iran-conflict-oil-prices-cruise-lines.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/107433037-1719336964567-gettyimages-2133947792-kona_hawaii_ka_032.jpeg?v=1776268980&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1776278584,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1776280318,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "The global cruise industry is experiencing record demand, but faces complex challenges, including the Iran conflict and oil price volatility. Cruise lines are adapting to these challenges, but the situation is fluid and unpredictable. The industry aims to have net zero emissions by a certain date, but fuel costs remain a significant concern. The Iran conflict has disrupted itineraries in the Middle East and southern Europe, and the industry is bracing for potential blockades and mine threats.",
-      "impact": "The Iran conflict and oil price volatility may negatively impact the cruise industry's earnings outlook, particularly for companies that do not hedge fuel prices. This could lead to a decrease in stock prices and reduced investor sentiment. The medium-term effect may be a decrease in demand for cruises in the affected regions, further exacerbating the situation. The cruise industry's focus on sustainability and fuel efficiency may also be impacted by the current situation.",
-      "risks": [
-        "Iran conflict risk",
-        "oil price volatility risk",
-        "fuel cost risk"
-      ]
-    }
-  },
-  {
-    "id": "7801501",
-    "headline": "Australia refinery fire worsens fuel supply crunch amid Iran war - Reuters",
-    "summary": "Australia refinery fire worsens fuel supply crunch amid Iran war  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSW9lamdrd2RwRHhUb3J1X2RvOUFfWkJwTFdDOTMybWdyRzdxcHFTd1gycTVIX3NOaDYwaGtocHNJMnNmYmZGZWFtb2w5QW91SmliTXgydGx4U1BmYXpwXzhPdmUyN2w0Tm50cWJtQkdjdDNZcXNlN0VURVl2S2hyeEVUT204R2JtSlpYaUo3d2lySS0xelJIaExjNERGT2pKekZ0SzhuaWV5UFdtOC13akZkdjNMVFh2TGNydnFHSnNFZUJYenc?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1776278280,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1776320859,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "A fire at an Australian refinery has exacerbated a fuel supply crunch, which is further complicated by the ongoing Iran war. The refinery fire has reduced Australia's fuel production capacity, leading to a shortage of gasoline and diesel. This development comes as the Iran war has already disrupted global oil supplies, causing fuel prices to rise. The fuel supply crunch is expected to worsen in the coming weeks, with potential long-term implications for the energy sector.",
-      "impact": "The fuel supply crunch and refinery fire are likely to have a negative impact on energy stocks, particularly those with exposure to the Australian market. Companies with significant refining capacity, such as those with a high percentage of their production tied to Australian refineries, may see a decline in earnings and stock prices. The medium-term impact may be more pronounced, as the fuel supply crunch persists and prices remain high. Additionally, the ongoing Iran war may lead to increased volatility in the energy sector, further exacerbating the negative sentiment.",
-      "risks": [
-        "fuel supply risk",
-        "price volatility risk",
-        "earnings decline risk"
       ]
     }
   }
