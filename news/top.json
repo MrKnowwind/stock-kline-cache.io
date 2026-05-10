@@ -7,7 +7,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1778361216
+    "publishedAt": 1778361216,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778399340,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The Wall Street Journal reports that Israel built and defended a secret base in Iraq for a potential war with Iran. This revelation has significant geopolitical implications, as it suggests a heightened state of military preparedness between the two nations. The base's existence was previously unknown, and its construction and defense indicate a serious commitment to regional security. The development is likely a response to ongoing tensions between Israel and Iran, which have been escalating in recent years. The news may have implications for regional stability and the global oil market.",
+      "impact": "The news is unlikely to have a direct impact on the stock market in the short term, but it may lead to increased volatility in the medium term. Investors should be cautious of potential escalations in the region, which could affect oil prices and global economic growth. The news may also lead to increased defense spending in the region, benefiting companies involved in the defense industry. However, the impact on specific stocks will depend on their exposure to the region and their business models.",
+      "risks": [
+        "Escalation of regional tensions and potential conflict",
+        "Increased defense spending and its impact on regional economies",
+        "Potential disruption to global oil supplies and prices"
+      ]
+    }
   },
   {
     "id": "7919990",
@@ -830,6 +843,29 @@
     }
   },
   {
+    "id": "7911933",
+    "headline": "Renewed Mideast hostilities drag Indian shares to trim weekly gain - Reuters",
+    "summary": "Renewed Mideast hostilities drag Indian shares to trim weekly gain  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaTVBbDBvdzFZanpianJoRWhuYVlrWDd3VVBEVjV5ZU5UNEVLZFo2ZXZrbTlLWEpIZkhtTDhLd0g0MGM5eTl4RXRlWHFnbmhHVVVTUDVxNndSMGZzZHhMaEY1eEtnVVl3MFlFc2NmU3BQYXFmLUZqaGJQclZRZEZzRVNOSnVFSzVIc3dlVlhvTWN1MmJpV0ZvdHhwZTFvTUpkTExaYmR3?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1778236340,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778228146,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Indian shares declined as a spike in oil prices due to US-Iran tensions weighed on investor sentiment. The escalation of the conflict between the US and Iran has dented hopes for a peaceful resolution, leading to a decline in investor confidence. The oil price surge has a direct impact on India's oil-importing economy, with a significant portion of India's oil imports coming from the Middle East. The rising oil prices are expected to increase the cost of production for various industries, including airlines, transportation, and manufacturing.",
+      "impact": "The oil price spike is likely to have a short-term negative impact on Indian stocks, particularly those with high exposure to oil prices. The medium-term impact could be a decline in earnings for companies with high oil costs, leading to a decrease in stock prices. The Indian rupee may also weaken against the US dollar due to the increased oil imports, making imports more expensive and further pressuring the economy. Additionally, the uncertainty surrounding the US-Iran conflict may lead to a decline in investor sentiment, resulting in a decrease in stock prices across the board.",
+      "risks": [
+        "Oil price volatility risk",
+        "Economic slowdown risk due to increased production costs",
+        "Investor sentiment risk due to geopolitical uncertainty"
+      ]
+    }
+  },
+  {
     "id": "7913226",
     "headline": "Wall St Week Ahead: Data, Iran, US-China meeting in focus for scorching US stock market - Reuters",
     "summary": "Wall St Week Ahead: Data, Iran, US-China meeting in focus for scorching US stock market  Reuters",
@@ -1213,29 +1249,6 @@
         "Trade disruption risk",
         "Sanctions risk",
         "Global economic slowdown risk"
-      ]
-    }
-  },
-  {
-    "id": "7911933",
-    "headline": "Renewed Mideast hostilities drag Indian shares to trim weekly gain - Reuters",
-    "summary": "Renewed Mideast hostilities drag Indian shares to trim weekly gain  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaTVBbDBvdzFZanpianJoRWhuYVlrWDd3VVBEVjV5ZU5UNEVLZFo2ZXZrbTlLWEpIZkhtTDhLd0g0MGM5eTl4RXRlWHFnbmhHVVVTUDVxNndSMGZzZHhMaEY1eEtnVVl3MFlFc2NmU3BQYXFmLUZqaGJQclZRZEZzRVNOSnVFSzVIc3dlVlhvTWN1MmJpV0ZvdHhwZTFvTUpkTExaYmR3?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778210040,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778228146,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Indian shares declined as a spike in oil prices due to US-Iran tensions weighed on investor sentiment. The escalation of the conflict between the US and Iran has dented hopes for a peaceful resolution, leading to a decline in investor confidence. The oil price surge has a direct impact on India's oil-importing economy, with a significant portion of India's oil imports coming from the Middle East. The rising oil prices are expected to increase the cost of production for various industries, including airlines, transportation, and manufacturing.",
-      "impact": "The oil price spike is likely to have a short-term negative impact on Indian stocks, particularly those with high exposure to oil prices. The medium-term impact could be a decline in earnings for companies with high oil costs, leading to a decrease in stock prices. The Indian rupee may also weaken against the US dollar due to the increased oil imports, making imports more expensive and further pressuring the economy. Additionally, the uncertainty surrounding the US-Iran conflict may lead to a decline in investor sentiment, resulting in a decrease in stock prices across the board.",
-      "risks": [
-        "Oil price volatility risk",
-        "Economic slowdown risk due to increased production costs",
-        "Investor sentiment risk due to geopolitical uncertainty"
       ]
     }
   },
