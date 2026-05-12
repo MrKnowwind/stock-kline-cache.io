@@ -256,7 +256,20 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/108305242-1778529722902-gettyimages-2275664179-_l9a2747_tvsmafdd.jpeg?v=1778529762&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1778592026
+    "publishedAt": 1778592026,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778617270,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The ongoing Iran war has caused significant economic and political damage, with oil prices rising and inflation concerns growing. The US and Israel's attack on Iran has led to a disruption in oil supplies, with a fifth of the world's oil supplies unable to pass through the Strait of Hormuz. This has resulted in higher oil prices and a surge in gasoline and diesel prices in the US. The market is fragile and could fall apart if the disruption continues, according to JPMorgan analysts.",
+      "impact": "The ongoing Iran war and its impact on oil prices and inflation could lead to a decline in consumer spending and economic growth, negatively affecting companies in the energy and retail sectors. This could result in lower earnings and valuations for these companies, particularly those with high exposure to oil prices. The market's fragile state and the potential for further disruptions could also lead to increased volatility and liquidity risks for investors.",
+      "risks": [
+        "Increased oil prices and inflation risk",
+        "Disruption to global supply chains and economic growth",
+        "Uncertainty around US-China negotiations and their impact on global trade"
+      ]
+    }
   },
   {
     "id": "7932681",
@@ -446,7 +459,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1778569862
+    "publishedAt": 1778569862,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778617318,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "China's commodity imports have shown a significant increase, with oil imports declining and metal imports rising. This shift is attributed to the impact of the Hormuz Strait crisis, which has led to increased tensions in the Middle East and a subsequent surge in oil prices. As a result, China's oil imports have decreased, while metal imports, particularly copper and iron ore, have increased. The country's commodity imports have been influenced by the crisis, with the potential for further disruptions to global supply chains.",
+      "impact": "The increase in metal imports and decrease in oil imports could have a positive impact on the earnings outlook for companies involved in the metal sector, such as mining and steel producers. In the short-term, the increased demand for metals could drive up prices, benefiting companies like copper and iron ore producers. However, the decline in oil imports may have a negative impact on oil-related stocks, such as oil producers and refiners. The medium-term impact will depend on the duration of the Hormuz Strait crisis and its effect on global supply chains.",
+      "risks": [
+        "Potential escalation of the Hormuz Strait crisis and its impact on global supply chains",
+        "Uncertainty around China's economic growth and its effect on commodity demand",
+        "Volatility in oil prices and its impact on oil-related stocks"
+      ]
+    }
   },
   {
     "id": "7931684",
@@ -526,7 +552,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1778562120
+    "publishedAt": 1778562120,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778617366,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Europe's chemical makers are benefiting from the ongoing conflict in Iran, which is affecting their Asian rivals. The conflict has disrupted supply chains and led to higher production costs for Asian chemical manufacturers, giving European companies a competitive advantage. This shift in the market dynamics is expected to continue as long as the conflict persists. European chemical makers are well-positioned to capitalize on this opportunity, driven by their more stable and efficient operations. The increased demand for European chemical products is likely to lead to higher sales and revenue for these companies.",
+      "impact": "The news is expected to have a positive impact on the stocks of European chemical companies, potentially leading to higher earnings and revenue growth in the short term. This could be driven by increased demand for their products, higher prices, and reduced competition from Asian rivals. In the medium term, European chemical makers may invest in capacity expansions to meet the growing demand, further solidifying their market position. The increased profitability and competitiveness of European chemical companies may also attract investors, leading to higher stock prices.",
+      "risks": [
+        "Dependence on a specific market or customer base",
+        "Potential escalation of the conflict in Iran",
+        "Increased competition from other regions or companies"
+      ]
+    }
   },
   {
     "id": "7931367",
@@ -638,7 +677,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1778554500
+    "publishedAt": 1778554500,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778617425,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The Indian rupee is at risk of slipping to an all-time low due to concerns that the US-Iran truce may collapse. The potential collapse of the truce could lead to increased tensions in the Middle East, which may negatively impact India's oil imports and subsequently the country's currency. India is a significant importer of oil from the Middle East, and any disruptions to oil supplies could lead to higher import costs and a weaker rupee. The rupee has already been under pressure in recent weeks due to a widening current account deficit and a strong US dollar.",
+      "impact": "The potential collapse of the US-Iran truce could lead to a short-term sell-off in Indian stocks, particularly those with significant exposure to the oil and gas sector. This could include companies such as ONGC, IOC, and HPCL. In the medium term, a weaker rupee could lead to higher import costs for Indian companies, which could negatively impact their earnings outlook and valuation. This could also lead to a decrease in investor sentiment and a reduction in liquidity in the Indian stock market.",
+      "risks": [
+        "Oil price volatility risk",
+        "Weaker rupee risk",
+        "Earnings outlook risk"
+      ]
+    }
   },
   {
     "id": "7932457",
@@ -825,29 +877,6 @@
         "decline in oil demand risk",
         "sentiment risk in the energy sector",
         "macroeconomic risk due to global trade tensions"
-      ]
-    }
-  },
-  {
-    "id": "7925861",
-    "headline": "Dollar edges up as Trump rejects Iran peace move - Reuters",
-    "summary": "Dollar edges up as Trump rejects Iran peace move  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcTZ6NW1CNXZSaHpYd2tlQUtjRlFuYmZOc3hkVzlGMVRKVlFXMUwtNG40VC1jSURSVTd2cEVCV2ZXMHNHTGM0YU11OFBfMEtaQXBIN3dyQVhVc1Rmdng4SDAwYU1GUlZWZVRIYzc5S1ROQUJLcmpraHpVU1V1TnpLNm9kVXAtM1ZKUk9aQzQ5OEdPNnZRV0U4ZGlONFMtUmdVcXA0M2xpU2FYQThteFJvLUV4bUU?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778526834,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778478447,
-      "sentiment": "bullish",
-      "confidence": 0.7,
-      "summary": "US President Donald Trump's rejection of Iran's peace offer has led to a strengthening of the US dollar, as investors perceive the development as a positive for the US economy. The dollar's appreciation is attributed to the reduced uncertainty surrounding US foreign policy and the potential for increased economic sanctions on Iran. This, in turn, is expected to boost US exports and contribute to economic growth. The strengthening dollar may also have a negative impact on emerging markets and companies with significant foreign currency debt.",
-      "impact": "The strengthening US dollar is likely to have a positive impact on US-based multinational companies with significant foreign operations, as their earnings will be boosted by the weaker foreign currency. This may lead to an increase in their stock prices in the short term. However, the medium-term impact may be less clear, as a stronger dollar can also lead to reduced demand for US exports, potentially affecting companies with significant international sales.",
-      "risks": [
-        "Reduced demand for US exports",
-        "Impact on emerging markets",
-        "Increased economic sanctions on Iran"
       ]
     }
   },
@@ -1235,29 +1264,6 @@
     }
   },
   {
-    "id": "7927537",
-    "headline": "Rupee drops most in a month to record low close on spike in gold-linked dollar demand - Reuters",
-    "summary": "Rupee drops most in a month to record low close on spike in gold-linked dollar demand  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaVlwTHdWdVlEV0tOMUdsdTVkTzJFZ3JUUldmNnVnNEZVX0FUMkdYWGk2TVdOY20wUkpEZ2ZkWUpGM3RjYVkybFhaS244bmRwR3pHV1cxSVJGV3JFb2FwZ1BEMmZGeEFGWkEtQXVhR1V4T1JIc2FMNTRINVJTNFZRSDhuZEVLYXNub3pQVEJraEpNNE83R0FvNkpmLXA2N1FEQlBZVA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778506044,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778563685,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The Indian rupee has dropped to a record low against the US dollar due to a surge in demand for the greenback linked to gold purchases. This increase in demand has led to a significant depreciation of the rupee, making imports more expensive and potentially impacting businesses that rely heavily on imports. The Reserve Bank of India (RBI) has been intervening in the foreign exchange market to stabilize the currency, but the situation remains volatile. The drop in the rupee is also likely to impact the Indian economy, particularly the manufacturing and export sectors.",
-      "impact": "The decline of the rupee is expected to negatively impact the earnings of companies that import raw materials and intermediate goods, such as pharmaceuticals and textiles. This could lead to a decline in their profit margins and potentially affect their stock prices. In the medium term, the devaluation of the rupee may also lead to higher inflation, which could impact consumer spending and the overall economy. The RBI's intervention in the foreign exchange market may also lead to a decrease in liquidity, making it more difficult for companies to access credit and finance their operations.",
-      "risks": [
-        "Currency volatility risk",
-        "Inflation risk",
-        "Decreased liquidity risk"
-      ]
-    }
-  },
-  {
     "id": "7927760",
     "headline": "‘The haters will hate’: Dan Ives predicts Nasdaq 30,000 as AI rally expands",
     "summary": "A solid tech earnings season has seen investor jitters earlier this year evaporate",
@@ -1392,29 +1398,6 @@
         "supply chain disruptions risk",
         "geopolitical tensions risk",
         "global energy market volatility risk"
-      ]
-    }
-  },
-  {
-    "id": "7925862",
-    "headline": "India shares, rupee fall on Modi's call for austerity, crude price spike - Reuters",
-    "summary": "India shares, rupee fall on Modi's call for austerity, crude price spike  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUXFsaDA2c2NXQ1UzaE91eW1RUXhNUjlMWWRSaEVKVjY4V3JwcWpjaG81dkpQOVRnMmE3aXhqU0d3cmh0ZFplckVMbDNaRXFvdDR3TVpXc0o5dHY0ZnZnUThseUJlWkd1UDRaWm90eG5tTXpLWHB5RG9uT1lwMzEzaDM3b2o1STJ0LTRHNVl1cmIwcWtxRWc3cnZZU2RXVklaR1VBSzNnMkNPRnpFajdwaTFLTW0?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778498233,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778478358,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Indian shares fell on Thursday due to a spike in crude oil prices and comments from Indian Prime Minister Narendra Modi on fuel and gold purchases. The crude oil price surge weighed on the Indian rupee, making imports more expensive and affecting the country's trade balance. Modi's remarks on fuel and gold purchases also fueled concerns about the government's economic policies. The Indian market has been sensitive to global commodity prices and government policies in recent months. This news is likely to impact the country's oil and gas companies, as well as companies that rely on imported goods.",
-      "impact": "The short-term impact of this news is likely to be negative for Indian oil and gas companies, such as Oil and Natural Gas Corporation (ONGC) and Hindustan Petroleum Corporation (HPCL), as higher crude oil prices will increase their costs and reduce their profitability. In the medium term, the news may also affect companies that rely on imported goods, such as consumer staples and manufacturing companies, as higher import costs may lead to higher prices for consumers. The news may also lead to a decrease in investor sentiment, which could impact the overall market and lead to a decline in stock prices.",
-      "risks": [
-        "Higher crude oil prices increasing costs for oil and gas companies",
-        "Increased import costs affecting consumer staples and manufacturing companies",
-        "Decrease in investor sentiment due to government policy uncertainty"
       ]
     }
   },
@@ -1716,6 +1699,29 @@
     }
   },
   {
+    "id": "7927537",
+    "headline": "Rupee drops most in a month to record low close on spike in gold-linked dollar demand - Reuters",
+    "summary": "Rupee drops most in a month to record low close on spike in gold-linked dollar demand  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaVlwTHdWdVlEV0tOMUdsdTVkTzJFZ3JUUldmNnVnNEZVX0FUMkdYWGk2TVdOY20wUkpEZ2ZkWUpGM3RjYVkybFhaS244bmRwR3pHV1cxSVJGV3JFb2FwZ1BEMmZGeEFGWkEtQXVhR1V4T1JIc2FMNTRINVJTNFZRSDhuZEVLYXNub3pQVEJraEpNNE83R0FvNkpmLXA2N1FEQlBZVA?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1778469420,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778563685,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The Indian rupee has dropped to a record low against the US dollar due to a surge in demand for the greenback linked to gold purchases. This increase in demand has led to a significant depreciation of the rupee, making imports more expensive and potentially impacting businesses that rely heavily on imports. The Reserve Bank of India (RBI) has been intervening in the foreign exchange market to stabilize the currency, but the situation remains volatile. The drop in the rupee is also likely to impact the Indian economy, particularly the manufacturing and export sectors.",
+      "impact": "The decline of the rupee is expected to negatively impact the earnings of companies that import raw materials and intermediate goods, such as pharmaceuticals and textiles. This could lead to a decline in their profit margins and potentially affect their stock prices. In the medium term, the devaluation of the rupee may also lead to higher inflation, which could impact consumer spending and the overall economy. The RBI's intervention in the foreign exchange market may also lead to a decrease in liquidity, making it more difficult for companies to access credit and finance their operations.",
+      "risks": [
+        "Currency volatility risk",
+        "Inflation risk",
+        "Decreased liquidity risk"
+      ]
+    }
+  },
+  {
     "id": "7925963",
     "headline": "Gold ticks up as markets digest US-Iran updates, await inflation data - Reuters",
     "summary": "Gold ticks up as markets digest US-Iran updates, await inflation data  Reuters",
@@ -1735,6 +1741,29 @@
         "inflation risk",
         "oil price volatility risk",
         "macroeconomic uncertainty risk"
+      ]
+    }
+  },
+  {
+    "id": "7925862",
+    "headline": "India shares, rupee fall on Modi's call for austerity, crude price spike - Reuters",
+    "summary": "India shares, rupee fall on Modi's call for austerity, crude price spike  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUXFsaDA2c2NXQ1UzaE91eW1RUXhNUjlMWWRSaEVKVjY4V3JwcWpjaG81dkpQOVRnMmE3aXhqU0d3cmh0ZFplckVMbDNaRXFvdDR3TVpXc0o5dHY0ZnZnUThseUJlWkd1UDRaWm90eG5tTXpLWHB5RG9uT1lwMzEzaDM3b2o1STJ0LTRHNVl1cmIwcWtxRWc3cnZZU2RXVklaR1VBSzNnMkNPRnpFajdwaTFLTW0?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1778465940,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778478358,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Indian shares fell on Thursday due to a spike in crude oil prices and comments from Indian Prime Minister Narendra Modi on fuel and gold purchases. The crude oil price surge weighed on the Indian rupee, making imports more expensive and affecting the country's trade balance. Modi's remarks on fuel and gold purchases also fueled concerns about the government's economic policies. The Indian market has been sensitive to global commodity prices and government policies in recent months. This news is likely to impact the country's oil and gas companies, as well as companies that rely on imported goods.",
+      "impact": "The short-term impact of this news is likely to be negative for Indian oil and gas companies, such as Oil and Natural Gas Corporation (ONGC) and Hindustan Petroleum Corporation (HPCL), as higher crude oil prices will increase their costs and reduce their profitability. In the medium term, the news may also affect companies that rely on imported goods, such as consumer staples and manufacturing companies, as higher import costs may lead to higher prices for consumers. The news may also lead to a decrease in investor sentiment, which could impact the overall market and lead to a decline in stock prices.",
+      "risks": [
+        "Higher crude oil prices increasing costs for oil and gas companies",
+        "Increased import costs affecting consumer staples and manufacturing companies",
+        "Decrease in investor sentiment due to government policy uncertainty"
       ]
     }
   },
@@ -1782,6 +1811,29 @@
         "sanctions risk",
         "oil price volatility risk",
         "geopolitical instability risk"
+      ]
+    }
+  },
+  {
+    "id": "7925861",
+    "headline": "Dollar edges up as Trump rejects Iran peace move - Reuters",
+    "summary": "Dollar edges up as Trump rejects Iran peace move  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcTZ6NW1CNXZSaHpYd2tlQUtjRlFuYmZOc3hkVzlGMVRKVlFXMUwtNG40VC1jSURSVTd2cEVCV2ZXMHNHTGM0YU11OFBfMEtaQXBIN3dyQVhVc1Rmdng4SDAwYU1GUlZWZVRIYzc5S1ROQUJLcmpraHpVU1V1TnpLNm9kVXAtM1ZKUk9aQzQ5OEdPNnZRV0U4ZGlONFMtUmdVcXA0M2xpU2FYQThteFJvLUV4bUU?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1778458500,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778478447,
+      "sentiment": "bullish",
+      "confidence": 0.7,
+      "summary": "US President Donald Trump's rejection of Iran's peace offer has led to a strengthening of the US dollar, as investors perceive the development as a positive for the US economy. The dollar's appreciation is attributed to the reduced uncertainty surrounding US foreign policy and the potential for increased economic sanctions on Iran. This, in turn, is expected to boost US exports and contribute to economic growth. The strengthening dollar may also have a negative impact on emerging markets and companies with significant foreign currency debt.",
+      "impact": "The strengthening US dollar is likely to have a positive impact on US-based multinational companies with significant foreign operations, as their earnings will be boosted by the weaker foreign currency. This may lead to an increase in their stock prices in the short term. However, the medium-term impact may be less clear, as a stronger dollar can also lead to reduced demand for US exports, potentially affecting companies with significant international sales.",
+      "risks": [
+        "Reduced demand for US exports",
+        "Impact on emerging markets",
+        "Increased economic sanctions on Iran"
       ]
     }
   },
