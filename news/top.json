@@ -1,5 +1,51 @@
 [
   {
+    "id": "7937683",
+    "headline": "Whipsaw market actions leaves traders looking for direction. The 'fear gauge' might offer a clue",
+    "summary": "Volatility in the S&P 500 as measured by the Cboe VIX Index ended down on Tuesday, despite a brief pop to 19.01, the highest since April 28.",
+    "url": "https://www.cnbc.com/2026/05/13/whipsaw-market-actions-leaves-traders-looking-for-direction-the-fear-gauge-might-offer-a-clue.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108303847-1778173903070-gettyimages-2274431101-HAWKEYE_IPO.jpeg?v=1778174895&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1778678748,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778680449,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The market experienced a whipsaw action on Tuesday, with the S&P 500 ending down by less than 12 points despite a brief pop in the VIX to 19.01, its highest since April 28. This disconnect between the benchmark index and its individual components, such as semiconductor stocks, presents a hedging opportunity. The Cboe VIX Index ended down on the day, but options traders showed conviction in buying VIX calls, indicating a potential opportunity in volatility. This is particularly notable given the recent surge in crude oil prices and the 10-year Treasury yield, which has led to massive swings in semiconductor stocks.",
+      "impact": "The muted VIX presents a potential hedging opportunity in volatility, which could be attractive to traders. This could lead to increased buying of VIX calls, potentially driving up the price of volatility. In the short term, this may impact semiconductor stocks, such as Qualcomm and Intel, which have seen massive swings and soaring options prices. In the medium term, the impact on these stocks will depend on their earnings outlook, valuation, and sentiment, as well as macro factors such as crude oil prices and interest rates.",
+      "risks": [
+        "Increased volatility in the market",
+        "Potential downturn in semiconductor stocks",
+        "Impact of crude oil prices on earnings outlook"
+      ]
+    }
+  },
+  {
+    "id": "7937575",
+    "headline": "The Club's top 10 things to watch in the stock market Wednesday",
+    "summary": "AI stocks like Micron and Club name Corning after coming right back after one day of selling.",
+    "url": "https://www.cnbc.com/2026/05/13/the-clubs-top-10-things-to-watch-in-the-stock-market-wednesday.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108240006-1765390998579-gettyimages-2244770556-CHINA_CIIE.jpeg?v=1773772572&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1778677839,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778680497,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The stock market is expected to be influenced by various factors, including the reversal of semiconductor and AI stocks, Nvidia's upcoming earnings, and the performance of companies like Qnity Electronics, Johnson & Johnson, and NextPower. AI stocks like Micron and Corning are bouncing back after one day of selling, while Nvidia's price target was raised to $320. Johnson & Johnson was upgraded to buy with a price target of $265, driven by its accelerating sales growth and raised revenue estimates for its psoriasis pill. NextPower's strong quarter and backlog increase led to a 13% jump in its shares.",
+      "impact": "The reversal of semiconductor and AI stocks could lead to a short-term bounce in stocks like Micron and Corning. Nvidia's earnings next week may have a medium-term impact on its stock price, with a raised price target of $320. Johnson & Johnson's upgrade to buy and raised revenue estimates could lead to a medium-term increase in its stock price. NextPower's strong quarter and backlog increase may lead to a short-term increase in its stock price, driven by its expanding product offerings and revenue growth.",
+      "risks": [
+        "valuation risk",
+        "earnings miss risk",
+        "macroeconomic uncertainty"
+      ]
+    }
+  },
+  {
     "id": "7937024",
     "headline": "Trump says no need for China's help on Iran as shippers seek passage through Hormuz - Reuters",
     "summary": "Trump says no need for China's help on Iran as shippers seek passage through Hormuz  Reuters",
@@ -7,7 +53,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1778668699,
+    "publishedAt": 1778676269,
     "analysis": {
       "version": 2,
       "generatedAt": 1778670984,
@@ -23,25 +69,25 @@
     }
   },
   {
-    "id": "7935444",
-    "headline": "Oil eases on teetering Iran ceasefire as Trump heads to China - Reuters",
-    "summary": "Oil eases on teetering Iran ceasefire as Trump heads to China  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeExfc3FwV0NDeVZKSzBqVy02QlcwWklBbkRJaDRhbkprQTBtLWZTektlSVV5a2NMLWoyX1ozeVdKTEVSTVFSbWw5SWdzTlBGd2JKWTg4S3ZYREtnaXRPNG8xOUZTel80Nm1POTNSY254Xy1FR2h2U0JiRGRBZDFacFNYemx4SVpEd1d4SHNRUU13LXFKMXVUUnRuanhkRnF5RFJrS0llZU1idnlxQ0pr?oc=5",
+    "id": "7937134",
+    "headline": "Israel steps up attacks on Gaza since Iran truce, as military says Hamas rearming - Reuters",
+    "summary": "Israel steps up attacks on Gaza since Iran truce, as military says Hamas rearming  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNX3dnX0wtWFJNMHk3STdHX0hFaXJOYkFHVEhWamxaWnNwbUd6UVROd21xX3ZkZjB0VVlESDc4NlVuZUtiRXVFdnVXUlhwdE5HcTZGNG5VdnUzOF90UjlIR1MzeGhvU2d2c2pTOVpzZDc3WnpsX1luYTJjRGdRNVhHT1FjS2U4SDV0UjJoVWI2UkZnOE9LVFY0VFM0VEdkN3FyNTJSbHJVZ3FtQTJoblVPRmRWSDJsYk5kMlZ2Y0Z3MGV2LUx5eC1n?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1778664420,
+    "publishedAt": 1778667369,
     "analysis": {
       "version": 2,
-      "generatedAt": 1778650544,
+      "generatedAt": 1778680544,
       "sentiment": "bearish",
       "confidence": 0.8,
-      "summary": "Oil prices have slipped as the Iran ceasefire teeters on the brink of collapse, with US President Trump's visit to China potentially exacerbating tensions. The Iran-US conflict has been a major driver of oil price volatility, and any escalation could lead to a significant increase in oil prices. The ceasefire, brokered by the US and other world powers, has been fragile and has faced numerous challenges. If the ceasefire collapses, it could lead to a resumption of hostilities and a surge in oil prices.",
-      "impact": "The potential collapse of the Iran ceasefire could have a significant impact on oil prices, leading to a short-term increase in prices. This could be negative for oil producers such as ExxonMobil and Chevron, as higher prices could reduce demand and lead to lower earnings. In the medium term, a prolonged conflict could lead to a re-evaluation of the global energy landscape, potentially benefiting companies with diversified energy portfolios such as Total and Royal Dutch Shell.",
+      "summary": "Israel's escalation of attacks on Gaza since the Iran truce has led to a heightened sense of tension in the region. The Israeli military claims that Hamas is rearming, suggesting a potential increase in conflict. This development could have significant implications for the global arms industry, particularly for companies that supply Israel with military equipment. The increased conflict could lead to higher demand for military equipment and services, potentially benefiting companies such as Elbit Systems (ESLT) and Israel Aerospace Industries (ARSPF).",
+      "impact": "The short-term impact on the global arms industry is likely to be positive, with increased demand for military equipment and services. However, the medium-term impact is uncertain, as prolonged conflict could lead to a decline in investor sentiment and a decrease in demand for military equipment. The conflict could also lead to increased costs and risks for companies operating in the region, potentially impacting their earnings outlook and valuation.",
       "risks": [
-        "Escalation of the Iran-US conflict leading to a surge in oil prices",
-        "Reduced demand for oil due to higher prices",
-        "Prolonged conflict leading to a re-evaluation of the global energy landscape"
+        "Increased costs and risks for companies operating in the region",
+        "Decline in investor sentiment and demand for military equipment",
+        "Prolonged conflict leading to decreased earnings outlook and valuation"
       ]
     }
   },
@@ -65,29 +111,6 @@
         "oil price volatility risk",
         "supply chain disruption risk",
         "economic slowdown risk"
-      ]
-    }
-  },
-  {
-    "id": "7935965",
-    "headline": "Morning Bid: Locked in a stalemate with Iran, Trump heads to China - Reuters",
-    "summary": "Morning Bid: Locked in a stalemate with Iran, Trump heads to China  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWGxYUWdtRXUyS0wzemV0R0o2QXF0WUVWUzFRTTdWRTNIeFU4NVA5dS1iYm5SWkpNSG9EVW9PZks2UUEzck83UDlRYjJhYTdtWnVKbnQ4aGM4WFZ1b00tX2cxRE5RNTdVZTZUWTJEem5faWtaZDZmUnNNZGtRZllWUERZbnRadw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778661807,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778660775,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "US President Trump is heading to China for trade talks, amidst a stalemate with Iran. The news does not directly impact the US-China trade negotiations, but it may indicate a shift in the administration's priorities. The ongoing tensions with Iran have been a major concern for oil prices and energy-related stocks. The US-China trade talks are a key driver for the global economy, and a potential breakthrough could have a significant impact on the market.",
-      "impact": "The news is unlikely to have a significant short-term impact on the market, but it may lead to increased optimism about a potential trade deal with China. This could positively affect stocks with exposure to the US-China trade, such as those in the industrials and technology sectors. However, the ongoing tensions with Iran may continue to weigh on oil prices and energy-related stocks in the short term.",
-      "risks": [
-        "Iran-US tensions escalating and affecting global oil prices",
-        "Uncertainty around the outcome of the US-China trade talks",
-        "Potential for increased volatility in the market"
       ]
     }
   },
@@ -168,7 +191,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1778648820,
+    "publishedAt": 1778648877,
     "analysis": {
       "version": 2,
       "generatedAt": 1778660730,
@@ -191,12 +214,48 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1778647620
+    "publishedAt": 1778647620,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778680590,
+      "sentiment": "neutral",
+      "confidence": 0.5,
+      "summary": "Vietnam's fuel imports have increased in recent months due to a shortfall in domestic oil production caused by the ongoing conflict in Iran. The country's oil refineries have been operating at reduced capacity, leading to a shortage of fuel. To offset this shortage, Vietnam has increased its imports of oil and petroleum products. This has had a positive impact on the country's trade balance, with imports of oil and petroleum products increasing by 15.6% year-over-year. The increased demand for fuel has also led to higher prices for consumers, which may have a negative impact on the broader economy.",
+      "impact": "The news is likely to have a positive impact on oil and petroleum companies that export to Vietnam, such as those listed on the Singapore Exchange or the Hong Kong Stock Exchange. In the short term, the increased demand for fuel may drive up prices, which could benefit oil producers and refiners. However, in the medium term, the increased imports may put pressure on Vietnam's trade balance and lead to higher inflation, which could have a negative impact on the broader economy and consumer sentiment.",
+      "risks": [
+        "trade balance risk",
+        "inflation risk",
+        "consumer sentiment risk"
+      ]
+    }
+  },
+  {
+    "id": "7935965",
+    "headline": "Morning Bid: Locked in a stalemate with Iran, Trump heads to China - Reuters",
+    "summary": "Morning Bid: Locked in a stalemate with Iran, Trump heads to China  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWGxYUWdtRXUyS0wzemV0R0o2QXF0WUVWUzFRTTdWRTNIeFU4NVA5dS1iYm5SWkpNSG9EVW9PZks2UUEzck83UDlRYjJhYTdtWnVKbnQ4aGM4WFZ1b00tX2cxRE5RNTdVZTZUWTJEem5faWtaZDZmUnNNZGtRZllWUERZbnRadw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1778647140,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778660775,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "US President Trump is heading to China for trade talks, amidst a stalemate with Iran. The news does not directly impact the US-China trade negotiations, but it may indicate a shift in the administration's priorities. The ongoing tensions with Iran have been a major concern for oil prices and energy-related stocks. The US-China trade talks are a key driver for the global economy, and a potential breakthrough could have a significant impact on the market.",
+      "impact": "The news is unlikely to have a significant short-term impact on the market, but it may lead to increased optimism about a potential trade deal with China. This could positively affect stocks with exposure to the US-China trade, such as those in the industrials and technology sectors. However, the ongoing tensions with Iran may continue to weigh on oil prices and energy-related stocks in the short term.",
+      "risks": [
+        "Iran-US tensions escalating and affecting global oil prices",
+        "Uncertainty around the outcome of the US-China trade talks",
+        "Potential for increased volatility in the market"
+      ]
+    }
   },
   {
     "id": "7935445",
-    "headline": "European stocks rise as sentiment recovers, but government bond yields, oil still elevated - Reuters",
-    "summary": "European stocks rise as sentiment recovers, but government bond yields, oil still elevated  Reuters",
+    "headline": "European stocks rise, oil prices steady, government bond yields still high - Reuters",
+    "summary": "European stocks rise, oil prices steady, government bond yields still high  Reuters",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9WQ2g4TE51V0FmWDBZOFVjQVhDbVphVXVWQzVmV1RLY01taHBramJiaVNPTUdHZVZTQWtwWExtM2NUSW9fVkVLN2p4UzRMWUNla01KWnNYQVdLR3hlMUhxWlZqZEhQQnIxaThhVXQxNk44Sks1VXZHSkhEVQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -210,6 +269,29 @@
       "summary": "Asian markets are experiencing a downturn due to the recent surge in US inflation and the shaky Iran ceasefire. The US inflation data has raised concerns about the global economic growth, while the Iran ceasefire has increased uncertainty in the region. This has led to a decline in investor sentiment and a subsequent fall in stock prices. The situation is further complicated by the ongoing trade tensions between the US and other countries. The impact of these events on the global economy is still unfolding, but it is likely to have a negative effect on the stock market.",
       "impact": "The potential impact of this news on the stock market is a short-term decline in stock prices, particularly for companies with exposure to the US and Asian markets. The medium-term effect may be a reduction in earnings outlook for companies with significant operations in the region. The increased uncertainty and volatility may also lead to a decrease in investor sentiment, making it more challenging for companies to raise capital. Additionally, the ongoing trade tensions may lead to a decrease in global trade, which could negatively impact companies with significant export exposure.",
       "risks": []
+    }
+  },
+  {
+    "id": "7935444",
+    "headline": "Oil little changed as Trump heads to China - Reuters",
+    "summary": "Oil little changed as Trump heads to China  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeExfc3FwV0NDeVZKSzBqVy02QlcwWklBbkRJaDRhbkprQTBtLWZTektlSVV5a2NMLWoyX1ozeVdKTEVSTVFSbWw5SWdzTlBGd2JKWTg4S3ZYREtnaXRPNG8xOUZTel80Nm1POTNSY254Xy1FR2h2U0JiRGRBZDFacFNYemx4SVpEd1d4SHNRUU13LXFKMXVUUnRuanhkRnF5RFJrS0llZU1idnlxQ0pr?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1778634000,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778650544,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Oil prices have slipped as the Iran ceasefire teeters on the brink of collapse, with US President Trump's visit to China potentially exacerbating tensions. The Iran-US conflict has been a major driver of oil price volatility, and any escalation could lead to a significant increase in oil prices. The ceasefire, brokered by the US and other world powers, has been fragile and has faced numerous challenges. If the ceasefire collapses, it could lead to a resumption of hostilities and a surge in oil prices.",
+      "impact": "The potential collapse of the Iran ceasefire could have a significant impact on oil prices, leading to a short-term increase in prices. This could be negative for oil producers such as ExxonMobil and Chevron, as higher prices could reduce demand and lead to lower earnings. In the medium term, a prolonged conflict could lead to a re-evaluation of the global energy landscape, potentially benefiting companies with diversified energy portfolios such as Total and Royal Dutch Shell.",
+      "risks": [
+        "Escalation of the Iran-US conflict leading to a surge in oil prices",
+        "Reduced demand for oil due to higher prices",
+        "Prolonged conflict leading to a re-evaluation of the global energy landscape"
+      ]
     }
   },
   {
@@ -262,7 +344,20 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/108280507-1773948015240-gettyimages-2267420624-fedeexq3reportresultsonmarch023.jpeg?v=1773948064&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1778626735
+    "publishedAt": 1778626735,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778680638,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "FedEx CEO Raj Subramaniam downplayed the competitive threat from Amazon's recent supply chain services announcement, stating that it is a third-party logistics offering that is a small part of FedEx's business. He emphasized that FedEx's end-to-end global network is a key differentiator, and that Amazon's announcement does not pose a significant threat to the company. This is supported by analysts at Barclays, who described Amazon's move as 'more noise than risk'. FedEx's shares have recovered roughly half of their losses since the announcement, suggesting that investors are taking a more optimistic view of the company's prospects.",
+      "impact": "The news is likely to have a positive impact on FedEx's shares in the short term, as investors reassess the competitive threat posed by Amazon's supply chain services. The company's earnings outlook remains intact, and its valuation multiple may be more attractive as a result of the reduced perceived threat. However, the spin-off of FedEx's freight division into a standalone public company may create uncertainty and volatility in the coming months.",
+      "risks": [
+        "Integration risk with the spun-off freight division",
+        "Potential disruption to FedEx's logistics and parcel delivery operations",
+        "Uncertainty around the impact of Amazon's supply chain services on the broader logistics industry"
+      ]
+    }
   },
   {
     "id": "7934422",
@@ -978,6 +1073,29 @@
     }
   },
   {
+    "id": "7931580",
+    "headline": "Rupee's rough patch worsens on oil, outflow strain; central bank likely steps in - Reuters",
+    "summary": "Rupee's rough patch worsens on oil, outflow strain; central bank likely steps in  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd0xvUlNtejlVYUMtdWMtYkowcmdIOVJkT2pBTlE5UnBMLURGRXZPcEVnaGNha0RoWDBnaXVvS2t0aVlGaEM1MTdqTi0zTHRFY0l3RXdRV2FYS3FIWjZobF9vNERsMFZuVW9DRE9vRzA2Uk85OE1NX1p3TGpLTnVBMUQ4YkR3Q0hOUTRWbkdVQnpmMmViaV9xeUx3dHpoemF2WUlVckpKVzc5d1Nmam9ROUJjWlFGOHF6?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1778573881,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778629899,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The Indian rupee has been experiencing a rough patch due to a combination of factors, including a rise in oil prices and a strain on the country's foreign exchange reserves. The Reserve Bank of India (RBI) is likely to intervene to stabilize the currency. The RBI has been selling dollars to support the rupee, but the central bank's actions have not been enough to stem the decline. The rupee's weakness is a concern for Indian companies with significant foreign debt, as it increases their borrowing costs and reduces their competitiveness in the global market.",
+      "impact": "The rupee's weakness is expected to have a negative impact on Indian companies with significant foreign debt, particularly those in the oil and gas sector. This could lead to a decline in earnings for these companies, as higher borrowing costs reduce their profitability. The rupee's weakness may also lead to a decline in investor sentiment towards Indian equities, which could result in a decline in stock prices. In the medium term, the RBI's actions to stabilize the currency may lead to higher interest rates, which could also negatively impact the earnings of Indian companies.",
+      "risks": [
+        "Increased borrowing costs for Indian companies with significant foreign debt",
+        "Reduced competitiveness of Indian companies in the global market",
+        "Decline in investor sentiment towards Indian equities"
+      ]
+    }
+  },
+  {
     "id": "7931684",
     "headline": "World markets feel the strain as US–Iran war grinds on - Reuters",
     "summary": "World markets feel the strain as US–Iran war grinds on  Reuters",
@@ -1209,29 +1327,6 @@
     }
   },
   {
-    "id": "7931580",
-    "headline": "Rupee's rough patch worsens on oil, outflow strain; central bank likely steps in - Reuters",
-    "summary": "Rupee's rough patch worsens on oil, outflow strain; central bank likely steps in  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd0xvUlNtejlVYUMtdWMtYkowcmdIOVJkT2pBTlE5UnBMLURGRXZPcEVnaGNha0RoWDBnaXVvS2t0aVlGaEM1MTdqTi0zTHRFY0l3RXdRV2FYS3FIWjZobF9vNERsMFZuVW9DRE9vRzA2Uk85OE1NX1p3TGpLTnVBMUQ4YkR3Q0hOUTRWbkdVQnpmMmViaV9xeUx3dHpoemF2WUlVckpKVzc5d1Nmam9ROUJjWlFGOHF6?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778556960,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778629899,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The Indian rupee has been experiencing a rough patch due to a combination of factors, including a rise in oil prices and a strain on the country's foreign exchange reserves. The Reserve Bank of India (RBI) is likely to intervene to stabilize the currency. The RBI has been selling dollars to support the rupee, but the central bank's actions have not been enough to stem the decline. The rupee's weakness is a concern for Indian companies with significant foreign debt, as it increases their borrowing costs and reduces their competitiveness in the global market.",
-      "impact": "The rupee's weakness is expected to have a negative impact on Indian companies with significant foreign debt, particularly those in the oil and gas sector. This could lead to a decline in earnings for these companies, as higher borrowing costs reduce their profitability. The rupee's weakness may also lead to a decline in investor sentiment towards Indian equities, which could result in a decline in stock prices. In the medium term, the RBI's actions to stabilize the currency may lead to higher interest rates, which could also negatively impact the earnings of Indian companies.",
-      "risks": [
-        "Increased borrowing costs for Indian companies with significant foreign debt",
-        "Reduced competitiveness of Indian companies in the global market",
-        "Decline in investor sentiment towards Indian equities"
-      ]
-    }
-  },
-  {
     "id": "7931368",
     "headline": "US top diplomat discusses Iran, Strait of Hormuz with UK and Australia - Reuters",
     "summary": "US top diplomat discusses Iran, Strait of Hormuz with UK and Australia  Reuters",
@@ -1366,6 +1461,29 @@
         "Escalating trade tensions between the US and China",
         "Impact on investor sentiment and valuation",
         "Increased regulatory scrutiny of US companies operating in China"
+      ]
+    }
+  },
+  {
+    "id": "7929398",
+    "headline": "US issues new sanctions over Iran's oil shipments to China - Reuters",
+    "summary": "US issues new sanctions over Iran's oil shipments to China  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSFRSdkI1TWxrTWJCT1VHQjdsVjNmM05xVDRDMGM4eDRnbC1xd3Bqb3RoS1JnQU51NERCWVRoVWRlVmppV2Nvdk1iSWM0cmhpQnpEY18yQk5rbmxXSE82X3RuczRfUGdoQzBSSTY4bkNIcnctSS1FSDFGSzJuQ1ptSlM0SENqM0NFeVRuUjBHTGtJWHZRbWFRTzdiYnBwRmlVVTJ2Vw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1778550713,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778533578,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The US has issued new sanctions targeting Iran's oil shipments to China, escalating tensions between the US and Iran. This move is a response to Iran's continued non-compliance with international regulations. The sanctions aim to restrict Iran's ability to export oil, which is a significant source of revenue for the country. The US has been increasing pressure on countries that continue to import oil from Iran, including China, which is one of the largest buyers of Iranian oil. The sanctions are likely to impact Iran's economy and potentially lead to a decline in oil prices.",
+      "impact": "The sanctions are likely to have a negative impact on oil prices in the short term, which could benefit oil producers such as ExxonMobil (XOM) and Chevron (CVX) in the short term. However, in the medium term, the sanctions could lead to a decline in global oil demand, which could negatively impact the earnings outlook for these companies. Additionally, the sanctions could also impact the sentiment of investors towards the energy sector, leading to a decline in stock prices.",
+      "risks": [
+        "decline in oil demand risk",
+        "sentiment risk in the energy sector",
+        "macroeconomic risk due to global trade tensions"
       ]
     }
   },
@@ -1596,29 +1714,6 @@
         "Decreased investor confidence and market volatility",
         "Potential decline in earnings for companies with exposure to the Middle East region",
         "Increased defense spending, benefiting companies that supply the US military"
-      ]
-    }
-  },
-  {
-    "id": "7929398",
-    "headline": "US issues new sanctions over Iran's oil shipments to China - Reuters",
-    "summary": "US issues new sanctions over Iran's oil shipments to China  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSFRSdkI1TWxrTWJCT1VHQjdsVjNmM05xVDRDMGM4eDRnbC1xd3Bqb3RoS1JnQU51NERCWVRoVWRlVmppV2Nvdk1iSWM0cmhpQnpEY18yQk5rbmxXSE82X3RuczRfUGdoQzBSSTY4bkNIcnctSS1FSDFGSzJuQ1ptSlM0SENqM0NFeVRuUjBHTGtJWHZRbWFRTzdiYnBwRmlVVTJ2Vw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778528640,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778533578,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The US has issued new sanctions targeting Iran's oil shipments to China, escalating tensions between the US and Iran. This move is a response to Iran's continued non-compliance with international regulations. The sanctions aim to restrict Iran's ability to export oil, which is a significant source of revenue for the country. The US has been increasing pressure on countries that continue to import oil from Iran, including China, which is one of the largest buyers of Iranian oil. The sanctions are likely to impact Iran's economy and potentially lead to a decline in oil prices.",
-      "impact": "The sanctions are likely to have a negative impact on oil prices in the short term, which could benefit oil producers such as ExxonMobil (XOM) and Chevron (CVX) in the short term. However, in the medium term, the sanctions could lead to a decline in global oil demand, which could negatively impact the earnings outlook for these companies. Additionally, the sanctions could also impact the sentiment of investors towards the energy sector, leading to a decline in stock prices.",
-      "risks": [
-        "decline in oil demand risk",
-        "sentiment risk in the energy sector",
-        "macroeconomic risk due to global trade tensions"
       ]
     }
   },
@@ -22535,75 +22630,6 @@
         "earnings miss risk",
         "guidance risk",
         "valuation risk"
-      ]
-    }
-  },
-  {
-    "id": "7809885",
-    "headline": "How 50 days of the Iran war led to the loss of $50 billion worth of oil - Reuters",
-    "summary": "How 50 days of the Iran war led to the loss of $50 billion worth of oil  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOekdYZjBPOUt4UEN4MUpmR2FOTEM0dk5fUlRNTEtuOVNNbW9EQmFPR0xfdWQwRkFWZ2ZYZktkTVo0bmx2WjAyWW9Ec1RhRTBERHFQOTBCWVhGc1B5c2hzN0MwOWd3Wko3SS1fX2NUTDdneUpxOXdZS3d6LTFVZHd5eXNRMUxFS2loNmNUSmdTX0VSTGxIN1NIQkx5NVZ5N2k4aFU3TA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1776617107,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1776451087,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The article reports on the significant economic impact of the 50-day Iran war, resulting in a $50 billion loss in oil revenue. The war disrupted oil production and exports, affecting major oil-producing countries such as Saudi Arabia, Iraq, and the United Arab Emirates. The loss of oil revenue will likely lead to a decline in government revenues and a subsequent impact on public spending. This, in turn, may affect the overall economic growth and stability in these countries.",
-      "impact": "The potential impact on oil-related stocks, such as those of oil producers and refiners, could be significant. In the short-term, earnings outlook may be negatively affected due to reduced oil production and exports. In the medium-term, the decline in government revenues may lead to a decrease in public spending, affecting the overall economic growth and stability in these countries. This may, in turn, impact the demand for oil and the valuation of oil-related stocks.",
-      "risks": [
-        "decline in oil prices",
-        "reduced government revenues",
-        "economic instability in oil-producing countries"
-      ]
-    }
-  },
-  {
-    "id": "7818891",
-    "headline": "Amazon, USPS and the risk of a widening delivery divide in rural America",
-    "summary": "The new deal between Amazon and the U.S. Postal Service has many implications, maybe none greater than what it means for package delivery to rural Americans.",
-    "url": "https://www.cnbc.com/2026/04/19/amazon-usps-package-delivery-costs-rural-america.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108293653-1776601365851-gettyimages-1356039651-grose51919.jpeg?v=1776601397&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1776607756,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1776608907,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Amazon's deal with USPS will lead to a reduction in packages shipped through USPS, resulting in higher costs and less reliable delivery service for small businesses and consumers in rural areas. This is due to the increased cost per package as drivers make fewer stops per mile. The deal will put pressure on USPS to either increase rates for other customers or cut back on service levels, affecting rural areas first. This development is a concern for Amazon's last-mile delivery economics, as it faces challenges in delivering to rural areas with lower volume and density.",
-      "impact": "The news is bearish for Amazon's (AMZN) stock in the short-term, as the company's efforts to increase deliveries to small towns may be hindered by the increased costs and reduced service levels. The deal may also impact the earnings outlook for USPS, potentially leading to a reevaluation of the company's valuation. In the medium-term, the news may lead to increased costs for small businesses and consumers in rural areas, potentially affecting their sentiment towards Amazon and other e-commerce companies.",
-      "risks": [
-        "Increased costs for small businesses and consumers in rural areas",
-        "Reduced service levels and delivery times for rural areas",
-        "Potential reevaluation of USPS's valuation and earnings outlook"
-      ]
-    }
-  },
-  {
-    "id": "7819301",
-    "headline": "Iran currently has no decision to send a negotiating delegation to Pakistan, Tasnim reports - Reuters",
-    "summary": "Iran currently has no decision to send a negotiating delegation to Pakistan, Tasnim reports  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaGZ4cm5iSVRwckFQbEZ1cGlqTFNzdUJ0cnE3NFBBLXZvSFRtSlRIOVJoeVMyOXR6RTFPYTNJRkRpNERPaDJaaTJBbFIxMUJNTWdCc2lqZjNUTzFFeEdaeDRkZ0R1eEZxNklQZ0hEOGFkamQ3MFVKMGx6TE82S2JQVFFKbmlQeWhDZWM3Mk1rbktGVEY4bkRIQkl6SWpmc0NWTFI4OVVmTVFEcVdTU2taLXFtaWU4YjZCV3h4UUFYNllGdmFoNFNDYw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1776607671,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1776619353,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Iran has no immediate plans to send a negotiating delegation to Pakistan, according to a report by Tasnim. This news is a neutral development in the context of geopolitical tensions between Iran and Pakistan. The lack of a negotiating delegation does not necessarily imply a breakdown in relations between the two countries, but rather a lack of current plans for diplomatic engagement. Iran's foreign policy decisions are often subject to change, and this news may not have a significant impact on the country's overall diplomatic efforts.",
-      "impact": "The news is unlikely to have a significant impact on the stock market in the short term, as it does not provide any clear insights into Iran's economic or financial situation. However, it may be a negative signal for companies with exposure to Iran, such as those in the energy or trade sectors, as it suggests a lack of progress in diplomatic efforts. In the medium term, a deterioration in Iran-Pakistan relations could lead to increased tensions in the region, potentially affecting global oil prices and trade flows.",
-      "risks": [
-        "geopolitical risk",
-        "trade war risk",
-        "energy market volatility risk"
       ]
     }
   }
