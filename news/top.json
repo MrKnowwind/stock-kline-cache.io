@@ -1,5 +1,47 @@
 [
   {
+    "id": "7944219",
+    "headline": "What's good for Cisco is good for Broadcom. 3 reasons both stocks are soaring",
+    "summary": "Cisco investors aren't the only victors from the network company's blowout earnings.",
+    "url": "https://www.cnbc.com/2026/05/14/whats-good-for-cisco-is-good-for-broadcom-3-reasons-both-stocks-are-up.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/102301242-465629331.jpg?v=1532564359&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1778790322,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778792408,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Cisco's blowout earnings and guidance have a positive read-through for Broadcom, as both companies benefit from the rising demand for networking solutions tied to the AI data center buildout. Cisco's strong results highlighted the growing importance of networking equipment in directing traffic in data centers, with hyperscalers such as Alphabet and Meta driving the demand. Broadcom, which designs custom AI chips for hyperscalers and has a robust networking business, is expected to benefit from this trend. Wells Fargo analysts raised Broadcom's price target to $545 a share, citing the company's underappreciated AI networking momentum.",
+      "impact": "The positive sentiment and earnings guidance from Cisco are likely to drive Broadcom's stock price higher in the short term, with potential for a medium-term increase in valuation as investors re-rate the company's growth prospects. The demand for networking solutions tied to the AI data center buildout is expected to drive Broadcom's revenue growth, particularly in its AI networking segment. This trend is expected to continue in the near term, with Cisco's strong results and guidance providing a positive read-through for Broadcom's earnings report on June 3.",
+      "risks": [
+        "Potential slowdown in demand for networking solutions tied to the AI data center buildout",
+        "Increased competition from other networking equipment providers",
+        "Economic downturn or recession affecting hyperscaler spending"
+      ]
+    }
+  },
+  {
+    "id": "7944003",
+    "headline": "Nearly 40% chances of stagflation by end of 2026, traders say",
+    "summary": "Traders are not optimistic about the state of economy by the end of this year, placing high chances of stagflation, a mix of high inflation and unemployment.",
+    "url": "https://www.cnbc.com/2026/05/14/nearly-40percent-chances-of-stagflation-by-end-of-2026-traders-say-.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108109106-1740756333280-gettyimages-2201785663-US_JOB_FAIR.jpeg?v=1740756354&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1778786894,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778792454,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The news article reports that traders are increasingly pessimistic about the US economy, predicting a nearly 40% chance of stagflation by the end of 2026. This is driven by high inflation (3.8% YoY in April) and rising wholesale prices. The unemployment rate has remained above 4% since May 2024. Traders also see a low chance of a soft landing, with only 21% predicting this scenario. The current economic environment is being compared to the 1970s, which experienced oil supply shocks leading to stagflation.",
+      "impact": "The potential stagflation could negatively impact stocks with high exposure to interest rates, such as banks and real estate investment trusts (REITs). A higher inflation environment may also lead to lower earnings expectations for companies with high input costs, such as those in the energy and materials sectors. The increased uncertainty may lead to a decrease in investor sentiment, causing a decline in stock prices. This could result in reduced liquidity and increased volatility in the short term.",
+      "risks": []
+    }
+  },
+  {
     "id": "7943895",
     "headline": "Fed Governor Miran submits resignation, throws support behind Warsh as new chair",
     "summary": "Miran served as a contrarian voice on the rate-setting Federal Open Market Committee.",
@@ -19,6 +61,29 @@
         "regulatory risk",
         "economic uncertainty",
         "market volatility"
+      ]
+    }
+  },
+  {
+    "id": "7944111",
+    "headline": "A Starbucks upgrade tackles a thorny issue pushed by the stock's skeptics",
+    "summary": "TD Cowen is optimistic that Starbucks is on its way to mounting a successful turnaround, but execution is key.",
+    "url": "https://www.cnbc.com/2026/05/14/a-starbucks-upgrade-tackles-a-thorny-issue-pushed-by-the-stocks-skeptics.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108259100-1769711863933-gettyimages-2237014994-STARBUCKS_CUTS.jpeg?v=1769711887&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1778782606,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778792507,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "TD Cowen upgraded Starbucks to 'buy' from 'hold', citing stronger same-store sales, easing cost pressures, and a clearer path to earnings growth. The analysts raised their price target to $120 from $106 and increased their earnings per share estimate by 9% to $3.94 by fiscal 2028. This upgrade is a vote of confidence in Starbucks' turnaround efforts under CEO Brian Niccol, who has implemented cost-cutting initiatives and menu innovations. The analysts also raised their same-store sales forecast for 2026-2028, above the Wall Street consensus figures.",
+      "impact": "The upgrade is likely to drive a short-term rally in Starbucks' stock price, with potential for further upside as investors become more optimistic about the company's prospects. The increased earnings estimate and price target could also lead to a re-rating of the stock, making it more attractive to investors. The upgrade may also boost the stock's sentiment, leading to increased trading volume and liquidity.",
+      "risks": [
+        "execution risk: Starbucks still needs to prove consistent margin recovery",
+        "valuation risk: the stock may be overvalued if the turnaround efforts are not successful",
+        "macroeconomic risk: a slowdown in consumer spending or economic downturn could impact Starbucks' sales"
       ]
     }
   },
@@ -245,6 +310,29 @@
     }
   },
   {
+    "id": "7943903",
+    "headline": "Parts of Somalia face famine risk for first time since 2022 - Reuters",
+    "summary": "Parts of Somalia face famine risk for first time since 2022  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORHpnWDM0Sm9nd0lSSVgxLXZxd0RKWl9jNmVCZFlfQ3QwTXJqckMxVm00QTdRcDJRbXpMYnN3M0NKd2hqTU5PQVJIM2diQzdxV3BRT0c3Mkl6dEpMODJSRzhhYVp5czE4S05KcVdIVXMzZEF4dUpKRlFqcDl5UEdFQUJiMTVRYm56WEE2QjZwVHRRUQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1778767515,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778792558,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Parts of Somalia are at risk of famine for the first time since 2022, according to a Reuters report. The country's ongoing drought and conflict have led to a severe food crisis, affecting over 1 million people. The situation is exacerbated by the fact that Somalia has a fragile economy and a history of food insecurity. The World Food Programme has warned that the situation is deteriorating rapidly, and immediate action is needed to prevent a humanitarian disaster. This news has significant implications for global food security and the economies of countries that rely heavily on international aid.",
+      "impact": "The potential famine in Somalia is likely to have a negative impact on global food prices, which could lead to higher costs for food manufacturers and retailers. This, in turn, could negatively affect the earnings outlook for companies in the food and beverage industry, particularly those with significant exposure to international markets. The news may also lead to increased demand for humanitarian aid, which could benefit companies that provide relief services and supplies. However, the medium-term impact on the overall economy and stock market is uncertain and may depend on the effectiveness of aid efforts and the global response to the crisis.",
+      "risks": [
+        "Increased global food prices risk",
+        "Negative earnings outlook for food and beverage companies",
+        "Uncertainty around aid effectiveness and global response"
+      ]
+    }
+  },
+  {
     "id": "7942802",
     "headline": "65% of workers have avoided using AI for moral, environmental, privacy or other reasons: CNBC survey",
     "summary": "Workers and students in the U.S. say they're skeptical of AI due to moral, privacy or accuracy concerns, the CNBC and SurveyMonkey Quarterly AI and Jobs Survey finds.",
@@ -459,7 +547,21 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1778756128
+    "publishedAt": 1778756128,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778792607,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Iran and the UAE clashed at the BRICS foreign ministers' meeting, escalating tensions in the Middle East. The conflict is driven by a dispute over regional influence and economic interests. The UAE is a key player in the region, with significant trade ties with the US and other Western countries. The escalation of tensions could impact regional stability and potentially disrupt global oil markets. The conflict may also affect the business environment in the region, particularly for companies with operations in the UAE or Iran.",
+      "impact": "The conflict may lead to a short-term increase in oil prices, which could negatively impact airlines, logistics, and energy companies. In the medium term, the escalation of tensions could lead to a decrease in investor sentiment towards companies with exposure to the region, potentially affecting their stock prices. This could be particularly concerning for companies with significant operations in the UAE, such as Emirates Airlines or DP World. The conflict may also impact the UAE's economic growth prospects, which could negatively impact the country's sovereign credit rating and affect the attractiveness of its bonds.",
+      "risks": [
+        "Regional instability risk",
+        "Oil price volatility risk",
+        "Decrease in investor sentiment risk",
+        "Economic growth slowdown risk"
+      ]
+    }
   },
   {
     "id": "7942104",
@@ -502,7 +604,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1778755566,
+    "publishedAt": 1778754248,
     "analysis": {
       "version": 2,
       "generatedAt": 1778746733,
@@ -514,29 +616,6 @@
         "Failure to reach a deal at the summit",
         "Continued tensions between the US and Iran",
         "Volatility in the oil market"
-      ]
-    }
-  },
-  {
-    "id": "7941679",
-    "headline": "UK economy posts strong Q1, but Iran war casts shadow over outlook - Reuters",
-    "summary": "UK economy posts strong Q1, but Iran war casts shadow over outlook  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQU1OcnQtbGt0TzBpSlMtMXlsdFMxdTdmWmtpNm1LYXI2R1BDMktPZ19ZblFrOGkyeTlJdzdTSnQ5WWIyYm1TcGZHZElSOTFuX3JCTXBhRThKTGZqSmlnaDNKZlZxSmJJMUI5blAxT0xsWjlLRWtiQUotYnV5djdyUjRiY2ZNbUVZc2VVSVlQZ3Y2dw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778753536,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778756767,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The UK economy reported a strong first quarter, driven by a rebound in manufacturing and construction. However, the ongoing tensions between the US and Iran have cast a shadow over the outlook, raising concerns about global trade and economic stability. The UK's economic growth is heavily reliant on international trade, and a prolonged conflict could lead to a decline in exports and a slowdown in economic activity. The UK government's response to the crisis will be crucial in mitigating the impact on the economy.",
-      "impact": "The strong Q1 GDP growth may lead to a short-term boost in investor sentiment and a potential increase in stock prices. However, the uncertainty surrounding the Iran conflict could lead to a medium-term decline in investor confidence, resulting in a decrease in stock prices. The impact on the UK economy will depend on the duration and severity of the conflict, as well as the UK government's response to the crisis.",
-      "risks": [
-        "Global trade slowdown risk",
-        "Export decline risk",
-        "Economic instability risk"
       ]
     }
   },
@@ -560,6 +639,29 @@
         "Decrease in investor confidence",
         "Weakening of BRICS nations' credibility",
         "Decrease in demand for exports"
+      ]
+    }
+  },
+  {
+    "id": "7941679",
+    "headline": "UK economy posts strong Q1, but Iran war casts shadow over outlook - Reuters",
+    "summary": "UK economy posts strong Q1, but Iran war casts shadow over outlook  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQU1OcnQtbGt0TzBpSlMtMXlsdFMxdTdmWmtpNm1LYXI2R1BDMktPZ19ZblFrOGkyeTlJdzdTSnQ5WWIyYm1TcGZHZElSOTFuX3JCTXBhRThKTGZqSmlnaDNKZlZxSmJJMUI5blAxT0xsWjlLRWtiQUotYnV5djdyUjRiY2ZNbUVZc2VVSVlQZ3Y2dw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1778738760,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778756767,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The UK economy reported a strong first quarter, driven by a rebound in manufacturing and construction. However, the ongoing tensions between the US and Iran have cast a shadow over the outlook, raising concerns about global trade and economic stability. The UK's economic growth is heavily reliant on international trade, and a prolonged conflict could lead to a decline in exports and a slowdown in economic activity. The UK government's response to the crisis will be crucial in mitigating the impact on the economy.",
+      "impact": "The strong Q1 GDP growth may lead to a short-term boost in investor sentiment and a potential increase in stock prices. However, the uncertainty surrounding the Iran conflict could lead to a medium-term decline in investor confidence, resulting in a decrease in stock prices. The impact on the UK economy will depend on the duration and severity of the conflict, as well as the UK government's response to the crisis.",
+      "risks": [
+        "Global trade slowdown risk",
+        "Export decline risk",
+        "Economic instability risk"
       ]
     }
   },
@@ -618,8 +720,8 @@
   },
   {
     "id": "7940833",
-    "headline": "New attacks hit ships near Hormuz as Trump discusses Iran with Xi - Reuters",
-    "summary": "New attacks hit ships near Hormuz as Trump discusses Iran with Xi  Reuters",
+    "headline": "Ship reported seized off UAE as Trump discusses Iran with Xi - Reuters",
+    "summary": "Ship reported seized off UAE as Trump discusses Iran with Xi  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbFd0ejg3MHE1NzY3MmdESTZ4bkxtNGtpQkFxZnhTSlVmLWVXSTZRRkRXbVBRNVlmS3FtbEk2NS1uaGFIX3Mxazc0UzFFbkJkbHdtQm9BS2NzSTFWTEVYQkxidUFZWE1MSEFiRlB0M3hYUFNRQm10eWN1dGhIei1URkYtRE5rS05pMFo5dmpZN3d6azVES2NiaWswZGMzZUl1SzVLejlWRzg?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1433,6 +1535,29 @@
     "publishedAt": 1778669478
   },
   {
+    "id": "7933891",
+    "headline": "Exclusive: Saudi Arabia launched covert attacks on Iran as regional war widened, sources say - Reuters",
+    "summary": "Exclusive: Saudi Arabia launched covert attacks on Iran as regional war widened, sources say  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZDVqZjdxVDZDeDdnNjd1RndvV0NwNTF4U1Y2cFpVRFMyMzI2WG9mQVFUTnM4YlI3NmVRcGozODRLUUhGbU5wVURWU2dBa0hvNFBxQUc5T0hOUmJENHNBWDg0ZTR2ZWZham5IYVJOY3djZmJia0J6cFg5OWV3ZzluenhIRkVXeW1HRWhYREh0Q181NG1Ncl9aV3FPZU8yQVVTT1VTblpjVjE4bW94bWhVWXpWblpMTDdGeEJVZkxzaW1ZRFU?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1778667795,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778623028,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Saudi Arabia's covert attacks on Iran have escalated the regional conflict, potentially leading to a wider war. The situation is complex, with multiple countries involved, including the US, Iran, and Saudi Arabia. This development is likely to impact the global oil market, as Saudi Arabia is a major oil producer. The increased tensions may lead to a surge in oil prices, which could negatively impact companies with high oil exposure in their business models, such as oil majors and airlines.",
+      "impact": "The potential escalation of the conflict could lead to a short-term increase in oil prices, negatively impacting companies with high oil exposure. In the medium term, the increased tensions may lead to a decline in investor sentiment, potentially affecting stock prices. The situation may also impact the global economy, particularly in regions dependent on oil exports, such as the Middle East and Europe.",
+      "risks": [
+        "Oil price volatility risk",
+        "Global economic slowdown risk",
+        "Increased geopolitical tensions risk"
+      ]
+    }
+  },
+  {
     "id": "7931043",
     "headline": "Stung by Iran war, Trump heads to China in need of wins - Reuters",
     "summary": "Stung by Iran war, Trump heads to China in need of wins  Reuters",
@@ -1531,6 +1656,29 @@
         "geopolitical risk",
         "oil price volatility",
         "earnings outlook risk for oil producers and traders"
+      ]
+    }
+  },
+  {
+    "id": "7929398",
+    "headline": "US issues new sanctions over Iran's oil shipments to China - Reuters",
+    "summary": "US issues new sanctions over Iran's oil shipments to China  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSFRSdkI1TWxrTWJCT1VHQjdsVjNmM05xVDRDMGM4eDRnbC1xd3Bqb3RoS1JnQU51NERCWVRoVWRlVmppV2Nvdk1iSWM0cmhpQnpEY18yQk5rbmxXSE82X3RuczRfUGdoQzBSSTY4bkNIcnctSS1FSDFGSzJuQ1ptSlM0SENqM0NFeVRuUjBHTGtJWHZRbWFRTzdiYnBwRmlVVTJ2Vw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1778655600,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778533578,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The US has issued new sanctions targeting Iran's oil shipments to China, escalating tensions between the US and Iran. This move is a response to Iran's continued non-compliance with international regulations. The sanctions aim to restrict Iran's ability to export oil, which is a significant source of revenue for the country. The US has been increasing pressure on countries that continue to import oil from Iran, including China, which is one of the largest buyers of Iranian oil. The sanctions are likely to impact Iran's economy and potentially lead to a decline in oil prices.",
+      "impact": "The sanctions are likely to have a negative impact on oil prices in the short term, which could benefit oil producers such as ExxonMobil (XOM) and Chevron (CVX) in the short term. However, in the medium term, the sanctions could lead to a decline in global oil demand, which could negatively impact the earnings outlook for these companies. Additionally, the sanctions could also impact the sentiment of investors towards the energy sector, leading to a decline in stock prices.",
+      "risks": [
+        "decline in oil demand risk",
+        "sentiment risk in the energy sector",
+        "macroeconomic risk due to global trade tensions"
       ]
     }
   },
@@ -2077,29 +2225,6 @@
         "Increased trade tensions risk",
         "Global economic slowdown risk",
         "Geopolitical instability risk"
-      ]
-    }
-  },
-  {
-    "id": "7933891",
-    "headline": "Exclusive: Saudi Arabia launched covert attacks on Iran as regional war widened, sources say - Reuters",
-    "summary": "Exclusive: Saudi Arabia launched covert attacks on Iran as regional war widened, sources say  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZDVqZjdxVDZDeDdnNjd1RndvV0NwNTF4U1Y2cFpVRFMyMzI2WG9mQVFUTnM4YlI3NmVRcGozODRLUUhGbU5wVURWU2dBa0hvNFBxQUc5T0hOUmJENHNBWDg0ZTR2ZWZham5IYVJOY3djZmJia0J6cFg5OWV3ZzluenhIRkVXeW1HRWhYREh0Q181NG1Ncl9aV3FPZU8yQVVTT1VTblpjVjE4bW94bWhVWXpWblpMTDdGeEJVZkxzaW1ZRFU?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778609280,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778623028,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Saudi Arabia's covert attacks on Iran have escalated the regional conflict, potentially leading to a wider war. The situation is complex, with multiple countries involved, including the US, Iran, and Saudi Arabia. This development is likely to impact the global oil market, as Saudi Arabia is a major oil producer. The increased tensions may lead to a surge in oil prices, which could negatively impact companies with high oil exposure in their business models, such as oil majors and airlines.",
-      "impact": "The potential escalation of the conflict could lead to a short-term increase in oil prices, negatively impacting companies with high oil exposure. In the medium term, the increased tensions may lead to a decline in investor sentiment, potentially affecting stock prices. The situation may also impact the global economy, particularly in regions dependent on oil exports, such as the Middle East and Europe.",
-      "risks": [
-        "Oil price volatility risk",
-        "Global economic slowdown risk",
-        "Increased geopolitical tensions risk"
       ]
     }
   },
@@ -3150,29 +3275,6 @@
         "Decreased investor confidence and market volatility",
         "Potential decline in earnings for companies with exposure to the Middle East region",
         "Increased defense spending, benefiting companies that supply the US military"
-      ]
-    }
-  },
-  {
-    "id": "7929398",
-    "headline": "US issues new sanctions over Iran's oil shipments to China - Reuters",
-    "summary": "US issues new sanctions over Iran's oil shipments to China  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSFRSdkI1TWxrTWJCT1VHQjdsVjNmM05xVDRDMGM4eDRnbC1xd3Bqb3RoS1JnQU51NERCWVRoVWRlVmppV2Nvdk1iSWM0cmhpQnpEY18yQk5rbmxXSE82X3RuczRfUGdoQzBSSTY4bkNIcnctSS1FSDFGSzJuQ1ptSlM0SENqM0NFeVRuUjBHTGtJWHZRbWFRTzdiYnBwRmlVVTJ2Vw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778528640,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778533578,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The US has issued new sanctions targeting Iran's oil shipments to China, escalating tensions between the US and Iran. This move is a response to Iran's continued non-compliance with international regulations. The sanctions aim to restrict Iran's ability to export oil, which is a significant source of revenue for the country. The US has been increasing pressure on countries that continue to import oil from Iran, including China, which is one of the largest buyers of Iranian oil. The sanctions are likely to impact Iran's economy and potentially lead to a decline in oil prices.",
-      "impact": "The sanctions are likely to have a negative impact on oil prices in the short term, which could benefit oil producers such as ExxonMobil (XOM) and Chevron (CVX) in the short term. However, in the medium term, the sanctions could lead to a decline in global oil demand, which could negatively impact the earnings outlook for these companies. Additionally, the sanctions could also impact the sentiment of investors towards the energy sector, leading to a decline in stock prices.",
-      "risks": [
-        "decline in oil demand risk",
-        "sentiment risk in the energy sector",
-        "macroeconomic risk due to global trade tensions"
       ]
     }
   },
@@ -22470,98 +22572,6 @@
       "summary": "Inox Clean Energy Ltd. is reviving plans for an initial public offering (IPO) that could raise up to $1 billion. This development suggests the company is seeking to tap into the growing demand for clean energy solutions in India. The IPO could provide a significant influx of capital to fund the company's expansion plans, potentially boosting its growth prospects. The company's decision to revive the IPO plan indicates confidence in its business prospects and the potential for future growth.",
       "impact": "The potential IPO could have a positive impact on the stock market, particularly for companies in the clean energy sector. The increased capital could lead to higher earnings expectations, potentially driving up the company's stock price in the short term. Additionally, the IPO could also attract new investors and improve liquidity in the market, further boosting the stock's performance. However, the success of the IPO also depends on various factors, including market conditions and investor sentiment.",
       "risks": []
-    }
-  },
-  {
-    "id": "7829136",
-    "headline": "South African rand weakens as business confidence slips, Iran war raises inflation risks - Reuters",
-    "summary": "South African rand weakens as business confidence slips, Iran war raises inflation risks  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX2ZuejZVSkthWTVURTBuWm1FWHFUSGZ2OHFQdjU5MnJJRVMzTG9GTTFFb3hIUlk2UmMtMUQ4aHVzX3hMTlhvNVM2Sl9uRzVVbnJrbzRmUlNTQ0xrenM4aWN6NGszUUIyMVM2NXJ5Y2JrNldMVXVacVlPV2Yxa2lRb2JRWkd6SEFiaktXQ2hJeUo3NFNBZXMtV0hxRzZ0WnZfeEJ2dFgwSTNoSFV1SWE4S1Bzc2hpZGlCeExRZDQzbW8?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1776753840,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1776790884,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "The South African rand has weakened due to a decline in business confidence, which is a key driver of economic growth in the country. The business confidence index has slipped, indicating a decrease in investor optimism. This decline in confidence is partly attributed to the uncertainty surrounding the Iran war, which has raised inflation risks for South Africa. The country's economy is heavily reliant on imported goods, and a potential escalation of the conflict could lead to higher import costs and inflation. This, in turn, could negatively impact consumer spending and business investment, ultimately affecting the rand's value.",
-      "impact": "The weakening rand is likely to have a negative impact on South African stocks in the short term, particularly those with significant exposure to import costs or foreign currency-denominated debt. Companies with a high degree of reliance on imported goods or services may see their profit margins compressed, leading to a decline in earnings. The medium-term impact may also be significant, as a prolonged period of high inflation could lead to a decrease in consumer spending and business investment, ultimately affecting the overall economy and stock market performance.",
-      "risks": [
-        "inflation risk",
-        "import cost risk",
-        "foreign currency risk"
-      ]
-    }
-  },
-  {
-    "id": "7827515",
-    "headline": "Iran executes man over burning of mosque during January protests, Mizan reports - Reuters",
-    "summary": "Iran executes man over burning of mosque during January protests, Mizan reports  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQS1A5VUxxb1hMdlVCVGVEeUJ5U3BUcWh6SHZMVDBzYllzOUIwSVg0LWkyT0VLN0dDcG0xc0hSd1praUdweTY2d0tFSncweVFadlJXOS1CcXFHRzBFY1pHMXJ5LTdxWVhFc0s3TTlMX3Z5cTMzUW80M21mdHhmd2Zxc0FKS0VQS0xNeWRFbERvbzFKWkxRSHI0eGhMVlNrR3hPN3l2anhWcUQ4LXd6NExmUUZVT0FXZFRCZjRDTlJxUHZKd1JhcWEzSw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1776753660,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1776766067,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Iran has executed a man for burning a mosque during protests in January. The event is a domestic issue and does not have a direct impact on the global economy or the stocks of companies. The news is a reflection of the ongoing political tensions and human rights concerns in Iran. The execution is a response to the destruction of a mosque, which is a sensitive topic in Iran. The incident occurred during protests in January, but the news is being reported now, indicating a delay in the announcement.",
-      "impact": "The news is unlikely to have a significant impact on the global economy or the stocks of companies. However, it may affect the sentiment towards Iran and its government, potentially leading to increased sanctions or diplomatic pressure. This could have a negative impact on the country's economy and the stocks of companies with exposure to Iran in the long term. The news is unlikely to have a direct impact on the earnings outlook or valuation of companies in the short term.",
-      "risks": [
-        "increased sanctions risk",
-        "diplomatic pressure risk",
-        "long-term economic risk"
-      ]
-    }
-  },
-  {
-    "id": "7827728",
-    "headline": "Scam messages offering ships safe transit through Hormuz, security firm warns - Reuters",
-    "summary": "Scam messages offering ships safe transit through Hormuz, security firm warns  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQX01KdkNLUG93WTNVeTl4U1lhQVNHVlNlWlJfak5waV9wbXFocUY0QzlZSUhZMFFpN21LMmFNR3BIaFJ6ZGpYX1E0V01XU1BJRFE0aklvSThKQnpBMUZ1TUx1OUFVNTNNOU80cHlKZ3J6dWZnU3g2UjBhdXJ0aXNjVXQ1NEhvcGMwRkdyZzFnajJfdy1ERDliWV9aeEQwcU5yZHBuOW81M0RXWC1rUHR3ZFk1VEdzZHZpOVl4cTJZZVl0ZEJOMlIzR0NR?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1776751800,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1776766114,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "A security firm has warned of scam messages offering safe transit through the Strait of Hormuz, a critical waterway for global oil trade. The messages, which promise to guarantee safe passage, are likely attempts to extort money from vessels. The Strait of Hormuz is a key chokepoint for oil exports from the Middle East, with over 20% of global oil supplies passing through it. The scam messages may increase security concerns and costs for shipping companies, potentially impacting their profitability. The news does not directly relate to specific companies, but may affect the overall shipping industry.",
-      "impact": "The news may lead to increased security costs and concerns for shipping companies, potentially affecting their profitability and earnings outlook. In the short-term, this could lead to higher costs and reduced margins for companies operating in the shipping industry. However, the impact may be mitigated by the fact that shipping companies often have contingency plans in place for such scenarios. The medium-term effect may be a shift towards more secure and costly routes, potentially benefiting companies with a strong track record of security and risk management.",
-      "risks": [
-        "increased security costs and concerns",
-        "potential disruption to global oil trade",
-        "reduced profitability for shipping companies"
-      ]
-    }
-  },
-  {
-    "id": "7827402",
-    "headline": "India's March crude imports slide on Iran war, Russian volumes hit record high, data shows - Reuters",
-    "summary": "India's March crude imports slide on Iran war, Russian volumes hit record high, data shows  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQT2YwZmVYQllINENXNzhtNkxOdDlJZWY0dzk1bmVOUHZ1WlJIRkZKWkMxVmZyQW15cTFKdjZmQUY2LU0wUzZ6czZUM0lPT0k5ZXo3MHowNG1qSlZaamtaVjlHX3h3a3RabVMzV0pycUc1R2VxTl9iUzJ3U0tlMjFPZlFTa0tLdzZ5ei0yQ0dINEgwcXh0R2FsRlNaaWJ0bnJwWldOZHhQbC1Lb2xXSWVaelFzS1duLXMzNzc3MGFBXzBUbTFkZndCZUZB?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1776751680,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1776759809,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "India's crude imports declined in March due to the ongoing Iran-US conflict, which has led to increased uncertainty in global oil markets. Meanwhile, Russia's crude exports hit a record high, driven by rising demand from Asia. This shift in global oil trade dynamics may lead to a decrease in global oil prices, benefiting consumers and potentially impacting oil-producing companies. The Indian government's energy policies and the country's growing demand for oil will also be crucial factors in determining the long-term impact of this shift.",
-      "impact": "The decline in Indian crude imports may have a short-term positive impact on the earnings of oil-producing companies, such as ONGC and Oil India, as they may see a decrease in their revenue. However, this may be offset by a decrease in global oil prices, which could negatively impact the valuation of these companies. In the medium term, the shift in global oil trade dynamics may lead to increased competition for Russian oil exports, potentially affecting the earnings of Russian oil companies such as Rosneft and Gazprom.",
-      "risks": [
-        "global oil price volatility risk",
-        "increased competition in the oil market risk",
-        "geopolitical tensions risk"
-      ]
     }
   }
 ]
