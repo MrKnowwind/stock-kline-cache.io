@@ -1,5 +1,74 @@
 [
   {
+    "id": "7948696",
+    "headline": "Democrats blast Trump over 'slush fund' in possible IRS lawsuit settlement",
+    "summary": "ABC News reported President Donald Trump could settle a lawsuit against the IRS in exchange for a $1.7 billion fund to compensate his allies.",
+    "url": "https://www.cnbc.com/2026/05/15/trump-irs-taxes-democrats.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108305831-1778610075624-gettyimages-2275850384-kd1_1169_q7ytsg0x.jpeg?v=1778610110&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1778870529,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778872165,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The Trump administration is reportedly considering settling a $10 billion lawsuit against the IRS in exchange for a $1.7 billion fund to compensate Trump's allies. This move has been criticized by Democratic lawmakers, who claim it would be a corrupt act of using taxpayer dollars for a 'slush fund'. The lawsuit was filed over the leak of Trump's tax returns in 2019. The settlement could potentially end any audit into Trump, his family, and business. This development may have implications for the perception of Trump's business dealings and the potential for future investigations.",
+      "impact": "The potential settlement could lead to a negative sentiment shift towards Trump's business interests, potentially affecting the valuation of related stocks. In the short term, this news may lead to a sell-off in stocks related to Trump's business empire, such as any publicly traded companies owned by the Trump family. In the medium term, this development could also impact the earnings outlook for these companies, as well as any potential future investments or partnerships.",
+      "risks": [
+        "Negative sentiment shift towards Trump's business interests",
+        "Potential sell-off in related stocks",
+        "Impact on earnings outlook for Trump-owned companies"
+      ]
+    }
+  },
+  {
+    "id": "7948697",
+    "headline": "Can the S&P 500 hold on for a 7th weekly gain? Plus, Friday's best and worst stocks",
+    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+    "url": "https://www.cnbc.com/2026/05/15/can-the-sp-500-hold-on-for-a-7th-weekly-gain-plus-fridays-best-and-worst-stocks.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108306441-1778688845240-Traders-Photo-20260513-AS-3.jpg?v=1778688944&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1778869887,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778872213,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The S&P 500 is on pace for its seventh straight positive week, but the market pulled back on Friday due to a huge bond selloff and rising oil prices. This led to profit-taking across the AI trade, with stocks like Arm Holdings, Nvidia, and Qnity Electronics giving back recent gains. However, our cybersecurity names, such as Palo Alto Networks, CrowdStrike, and Cardinal Health, were big winners after the market realized AI is an accelerant to their industry, not a replacement. The rise in market interest rates and oil prices also had a negative impact on consumer discretionary stocks, including Home Depot and Dover.",
+      "impact": "The AI trade is showing signs of profit-taking, which could impact stocks like Arm Holdings, Nvidia, and Qnity Electronics in the short term. However, cybersecurity stocks like Palo Alto Networks, CrowdStrike, and Cardinal Health are likely to continue to benefit from the growing demand for AI-driven security solutions. The rising interest rates and oil prices may also lead to a slowdown in consumer spending, negatively impacting consumer discretionary stocks like Home Depot and Dover in the medium term.",
+      "risks": [
+        "profit-taking risk in the AI trade",
+        "slowdown in consumer spending risk",
+        "inflation concerns risk"
+      ]
+    }
+  },
+  {
+    "id": "7947079",
+    "headline": "BRICS talks end without joint statement, exposing divisions over war in Iran - Reuters",
+    "summary": "BRICS talks end without joint statement, exposing divisions over war in Iran  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUlBvVS1CSFpOWHFpd3NPbEROQlhLVDMxMm9PN1BBNjlzYVFPMnlFUW9na3JoMkxoQlo0bXQwcFVtZGY0VjNIcExteXNhNm8xSmJydkNHTDlWOFlZUjQybjJGWGx1Wks5MEJlREJYc2o2Yy1hbWpvY013Q2M3N3RfZmplMml3NFdvRmJYZjFkT1NOVWNlMjc5OWdHX3BGMmNETjk3bHFXTW9TTnFwRFZCTmdIbVFudWdzeFBDTDY3SXc?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1778866091,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778851324,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The BRICS (Brazil, Russia, India, China, and South Africa) talks have ended without a joint statement, highlighting divisions among the nations over the war in Iran. The lack of a unified stance on the conflict suggests that the group's economic cooperation and decision-making processes may be hindered. This development is significant as the BRICS nations are major players in the global economy, and their cooperation is crucial for trade and investment. The divisions within the group may lead to a decrease in economic cooperation and potentially impact global economic growth.",
+      "impact": "The lack of a unified stance on the war in Iran may lead to a decrease in trade and investment between BRICS nations, potentially impacting the earnings outlook of companies with significant exposure to these markets. This could also lead to increased volatility in the global economy, affecting the overall market sentiment and potentially leading to a decrease in stock prices. The medium-term impact may be a decrease in global economic growth, as the BRICS nations are significant contributors to the global economy.",
+      "risks": [
+        "Decrease in trade and investment between BRICS nations",
+        "Increased volatility in the global economy",
+        "Decrease in global economic growth"
+      ]
+    }
+  },
+  {
     "id": "7948272",
     "headline": "NFL wants certain trading contracts banned from prediction markets like 'first play of game,' injuries",
     "summary": "The letter, which was reviewed by CNBC, calls for banning certain contracts and raising the age requirements for participation on sports-related contracts.",
@@ -88,29 +157,6 @@
     }
   },
   {
-    "id": "7946214",
-    "headline": "Trump says he is losing patience with Iran, did not ask China for any favours - Reuters",
-    "summary": "Trump says he is losing patience with Iran, did not ask China for any favours  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeFFlcklCYWQwZUZGc2xjSF9QWjJvMU1PWFVtakpUVDljdTFCMzJqN2lULXMycUVxS2V2Q0I4X3h3ZndCczNqZ2JKTEFwdW1tTlBMMGlJRWRiT05jT3otM1BtT3F6YmxNQ1hEM1hjVnZPTEdXX1JlWk9lWWJLd3BvQlozTDFDQnQtbFU5ZUZzakE4Q0RPTHA5QWVmbXluVkFSRVQtZjlmdkRNUHVhR29v?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778855563,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778843214,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "US President Trump announced that he and Chinese President Xi Jinping agree that Iran cannot have nuclear weapons. This statement is a significant development in the ongoing Iran-US-China diplomatic efforts. The agreement is likely a result of the recent US-China trade deal and the ongoing efforts to reduce tensions in the Middle East. This news has positive implications for global security and stability, which could have a positive impact on the global economy and related industries.",
-      "impact": "The news is likely to have a positive impact on defense and aerospace stocks, particularly those involved in the production of non-nuclear military equipment and technology. Companies such as Lockheed Martin (LMT) and Boeing (BA) may see an increase in demand for their products due to the increased focus on non-nuclear defense systems. Additionally, the news may also have a positive impact on oil prices, which could benefit energy companies such as ExxonMobil (XOM) and Chevron (CVX).",
-      "risks": [
-        "geopolitical risk",
-        "economic sanctions risk",
-        "supply chain disruption risk"
-      ]
-    }
-  },
-  {
     "id": "7947295",
     "headline": "Iran has 'no trust' in US, will negotiate only if it is serious, Araqchi says - Reuters",
     "summary": "Iran has 'no trust' in US, will negotiate only if it is serious, Araqchi says  Reuters",
@@ -172,29 +218,6 @@
         "Higher interest rates risk",
         "Inflation risk",
         "Economic slowdown risk"
-      ]
-    }
-  },
-  {
-    "id": "7947079",
-    "headline": "BRICS talks end without joint statement, exposing divisions over war in Iran - Reuters",
-    "summary": "BRICS talks end without joint statement, exposing divisions over war in Iran  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUlBvVS1CSFpOWHFpd3NPbEROQlhLVDMxMm9PN1BBNjlzYVFPMnlFUW9na3JoMkxoQlo0bXQwcFVtZGY0VjNIcExteXNhNm8xSmJydkNHTDlWOFlZUjQybjJGWGx1Wks5MEJlREJYc2o2Yy1hbWpvY013Q2M3N3RfZmplMml3NFdvRmJYZjFkT1NOVWNlMjc5OWdHX3BGMmNETjk3bHFXTW9TTnFwRFZCTmdIbVFudWdzeFBDTDY3SXc?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778846709,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778851324,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The BRICS (Brazil, Russia, India, China, and South Africa) talks have ended without a joint statement, highlighting divisions among the nations over the war in Iran. The lack of a unified stance on the conflict suggests that the group's economic cooperation and decision-making processes may be hindered. This development is significant as the BRICS nations are major players in the global economy, and their cooperation is crucial for trade and investment. The divisions within the group may lead to a decrease in economic cooperation and potentially impact global economic growth.",
-      "impact": "The lack of a unified stance on the war in Iran may lead to a decrease in trade and investment between BRICS nations, potentially impacting the earnings outlook of companies with significant exposure to these markets. This could also lead to increased volatility in the global economy, affecting the overall market sentiment and potentially leading to a decrease in stock prices. The medium-term impact may be a decrease in global economic growth, as the BRICS nations are significant contributors to the global economy.",
-      "risks": [
-        "Decrease in trade and investment between BRICS nations",
-        "Increased volatility in the global economy",
-        "Decrease in global economic growth"
       ]
     }
   },
@@ -344,7 +367,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1778827200
+    "publishedAt": 1778827200,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778872259,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Global bond markets are experiencing a downturn due to rising inflation concerns. Inflation has been increasing globally, leading to a decrease in bond prices. This is because higher inflation erodes the purchasing power of fixed-income investments, making them less attractive to investors. The rise in inflation is attributed to various factors, including supply chain disruptions, labor shortages, and increased demand. As a result, investors are shifting their focus to assets that can keep pace with inflation, such as stocks and commodities.",
+      "impact": "The potential impact on related stocks is likely to be negative in the short-term, as investors may reduce their exposure to bond-heavy portfolios. This could lead to a decrease in demand for bonds, causing their prices to fall further. In the medium-term, companies with high debt levels may face increased borrowing costs, potentially affecting their earnings outlook. Additionally, the shift in investor sentiment towards assets that can keep pace with inflation may lead to a rotation into stocks with a history of delivering high inflation-adjusted returns.",
+      "risks": [
+        "Increased borrowing costs risk",
+        "Earnings outlook risk due to higher inflation",
+        "Shift in investor sentiment risk"
+      ]
+    }
   },
   {
     "id": "7946525",
@@ -366,6 +402,52 @@
         "Economic slowdown risk",
         "Inflation risk",
         "Oil price volatility risk"
+      ]
+    }
+  },
+  {
+    "id": "7946214",
+    "headline": "Trump says he is losing patience with Iran, did not ask China for any favours - Reuters",
+    "summary": "Trump says he is losing patience with Iran, did not ask China for any favours  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeFFlcklCYWQwZUZGc2xjSF9QWjJvMU1PWFVtakpUVDljdTFCMzJqN2lULXMycUVxS2V2Q0I4X3h3ZndCczNqZ2JKTEFwdW1tTlBMMGlJRWRiT05jT3otM1BtT3F6YmxNQ1hEM1hjVnZPTEdXX1JlWk9lWWJLd3BvQlozTDFDQnQtbFU5ZUZzakE4Q0RPTHA5QWVmbXluVkFSRVQtZjlmdkRNUHVhR29v?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1778825880,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778843214,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "US President Trump announced that he and Chinese President Xi Jinping agree that Iran cannot have nuclear weapons. This statement is a significant development in the ongoing Iran-US-China diplomatic efforts. The agreement is likely a result of the recent US-China trade deal and the ongoing efforts to reduce tensions in the Middle East. This news has positive implications for global security and stability, which could have a positive impact on the global economy and related industries.",
+      "impact": "The news is likely to have a positive impact on defense and aerospace stocks, particularly those involved in the production of non-nuclear military equipment and technology. Companies such as Lockheed Martin (LMT) and Boeing (BA) may see an increase in demand for their products due to the increased focus on non-nuclear defense systems. Additionally, the news may also have a positive impact on oil prices, which could benefit energy companies such as ExxonMobil (XOM) and Chevron (CVX).",
+      "risks": [
+        "geopolitical risk",
+        "economic sanctions risk",
+        "supply chain disruption risk"
+      ]
+    }
+  },
+  {
+    "id": "7945997",
+    "headline": "India raises retail fuel prices for first time since Iran war started - Reuters",
+    "summary": "India raises retail fuel prices for first time since Iran war started  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN1Vpck9GV3BPb1A5LW5aM0xsWGJ4OV9udnZDMTEzbTJZOXR1RFhTay1tVXRpV1FDZDd0U2cxU2hCd1BXVEFJOTFZVjYyR293UXVEUGJ1dWt6TEhTYmwwblF6YXZsOVJWMk9WQl9nempVaEdBYWtnN0thaWgwazQ3N2U0MjVDVHZVYWlwdDNKQlRrajMwazEwMEpGRGxNOS1kalBvSXZkVUhOeWZaQXRscEsySXdTQQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1778825056,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778833925,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "India has raised retail fuel prices for the first time since the Iran war started, which may indicate a shift in the country's fuel subsidy policy. This decision aims to reduce the financial burden on the government and potentially increase revenue. The move is likely driven by the government's need to balance its budget and manage the economic impact of the war. The increase in fuel prices may also lead to higher operating costs for companies, particularly those in the transportation and logistics sectors.",
+      "impact": "This news is likely to have a positive impact on oil and gas companies in India, such as Oil and Natural Gas Corporation (ONGC) and Hindustan Petroleum Corporation (HPCL), as they may benefit from higher fuel prices. The increase in fuel prices may also lead to higher earnings for these companies in the short-term. However, the medium-term impact may be negative for companies in the transportation and logistics sectors, such as Tata Motors and Maruti Suzuki, as higher fuel prices may increase their operating costs and reduce demand for their products.",
+      "risks": [
+        "Higher fuel prices may lead to inflation and reduce consumer spending",
+        "The impact on oil and gas companies may be short-term and reversed if the government decides to reduce fuel prices again",
+        "The increase in fuel prices may lead to a decrease in demand for transportation and logistics services"
       ]
     }
   },
@@ -400,7 +482,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1778819100,
+    "publishedAt": 1778819169,
     "analysis": {
       "version": 2,
       "generatedAt": 1778833878,
@@ -439,29 +521,6 @@
     }
   },
   {
-    "id": "7945997",
-    "headline": "India raises retail fuel prices for first time since Iran war started - Reuters",
-    "summary": "India raises retail fuel prices for first time since Iran war started  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN1Vpck9GV3BPb1A5LW5aM0xsWGJ4OV9udnZDMTEzbTJZOXR1RFhTay1tVXRpV1FDZDd0U2cxU2hCd1BXVEFJOTFZVjYyR293UXVEUGJ1dWt6TEhTYmwwblF6YXZsOVJWMk9WQl9nempVaEdBYWtnN0thaWgwazQ3N2U0MjVDVHZVYWlwdDNKQlRrajMwazEwMEpGRGxNOS1kalBvSXZkVUhOeWZaQXRscEsySXdTQQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778808960,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778833925,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "India has raised retail fuel prices for the first time since the Iran war started, which may indicate a shift in the country's fuel subsidy policy. This decision aims to reduce the financial burden on the government and potentially increase revenue. The move is likely driven by the government's need to balance its budget and manage the economic impact of the war. The increase in fuel prices may also lead to higher operating costs for companies, particularly those in the transportation and logistics sectors.",
-      "impact": "This news is likely to have a positive impact on oil and gas companies in India, such as Oil and Natural Gas Corporation (ONGC) and Hindustan Petroleum Corporation (HPCL), as they may benefit from higher fuel prices. The increase in fuel prices may also lead to higher earnings for these companies in the short-term. However, the medium-term impact may be negative for companies in the transportation and logistics sectors, such as Tata Motors and Maruti Suzuki, as higher fuel prices may increase their operating costs and reduce demand for their products.",
-      "risks": [
-        "Higher fuel prices may lead to inflation and reduce consumer spending",
-        "The impact on oil and gas companies may be short-term and reversed if the government decides to reduce fuel prices again",
-        "The increase in fuel prices may lead to a decrease in demand for transportation and logistics services"
-      ]
-    }
-  },
-  {
     "id": "7945480",
     "headline": "China wants Strait of Hormuz open free of curbs, USTR Greer tells Bloomberg News - Reuters",
     "summary": "China wants Strait of Hormuz open free of curbs, USTR Greer tells Bloomberg News  Reuters",
@@ -486,8 +545,8 @@
   },
   {
     "id": "7945790",
-    "headline": "Oil prices more than 3% as fears of renewed US-Iran combat - Reuters",
-    "summary": "Oil prices more than 3% as fears of renewed US-Iran combat  Reuters",
+    "headline": "Oil prices climb more than 3% on fears of new US-Iran combat - Reuters",
+    "summary": "Oil prices climb more than 3% on fears of new US-Iran combat  Reuters",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMS0waVlBR0ttTF9aOW14VVAxLVl2UklOaktqdHF5R3lUYnBENnI0Y3F3VEh3bV9Kb2VJSUNuR0xSaXFiRVZiM0cyWmlEdWdVR3ZYLU5HUUJkZHdtODlDRFhmamtCTU40eUVrZDBDZVdxeV9OZ3ZzV08zOURTcU5JSVpjelhWUGp2TWJ6SUlkaEVxN0hSOThvUHFFMXhtdlEw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -799,6 +858,29 @@
         "prolonged trade war risk",
         "economic slowdown risk",
         "decline in investor sentiment risk"
+      ]
+    }
+  },
+  {
+    "id": "7948695",
+    "headline": "Gurman Reports that OpenAI Is Unhappy With Apple Deal",
+    "summary": "",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-14/openai-apple-partnership-frays-setting-up-possible-legal-fight?srnd=undefined&embedded-checkout=true",
+    "source": "Bloomberg",
+    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+    "relatedSymbols": [],
+    "publishedAt": 1778783270,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778872305,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "OpenAI is reportedly unhappy with its partnership with Apple, which could lead to a potential legal dispute. The partnership, announced in 2022, aimed to integrate OpenAI's AI technology into Apple's products. However, OpenAI's dissatisfaction suggests that the collaboration may not be proceeding smoothly, potentially due to disagreements over revenue sharing, intellectual property, or other terms. This development could lead to a public dispute and potentially even a lawsuit, which could harm Apple's reputation and relationships with its partners.",
+      "impact": "The news is likely to have a negative impact on Apple's stock price in the short term, as investors may worry about the potential legal costs and reputational damage. In the medium term, the dispute could affect Apple's ability to integrate OpenAI's technology into its products, potentially delaying the launch of new features or products. This could lead to a decline in investor sentiment and a decrease in Apple's stock price. Additionally, the dispute could also impact Apple's relationships with other partners and suppliers, further exacerbating the negative sentiment.",
+      "risks": [
+        "legal dispute risk",
+        "reputational risk",
+        "partnership disruption risk"
       ]
     }
   },
@@ -1394,29 +1476,6 @@
     }
   },
   {
-    "id": "7941468",
-    "headline": "Second Japan-linked oil tanker sails via Strait of Hormuz as PM asks Iran to help out - Reuters",
-    "summary": "Second Japan-linked oil tanker sails via Strait of Hormuz as PM asks Iran to help out  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbzdJNnFPZlhqSGtEWTl3NDhiRHFtV09WOUFBYXExMHlwS2Y4Q01xbnpPalFLNlBsbFRYQVE1eG5zNUExbV9NM0FoZUk1eElodEJlX0s1NHpNeFJ5ZW1zN1V2eFVXZWx4VElNbG4xaktZMHQwdE9SeDFHVnJQNkl5QTJ0MUU2N2Q3dklfMFZ6ZXNYenc0NE1vUjBFU194RDhJRUxOcU1vX3RjY0p5TjY0Sy1sQ0xCUXFOTEdB?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778745778,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778802150,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "Japanese Prime Minister Fumio Kishida has asked Iran to help ensure the safe passage of Japanese oil tankers through the Strait of Hormuz. This comes after a Japanese-flagged oil tanker was released by Iranian authorities after being detained for several months. The second Japan-linked oil tanker has now successfully sailed through the strait. The incident highlights the ongoing tensions between Japan and Iran, which have been strained due to various issues, including Iran's nuclear program and trade disputes. The news is a positive development for Japan's oil importers, as it reduces the risk of disruptions to their supply chains.",
-      "impact": "The news is likely to have a positive impact on Japanese energy stocks in the short term, as it reduces the risk of supply chain disruptions. However, the medium-term impact will depend on the developments in the Iran-Japan relations and the global oil market. The news may also boost the sentiment towards Japanese energy stocks, potentially leading to an increase in their prices.",
-      "risks": [
-        "escalation of tensions between Japan and Iran",
-        "global oil price volatility",
-        "continuing supply chain disruptions"
-      ]
-    }
-  },
-  {
     "id": "7941679",
     "headline": "UK economy posts strong Q1, but Iran war casts shadow over outlook - Reuters",
     "summary": "UK economy posts strong Q1, but Iran war casts shadow over outlook  Reuters",
@@ -1577,7 +1636,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1778722320,
+    "publishedAt": 1778722592,
     "analysis": {
       "version": 2,
       "generatedAt": 1778746778,
@@ -1612,6 +1671,29 @@
         "escalating tensions between the US and Iran",
         "uncertainty surrounding the outcome of the Trump-Xi meeting",
         "volatility in the gold market"
+      ]
+    }
+  },
+  {
+    "id": "7941468",
+    "headline": "Second Japan-linked oil tanker sails via Strait of Hormuz as PM asks Iran to help out - Reuters",
+    "summary": "Second Japan-linked oil tanker sails via Strait of Hormuz as PM asks Iran to help out  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbzdJNnFPZlhqSGtEWTl3NDhiRHFtV09WOUFBYXExMHlwS2Y4Q01xbnpPalFLNlBsbFRYQVE1eG5zNUExbV9NM0FoZUk1eElodEJlX0s1NHpNeFJ5ZW1zN1V2eFVXZWx4VElNbG4xaktZMHQwdE9SeDFHVnJQNkl5QTJ0MUU2N2Q3dklfMFZ6ZXNYenc0NE1vUjBFU194RDhJRUxOcU1vX3RjY0p5TjY0Sy1sQ0xCUXFOTEdB?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1778720940,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778802150,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "Japanese Prime Minister Fumio Kishida has asked Iran to help ensure the safe passage of Japanese oil tankers through the Strait of Hormuz. This comes after a Japanese-flagged oil tanker was released by Iranian authorities after being detained for several months. The second Japan-linked oil tanker has now successfully sailed through the strait. The incident highlights the ongoing tensions between Japan and Iran, which have been strained due to various issues, including Iran's nuclear program and trade disputes. The news is a positive development for Japan's oil importers, as it reduces the risk of disruptions to their supply chains.",
+      "impact": "The news is likely to have a positive impact on Japanese energy stocks in the short term, as it reduces the risk of supply chain disruptions. However, the medium-term impact will depend on the developments in the Iran-Japan relations and the global oil market. The news may also boost the sentiment towards Japanese energy stocks, potentially leading to an increase in their prices.",
+      "risks": [
+        "escalation of tensions between Japan and Iran",
+        "global oil price volatility",
+        "continuing supply chain disruptions"
       ]
     }
   },
@@ -22624,75 +22706,6 @@
         "Geopolitical risk: the ceasefire extension may not be sustainable, and tensions between the US and Iran could escalate again.",
         "Economic risk: the positive impact on Pakistan's economy may be short-lived, and the country may still face economic challenges.",
         "Market risk: the news may not have a significant impact on global markets, and the stock prices of companies in the energy or commodities sector may not react positively to the news."
-      ]
-    }
-  },
-  {
-    "id": "7825958",
-    "headline": "Brent futures retreat on Iran ceasefire extension after brief climb above $100 - Reuters",
-    "summary": "Brent futures retreat on Iran ceasefire extension after brief climb above $100  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOThCMFBkZUFNNnZvMldLMHNuZ1lmZ05tUUw4MUhoLVlsQWFpZkVVemtVS1hSSGM1RF93Sm81VDZhMjdRUjl1VDBwQnkyWTNXMDlUbUUtN2pJRGZnNkhsdy1GcExsdk5YMVlHRWI0QVhtc2hJejBjRnlXZ0hwR1JsQlVWaEpHRExSQ2w4MmhXal94em43Mm92c0l3VmFrMkdpbDZ1NXpFWDFLUUFCOUJhWWNPLWd3b3huWG9OTi1MUVNpYlh5Qk5ndVJZNA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1776805794,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1776733849,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "US crude futures have fallen as investors reassess the risks associated with the US-Iran conflict ahead of the ceasefire deadline. The conflict has raised concerns about potential disruptions to global oil supplies, leading to a decrease in crude futures prices. The US and Iran have been engaged in a tense standoff, with the US imposing sanctions on Iran and Iran retaliating with attacks on US interests. The ceasefire deadline is looming, and investors are worried about the potential escalation of the conflict. This has led to a decrease in crude futures prices as investors become more cautious about the potential impact on oil supplies.",
-      "impact": "The decline in crude futures prices is likely to have a negative impact on oil-related stocks, particularly those with high exposure to the US market. Companies such as ExxonMobil and Chevron may see a decrease in earnings due to lower oil prices. The medium-term impact may also be negative, as lower oil prices could lead to a decrease in exploration and production activities, affecting the stocks of companies such as Schlumberger and Halliburton. The sentiment towards oil-related stocks may also be negatively impacted, leading to a decrease in liquidity and further downward pressure on prices.",
-      "risks": [
-        "Escalation of US-Iran conflict leading to further disruptions to global oil supplies",
-        "Decrease in oil prices leading to lower earnings for oil-related companies",
-        "Negative sentiment towards oil-related stocks leading to decreased liquidity"
-      ]
-    }
-  },
-  {
-    "id": "7830949",
-    "headline": "Trump's ceasefire extension a 'ploy to buy time' for surprise strike, advisor to Iran's top negotiator says - Reuters",
-    "summary": "Trump's ceasefire extension a 'ploy to buy time' for surprise strike, advisor to Iran's top negotiator says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd0ZldTlaQ1BiMTNWUnpfMVNLQUIyZkJvMkpKcjMyV2lVSTdEVGN5WG1pRkNBZHo0QzdsOUM5a09YNWNGOS1yTUxKS1FiOHlfN1JwVUoxWERlNEUwRW11ZjZaQ19CQzU1THRfdFlnWktBcUxJUGtDX3J6aTNReFNVam5rS0pCalJIMFJIVFFNVll1Z3ZXejAwZFdTVVBjYTJRUC1TQlQ5QkxZWnpsc3prc0xVN2VJWWc?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1776805712,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1776820097,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "US-Iran tensions have escalated as an advisor to Iran's top negotiator claims that Trump's ceasefire extension is a 'ploy to buy time' for a surprise strike. This statement suggests that the US may not be committed to a peaceful resolution, which could lead to increased military action. The US-Iran conflict has significant implications for the global oil market, as Iran is a major oil producer. The conflict could lead to a supply disruption, driving up oil prices and negatively impacting oil-related stocks.",
-      "impact": "The potential for increased military action in the Middle East could lead to a short-term spike in oil prices, benefiting oil producers such as ExxonMobil (XOM) and Chevron (CVX). However, the medium-term impact could be negative for these stocks if the conflict escalates and disrupts global oil supplies. The increased tensions could also lead to a decline in investor sentiment, negatively impacting the broader market and potentially leading to a decline in stock prices.",
-      "risks": [
-        "escalation of US-Iran conflict risk",
-        "oil supply disruption risk",
-        "global economic downturn risk"
-      ]
-    }
-  },
-  {
-    "id": "7830320",
-    "headline": "Polymarket launches trading of heavily leveraged 'perps' contracts",
-    "summary": "Prediction markets platform Polymarket is expanding into trading of perpetual futures contacts, the company said Tuesday.",
-    "url": "https://www.cnbc.com/2026/04/21/polymarket-launches-trading-of-heavily-leveraged-perps-contracts.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108263237-1770644039922-gettyimages-2260143497-kokovlis-notitle260209_npD1L.jpeg?v=1776792616&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1776803724,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1776807108,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Polymarket, a prediction markets platform, is expanding into trading of perpetual futures contracts, also known as 'perps', in response to its main rival Kalshi's plans to offer crypto trading, including perps. This move puts Polymarket in direct competition with Robinhood, Coinbase, and Kraken, highlighting the growing importance of prediction markets and derivatives trading. Perps have become popular among crypto traders as they offer the ability to hold leveraged exposure and exit anytime, and their expansion into this market could attract more traders and increase volume. This move is a strategic play by Polymarket to tap into the growing derivatives trading market and stay competitive in the industry.",
-      "impact": "The expansion into perps trading is likely to have a positive impact on Polymarket's stock price in the short term, as it demonstrates the company's ability to innovate and stay competitive in the market. This could lead to increased investor interest and a potential short-term price increase. However, the medium-term impact will depend on the success of the new product and the company's ability to execute it effectively. Additionally, the move may also put pressure on Kalshi, which could lead to a potential price decrease if it fails to respond effectively.",
-      "risks": [
-        "execution risk: Polymarket's ability to successfully execute its new product and integrate it into its existing platform",
-        "regulatory risk: potential regulatory challenges or changes that could impact the trading of perps",
-        "market volatility risk: the potential for market volatility to impact the success of the new product"
       ]
     }
   }
