@@ -1,13 +1,157 @@
 [
   {
+    "id": "7947509",
+    "headline": "Jim Cramer's top 10 things to watch in the stock market Friday",
+    "summary": "Oil prices and bond yields are jumping. Stock futures are falling.",
+    "url": "https://www.cnbc.com/2026/05/15/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108279084-1773840550456-108279084-1773770263033-gettyimages-2267063326-bb2_7727_aqk9od5m.jpg?v=1773840560&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1778849868,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778851180,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "The stock market is expected to open sharply lower due to weakness in tech names and surging oil and bond yields. This is a bearish sign for the market. The 10-year Treasury yield has topped 4.56% and the 30-year yield has reached 5.1%, the highest in roughly a year. This is a negative sign for stocks, as low bond yields have been a key driver of the stock rally. Applied Materials (AMAT) posted a strong quarter, but is down 2% despite the beat, and the iShares Semiconductor ETF is on pace to break a six-week win streak.",
+      "impact": "The sharp decline in the stock market could lead to short-term pain for stocks, particularly those in the tech sector. The rising bond yields could also lead to higher interest rates, making it more expensive for companies to borrow and potentially impacting their earnings outlook. The medium-term impact could be a rotation out of growth stocks and into value stocks, as investors seek safer havens in a rising rate environment.",
+      "risks": [
+        "interest rate risk",
+        "macroeconomic uncertainty",
+        "rotation out of growth stocks"
+      ]
+    }
+  },
+  {
+    "id": "7947286",
+    "headline": "30-year Treasury yield tops 5.1%, highest in nearly a year",
+    "summary": "Treasuries spiked on Friday as inflation signals continue to muddy interest rate expectations under the new Federal Reserve chair Kevin Warsh.",
+    "url": "https://www.cnbc.com/2026/05/15/treasury-yields-surge-as-inflation-data-points-to-tricky-rates-path.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108296432-17769691342026-04-23t145354z_946964958_rc22vka4lnni_rtrmadp_0_usa-stocks.jpeg?v=1776982682&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1778847041,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778851232,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The 30-year Treasury yield has surged to 5.1%, its highest in nearly a year, driven by inflation data and uncertainty around the Federal Reserve's interest rate policy under new Chair Kevin Warsh. The yield on the 10-year Treasury note also rose, while the 2-year Treasury note yield increased by over 6 basis points. Inflation data showed the consumer price index at 3.8%, producer prices at 6%, and import prices at 4.2% on a 12-month basis, all of which are at multi-year highs. These numbers, combined with the recent increase in energy prices, are causing concerns about inflation and its impact on the economy.",
+      "impact": "The rise in Treasury yields could have a negative impact on the stock market, particularly on growth stocks and companies with high debt levels. This is because higher interest rates can increase borrowing costs and reduce consumer spending, which could lead to a slowdown in economic growth. The increase in yields also makes bonds more attractive, which could lead to a rotation out of stocks and into bonds, further pressuring stock prices. In the short term, this could lead to a decline in stock prices, particularly for companies with high valuations or high debt levels.",
+      "risks": [
+        "Higher interest rates risk",
+        "Inflation risk",
+        "Economic slowdown risk"
+      ]
+    }
+  },
+  {
+    "id": "7947295",
+    "headline": "Iran has 'no trust' in US, will negotiate only if it is serious, Araqchi says - Reuters",
+    "summary": "Iran has 'no trust' in US, will negotiate only if it is serious, Araqchi says  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaFBtX0tMLXo3MzhfMEVRSmJKQzc0bEszUzB0WnkwS3REZ052U0JqeDVRSzlCaTljODNzb2xWb1dhTlRfbkVna25iRklIby1wWXJBS1pvd3dhYzl2bkktZ1N6aXJCcVo1bi1LSTNXMDVyQ05rcXNQTVNjRDFGejRxQ3I0d1h3ZjlfejlyVnNtbG9kY2VTZS1qSXBUWER3NzBBMjBxVUpLNmF6b2k3RW1qeDRTT1NqZHBGVWc?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1778846982,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778851277,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Iran's Deputy Foreign Minister Abbas Araqchi stated that Iran has lost trust in the US and will only engage in negotiations if the US demonstrates sincerity. This statement suggests a deteriorating relationship between the two countries, which may have implications for the global energy market. Iran is a significant oil producer, and tensions with the US could lead to supply disruptions or changes in global oil prices. The US has imposed sanctions on Iran, which has affected its economy and ability to export oil. The situation is complex and influenced by geopolitical factors.",
+      "impact": "The potential impact on the energy sector could be significant, with increased tensions leading to higher oil prices in the short term. This could benefit oil-producing companies such as ExxonMobil and Chevron, but may negatively impact airlines and other energy-intensive businesses. In the medium term, a prolonged conflict could lead to a decrease in global oil demand, affecting the earnings outlook for energy companies. The situation also highlights the risks associated with investing in countries with high geopolitical risk profiles.",
+      "risks": []
+    }
+  },
+  {
+    "id": "7947079",
+    "headline": "BRICS talks end without joint statement, exposing divisions over war in Iran - Reuters",
+    "summary": "BRICS talks end without joint statement, exposing divisions over war in Iran  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUlBvVS1CSFpOWHFpd3NPbEROQlhLVDMxMm9PN1BBNjlzYVFPMnlFUW9na3JoMkxoQlo0bXQwcFVtZGY0VjNIcExteXNhNm8xSmJydkNHTDlWOFlZUjQybjJGWGx1Wks5MEJlREJYc2o2Yy1hbWpvY013Q2M3N3RfZmplMml3NFdvRmJYZjFkT1NOVWNlMjc5OWdHX3BGMmNETjk3bHFXTW9TTnFwRFZCTmdIbVFudWdzeFBDTDY3SXc?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1778846709,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778851324,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The BRICS (Brazil, Russia, India, China, and South Africa) talks have ended without a joint statement, highlighting divisions among the nations over the war in Iran. The lack of a unified stance on the conflict suggests that the group's economic cooperation and decision-making processes may be hindered. This development is significant as the BRICS nations are major players in the global economy, and their cooperation is crucial for trade and investment. The divisions within the group may lead to a decrease in economic cooperation and potentially impact global economic growth.",
+      "impact": "The lack of a unified stance on the war in Iran may lead to a decrease in trade and investment between BRICS nations, potentially impacting the earnings outlook of companies with significant exposure to these markets. This could also lead to increased volatility in the global economy, affecting the overall market sentiment and potentially leading to a decrease in stock prices. The medium-term impact may be a decrease in global economic growth, as the BRICS nations are significant contributors to the global economy.",
+      "risks": [
+        "Decrease in trade and investment between BRICS nations",
+        "Increased volatility in the global economy",
+        "Decrease in global economic growth"
+      ]
+    }
+  },
+  {
+    "id": "7947076",
+    "headline": "Trump says he will soon make decision about sanctions on Chinese companies buying Iranian oil",
+    "summary": "U.S. President Donald Trump said Friday that he will make a decision over the next few days about lifting sanctions on Chinese oil companies that buy Iranion oil.",
+    "url": "https://www.cnbc.com/2026/05/15/trump-china-sanctions-iranian-oil.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108306886-17787594972026-05-14t051409z_67000638_rc2q8laxia4h_rtrmadp_0_china-usa.jpeg?v=1778759519&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1778844554,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778851372,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "US President Donald Trump plans to make a decision within the next few days on whether to lift sanctions on Chinese oil companies buying Iranian oil. This decision follows a recent US campaign to cut off revenue streams to Iran. The sanctions were imposed as part of a 'maximum pressure' campaign, targeting independent refineries, including China's Hengli Petrochemical (Dalian) Refinery, which imports Iranian oil using a 'shadow fleet' of tankers. The US and China strengthened their bilateral relationship during Trump's visit, but the issue of chip export controls and US access to rare earth minerals remains uncertain.",
+      "impact": "The potential lifting of sanctions on Chinese oil companies buying Iranian oil could positively impact Chinese oil companies, such as Hengli Petrochemical (Dalian) Refinery, by reducing their operational costs and increasing their revenue. This could lead to improved earnings outlook and valuation for these companies. However, the decision's impact on the oil market and global energy prices is uncertain, and could be influenced by various macro factors, including global demand and supply dynamics.",
+      "risks": [
+        "uncertainty around the US decision-making process and potential delays",
+        "potential backlash from Iran or other countries affected by the sanctions",
+        "impact on global energy prices and oil market dynamics"
+      ]
+    }
+  },
+  {
+    "id": "7947066",
+    "headline": "Family investors turn to old-economy businesses like dealerships and fisheries to avoid AI disruption",
+    "summary": "While car dealerships and fisheries are less eye-catching than high-flying AI startups, they offer stability and cash flow that's attractive to family offices.",
+    "url": "https://www.cnbc.com/2026/05/15/family-investors-economy-businesses-to-avoid-ai-disruption.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108306528-1778697651151-gettyimages-2220796623-dji_0923.jpeg?v=1778697685&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1778842903
+  },
+  {
+    "id": "7946525",
+    "headline": "German economy to take hit from Iran war during Q2, ministry says - Reuters",
+    "summary": "German economy to take hit from Iran war during Q2, ministry says  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSDZkZExsZVpBRnlRUkttUm1fVGdvWlF6UHhPMUpxVlhVNExBdktjT1dLbTlhUXFuYkJ6b3ZGT09iN0RTQVNJOEx0MW5WQVRTdTFONlgtcTVyeW1kaWhhOFVzZTRKLXMzb1dJaVI5YkIwN0FDc21ibkdhblZLNVFnbjR6anFpY1pQdkR5S291eFFsdWdrdkFEbHhXdTFLeVRLQWNn?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1778827019,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778843261,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The German economy is expected to be negatively impacted by a potential war with Iran in the second quarter, according to a ministry statement. This news is based on a Reuters article citing a ministry official. The official stated that a war with Iran would likely lead to higher oil prices, which would in turn increase inflation and reduce consumer spending. This could lead to a slowdown in the German economy, which is heavily reliant on exports and imports. The ministry's assessment suggests that the economic impact could be significant, with potential effects on the country's GDP and overall economic growth.",
+      "impact": "The potential war with Iran is likely to have a negative impact on the German economy, particularly in the short-term. This could lead to a decline in earnings for companies with significant exposure to the automotive and manufacturing sectors, as well as those with high import costs. The war could also lead to a decline in consumer spending, further exacerbating the economic slowdown. In the medium-term, the impact could be felt across the entire economy, with potential effects on the country's GDP and overall economic growth.",
+      "risks": [
+        "Economic slowdown risk",
+        "Inflation risk",
+        "Oil price volatility risk"
+      ]
+    }
+  },
+  {
     "id": "7946214",
-    "headline": "Trump says he and China's Xi agree Iran cannot have nuclear weapons - Reuters",
-    "summary": "Trump says he and China's Xi agree Iran cannot have nuclear weapons  Reuters",
+    "headline": "Trump says US and China are aligned on Iran, Tehran must make a deal soon - Reuters",
+    "summary": "Trump says US and China are aligned on Iran, Tehran must make a deal soon  Reuters",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeFFlcklCYWQwZUZGc2xjSF9QWjJvMU1PWFVtakpUVDljdTFCMzJqN2lULXMycUVxS2V2Q0I4X3h3ZndCczNqZ2JKTEFwdW1tTlBMMGlJRWRiT05jT3otM1BtT3F6YmxNQ1hEM1hjVnZPTEdXX1JlWk9lWWJLd3BvQlozTDFDQnQtbFU5ZUZzakE4Q0RPTHA5QWVmbXluVkFSRVQtZjlmdkRNUHVhR29v?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1778837408,
+    "publishedAt": 1778825880,
     "analysis": {
       "version": 2,
       "generatedAt": 1778843214,
@@ -23,25 +167,25 @@
     }
   },
   {
-    "id": "7946525",
-    "headline": "German economy to take hit from Iran war during Q2, ministry says - Reuters",
-    "summary": "German economy to take hit from Iran war during Q2, ministry says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSDZkZExsZVpBRnlRUkttUm1fVGdvWlF6UHhPMUpxVlhVNExBdktjT1dLbTlhUXFuYkJ6b3ZGT09iN0RTQVNJOEx0MW5WQVRTdTFONlgtcTVyeW1kaWhhOFVzZTRKLXMzb1dJaVI5YkIwN0FDc21ibkdhblZLNVFnbjR6anFpY1pQdkR5S291eFFsdWdrdkFEbHhXdTFLeVRLQWNn?oc=5",
+    "id": "7945997",
+    "headline": "India raises retail fuel prices for first time since Iran war started - Reuters",
+    "summary": "India raises retail fuel prices for first time since Iran war started  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN1Vpck9GV3BPb1A5LW5aM0xsWGJ4OV9udnZDMTEzbTJZOXR1RFhTay1tVXRpV1FDZDd0U2cxU2hCd1BXVEFJOTFZVjYyR293UXVEUGJ1dWt6TEhTYmwwblF6YXZsOVJWMk9WQl9nempVaEdBYWtnN0thaWgwazQ3N2U0MjVDVHZVYWlwdDNKQlRrajMwazEwMEpGRGxNOS1kalBvSXZkVUhOeWZaQXRscEsySXdTQQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1778826960,
+    "publishedAt": 1778825056,
     "analysis": {
       "version": 2,
-      "generatedAt": 1778843261,
-      "sentiment": "bearish",
+      "generatedAt": 1778833925,
+      "sentiment": "bullish",
       "confidence": 0.8,
-      "summary": "The German economy is expected to be negatively impacted by a potential war with Iran in the second quarter, according to a ministry statement. This news is based on a Reuters article citing a ministry official. The official stated that a war with Iran would likely lead to higher oil prices, which would in turn increase inflation and reduce consumer spending. This could lead to a slowdown in the German economy, which is heavily reliant on exports and imports. The ministry's assessment suggests that the economic impact could be significant, with potential effects on the country's GDP and overall economic growth.",
-      "impact": "The potential war with Iran is likely to have a negative impact on the German economy, particularly in the short-term. This could lead to a decline in earnings for companies with significant exposure to the automotive and manufacturing sectors, as well as those with high import costs. The war could also lead to a decline in consumer spending, further exacerbating the economic slowdown. In the medium-term, the impact could be felt across the entire economy, with potential effects on the country's GDP and overall economic growth.",
+      "summary": "India has raised retail fuel prices for the first time since the Iran war started, which may indicate a shift in the country's fuel subsidy policy. This decision aims to reduce the financial burden on the government and potentially increase revenue. The move is likely driven by the government's need to balance its budget and manage the economic impact of the war. The increase in fuel prices may also lead to higher operating costs for companies, particularly those in the transportation and logistics sectors.",
+      "impact": "This news is likely to have a positive impact on oil and gas companies in India, such as Oil and Natural Gas Corporation (ONGC) and Hindustan Petroleum Corporation (HPCL), as they may benefit from higher fuel prices. The increase in fuel prices may also lead to higher earnings for these companies in the short-term. However, the medium-term impact may be negative for companies in the transportation and logistics sectors, such as Tata Motors and Maruti Suzuki, as higher fuel prices may increase their operating costs and reduce demand for their products.",
       "risks": [
-        "Economic slowdown risk",
-        "Inflation risk",
-        "Oil price volatility risk"
+        "Higher fuel prices may lead to inflation and reduce consumer spending",
+        "The impact on oil and gas companies may be short-term and reversed if the government decides to reduce fuel prices again",
+        "The increase in fuel prices may lead to a decrease in demand for transportation and logistics services"
       ]
     }
   },
@@ -65,29 +209,6 @@
         "decline in air travel demand risk",
         "increased costs risk",
         "earnings pressure risk"
-      ]
-    }
-  },
-  {
-    "id": "7945480",
-    "headline": "China wants Strait of Hormuz open free of curbs, USTR Greer tells Bloomberg News - Reuters",
-    "summary": "China wants Strait of Hormuz open free of curbs, USTR Greer tells Bloomberg News  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUlVtMXBXbWVqcFVxZlRIZ01aQkRjVDhRSHZZLWNIR2NjemhwbDItdU9YdUgzY3NPamd4a05OMEFQT1k2LW96a2lxVFJvTzgzeGozcnktSUprSEhnejJNUDdpWjFTdm9fc2J5QzJTR3pVdzFYeFh0NUhOUEU3aVo1cTVWVFcyMUowcDhCdUNkYzhsZEpQV1Y3NGU4MUJWNm9VMlczSE5XZS1ETnYxRjhreTc2STZlZW11QmRPeWhwRDhJVHJo?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778820550,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778823695,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "China's statement on the Strait of Hormuz is a neutral development for the global oil market, as it does not imply any immediate changes to the current situation. The Strait of Hormuz is a critical waterway for oil exports, and any disruptions to it can impact global oil prices. The statement by USTR Greer suggests that China wants to maintain the status quo, which is a neutral stance. This development is unlikely to have a significant impact on the earnings outlook or valuation of oil-related companies in the short term.",
-      "impact": "The potential impact on oil-related stocks is limited, as the statement does not imply any changes to the current situation. However, a prolonged closure of the Strait of Hormuz could have a negative impact on oil prices, which could in turn affect the earnings of oil-related companies. This could lead to a short-term sell-off in oil stocks, but the medium-term impact is uncertain.",
-      "risks": [
-        "disruption risk",
-        "oil price volatility risk",
-        "geopolitical tensions risk"
       ]
     }
   },
@@ -138,32 +259,32 @@
     }
   },
   {
-    "id": "7945997",
-    "headline": "India raises retail fuel prices for first time since Iran war started - Reuters",
-    "summary": "India raises retail fuel prices for first time since Iran war started  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN1Vpck9GV3BPb1A5LW5aM0xsWGJ4OV9udnZDMTEzbTJZOXR1RFhTay1tVXRpV1FDZDd0U2cxU2hCd1BXVEFJOTFZVjYyR293UXVEUGJ1dWt6TEhTYmwwblF6YXZsOVJWMk9WQl9nempVaEdBYWtnN0thaWgwazQ3N2U0MjVDVHZVYWlwdDNKQlRrajMwazEwMEpGRGxNOS1kalBvSXZkVUhOeWZaQXRscEsySXdTQQ?oc=5",
+    "id": "7945480",
+    "headline": "China wants Strait of Hormuz open free of curbs, USTR Greer tells Bloomberg News - Reuters",
+    "summary": "China wants Strait of Hormuz open free of curbs, USTR Greer tells Bloomberg News  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUlVtMXBXbWVqcFVxZlRIZ01aQkRjVDhRSHZZLWNIR2NjemhwbDItdU9YdUgzY3NPamd4a05OMEFQT1k2LW96a2lxVFJvTzgzeGozcnktSUprSEhnejJNUDdpWjFTdm9fc2J5QzJTR3pVdzFYeFh0NUhOUEU3aVo1cTVWVFcyMUowcDhCdUNkYzhsZEpQV1Y3NGU4MUJWNm9VMlczSE5XZS1ETnYxRjhreTc2STZlZW11QmRPeWhwRDhJVHJo?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1778808960,
+    "publishedAt": 1778807400,
     "analysis": {
       "version": 2,
-      "generatedAt": 1778833925,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "India has raised retail fuel prices for the first time since the Iran war started, which may indicate a shift in the country's fuel subsidy policy. This decision aims to reduce the financial burden on the government and potentially increase revenue. The move is likely driven by the government's need to balance its budget and manage the economic impact of the war. The increase in fuel prices may also lead to higher operating costs for companies, particularly those in the transportation and logistics sectors.",
-      "impact": "This news is likely to have a positive impact on oil and gas companies in India, such as Oil and Natural Gas Corporation (ONGC) and Hindustan Petroleum Corporation (HPCL), as they may benefit from higher fuel prices. The increase in fuel prices may also lead to higher earnings for these companies in the short-term. However, the medium-term impact may be negative for companies in the transportation and logistics sectors, such as Tata Motors and Maruti Suzuki, as higher fuel prices may increase their operating costs and reduce demand for their products.",
+      "generatedAt": 1778823695,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "China's statement on the Strait of Hormuz is a neutral development for the global oil market, as it does not imply any immediate changes to the current situation. The Strait of Hormuz is a critical waterway for oil exports, and any disruptions to it can impact global oil prices. The statement by USTR Greer suggests that China wants to maintain the status quo, which is a neutral stance. This development is unlikely to have a significant impact on the earnings outlook or valuation of oil-related companies in the short term.",
+      "impact": "The potential impact on oil-related stocks is limited, as the statement does not imply any changes to the current situation. However, a prolonged closure of the Strait of Hormuz could have a negative impact on oil prices, which could in turn affect the earnings of oil-related companies. This could lead to a short-term sell-off in oil stocks, but the medium-term impact is uncertain.",
       "risks": [
-        "Higher fuel prices may lead to inflation and reduce consumer spending",
-        "The impact on oil and gas companies may be short-term and reversed if the government decides to reduce fuel prices again",
-        "The increase in fuel prices may lead to a decrease in demand for transportation and logistics services"
+        "disruption risk",
+        "oil price volatility risk",
+        "geopolitical tensions risk"
       ]
     }
   },
   {
     "id": "7945790",
-    "headline": "Oil prices up 3% after Trump says he is losing patience with Iran - Reuters",
-    "summary": "Oil prices up 3% after Trump says he is losing patience with Iran  Reuters",
+    "headline": "Oil prices up 2% as Trump and Iran's comments dent peace hopes - Reuters",
+    "summary": "Oil prices up 2% as Trump and Iran's comments dent peace hopes  Reuters",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMS0waVlBR0ttTF9aOW14VVAxLVl2UklOaktqdHF5R3lUYnBENnI0Y3F3VEh3bV9Kb2VJSUNuR0xSaXFiRVZiM0cyWmlEdWdVR3ZYLU5HUUJkZHdtODlDRFhmamtCTU40eUVrZDBDZVdxeV9OZ3ZzV08zOURTcU5JSVpjelhWUGp2TWJ6SUlkaEVxN0hSOThvUHFFMXhtdlEw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -793,29 +914,6 @@
     }
   },
   {
-    "id": "7941900",
-    "headline": "Iran hold World Cup departure rally despite continuing concerns - Reuters",
-    "summary": "Iran hold World Cup departure rally despite continuing concerns  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb2VZYzRseU5HX0dHMlpYZDRaS0lvMndldWVlVkhLM0xYNThlenZBSTNxY0Nxam5nZER3YTg1OC14eUJOMDE4eE1UNUdOZEx6cGFfd1YzQTVidjVmQ2RrWksyX2VLbTN2QkpUeXZsYUp6U2ZBWnU2VGdBdzlLd0ZIWlJFd3hENm9wOHp1QkgwR0hqZkJGUFFHeE9hOHg2YVgwaEVSMU1mU19UZ1pJUlJ1Z2Nrdw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778762332,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778802058,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Iran's national soccer team's World Cup departure rally has sparked a surge in national pride and unity, despite ongoing concerns about the country's economic and political situation. This event has brought the nation together, potentially improving morale and sentiment. The rally has been met with widespread celebrations and festivities, with many Iranians taking to the streets to show their support for the team. The team's performance has also been seen as a source of national pride, which could have a positive impact on the country's economy and tourism industry.",
-      "impact": "The rally and the subsequent boost in national pride and morale could have a positive impact on the country's tourism industry, potentially leading to an increase in tourism revenue. This could also have a positive impact on the country's economy, as a more optimistic and unified population may lead to increased consumer spending and investment. However, it is worth noting that the economic sanctions imposed on Iran are still in place, which could limit the potential benefits of the rally.",
-      "risks": [
-        "Economic sanctions risk",
-        "Potential decline in morale if the team's performance is not sustained",
-        "Uncertainty around the long-term impact on the economy and tourism industry"
-      ]
-    }
-  },
-  {
     "id": "7942921",
     "headline": "Vessel seized off UAE's Fujairah and heading toward Iranian waters, UKMTO says - Reuters",
     "summary": "Vessel seized off UAE's Fujairah and heading toward Iranian waters, UKMTO says  Reuters",
@@ -1070,6 +1168,29 @@
     }
   },
   {
+    "id": "7941679",
+    "headline": "UK economy posts strong Q1, but Iran war casts shadow over outlook - Reuters",
+    "summary": "UK economy posts strong Q1, but Iran war casts shadow over outlook  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQU1OcnQtbGt0TzBpSlMtMXlsdFMxdTdmWmtpNm1LYXI2R1BDMktPZ19ZblFrOGkyeTlJdzdTSnQ5WWIyYm1TcGZHZElSOTFuX3JCTXBhRThKTGZqSmlnaDNKZlZxSmJJMUI5blAxT0xsWjlLRWtiQUotYnV5djdyUjRiY2ZNbUVZc2VVSVlQZ3Y2dw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1778753536,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778756767,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The UK economy reported a strong first quarter, driven by a rebound in manufacturing and construction. However, the ongoing tensions between the US and Iran have cast a shadow over the outlook, raising concerns about global trade and economic stability. The UK's economic growth is heavily reliant on international trade, and a prolonged conflict could lead to a decline in exports and a slowdown in economic activity. The UK government's response to the crisis will be crucial in mitigating the impact on the economy.",
+      "impact": "The strong Q1 GDP growth may lead to a short-term boost in investor sentiment and a potential increase in stock prices. However, the uncertainty surrounding the Iran conflict could lead to a medium-term decline in investor confidence, resulting in a decrease in stock prices. The impact on the UK economy will depend on the duration and severity of the conflict, as well as the UK government's response to the crisis.",
+      "risks": [
+        "Global trade slowdown risk",
+        "Export decline risk",
+        "Economic instability risk"
+      ]
+    }
+  },
+  {
     "id": "7942002",
     "headline": "White House scrambles for gas-price relief as Iran war drags on - Reuters",
     "summary": "White House scrambles for gas-price relief as Iran war drags on  Reuters",
@@ -1093,6 +1214,29 @@
     }
   },
   {
+    "id": "7941468",
+    "headline": "Second Japan-linked oil tanker sails via Strait of Hormuz as PM asks Iran to help out - Reuters",
+    "summary": "Second Japan-linked oil tanker sails via Strait of Hormuz as PM asks Iran to help out  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbzdJNnFPZlhqSGtEWTl3NDhiRHFtV09WOUFBYXExMHlwS2Y4Q01xbnpPalFLNlBsbFRYQVE1eG5zNUExbV9NM0FoZUk1eElodEJlX0s1NHpNeFJ5ZW1zN1V2eFVXZWx4VElNbG4xaktZMHQwdE9SeDFHVnJQNkl5QTJ0MUU2N2Q3dklfMFZ6ZXNYenc0NE1vUjBFU194RDhJRUxOcU1vX3RjY0p5TjY0Sy1sQ0xCUXFOTEdB?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1778745778,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778802150,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "Japanese Prime Minister Fumio Kishida has asked Iran to help ensure the safe passage of Japanese oil tankers through the Strait of Hormuz. This comes after a Japanese-flagged oil tanker was released by Iranian authorities after being detained for several months. The second Japan-linked oil tanker has now successfully sailed through the strait. The incident highlights the ongoing tensions between Japan and Iran, which have been strained due to various issues, including Iran's nuclear program and trade disputes. The news is a positive development for Japan's oil importers, as it reduces the risk of disruptions to their supply chains.",
+      "impact": "The news is likely to have a positive impact on Japanese energy stocks in the short term, as it reduces the risk of supply chain disruptions. However, the medium-term impact will depend on the developments in the Iran-Japan relations and the global oil market. The news may also boost the sentiment towards Japanese energy stocks, potentially leading to an increase in their prices.",
+      "risks": [
+        "escalation of tensions between Japan and Iran",
+        "global oil price volatility",
+        "continuing supply chain disruptions"
+      ]
+    }
+  },
+  {
     "id": "7941899",
     "headline": "Iran urges BRICS nations to condemn war, Indian-flagged vessel sunk - Reuters",
     "summary": "Iran urges BRICS nations to condemn war, Indian-flagged vessel sunk  Reuters",
@@ -1112,29 +1256,6 @@
         "Decrease in investor confidence",
         "Weakening of BRICS nations' credibility",
         "Decrease in demand for exports"
-      ]
-    }
-  },
-  {
-    "id": "7941679",
-    "headline": "UK economy posts strong Q1, but Iran war casts shadow over outlook - Reuters",
-    "summary": "UK economy posts strong Q1, but Iran war casts shadow over outlook  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQU1OcnQtbGt0TzBpSlMtMXlsdFMxdTdmWmtpNm1LYXI2R1BDMktPZ19ZblFrOGkyeTlJdzdTSnQ5WWIyYm1TcGZHZElSOTFuX3JCTXBhRThKTGZqSmlnaDNKZlZxSmJJMUI5blAxT0xsWjlLRWtiQUotYnV5djdyUjRiY2ZNbUVZc2VVSVlQZ3Y2dw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778738760,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778756767,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The UK economy reported a strong first quarter, driven by a rebound in manufacturing and construction. However, the ongoing tensions between the US and Iran have cast a shadow over the outlook, raising concerns about global trade and economic stability. The UK's economic growth is heavily reliant on international trade, and a prolonged conflict could lead to a decline in exports and a slowdown in economic activity. The UK government's response to the crisis will be crucial in mitigating the impact on the economy.",
-      "impact": "The strong Q1 GDP growth may lead to a short-term boost in investor sentiment and a potential increase in stock prices. However, the uncertainty surrounding the Iran conflict could lead to a medium-term decline in investor confidence, resulting in a decrease in stock prices. The impact on the UK economy will depend on the duration and severity of the conflict, as well as the UK government's response to the crisis.",
-      "risks": [
-        "Global trade slowdown risk",
-        "Export decline risk",
-        "Economic instability risk"
       ]
     }
   },
@@ -1188,7 +1309,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1778738040,
+    "publishedAt": 1778738070,
     "analysis": {
       "version": 2,
       "generatedAt": 1778796943,
@@ -1197,6 +1318,29 @@
       "summary": "India has requested an extension of the US waiver allowing it to import Russian oil, citing the ongoing Iran-US conflict. The waiver is set to expire on May 2, and the US has not yet confirmed whether it will be extended. The move is a response to the increasing global oil prices due to the conflict. The US has imposed sanctions on Iran, leading to a decrease in oil exports, which has put upward pressure on oil prices. India relies heavily on oil imports and is seeking to maintain a stable energy supply.",
       "impact": "The potential extension of the waiver could provide relief to Indian refiners, such as Reliance Industries and Hindustan Petroleum, which have invested heavily in Russian oil imports. This could lead to a short-term boost in their earnings, as they would be able to continue importing Russian oil at a discounted price. However, the medium-term impact is uncertain, as the waiver extension may not address the underlying issue of high oil prices. The ongoing conflict in the Middle East and the US's stance on Iran's oil exports will continue to influence oil prices, affecting the profitability of Indian refiners.",
       "risks": []
+    }
+  },
+  {
+    "id": "7941900",
+    "headline": "Iran hold World Cup departure rally despite continuing concerns - Reuters",
+    "summary": "Iran hold World Cup departure rally despite continuing concerns  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb2VZYzRseU5HX0dHMlpYZDRaS0lvMndldWVlVkhLM0xYNThlenZBSTNxY0Nxam5nZER3YTg1OC14eUJOMDE4eE1UNUdOZEx6cGFfd1YzQTVidjVmQ2RrWksyX2VLbTN2QkpUeXZsYUp6U2ZBWnU2VGdBdzlLd0ZIWlJFd3hENm9wOHp1QkgwR0hqZkJGUFFHeE9hOHg2YVgwaEVSMU1mU19UZ1pJUlJ1Z2Nrdw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1778736000,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778802058,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Iran's national soccer team's World Cup departure rally has sparked a surge in national pride and unity, despite ongoing concerns about the country's economic and political situation. This event has brought the nation together, potentially improving morale and sentiment. The rally has been met with widespread celebrations and festivities, with many Iranians taking to the streets to show their support for the team. The team's performance has also been seen as a source of national pride, which could have a positive impact on the country's economy and tourism industry.",
+      "impact": "The rally and the subsequent boost in national pride and morale could have a positive impact on the country's tourism industry, potentially leading to an increase in tourism revenue. This could also have a positive impact on the country's economy, as a more optimistic and unified population may lead to increased consumer spending and investment. However, it is worth noting that the economic sanctions imposed on Iran are still in place, which could limit the potential benefits of the rally.",
+      "risks": [
+        "Economic sanctions risk",
+        "Potential decline in morale if the team's performance is not sustained",
+        "Uncertainty around the long-term impact on the economy and tourism industry"
+      ]
     }
   },
   {
@@ -1272,7 +1416,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1778722320,
+    "publishedAt": 1778722592,
     "analysis": {
       "version": 2,
       "generatedAt": 1778746778,
@@ -1307,29 +1451,6 @@
         "escalating tensions between the US and Iran",
         "uncertainty surrounding the outcome of the Trump-Xi meeting",
         "volatility in the gold market"
-      ]
-    }
-  },
-  {
-    "id": "7941468",
-    "headline": "Second Japan-linked oil tanker sails via Strait of Hormuz as PM asks Iran to help out - Reuters",
-    "summary": "Second Japan-linked oil tanker sails via Strait of Hormuz as PM asks Iran to help out  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbzdJNnFPZlhqSGtEWTl3NDhiRHFtV09WOUFBYXExMHlwS2Y4Q01xbnpPalFLNlBsbFRYQVE1eG5zNUExbV9NM0FoZUk1eElodEJlX0s1NHpNeFJ5ZW1zN1V2eFVXZWx4VElNbG4xaktZMHQwdE9SeDFHVnJQNkl5QTJ0MUU2N2Q3dklfMFZ6ZXNYenc0NE1vUjBFU194RDhJRUxOcU1vX3RjY0p5TjY0Sy1sQ0xCUXFOTEdB?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778720940,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778802150,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "Japanese Prime Minister Fumio Kishida has asked Iran to help ensure the safe passage of Japanese oil tankers through the Strait of Hormuz. This comes after a Japanese-flagged oil tanker was released by Iranian authorities after being detained for several months. The second Japan-linked oil tanker has now successfully sailed through the strait. The incident highlights the ongoing tensions between Japan and Iran, which have been strained due to various issues, including Iran's nuclear program and trade disputes. The news is a positive development for Japan's oil importers, as it reduces the risk of disruptions to their supply chains.",
-      "impact": "The news is likely to have a positive impact on Japanese energy stocks in the short term, as it reduces the risk of supply chain disruptions. However, the medium-term impact will depend on the developments in the Iran-Japan relations and the global oil market. The news may also boost the sentiment towards Japanese energy stocks, potentially leading to an increase in their prices.",
-      "risks": [
-        "escalation of tensions between Japan and Iran",
-        "global oil price volatility",
-        "continuing supply chain disruptions"
       ]
     }
   },
@@ -22546,144 +22667,6 @@
         "Increased competition from Amazon in the weight loss market",
         "Potential disruption to existing business models of companies like Hims & Hers Health, Viking Therapeutics, Amgen, and Septerna",
         "Regulatory risks associated with the sale of GLP-1 medications"
-      ]
-    }
-  },
-  {
-    "id": "7829550",
-    "headline": "Michael and Susan Dell to donate $750 million to UT Austin to fund new medical campus",
-    "summary": "The donation will create a new hospital at the school where Michael Dell was once a premed student.",
-    "url": "https://www.cnbc.com/2026/04/21/michael-susan-dell-ut-austin-donation-medical-campus.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108293389-1776451820489-CNBC_INVESTINAMERICA_AC_041526_0240.jpg?v=1776789590&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1776791701,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1776794298,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Michael and Susan Dell have pledged $750 million to the University of Texas at Austin to fund a new medical center and research campus, which will include a hospital and cancer center. This donation is part of the couple's total $1 billion commitment to the university, with the new medical center expected to open in 2030. The facility will utilize artificial intelligence and advanced computing to deliver more precise treatment for patients. This donation is seen as a significant investment in the Austin healthcare system, which is expected to attract more patients and medical professionals to the area.",
-      "impact": "The news is likely to have a positive impact on the local Austin economy and the healthcare industry as a whole. The new medical center and research campus are expected to create new job opportunities and stimulate economic growth in the area. In the short term, the news may boost sentiment and liquidity for healthcare-related stocks, potentially leading to a short-term price increase. However, the medium-term impact on the stock prices of companies like Dell Technologies, which is not directly related to the news, is uncertain and may be influenced by various factors, including the company's earnings outlook and valuation.",
-      "risks": [
-        "integration risk for the new medical center and research campus",
-        "regulatory approval risk for the use of AI and advanced computing in healthcare",
-        "uncertainty around the long-term financial sustainability of the medical center and research campus"
-      ]
-    }
-  },
-  {
-    "id": "7830640",
-    "headline": "France to offset Iran crisis cost with spending freeze - Reuters",
-    "summary": "France to offset Iran crisis cost with spending freeze  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRHV3aWEzMWRpTlFiN2lJdnZRYnEzZmpzZVhydUxjVnY2VXd4QXpDRVdtbXRlRWUwVEtxOGpxRjNrQUVyV3lweHlsa0RaVV96anJqNTF3X182TU55VjdqSHFQVTJNTnVsN1RVMXJiMldmUXBoYVVGam4tTTdybFpPZzhhT2t1cUxpSGJ1X3paMEl6MG91SHE2cHhBUTZPTUkzTEphRDBRZmstdDJzelBuSGNZSUpWN0pNUXdNN202ektjNEJpYVd4aTVxZGRYdw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1776790111,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1776813794,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "France is planning to offset the costs associated with the Iran crisis by implementing a spending freeze. This decision is likely a response to the economic strain caused by the crisis, which has led to increased tensions and potential trade disruptions. The spending freeze will likely have a broad impact across various sectors, including defense, energy, and infrastructure. The move aims to mitigate the financial burden on the French economy.",
-      "impact": "The spending freeze may have a neutral to slightly positive impact on the French economy in the short term, as it will help to reduce government expenditure and potentially alleviate some of the pressure caused by the Iran crisis. However, in the medium term, the freeze may lead to reduced government investment in key sectors, potentially hindering economic growth and impacting industries that rely on government funding. The impact on individual stocks will depend on the specific sectors and companies affected by the freeze. Investors should closely monitor the situation and adjust their portfolios accordingly.",
-      "risks": [
-        "Reduced government spending on key sectors",
-        "Potential impact on economic growth",
-        "Uncertainty around the duration and scope of the spending freeze"
-      ]
-    }
-  },
-  {
-    "id": "7829343",
-    "headline": "Here's what Cramer wants to see from Capital One when the bank reports tonight",
-    "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-    "url": "https://www.cnbc.com/2026/04/21/heres-what-cramer-wants-to-see-from-capital-one-when-the-bank-reports-tonight-.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108251054-1768220028983-gettyimages-2233929081-McGregor250908NYCbusinesses03.jpeg?v=1776785060&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1776789521,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1776790694,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Jim Cramer is cautious about Capital One's earnings report tonight, citing a disappointing quarter last time around and a recent stock price rally. He wants to see the company take a more aggressive stance on buying back stock and rationalize its acquisitions. CrowdStrike was upgraded to a buy-equivalent rating, but Cramer is optimistic about the company's prospects in a world with increasing AI-enabled cyberattacks. The market had a 'whacky day' with notable moves in various sectors, including banks, defense, semiconductors, and software.",
-      "impact": "Capital One's stock may be impacted if the company fails to meet expectations, particularly in terms of its stock buyback and acquisition rationalization. This could lead to a short-term sell-off. In the medium term, a disappointing report could also impact the company's valuation. CrowdStrike, on the other hand, may see its stock price increase if it continues to benefit from AI-driven cybersecurity demand.",
-      "risks": [
-        "disappointing earnings risk",
-        "valuation risk",
-        "macroeconomic risk (e.g. oil price volatility)"
-      ]
-    }
-  },
-  {
-    "id": "7828593",
-    "headline": "European shares dip as US-Iran tensions weigh on sentiment - Reuters",
-    "summary": "European shares dip as US-Iran tensions weigh on sentiment  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYXd1amFxM2xnNUJBWHFaY1RnU2dGTzdtXzhnUEJRX2NHNFdvck1uX2Fnczl5RDB3WUF3OHVvZ3dnaGYyZVI0aEhXNFliWF9fQkI5dWxKall1Zk9KTDFNanpNNlcwOWVnSU5QX2thNUJWYXZreVJ0SXBXb25GQjRUTGl3djV3b3FzRlFIcDR4V2FCcUxzbWw3ZDBMSF9qckJSV2w3VVBNZVFYUUJDbDY5NnZzMjZlalJmd0E?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1776789331,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1776781540,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "European shares are subdued due to uncertainty surrounding the US-Iran talks. The talks are a key event that could have significant implications for the global economy and markets. The European stock market is closely watching the developments, as any escalation or resolution could impact trade and economic activity. The US-Iran tensions have been a major concern for investors, and the outcome of the talks will likely influence market sentiment and investor confidence. The European market is also cautious due to the ongoing Brexit uncertainty.",
-      "impact": "The potential outcome of the US-Iran talks could have a significant impact on the European market, particularly on companies with exposure to the energy and commodities sectors. A resolution could lead to increased investor confidence and a boost in economic activity, potentially benefiting companies with exposure to these sectors. Conversely, an escalation could lead to increased volatility and a decline in investor sentiment, potentially negatively impacting the stocks of companies with exposure to these sectors. In the short term, the uncertainty surrounding the talks may lead to increased market volatility and a cautious approach from investors.",
-      "risks": [
-        "Escalation of US-Iran tensions",
-        "Increased market volatility",
-        "Impact on energy and commodities sectors"
-      ]
-    }
-  },
-  {
-    "id": "7829244",
-    "headline": "Shipping traffic through Hormuz still largely halted - Reuters",
-    "summary": "Shipping traffic through Hormuz still largely halted  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZzZPbmN2TWVqS0lQRk1XX3E5eS1ac0tvclduZHk5MEZYVnVWX0tQXzJ5V1hqYTh0cXEzZnpvMEhJbGNEZFJsWWRaZlI2NXVJOHFWc05RTVM5WnJicTRjSzhsODVNejdOODctbFRheHJHNnhPUmVTX1lwZ3UwLXQ3QTNBNmhTdXQ2TWRiUDQyQ284ZFlOVElqdUt5cy1YNkk3X2dKZXFab1U1QQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1776784857,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1776790741,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Shipping traffic through the Strait of Hormuz remains largely halted due to ongoing tensions in the region. This disruption has significant implications for oil and gas producers, as the Strait is a critical chokepoint for global oil exports. The Hormuz crisis has been ongoing for several weeks, with multiple incidents of ship seizures and attacks reported. The situation is expected to continue affecting global oil markets, with prices potentially rising as a result. The lack of clear resolution to the crisis is exacerbating concerns about supply chain disruptions and the potential for further escalation.",
-      "impact": "The ongoing disruption to shipping traffic through Hormuz is likely to have a negative impact on oil and gas producers, particularly those with significant exposure to the region. In the short-term, this could lead to increased costs and reduced profitability for these companies. In the medium-term, the crisis could lead to a re-evaluation of supply chain strategies and potentially increased investment in alternative routes. The impact on oil prices could also lead to a re-rating of oil-related stocks, with potential downward pressure on valuations.",
-      "risks": [
-        "Supply chain disruption risk",
-        "Escalation risk",
-        "Oil price volatility risk"
-      ]
-    }
-  },
-  {
-    "id": "7829135",
-    "headline": "Halliburton flags higher costs from Iran war as first-quarter profit tops estimates - Reuters",
-    "summary": "Halliburton flags higher costs from Iran war as first-quarter profit tops estimates  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWFViUjRTanpVMWIwcGI2WDMzZU1OTkZ6SWtTSGg3VHd0aGp4ZW92MEpmRF9BRF9Id3JYUERyMGZkWVZMdFM4QzdnaTBNTGtQQnlJUFA1alF4QnVEYWs2ME5JLTY2YUFYWUF2Zjk5Vll0ZS1IdVROVGRyRzdjNHVZdndjMDhVQkkteUlCWmhvQVJ5aXM1SDQyV1o3c1FLQQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1776784454,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1776790789,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "Halliburton, a leading oilfield services provider, reported a higher-than-expected profit in the first quarter, but warned of increased costs due to the ongoing conflict in Iran. The company cited higher operating expenses and a stronger US dollar as contributing factors to the increased costs. Halliburton's revenue rose 8% year-over-year, driven by higher demand for its services. The company's profit beat analyst estimates, but the increased costs may impact its future profitability. The Iran conflict has been a major concern for oil companies, as it has led to supply chain disruptions and increased costs.",
-      "impact": "The news is likely to have a negative impact on Halliburton's stock in the short term, as investors may be concerned about the increased costs and potential future profitability. The medium-term impact will depend on how the Iran conflict evolves and how Halliburton manages to mitigate the costs. The company's earnings outlook may be revised downward, which could lead to a decline in its stock price. Additionally, the increased costs may lead to a revaluation of the company's stock, as investors reassess its profitability and growth prospects.",
-      "risks": [
-        "Increased costs risk",
-        "Earnings outlook revision risk",
-        "Valuation risk"
       ]
     }
   }
