@@ -7,7 +7,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1778920888
+    "publishedAt": 1778920888,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778928560,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "US President Trump stated that Chinese President Xi Jinping agrees that Iran must open the Strait of Hormuz, a crucial waterway for global oil trade. This development comes as a response to the recent escalation of tensions in the region. The news suggests that China and the US are working together to de-escalate the situation, which could lead to a decrease in oil prices. This, in turn, could positively impact the earnings outlook for oil-related companies, such as those in the refining and transportation sectors.",
+      "impact": "The news could lead to a short-term increase in the stock prices of oil-related companies, such as ExxonMobil (XOM) and Chevron (CVX), as a decrease in oil prices would boost their earnings prospects. In the medium term, a more stable Middle East could also positively impact the sentiment of investors, leading to a increase in liquidity and a re-rating of these companies' valuations.",
+      "risks": [
+        "geopolitical instability risk",
+        "oil price volatility risk",
+        "macroeconomic downturn risk"
+      ]
+    }
   },
   {
     "id": "7951432",
@@ -40,7 +53,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1778912511,
+    "publishedAt": 1778907780,
     "analysis": {
       "version": 2,
       "generatedAt": 1778916865,
@@ -144,6 +157,29 @@
         "Renewed conflict risk",
         "Investor sentiment risk",
         "Macroeconomic instability risk"
+      ]
+    }
+  },
+  {
+    "id": "7946214",
+    "headline": "Trump says he is losing patience with Iran, did not ask China for favors - Reuters",
+    "summary": "Trump says he is losing patience with Iran, did not ask China for favors  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeFFlcklCYWQwZUZGc2xjSF9QWjJvMU1PWFVtakpUVDljdTFCMzJqN2lULXMycUVxS2V2Q0I4X3h3ZndCczNqZ2JKTEFwdW1tTlBMMGlJRWRiT05jT3otM1BtT3F6YmxNQ1hEM1hjVnZPTEdXX1JlWk9lWWJLd3BvQlozTDFDQnQtbFU5ZUZzakE4Q0RPTHA5QWVmbXluVkFSRVQtZjlmdkRNUHVhR29v?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1778874038,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778843214,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "US President Trump announced that he and Chinese President Xi Jinping agree that Iran cannot have nuclear weapons. This statement is a significant development in the ongoing Iran-US-China diplomatic efforts. The agreement is likely a result of the recent US-China trade deal and the ongoing efforts to reduce tensions in the Middle East. This news has positive implications for global security and stability, which could have a positive impact on the global economy and related industries.",
+      "impact": "The news is likely to have a positive impact on defense and aerospace stocks, particularly those involved in the production of non-nuclear military equipment and technology. Companies such as Lockheed Martin (LMT) and Boeing (BA) may see an increase in demand for their products due to the increased focus on non-nuclear defense systems. Additionally, the news may also have a positive impact on oil prices, which could benefit energy companies such as ExxonMobil (XOM) and Chevron (CVX).",
+      "risks": [
+        "geopolitical risk",
+        "economic sanctions risk",
+        "supply chain disruption risk"
       ]
     }
   },
@@ -692,29 +728,6 @@
     }
   },
   {
-    "id": "7946214",
-    "headline": "Trump says he is losing patience with Iran, did not ask China for favors - Reuters",
-    "summary": "Trump says he is losing patience with Iran, did not ask China for favors  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeFFlcklCYWQwZUZGc2xjSF9QWjJvMU1PWFVtakpUVDljdTFCMzJqN2lULXMycUVxS2V2Q0I4X3h3ZndCczNqZ2JKTEFwdW1tTlBMMGlJRWRiT05jT3otM1BtT3F6YmxNQ1hEM1hjVnZPTEdXX1JlWk9lWWJLd3BvQlozTDFDQnQtbFU5ZUZzakE4Q0RPTHA5QWVmbXluVkFSRVQtZjlmdkRNUHVhR29v?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778825880,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778843214,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "US President Trump announced that he and Chinese President Xi Jinping agree that Iran cannot have nuclear weapons. This statement is a significant development in the ongoing Iran-US-China diplomatic efforts. The agreement is likely a result of the recent US-China trade deal and the ongoing efforts to reduce tensions in the Middle East. This news has positive implications for global security and stability, which could have a positive impact on the global economy and related industries.",
-      "impact": "The news is likely to have a positive impact on defense and aerospace stocks, particularly those involved in the production of non-nuclear military equipment and technology. Companies such as Lockheed Martin (LMT) and Boeing (BA) may see an increase in demand for their products due to the increased focus on non-nuclear defense systems. Additionally, the news may also have a positive impact on oil prices, which could benefit energy companies such as ExxonMobil (XOM) and Chevron (CVX).",
-      "risks": [
-        "geopolitical risk",
-        "economic sanctions risk",
-        "supply chain disruption risk"
-      ]
-    }
-  },
-  {
     "id": "7944333",
     "headline": "Airlines cancel flights in response to Middle East conflict - Reuters",
     "summary": "Airlines cancel flights in response to Middle East conflict  Reuters",
@@ -826,6 +839,29 @@
         "Trade war risk",
         "Economic slowdown risk",
         "Investor sentiment risk"
+      ]
+    }
+  },
+  {
+    "id": "7951534",
+    "headline": "Trump sows uncertainty over Taiwan arms sale following summit - Reuters",
+    "summary": "Trump sows uncertainty over Taiwan arms sale following summit  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUW16MF9QaHRkV1pZcGxhbUp2a0cxV1AzS0pJQkNHQlV3WlFFaDVsdEQxUjBSSHZfaHVDNTZKbjJ0aFFvalRidGRQS2R6NVZBS1l5TFZKZDdHQzEzWHNCeEVpdlVtbVcyWEY1N1RPRUhQQXhYWTFXTDdqdGpWOWh3SmZCU3MtbDNQRWRtSzc5emtNZEdDWVJ2Zzc4SjJGWjJfeXlF?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1778809560,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778928606,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "US President Trump has created uncertainty over the potential sale of arms to Taiwan following a summit, citing concerns about the implications of such a deal on US-China relations. The news has sparked concerns about the future of US-Taiwan relations and the potential for increased tensions between the US and China. This development may have implications for companies involved in the defense industry, particularly those with significant exposure to the US government's defense budget. The uncertainty surrounding the arms sale may also impact the earnings outlook for these companies in the short term.",
+      "impact": "The potential impact on the defense industry is likely to be negative in the short term, with companies such as Lockheed Martin and Boeing potentially seeing a decrease in orders and revenue. The uncertainty surrounding the arms sale may also lead to a decrease in investor sentiment, potentially affecting stock prices in the near term. However, in the medium term, a potential sale of arms to Taiwan could lead to increased defense spending and a boost to the earnings of defense contractors.",
+      "risks": [
+        "regulatory approval risk",
+        "geopolitical risk",
+        "macroeconomic risk"
       ]
     }
   },
@@ -1508,6 +1544,29 @@
     }
   },
   {
+    "id": "7941144",
+    "headline": "Gold edges down as oil, dollar rise as markets await signals from Trump-Xi meeting - Reuters",
+    "summary": "Gold edges down as oil, dollar rise as markets await signals from Trump-Xi meeting  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcUl2UmU0WTRldHg1dEV4NnEtRmxXRlhKN1ctUXpWWFVlZno4bmJaR3dXWVl6NXJBX1E0d2F1b0hPMlhQOEtWRmUtU2NiV2hSaEJTZzdtTmtpc24xUVpWZFYwb3JMQmZTNUdJLWhtSkJjak90QWd1b3ZCM0xzZkpRYVZNd25xNm52SEVVYUV3eFJySTBGT2I0Rg?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1778766343,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778746826,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "Gold prices remain steady as the world focuses on the meeting between US President Donald Trump and Chinese President Xi Jinping, as well as the escalating tensions between the US and Iran. The meeting between Trump and Xi is seen as a crucial factor in determining the fate of the US-China trade deal, which has been a major driver of gold prices. The tensions between the US and Iran have also contributed to the steady gold prices, as investors seek safe-haven assets. The uncertainty surrounding the outcome of these events has led to a cautious approach by investors, with gold prices remaining steady.",
+      "impact": "The steady gold prices may have a positive impact on gold mining companies such as Newmont Goldcorp (NEM) and Barrick Gold (GOLD), as investors seek safe-haven assets. However, the impact may be short-term, as the outcome of the Trump-Xi meeting and the US-Iran tensions is uncertain and may lead to volatility in the gold market. The steady gold prices may also have a negative impact on companies with high debt levels, as the value of their gold reserves may not increase in line with the steady prices.",
+      "risks": [
+        "escalating tensions between the US and Iran",
+        "uncertainty surrounding the outcome of the Trump-Xi meeting",
+        "volatility in the gold market"
+      ]
+    }
+  },
+  {
     "id": "7942802",
     "headline": "65% of workers have avoided using AI for moral, environmental, privacy or other reasons: CNBC survey",
     "summary": "Workers and students in the U.S. say they're skeptical of AI due to moral, privacy or accuracy concerns, the CNBC and SurveyMonkey Quarterly AI and Jobs Survey finds.",
@@ -1877,29 +1936,6 @@
     }
   },
   {
-    "id": "7941248",
-    "headline": "Stressed crude oil market looks to Xi-Trump summit for Iran help - Reuters",
-    "summary": "Stressed crude oil market looks to Xi-Trump summit for Iran help  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNb3hmRVBZX1pVY09UblFUVEZoTE05eVBmWkpkMGhvSlVIZldtM093X0R4X21OQmx3UU05Zmg0enFKaGZKV2RqLUl4TEx2NjFZWGc2WXY0V1ZxbEpZeUtzeWtJa3hDWFZUVkpuamR3NXMzN0xyOElJbHRvWnl4Zl9sY3lPc1NyTjJJM190TVVqVDdzUHVMTHc2ODVCLWlHcjB6S2V2dGI2VFBBR091aDFlbzNJNzQxRFBwUmJQUi1GZzd6ZkJD?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778754248,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778746733,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "A stressed crude oil market is looking to the upcoming summit between Chinese President Xi Jinping and US President Donald Trump for potential relief on the Iran situation. The current tensions between the US and Iran have led to a surge in oil prices, causing concern among consumers and producers. The summit is seen as a possible opportunity for the two leaders to discuss a potential deal that could ease the tensions and stabilize oil prices. The current situation is a result of the US's decision to withdraw from the Iran nuclear deal and re-impose sanctions on the country, which has led to a significant increase in oil prices.",
-      "impact": "The potential outcome of the summit could have a significant impact on the oil market, with a potential deal leading to a decrease in oil prices and a subsequent increase in demand for oil-related stocks. This could be a positive catalyst for companies such as ExxonMobil and Chevron, which are major players in the oil industry. However, a failure to reach an agreement could lead to continued volatility in the oil market, potentially negatively impacting these stocks in the short term.",
-      "risks": [
-        "Failure to reach a deal at the summit",
-        "Continued tensions between the US and Iran",
-        "Volatility in the oil market"
-      ]
-    }
-  },
-  {
     "id": "7942002",
     "headline": "White House scrambles for gas-price relief as Iran war drags on - Reuters",
     "summary": "White House scrambles for gas-price relief as Iran war drags on  Reuters",
@@ -1907,7 +1943,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1778753040,
+    "publishedAt": 1778753098,
     "analysis": {
       "version": 2,
       "generatedAt": 1778756675,
@@ -2141,25 +2177,48 @@
     }
   },
   {
-    "id": "7941144",
-    "headline": "Gold edges down as oil, dollar rise as markets await signals from Trump-Xi meeting - Reuters",
-    "summary": "Gold edges down as oil, dollar rise as markets await signals from Trump-Xi meeting  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcUl2UmU0WTRldHg1dEV4NnEtRmxXRlhKN1ctUXpWWFVlZno4bmJaR3dXWVl6NXJBX1E0d2F1b0hPMlhQOEtWRmUtU2NiV2hSaEJTZzdtTmtpc24xUVpWZFYwb3JMQmZTNUdJLWhtSkJjak90QWd1b3ZCM0xzZkpRYVZNd25xNm52SEVVYUV3eFJySTBGT2I0Rg?oc=5",
+    "id": "7941248",
+    "headline": "Stressed crude oil market looks to Xi-Trump summit for Iran help - Reuters",
+    "summary": "Stressed crude oil market looks to Xi-Trump summit for Iran help  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNb3hmRVBZX1pVY09UblFUVEZoTE05eVBmWkpkMGhvSlVIZldtM093X0R4X21OQmx3UU05Zmg0enFKaGZKV2RqLUl4TEx2NjFZWGc2WXY0V1ZxbEpZeUtzeWtJa3hDWFZUVkpuamR3NXMzN0xyOElJbHRvWnl4Zl9sY3lPc1NyTjJJM190TVVqVDdzUHVMTHc2ODVCLWlHcjB6S2V2dGI2VFBBR091aDFlbzNJNzQxRFBwUmJQUi1GZzd6ZkJD?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1778721000,
+    "publishedAt": 1778720280,
     "analysis": {
       "version": 2,
-      "generatedAt": 1778746826,
+      "generatedAt": 1778746733,
       "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "Gold prices remain steady as the world focuses on the meeting between US President Donald Trump and Chinese President Xi Jinping, as well as the escalating tensions between the US and Iran. The meeting between Trump and Xi is seen as a crucial factor in determining the fate of the US-China trade deal, which has been a major driver of gold prices. The tensions between the US and Iran have also contributed to the steady gold prices, as investors seek safe-haven assets. The uncertainty surrounding the outcome of these events has led to a cautious approach by investors, with gold prices remaining steady.",
-      "impact": "The steady gold prices may have a positive impact on gold mining companies such as Newmont Goldcorp (NEM) and Barrick Gold (GOLD), as investors seek safe-haven assets. However, the impact may be short-term, as the outcome of the Trump-Xi meeting and the US-Iran tensions is uncertain and may lead to volatility in the gold market. The steady gold prices may also have a negative impact on companies with high debt levels, as the value of their gold reserves may not increase in line with the steady prices.",
+      "confidence": 0.6,
+      "summary": "A stressed crude oil market is looking to the upcoming summit between Chinese President Xi Jinping and US President Donald Trump for potential relief on the Iran situation. The current tensions between the US and Iran have led to a surge in oil prices, causing concern among consumers and producers. The summit is seen as a possible opportunity for the two leaders to discuss a potential deal that could ease the tensions and stabilize oil prices. The current situation is a result of the US's decision to withdraw from the Iran nuclear deal and re-impose sanctions on the country, which has led to a significant increase in oil prices.",
+      "impact": "The potential outcome of the summit could have a significant impact on the oil market, with a potential deal leading to a decrease in oil prices and a subsequent increase in demand for oil-related stocks. This could be a positive catalyst for companies such as ExxonMobil and Chevron, which are major players in the oil industry. However, a failure to reach an agreement could lead to continued volatility in the oil market, potentially negatively impacting these stocks in the short term.",
       "risks": [
-        "escalating tensions between the US and Iran",
-        "uncertainty surrounding the outcome of the Trump-Xi meeting",
-        "volatility in the gold market"
+        "Failure to reach a deal at the summit",
+        "Continued tensions between the US and Iran",
+        "Volatility in the oil market"
+      ]
+    }
+  },
+  {
+    "id": "7939071",
+    "headline": "Trump wants China's help on Iran. Beijing may have other ideas - Reuters",
+    "summary": "Trump wants China's help on Iran. Beijing may have other ideas  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb2RnNjN4ck5KRVNBV1FNQUVJUTB0M2lIT0VkdUNWU0MtOWVQbFBHT190eUxqTTdtUVdzcnZQV0xNX2g4MmM5VUxqU25UemxVOHpMdEpQVTBCbURGVnJxRm94cS1vX2dzb2xfSzNJM0pRQ09hRnlkMGdvWWtkal8xYkxMNW55NmZmY2FaNHQta2lWRWdpYUkyaFQtbW0zMDgyQkZ6NjA5N2Q?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1778718183,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1778709731,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "US President Trump has reached out to China for help in dealing with Iran, but Beijing may have its own agenda. The news comes as tensions between the US and Iran remain high. The US-China relationship is complex and has been strained in recent times. China's stance on Iran could have implications for the global oil market and the Middle East. Trump's request may be met with caution from China, which has its own interests in the region.",
+      "impact": "The news may have a neutral impact on oil-related stocks in the short term, as the situation in the Middle East remains uncertain. However, if China does decide to help the US, it could lead to a decrease in tensions and a potential increase in oil prices, benefiting oil producers such as ExxonMobil (XOM) and Chevron (CVX). Conversely, if China chooses not to help, it could lead to increased tensions and a decrease in oil prices, benefiting oil consumers such as airlines and trucking companies.",
+      "risks": [
+        "Escalation of tensions in the Middle East",
+        "China's true intentions and motivations",
+        "Impact on global oil prices"
       ]
     }
   },
@@ -2336,29 +2395,6 @@
         "Escalation of the Iran-US conflict leading to a surge in oil prices",
         "Reduced demand for oil due to higher prices",
         "Prolonged conflict leading to a re-evaluation of the global energy landscape"
-      ]
-    }
-  },
-  {
-    "id": "7939071",
-    "headline": "Trump wants China's help on Iran. Beijing may have other ideas - Reuters",
-    "summary": "Trump wants China's help on Iran. Beijing may have other ideas  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb2RnNjN4ck5KRVNBV1FNQUVJUTB0M2lIT0VkdUNWU0MtOWVQbFBHT190eUxqTTdtUVdzcnZQV0xNX2g4MmM5VUxqU25UemxVOHpMdEpQVTBCbURGVnJxRm94cS1vX2dzb2xfSzNJM0pRQ09hRnlkMGdvWWtkal8xYkxMNW55NmZmY2FaNHQta2lWRWdpYUkyaFQtbW0zMDgyQkZ6NjA5N2Q?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778699400,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778709731,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "US President Trump has reached out to China for help in dealing with Iran, but Beijing may have its own agenda. The news comes as tensions between the US and Iran remain high. The US-China relationship is complex and has been strained in recent times. China's stance on Iran could have implications for the global oil market and the Middle East. Trump's request may be met with caution from China, which has its own interests in the region.",
-      "impact": "The news may have a neutral impact on oil-related stocks in the short term, as the situation in the Middle East remains uncertain. However, if China does decide to help the US, it could lead to a decrease in tensions and a potential increase in oil prices, benefiting oil producers such as ExxonMobil (XOM) and Chevron (CVX). Conversely, if China chooses not to help, it could lead to increased tensions and a decrease in oil prices, benefiting oil consumers such as airlines and trucking companies.",
-      "risks": [
-        "Escalation of tensions in the Middle East",
-        "China's true intentions and motivations",
-        "Impact on global oil prices"
       ]
     }
   },
@@ -22674,25 +22710,6 @@
         "Global economic slowdown risk",
         "Supply chain disruption risk"
       ]
-    }
-  },
-  {
-    "id": "7832603",
-    "headline": "Iran dissidents bemoan European silence after latest execution - Reuters",
-    "summary": "Iran dissidents bemoan European silence after latest execution  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSzNXVTNxR21IaDVMM3BmNlAxaVJIMF9sS1d5dlA3LThjSnp0Z1dxTXBoeGNpZmtsUlVoR0NYSDVTZlJSeHFjcHNYSzhGc05TZ2REcFIxU2M5N3NDWHU2amJYZ0xPV2hGLWo2ZWVNbGZnZXliN2VMLVJhMmlhbUo5b2d1ckVLbE95dEgxT2xGMTlIY3B3YUh2ZXFOUVVCNm90T282QjR0RjNLalE?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1776833640,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1776852466,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Iran executed a man accused of spying for Israel, according to Mizan, a news agency affiliated with the Iranian judiciary. This event is a domestic issue in Iran and does not have a direct connection to the business fundamentals of any specific company or industry. However, it may have a broader impact on regional tensions and global geopolitics. The incident highlights the ongoing tensions between Iran and Israel, which could potentially affect the global energy market, particularly oil prices. The news may also influence the sentiment towards companies with exposure to Middle Eastern markets or those with operations in the region.",
-      "impact": "The execution of the man accused of spying may lead to increased tensions between Iran and Israel, potentially affecting oil prices in the short term. This could be negative for oil producers, such as ExxonMobil (XOM) and Chevron (CVX), as higher oil prices may reduce demand and negatively impact earnings. In the medium term, the increased tensions may lead to a decrease in investment in the region, affecting companies with operations in the Middle East, such as Schlumberger (SLB) and Halliburton (HAL).",
-      "risks": []
     }
   }
 ]
