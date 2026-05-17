@@ -7,7 +7,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1779024647,
+    "publishedAt": 1779029543,
     "analysis": {
       "version": 2,
       "generatedAt": 1779021649,
@@ -19,6 +19,29 @@
         "Regulatory scrutiny risk",
         "Operational risk",
         "Reputation risk"
+      ]
+    }
+  },
+  {
+    "id": "7957291",
+    "headline": "Here are the 3 big things we're watching in the stock market for the week ahead",
+    "summary": "Nvidia's earnings report and Google's developer conference will keep the AI boom front and center.",
+    "url": "https://www.cnbc.com/2026/05/17/3-big-things-were-watching-in-the-stock-market-for-the-week-ahead.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108278593-1773692568318-gettyimages-2266459305-AFP_A3JC2QD.jpeg?v=1773692624&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1779026791,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1779032706,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "This week, key events include Nvidia's earnings report, Home Depot's and TJX Companies' earnings reports, and Google's developer conference. Nvidia's earnings will likely drive market action, while Home Depot's results are expected to be low due to the US housing market's slow recovery. TJX Companies, however, is expected to perform well due to its focus on offering quality merchandise at great prices, which is beneficial in a high-inflation environment. The housing market's eventual recovery is expected to positively impact Home Depot's stock, and the company's SRS Distribution subsidiary may benefit from storm-related repair activity.",
+      "impact": "Nvidia's earnings report may drive market volatility, and its stock is expected to be closely watched. Home Depot's low expectations may result in a positive surprise if the company beats estimates, potentially leading to a short-term stock price increase. TJX Companies' focus on offering quality merchandise at great prices may help it maintain its market share and drive sales growth, potentially leading to a medium-term stock price increase. The eventual recovery of the US housing market is expected to positively impact Home Depot's stock, but this may take time.",
+      "risks": [
+        "Nvidia's earnings report may disappoint, leading to a decline in its stock price",
+        "Home Depot's results may not meet expectations, potentially leading to a decline in its stock price",
+        "TJX Companies' sales growth may slow if consumers become more price-sensitive in a high-inflation environment"
       ]
     }
   },
@@ -22685,29 +22708,6 @@
         "Decrease in oil prices could lead to a decrease in revenue and profitability for oil-producing companies",
         "Reduced exploration and production spending could have a negative impact on the industry",
         "Increased demand for oil could lead to a rebound in oil prices"
-      ]
-    }
-  },
-  {
-    "id": "7833698",
-    "headline": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
-    "summary": "Stocks are headed for a higher open following back-to-back losses for the S&P 500 and the Nasdaq.",
-    "url": "https://www.cnbc.com/2026/04/22/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108291906-1776272208593-gettyimages-2267606601-US_STOCKS.jpeg?v=1776272295&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1776863095,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1776867746,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The stock market is expected to open higher after a two-day decline. Boeing's Q1 earnings beat expectations, with a record backlog across its commercial, defense, and services segments. GE Vernova also reported a strong Q1, with its natural gas turbines and electrical grid equipment segments booming due to the AI infrastructure buildout. Alphabet's Google announced chips for AI training and inference, which could be a threat to Nvidia. SpaceX acquired the rights to buy AI coding assistant Cursor, which could be a positive for Nvidia. Apple's Q2 earnings estimates are above consensus, with investors focusing on the company's memory shortage and CEO transition.",
-      "impact": "Boeing and GE Vernova are expected to see a short-term boost in their stock prices due to their strong earnings reports. Alphabet's announcement could be a positive for Nvidia in the long term, despite the potential threat from Google's new chips. Apple's Q2 earnings could lead to a short-term increase in its stock price, driven by investors' optimism about the company's ability to navigate the memory shortage. The overall market sentiment is expected to be positive, with investors turning to solid earnings reports and positive news from major companies.",
-      "risks": [
-        "Regulatory approval risk for Boeing's 737 Max 7 and Max 10 certifications",
-        "Competition risk in the cybersecurity sector, particularly for Zscaler",
-        "Valuation risk for Alphabet and Nvidia, as investors reassess their positions in the AI and chip sectors"
       ]
     }
   }
