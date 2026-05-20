@@ -1,5 +1,28 @@
 [
   {
+    "id": "7973586",
+    "headline": "Jim Cramer says the world of tech investing has changed and it's not going back",
+    "summary": "CNBC's Jim Cramer said semiconductor and AI infrastructure stocks have replaced software as the market's technology leaders.",
+    "url": "https://www.cnbc.com/2026/05/20/jim-cramer-says-the-world-of-tech-investing-has-changed-and-its-not-going-back.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/107109967-1661524568032-NUP_198430_00186r.jpg?v=1690933351&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1779316867,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1779318063,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "CNBC's Jim Cramer stated that the world of tech investing has shifted, with semiconductor stocks now leading the market due to their role in driving the artificial intelligence boom. This shift is attributed to the rise of AI, which has made software less relevant as businesses can now develop cheaper and more efficient solutions using AI models and semiconductor chips. Companies like Nvidia, AMD, Arm, Intel, and Broadcom are benefiting from this trend, while legacy software vendors like Salesforce and Adobe are facing weakening pricing power. Cramer urges investors to adapt to this new landscape and stop thinking of tech investing through the old software-first lens.",
+      "impact": "The shift in focus from software to semiconductors and AI infrastructure is expected to have a positive impact on stocks like Nvidia, AMD, Arm, Intel, and Broadcom, which are driving the AI revolution. In the short-term, these stocks may see increased demand and higher earnings due to their critical role in the AI boom. In the medium-term, the valuation of these stocks may increase as investors recognize their growing importance in the tech industry. However, legacy software vendors like Salesforce and Adobe may face challenges in maintaining their pricing power and may see a decline in their stock prices.",
+      "risks": [
+        "valuation risk: stocks like Nvidia and AMD may be overvalued if the AI boom slows down",
+        "competition risk: new entrants may emerge to challenge the dominance of established players in the semiconductor and AI infrastructure space",
+        "regulatory risk: changes in government policies or regulations may impact the development and adoption of AI technology"
+      ]
+    }
+  },
+  {
     "id": "7973470",
     "headline": "Sinkhole shuts runway at LaGuardia Airport, delaying flights, Port Authority warns",
     "summary": "The Port Authority said travelers should expect delays and cancellations, with thunderstorms expected also expected to roll in Wednesday.",
@@ -482,8 +505,8 @@
   },
   {
     "id": "7969987",
-    "headline": "Trump says negotiations with Iran in final stages, warns of attacks if deal fails - Reuters",
-    "summary": "Trump says negotiations with Iran in final stages, warns of attacks if deal fails  Reuters",
+    "headline": "Trump says willing to wait for a few days to get 'right answer' on Iran peace deal - Reuters",
+    "summary": "Trump says willing to wait for a few days to get 'right answer' on Iran peace deal  Reuters",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbGtCOC1FeFNhRG9yNTFpSUMzVVFkN2JFRXJSWGhTLUZ4SE1ueklHTzB2cEdSWGZOTy0ycE9pQkFKNDl0SHY5Y1p0UHIxdGxqZG0wX3FjS1VZZFFmcnZzU18xczQ1eUk4VGJWelp1blVYNjJMOFd6elZ2NWMxQlNqMlo1SUV0TkF0RlhFeWpyWTU0czUwM2JLLW1pUDFfQTZWUnRRNmUta1p5ckhBb2hmM2RCcDg?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -741,7 +764,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1779238560
+    "publishedAt": 1779238560,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1779318110,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The recent news that tankers have exited the Strait of Hormuz with 6 million barrels of crude oil suggests a potential increase in oil supply. This development is likely a result of the easing of tensions in the region, which had previously led to concerns about disruptions to oil shipments. The Strait of Hormuz is a critical waterway for global oil trade, and any disruptions can have significant impacts on the global oil market. This news is a positive sign for oil producers and related industries, as it suggests that oil supply chains are returning to normal.",
+      "impact": "This news is likely to be positive for oil-related stocks in the short-term, as it suggests that oil supply disruptions are easing. This could lead to increased investor confidence and potentially higher stock prices for oil producers such as ExxonMobil (XOM) and Chevron (CVX). In the medium-term, this news could also support higher oil prices, which would benefit oil producers and related industries. However, the impact on oil prices and related stocks will depend on the overall global economic outlook and other market factors.",
+      "risks": [
+        "Global economic slowdown risk",
+        "Geopolitical tensions risk",
+        "Oil price volatility risk"
+      ]
+    }
   },
   {
     "id": "7970308",
@@ -774,7 +810,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1779233527
+    "publishedAt": 1779233527,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1779318159,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The article reports that the US stock market ended lower due to rising inflation worries, which led to an increase in yields. This development is a concern for investors as higher yields can make bonds more attractive, potentially drawing funds away from stocks. The news is a reflection of the current market sentiment, which is increasingly focused on the potential impact of inflation on the economy. The Federal Reserve's actions and statements on interest rates will be closely watched in the coming days as investors seek clarity on the central bank's stance on inflation.",
+      "impact": "The potential impact on stocks is bearish in the short term, as higher yields may lead to a decrease in demand for stocks and a subsequent decline in prices. This could be particularly challenging for growth stocks, which are often more sensitive to changes in interest rates. In the medium term, the impact will depend on the Federal Reserve's actions and the effectiveness of their policies in controlling inflation. If inflation continues to rise, it may lead to a prolonged period of higher yields and a decrease in stock prices.",
+      "risks": [
+        "Inflation risk",
+        "Interest rate risk",
+        "Market volatility risk"
+      ]
+    }
   },
   {
     "id": "7966346",
@@ -872,7 +921,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1779225486
+    "publishedAt": 1779225486,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1779318208,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The United Nations has reduced its global growth forecast to 2.5% due to the ongoing Middle East crisis. This decrease in growth prospects is attributed to the escalating tensions and conflict in the region. The Middle East is a significant oil-producing area, and the crisis has led to a rise in oil prices, which in turn will negatively impact global economic growth. The reduced growth forecast is expected to have far-reaching consequences for economies worldwide, particularly those heavily reliant on oil imports.",
+      "impact": "This news is likely to have a bearish impact on the energy sector, particularly oil majors such as ExxonMobil (XOM) and Chevron (CVX), as higher oil prices will reduce their profit margins. The reduced growth forecast may also lead to a decrease in demand for commodities, negatively impacting companies such as BHP Group (BHP) and Rio Tinto (RIO). In the short term, this news may lead to increased volatility in the stock market, potentially causing a sell-off in riskier assets. Medium-term, the reduced growth forecast may lead to a decrease in earnings outlook for companies with significant exposure to the energy sector.",
+      "risks": [
+        "Decreased earnings outlook for energy companies",
+        "Increased volatility in the stock market",
+        "Potential decrease in demand for commodities"
+      ]
+    }
   },
   {
     "id": "7969991",
@@ -882,7 +944,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1779225416
+    "publishedAt": 1779225416,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1779318261,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The US has signed a nuclear power pact with Saudi Arabia, but a letter from a bipartisan group of lawmakers expresses concerns that the agreement lacks strict guardrails. The letter, signed by 11 senators, argues that the deal may not prevent Saudi Arabia from developing nuclear weapons. The pact aims to promote peaceful nuclear energy cooperation between the two countries. The US has been pushing for Saudi Arabia to adhere to international standards for nuclear non-proliferation. The letter's concerns may lead to increased scrutiny of the deal and potential delays in its implementation.",
+      "impact": "The news may lead to a short-term sell-off in uranium stocks, such as those of Cameco (CCJ) and Uranium Energy Corp (UEC), as investors worry about the potential risks of nuclear proliferation. In the medium term, the deal's uncertainty may lead to increased volatility in the global nuclear energy market, affecting companies like Westinghouse Electric (W) and General Electric (GE). The deal's potential impact on the US-Saudi relationship may also have broader implications for the energy sector as a whole.",
+      "risks": [
+        "regulatory approval risk",
+        "nuclear proliferation risk",
+        "geopolitical tensions risk"
+      ]
+    }
   },
   {
     "id": "7967331",
@@ -22164,29 +22239,6 @@
         "Increased inflation risk",
         "Reduced economic growth risk",
         "Currency volatility risk"
-      ]
-    }
-  },
-  {
-    "id": "7858584",
-    "headline": "Iran suspends exports of steel slabs and sheets until end of May - Reuters",
-    "summary": "Iran suspends exports of steel slabs and sheets until end of May  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLUZlUnlVRjdncjJ1Wk1pOHl4alNxVkw5cUNIQmFBODFZVXRsM0tjeXNzblpiaUtBSDJSbkUwRGdaMTVVNERqR0tpN3BnbXRLcWtxd0U3YS1qbVRZc2pGTjlISWVuOHRrOERXX2xuM19sMS1WQ1JTbm01a0N2QkU2X0hDZ1FlRUlQd0Z2UEtEMUg0a1BsMFNZTmxDbUNJNWlpaVpBVnE2VGtJenVP?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1777283769,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1777316437,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Iran has suspended the export of steel slabs and sheets until the end of May. This move is likely a response to domestic demand outpacing supply, causing a shortage of steel products. The suspension affects the global steel market, particularly countries that rely on Iranian steel imports. The Iranian government's decision may lead to a shortage of steel products in the global market, impacting various industries that rely on these materials, such as construction and manufacturing.",
-      "impact": "The suspension of Iranian steel exports is likely to have a negative impact on steel producers globally, particularly those that rely on imported steel. In the short-term, steel prices may rise due to reduced supply, benefiting steel producers. However, in the medium-term, the shortage of steel products may lead to reduced production and earnings for companies that rely on these materials, potentially impacting their stock prices.",
-      "risks": [
-        "short-term supply chain disruption risk",
-        "medium-term earnings slowdown risk for companies reliant on steel imports",
-        "potential price volatility in the global steel market"
       ]
     }
   }
