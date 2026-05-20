@@ -1,5 +1,51 @@
 [
   {
+    "id": "7973470",
+    "headline": "Sinkhole shuts runway at LaGuardia Airport, delaying flights, Port Authority warns",
+    "summary": "The Port Authority said travelers should expect delays and cancellations, with thunderstorms expected also expected to roll in Wednesday.",
+    "url": "https://www.cnbc.com/2026/05/20/laguardia-airport-lga-flights.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108310138-1779309913430-gettyimages-2268244986-rm_lga_getty.jpeg?v=1779310024&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1779310237,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1779312611,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "A sinkhole at LaGuardia Airport has shut down a runway, causing flight delays and cancellations. The Port Authority is conducting repairs, but travelers should expect disruptions. Weather is also a factor, with thunderstorms expected to roll in. This comes ahead of the busy Memorial Day travel period, which is typically a peak time for air travel.",
+      "impact": "The news is likely to impact airlines operating at LaGuardia Airport, particularly Southwest Airlines, which has already announced 20 delayed flights. The disruptions may lead to a decline in airline stocks in the short term due to concerns about earnings outlook and passenger sentiment. The medium-term impact may be more significant if the runway closure persists, affecting air travel demand and airline revenue. The incident also highlights the importance of infrastructure maintenance and potential vulnerabilities in the US air travel system.",
+      "risks": [
+        "Disruption to air travel demand and revenue for airlines operating at LaGuardia Airport",
+        "Potential long-term impact on airline stocks due to concerns about infrastructure maintenance and air travel safety",
+        "Increased competition among airlines to recover from the disruptions and maintain market share"
+      ]
+    }
+  },
+  {
+    "id": "7971940",
+    "headline": "Iran is consolidating control of Hormuz with island checkpoints, diplomatic deals – and sometimes ‘fees’ - Reuters",
+    "summary": "Iran is consolidating control of Hormuz with island checkpoints, diplomatic deals – and sometimes ‘fees’  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMzNJZTNOVW9ScHNEZjlhenY5VFdwa3ZmVXhCVk9MYWgxY0hnRlVmVUFUNERHS0ZsVlBJZXNBSEw5c3BHYTJxUFA2cDdlZjBBMXRsTDFFN2dXMEJybG9ycU44d1c5WDdwZ09EdDNCWm5kRE8yTW04clJnY05URDdadVZzanZTSFA0bkxFVF90Ym10a1RUYUdmYWNmN2dlNXc1SGdOelpZLU1UQm9aV0RXZkJZeEdRamlmbEl4SlFveEs4RVA0LVlN?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1779306750,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1779286737,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Iran's consolidation of control over the Hormuz Strait through island checkpoints and diplomatic deals may indicate a shift in regional dynamics, potentially limiting the free flow of oil exports. This development could lead to increased tensions with global powers, particularly the US, which has historically maintained a significant presence in the region. The Hormuz Strait is a critical chokepoint for global oil trade, with over 20% of the world's oil passing through it. This situation may lead to increased geopolitical risks and potential disruptions to oil supply, impacting the global energy market and, by extension, the energy sector.",
+      "impact": "The potential disruption to oil supply from the Hormuz Strait could lead to a short-term increase in oil prices, benefiting oil producers such as Saudi Aramco (TADAWUL: 7010) and National Iranian Oil Company (NIOC). However, the increased geopolitical tensions may also lead to a medium-term decrease in investor sentiment towards the energy sector, potentially impacting the valuation of oil majors such as ExxonMobil (NYSE: XOM) and Royal Dutch Shell (LON: RDSB). The situation may also lead to increased costs and risks for oil traders and refiners, potentially impacting their profitability and liquidity.",
+      "risks": [
+        "geopolitical risk",
+        "oil supply disruption risk",
+        "increased costs and risks for oil traders and refiners"
+      ]
+    }
+  },
+  {
     "id": "7973032",
     "headline": "Stocks rally and oil falls. Plus, the implications of Samsung averting a strike",
     "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
@@ -7,7 +53,20 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/108274734-1772802714743-gettyimages-2264237870-cros-mobilewo260304_npecz.jpeg?v=1776225451&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1779300792
+    "publishedAt": 1779300792,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1779312657,
+      "sentiment": "bullish",
+      "confidence": 0.7,
+      "summary": "The market is rallying on Wednesday, with the AI trade reclaiming its leadership, driven by a decline in oil prices and interest rates after President Trump's comments on Iran. The S&P 500 has seen its first positive session since last Thursday. A labor strike at Samsung has been averted, which is positive news for the semiconductor ecosystem. Additionally, China has confirmed a deal to purchase 200 Boeing planes, although the order is smaller than expected.",
+      "impact": "The rally in the market and decline in oil prices are likely to have a positive impact on stocks such as Nvidia, which is scheduled to report earnings tonight. The averted strike at Samsung may also boost stocks in the semiconductor sector, including Qnity Electronics. The Boeing order, although smaller than expected, could have a positive impact on the company's stock in the medium term as it increases production and delivers more planes with zero setbacks in quality.",
+      "risks": [
+        "regulatory approval risk",
+        "integration risk",
+        "demand slowdown risk"
+      ]
+    }
   },
   {
     "id": "7972815",
@@ -33,6 +92,29 @@
     }
   },
   {
+    "id": "7973262",
+    "headline": "Iran seeking mechanism with Oman over Hormuz, foreign ministry spokesperson says - Reuters",
+    "summary": "Iran seeking mechanism with Oman over Hormuz, foreign ministry spokesperson says  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVWhtb2pob0F0bVI1Yk9yWFlRNnpWSFg2d0p5U1EyYlFnOXZneVNyWEh0MktpUU1udUVFajdMM214UG1LRnIwN1pvV2s5VzVaMkVpb2tNNmpHOEozYlNlaU9HbS1RQ2pUdjRjYmZYZHZ4S1lUQW80V2FaZ1hab0xKVXRzY3FsSkM0SWxuYmdQVl9ZYWppV0xuWDlPNmZfR210QWVPeVFza0IxcTM1Y0R2MUdmV1ZiVkFFTUpuVkFjRl9XbG9OWWppSHc1OGt5Zw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1779298303,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1779312706,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Iran is seeking a mechanism with Oman to ensure the safe passage of oil shipments through the Strait of Hormuz. The development comes after a recent incident involving a British oil tanker in the region. The Strait of Hormuz is a critical waterway for global oil trade, with Iran and Oman being key players in the region. The news is likely a diplomatic effort to ease tensions and prevent further escalation. The background is a complex mix of geopolitics, energy security, and trade dynamics.",
+      "impact": "The news is unlikely to have a significant impact on the oil and gas sector in the short term, as the situation is still fluid and diplomatic efforts are ongoing. However, if a mechanism is established, it could lead to increased stability in the region, potentially supporting oil prices and benefiting oil majors such as ExxonMobil (XOM) and Royal Dutch Shell (RDSB). In the medium term, a resolution could also lead to increased trade and economic cooperation between Iran and Oman, potentially benefiting companies with exposure to the region, such as DP World (DPOL) and Oman Airports Management (OAMC).",
+      "risks": [
+        "geopolitical tensions",
+        "diplomatic failure risk",
+        "economic sanctions risk"
+      ]
+    }
+  },
+  {
     "id": "7972049",
     "headline": "'Am I out?' Drought and rising costs from Iran war deepen pain for US farmers - Reuters",
     "summary": "'Am I out?' Drought and rising costs from Iran war deepen pain for US farmers  Reuters",
@@ -53,6 +135,29 @@
         "supply chain disruption risk",
         "increased production costs risk",
         "decline in demand risk"
+      ]
+    }
+  },
+  {
+    "id": "7973263",
+    "headline": "Bank of England has time to gauge impact of Iran war, Bailey says - Reuters",
+    "summary": "Bank of England has time to gauge impact of Iran war, Bailey says  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYzg5WlF5YUFPek10UXJYSXdrMnY0dTVDUnJqYUZyWWdKN3J2THFFS0pNUjFobkVZV3BjSGpKRFExM3UzWmpPNW44dkQzeEdYSDJ3ZzdqNm14M2Jua01rR04yRTlFOHRBNHp0SU52TFA5cUpva3NKSzNUM3FWT3NDYTZNQVM4ano0SXd2RDJWTTZXRTZTQUZ1T0hKazNtSFZ0ZUtmVGNkU2cySTR3?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1779291159,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1779312753,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Bank of England Governor Andrew Bailey stated that the central bank has time to assess the potential impact of a war with Iran on the UK economy. This comes as tensions between the US and Iran escalate, raising concerns about global economic instability. The Bank of England has already taken steps to prepare for potential economic disruptions, including increasing its stockpile of emergency cash. The central bank is closely monitoring the situation and will adjust its policies accordingly.",
+      "impact": "The news is unlikely to have a significant short-term impact on the UK stock market, as the Bank of England has time to assess the situation and prepare for potential economic disruptions. However, if a war with Iran were to escalate, it could lead to increased volatility in the market and potentially negative impacts on the UK economy, including a decline in consumer confidence and business investment. This could, in turn, affect the earnings outlook for UK companies, particularly those with international exposure.",
+      "risks": [
+        "Global economic instability risk",
+        "Escalation of conflict risk",
+        "Decline in consumer confidence risk"
       ]
     }
   },
@@ -122,29 +227,6 @@
         "economic slowdown risk",
         "debt crisis risk",
         "decrease in investor confidence risk"
-      ]
-    }
-  },
-  {
-    "id": "7971940",
-    "headline": "Iran is consolidating control of Hormuz with island checkpoints, diplomatic deals – and sometimes ‘fees’ - Reuters",
-    "summary": "Iran is consolidating control of Hormuz with island checkpoints, diplomatic deals – and sometimes ‘fees’  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMzNJZTNOVW9ScHNEZjlhenY5VFdwa3ZmVXhCVk9MYWgxY0hnRlVmVUFUNERHS0ZsVlBJZXNBSEw5c3BHYTJxUFA2cDdlZjBBMXRsTDFFN2dXMEJybG9ycU44d1c5WDdwZ09EdDNCWm5kRE8yTW04clJnY05URDdadVZzanZTSFA0bkxFVF90Ym10a1RUYUdmYWNmN2dlNXc1SGdOelpZLU1UQm9aV0RXZkJZeEdRamlmbEl4SlFveEs4RVA0LVlN?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1779281649,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1779286737,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Iran's consolidation of control over the Hormuz Strait through island checkpoints and diplomatic deals may indicate a shift in regional dynamics, potentially limiting the free flow of oil exports. This development could lead to increased tensions with global powers, particularly the US, which has historically maintained a significant presence in the region. The Hormuz Strait is a critical chokepoint for global oil trade, with over 20% of the world's oil passing through it. This situation may lead to increased geopolitical risks and potential disruptions to oil supply, impacting the global energy market and, by extension, the energy sector.",
-      "impact": "The potential disruption to oil supply from the Hormuz Strait could lead to a short-term increase in oil prices, benefiting oil producers such as Saudi Aramco (TADAWUL: 7010) and National Iranian Oil Company (NIOC). However, the increased geopolitical tensions may also lead to a medium-term decrease in investor sentiment towards the energy sector, potentially impacting the valuation of oil majors such as ExxonMobil (NYSE: XOM) and Royal Dutch Shell (LON: RDSB). The situation may also lead to increased costs and risks for oil traders and refiners, potentially impacting their profitability and liquidity.",
-      "risks": [
-        "geopolitical risk",
-        "oil supply disruption risk",
-        "increased costs and risks for oil traders and refiners"
       ]
     }
   },
@@ -492,13 +574,26 @@
   },
   {
     "id": "7973036",
-    "headline": "Bond yields, oil fall amid hopes for Iran deal; stocks gain with Nvidia results ahead - Reuters",
-    "summary": "Bond yields, oil fall amid hopes for Iran deal; stocks gain with Nvidia results ahead  Reuters",
+    "headline": "Bond yields, oil fall amid hopes for Iran deal; stocks up with Nvidia results ahead - Reuters",
+    "summary": "Bond yields, oil fall amid hopes for Iran deal; stocks up with Nvidia results ahead  Reuters",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbm1LU2ZBQUh2VnBuakxGMkh1VTV1RHNCS1pnRDV4QVVwTV9GWFNXZUpyZkllVjhqVEE4eU4tcXF5MW5LdWM3NkJrQ1p4ZXBxQ3g4TFhCS2tZakliQzg3ODlVcGczZ1RWOGxlUFcxN0pEcHFXN2VtUzI3cEV4UVByN19vVQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1779242820
+    "publishedAt": 1779242820,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1779312800,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The news article reports a decline in bond yields and oil prices due to growing hopes for a deal with Iran. This development is seen as a positive sign for the overall market, particularly ahead of Nvidia's earnings results. The lower oil prices and bond yields may indicate a decrease in inflation expectations, which could be beneficial for stocks. Additionally, the anticipation of a potential deal with Iran may lead to increased investor optimism and risk-taking, further boosting the market.",
+      "impact": "The decline in bond yields and oil prices may lead to a short-term boost in stocks, particularly those sensitive to interest rates and inflation expectations. Nvidia's upcoming earnings results may also drive trading activity, with a potential positive surprise leading to a further increase in the stock price. The medium-term impact may be a re-evaluation of the earnings outlook for companies exposed to the energy sector, as lower oil prices could lead to increased profitability. Additionally, the improved sentiment may lead to increased investor appetite for riskier assets, benefiting stocks with high growth potential.",
+      "risks": [
+        "Potential volatility in oil prices and bond yields",
+        "Uncertainty surrounding the Iran deal negotiations",
+        "Risk of a sudden shift in investor sentiment"
+      ]
+    }
   },
   {
     "id": "7970096",
@@ -548,8 +643,8 @@
   },
   {
     "id": "7969988",
-    "headline": "Dollar dips on hopes for Iran deal; yen edges toward danger zone - Reuters",
-    "summary": "Dollar dips on hopes for Iran deal; yen edges toward danger zone  Reuters",
+    "headline": "Dollar dips on hopes for Iran deal, yen near danger zone - Reuters",
+    "summary": "Dollar dips on hopes for Iran deal, yen near danger zone  Reuters",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWlpMNmFpSU54eHZwMjNnUkhyS3dQOEZDQVRLNDd3YmZqa2JUQjNUajZna3lXSlVTTVppbTBrLUhTM0EtRUF5T3NfdEFJRUdPUHB4UjZzLVByUFU2NUkzZEZRZlVpQkpselNfVDVkVUNFSWt0dEl2SUNvTFRfamhRempTQ1lCenFmS3ZVNUlveUlkZGxIR0ZtQkpFRlp4TERtWFByUkwwY1N5ci1sc0Jqbw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -22092,75 +22187,6 @@
         "short-term supply chain disruption risk",
         "medium-term earnings slowdown risk for companies reliant on steel imports",
         "potential price volatility in the global steel market"
-      ]
-    }
-  },
-  {
-    "id": "7859337",
-    "headline": "In Santa Marta and at IMO meeting in London, could Iran war invigorate talks to exit fossil fuels? - Reuters",
-    "summary": "In Santa Marta and at IMO meeting in London, could Iran war invigorate talks to exit fossil fuels?  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbTA5OFY3b3BILVJIdTNUU09kX1hzN1BqU21CNUNoZng5TjBxSDJwczdiZkNWU1lhcDdLaVFrUjlXcWVUQnpkTTg0ekMwc1REbHpHaXNQeUw5bmVpV19Pd21tOUtEa0Nvd3Y2cXJwYmZHbldtamZZMEV0TjBaSHI4aTFCUmVvYnJ1c0lzbzFjbkQwR3ZzY2ljLTBqclY4YmFKX0xBc3o1TUZWODJCMGY2UzZhSHUtTlBWU0x1RnB5VFJGeFh2SmIwcTVYS2lJRElKc1NUTGpUUzh1LXE0eWM4c1JyWWxCNEN0?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1777282832,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1777320506,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Iran's potential involvement in a war could potentially invigorate talks to exit fossil fuels, particularly at the International Maritime Organization (IMO) meeting in London. The IMO is considering stricter regulations on fossil fuels, which could benefit companies involved in renewable energy. However, the timing and outcome of any potential war with Iran are uncertain, and its impact on global energy markets is unclear. The article does not mention specific companies or stocks, but the development could have implications for the entire energy sector.",
-      "impact": "The potential for a war with Iran could lead to increased volatility in the energy sector, which could impact the earnings outlook for companies involved in fossil fuels. If the IMO imposes stricter regulations, companies with a strong presence in renewable energy could benefit from the shift away from fossil fuels. However, the short-term impact could be negative due to the uncertainty surrounding the war and its potential effects on global energy markets.",
-      "risks": [
-        "regulatory risk",
-        "geopolitical risk",
-        "demand uncertainty"
-      ]
-    }
-  },
-  {
-    "id": "7857485",
-    "headline": "Buy airline tickets now, Spain urges as Iran war lifts oil prices - Reuters",
-    "summary": "Buy airline tickets now, Spain urges as Iran war lifts oil prices  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNzBaYXF2Um4tb3NXUjNxQkd3Sm1ETlMyRHU3OHZpSFJsQk1JOTNLbnZsMGZpcmEwamFianljY1VUbTVZTWpFOHloVTVBMjRNSmhfaVl0TXlqWXR3NTdLQkJJRzlTUFRPYXRwSzZGV2ZhdTM0ODlnVXJlU2swM1FDTnU0TlRwNkxOLWVZWElwN2R2eHRjTFhuZDdjbVI5STdiZHF2aUJNUnNXUQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1777278697,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1777284012,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The Spanish government is advising citizens to book airline tickets now due to rising oil prices caused by the Iran conflict. This is expected to lead to higher airfares, benefiting airlines. The conflict has driven up oil prices, which in turn increases the cost of air travel. Airlines with a significant portion of their costs tied to fuel will likely see an increase in revenue. This is a short-term opportunity for airlines to capitalize on higher fares.",
-      "impact": "The news is expected to have a positive impact on airline stocks in the short term, as higher fares lead to increased revenue. This is particularly beneficial for airlines with a high proportion of fuel costs, such as low-cost carriers. The medium-term outlook for airlines remains uncertain, as the duration and impact of the Iran conflict on oil prices is unclear. However, in the near term, airlines are likely to benefit from higher fares.",
-      "risks": [
-        "uncertainty around conflict duration and impact on oil prices",
-        "potential decrease in travel demand if conflict escalates",
-        "increased competition from other modes of transportation"
-      ]
-    }
-  },
-  {
-    "id": "7859007",
-    "headline": "Emirates NBD pursues first Gulf public debt sale since Iran war began - Reuters",
-    "summary": "Emirates NBD pursues first Gulf public debt sale since Iran war began  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN21CRHVjeHlhZWxTeGxVNjFTZWNNcGdrUmtoUjRudTRxWWFEQ0FmLV83dEtSVF9UZGE5UU1raVhyX2pTclBsZ3VNZExadEpwVWxrTHFmalVmWFd6ckEtUXkxQXhpaDhZS2xNTVp2TDM4Q0c1RGtkUVVGZ01wX0tVU2hOczM3LUlJMWVSWGQxXzVKX0d0aUN6Q3VLMHJkcVNnQnNRY3dsRnU2N3BjZHY3cVk0dGdCWVVyVE8wRC0xQkw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1777278464,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1777326220,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Emirates NBD, a major bank in the UAE, is pursuing its first public debt sale since the Iran war began. This move indicates the bank's confidence in the region's economy and its ability to raise funds despite geopolitical tensions. The bank's decision to issue debt is a positive signal for the UAE's financial sector, suggesting that the country's economy is resilient and capable of attracting investors. The bank's ability to raise funds will also help to reduce its reliance on short-term debt and improve its capital structure.",
-      "impact": "The news is likely to have a positive impact on Emirates NBD's stock price in the short term, as investors view the debt sale as a vote of confidence in the bank's financial health. In the medium term, the bank's improved capital structure and reduced reliance on short-term debt may lead to a re-rating of its stock, potentially driving up its valuation. However, the ongoing Iran war and its impact on the region's economy remain a risk factor that could negatively impact the bank's earnings outlook.",
-      "risks": [
-        "Iran war risk",
-        "Geopolitical uncertainty risk",
-        "Economic slowdown risk in the UAE"
       ]
     }
   }
