@@ -1,5 +1,47 @@
 [
   {
+    "id": "7973782",
+    "headline": "SpaceX insiders will get to sell shares earlier than usual after the IPO",
+    "summary": "SpaceX is taking an unusual approach that could allow pre-IPO investors to sell sooner.",
+    "url": "https://www.cnbc.com/2026/05/21/spacex-insiders-will-get-to-sell-shares-earlier-than-usual-after-the-ipo.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108287666-17755155442026-04-06t224346z_1794776718_rc2sjkarih6q_rtrmadp_0_spacex-ipo.jpeg?v=1775515597&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1779371254,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1779374249,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "SpaceX is taking an unusual approach to its IPO by allowing insiders to sell shares in phases, rather than all at once after 180 days. This is likely a response to new Nasdaq rules that allow companies with market caps above the 40 largest members in the Nasdaq 100 to be included in the index sooner, provided they have a certain level of float. The company's lock-up structure is designed to increase the float and allow for faster inclusion in the Nasdaq 100, which could lead to increased trading volume and liquidity. This could also trigger a wave of forced buyers from index funds and institutional investors, providing a tailwind for the stock.",
+      "impact": "The potential inclusion in the Nasdaq 100 could lead to increased trading volume and liquidity, which could support the stock price in the short term. In the medium term, the increased trading activity could also lead to a re-rating of the stock as more investors become aware of the company's growth prospects. However, the company's small float and the phased release of shares could also lead to short-term volatility as investors adjust to the new dynamics.",
+      "risks": [
+        "Short-term volatility due to phased release of shares",
+        "Dependence on Nasdaq inclusion for increased trading volume and liquidity",
+        "Potential for increased selling pressure if insiders sell more shares than expected"
+      ]
+    }
+  },
+  {
+    "id": "7973756",
+    "headline": "Jim Cramer's top 10 things to watch in the stock market Thursday",
+    "summary": "Nvidia blew away the numbers again.",
+    "url": "https://www.cnbc.com/2026/05/21/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108278548-1773687712497-gettyimages-2266448304-AFP_A3HY9EU.jpeg?v=1778541716&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1779368052,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1779374295,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Nvidia's strong earnings and raised price target are a positive sign for the company, despite flat share prices. The company's ability to charge high prices for its custom chips is a key driver of its success. Meanwhile, other companies like Amazon and Alphabet are struggling to match Nvidia's margins. Additionally, the IPOs of OpenAI and SpaceX are expected to be highly successful, with Goldman Sachs set to benefit from significant fees.",
+      "impact": "Nvidia's stock is likely to benefit from its strong earnings and raised price target, potentially leading to increased investor confidence and higher share prices. The IPOs of OpenAI and SpaceX could also drive the stock market higher, with Goldman Sachs set to gain from the fees associated with these deals. However, the high oil prices and Treasury yields could negatively impact the overall market, leading to a short-term correction. In the medium term, Nvidia's ability to maintain its high margins and its strong cash position could lead to increased shareholder returns, potentially driving the stock higher.",
+      "risks": []
+    }
+  },
+  {
     "id": "7973720",
     "headline": "Oil markets could enter ‘red zone’ by July as stocks dwindle ahead of summer travel season, IEA chief says",
     "summary": "IEA Executive Director Fatih Birol said the single most important solution to the Iran war energy shock is a full and unconditional reopening of the strategically vital Strait of Hormuz.",
@@ -320,6 +362,25 @@
         "debt crisis risk",
         "decrease in investor confidence risk"
       ]
+    }
+  },
+  {
+    "id": "7973758",
+    "headline": "India’s treasury-bill yields surge on rate-hike expectation",
+    "summary": "Yield on the 364-day treasury bill rose 21 basis points to 5.9750% Wednesday, the most in nearly four years, according to data compiled by Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-20/india-s-treasury-bill-yields-surge-on-rate-hike-expectation",
+    "source": "Bloomberg",
+    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+    "relatedSymbols": [],
+    "publishedAt": 1779282350,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1779374340,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "India's treasury-bill yields surged 21 basis points to 5.9750% on expectations of a rate hike, which could indicate a tightening monetary policy. This move is significant as it marks the largest increase in nearly four years. The rise in yields is likely a response to the Reserve Bank of India's (RBI) efforts to control inflation, which has been a concern for the country. The RBI may raise interest rates to combat inflation, which could have a ripple effect on the economy and the financial sector.",
+      "impact": "The rate hike expectation could lead to a short-term increase in borrowing costs for Indian companies, potentially impacting their earnings outlook and valuation. This may lead to a decrease in the stock prices of companies with high debt levels or those that are sensitive to interest rates. In the medium term, a tighter monetary policy could lead to a reduction in economic growth, which may negatively impact the overall market sentiment and liquidity.",
+      "risks": []
     }
   },
   {
@@ -2278,7 +2339,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1779144939
+    "publishedAt": 1779144939,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1779374389,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Stocks mostly eased on the news that oil prices climbed to a two-week high, with tech shares experiencing a slight decline. The increase in oil prices is attributed to a decrease in US crude oil inventories, which could lead to higher production costs for energy companies. This development may have a mixed impact on the energy sector, with some companies benefiting from higher prices while others may struggle with increased costs. The overall market sentiment remains neutral, with no significant changes in the broader market.",
+      "impact": "The increase in oil prices may have a positive impact on energy companies such as ExxonMobil (XOM) and Chevron (CVX) in the short-term, as they may benefit from higher prices. However, this may also lead to higher production costs, which could impact their earnings outlook. In the medium-term, the increased oil prices may lead to a stronger US dollar, which could negatively impact the earnings of multinational companies with significant international exposure. The tech sector, which declined on the news, may also see a short-term impact as investors rotate out of growth stocks and into energy and other sectors.",
+      "risks": [
+        "higher production costs for energy companies",
+        "earnings outlook uncertainty for multinational companies",
+        "rotation out of growth stocks"
+      ]
+    }
   },
   {
     "id": "7964653",
@@ -2537,7 +2611,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1779132298
+    "publishedAt": 1779132298,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1779374436,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Bond yields surging globally has led to investor concerns about a potential spending crunch. This is due to the increased cost of borrowing, which may reduce consumer and business spending. The rise in bond yields is attributed to the Federal Reserve's interest rate hikes and a strong economy. As a result, investors are becoming more cautious, which may lead to reduced spending and a slowdown in economic growth. This could have a negative impact on companies that rely heavily on consumer spending and borrowing.",
+      "impact": "The surge in bond yields and potential spending crunch may lead to a short-term decline in consumer spending and economic growth, negatively impacting companies with high exposure to consumer discretionary sectors such as retail, hospitality, and travel. In the medium term, this may also lead to a decrease in corporate earnings, as reduced spending and economic growth can lead to lower revenue and profitability. The increased cost of borrowing may also lead to reduced business investment and hiring, further exacerbating the economic slowdown.",
+      "risks": [
+        "Reduced consumer spending and economic growth",
+        "Decreased corporate earnings",
+        "Increased cost of borrowing and reduced business investment"
+      ]
+    }
   },
   {
     "id": "7963389",
@@ -22343,75 +22430,6 @@
         "regulatory approval risk",
         "integration risk",
         "valuation risk"
-      ]
-    }
-  },
-  {
-    "id": "7860064",
-    "headline": "Most Gulf markets finish higher, though US-Iran uncertainty keeps trade cautious - Reuters",
-    "summary": "Most Gulf markets finish higher, though US-Iran uncertainty keeps trade cautious  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOTNuWEhIbDV4ZG9iNHFKWGZPNG5KY1ptT3NZZjRFWTlEc2lIYXI5UFlWWjRrSHdYZTZ3NlFQVXJYVE9kYnFrRUVuYjFVbmp1UzlLUk5vclpvOThNQkQxYkR6TnBIMGhxdjVwYXVzTVNRUW94YnVDRlZWQUctNDN5aldrTUUxS1N6ZDVSTVJXS1BvVEJSeUFUU1FDZUp2azc2dkdGdDM2Nmp6azI4cGVKZFJlTVlQeUt6amc?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1777295432,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1777326126,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Most Gulf markets finished higher, but trade remained cautious due to ongoing US-Iran tensions. The uncertainty surrounding the situation has led to a cautious approach from investors, causing them to be hesitant to make significant investments. The news is a mixed bag, with some markets benefiting from the increased demand for safe-haven assets, while others are affected by the uncertainty. The situation is complex, with multiple factors at play, including the impact on oil prices and the potential for economic sanctions.",
-      "impact": "The news is likely to have a short-term impact on the Gulf markets, with some stocks potentially benefiting from the increased demand for safe-haven assets. However, the medium-term outlook remains uncertain, and investors may be hesitant to make significant investments until the situation is resolved. The uncertainty surrounding the US-Iran tensions may lead to a decrease in investor sentiment, potentially affecting the earnings outlook for companies operating in the region. The situation may also impact the valuation of stocks, particularly those with significant exposure to the energy sector.",
-      "risks": [
-        "US-Iran tensions risk escalating and leading to economic sanctions",
-        "Uncertainty surrounding the situation may lead to a decrease in investor sentiment",
-        "Potential impact on oil prices and the energy sector"
-      ]
-    }
-  },
-  {
-    "id": "7859654",
-    "headline": "Netanyahu's rivals are joining forces. Would they shift Israel's security policy? - Reuters",
-    "summary": "Netanyahu's rivals are joining forces. Would they shift Israel's security policy?  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUE1KLWRiZkRFa2F6SzlYTWNVN3JYV0tWd19XTlRqQ1ZFWng4UTE5a3Rpd2FYTi1rb0NPd043YXNFWjNjdFRyVE5tenNPa0tHZkpLY3huM0FSUXFVSWhHNnhCeThBU3VmX25RanFQcU1iaEV2RjBoaFpodlZlQTYzcXU1Mko4Wmx5NHFzRV9fS0Z0Ri1QVnQ2eVVOdXo2cWZtb1FtV3dkVEJleFVxLVEwNjFUSHF5U093WW1YQ1RPc0V2amRTa1h2N0VEZw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1777294092,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1777320460,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Israeli Prime Minister Benjamin Netanyahu's rivals are forming an alliance, potentially shifting the country's security policy. This development is a response to Netanyahu's recent judicial overhaul plans, which have sparked widespread protests. The new alliance is expected to include several opposition parties, including the Labor Party and the Yesh Atid party. The potential shift in security policy could impact Israel's defense industry, which is a significant contributor to the country's economy. The defense industry is a key sector for companies such as Elbit Systems and Israel Aerospace Industries.",
-      "impact": "The potential shift in security policy could lead to a short-term increase in volatility for Israeli defense stocks, such as Elbit Systems (ESLT) and Israel Aerospace Industries (AROT). However, in the medium term, a more dovish security policy could lead to increased government spending on defense, potentially benefiting these companies. The alliance's impact on the defense industry's earnings outlook is uncertain and will depend on the specifics of the new policy.",
-      "risks": [
-        "uncertainty in government spending",
-        "potential backlash from the US or other countries over a shift in Israel's security policy",
-        "impact on defense industry earnings outlook"
-      ]
-    }
-  },
-  {
-    "id": "7863996",
-    "headline": "Russia's oil and gas tax revenues seen rising in May, but still down year to date - Reuters",
-    "summary": "Russia's oil and gas tax revenues seen rising in May, but still down year to date  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbmZQdk1WTzVNazFEOVJoOFFoWV9nSmlwaEFOelJhRy1acmkxQVZPRVBnc0ZKQ3lXYXh3RnBpeFBxNGZ4V0ptU2U4UGNxSkx6aFhuT01uM0tNUHM5QlVWYlB2SWFJVW9WMzBnUTkzSThQa3FRcXNtaFRINnRiOGpPWXQ2TlBuU1N6OWxvdEhja0hlZnlvMjYxVVppNXVkdUZqZXd5ODlacExjZFRZTEwyRzZrNUU3Z1FL?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1777294089,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1777426061,
-      "sentiment": "bullish",
-      "confidence": 0.7,
-      "summary": "Russia's oil and gas tax revenues are expected to rise in May, driven by higher oil prices and increased production. This is a positive development for the Russian government, as it indicates a rebound in the country's energy sector. However, despite the increase in May, tax revenues are still down year to date, suggesting that the sector's performance has been uneven. The news is a positive signal for Russian oil and gas companies, which are likely to benefit from the increase in tax revenues. This could lead to improved earnings and valuation for these companies.",
-      "impact": "The potential impact of this news on related stocks is positive, with short-term gains possible as investors react to the increase in tax revenues. In the medium term, this could lead to improved earnings and valuation for Russian oil and gas companies, driving up their stock prices. The news may also boost investor sentiment towards the sector, leading to increased liquidity and trading activity. This could be particularly beneficial for companies with strong production and pricing power.",
-      "risks": [
-        "Dependence on commodity prices and global demand",
-        "Geopolitical risks and sanctions",
-        "Uncertainty around future tax policies and regulations"
       ]
     }
   }
