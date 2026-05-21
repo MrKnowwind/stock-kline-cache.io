@@ -1,5 +1,74 @@
 [
   {
+    "id": "7973720",
+    "headline": "Oil markets could enter ‘red zone’ by July as stocks dwindle ahead of summer travel season, IEA chief says",
+    "summary": "IEA Executive Director Fatih Birol said the single most important solution to the Iran war energy shock is a full and unconditional reopening of the strategically vital Strait of Hormuz.",
+    "url": "https://www.cnbc.com/2026/05/21/oil-markets-red-zone-iea-summer-travel.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108310417-1779363174700-gettyimages-2270807610-IMF_WORLD_BANK.jpeg?v=1779363216&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1779363560,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1779364425,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "IEA Executive Director Fatih Birol warned that oil markets may enter a 'red zone' by July or August due to a combination of depleting global oil stocks and increased demand during the summer travel season. This is a result of the ongoing Strait of Hormuz crisis, which has disrupted oil supplies from the Middle East. Birol emphasized that a full and unconditional reopening of the Strait is crucial to mitigate the situation. The Strait of Hormuz is a vital waterway for global oil trade.",
+      "impact": "The potential 'red zone' scenario could lead to increased oil prices, which may negatively impact the earnings outlook of companies in the energy sector, particularly those with high exposure to oil prices. This could also lead to a decline in consumer spending and economic growth, as higher oil prices are typically passed on to consumers. The situation may also lead to increased volatility in the oil market, making it challenging for investors to navigate. In the short term, this may lead to a sell-off in energy-related stocks, while in the medium term, it may lead to a re-rating of the sector as investors reassess the risks and opportunities.",
+      "risks": [
+        "Increased oil prices risk",
+        "Earnings outlook risk for energy sector",
+        "Global economic growth slowdown risk"
+      ]
+    }
+  },
+  {
+    "id": "7973721",
+    "headline": "Billionaire families bet on semiconductor and energy stocks in first quarter during Iran war",
+    "summary": "Private investment firms of David Tepper and other billionaires doubled down on chipmakers despite the Iran war pressuring data center economics.",
+    "url": "https://www.cnbc.com/2026/05/21/billionaire-investments-q1.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108309762-1779284989085-gettyimages-2192522260-kc1_1751_fscpsdhx.jpeg?v=1779285006&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1779363269,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1779364472,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Several billionaire family offices, including those of David Tepper and Stanley Druckenmiller, have increased their stakes in semiconductor companies such as Micron Technology, Taiwan Semiconductor, and Nvidia, despite the Iran war's impact on data center economics. These investments have proven fortuitous, with semiconductor stocks experiencing significant gains in recent months. The Iran war has also driven up oil prices, leading some family offices to invest in energy producers, such as Vistra Corp and YPF Sociedad. This shift in investment strategy suggests a positive outlook for the semiconductor and energy sectors.",
+      "impact": "The increased demand for semiconductor stocks is likely to drive up their prices in the short term, potentially leading to a further surge in value. The earnings outlook for companies like Micron Technology, Taiwan Semiconductor, and Nvidia appears positive, with the potential for continued growth in the data center and cloud computing markets. The investments in energy producers may also provide a hedge against inflation and supply chain disruptions. However, the Iran war remains a wild card, and any escalation could negatively impact the energy sector.",
+      "risks": [
+        "Iran war escalation risk",
+        "supply chain disruption risk",
+        "inflation risk"
+      ]
+    }
+  },
+  {
+    "id": "7973696",
+    "headline": "Traders are making big moves ahead of these earnings reports due Thursday",
+    "summary": "With Nvidia earnings in the rearview mirror, traders have a handful of earnings before and after the bell to trade on Thursday.",
+    "url": "https://www.cnbc.com/2026/05/21/traders-are-making-big-moves-ahead-of-these-earnings-reports-due-thursday.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108285745-1774996262021-gettyimages-2269291740-6e6a0422_copy_ovhd6kmk.jpeg?v=1774996354&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1779357914,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1779364519,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Traders are positioning themselves for earnings reports from Walmart, Nio, Webull, and Advance Auto Parts, with options traders showing a bullish bias. Walmart's consumer retail business has seen a 16% increase this year, driven by inflationary pressures. Nio's Chinese electric-vehicle maker has seen a 9% increase despite broader Chinese market declines. Webull and Advance Auto Parts have seen significant declines, but options traders are betting on a bounce back with call buying. The earnings reports will provide a key catalyst for these stocks.",
+      "impact": "The earnings reports could lead to a short-term bounce in Walmart and Advance Auto Parts, driven by the expected 4.3% and 11% implied moves, respectively. Nio's earnings could see a boost from its 9% year-to-date gain, despite broader market declines. Webull's earnings may face increased scrutiny due to its 15% year-to-date decline, potentially leading to a sell-off if results disappoint. The overall market sentiment and liquidity will be influenced by the earnings reports, particularly in the retail and consumer goods sectors.",
+      "risks": [
+        "valuation risk",
+        "earnings disappointment risk",
+        "macroeconomic uncertainty risk"
+      ]
+    }
+  },
+  {
     "id": "7973586",
     "headline": "Jim Cramer says the world of tech investing has changed and it's not going back",
     "summary": "CNBC's Jim Cramer said semiconductor and AI infrastructure stocks have replaced software as the market's technology leaders.",
@@ -1937,7 +2006,20 @@
     "source": "Bloomberg",
     "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
     "relatedSymbols": [],
-    "publishedAt": 1779173356
+    "publishedAt": 1779173356,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1779364565,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "India's airlines are facing rising cost pressures due to the conflict in the Middle East, which has led to concerns about a potential hike in jet fuel prices. The airlines have asked state-run oil refiners to delay the price increase, citing the need to alleviate their financial burden. This development is significant, as jet fuel is a major operating expense for airlines. The conflict in the Middle East has already caused a spike in global oil prices, which could further exacerbate the financial struggles of Indian airlines.",
+      "impact": "The potential delay in jet fuel price hikes could provide temporary relief to Indian airlines, but it may not address the underlying issue of rising costs. In the short term, this could lead to a slight improvement in airline stocks, as investors may view the development as a positive for the industry. However, the medium-term outlook for airlines remains uncertain, as the conflict in the Middle East could persist, leading to sustained pressure on jet fuel prices and airline profitability.",
+      "risks": [
+        "rising oil prices risk",
+        "sustained conflict in the Middle East risk",
+        "airline industry consolidation risk"
+      ]
+    }
   },
   {
     "id": "7966109",
@@ -2150,7 +2232,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1779145345
+    "publishedAt": 1779145345,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1779364614,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Japan and China led declines in foreign holdings of US Treasuries in March, according to recent data. This shift in foreign investment is a significant development in the global bond market, as it may indicate a decrease in demand for US government securities. The decline in foreign holdings could be attributed to various factors, including a stronger US dollar, rising interest rates, and a shift in global economic priorities. The reduction in foreign investment in US Treasuries may also be a response to the ongoing trade tensions between the US and its trading partners. The decrease in foreign holdings of US Treasuries may have implications for the US government's ability to finance its budget deficit and may also impact the overall health of the US economy.",
+      "impact": "The decline in foreign holdings of US Treasuries may lead to higher borrowing costs for the US government, potentially impacting the country's fiscal policy and economic growth. This could, in turn, negatively impact the US dollar, making it less attractive for foreign investors. The reduced demand for US Treasuries may also lead to higher yields, making it more expensive for the US government to finance its debt. This could have a negative impact on the overall US economy and the stocks of companies that are heavily exposed to US government debt, such as banks and financial institutions.",
+      "risks": [
+        "Increased borrowing costs for the US government",
+        "Negative impact on the US dollar",
+        "Higher yields on US Treasuries"
+      ]
+    }
   },
   {
     "id": "7961091",
@@ -22317,76 +22412,6 @@
         "Dependence on commodity prices and global demand",
         "Geopolitical risks and sanctions",
         "Uncertainty around future tax policies and regulations"
-      ]
-    }
-  },
-  {
-    "id": "7858353",
-    "headline": "More apartments, more deals: Why nearly 40% of landlords are offering concessions right now",
-    "summary": "A surge in new apartments is slowing rent price growth and boosting concessions, but fewer new projects could limit how long that lasts.",
-    "url": "https://www.cnbc.com/2026/04/27/why-nearly-landlords-are-offering-concessions-right-now.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108296509-1776975772998-gettyimages-2247611488-seniorwoman45.jpeg?v=1776975967&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1777293001,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1777316299,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The US rental market is experiencing a slowdown in rent price growth due to a surge in new apartments, leading to increased concessions from landlords. This trend is driven by a wave of new supply, with 608,000 units completed in 2024, the highest level since 1986. As a result, renters have more options, and landlords are competing to fill units, offering concessions such as free rent or waived fees. This shift is easing affordability pressures, with the share of income spent on rent falling from 29.4% to 26.5% year-over-year.",
-      "impact": "The increased concessions and slowing rent growth are likely to positively impact the earnings outlook for companies in the real estate and hospitality industries. This trend may also lead to a decrease in valuation multiples for these companies, as the market adjusts to the changing landscape. Additionally, the increased competition among landlords may lead to improved liquidity in the short term, as investors take advantage of the concessions and lower prices. However, the medium-term impact may be a decrease in rental yields, as landlords struggle to maintain profit margins in a competitive market.",
-      "risks": [
-        "rental yield compression risk",
-        "valuation multiple compression risk",
-        "supply chain disruptions risk"
-      ]
-    }
-  },
-  {
-    "id": "7859957",
-    "headline": "UK retail sales tumble by most in over 40 years, CBI survey shows - Reuters",
-    "summary": "UK retail sales tumble by most in over 40 years, CBI survey shows  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLU5FRjlBNUhqWXozVTVOTlhwZVRXVVRodU5YaG9VNTFBTjJiS1FISkRrenFwTUZJRlFHRHFNRG1EUy1fZlU4aThEX1Z6RlpZSzhma3RXN3pwUkRzMjM0UFdpenhKSWozcEpzdm1vcWY3UlJieFVZa3l6SGVaNnFjakdxVE1nb0k1eDN1SnNXZ1owaktES0VBdWxpSVZ2RndUemJEOHREZ1Z2WGh6alM4Z1V2amUzbzFpaEFQOGJkNA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1777292513,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1777326174,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "UK retail sales have experienced their largest decline in over 40 years, according to a CBI survey. This downturn is attributed to various factors, including economic uncertainty, high inflation, and a decline in consumer spending. The retail sector has been struggling in recent months, with many businesses facing challenges in adapting to changing consumer behavior and preferences. The CBI survey provides further evidence of the sector's struggles, with sales plummeting by a significant margin. This decline is likely to have a ripple effect on the broader economy, potentially impacting employment and economic growth.",
-      "impact": "The decline in UK retail sales is likely to have a negative impact on retailers' earnings, particularly those with high exposure to the sector. This could lead to a decline in stock prices, as investors reassess their expectations for the sector. In the short-term, we expect a decrease in liquidity for retailers, as investors become more cautious and reduce their exposure to the sector. Medium-term, the decline in retail sales could have a broader impact on the economy, potentially leading to a slowdown in economic growth and a decline in consumer spending power.",
-      "risks": [
-        "Decline in consumer spending power",
-        "Economic slowdown risk",
-        "Increased competition from online retailers",
-        "Potential job losses in the retail sector"
-      ]
-    }
-  },
-  {
-    "id": "7855530",
-    "headline": "Oil advances with Middle East in focus, equities rise slightly - Reuters",
-    "summary": "Oil advances with Middle East in focus, equities rise slightly  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdFFHZnR3cEZhaHhha01WbDU2dGlnQWJyX0w0Q2poQk55Y1RjQ1N5Zk84NVVraDBfX3ljdFZab1IxejVPZUZMRTVyRnQxYmZEWDYzaExnRTFKOENYLXBmdkVHeTlSZW1LSDI2b050UE5DNGJnMU1NdHFEaEdPM1JBS1dRbzItbGdH?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1777291763,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1777275146,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The news article reports that the stock market is rising due to positive developments in the semiconductor industry, with chip stocks leading the charge. This is attributed to a combination of factors, including a potential increase in demand for chips due to the ongoing peace talks, which could lead to a surge in electronics production. The peace talks have stalled, but the anticipation of a potential resolution is still driving investor optimism. This optimism is also fueled by the improving global economic outlook, which is expected to boost demand for semiconductors. As a result, chip stocks are expected to continue their upward trend.",
-      "impact": "The positive sentiment in the chip industry is expected to have a short-term impact on the stock prices of companies involved in the sector, such as Intel, Texas Instruments, and Advanced Micro Devices. The medium-term impact could be a re-rating of these stocks as investors become more optimistic about their earnings prospects. The improving outlook for the semiconductor industry could also lead to increased M&A activity, as companies look to expand their capabilities and capture market share. This could lead to a surge in stock prices for companies involved in the industry.",
-      "risks": [
-        "Potential delay in peace talks and subsequent decrease in demand for chips",
-        "Global economic downturn could reduce demand for semiconductors",
-        "Increased competition in the chip industry could lead to pricing pressure"
       ]
     }
   }
