@@ -1,5 +1,74 @@
 [
   {
+    "id": "7973840",
+    "headline": "Trump administration says new EPA rules will save you money at the supermarket. It's not clear they will",
+    "summary": "Trump delayed Biden-era EPA refrigerant rules, saying the move will lower grocery costs, though the impact on food prices remains unclear.",
+    "url": "https://www.cnbc.com/2026/05/21/trump-changes-epa-refrigeration-rules-in-grocery-price-push.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108310654-17793789562026-05-21t155451z_55673329_rc2rdlaec79m_rtrmadp_0_usa-trump.jpeg?v=1779378979&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1779381705,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1779384076,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The Trump administration has delayed two EPA refrigerant rules, citing potential cost savings for companies and consumers. The rules, aimed at reducing greenhouse gas emissions, were finalized by the Biden administration in 2023 and 2024. The delay is seen as a move to appeal to inflation-weary consumers ahead of the midterm elections. The impact on grocery prices remains unclear, as companies may not necessarily pass on cost savings to consumers. Large chains like Walmart and Kroger have already invested in new refrigerant systems, but smaller regional grocers and independent stores may feel the cost burden more acutely.",
+      "impact": "The delay may have a neutral impact on the stocks of large grocery chains like Walmart and Kroger, as they have already invested in new refrigerant systems. However, smaller regional grocers and independent stores may face increased costs, potentially affecting their earnings outlook and valuation. The delay may also impact the sentiment of investors, with some potentially viewing it as a positive development for consumers, while others may see it as a regulatory uncertainty.",
+      "risks": [
+        "regulatory uncertainty risk",
+        "industry disruption risk",
+        "cost pass-through risk"
+      ]
+    }
+  },
+  {
+    "id": "7973804",
+    "headline": "LIV Golf seeks to raise up to $350 million from investors as post-PIF reality sets in",
+    "summary": "LIV Golf is preparing to take its updated business plan and investor pitch on the road as soon as Thursday, in an effort to raise fresh capital.",
+    "url": "https://www.cnbc.com/2026/05/21/liv-golf-fundraise-up-to-350-million-post-pif.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108310581-1779375214716-gettyimages-2275518697-tk052455_iyjybxwe.jpeg?v=1779375230&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1779376009,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1779384126,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "LIV Golf is seeking to raise $250-350 million in fresh capital to continue operations past the current season, after Saudi Arabia's PIF announced it would stop funding the league after 2026. This comes as LIV faces a tough road ahead to fundraise without the backing of PIF, which invested over $5 billion in the league. The league's new capital raise aims to 'fully recapitalize LIV and drive path to profitability', but questions remain about how LIV CEO Scott O'Neil will restructure business operations without billions in funding. LIV has hundreds of millions in player contract obligations and a goal of becoming profitable in the next two years.",
+      "impact": "The news is likely to have a negative impact on LIV Golf's stock price in the short term, as the uncertainty surrounding its funding and profitability raises concerns among investors. The potential for bankruptcy and the need for a capital raise also increases the risk of a liquidity crisis, which could lead to a decline in the league's valuation. In the medium term, the success of LIV's fundraising efforts will be crucial in determining its future prospects and potential impact on the golf industry.",
+      "risks": [
+        "liquidity crisis risk",
+        "valuation risk",
+        "bankruptcy risk"
+      ]
+    }
+  },
+  {
+    "id": "7973792",
+    "headline": "Retail investors will get access to SpaceX's IPO—here's what to know before buying",
+    "summary": "Elon Musk's rocket and sattelite firm will make IPO shares available on platforms such as Fidelity, Robinhood and Charles Schwab.",
+    "url": "https://www.cnbc.com/2026/05/21/spacex-ipo-what-retail-investors-need-to-know-before-buying-shares.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108310148-1779310407448-gettyimages-2270726829-SPACEX_IPO.jpeg?v=1779318049&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1779373869,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1779384176,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "SpaceX is planning to make a portion of its shares available to retail investors through online brokerages such as Fidelity, Robinhood, and Charles Schwab. This is a rare opportunity for individual investors to participate in the largest IPO of all time, which could potentially raise up to $75 billion. Historically, IPOs have seen an average 19% increase in stock price on the first day of trading. However, experts warn that retail investors should tread carefully due to potential volatility and consider a wait-and-see approach.",
+      "impact": "The potential IPO could lead to a short-term pop in stock price, driven by investor enthusiasm and the opportunity to participate in a highly anticipated offering. However, longer-term investors should be cautious due to the potential for volatility and consider a more cautious approach. The increased retail participation could also lead to improved cash flows for SpaceX as more users subscribe to its products and services.",
+      "risks": [
+        "Volatility risk",
+        "Overvaluation risk",
+        "Liquidity risk"
+      ]
+    }
+  },
+  {
     "id": "7973782",
     "headline": "SpaceX insiders will get to sell shares earlier than usual after the IPO",
     "summary": "SpaceX is taking an unusual approach that could allow pre-IPO investors to sell sooner.",
@@ -2657,7 +2726,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1779131470
+    "publishedAt": 1779131470,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1779384222,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The US dollar retreated on the foreign exchange market as traders shifted their focus from the ongoing tensions with Iran to the upcoming Federal Reserve policy meeting. The dollar's decline was driven by a weak US jobless claims report, which further reduced the likelihood of a rate hike by the Fed. The Fed's decision will have a significant impact on the US economy and the dollar's value. The dollar's decline may lead to a strengthening of the euro and other major currencies.",
+      "impact": "The dollar's decline may have a positive impact on US multinational companies with significant international operations, as a weaker dollar can increase their profitability. However, a weaker dollar may also lead to higher import costs for US companies, potentially affecting their earnings outlook. The dollar's movement may also impact the stock prices of companies with significant exposure to the foreign exchange market, such as banks and multinational corporations.",
+      "risks": [
+        "Increased volatility in the foreign exchange market",
+        "Potential impact on US multinational companies' earnings",
+        "Uncertainty around the Fed's policy decision"
+      ]
+    }
   },
   {
     "id": "7964343",
@@ -2667,7 +2749,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1779131277
+    "publishedAt": 1779131277,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1779384268,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Gold prices rose due to a weaker US dollar, but gains were limited by rising oil and bond yields. The weaker dollar makes gold more attractive to investors holding other currencies, but the increase in oil prices may reduce demand for gold as an inflation hedge. The rise in bond yields also reduces the opportunity cost of holding gold, as investors may prefer to invest in higher-yielding bonds. The article does not provide specific information on the magnitude of the price increase or the underlying drivers of the market movement.",
+      "impact": "The news is likely to have a neutral impact on gold mining stocks in the short term, as the price increase is limited and may not lead to significant changes in earnings or valuation. However, the rising oil prices may have a negative impact on the earnings of gold mining companies with high production costs. In the medium term, the trend of rising bond yields and oil prices may lead to a decrease in gold prices, which could negatively impact gold mining stocks.",
+      "risks": [
+        "Increased production costs due to rising oil prices",
+        "Decrease in gold prices due to rising bond yields",
+        "Reduced demand for gold as an inflation hedge"
+      ]
+    }
   },
   {
     "id": "7963378",
@@ -22360,76 +22455,6 @@
         "Escalation of tensions between the US and Iran",
         "Uncertainty around the duration of the blockage",
         "Potential for further sanctions on Iranian oil exports"
-      ]
-    }
-  },
-  {
-    "id": "7858583",
-    "headline": "Two months into Iran war, economic strain mounts across emerging markets - Reuters",
-    "summary": "Two months into Iran war, economic strain mounts across emerging markets  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZlNramd1a0Qxc1JMb2lsVUJVVjdubnVBNnZ0WjJsMUZYdkZ1TnZ6MERBMTB5RXZNdDBoelRKWTJ6eFYySDBOa0wtTkV5V3hFcjdOUDd1cFE2bGR6U0NOdjhjS2xWMWJNV05FS1licXlMYnZFWFBOUFZTSXZ4ajRMNlZlOG1tUm9KM012YzFrMHJGVVN3a3BpdDBLdHdFb2E0SDB3TjlUeWhldHF4Y3Y4VllJUlcyYVZlSUs3WHg1UlR0aXpk?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1777297202,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1777303636,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The ongoing Iran war has led to economic strain across emerging markets, with two months of conflict causing a ripple effect on global trade and commodities. The war has disrupted oil production, leading to higher prices and inflation in countries dependent on oil imports. This, in turn, has resulted in a decline in consumer spending and a slowdown in economic growth in these regions. The situation is particularly concerning for emerging markets, which are heavily reliant on international trade and are more vulnerable to economic shocks.",
-      "impact": "The economic strain caused by the Iran war is likely to negatively impact the earnings outlook for companies with significant exposure to emerging markets, particularly those in the energy and commodities sectors. This could lead to a decline in stock prices for these companies, as investors reassess their valuations in light of the new economic reality. The war's impact on global trade and commodities prices may also lead to increased volatility in the short term, making it a challenging environment for traders.",
-      "risks": [
-        "Economic slowdown risk",
-        "Inflation risk",
-        "Commodity price volatility risk"
-      ]
-    }
-  },
-  {
-    "id": "7859653",
-    "headline": "Rupee ends nearly flat, likely RBI presence blunts hit from higher oil prices - Reuters",
-    "summary": "Rupee ends nearly flat, likely RBI presence blunts hit from higher oil prices  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNVZfZUhWSlVsX2tlTWJDdHFFZXdFSjFMa0sxd19jVUgyOU1vekhkUFRTcnBsaGFIc3RVSk95ekhXTXhQOVJ0OXBGWjVJdDJzOFd2UU4zT2JuUVBDckVwYUxkV1VtN0U0RGl3c0dIZWd3SnUyU0ZDdlpvazNPNWpKRkhlOGdPWWRGYWtXd19fdzJGQzZXbFFnT1haay1tY2J4a253T2U4dFNORTdUbWFrdE1zU3ljTngtQjV5SGg3c3I4UQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1777296387,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1777329412,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The Indian rupee ended nearly flat despite higher oil prices, suggesting the Reserve Bank of India's (RBI) intervention helped mitigate the impact. The RBI's presence in the currency market is believed to have blunted the hit from higher oil prices, which typically weigh on the rupee. The RBI has been actively intervening in the currency market to stabilize the rupee, which has been under pressure due to a widening trade deficit and higher oil prices. The rupee's stability is a positive for the Indian economy, as it makes imports cheaper and supports economic growth.",
-      "impact": "The rupee's stability is likely to have a positive impact on Indian companies with significant dollar-denominated debt, as they will face lower interest expenses. This could lead to improved earnings for these companies in the short term. However, the medium-term impact will depend on the RBI's monetary policy stance and the government's fiscal policies, which will influence the rupee's trajectory. The stability of the rupee may also boost investor sentiment towards Indian equities, leading to increased liquidity and potentially higher stock prices.",
-      "risks": [
-        "RBI's monetary policy stance risk",
-        "Government fiscal policy risk",
-        "Oil price volatility risk"
-      ]
-    }
-  },
-  {
-    "id": "7858566",
-    "headline": "Jim Cramer's top 10 things to watch in the stock market Monday",
-    "summary": "Elon Musk vs. Sam Altman. The yearslong legal battle between two of the OpenAI founders will go to trial today.",
-    "url": "https://www.cnbc.com/2026/04/27/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108264248-1770779719547-gettyimages-2256969963-DAVOS_WEF_2026.jpeg?v=1774467025&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1777295689,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1777303786,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The stock market is expected to be volatile on Monday due to various factors, including the Iran peace talks stalemate and the upcoming trial of Elon Musk vs. Sam Altman. Qualcomm shares are rising 8% on reports of a partnership with OpenAI to develop smartphone processing chips. Organon stock surged 17% after receiving a $11.75 billion acquisition bid from Sun Pharmaceutical. Adobe's stock was downgraded to hold from buy by Mizuho, citing AI disruption concerns. Verizon reported a quarterly earnings-per-share beat but missed on revenue, while Campbell's was downgraded to hold from buy due to declining sales in certain subcategories.",
-      "impact": "Qualcomm's partnership with OpenAI could lead to a short-term boost in the stock price, potentially driving the tech sector. Organon's acquisition bid could result in a medium-term increase in the stock price, driven by the premium valuation. Adobe's downgrade could lead to a short-term decline in the stock price, as investors reassess the company's growth prospects. The overall market sentiment remains uncertain due to the ongoing Iran peace talks and the trial of Elon Musk vs. Sam Altman.",
-      "risks": [
-        "AI disruption risk",
-        "regulatory approval risk",
-        "integration risk",
-        "valuation risk"
       ]
     }
   }
