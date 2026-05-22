@@ -1,5 +1,70 @@
 [
   {
+    "id": "7974161",
+    "headline": "Disney's 'Star Wars: The Mandalorian and Grogu' tallies lowest Thursday preview sales in franchise history",
+    "summary": "Disney's \"Star Wars: The Mandalorian and Grogu\" tallied $12 million in Thursday night previews, the lowest collection of advanced tickets in franchise history.",
+    "url": "https://www.cnbc.com/2026/05/22/disneys-star-wars-the-mandalorian-and-grogu-box-office-preview.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108311292-1779466772598-star-wars-the-mandalorian-and-grogu-first-looks-stills-_9e0fdd30_Cropped.jpg?v=1779467057&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1779475731,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1779477490,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Disney's 'Star Wars: The Mandalorian and Grogu' has reported the lowest Thursday night preview sales in franchise history, collecting $12 million. This is a stark contrast to the previous low of $14.1 million set by 'Solo: A Star Wars Story' in 2018. The film's opening weekend projections are around $80 million, which would be one of the smallest openings of a 'Star Wars' film in modern cinematic history. The movie's production budget is estimated to be around $165 million, making it a lower-cost title compared to previous 'Star Wars' films.",
+      "impact": "The disappointing preview sales and opening weekend projections may lead to a decrease in Disney's box office revenue, potentially affecting its earnings outlook. This could also impact the valuation of Disney's shares, as the company's stock price may decline in response to the underwhelming performance of 'The Mandalorian and Grogu'. Additionally, the film's poor performance may raise concerns about the future of the 'Star Wars' franchise and its ability to generate box office revenue in a post-pandemic market.",
+      "risks": [
+        "Decrease in box office revenue",
+        "Negative impact on Disney's earnings outlook",
+        "Potential decline in Disney's stock price"
+      ]
+    }
+  },
+  {
+    "id": "7974151",
+    "headline": "Stocks continue surging to record highs. Here's how to hedge",
+    "summary": "The rally back to records has made buying protection more affordable.",
+    "url": "https://www.cnbc.com/2026/05/22/stocks-continue-surging-to-record-highs-heres-how-to-hedge.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108306442-1778688845240-Traders-Photo-20260513-AS-6.jpg?v=1778688944&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1779472744,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1779477539,
+      "sentiment": "neutral",
+      "confidence": 0.8,
+      "summary": "The S&P 500 has rallied over 17% since its March lows, driven by tariff relief optimism, resilient earnings, and a semiconductor rebound. This has made hedging more affordable and strategically sensible, with lower volatility and put option prices. The Federal Reserve remains sidelined, and Treasury yields are elevated, suggesting that inflation concerns persist. The equal-weighted S&P 500 has stalled, indicating a potential divergence from the cap-weighted index.",
+      "impact": "The rally has made hedging more attractive, allowing investors to lock in gains at lower costs. This could lead to a decrease in short-term volatility, as investors become more cautious. The elevated Treasury yields and gold prices signal that inflation concerns remain, which could impact earnings outlook and valuation for certain stocks. Investors should consider 'monetizing' their hedges by rolling down or out if the puts go in the money to avoid wasted premiums.",
+      "risks": []
+    }
+  },
+  {
+    "id": "7974145",
+    "headline": "Arm shares extend weekly rally to almost 50%, and Starbucks pulls the plug on an AI project",
+    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+    "url": "https://www.cnbc.com/2026/05/22/arm-shares-extend-weekly-rally-to-almost-50percent-and-starbucks-pulls-the-plug-on-an-ai-project.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108282893-1774451924535-gettyimages-2267715954-ARM_EVERYWHERE.jpeg?v=1774451947&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1779471172,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1779477584,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Arm Holdings is experiencing a significant rally, with its shares increasing by almost 50% this week. This is a potential candidate for a trim in the portfolio to manage risk and free up cash for other investments. Meanwhile, Starbucks has abandoned an AI project due to errors, but this is unlikely to impact its cost savings target. The company's turnaround strategy, led by CEO Brian Niccol, is focused on top-line growth and cost savings.",
+      "impact": "The rally in Arm Holdings could lead to a short-term pullback in the stock price, making it a potential buying opportunity. The company's valuation may be affected by its strong performance, potentially leading to a re-evaluation of its price. The news may also boost investor sentiment towards the technology sector as a whole, potentially driving further gains in the coming weeks.",
+      "risks": [
+        "valuation risk",
+        "sentiment-driven market risk",
+        "potential pullback risk"
+      ]
+    }
+  },
+  {
     "id": "7974133",
     "headline": "Wall Street thinks IMAX is ripe for a sale. Here's who could buy it",
     "summary": "A source told CNBC that IMAX has held \"preliminary talks\" through intermediaries, but no official pitches have been made by the company.",
@@ -22623,75 +22688,6 @@
         "sanctions risk",
         "partnership disruption risk",
         "earnings volatility risk"
-      ]
-    }
-  },
-  {
-    "id": "7857589",
-    "headline": "Renewables in vogue as Iran war drives up Europe power prices - Reuters",
-    "summary": "Renewables in vogue as Iran war drives up Europe power prices  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMG1vMGszUnhJWmVHaUtuSU1EM3pnV2JDRHU1NzRhUFd0TlpFbVZFVnpScl8yQmJ6NUY0Ql9pbVNQWjR2bXhKMVE2WVAtM0dEbFVZQnZuVnI2ay1HSHRsRE12SEQxLTYxQW9QYXBkR19BQ2ZkVlVDcmQ2QXpOcG9JbnJFUUxlNmNGamFuRERNVloybF9hbHczdWw3RVNBRkhWOHFpNjBCREFsWkpkVUIybzBSb1A1MDJUUWpQYUoyeUJrdnlia3ZKM0NjSQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1777321131,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1777284062,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The ongoing Iran war has driven up Europe's power prices, making renewables a more attractive option. This shift is driven by the increasing cost of fossil fuels and the need for energy diversification. As a result, companies involved in the renewable energy sector are likely to benefit from this trend. The European Union has set ambitious renewable energy targets, and the current market conditions are favoring the growth of this industry.",
-      "impact": "The increased demand for renewables is expected to positively impact companies involved in the sector, such as wind turbine manufacturers and solar panel producers. This could lead to higher earnings and revenue growth for these companies in the short to medium term. The current market conditions also make it an attractive time for investors to enter the renewable energy sector, which could lead to increased liquidity and sentiment-driven stock price appreciation. The European Union's renewable energy targets provide a supportive macro environment for the sector's growth.",
-      "risks": [
-        "Regulatory risks associated with the EU's renewable energy policies",
-        "Supply chain disruptions due to the ongoing Iran war",
-        "Dependence on government subsidies and incentives for the renewable energy sector"
-      ]
-    }
-  },
-  {
-    "id": "7861819",
-    "headline": "Iraq’s Shi’ite alliance names Ali al-Zaidi as PM nominee - Reuters",
-    "summary": "Iraq’s Shi’ite alliance names Ali al-Zaidi as PM nominee  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVFUzMDJwbHVuMmc5dEI0NHNvVi1uZVFFU01qWVQwZU5LOV9tRWdBTEhuWGt0SEpScWxEeGtvSHczLTJhOUx6WFlIUXdMQkZBdVFoWUFPWEZjZ1hMNG5wWDhvOFAxY1lPUG9JT2MzMGlLZG9iWnotZXQ4RmNQaGdZb29CUVRVaTB0amdLbUR5NjVuR2x4d0ZtdE1BR2Q3cktISGwtMmpFRjY?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1777320103,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1777363078,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Iraq's Shi'ite alliance has named Ali al-Zaidi as their nominee for Prime Minister, which could potentially lead to a more stable government in the country. This development is a positive sign for the country's economy, as a stable government can attract foreign investment and improve the business environment. The Shi'ite alliance has a significant presence in Iraq's parliament, and al-Zaidi's nomination increases the likelihood of a government that will prioritize economic development and infrastructure projects. This could lead to increased spending on projects that benefit the oil and gas industry, which is a significant contributor to Iraq's economy.",
-      "impact": "The nomination of Ali al-Zaidi as Prime Minister nominee could have a positive impact on the Iraqi economy, potentially leading to increased foreign investment and improved business conditions. This could benefit companies operating in the oil and gas sector, such as those involved in exploration and production, as well as those providing equipment and services to the industry. In the short-term, the news may lead to a slight increase in investor sentiment and a potential rally in stocks related to the oil and gas sector.",
-      "risks": [
-        "Risk of delays in the formation of a new government",
-        "Uncertainty around the effectiveness of al-Zaidi's leadership",
-        "Potential for increased spending to lead to inflation and macroeconomic instability"
-      ]
-    }
-  },
-  {
-    "id": "7859852",
-    "headline": "Biggest winner of the amended Microsoft-OpenAI deal — plus, mixed news for Eli Lilly",
-    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-    "url": "https://www.cnbc.com/2026/04/27/biggest-winner-of-the-amended-microsoft-openai-deal-plus-mixed-news-for-lilly.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108254539-1768938695163-CNBC_Stage_01_069.jpg?v=1768939495&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1777316968,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1777320320,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The Microsoft-OpenAI amended agreement allows OpenAI to serve its products on any cloud provider, which is expected to benefit Amazon Web Services (AWS) as the company expands its partnership with OpenAI. Amazon CEO Andy Jassy expressed enthusiasm for the development, mentioning AWS's upcoming event in San Francisco where Agentic AI will be a focus. Meanwhile, Eli Lilly announced a small acquisition, but its price target was cut by Leerink due to competitive pressures.",
-      "impact": "The news is likely to boost Amazon's stock in the short term, particularly with the upcoming earnings release and AWS event. The expanded partnership with OpenAI could lead to increased adoption of AWS services, driving growth and potentially higher earnings. In contrast, Eli Lilly's acquisition may have a limited impact on its stock price, given the price target cut by Leerink. The company's ability to navigate competitive pressures will be closely watched in the coming weeks.",
-      "risks": [
-        "AWS's ability to execute on its expanded partnership with OpenAI",
-        "Eli Lilly's ability to navigate competitive pressures in the pharmaceutical industry",
-        "Potential regulatory challenges for OpenAI's products"
       ]
     }
   }
