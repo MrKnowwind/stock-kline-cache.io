@@ -1,5 +1,74 @@
 [
   {
+    "id": "7974133",
+    "headline": "Wall Street thinks IMAX is ripe for a sale. Here's who could buy it",
+    "summary": "A source told CNBC that IMAX has held \"preliminary talks\" through intermediaries, but no official pitches have been made by the company.",
+    "url": "https://www.cnbc.com/2026/05/22/imax-sale-talks-potential-buyers-wall-street-analysts.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108311213-1779460294885-gettyimages-2201585805-vcg111550423487.jpeg?v=1779460316&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1779467186,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1779469328,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "IMAX is exploring a potential sale, with Wall Street analysts seeing the company as an attractive asset for various buyers, including private equity, Netflix, Apple, and Sony. IMAX's CEO has left the door open for a possible buyout, and analysts believe the company is undervalued. The company's unique combination of a globally recognized brand, asset-light licensing model, and structurally expanding earnings profile make it an attractive target for potential acquirers. Analysts suggest that IMAX is trading at a discount to its standalone value, making it a potential bargain for buyers.",
+      "impact": "The potential sale of IMAX could lead to a short-term increase in the stock price as investors speculate on the company's value. Medium-term, a sale could result in a re-rating of the stock as buyers with deeper pockets and more resources take over the company, potentially leading to improved earnings and growth prospects. This could also lead to increased liquidity and trading activity in the stock.",
+      "risks": [
+        "integration risk",
+        "valuation risk",
+        "regulatory approval risk"
+      ]
+    }
+  },
+  {
+    "id": "7974124",
+    "headline": "Egg prices are plunging due to oversupply — and producers say margins are taking a hit as costs rise",
+    "summary": "Egg prices are plunging from oversupply after avian flu shortages, but producers say persistent feed, fuel and labor costs are squeezing margins.",
+    "url": "https://www.cnbc.com/2026/05/22/egg-prices-fall-due-to-oversupply-after-bird-flu-shortages.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108311245-1779462808955-gettyimages-2275677304-l1081568_nrt22pgj.jpeg?v=1779462892&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1779465554,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1779469385,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Egg prices have plummeted due to an oversupply in the market, following last year's avian flu-driven shortage. Producers are struggling with rising input costs, including feed, fuel, and labor, which are squeezing their margins. Despite strong demand, the oversupply is causing prices to fall, with a dozen eggs now available for under $1 in some cases. This shift from a shortage to an oversupply situation is putting pressure on producers' earnings.",
+      "impact": "The decline in egg prices may have a short-term positive impact on consumer sentiment and demand, but it will likely lead to reduced earnings for egg producers in the medium term. As input costs continue to rise, producers may struggle to maintain their margins, potentially affecting their stock prices. The industry's liquidity may also be impacted as producers adjust to the changing market conditions.",
+      "risks": [
+        "margin compression risk",
+        "input cost inflation risk",
+        "supply chain disruption risk"
+      ]
+    }
+  },
+  {
+    "id": "7974110",
+    "headline": "Surge in 'risk-free' treasury yields sends bond investors in search of better opportunities",
+    "summary": "Treasury yield surge shows bond market is not 'risk free' after all, but there's opportunity for fixed-income investors in intermediates, BBBs and high yield.",
+    "url": "https://www.cnbc.com/2026/05/22/treasury-yields-bonds-investing-fed-rate-hikes.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108127568-1744034668789-gettyimages-57201457-57195271SO005_Fed_Chairman_.jpeg?v=1779456580&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1779462629,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1779469438,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The recent surge in long-dated US Treasury yields, driven by geopolitical tensions and an oil price shock, is forcing investors to reevaluate their assumption of Treasuries as a 'risk-free' asset class. This shift is being driven by a growing consensus that the Federal Reserve will not lower interest rates in the near future, with traders now betting on no interest rate cut over the remainder of 2026 and a potential rate hike. As a result, investors are being advised to look for opportunities in the intermediate part of the Treasury curve and in investment-grade and high-yield corporate bonds, which reflect the underlying strength of the US economy and corporate earnings. This shift in bond market assumptions is a wake-up call for investors who have long considered Treasuries a safe haven.",
+      "impact": "The potential impact on related stocks will be negative in the short term, as the rise in Treasury yields makes borrowing costs more expensive for companies, potentially leading to reduced earnings and lower valuations. In the medium term, investors may shift their focus towards investment-grade and high-yield corporate bonds, potentially benefiting companies with strong earnings and credit profiles. The shift in market sentiment may also lead to increased volatility in the bond market, affecting liquidity and sentiment towards related stocks.",
+      "risks": [
+        "Increased borrowing costs for companies",
+        "Reduced earnings and lower valuations",
+        "Volatility in the bond market"
+      ]
+    }
+  },
+  {
     "id": "7974087",
     "headline": "The Club's top 10 things to watch in the stock market Friday",
     "summary": "Stocks are poised to extend yesterday's gains.",
@@ -22624,71 +22693,6 @@
         "Eli Lilly's ability to navigate competitive pressures in the pharmaceutical industry",
         "Potential regulatory challenges for OpenAI's products"
       ]
-    }
-  },
-  {
-    "id": "7860168",
-    "headline": "Malta calls early election, with PM pledging stability amid Iran war - Reuters",
-    "summary": "Malta calls early election, with PM pledging stability amid Iran war  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVkxFTXc1UHhVNEJNU2xrNDF0SHM4NDlxSFlOa0M2Xy1nU3pwcGJSYUNoUG1ER2JKcnRWWFR5aGwxbHhkcWpJLXRnLVVoeDBneWFxYWhVQU5hMU9ENXJLcm51UUVRdGJnekdJUi1nbmUwdFFOUENTZ0MtREtrQmM5SjlENlVDR2o5YUdibEFxbXZWbGJJcmNCVUNQcXFRSnI3bkhNTXRZLWhxMTRSYlE?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1777313748,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1777326078,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Malta has called an early election, with Prime Minister Robert Abela pledging to maintain stability in the face of the ongoing Iran war. The election is a response to the opposition's no-confidence vote in the government. The move is seen as a bid to consolidate power and maintain stability in the country. The election is expected to take place in the coming weeks. The background of the event is the ongoing tensions in the region, with the Iran war creating uncertainty and instability in the area. The logical chain from the news to the business fundamentals is that the election and the stability pledge may have a positive impact on Malta's economy and business environment, potentially leading to increased investor confidence and improved economic prospects.",
-      "impact": "The early election and the stability pledge may have a positive impact on Malta's economy and business environment, potentially leading to increased investor confidence and improved economic prospects. This could positively affect the country's economic growth, leading to improved earnings outlook for companies operating in Malta. However, the short-term impact may be limited due to the ongoing uncertainty in the region, which may affect investor sentiment and liquidity in the market.",
-      "risks": [
-        "Uncertainty in the region due to the ongoing Iran war",
-        "Potential for increased political instability in the coming weeks",
-        "Impact on investor sentiment and liquidity in the market"
-      ]
-    }
-  },
-  {
-    "id": "7856450",
-    "headline": "Gold falls with focus on key central bank meetings - Reuters",
-    "summary": "Gold falls with focus on key central bank meetings  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdXFycW01cUZWX3pld1pTbUEwTFNldzNlRlpzTjRLdHBQdmdRbTVUMEZlRUtpT1p2ektIRkdDWkpjT2lTYWNkNTRveFBpZHJDVUNUOGMxbVhOelZDdlVYbVpHdS1QWE8zOHpPbnFrcmgyaTYtcGo2a2UtWWM0SDg2VkQ0NVVoNWRMYXZXXzktelZOYWt3LW8xUnAxQUM5Z0RKR1Ewd0VjQUg4bnlINUd6RDNzb1ZmVjdV?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1777313189,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1777265791,
-      "sentiment": "bullish",
-      "confidence": 0.7,
-      "summary": "The price of gold has increased due to a softer US dollar following a report on a proposed peace deal between the US and Iran. The weaker dollar makes gold more attractive to investors as it becomes cheaper for holders of other currencies to buy. This development is a positive signal for gold prices, which have been volatile in recent times. The report suggests a potential easing of tensions between the two countries, which could lead to a decrease in the demand for safe-haven assets like gold. However, the outcome of the peace talks is uncertain, and the market's reaction may be short-lived.",
-      "impact": "The softer dollar and potential decrease in demand for safe-haven assets could lead to a short-term increase in gold prices, benefiting gold mining companies such as Barrick Gold (ABX) and Newmont Goldcorp (NEM). In the medium term, a sustained decrease in tensions between the US and Iran could lead to a decrease in the demand for gold, potentially impacting gold mining companies' earnings outlook. The increased volatility in gold prices may also affect the liquidity of gold mining companies' stocks.",
-      "risks": [
-        "Uncertainty surrounding the outcome of the peace talks",
-        "Potential decrease in demand for gold if tensions ease",
-        "Increased volatility in gold prices"
-      ]
-    }
-  },
-  {
-    "id": "7859652",
-    "headline": "Trump discussed new Iran proposal with national security aides on Monday, White House says - Reuters",
-    "summary": "Trump discussed new Iran proposal with national security aides on Monday, White House says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcDVQb3N0d1ItOUVyeGVBcDlTdVpqRFpHQy1qekpod3UwU2FjajVtMUx6aWtORnJNOEZpN3B0VDdoemh2OTI2WDJvNkZUS1E0Rm9yRkFSa0xoOTlmZWltMVJGRUNqX0ZHYk1XM1lLbTFLb3FqRWJpbjlqdWlZeWYxVVh1dzhmazZObGMwWXZrSEl6M183MDFzQnlncVdwZVl4cXR6SXZkbE9LMVBEbGlCVnVGM0VLY1R1MkNJS1JaVmpNNERlWmZhUg?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1777311945,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1777320365,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "US President Trump discussed a new Iran proposal with national security aides on Monday, according to the White House. This development comes as the US and Iran have been engaged in a tense standoff over Iran's nuclear program. The new proposal is not specified, but it is likely related to the ongoing negotiations between the two countries. The news has no direct impact on the US stock market, but it may have implications for oil prices and the energy sector.",
-      "impact": "The news may lead to increased volatility in oil prices, which could positively impact energy companies such as ExxonMobil (XOM) and Chevron (CVX) in the short term. However, the medium-term impact is uncertain, as the outcome of the negotiations is still unclear. The news may also lead to increased tensions in the Middle East, which could negatively impact the US dollar and positively impact gold prices, benefiting companies such as Newmont Goldcorp (NEM).",
-      "risks": []
     }
   }
 ]
