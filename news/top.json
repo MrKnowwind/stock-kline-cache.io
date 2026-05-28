@@ -1,8 +1,8 @@
 [
   {
     "id": "7988187",
-    "headline": "The US-Iran ceasefire is unravelling - Reuters",
-    "summary": "The US-Iran ceasefire is unravelling  Reuters",
+    "headline": "Morning Bid: The US-Iran ceasefire is unravelling - Reuters",
+    "summary": "Morning Bid: The US-Iran ceasefire is unravelling  Reuters",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sd29STjJKTTBfWEN4NXUwdjI2YmVYOTJEVU16QzlfWWlhNDY5dVd5SlJuTk5wTEh0d1BoSjFadzRTd0I0V3daeGVJZjh0c1d1cTNFUkV1UmpwUWRtN056c1ZSNFBzS0Z1eDR5RWFTNWdsT3UwVm52SU5zNjdSbHc?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -85,8 +85,8 @@
   },
   {
     "id": "7988067",
-    "headline": "Gold hits two-month low as US-Iran tension stokes inflation fears - Reuters",
-    "summary": "Gold hits two-month low as US-Iran tension stokes inflation fears  Reuters",
+    "headline": "Gold hits two-month low as US-Iran tension stokes inflation and rate hike fears - Reuters",
+    "summary": "Gold hits two-month low as US-Iran tension stokes inflation and rate hike fears  Reuters",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGk4TXB1amNOZ3NwU3NjcWFXUkZVMk93OUtMX0xSZWVvWE9aMDEyUkFEa1k1WWlIdkFfd0hYNUlReEtuMnhmQnViX2ZZVFdDMUdlZzBvT2VXTVVhQzhqY25YNXhYa3gtbnRQWXBmd1dKT1kwYWZOdnRUd2lJTHkwMUQ2X2dnRTVLNDFhbno1dVNBcWZwd3RiODNORnEzMU1OSTV2cFYxYVlUTXQxNWNN?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -104,13 +104,26 @@
   },
   {
     "id": "7987759",
-    "headline": "Dollar firms to one-week high as Gulf tensions flare, yen nears intervention zone - Reuters",
-    "summary": "Dollar firms to one-week high as Gulf tensions flare, yen nears intervention zone  Reuters",
+    "headline": "Dollar edges up with Iran conflict, US rate outlook in focus - Reuters",
+    "summary": "Dollar edges up with Iran conflict, US rate outlook in focus  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNblF0TDBZLW5ybzdYaUR3aGdiQ2J2NVVRQi1oYXh5aG5mdHBVUlZZNWpsWlk0UXVJcW1jT0NuajE5b21LbnZ0Q2tEUll2TEZ5LW96eThIdWlLUlBHb05HNVBtMkVTeURaZFpTYXhZdkttUkZEeFhVcm9fdGNPWDNvMW95ak9pNVRRVlE0Z0tQWkVGTTNrcGxBZ3k5Y2paNXJ2bE1NN0Exb2ttSlJXQkFqZ0NaaFpoRHZYU0pZaGxnZEdEMzg?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1779932220
+    "publishedAt": 1779932220,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1779961376,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The US dollar has strengthened against major currencies due to the escalating tensions with Iran, which has increased uncertainty and risk aversion among investors. The Federal Reserve's interest rate outlook is also a key factor, as investors await the central bank's decision on future rate hikes. The dollar's strength is likely driven by the safe-haven demand, as investors seek refuge in the US currency during times of global uncertainty. The article does not mention any specific stocks, but the US dollar's strength can have implications for companies with significant foreign exposure or those that rely on international trade.",
+      "impact": "The dollar's strength may negatively impact US multinational companies with significant foreign revenue exposure, particularly those in the technology and consumer goods sectors. This could lead to a decline in earnings and revenue growth, as a stronger dollar reduces the value of foreign-denominated revenue. On the other hand, US-based companies with a high percentage of domestic sales may benefit from the stronger dollar, as it reduces their costs and increases their competitiveness in the global market. The medium-term impact will depend on the Fed's interest rate decisions and the overall economic outlook.",
+      "risks": [
+        "currency volatility risk",
+        "interest rate hike risk",
+        "economic slowdown risk"
+      ]
+    }
   },
   {
     "id": "7988068",
@@ -120,7 +133,16 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1779932100
+    "publishedAt": 1779932100,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1779961420,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Tensions in the Gulf region have escalated, leading to a surge in oil prices. The conflict has resulted in a decline in global stock markets, with shares faltering across various sectors. The situation is likely to impact the oil and energy industry, potentially affecting companies involved in oil production, refining, and distribution. The escalation of hostilities in the region may lead to increased volatility in the global energy market.",
+      "impact": "The potential impact on the related stocks is bearish, particularly for companies in the oil and energy sector. In the short-term, oil prices may continue to rise, benefiting oil producers and energy companies. However, this may lead to increased costs for consumers and potentially weigh on the earnings outlook for companies in the consumer staples and industrials sectors. Medium-term, the conflict may lead to a re-evaluation of global energy security, potentially benefiting companies involved in renewable energy and energy efficiency.",
+      "risks": []
+    }
   },
   {
     "id": "7987861",
@@ -130,17 +152,43 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1779928200
+    "publishedAt": 1779928200,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1779961466,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "A US military strike in the eastern Pacific has resulted in the deaths of two men. The incident occurred in international waters, and the US military has confirmed the strike. The news does not appear to have any direct connection to the business fundamentals of any publicly traded companies. The event is a one-off incident and does not have any clear implications for the broader market or industry.",
+      "impact": "The news is unlikely to have a significant impact on the stock market in the short-term, as it is a one-off incident with no clear connection to any specific industry or company. However, a rise in global tensions could potentially lead to increased military spending, which could have a positive impact on defense contractors in the medium-term. This is purely speculative and would depend on various factors, including the specific companies involved and the extent of the increased spending.",
+      "risks": [
+        "increased military spending risk",
+        "global tensions risk",
+        "geopolitical instability risk"
+      ]
+    }
   },
   {
     "id": "7987236",
-    "headline": "Oil surges after Iran targets US airbase in retaliation - Reuters",
-    "summary": "Oil surges after Iran targets US airbase in retaliation  Reuters",
+    "headline": "Oil surges after Iran and US trade air strikes - Reuters",
+    "summary": "Oil surges after Iran and US trade air strikes  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaHB5YkltTDFSMnhnMmJiMDllejdmMkU4bXFxVDhhWHd5RnpyT3dydGZZQkpMUTdTeUZqWDlnUXdHbGE4YjIxU0FjQ3c0TG40X2t5YVlRaFJqbm9kLW5GTVB0eUFZZmFKQ0swXzFNU2xRVlJEaTZsekI3SG1JYTlJYUVRSGMyTTdxYkdobTBZZER0bGpnUi1YVTBqX2ZYNmlVQWc?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1779924840
+    "publishedAt": 1779924840,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1779961514,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Oil prices surged after reports of air strikes between Iran and the US, escalating tensions in the Middle East. The conflict has raised concerns about the potential disruption to oil supplies, particularly from Iran, which is one of the world's largest oil producers. The US has imposed sanctions on Iran, and the country has threatened to close the Strait of Hormuz, a critical oil shipping route. The escalation of tensions has led to a surge in oil prices, with Brent crude rising by over 4% and WTI crude by over 3%. The increase in oil prices is likely to benefit oil-producing companies and potentially lead to higher earnings for these companies.",
+      "impact": "The short-term impact of the conflict on oil prices is likely to be positive for oil-producing companies, with companies such as ExxonMobil, Chevron, and Royal Dutch Shell potentially benefiting from higher oil prices. The medium-term impact will depend on the duration and intensity of the conflict, but a prolonged escalation could lead to higher oil prices and increased earnings for oil-producing companies. The conflict also highlights the ongoing risks associated with oil production in the Middle East, which could impact investor sentiment and valuation multiples for oil-producing companies.",
+      "risks": [
+        "Escalation of conflict risk",
+        "Supply chain disruption risk",
+        "Geopolitical risk"
+      ]
+    }
   },
   {
     "id": "7987022",
@@ -676,7 +724,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1779876566
+    "publishedAt": 1779876566,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1779961566,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "India's rice exports have declined due to the ongoing war in Iran, which has curbed basmati shipments to the Gulf region. Basmati rice is a significant export commodity for India, and the decline in exports is expected to impact the country's rice industry. The war in Iran has disrupted trade routes and led to a decrease in demand for Indian basmati rice in the region. This development is likely to affect the earnings of Indian rice exporters and the overall rice industry in the country.",
+      "impact": "The decline in rice exports is expected to have a negative impact on the earnings of Indian rice exporters, particularly those that rely heavily on basmati rice shipments to the Gulf region. This could lead to a decline in their stock prices in the short term as investors reassess their valuation multiples. In the medium term, the decline in exports could also impact the overall rice industry in India, potentially leading to a decrease in production and further affecting the earnings of rice exporters. The decline in demand for basmati rice in the Gulf region could also have a negative impact on the Indian rupee, potentially leading to a decline in the currency's value.",
+      "risks": [
+        "decline in demand risk",
+        "supply chain disruption risk",
+        "currency devaluation risk"
+      ]
+    }
   },
   {
     "id": "7984081",
@@ -770,6 +831,16 @@
         "Increased volatility risk"
       ]
     }
+  },
+  {
+    "id": "7988696",
+    "headline": "Fed's Logan: world may need to cut use of oil and natural gas - Reuters",
+    "summary": "Fed's Logan: world may need to cut use of oil and natural gas  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUzNveVVkSGxrSUlKaENqVlh5b0MzWFBwblpvUnczckJ2NGJZeTJldDB4TjZHeXlDSzZBZVRMeXFNVUVVS1JJRVE2MWQ0NmFWLWY0WU95TVM5OHY3Rkh1Q25lTnFyX0lWaG9ZMjlGU043T1RKdXlIVXp0MmFkMlZzZ2JoMnRZNm9Vb1VrSDctZ2tuRFNaS0wtVlZydTNDY0hIczlr?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1779869389
   },
   {
     "id": "7984300",
@@ -1052,6 +1123,29 @@
         "Uncertainty around the deal's terms and its impact on operational efficiency",
         "Potential for increased labor costs and reduced profit margins",
         "Risk of future labor disputes if the deal's terms are not met"
+      ]
+    }
+  },
+  {
+    "id": "7977900",
+    "headline": "S&P 500, Nasdaq nab record closing highs, WTI crude falls on hopes for Iran peace deal - Reuters",
+    "summary": "S&P 500, Nasdaq nab record closing highs, WTI crude falls on hopes for Iran peace deal  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLUdJaVVrejdzRGFrQTZTY0JUUzY5SEVJUzR5WWJpYjJBdEJHenRtTzJ5dEd0Rkd2SGhrTk1qQ3o5MGhOb3dVSlZSd2gwNVFZV2hCS2VCWkFoUlA2WV8xTEhKbEpyVVhxWnNCMl85dllubTQzU2kwM0Q0WDlKek5YZUE4UQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1779844921,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1779849235,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The S&P 500 and Nasdaq have reached record closing highs due to a combination of factors, including hopes for a peace deal in Iran, which has led to a decline in WTI crude oil prices. This development is seen as a positive for the US economy and the overall market, as lower oil prices can boost consumer spending and economic growth. The peace deal, if successful, could also lead to increased investment and trade in the region, further supporting the market. However, the impact of the deal on oil prices and the global economy is still uncertain and may be subject to various risks and challenges.",
+      "impact": "The record highs in the S&P 500 and Nasdaq are likely to have a positive impact on the overall market sentiment, potentially leading to increased investor confidence and liquidity. This could result in higher stock prices and increased trading volumes in the short term. In the medium term, a successful peace deal in Iran could lead to increased investment and trade in the region, supporting the market and potentially driving growth in related industries such as energy and transportation.",
+      "risks": [
+        "Risk of a sudden increase in oil prices if the peace deal fails or is delayed",
+        "Uncertainty around the impact of the deal on global economic growth and trade",
+        "Potential risks associated with increased investment and trade in the region"
       ]
     }
   },
@@ -2161,29 +2255,6 @@
         "Decrease in investor sentiment",
         "Decline in earnings for companies with high valuations",
         "Negative impact on oil-producing companies"
-      ]
-    }
-  },
-  {
-    "id": "7977900",
-    "headline": "S&P 500, Nasdaq nab record closing highs, WTI crude falls on hopes for Iran peace deal - Reuters",
-    "summary": "S&P 500, Nasdaq nab record closing highs, WTI crude falls on hopes for Iran peace deal  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLUdJaVVrejdzRGFrQTZTY0JUUzY5SEVJUzR5WWJpYjJBdEJHenRtTzJ5dEd0Rkd2SGhrTk1qQ3o5MGhOb3dVSlZSd2gwNVFZV2hCS2VCWkFoUlA2WV8xTEhKbEpyVVhxWnNCMl85dllubTQzU2kwM0Q0WDlKek5YZUE4UQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1779758100,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1779849235,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The S&P 500 and Nasdaq have reached record closing highs due to a combination of factors, including hopes for a peace deal in Iran, which has led to a decline in WTI crude oil prices. This development is seen as a positive for the US economy and the overall market, as lower oil prices can boost consumer spending and economic growth. The peace deal, if successful, could also lead to increased investment and trade in the region, further supporting the market. However, the impact of the deal on oil prices and the global economy is still uncertain and may be subject to various risks and challenges.",
-      "impact": "The record highs in the S&P 500 and Nasdaq are likely to have a positive impact on the overall market sentiment, potentially leading to increased investor confidence and liquidity. This could result in higher stock prices and increased trading volumes in the short term. In the medium term, a successful peace deal in Iran could lead to increased investment and trade in the region, supporting the market and potentially driving growth in related industries such as energy and transportation.",
-      "risks": [
-        "Risk of a sudden increase in oil prices if the peace deal fails or is delayed",
-        "Uncertainty around the impact of the deal on global economic growth and trade",
-        "Potential risks associated with increased investment and trade in the region"
       ]
     }
   },
@@ -21312,29 +21383,6 @@
         "US-Iran tensions",
         "investor confidence risk",
         "economic growth slowdown risk"
-      ]
-    }
-  },
-  {
-    "id": "7888445",
-    "headline": "Fewer features, more value: Why some Americans are buying simpler cars",
-    "summary": "Cloth seats, manual controls and analog gauges are back as buyers look for cars with sticker prices closer to $30,000.",
-    "url": "https://www.cnbc.com/2026/05/03/why-some-americans-are-buying-simpler-cars.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108294883-1776799121651-gettyimages-121526212-ky350063.jpeg?v=1776799191&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1777813201,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1777816949,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The article reports a shift in consumer behavior in the US automotive market, where buyers are increasingly opting for simpler, more basic vehicles with lower price points. This trend is driven by consumers' desire for value, as average new vehicle prices near $50,000 push buyers to reconsider their needs. Automakers are seeing rising sales of lower-cost models and base trims, with examples including the Ford Maverick and Nissan Versa. This shift in demand is likely driven by consumers' growing awareness of the costs associated with advanced features and technology, as well as a desire for more affordable options.",
-      "impact": "The trend towards simpler, more basic vehicles is likely to have a positive impact on automakers that have been prioritizing higher-priced models, such as Ford and Nissan. This could lead to a short-term boost in sales and revenue for these companies, as well as a potential reevaluation of their product offerings to better meet consumer demand. In the medium term, this trend could also lead to increased competition in the lower-end market, potentially driving prices down and affecting profit margins.",
-      "risks": [
-        "Increased competition in the lower-end market could drive prices down and affect profit margins",
-        "Automakers may struggle to adapt to the shift in consumer demand, potentially leading to inventory buildup and decreased sales",
-        "The trend may be driven by a temporary shift in consumer behavior, potentially reversing in the face of economic uncertainty or changes in consumer preferences"
       ]
     }
   }
