@@ -1,5 +1,47 @@
 [
   {
+    "id": "7999579",
+    "headline": "Will Gen Z be the generation to revive moviegoing?",
+    "summary": "Gen Zers like affordable, social experiences and are driving demand for anime and video game titles at the theaters.",
+    "url": "https://www.cnbc.com/2026/05/30/gen-z-movie-theaters.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108257722-1769536376654-gettyimages-2218632851-dsc8364.jpeg?v=1769536439&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1780142401,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780145413,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Gen Z's affinity for moviegoing is driving box office growth, with this demographic attending more films per year than some older generations. Gen Z's preference for social experiences and affordable entertainment options is boosting demand for movie theaters, particularly for anime and video game titles. This trend is expected to continue, with studios and movie theaters taking note of Gen Z's growing importance. As a result, movie theaters are introducing loyalty programs to reward Gen Z's loyalty and encourage repeat business.",
+      "impact": "The news is positive for movie theater stocks, with AMC, Regal, and Cinemark potentially benefiting from increased attendance and loyalty programs. This could lead to higher earnings in the short term, as well as increased valuations as investors become more optimistic about the industry's prospects. In the medium term, movie theaters may invest in more targeted marketing and programming to cater to Gen Z's preferences, further driving growth.",
+      "risks": []
+    }
+  },
+  {
+    "id": "7999581",
+    "headline": "Investors and labels are buying into the growing South Asian music business in the U.S.",
+    "summary": "Warner Music Group, the third-largest music label by market share, is tapping into the South Asian music movement with its latest venture, 5 Junction.",
+    "url": "https://www.cnbc.com/2026/05/30/south-asian-music-warner-records-5-junction.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108312177-1779827960655-gettyimages-2246982102-NUP_209355_04150JPG.jpeg?v=1780067612&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1780142401,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780145462,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Warner Music Group is launching 5 Junction, a joint label with Anjula Acharia, to tap into the growing South Asian music market in the U.S. The market has remained untapped, but with the success of K-pop and Latin acts, South Asian talent is gaining traction. Global music revenues are reaching all-time highs, and South Asia's growing population and diaspora are expected to drive growth. This trend is expected to benefit Warner Music Group, as it is the third-largest music label in the U.S. and has a strong presence in the market.",
+      "impact": "The launch of 5 Junction and the growing popularity of South Asian music in the U.S. are likely to drive growth for Warner Music Group in the medium term. This could lead to an increase in earnings and valuation for the company. Additionally, the trend of global music becoming more diverse and the growing demand for South Asian music are likely to benefit the music industry as a whole, leading to increased liquidity and sentiment for related stocks.",
+      "risks": [
+        "Competition from other labels and artists in the South Asian market",
+        "Risk of oversaturation and decreased demand for South Asian music",
+        "Dependence on the success of specific artists and their fan bases"
+      ]
+    }
+  },
+  {
     "id": "7998158",
     "headline": "Pentagon chief says U.S. ready to restart strikes on Iran if no deal - Reuters",
     "summary": "Pentagon chief says U.S. ready to restart strikes on Iran if no deal  Reuters",
@@ -821,29 +863,6 @@
     }
   },
   {
-    "id": "7990906",
-    "headline": "Exclusive: US military personnel are being targeted using location data, Pentagon letter shows - Reuters",
-    "summary": "Exclusive: US military personnel are being targeted using location data, Pentagon letter shows  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRUthTC1fN0hRZlV1aHB5UHo3TlBpWWw5V0NBNUF5dEE1ZkFHZm9FS3lJSzZpWExYVUhRQmxoV2o0WENvbUZ6d0pHb0s1cDJiREtzREk4M1RpYlBaem1pTFpzNXJ6ejltNFhoYTgwQWI5MGtwLXpDelhrWm1VNlFNUVdJbnRJVms5RzhJUks1a3pCM2loSVc5Vk84ejJnOVpLZW9JcFZ6ODd1VFJWTFQtNVR1SHFIWnFXZGFCZEUyTWM1NjNkMno5TTI5M2VIUm90a2x6ZHJ3?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1780013737,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1780018582,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "A Reuters exclusive report reveals that US military personnel are being targeted using location data, as shown in a Pentagon letter. The report highlights a potential security breach, where hackers are exploiting vulnerabilities in location data to target military personnel. This raises concerns about the safety and security of military personnel. The incident is not directly related to any specific company or industry, but it may have broader implications for the technology sector, particularly for companies involved in location data collection and security.",
-      "impact": "The news may lead to increased scrutiny of companies involved in location data collection and security, potentially resulting in regulatory actions or reputational damage. This could negatively impact the stock prices of companies like Palantir Technologies (PLTR) and other tech firms that provide location data services to government agencies. In the short term, investors may be cautious about investing in these companies, leading to a decline in stock prices. However, in the medium term, companies that can demonstrate robust security measures and compliance with regulations may see their stock prices recover as investors regain confidence.",
-      "risks": [
-        "Regulatory scrutiny and potential fines",
-        "Reputational damage and loss of business",
-        "Increased cybersecurity costs and investment"
-      ]
-    }
-  },
-  {
     "id": "7991871",
     "headline": "US military denies claim US aircraft downed near Iran's Bushehr - Reuters",
     "summary": "US military denies claim US aircraft downed near Iran's Bushehr  Reuters",
@@ -1573,6 +1592,29 @@
         "global economic uncertainty",
         "sanctions risk",
         "trade disruption risk"
+      ]
+    }
+  },
+  {
+    "id": "7990906",
+    "headline": "Exclusive: US military personnel are being targeted using location data, Pentagon letter shows - Reuters",
+    "summary": "Exclusive: US military personnel are being targeted using location data, Pentagon letter shows  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRUthTC1fN0hRZlV1aHB5UHo3TlBpWWw5V0NBNUF5dEE1ZkFHZm9FS3lJSzZpWExYVUhRQmxoV2o0WENvbUZ6d0pHb0s1cDJiREtzREk4M1RpYlBaem1pTFpzNXJ6ejltNFhoYTgwQWI5MGtwLXpDelhrWm1VNlFNUVdJbnRJVms5RzhJUks1a3pCM2loSVc5Vk84ejJnOVpLZW9JcFZ6ODd1VFJWTFQtNVR1SHFIWnFXZGFCZEUyTWM1NjNkMno5TTI5M2VIUm90a2x6ZHJ3?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1779962460,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780018582,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "A Reuters exclusive report reveals that US military personnel are being targeted using location data, as shown in a Pentagon letter. The report highlights a potential security breach, where hackers are exploiting vulnerabilities in location data to target military personnel. This raises concerns about the safety and security of military personnel. The incident is not directly related to any specific company or industry, but it may have broader implications for the technology sector, particularly for companies involved in location data collection and security.",
+      "impact": "The news may lead to increased scrutiny of companies involved in location data collection and security, potentially resulting in regulatory actions or reputational damage. This could negatively impact the stock prices of companies like Palantir Technologies (PLTR) and other tech firms that provide location data services to government agencies. In the short term, investors may be cautious about investing in these companies, leading to a decline in stock prices. However, in the medium term, companies that can demonstrate robust security measures and compliance with regulations may see their stock prices recover as investors regain confidence.",
+      "risks": [
+        "Regulatory scrutiny and potential fines",
+        "Reputational damage and loss of business",
+        "Increased cybersecurity costs and investment"
       ]
     }
   },
@@ -3130,7 +3172,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1779842040
+    "publishedAt": 1779842040,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780145522,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Former Attorney General Pam Bondi has been appointed to the White House AI panel by President Trump. The panel is focused on AI development and regulation. This appointment is seen as a move to further develop the US government's stance on AI. The appointment does not directly relate to any specific company or industry, but may have implications for the tech sector as a whole. The White House AI panel is expected to explore the development and regulation of AI technologies.",
+      "impact": "This news is unlikely to have a significant impact on the stock market in the short term, but may lead to increased focus on AI-related stocks in the medium term. Companies with significant AI development and research efforts, such as Alphabet (GOOGL) and Microsoft (MSFT), may see increased investor interest and potentially higher valuations. However, this appointment does not provide any new information on the companies' financials or operations, and may not lead to any immediate changes in earnings outlook or liquidity.",
+      "risks": [
+        "Regulatory uncertainty risk",
+        "Increased competition risk in the AI sector",
+        "Potential for increased scrutiny of AI development and deployment"
+      ]
+    }
   },
   {
     "id": "7978411",
@@ -3186,7 +3241,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1779832423
+    "publishedAt": 1779832423,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780145581,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The UN Security Council has condemned an attack on a nuclear plant in the UAE, which could lead to increased tensions in the region. The attack highlights the ongoing geopolitical risks in the Middle East, particularly for companies operating in the region. The incident may also raise concerns about the safety and security of nuclear facilities, potentially impacting the UAE's nuclear energy industry. The UAE's nuclear energy sector is a key component of the country's energy mix, and any disruptions could have significant implications for the country's energy production and exports.",
+      "impact": "The attack on the UAE nuclear plant may lead to a short-term increase in risk aversion among investors, potentially weighing on the UAE's stock market. In the medium term, the incident could lead to increased costs and regulatory scrutiny for companies operating in the region, potentially impacting their earnings outlook. The attack may also lead to a reassessment of the safety and security of nuclear facilities, potentially impacting the UAE's nuclear energy industry and the companies that operate within it.",
+      "risks": [
+        "Increased regulatory scrutiny and costs for companies operating in the region",
+        "Reassessment of the safety and security of nuclear facilities",
+        "Potential disruption to the UAE's nuclear energy industry"
+      ]
+    }
   },
   {
     "id": "7981501",
@@ -3515,7 +3583,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1779815640
+    "publishedAt": 1779815640,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780145637,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The annual hajj pilgrimage in Mecca has drawn millions of Muslims from around the world. The event is a significant cultural and religious occasion, with pilgrims performing rituals and ceremonies in the holy city. The pilgrimage is a major logistical undertaking, with Saudi Arabia investing heavily in infrastructure and services to accommodate the large number of visitors. The event is expected to boost the local economy, particularly in the tourism and hospitality sectors. The hajj pilgrimage is a significant cultural and religious event that has little direct impact on the business fundamentals of most companies, but it may have some indirect effects on companies operating in the tourism and hospitality sectors.",
+      "impact": "The hajj pilgrimage is unlikely to have a significant impact on the stock market in the short term, but it may have some medium-term effects on companies operating in the tourism and hospitality sectors. Companies such as Saudi Airlines, hotel chains, and travel agencies may see an increase in demand and revenue due to the influx of pilgrims. However, the impact may be limited to the local market and may not have a significant effect on the global economy or the stock market as a whole.",
+      "risks": [
+        "demand slowdown risk",
+        "economic uncertainty risk",
+        "geopolitical risk"
+      ]
+    }
   },
   {
     "id": "7980878",
@@ -21535,52 +21616,6 @@
       "summary": "Pfizer's Q1 earnings and revenue beat expectations, driven by growth from newer products and acquisitions. The company reaffirmed its 2026 outlook, indicating a positive trajectory. Pfizer is focusing on its pipeline, including the recent Metsera acquisition, to offset declining Covid sales and older drug revenue. The company is also awaiting crucial data releases this year, including a lung cancer trial. This strategy positions Pfizer for long-term growth and stability.",
       "impact": "The news is likely to have a positive short-term impact on Pfizer's stock price, driven by the earnings beat and reaffirmed outlook. Medium-term, the company's focus on newer products and acquisitions could lead to increased investor confidence and valuation. The company's ability to offset declining Covid sales and older drug revenue is a key driver of this sentiment. Additionally, Pfizer's pipeline and upcoming data releases will be closely watched by investors, potentially influencing the stock's performance.",
       "risks": []
-    }
-  },
-  {
-    "id": "7897132",
-    "headline": "Asia battles rising, uneven toll of energy crisis caused by Iran war - Reuters",
-    "summary": "Asia battles rising, uneven toll of energy crisis caused by Iran war  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaTVmYjdyQ1lEUGsya0U0R0JXdDNlZFRJeks1M1JkZDNHaTdRVkc2RHh0eXdlSFpsbVducndkcFBJb2ExSGNqZmF1a0tFTnFQNlFaYzBzUXpEcnNXXy15MzlxLU9LdXRPWWhhOUhST24wUElwb0JQcFpsWmJ4TTQ2Q2tQajR3eENaUDlvR2NTcTJjazE5LW4wSU5QVnVaSWE5THc4S3M4Y0V5NzhlbU9lUmFVSkpmeUU?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1777977564,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1777973595,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The ongoing Iran war is causing an uneven toll on Asia, leading to a rising energy crisis. The conflict has disrupted global oil supplies, resulting in increased prices and shortages. This has a significant impact on Asian economies, which are heavily reliant on oil imports. The uneven toll of the crisis is exacerbating inflation and supply chain disruptions, further straining regional economies. The situation is expected to continue, with potential long-term consequences for the energy industry and related sectors.",
-      "impact": "The energy crisis caused by the Iran war is likely to have a negative impact on energy-related stocks in the short-term, with potential price volatility and earnings pressure. In the medium-term, the crisis may lead to increased investment in renewable energy sources, benefiting companies in the clean energy sector. However, the current uncertainty and supply chain disruptions may also lead to increased costs and reduced profitability for companies with significant exposure to the energy sector.",
-      "risks": [
-        "Supply chain disruption risk",
-        "Inflation risk",
-        "Increased costs risk"
-      ]
-    }
-  },
-  {
-    "id": "7902819",
-    "headline": "India is said to plan new platform for bond derivative trades",
-    "summary": "Bond forwards are widely used by Indian insurers to hedge interest-rate risk. Banks typically sell the contracts, agreeing to deliver securities at a fixed price on a future date",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-05/india-is-said-to-plan-new-platform-for-bond-derivative-trades",
-    "source": "Bloomberg",
-    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
-    "relatedSymbols": [],
-    "publishedAt": 1777977218,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778070111,
-      "sentiment": "bullish",
-      "confidence": 0.7,
-      "summary": "India is planning to launch a new platform for bond derivative trades, which will provide a more efficient and transparent way for banks to sell bond forwards to insurers. Bond forwards are widely used by Indian insurers to hedge interest-rate risk. The new platform will reduce the complexity and cost of these trades, making it easier for banks to sell these contracts. This development is a positive for the banking sector, particularly for banks that are major players in the bond forwards market.",
-      "impact": "The launch of the new platform is likely to benefit banks such as State Bank of India and ICICI Bank, which are major players in the bond forwards market. The increased efficiency and transparency of the platform will reduce the cost of selling bond forwards, leading to higher profit margins for these banks. In the short-term, we expect the stocks of these banks to see an upward momentum as investors become aware of this development. In the medium-term, the increased use of bond forwards will lead to higher earnings for these banks, driving their stock prices higher.",
-      "risks": [
-        "Regulatory approval risk: The new platform may face delays or hurdles in getting regulatory approval, which could impact its launch timeline.",
-        "Integration risk: The successful integration of the new platform with existing systems and processes is crucial, and any integration issues could lead to technical glitches and operational disruptions.",
-        "Market demand risk: The demand for bond forwards may not be as high as expected, which could reduce the usage of the new platform and impact its effectiveness."
-      ]
     }
   }
 ]
