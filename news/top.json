@@ -1,13 +1,59 @@
 [
   {
+    "id": "8004741",
+    "headline": "Here are the 4 big things we're watching in the stock market in the week ahead",
+    "summary": "Earnings from CrowdStrike, Palo Alto Networks and Broadcom. Plus, jobs data, Computex and progress on spin-offs.",
+    "url": "https://www.cnbc.com/2026/05/31/here-are-the-4-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/106932258-1629806965316-gettyimages-1234838086-bsnf_container_006.jpeg?v=1663323053&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1780236053,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780239959,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "Earnings season is not over yet, with CrowdStrike, Palo Alto Networks, and Broadcom set to report their quarterly results this week. The market has recently come around to the view that AI is a tailwind for cybersecurity providers, leading to a remarkable comeback for these stocks. However, with both companies trading at all-time highs, the bar for earnings is elevated, and a beat on reported numbers is the minimum required. Management's near-term outlook and commentary on demand for cybersecurity will be crucial to assure investors that the trend is sustainable.",
+      "impact": "The earnings reports from CrowdStrike, Palo Alto Networks, and Broadcom will likely have a significant impact on the stocks' prices, with a focus on AI-related revenues and management's guidance. A beat on earnings and positive commentary on demand will likely lead to short-term gains, while a miss or disappointing guidance could lead to a sell-off. The stocks' elevated valuations also make them more vulnerable to a correction if the earnings do not meet expectations.",
+      "risks": [
+        "Elevated valuation risk",
+        "Disappointing earnings risk",
+        "Guidance risk: management's outlook on demand for cybersecurity"
+      ]
+    }
+  },
+  {
+    "id": "8004636",
+    "headline": "In deeply red Oklahoma, minimum wage’s biggest 2026 election cycle fight is about to be decided",
+    "summary": "Oklahomans will soon vote on a measure to double the minimum wage, an election issue that may reflect the economic mood and inflation outlook across parties.",
+    "url": "https://www.cnbc.com/2026/05/31/oklahoma-minimum-wage-2026-election-vote-economy-inflation.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108314219-1780155905492-gettyimages-1084725258-929_14_voahd-78-830.jpeg?v=1780155914&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1780233318,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780240009,
+      "sentiment": "bullish",
+      "confidence": 0.7,
+      "summary": "Oklahoma is set to vote on a ballot measure to double the minimum wage, with the current minimum wage of $7.25 to be increased to $12 in 2027, $13.50 in 2028, and $15 in 2029. This move reflects the growing trend of minimum wage increases across US states, with 28 out of 32 measures passed since 1996. The measure is expected to benefit 357,700 Oklahoma workers, increasing their wages by over $783 million. The opposition from business groups and Governor Kevin Stitt is largely based on the added cost, but the initiative has gained traction among voters, with support from both parties.",
+      "impact": "A potential increase in the minimum wage in Oklahoma could lead to higher labor costs for businesses, which may negatively impact the earnings outlook for companies in the state. However, this could also lead to increased consumer spending and economic growth, benefiting industries such as retail and hospitality. The impact on stocks related to the state's economy, such as those in the energy and agriculture sectors, may be more pronounced due to the state's strong presence in these industries.",
+      "risks": [
+        "Increased labor costs risk for businesses in Oklahoma",
+        "Potential negative impact on earnings outlook for companies in the state",
+        "Uncertainty around the outcome of the ballot measure"
+      ]
+    }
+  },
+  {
     "id": "8003821",
-    "headline": "Israel troops capture Beaufort Castle in southern Lebanon push against Hezbollah - Reuters",
-    "summary": "Israel troops capture Beaufort Castle in southern Lebanon push against Hezbollah  Reuters",
+    "headline": "Netanyahu orders deeper Israeli incursion into Lebanon to hit Hezbollah - Reuters",
+    "summary": "Netanyahu orders deeper Israeli incursion into Lebanon to hit Hezbollah  Reuters",
     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ19uYndNRDdIVlVObEJCQjhHUnhNUTRqWTM3NFppenBsU01tWU5ILXU2ZHA3QmVHYllWU0ZQeU1nVzlITlhsUDlFTkJoU19OUXJPUFFyMDBYZ2l2a3EtSVo0YkFRQUF0bTlvOVJ3Vm40dHFGTUoyNm9ZTnlBQWltYXZxak1xLXdOQ29XR05ZNzd3cTF1MWtuZjZRZW14dWZlLWhEcHJfRzVMTlZTMVhhbHdsQ2I0S3hIY2NqdWZMUlZWNjJteVhRd19QVEpJVFBVMjdPd0NtRQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1780226029,
+    "publishedAt": 1780231649,
     "analysis": {
       "version": 2,
       "generatedAt": 1780226482,
@@ -314,6 +360,29 @@
         "Escalation of conflict and increased military spending",
         "Volatility and instability in the Middle East",
         "Supply chain disruptions and potential impact on oil and gas companies"
+      ]
+    }
+  },
+  {
+    "id": "8004536",
+    "headline": "Australia extends measure that releases petrol and diesel from domestic reserves - Reuters",
+    "summary": "Australia extends measure that releases petrol and diesel from domestic reserves  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeURrQlFoZ18yVkRlQ0taNEVWZFN6eHYxdWM1VWhRdW1oZk52ZTcwT3lxRVhkWUdFZF82MVE4bjQ5azF1Y09Gd2JObjNZWTlQamhvV0s5R1NJWWZKb2NEdk9oUzZLX3BCeGFxYkpCc3phTVhnZzd0S0Q2d1lLQlE5dzc5VjdrajVRMjktb3FZUkMteDYyWFpmQlhkOUI1QnpJX2tUYzVCMkxXY2o0cFBidTNFX1Z2MEdFZkZ2cnZsVXc?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1780107240,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780240066,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "Australia has extended a measure that releases petrol and diesel from domestic reserves, a move aimed at reducing fuel prices. The decision was made to help alleviate the impact of high fuel prices on the country's economy. The measure was initially introduced in September 2022 and has been extended until the end of March 2023. The government's move is expected to put downward pressure on fuel prices, benefiting consumers and businesses that rely on fuel. The action is a response to high global fuel prices, which have been driven by supply chain disruptions and geopolitical tensions.",
+      "impact": "The extension of the measure is likely to have a short-term positive impact on consumer spending and business operations, as lower fuel prices can lead to increased disposable income and reduced costs for companies. However, the medium-term impact on fuel companies and related stocks is uncertain, as the measure may lead to reduced profitability and lower earnings for these companies. The government's decision may also have a positive impact on the overall economy, as lower fuel prices can stimulate growth and increase consumer confidence. The move may also lead to increased competition among fuel retailers, potentially benefiting consumers in the long run.",
+      "risks": [
+        "reduced profitability for fuel companies",
+        "uncertainty around the duration and scope of the measure",
+        "potential increase in competition among fuel retailers"
       ]
     }
   },
@@ -1097,6 +1166,29 @@
     }
   },
   {
+    "id": "7979342",
+    "headline": "How far have the U.S. and Iran got towards ending the Iran war? - Reuters",
+    "summary": "How far have the U.S. and Iran got towards ending the Iran war?  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU0JJNi1CdXp2S1hIOXp2Z3hRQUprU2J4b0JtRF9aeFNOd0lwSnlCMkhQa3ZSbWJ0cHJCQWdzOEEybkRENGZFT0pIM2VWcjJVckFWZDNNLUpNUEhmNlZsUmFObExESzRyQ3FYSk53dGx6SUI1UUZoZ3VtcUh3QlJfMFhLa05sVzJS?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1780038000,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1779803116,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "The article discusses ongoing talks to end the Iran war, a conflict that has been ongoing for years. The negotiations involve multiple parties, including the US, Iran, and other countries. The talks aim to establish a framework for a peace agreement, but details are scarce. The war has had significant economic and humanitarian impacts on the region, including oil price fluctuations and human rights abuses. The article does not provide information on specific companies or industries, but the resolution of the conflict could have far-reaching implications for global energy markets and geopolitics.",
+      "impact": "The potential resolution of the Iran war could have a positive impact on oil prices, which could in turn benefit oil-producing companies. However, the short-term impact may be muted due to the complexity of the negotiations and the potential for setbacks. In the medium term, a peaceful resolution could lead to increased investment in the region and improved economic stability, benefiting companies with exposure to the Middle East.",
+      "risks": [
+        "Risk of negotiations failing and the conflict escalating",
+        "Uncertainty around the impact of a peace agreement on global oil prices",
+        "Potential for increased competition in the Middle East energy market"
+      ]
+    }
+  },
+  {
     "id": "7998360",
     "headline": "Waaree Energies said to hire banks for $700 million share sale",
     "summary": "The company has selected Motilal Oswal Investment Advisors Ltd, JPMorgan Chase & Co, Nuvama Wealth Management Ltd and Nomura Holdings Inc. to manage the offering",
@@ -1273,6 +1365,29 @@
     }
   },
   {
+    "id": "7991667",
+    "headline": "US imposes fresh sanctions on Iran's military oil sales, Treasury says - Reuters",
+    "summary": "US imposes fresh sanctions on Iran's military oil sales, Treasury says  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTGN5U0hILU5zdG9XalBqazFVZGtCQXZmTnY5SlZ3Y1g2d293c0tGaXM0QnpXUkRGNWxMclNJSl96YmFPYnNRd3V0aEhKSDd0eEtBcmlTX1B6VXNRZlNic0ZRMGF5dmtsU3RZdDczS1FTWFRCS2FnTEZfMkxZRnhENHVEMDh0N2VtYjl4WXhIUGV0RnVJNk80TGNBdm1xbTQzUG1pNmhySjcwVXAyNVYtSjVTaw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1780016008,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780004150,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The US Treasury has imposed fresh sanctions on Iran's military oil sales, targeting the country's ability to generate revenue from its oil exports. This move is a continuation of the US's efforts to pressure Iran's government and its military. The sanctions are likely to exacerbate the economic challenges faced by Iran, which has been struggling to cope with the impact of previous US sanctions. The US has been trying to reduce Iran's oil exports to zero, and this latest move is a step in that direction. The sanctions are expected to have a significant impact on Iran's economy, which is heavily reliant on oil exports.",
+      "impact": "The imposition of fresh sanctions on Iran's military oil sales is likely to have a negative impact on the global oil market, particularly on oil prices. This could lead to higher oil prices in the short-term, benefiting oil-producing countries and companies. However, the medium-term impact may be bearish for oil companies, as reduced oil exports from Iran could lead to a supply shortage and increased competition for remaining oil supplies. This could put pressure on oil company earnings and valuations.",
+      "risks": [
+        "Oil price volatility risk",
+        "Supply chain disruption risk",
+        "Economic instability in Iran risk"
+      ]
+    }
+  },
+  {
     "id": "7990906",
     "headline": "Exclusive: US military personnel are being targeted using location data, Pentagon letter shows - Reuters",
     "summary": "Exclusive: US military personnel are being targeted using location data, Pentagon letter shows  Reuters",
@@ -1426,29 +1541,6 @@
         "Increased oil prices due to supply chain disruptions",
         "Uncertainty in the global market leading to decreased investor confidence",
         "Decrease in consumer spending due to higher inflation"
-      ]
-    }
-  },
-  {
-    "id": "7991667",
-    "headline": "US imposes fresh sanctions on Iran's military oil sales, Treasury says - Reuters",
-    "summary": "US imposes fresh sanctions on Iran's military oil sales, Treasury says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTGN5U0hILU5zdG9XalBqazFVZGtCQXZmTnY5SlZ3Y1g2d293c0tGaXM0QnpXUkRGNWxMclNJSl96YmFPYnNRd3V0aEhKSDd0eEtBcmlTX1B6VXNRZlNic0ZRMGF5dmtsU3RZdDczS1FTWFRCS2FnTEZfMkxZRnhENHVEMDh0N2VtYjl4WXhIUGV0RnVJNk80TGNBdm1xbTQzUG1pNmhySjcwVXAyNVYtSjVTaw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1779999960,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1780004150,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The US Treasury has imposed fresh sanctions on Iran's military oil sales, targeting the country's ability to generate revenue from its oil exports. This move is a continuation of the US's efforts to pressure Iran's government and its military. The sanctions are likely to exacerbate the economic challenges faced by Iran, which has been struggling to cope with the impact of previous US sanctions. The US has been trying to reduce Iran's oil exports to zero, and this latest move is a step in that direction. The sanctions are expected to have a significant impact on Iran's economy, which is heavily reliant on oil exports.",
-      "impact": "The imposition of fresh sanctions on Iran's military oil sales is likely to have a negative impact on the global oil market, particularly on oil prices. This could lead to higher oil prices in the short-term, benefiting oil-producing countries and companies. However, the medium-term impact may be bearish for oil companies, as reduced oil exports from Iran could lead to a supply shortage and increased competition for remaining oil supplies. This could put pressure on oil company earnings and valuations.",
-      "risks": [
-        "Oil price volatility risk",
-        "Supply chain disruption risk",
-        "Economic instability in Iran risk"
       ]
     }
   },
@@ -4299,29 +4391,6 @@
     }
   },
   {
-    "id": "7979342",
-    "headline": "What's involved in talks to end the Iran war? - Reuters",
-    "summary": "What's involved in talks to end the Iran war?  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU0JJNi1CdXp2S1hIOXp2Z3hRQUprU2J4b0JtRF9aeFNOd0lwSnlCMkhQa3ZSbWJ0cHJCQWdzOEEybkRENGZFT0pIM2VWcjJVckFWZDNNLUpNUEhmNlZsUmFObExESzRyQ3FYSk53dGx6SUI1UUZoZ3VtcUh3QlJfMFhLa05sVzJS?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1779795614,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1779803116,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "The article discusses ongoing talks to end the Iran war, a conflict that has been ongoing for years. The negotiations involve multiple parties, including the US, Iran, and other countries. The talks aim to establish a framework for a peace agreement, but details are scarce. The war has had significant economic and humanitarian impacts on the region, including oil price fluctuations and human rights abuses. The article does not provide information on specific companies or industries, but the resolution of the conflict could have far-reaching implications for global energy markets and geopolitics.",
-      "impact": "The potential resolution of the Iran war could have a positive impact on oil prices, which could in turn benefit oil-producing companies. However, the short-term impact may be muted due to the complexity of the negotiations and the potential for setbacks. In the medium term, a peaceful resolution could lead to increased investment in the region and improved economic stability, benefiting companies with exposure to the Middle East.",
-      "risks": [
-        "Risk of negotiations failing and the conflict escalating",
-        "Uncertainty around the impact of a peace agreement on global oil prices",
-        "Potential for increased competition in the Middle East energy market"
-      ]
-    }
-  },
-  {
     "id": "7986599",
     "headline": "Sterling dips as hopes of imminent Iran peace deal fade - Reuters",
     "summary": "Sterling dips as hopes of imminent Iran peace deal fade  Reuters",
@@ -6625,7 +6694,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1779490794
+    "publishedAt": 1779490794,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780240113,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Rep. Tulsi Gabbard has resigned as the Director of the US Global Engagement Initiative, a position that reports to the Director of National Intelligence. The news is unrelated to the company's financials or industry performance. The resignation is a personnel change within the Trump administration, and its impact is limited to the US government's foreign policy and national security. The article does not provide any information about the reasons behind Gabbard's resignation.",
+      "impact": "The news is unlikely to have a direct impact on the US stock market or the companies in the defense and security sector. However, a change in leadership at the US intelligence agency may lead to a shift in policy priorities, which could potentially affect the defense and security industry in the medium term. Investors should monitor the situation for any developments that may indicate a change in the administration's stance on defense spending or foreign policy.",
+      "risks": [
+        "policy uncertainty risk",
+        "shift in defense spending priorities risk",
+        "potential changes in foreign policy risk"
+      ]
+    }
   },
   {
     "id": "7976781",
@@ -6635,7 +6717,16 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1779490552
+    "publishedAt": 1779490552,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780240164,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "A fire broke out at an oil terminal in Russia's Novorossiysk after falling drone debris caused the incident. The oil terminal is a critical infrastructure for the Russian oil industry, and any disruption to its operations can impact the country's oil production and exports. The incident highlights the growing concern over drone attacks on critical infrastructure in Russia, which could lead to increased costs and risks for oil companies operating in the region. The incident is not directly related to any specific company, but it may impact the overall sentiment towards the Russian oil industry and its stocks.",
+      "impact": "The incident may lead to a short-term increase in oil prices due to concerns over supply disruptions. In the medium term, the incident may lead to increased costs and risks for oil companies operating in Russia, potentially impacting their earnings outlook and valuation. The incident may also lead to a decrease in investor sentiment towards the Russian oil industry, potentially affecting the liquidity of related stocks. The incident highlights the growing concern over drone attacks on critical infrastructure in Russia, which could lead to increased costs and risks for oil companies operating in the region.",
+      "risks": []
+    }
   },
   {
     "id": "7974358",
@@ -22147,75 +22238,6 @@
         "industry-wide revenue slowdown risk",
         "increased competition risk",
         "potential consolidation or M&A risk"
-      ]
-    }
-  },
-  {
-    "id": "7899657",
-    "headline": "Iran sets up new mechanism to manage vessel transit through Hormuz - Reuters",
-    "summary": "Iran sets up new mechanism to manage vessel transit through Hormuz  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN0NSNjJhWU4zcy1MX25YN3hVT1J0QjBEa3pNWU5POU93NUZKUllNaUtaeXpfZjZZa3FQNnh2N0t5QVc0RnM3SmhwUl9HM0NmT0lRTktOdFFxVHV3ZDl3YU5FT2tmNlBSdWJZRVV2R0dpSGwyM1JYMEE3SEVRS19oNU1xQnEzZmkyZUFMSFF5MzJjQjRuSEtJT2piR2thSGpZVThUN2NIZFZoc3p5SWp3eFE0SEkybFBL?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778002932,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778017460,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Iran has established a new mechanism to manage vessel transit through the Strait of Hormuz, a critical waterway for global oil trade. The move aims to reduce tensions and ensure the safe passage of ships. The Strait of Hormuz is a key chokepoint for oil exports from the Middle East, with over 20% of global oil supplies passing through it. The new mechanism is expected to improve communication and coordination between Iran and other countries. The development is seen as a step towards de-escalating tensions in the region.",
-      "impact": "The news is unlikely to have a significant impact on oil prices in the short term, as the new mechanism is seen as a stabilizing factor. However, it may lead to increased investor confidence in the region, potentially benefiting companies involved in oil trade and shipping. In the medium term, the development could lead to improved earnings outlook for companies operating in the region, particularly those with exposure to oil trade. The news may also lead to a re-evaluation of the risks associated with shipping through the Strait of Hormuz, potentially impacting the valuations of companies involved in the industry.",
-      "risks": [
-        "escalation of tensions in the region",
-        "failure of the new mechanism to improve cooperation",
-        "unforeseen disruptions to oil trade"
-      ]
-    }
-  },
-  {
-    "id": "7900317",
-    "headline": "Marathon Petroleum profit beats estimates as Iran war boosts refining margins - Reuters",
-    "summary": "Marathon Petroleum profit beats estimates as Iran war boosts refining margins  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaTJNaDcyNFpURFppT0FIVXVsNFVtRkJWNkplT1NZWnpHeEx2T2h6TjVBUkdodC16MlJ1ODhZcTFlS29lcFN5eFVjLU1jb2R0T2lkUmRYbF9jRWl2alB2dkVRVmZ3TW82NFpyY01wRHFITDE5TnFDcnJQUDhtLV9ZdDZuS0lTeHM2cE1SWTlYZjBUYXFzTWhzYnFfS19aZm45ZVMzeTd0R3BMYjlEM3RnQkYzY2xPUXRyOEFDSGRCRjJkQ2dMcWRKbQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778001747,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778024126,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Marathon Petroleum's profit beat estimates due to higher refining margins driven by the Iran war, which has led to a surge in oil prices and increased demand for refined products. The company's refining business has benefited from this trend, resulting in improved profitability. This news is positive for the company's earnings outlook, particularly in the refining segment. The Iran war has created a supply-side shock, leading to higher oil prices and increased demand for refined products, which has positively impacted Marathon Petroleum's refining margins.",
-      "impact": "The news is likely to have a positive impact on Marathon Petroleum's stock price in the short term, driven by the improved refining margins and beat on earnings estimates. Investors may reevaluate their valuation of the company, potentially leading to a re-rating of the stock. The medium-term impact will depend on the duration of the Iran war and its impact on global oil prices and demand for refined products. The company's refining business is well-positioned to benefit from the current market conditions, but investors should monitor the potential risks associated with global economic uncertainty and changes in oil prices.",
-      "risks": [
-        "Potential escalation of the Iran war and its impact on global oil prices and demand for refined products",
-        "Global economic uncertainty and its impact on oil demand",
-        "Changes in oil prices and their impact on refining margins"
-      ]
-    }
-  },
-  {
-    "id": "7898234",
-    "headline": "Ceasefire with Iran is not over, Pentagon's Hegseth says - Reuters",
-    "summary": "Ceasefire with Iran is not over, Pentagon's Hegseth says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQ1RWYTVuZTRJS0VjZjRqdXR4aEJMc2pDTElIRFN4U1hXOFRsUFFKX1FyYWhIWkdhVFB3QjJMbnNjcmdDZzVISERFTjhXUEF5NlhkUklQdDUtTHF1dGNxbTd3Nkt0aVd6VVBORVV3TkhpZXdCZmdUYVNoY3FUMW5TV1FaZmNIRi14U1plMkxVTkc2aGNvS29hWVh2cWVVOXVUUUhnY2F4LUlOdnRYTW5UcllOLUx6T3JldGR2NW9HeUc0ZFlrWE5VbU85eFlkdw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778001605,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778000954,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Pentagon's Hegseth stated that the ceasefire with Iran is not over, indicating ongoing tensions in the region. This news may have implications for defense contractors and companies involved in the Middle East, as a prolonged conflict could lead to increased demand for their services. However, the US government's stance on Iran has been inconsistent in the past, making it difficult to predict the outcome. The ceasefire's status may impact the US defense budget and the earnings outlook for defense companies. The news does not directly affect the US economy or the overall market, but it may contribute to increased uncertainty and volatility in the short term.",
-      "impact": "The potential impact on defense stocks, such as Lockheed Martin (LMT) and Boeing (BA), could be significant if the ceasefire is indeed not over. A prolonged conflict may lead to increased demand for their services, potentially boosting their earnings and stock prices. However, the uncertainty surrounding the situation may also lead to increased volatility in the short term, making it challenging for investors to make informed decisions.",
-      "risks": [
-        "Increased conflict risk",
-        "Uncertainty in US government policy",
-        "Volatility in defense stocks"
       ]
     }
   }
