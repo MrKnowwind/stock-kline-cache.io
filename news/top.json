@@ -7,7 +7,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1780345356,
+    "publishedAt": 1780355966,
     "analysis": {
       "version": 2,
       "generatedAt": 1780331856,
@@ -23,14 +23,33 @@
     }
   },
   {
+    "id": "8011383",
+    "headline": "FedEx Freight CEO says the spinoff will help the company 'leapfrog' competitors",
+    "summary": "FedEx Freight CEO John Smith said the company's separation from FedEx will allow it to invest more aggressively in growth initiatives.",
+    "url": "https://www.cnbc.com/2026/06/01/fedex-freight-ceo-says-the-spinoff-will-help-the-company-leapfrog-competitors.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108314793-1780337957063-gettyimages-2278584352-US_STOCKS.jpeg?v=1780337979&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1780354132,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780358745,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "FedEx Freight CEO John Smith believes the company's spinoff from FedEx will enable it to invest more aggressively in growth initiatives, allowing it to leapfrog competitors in the less-than-truckload shipping market. As a standalone company, FedEx Freight plans to invest in customer-facing technology, expand its dedicated sales force, and improve profitability. This strategy aims to increase the company's operating margin to 15% by 2029, up from 12% currently. The spinoff is seen as a positive development for FedEx Freight, which has historically taken a backseat to its parent company FedEx.",
+      "impact": "The spinoff is likely to have a positive impact on FedEx Freight's stock price in the short to medium term, driven by the company's increased focus on growth initiatives and the potential for improved profitability. The company's ability to invest more aggressively in growth initiatives may also lead to increased earnings growth, which could positively impact the stock price. Additionally, the spinoff may attract investors who are looking for a pure-play on the less-than-truckload shipping market, potentially increasing liquidity and sentiment around the stock.",
+      "risks": []
+    }
+  },
+  {
     "id": "8007404",
-    "headline": "Trump holds calls with Israel, Hezbollah amid hopes Lebanon ceasefire can hold - Reuters",
-    "summary": "Trump holds calls with Israel, Hezbollah amid hopes Lebanon ceasefire can hold  Reuters",
+    "headline": "Lebanon announces partial ceasefire between Israel, Hezbollah but attacks continue - Reuters",
+    "summary": "Lebanon announces partial ceasefire between Israel, Hezbollah but attacks continue  Reuters",
     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYmZseGFNR05tMVJiV2tLRjdhdUFTUkwyT3pSdVFYdTJYWDdCZ0tRR2JNU002UEtMVHA1TXhabGhlUlMxUkIyOEh5dTNMR0dIQk1FQmxqUDRhcFZaREtrQkMyci1NS2lycENBOWtqbEpQVV9lX3FGOEJXU19ROEtaS0o0bTg0TGV5NGhtcGhORy12aUo4dzVxUlY2UElhZDFUalVqeWZmbUotQ21jQWxPeE5LZFM3WkNSZjE4bTR6MVhsTWFvRGpIMlpzeGpwTXZVby1Za2k5TQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1780342458,
+    "publishedAt": 1780349332,
     "analysis": {
       "version": 2,
       "generatedAt": 1780291885,
@@ -42,6 +61,29 @@
         "Increased conflict risk",
         "Higher oil prices",
         "Decline in investor sentiment"
+      ]
+    }
+  },
+  {
+    "id": "8010338",
+    "headline": "Lebanon crusader castle seized by Israel a symbol of bloody history - Reuters",
+    "summary": "Lebanon crusader castle seized by Israel a symbol of bloody history  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOd2laVWtfVDhQYzJIa3RPMVdpSWpVRy1pV1B1R3RUVFU4WUYwWmYtRk84SGkzVXNjdFFYY2dIeko5UzVneGtjUVVtMlJQY3c4WVZMbUJxREIxS2FudTZnUEF5UG1paVdta0JXWTdFbHJ5UGozZTBtTk1qYlNRMkNjWWhfT0tPNlF0RU96YW1kU1loNnl4Q1U2WEF2WUlQOW9fbktDRGx6eGZTaWhoV1NBd2NiWHRyZHc?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1780347581,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780346947,
+      "sentiment": "neutral",
+      "confidence": 0.5,
+      "summary": "The article reports on the seizure of a crusader castle in Lebanon by Israel, highlighting the historical significance of the event. The castle, a symbol of the country's bloody past, has been a point of contention between Israel and Lebanon. The incident is unlikely to have a direct impact on the business fundamentals of any specific company. However, it may contribute to increased tensions in the region, potentially affecting the overall economic and political stability of Lebanon.",
+      "impact": "The short-term impact on related stocks is likely to be minimal, as the event is largely a symbolic gesture with no direct economic implications. However, the medium-term effects may include a decline in investor sentiment towards companies operating in the region, potentially leading to a decrease in stock prices. The increased tensions may also lead to a decrease in tourism and economic activity in Lebanon, further impacting the local economy.",
+      "risks": [
+        "Decreased investor sentiment",
+        "Regional economic instability",
+        "Tourism decline"
       ]
     }
   },
@@ -88,29 +130,6 @@
         "Escalation of conflict risk",
         "Regional economic instability risk",
         "Global market volatility risk"
-      ]
-    }
-  },
-  {
-    "id": "8010338",
-    "headline": "Lebanon crusader castle seized by Israel a symbol of bloody history - Reuters",
-    "summary": "Lebanon crusader castle seized by Israel a symbol of bloody history  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOd2laVWtfVDhQYzJIa3RPMVdpSWpVRy1pV1B1R3RUVFU4WUYwWmYtRk84SGkzVXNjdFFYY2dIeko5UzVneGtjUVVtMlJQY3c4WVZMbUJxREIxS2FudTZnUEF5UG1paVdta0JXWTdFbHJ5UGozZTBtTk1qYlNRMkNjWWhfT0tPNlF0RU96YW1kU1loNnl4Q1U2WEF2WUlQOW9fbktDRGx6eGZTaWhoV1NBd2NiWHRyZHc?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1780341498,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1780346947,
-      "sentiment": "neutral",
-      "confidence": 0.5,
-      "summary": "The article reports on the seizure of a crusader castle in Lebanon by Israel, highlighting the historical significance of the event. The castle, a symbol of the country's bloody past, has been a point of contention between Israel and Lebanon. The incident is unlikely to have a direct impact on the business fundamentals of any specific company. However, it may contribute to increased tensions in the region, potentially affecting the overall economic and political stability of Lebanon.",
-      "impact": "The short-term impact on related stocks is likely to be minimal, as the event is largely a symbolic gesture with no direct economic implications. However, the medium-term effects may include a decline in investor sentiment towards companies operating in the region, potentially leading to a decrease in stock prices. The increased tensions may also lead to a decrease in tourism and economic activity in Lebanon, further impacting the local economy.",
-      "risks": [
-        "Decreased investor sentiment",
-        "Regional economic instability",
-        "Tourism decline"
       ]
     }
   },
@@ -283,7 +302,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1780330971
+    "publishedAt": 1780330971,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780358791,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "European shares have hit a one-week low due to escalating tensions in the Middle East. The region's instability is causing investors to become increasingly risk-averse, leading to a decline in market sentiment. This development is particularly concerning for companies with significant exposure to the region, as it may lead to decreased demand and revenue. The geopolitical uncertainty is also weighing on investor confidence, making it a challenging time for the market.",
+      "impact": "The potential impact on stocks could be significant, particularly for companies with operations in the Middle East or those with exposure to the region's oil and gas industry. In the short term, we expect a decline in earnings expectations and a decrease in stock prices due to the increased risk premium. In the medium term, the situation could lead to a slowdown in economic growth, affecting companies with high exposure to the region. This may also lead to a decrease in investor sentiment, making it more challenging for companies to raise capital.",
+      "risks": [
+        "Decreased demand risk",
+        "Geopolitical uncertainty risk",
+        "Economic growth slowdown risk"
+      ]
+    }
   },
   {
     "id": "8009892",
@@ -316,7 +348,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1780328984
+    "publishedAt": 1780328984,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780358840,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Iran is reportedly seeking a limited US deal to alleviate its economic strain, potentially buying time for the country to negotiate a more comprehensive agreement. This move comes as Iran's economy struggles under US sanctions, with the country's currency, the rial, experiencing significant depreciation. The limited deal would likely involve a temporary easing of sanctions, allowing Iran to access some US dollar-denominated assets and potentially stabilize its economy. The background to this development is the ongoing tensions between the US and Iran, which have led to a significant deterioration in Iran's economic situation.",
+      "impact": "The news is likely to have a mixed impact on the oil and gas sector, with some potential benefits from a temporary easing of sanctions on Iran's oil exports. However, any deal would likely be limited in scope, and the medium-term outlook for Iran's economy remains uncertain. The development may also impact the sentiment of investors towards the energy sector, potentially leading to a short-term increase in oil prices. This, in turn, could benefit oil producers, particularly those with significant exposure to the Middle East region.",
+      "risks": [
+        "sanctions risk",
+        "economic instability risk",
+        "geopolitical tensions risk"
+      ]
+    }
   },
   {
     "id": "8009788",
@@ -372,7 +417,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1780326473
+    "publishedAt": 1780326473,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780358887,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "El Al, Israel's national airline, is resuming flights from Tel Aviv to San Francisco, linking Tel Aviv and Silicon Valley. This move is expected to boost tourism and business travel between the two regions. The flights are part of El Al's efforts to expand its international routes and increase connectivity. This development is significant for Israel's economy, which has been strengthening ties with the US tech industry. The airline's expansion into the US market is expected to increase its revenue and profitability.",
+      "impact": "This news is likely to have a positive impact on El Al's stock price in the short-term, driven by increased revenue and profitability. In the medium-term, the expansion into the US market could lead to increased brand recognition and loyalty, further boosting the airline's stock price. The increased connectivity between Tel Aviv and Silicon Valley is also expected to have a positive impact on the Israeli economy, potentially leading to increased investment and job creation. This could have a positive impact on the overall Israeli stock market.",
+      "risks": [
+        "Currency exchange rate risk",
+        "Competition from other airlines operating in the US market",
+        "Global economic downturn risk"
+      ]
+    }
   },
   {
     "id": "8010546",
@@ -382,28 +440,18 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1780325625
-  },
-  {
-    "id": "8007098",
-    "headline": "Dollar rises as markets parse fragile Middle East peace talks - Reuters",
-    "summary": "Dollar rises as markets parse fragile Middle East peace talks  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZDBZYzhnVW50SGxJS1NkTDVCeFdLNG9hS3dCOU5iYjVUZlJGUXJheGpRTHE1eWFuY0RVdnZkTE9kM0VrcGRoSkgzU3dDeTJkcFN4STVPNHpqalFWY0dQTGdrVzQ2Z0dCRXhGWmg4Qmg3Tzhqa2NrX2hvbzdOX2ZwUHNmZHJqVnV6bHlDbFEzdFpZVGo3NExaMDFLVUZwSmtydGpqb1ZYdnktT3VuYXVwV3c1TTdIZw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1780325087,
+    "publishedAt": 1780325625,
     "analysis": {
       "version": 2,
-      "generatedAt": 1780292026,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The US dollar has steadied amid ongoing uncertainty surrounding the potential for war with Iran and the upcoming decisions from central banks. The dollar's stability can be attributed to the lack of clear signals from policymakers, which has led to a pause in safe-haven flows. The situation remains fluid, with investors awaiting updates on the Iran situation and central bank actions. The dollar's performance is closely tied to these events, which will likely continue to drive market sentiment and volatility.",
-      "impact": "The dollar's stability may have a neutral impact on US multinational corporations with significant international operations, as it reduces the uncertainty surrounding currency fluctuations. However, the ongoing uncertainty surrounding the Iran situation and central bank decisions may lead to increased volatility in the short term, potentially affecting the earnings outlook for companies with significant exposure to these markets. In the medium term, a more stable dollar could lead to improved profit margins for US-based companies with international operations, as reduced currency fluctuations can increase the competitiveness of their exports.",
+      "generatedAt": 1780358936,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Norway's oil workers, who make up nearly 8% of the country's oil workforce, are threatening to go on strike from June 5. This development is a concern for the oil and gas industry, as Norway is a significant oil producer. The strike could disrupt oil production and exports, potentially affecting global oil prices. The Norwegian government has been trying to negotiate with the workers to avoid a strike, but so far, no agreement has been reached.",
+      "impact": "The potential strike could have a negative impact on oil-related stocks, particularly those with significant exposure to Norwegian oil production. Companies such as Equinor (EQNR) and Aker BP (AKRBF) may be affected by the strike, as they have operations in Norway. The strike could lead to a short-term decrease in oil production and exports, potentially impacting earnings and valuation of these companies. In the medium term, the strike could also lead to a change in investor sentiment towards the oil and gas sector, potentially affecting liquidity and stock prices.",
       "risks": [
-        "Iran conflict risk",
-        "Central bank policy risk",
-        "Currency volatility risk"
+        "Disruption to oil production and exports",
+        "Negative impact on oil-related stocks",
+        "Uncertainty around strike duration and outcome"
       ]
     }
   },
@@ -651,7 +699,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1780284780,
+    "publishedAt": 1780285857,
     "analysis": {
       "version": 2,
       "generatedAt": 1780291932,
@@ -668,6 +716,16 @@
     }
   },
   {
+    "id": "8007835",
+    "headline": "US proposes new plan to ease Israel-Lebanon tensions amid fighting - Reuters",
+    "summary": "US proposes new plan to ease Israel-Lebanon tensions amid fighting  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVGtjd242MlB2VFBVVTZkTkc4c1pKVlBUcVJuWnpiaXVHQmUySDBZbmVHTlE4ZTROWnNfWGJOSDdURGZsejVGdlpjcGNZNGlxNmZiZTdjQWNWRzlRczQzRERqRU5sWWhhY0dRcU1YcUxWekQzRHRZTl9nQ1ktM2dCTWh4Wi1jZC1GMElDS3hGVElTbXkxYlRlN3NRazFKQWUtUThZeXlFYzlmMmRfRE56RA?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1780281807
+  },
+  {
     "id": "8009677",
     "headline": "Indian shares drop again on outflows, weak monsoon woes - Reuters",
     "summary": "Indian shares drop again on outflows, weak monsoon woes  Reuters",
@@ -676,16 +734,6 @@
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
     "publishedAt": 1780281660
-  },
-  {
-    "id": "8007835",
-    "headline": "US proposes new plan to ease Israel-Lebanon tensions amid fighting - Reuters",
-    "summary": "US proposes new plan to ease Israel-Lebanon tensions amid fighting  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVGtjd242MlB2VFBVVTZkTkc4c1pKVlBUcVJuWnpiaXVHQmUySDBZbmVHTlE4ZTROWnNfWGJOSDdURGZsejVGdlpjcGNZNGlxNmZiZTdjQWNWRzlRczQzRERqRU5sWWhhY0dRcU1YcUxWekQzRHRZTl9nQ1ktM2dCTWh4Wi1jZC1GMElDS3hGVElTbXkxYlRlN3NRazFKQWUtUThZeXlFYzlmMmRfRE56RA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1780280760
   },
   {
     "id": "8007201",
@@ -730,6 +778,29 @@
         "Geopolitical risks remain a concern, particularly in the short-term, as tensions with Iran could escalate and impact global oil prices.",
         "Overvaluation risk in AI-related stocks, as investors may be overestimating the growth potential of these companies.",
         "Regulatory risks associated with the increasing use of AI, as governments and regulatory bodies start to impose stricter rules and guidelines."
+      ]
+    }
+  },
+  {
+    "id": "8007098",
+    "headline": "Dollar higher as markets parse fragile Middle East peace talks - Reuters",
+    "summary": "Dollar higher as markets parse fragile Middle East peace talks  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZDBZYzhnVW50SGxJS1NkTDVCeFdLNG9hS3dCOU5iYjVUZlJGUXJheGpRTHE1eWFuY0RVdnZkTE9kM0VrcGRoSkgzU3dDeTJkcFN4STVPNHpqalFWY0dQTGdrVzQ2Z0dCRXhGWmg4Qmg3Tzhqa2NrX2hvbzdOX2ZwUHNmZHJqVnV6bHlDbFEzdFpZVGo3NExaMDFLVUZwSmtydGpqb1ZYdnktT3VuYXVwV3c1TTdIZw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1780274400,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780292026,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The US dollar has steadied amid ongoing uncertainty surrounding the potential for war with Iran and the upcoming decisions from central banks. The dollar's stability can be attributed to the lack of clear signals from policymakers, which has led to a pause in safe-haven flows. The situation remains fluid, with investors awaiting updates on the Iran situation and central bank actions. The dollar's performance is closely tied to these events, which will likely continue to drive market sentiment and volatility.",
+      "impact": "The dollar's stability may have a neutral impact on US multinational corporations with significant international operations, as it reduces the uncertainty surrounding currency fluctuations. However, the ongoing uncertainty surrounding the Iran situation and central bank decisions may lead to increased volatility in the short term, potentially affecting the earnings outlook for companies with significant exposure to these markets. In the medium term, a more stable dollar could lead to improved profit margins for US-based companies with international operations, as reduced currency fluctuations can increase the competitiveness of their exports.",
+      "risks": [
+        "Iran conflict risk",
+        "Central bank policy risk",
+        "Currency volatility risk"
       ]
     }
   },
@@ -1001,29 +1072,6 @@
     "publishedAt": 1780192740
   },
   {
-    "id": "7998158",
-    "headline": "Pentagon chief says U.S. ready to restart strikes on Iran if no deal - Reuters",
-    "summary": "Pentagon chief says U.S. ready to restart strikes on Iran if no deal  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMDJGOWhzbXNmcjJKZV9ldldtcUliNDM5RUduV3loQVpDYlowVGlhd1g4S2t3RzhYOVpTS3pDUXlYT0tnZ21jVGxGNTR3MVRvZF9GMW5SYWpVUnJyRnd0dldUZlVWbmxQRzRuZjUzV0lqNGpNc0tSZ0RqOU5PeGNZQXl3dG1WWHVGRWVXTnpOT196X193YlFsZGROWk53akFuM2RNWDhtMVl4YVpPS0dZemNYcTNDZw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1780172051,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1780126359,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Pentagon chief Lloyd Austin stated that the US is prepared to restart strikes on Iran if a deal is not reached. This news indicates a heightened tension between the US and Iran, which could lead to increased military spending and a worsening of the geopolitical situation. The US has historically maintained a strong military presence in the Middle East, and a potential escalation of conflict could lead to increased defense spending and a boost to companies involved in the defense industry. This news may have a positive impact on defense-related stocks, but the overall market sentiment is likely to be bearish due to the uncertainty and potential volatility associated with military conflicts.",
-      "impact": "The news is likely to have a short-term positive impact on defense-related stocks, such as Lockheed Martin (LMT) and Boeing (BA), as increased military spending could lead to increased demand for their products. However, the medium-term impact is uncertain and may be negative due to the potential for increased volatility and instability in the region. The news may also have a negative impact on stocks with exposure to the Middle East, such as oil and gas companies, due to the potential for supply chain disruptions and increased tensions.",
-      "risks": [
-        "Escalation of conflict and increased military spending",
-        "Volatility and instability in the Middle East",
-        "Supply chain disruptions and potential impact on oil and gas companies"
-      ]
-    }
-  },
-  {
     "id": "8001209",
     "headline": "US military says it turned away blockade runner trying to reach Iranian port - Reuters",
     "summary": "US military says it turned away blockade runner trying to reach Iranian port  Reuters",
@@ -1279,6 +1327,29 @@
         "Geopolitical tensions in the region may escalate, disrupting shipping activities",
         "Increased demand for shipping services may lead to supply chain bottlenecks and higher costs",
         "The US Central Command's involvement may be temporary, and the situation could revert to its previous state"
+      ]
+    }
+  },
+  {
+    "id": "7998158",
+    "headline": "Pentagon chief says U.S. ready to restart strikes on Iran if no deal - Reuters",
+    "summary": "Pentagon chief says U.S. ready to restart strikes on Iran if no deal  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMDJGOWhzbXNmcjJKZV9ldldtcUliNDM5RUduV3loQVpDYlowVGlhd1g4S2t3RzhYOVpTS3pDUXlYT0tnZ21jVGxGNTR3MVRvZF9GMW5SYWpVUnJyRnd0dldUZlVWbmxQRzRuZjUzV0lqNGpNc0tSZ0RqOU5PeGNZQXl3dG1WWHVGRWVXTnpOT196X193YlFsZGROWk53akFuM2RNWDhtMVl4YVpPS0dZemNYcTNDZw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1780113336,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780126359,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Pentagon chief Lloyd Austin stated that the US is prepared to restart strikes on Iran if a deal is not reached. This news indicates a heightened tension between the US and Iran, which could lead to increased military spending and a worsening of the geopolitical situation. The US has historically maintained a strong military presence in the Middle East, and a potential escalation of conflict could lead to increased defense spending and a boost to companies involved in the defense industry. This news may have a positive impact on defense-related stocks, but the overall market sentiment is likely to be bearish due to the uncertainty and potential volatility associated with military conflicts.",
+      "impact": "The news is likely to have a short-term positive impact on defense-related stocks, such as Lockheed Martin (LMT) and Boeing (BA), as increased military spending could lead to increased demand for their products. However, the medium-term impact is uncertain and may be negative due to the potential for increased volatility and instability in the region. The news may also have a negative impact on stocks with exposure to the Middle East, such as oil and gas companies, due to the potential for supply chain disruptions and increased tensions.",
+      "risks": [
+        "Escalation of conflict and increased military spending",
+        "Volatility and instability in the Middle East",
+        "Supply chain disruptions and potential impact on oil and gas companies"
       ]
     }
   },
@@ -22169,29 +22240,6 @@
         "Increased operational costs risk",
         "Supply chain disruption risk",
         "Decreased investor sentiment risk"
-      ]
-    }
-  },
-  {
-    "id": "7907225",
-    "headline": "Japan's Nikkei blazes past 63,000 on earnings, Iran peace optimism; JGBs rally - Reuters",
-    "summary": "Japan's Nikkei blazes past 63,000 on earnings, Iran peace optimism; JGBs rally  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc1prT3UteDBvcjFlNWdEZElKellMOHF6X1daTnlrcnZmQVRGWFhaVW1TaGE0Rkh1LWpaNGhVT1poMFFDWDRNN1dVU2V2cmRPZjBzUUx6dTNybDJLR0cybE5OeXJqMDRCTGkwclg4anNTWTZ2enRwendiX2pBYjVhMGc0NC02bXVVM0N5bUc2NUVXMDJldDZrMmtKNEZBcDY3bW5GeXBwRGZUbFFyRlY0SUx5ek13QTUzWGE3Um52Ql8?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778113800,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778141328,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The Japanese stock market, represented by the Nikkei index, has surpassed the 63,000 mark due to a combination of positive earnings reports and optimism surrounding the Iran peace deal. This news is a significant development for the Japanese economy, which has been closely tied to global events. The rally in Japanese government bonds (JGBs) also indicates a decrease in interest rates, making equities more attractive to investors. The Nikkei's rise is a positive sign for Japanese companies, particularly those in the manufacturing and export sectors, which are expected to benefit from a potential increase in global demand.",
-      "impact": "The Nikkei's surge is likely to have a positive impact on Japanese stocks, particularly those with exposure to the manufacturing and export sectors. Companies such as Toyota, Honda, and Sony, which rely heavily on international sales, may see their stock prices increase in the short term. However, investors should be cautious of potential risks, including a potential decline in the yen, which could make imports more expensive and reduce corporate profits. Additionally, the impact of the Iran peace deal on global demand and trade is still uncertain and may take time to materialize.",
-      "risks": [
-        "Potential decline in the yen",
-        "Uncertainty surrounding the Iran peace deal's impact on global demand",
-        "Risk of a correction in the Nikkei index"
       ]
     }
   }
