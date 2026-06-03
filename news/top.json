@@ -1,5 +1,130 @@
 [
   {
+    "id": "8020483",
+    "headline": "Historic stock rally faces key test",
+    "summary": "Two key tech companies reporting earnings after the bell could determine the next move higher or lower.",
+    "url": "https://www.cnbc.com/2026/06/03/historic-stock-rally-faces-key-test.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108291781-1776264089342-gettyimages-2249343364-20251204SOPAMASLLOGO067.jpeg?v=1776264143&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1780511544,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780515466,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "The historic stock rally faces a key test as two key tech companies, Broadcom and Crowdstrike, report earnings after the bell. Broadcom, a chipmaking giant and software provider, has rallied 88% in the past year and is now bigger than two of the 'Magnificent Seven' stocks. Crowdstrike, a cybersecurity leader, has more than doubled in price off March lows and trades at a market cap of almost $200 billion. The two stocks are expected to determine the next move higher or lower for the market, with traders preparing for an 8% swing in each stock after earnings.",
+      "impact": "The earnings reports from Broadcom and Crowdstrike could have a significant impact on the market, with a potential 8% move in each stock. This could lead to a short-term volatility increase, affecting liquidity and sentiment in the market. In the medium term, the earnings outlook and valuation of these two stocks could be re-evaluated, potentially influencing their stock prices and the overall market direction.",
+      "risks": [
+        "Earnings miss risk",
+        "Guidance disappointment risk",
+        "Valuation reevaluation risk"
+      ]
+    }
+  },
+  {
+    "id": "8016937",
+    "headline": "Oil gains as Middle East hostilities flare - Reuters",
+    "summary": "Oil gains as Middle East hostilities flare  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRktPRENWZHRDVGluSHgybDl4djZHUEhxNDJOdzVFRjR0NzFNV3BlemJvLUxCSTBfeElPN0lBQ2FWVnNra1owTi0tR05NM3JaVnhDQzBxMDVUTVJhQ2ZPQUY5QldBa3hfbnJRLTlINk5BQkN3djFuVWlUVTFSUFJjd0Y4eWpCbXFmZ2k4b0xoRFhjcVAzLXd1MFZlSXJ0b0kxOUppUEwtN0JSdU91ZWVzM1RtMA?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1780507190,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780464923,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Oil prices have extended their gains due to escalating hostilities in the Middle East and stalled diplomatic talks. The region's geopolitical tensions have increased the risk of supply disruptions, which is driving up oil prices. The situation is a concern for oil-producing countries and companies, as well as countries heavily reliant on oil imports. The current tensions are a short-term driver of oil prices, but the medium-term impact on the industry is uncertain. The ongoing conflict in the Middle East has the potential to disrupt oil production and exports, leading to higher prices and increased volatility.",
+      "impact": "The potential impact on oil-related stocks is positive in the short-term, as increased tensions and supply disruptions drive up oil prices. This could lead to higher earnings for oil-producing companies, particularly those with significant exposure to the Middle East. However, the medium-term impact is uncertain, as the conflict could lead to a prolonged period of volatility in the oil market. Investors should be cautious of the potential risks associated with the conflict, including supply chain disruptions and increased costs.",
+      "risks": [
+        "Supply chain disruptions risk",
+        "Increased costs risk",
+        "Volatility risk"
+      ]
+    }
+  },
+  {
+    "id": "8020380",
+    "headline": "What's behind Palo Alto's earnings sell-off — and how to proceed",
+    "summary": "The stock was red hot into the earnings report.",
+    "url": "https://www.cnbc.com/2026/06/03/whats-behind-palo-altos-earnings-sell-off-and-how-to-proceed.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108100619-1739282708376-gettyimages-1604944873-PALO_ALTO_EARNS.jpeg?v=1766173852&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1780506719,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780515522,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Palo Alto Networks' stock price declined 4% despite strong quarterly results and guidance. The company's longer-term outlook for hardware growth and its reiteration of guidance for next-generation security annual recurring revenue (NGS ARR) may have contributed to the sell-off. The management team's comments on AI-driven demand and the terminal value of the business were seen as a disappointment to short-term traders who had driven the stock's 86% rally in two months. This rally was fueled by investors seeking momentum names, and the company's comments may have raised the bar for future growth expectations.",
+      "impact": "The sell-off in Palo Alto Networks' stock may have a short-term impact on the company's valuation, potentially leading to a decrease in its price. However, in the medium term, the company's strong earnings and guidance may help to stabilize the stock price. The company's comments on AI-driven demand and the terminal value of the business may also impact investor sentiment, potentially leading to a decrease in short-term trading activity and a shift in focus towards long-term growth prospects.",
+      "risks": [
+        "valuation risk",
+        "sentiment risk",
+        "liquidity risk"
+      ]
+    }
+  },
+  {
+    "id": "8019528",
+    "headline": "Hezbollah launches rockets at Israel, testing U.S.-mediated deal - Reuters",
+    "summary": "Hezbollah launches rockets at Israel, testing U.S.-mediated deal  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNejNUYzdtTjIxM1JOY1FzOFYxZnVKQjNIa2RyZk5QSXh4TFFSSjYtd2EydDkyS0FaR0E2bmw2ZEJVaFJab0pBUmg1OEVBQXJ3MnlmcDJ1cnRsYUR0UEV5OFVzRVp1LXJUeEtKenZHR0RuRkJoT3V5d0ZQQnZ2aXFLaDNPbEZ0VFhXcGc4alhwTkNrdkdUQUZZUWpScTltT0E0eEJ6NlVIZ2lBSTRu?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1780506207,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780500254,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Israel's claim that Hezbollah launched rockets is a significant escalation in the ongoing conflict between Israel and Hezbollah. The incident may be a test of the US-mediated deal, which could have implications for regional stability and geopolitical tensions. The conflict has the potential to impact the global oil market, as it may lead to increased tensions between the US and Iran, a major oil producer. The situation is fluid, and the potential consequences are uncertain.",
+      "impact": "The potential conflict between Israel and Hezbollah could lead to increased volatility in the global oil market, potentially driving up oil prices and impacting energy-related stocks. This could have a negative impact on the earnings outlook for companies with exposure to the Middle East region, such as oil and gas producers. The situation may also lead to increased tensions between the US and Iran, potentially affecting the global economy and trade. In the short term, investors may be cautious and reduce their exposure to stocks with ties to the region.",
+      "risks": [
+        "Escalation of conflict and increased regional instability",
+        "Impact on global oil prices and energy-related stocks",
+        "Increased tensions between the US and Iran"
+      ]
+    }
+  },
+  {
+    "id": "8019425",
+    "headline": "Trump confirms he called Netanyahu crazy in phone call - Reuters",
+    "summary": "Trump confirms he called Netanyahu crazy in phone call  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYXBGWXJkR0NIUGdJVW9WZjFkeEpvZkxxQXJCUGNfbVQzbF9OQkdEUEVab052cEpuYmNuM3drVWdaTUlmbG1wYzJsTEFFYU8xNm5qMXN5SjYzQ3BiMnowYWtLTTh2Y09Bdl9hMjljUGV2Q1FESnZfT1FMeWhaVnRjbERfY2o0anVINUhQMjd0VU96UDJGdU9lRzJpZE9ObnE3TndDUkEtekQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1780502754,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780500150,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "US President Trump confirmed that he called Israeli Prime Minister Netanyahu 'crazy' in a phone call, escalating tensions between the two leaders. The incident occurred in a private conversation, but the quote was leaked to the press. The statement is seen as a significant deterioration in the US-Israel relationship, which has implications for Israel's economy and global standing. The news may also affect the sentiment towards US companies with significant business ties to Israel, such as those in the defense and technology sectors.",
+      "impact": "The news is likely to have a short-term negative impact on Israeli stocks, particularly those with exposure to the US market. This may lead to a decline in investor sentiment and potentially lower stock prices. Medium-term, the deterioration in US-Israel relations could impact the Israeli economy, affecting companies with significant business ties to the US. This may also lead to increased volatility in the stock market.",
+      "risks": [
+        "Deterioration in US-Israel relations",
+        "Increased volatility in the Israeli stock market",
+        "Potential decline in investor sentiment towards US companies with Israeli ties"
+      ]
+    }
+  },
+  {
+    "id": "8020280",
+    "headline": "Resilient Saudi economy proves a draw for wartime Gulf business - Reuters",
+    "summary": "Resilient Saudi economy proves a draw for wartime Gulf business  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNkRkX3U5SnJIb1RTY3lqanlTLXkzLVk3eW5EY1U3TnU0WUZTaGUxaEdHbE9hVUd2d3hVYUZRTFZxOUxhbUVTT3B5Zm1CS3Jad3N6S1NXeUNuOEZnc3d4YnZxMUlfd0VGdmR5NGhWN05xbi1WLXFYYnFUaFdSOXo0Z2NsQWFINXg2ZmR6RkgyRVNDaExlS2oxZHlHMWhHdzFXaGF1QXZpUklkNm1OYlg3Mw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1780501576
+  },
+  {
     "id": "8019632",
     "headline": "Sellers are pulling homes off the market at the fastest pace since 2020",
     "summary": "Frustrated sellers are pulling their homes off the market at an increasingly high pace, as demand weakens and bidding wars wane.",
@@ -23,29 +148,6 @@
     }
   },
   {
-    "id": "8019425",
-    "headline": "Trump confirms he called Netanyahu crazy in phone call - Reuters",
-    "summary": "Trump confirms he called Netanyahu crazy in phone call  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYXBGWXJkR0NIUGdJVW9WZjFkeEpvZkxxQXJCUGNfbVQzbF9OQkdEUEVab052cEpuYmNuM3drVWdaTUlmbG1wYzJsTEFFYU8xNm5qMXN5SjYzQ3BiMnowYWtLTTh2Y09Bdl9hMjljUGV2Q1FESnZfT1FMeWhaVnRjbERfY2o0anVINUhQMjd0VU96UDJGdU9lRzJpZE9ObnE3TndDUkEtekQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1780494222,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1780500150,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "US President Trump confirmed that he called Israeli Prime Minister Netanyahu 'crazy' in a phone call, escalating tensions between the two leaders. The incident occurred in a private conversation, but the quote was leaked to the press. The statement is seen as a significant deterioration in the US-Israel relationship, which has implications for Israel's economy and global standing. The news may also affect the sentiment towards US companies with significant business ties to Israel, such as those in the defense and technology sectors.",
-      "impact": "The news is likely to have a short-term negative impact on Israeli stocks, particularly those with exposure to the US market. This may lead to a decline in investor sentiment and potentially lower stock prices. Medium-term, the deterioration in US-Israel relations could impact the Israeli economy, affecting companies with significant business ties to the US. This may also lead to increased volatility in the stock market.",
-      "risks": [
-        "Deterioration in US-Israel relations",
-        "Increased volatility in the Israeli stock market",
-        "Potential decline in investor sentiment towards US companies with Israeli ties"
-      ]
-    }
-  },
-  {
     "id": "8019743",
     "headline": "We're starting a position in a chipmaker that is benefiting from the AI boom in multiple ways",
     "summary": "We're initiating our stake on the smaller size, giving us room to build it up over time.",
@@ -62,29 +164,6 @@
       "summary": "Intel is initiating a position in the company due to its exposure to the AI boom through its central processing unit (CPU) renaissance in the data center and growing foundry business. The CPU demand is increasing due to AI agent-driven tasks, and Intel's CEO believes the ratio of CPUs to GPUs in AI server racks will shift in favor of CPUs. The company's foundry business is also benefiting from the growing need for alternative chip manufacturing and packaging sources. Intel has made improvements to its 18A manufacturing process, increasing customer interest, including from Apple.",
       "impact": "We expect Intel's stock to benefit from the growing demand for CPUs in the data center and the company's improving foundry business. This could lead to increased earnings and revenue growth, positively impacting the stock's valuation and sentiment. The liquidity of the stock may also increase as more investors take notice of Intel's exposure to the AI boom. In the short term, we expect the stock to rebound from its recent pullback, and in the medium term, we expect it to continue to outperform the market as the AI trend persists.",
       "risks": []
-    }
-  },
-  {
-    "id": "8019528",
-    "headline": "Israel says Hezbollah launched rockets, testing U.S.-mediated deal - Reuters",
-    "summary": "Israel says Hezbollah launched rockets, testing U.S.-mediated deal  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNejNUYzdtTjIxM1JOY1FzOFYxZnVKQjNIa2RyZk5QSXh4TFFSSjYtd2EydDkyS0FaR0E2bmw2ZEJVaFJab0pBUmg1OEVBQXJ3MnlmcDJ1cnRsYUR0UEV5OFVzRVp1LXJUeEtKenZHR0RuRkJoT3V5d0ZQQnZ2aXFLaDNPbEZ0VFhXcGc4alhwTkNrdkdUQUZZUWpScTltT0E0eEJ6NlVIZ2lBSTRu?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1780492710,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1780500254,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "Israel's claim that Hezbollah launched rockets is a significant escalation in the ongoing conflict between Israel and Hezbollah. The incident may be a test of the US-mediated deal, which could have implications for regional stability and geopolitical tensions. The conflict has the potential to impact the global oil market, as it may lead to increased tensions between the US and Iran, a major oil producer. The situation is fluid, and the potential consequences are uncertain.",
-      "impact": "The potential conflict between Israel and Hezbollah could lead to increased volatility in the global oil market, potentially driving up oil prices and impacting energy-related stocks. This could have a negative impact on the earnings outlook for companies with exposure to the Middle East region, such as oil and gas producers. The situation may also lead to increased tensions between the US and Iran, potentially affecting the global economy and trade. In the short term, investors may be cautious and reduce their exposure to stocks with ties to the region.",
-      "risks": [
-        "Escalation of conflict and increased regional instability",
-        "Impact on global oil prices and energy-related stocks",
-        "Increased tensions between the US and Iran"
-      ]
     }
   },
   {
@@ -112,6 +191,29 @@
     }
   },
   {
+    "id": "8019963",
+    "headline": "War may end in interim deal that leaves Iran battered but unbowed - Reuters",
+    "summary": "War may end in interim deal that leaves Iran battered but unbowed  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeWdyX05aazdhNHJWc01EdWx6SUEybEJmUGZweERVVkpsYjltZG5vUTE3MkdiQWNrQ0U0VWZkSHZyeUswN1ZnbVAtQnhXWGNzamJoOVk1RFlKQ2h6UGNhS1hJYzQ5OTBuQ0tLZmpYc3Z3REtEQjlET0NmM0VhMkExVmN4UTRGb0lMaXNGU2VJM2JjMXdUWWRyYldvLTlPeWIxN0FyczFmZ2N4YkhPQ2tBMXdn?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1780490889,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780515593,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "The article suggests that the Iran-Iraq conflict may be nearing an end with an interim deal. The deal would reportedly leave Iran battered but unbowed, implying that the country's economy and military capabilities have been significantly impacted. The background of the conflict and the potential implications for the region are not explicitly discussed in the article. However, the news may have a neutral impact on the global energy market, as a reduced conflict in the region could lead to increased oil production and lower prices. The article does not mention any specific companies or stocks that would be directly affected by the news.",
+      "impact": "The potential impact of this news on related stocks is likely to be minimal in the short-term. However, a reduction in conflict in the region could lead to increased oil production and lower prices, which could be beneficial for energy companies. In the medium-term, a more stable region could lead to increased economic activity and investment, potentially benefiting companies with exposure to the region. The impact on the global energy market and related stocks will depend on the specifics of the interim deal and its implementation.",
+      "risks": [
+        "Uncertainty around the terms of the interim deal and its potential impact on the region",
+        "Potential for a breakdown in the deal and renewed conflict",
+        "Impact on global energy prices and the resulting effect on energy companies"
+      ]
+    }
+  },
+  {
     "id": "8018970",
     "headline": "Trump says Iran has agreed to not have a nuclear weapon - Reuters",
     "summary": "Trump says Iran has agreed to not have a nuclear weapon  Reuters",
@@ -119,7 +221,40 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1780490391
+    "publishedAt": 1780490391,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780515654,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "US-Iran tensions have eased with the announcement that Iran has agreed not to possess nuclear weapons. This development reduces the risk of conflict in the region, which could have negatively impacted oil prices and the energy sector. The agreement also improves the prospects for a potential US-Iran trade deal, potentially benefiting US companies with exposure to the Iranian market. The news is a positive surprise, given the recent escalation of tensions between the two countries.",
+      "impact": "The news is likely to have a positive impact on energy stocks, particularly those with exposure to the Middle East region. Companies such as ExxonMobil (XOM) and Chevron (CVX) may benefit from reduced tensions and potential increased oil production. In the short-term, oil prices may decline, benefiting energy producers and consumers. In the medium-term, a potential US-Iran trade deal could lead to increased trade and economic cooperation between the two countries.",
+      "risks": [
+        "Potential for renewed tensions between the US and Iran",
+        "Uncertainty around the terms of the agreement",
+        "Dependence on the US-Iran trade deal for economic benefits"
+      ]
+    }
+  },
+  {
+    "id": "8019858",
+    "headline": "Albanians protest over Kushner-linked luxury resort on pristine coastline - Reuters",
+    "summary": "Albanians protest over Kushner-linked luxury resort on pristine coastline  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxON0hpbm8xaTZyc3pUc0xhZDczSkhvTGJaRENFR0NPUzI4MW5PNmVsbWxIVEs0VHh2Q1FBck5WeEp0XzdCanNYX2ExTG12MEdvMW1IUlZEOFlsQ3hsek93bVNmZ3BuSzN1ai1pWDI5dlctWHNmbDgzQlM1clhKdlhrcEJCVHppX19RZDdKUzFkUHlsZHRaN2RkMkdhcDVaQXpBSk9uSXZoYzI2aVdqTzRnX0V3?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1780488671
+  },
+  {
+    "id": "8019855",
+    "headline": "EU could lose 1.3 million jobs due to energy price surge linked to Iran war, Commission says - Reuters",
+    "summary": "EU could lose 1.3 million jobs due to energy price surge linked to Iran war, Commission says  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd2d6OElSLW9aQzVoaTVmZUFjSVhkUzB6bWxVcHpiQ2JyYnNmRUFjWmhsUDFfczFNalkwMERzbnNpSXFBQjhjRnFHV242RElYdDFZdFBDemUzc1hsSU40WmloSkxCRDFwWTh6OTcwa1pNblQyanh5UDNPQUk0TWZVV3BVSDZMODlXQnhqU1FvclRlcHJUclYtY3RmenN1OTRKM3JoNEFWYkt2SVQxdHR1aDZqeGxUSDZlU0hZWWNTTFp6MDFMWUxuQ1VqYzB6Y3I2dnRsbg?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1780487885
   },
   {
     "id": "8019302",
@@ -142,6 +277,16 @@
     "publishedAt": 1780482404
   },
   {
+    "id": "8019856",
+    "headline": "Iran to play World Cup warm-up behind closed doors, head to Mexico on Saturday - Reuters",
+    "summary": "Iran to play World Cup warm-up behind closed doors, head to Mexico on Saturday  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVzFaU0tydTlFNW9Rc2c4R2ZLbWpGeEsyRGZ4MVFldmVRalNDaXNhZ3FNV0lHQ3JRRDlkNXdRVS1hSEVCNk9vbEFIYzk0SWlUc1FHRVBFVlllT2g0Q3NBTllkNUV5LVFoc2pHV2JIeUY4MEhrVU9NV2h3dTRHaWs2Yl82XzViLWcyenprOHdQREs1cGFzOVd0TVkwSzkyQmJvdU55OU9aV2JlTlo5TUpRZy1oOGZNX0lJcXc?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1780477840
+  },
+  {
     "id": "8018859",
     "headline": "Israel intercepts 'hostile aircraft' that crossed from Lebanon, military says - Reuters",
     "summary": "Israel intercepts 'hostile aircraft' that crossed from Lebanon, military says  Reuters",
@@ -153,8 +298,8 @@
   },
   {
     "id": "8018083",
-    "headline": "Gulf tensions escalate as Iran hits Kuwait, US strikes near Hormuz - Reuters",
-    "summary": "Gulf tensions escalate as Iran hits Kuwait, US strikes near Hormuz  Reuters",
+    "headline": "Iran hits Kuwait, US strikes near Hormuz in Gulf flare-up - Reuters",
+    "summary": "Iran hits Kuwait, US strikes near Hormuz in Gulf flare-up  Reuters",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa0pCM2JwVC1jclluOW5wcnktSUJHZ2ZLUUxwMnY5c3F6VWhuSVFLQ29mbmc0cHdhSWkyTzNyVzJvWnBxNjlVWnhqQ0FOUUpiY2YtTld2b3hWWmpYTzJueElSOUVmeTBweDFYWUwxcnZhdVlzYTNvZXp2SXJNcnNhdGh6TElzTWtzUDlvNlBQS3pQREk4a0cwb1NXa1YzWG5jb3lOaC1jZDNRT2JZQkNxbA?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -279,8 +424,8 @@
   },
   {
     "id": "8017142",
-    "headline": "Stocks dip on new Iran attacks as oil prices rise - Reuters",
-    "summary": "Stocks dip on new Iran attacks as oil prices rise  Reuters",
+    "headline": "Stocks fall, oil prices nears $100 as Iran war escalates - Reuters",
+    "summary": "Stocks fall, oil prices nears $100 as Iran war escalates  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeVllVU5TSEVpajhKb3hSRUx6NDY3bWU2cDJpaUtOMllscG9lckFqZzJrMEowQ0IxSENhamFtNjZuOXVGb2Ywd0VfSUhlTnUzRkR5dlJlNHI1ME02YnhJV1RWRk5PZml5QlRIRlRQWEZIMzNUYlBmQ183aGEzNXFZU3V3ZFFXb0dw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -325,8 +470,8 @@
   },
   {
     "id": "8017143",
-    "headline": "Yen falls to 160 level, prompting warnings from Japanese officials - Reuters",
-    "summary": "Yen falls to 160 level, prompting warnings from Japanese officials  Reuters",
+    "headline": "Yen hovers near 160 level, prompting warnings from Japanese officials - Reuters",
+    "summary": "Yen hovers near 160 level, prompting warnings from Japanese officials  Reuters",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdlBCenZ0QjFsZWdEem9ZT2tncUc5S29ra3RNOGZFVDJCQ1Fud2N3aEtyRXRIaUpEcUlzOTEtcHEydjRuZ1dzRlNQZ050MTJVN1AyM1RET2tTY3Y1MjI0dDNDaElYOTNwdlcwWHBQZmxEMzdwaGhxMnB6NEloajhWX2EtelpQb0dha21xSjJZZnBqajBTYTNLaWY4bWY3T242SzhGVUt2YzVWXzJr?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -343,29 +488,6 @@
         "Escalation of Gulf hostilities and potential impact on global oil prices",
         "Uncertainty around the duration and intensity of the conflict",
         "Potential impact on global economic growth and trade"
-      ]
-    }
-  },
-  {
-    "id": "8016937",
-    "headline": "Oil extends gains as Middle East hostilities flare - Reuters",
-    "summary": "Oil extends gains as Middle East hostilities flare  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRktPRENWZHRDVGluSHgybDl4djZHUEhxNDJOdzVFRjR0NzFNV3BlemJvLUxCSTBfeElPN0lBQ2FWVnNra1owTi0tR05NM3JaVnhDQzBxMDVUTVJhQ2ZPQUY5QldBa3hfbnJRLTlINk5BQkN3djFuVWlUVTFSUFJjd0Y4eWpCbXFmZ2k4b0xoRFhjcVAzLXd1MFZlSXJ0b0kxOUppUEwtN0JSdU91ZWVzM1RtMA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1780446960,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1780464923,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Oil prices have extended their gains due to escalating hostilities in the Middle East and stalled diplomatic talks. The region's geopolitical tensions have increased the risk of supply disruptions, which is driving up oil prices. The situation is a concern for oil-producing countries and companies, as well as countries heavily reliant on oil imports. The current tensions are a short-term driver of oil prices, but the medium-term impact on the industry is uncertain. The ongoing conflict in the Middle East has the potential to disrupt oil production and exports, leading to higher prices and increased volatility.",
-      "impact": "The potential impact on oil-related stocks is positive in the short-term, as increased tensions and supply disruptions drive up oil prices. This could lead to higher earnings for oil-producing companies, particularly those with significant exposure to the Middle East. However, the medium-term impact is uncertain, as the conflict could lead to a prolonged period of volatility in the oil market. Investors should be cautious of the potential risks associated with the conflict, including supply chain disruptions and increased costs.",
-      "risks": [
-        "Supply chain disruptions risk",
-        "Increased costs risk",
-        "Volatility risk"
       ]
     }
   },
@@ -663,6 +785,16 @@
     }
   },
   {
+    "id": "8019857",
+    "headline": "Sweden prepares prisons for 13-year-old gang killers - Reuters",
+    "summary": "Sweden prepares prisons for 13-year-old gang killers  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONVBTU1lXMy1UWk1jNzZvMXp2WWhxUkdxZEt2VTlGSWJtWVUtejVFRVpYcnNVOFBybTVlSnJyc2ltVm1NX3ByUElDTzh4S29yaENKb1FwQnJPQWNFdnYwSHdTWGhMcXY3dUV6aEE3VTh3aW9OUzc5YXVfd3ZaSVVHclBudmVwSVAwZnRZdlZ2dW5lTzNa?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1780422236
+  },
+  {
     "id": "8014241",
     "headline": "Iran studying deal to halt war, as Trump says talks going on continuously - Reuters",
     "summary": "Iran studying deal to halt war, as Trump says talks going on continuously  Reuters",
@@ -855,6 +987,16 @@
         "US foreign policy unpredictability risk"
       ]
     }
+  },
+  {
+    "id": "8019750",
+    "headline": "Saudi's NEOM offers niche route for Gulf importers - Reuters",
+    "summary": "Saudi's NEOM offers niche route for Gulf importers  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUlhYa21QbFdaUENBcG9LcDEwcEZRbmh1SE12d0NvNm1yQ0pfNkJuMGpRYTdPeXI2ZjNia1RJUVNPZHh2dVBmdHlwdHlRZTE0SmVvLWhNMkdpVzc3U0RyU1pVbXQxYzZsR2tza0J5dG1SeGZxMnozc1pqNHUwMlROODJzUDMzWEZxdGpIYkV1TzA3THF3OWpha1puV0M2YmE2?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1780412508
   },
   {
     "id": "8014586",
@@ -1383,6 +1525,29 @@
     "publishedAt": 1780355880
   },
   {
+    "id": "8007404",
+    "headline": "Lebanon announces partial ceasefire between Israel, Hezbollah but attacks continue - Reuters",
+    "summary": "Lebanon announces partial ceasefire between Israel, Hezbollah but attacks continue  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYmZseGFNR05tMVJiV2tLRjdhdUFTUkwyT3pSdVFYdTJYWDdCZ0tRR2JNU002UEtMVHA1TXhabGhlUlMxUkIyOEh5dTNMR0dIQk1FQmxqUDRhcFZaREtrQkMyci1NS2lycENBOWtqbEpQVV9lX3FGOEJXU19ROEtaS0o0bTg0TGV5NGhtcGhORy12aUo4dzVxUlY2UElhZDFUalVqeWZmbUotQ21jQWxPeE5LZFM3WkNSZjE4bTR6MVhsTWFvRGpIMlpzeGpwTXZVby1Za2k5TQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1780355708,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780291885,
+      "sentiment": "bearish",
+      "confidence": 0.75,
+      "summary": "The US has launched airstrikes on Iranian military sites in response to a rocket attack on a US air base in Iraq. This escalation in tensions between the US and Iran increases the risk of further conflict and instability in the region. The impact on the global economy and markets is uncertain, but a prolonged conflict could lead to higher oil prices and a decline in investor sentiment. The news is a negative development for companies with exposure to the Middle East, particularly those in the energy sector.",
+      "impact": "The potential impact on related stocks is negative, particularly for companies with exposure to the Middle East, such as energy companies with operations in the region. The increased tensions and risk of conflict could lead to a decline in investor sentiment, causing a short-term sell-off in the stocks of companies with ties to the region. In the medium term, a prolonged conflict could lead to higher oil prices, negatively impacting companies with high energy costs or those that rely on oil exports.",
+      "risks": [
+        "Increased conflict risk",
+        "Higher oil prices",
+        "Decline in investor sentiment"
+      ]
+    }
+  },
+  {
     "id": "8012524",
     "headline": "South Korea inflation hits two-year high, imminent rate hike in play - Reuters",
     "summary": "South Korea inflation hits two-year high, imminent rate hike in play  Reuters",
@@ -1609,6 +1774,29 @@
         "Ongoing conflict risk",
         "Global economic downturn risk",
         "Changes in global airline routes risk"
+      ]
+    }
+  },
+  {
+    "id": "8010005",
+    "headline": "Iran eyes limited US deal to relieve economic strain and buy time - Reuters",
+    "summary": "Iran eyes limited US deal to relieve economic strain and buy time  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ0Ftb1FUSzZ0Ry1tcDNoRXJ1cnlld0l2MjJyRThsYmdyTHRSZURJWWRHWVY4WFVSbk1wVEpyXzJqQmlIUG0wVmFYM2lHdUc3WFJMcEt4TnZxTGw1XzBBMHpXS1BWRE02TU83UGNpNS1OWmhIZjBtaURzZzNTSUVmUW9vaEF6cnU4NUlyX0sxTDJvWmcwajZvbUpmZDgzaTZPUG1LSHZtTy1tZjBIbWdqZk1B?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1780339651,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780358840,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Iran is reportedly seeking a limited US deal to alleviate its economic strain, potentially buying time for the country to negotiate a more comprehensive agreement. This move comes as Iran's economy struggles under US sanctions, with the country's currency, the rial, experiencing significant depreciation. The limited deal would likely involve a temporary easing of sanctions, allowing Iran to access some US dollar-denominated assets and potentially stabilize its economy. The background to this development is the ongoing tensions between the US and Iran, which have led to a significant deterioration in Iran's economic situation.",
+      "impact": "The news is likely to have a mixed impact on the oil and gas sector, with some potential benefits from a temporary easing of sanctions on Iran's oil exports. However, any deal would likely be limited in scope, and the medium-term outlook for Iran's economy remains uncertain. The development may also impact the sentiment of investors towards the energy sector, potentially leading to a short-term increase in oil prices. This, in turn, could benefit oil producers, particularly those with significant exposure to the Middle East region.",
+      "risks": [
+        "sanctions risk",
+        "economic instability risk",
+        "geopolitical tensions risk"
       ]
     }
   },
@@ -1876,29 +2064,6 @@
     "publishedAt": 1780328965
   },
   {
-    "id": "8010005",
-    "headline": "Iran eyes limited US deal to relieve economic strain and buy time - Reuters",
-    "summary": "Iran eyes limited US deal to relieve economic strain and buy time  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ0Ftb1FUSzZ0Ry1tcDNoRXJ1cnlld0l2MjJyRThsYmdyTHRSZURJWWRHWVY4WFVSbk1wVEpyXzJqQmlIUG0wVmFYM2lHdUc3WFJMcEt4TnZxTGw1XzBBMHpXS1BWRE02TU83UGNpNS1OWmhIZjBtaURzZzNTSUVmUW9vaEF6cnU4NUlyX0sxTDJvWmcwajZvbUpmZDgzaTZPUG1LSHZtTy1tZjBIbWdqZk1B?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1780328880,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1780358840,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Iran is reportedly seeking a limited US deal to alleviate its economic strain, potentially buying time for the country to negotiate a more comprehensive agreement. This move comes as Iran's economy struggles under US sanctions, with the country's currency, the rial, experiencing significant depreciation. The limited deal would likely involve a temporary easing of sanctions, allowing Iran to access some US dollar-denominated assets and potentially stabilize its economy. The background to this development is the ongoing tensions between the US and Iran, which have led to a significant deterioration in Iran's economic situation.",
-      "impact": "The news is likely to have a mixed impact on the oil and gas sector, with some potential benefits from a temporary easing of sanctions on Iran's oil exports. However, any deal would likely be limited in scope, and the medium-term outlook for Iran's economy remains uncertain. The development may also impact the sentiment of investors towards the energy sector, potentially leading to a short-term increase in oil prices. This, in turn, could benefit oil producers, particularly those with significant exposure to the Middle East region.",
-      "risks": [
-        "sanctions risk",
-        "economic instability risk",
-        "geopolitical tensions risk"
-      ]
-    }
-  },
-  {
     "id": "8009788",
     "headline": "We're picking up more shares of an out-of-favor stock with a bright future",
     "summary": "The purchase will lower our average cost basis in the stock.",
@@ -2009,29 +2174,6 @@
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
     "publishedAt": 1780325752
-  },
-  {
-    "id": "8007404",
-    "headline": "Lebanon announces partial ceasefire between Israel, Hezbollah but attacks continue - Reuters",
-    "summary": "Lebanon announces partial ceasefire between Israel, Hezbollah but attacks continue  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYmZseGFNR05tMVJiV2tLRjdhdUFTUkwyT3pSdVFYdTJYWDdCZ0tRR2JNU002UEtMVHA1TXhabGhlUlMxUkIyOEh5dTNMR0dIQk1FQmxqUDRhcFZaREtrQkMyci1NS2lycENBOWtqbEpQVV9lX3FGOEJXU19ROEtaS0o0bTg0TGV5NGhtcGhORy12aUo4dzVxUlY2UElhZDFUalVqeWZmbUotQ21jQWxPeE5LZFM3WkNSZjE4bTR6MVhsTWFvRGpIMlpzeGpwTXZVby1Za2k5TQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1780325700,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1780291885,
-      "sentiment": "bearish",
-      "confidence": 0.75,
-      "summary": "The US has launched airstrikes on Iranian military sites in response to a rocket attack on a US air base in Iraq. This escalation in tensions between the US and Iran increases the risk of further conflict and instability in the region. The impact on the global economy and markets is uncertain, but a prolonged conflict could lead to higher oil prices and a decline in investor sentiment. The news is a negative development for companies with exposure to the Middle East, particularly those in the energy sector.",
-      "impact": "The potential impact on related stocks is negative, particularly for companies with exposure to the Middle East, such as energy companies with operations in the region. The increased tensions and risk of conflict could lead to a decline in investor sentiment, causing a short-term sell-off in the stocks of companies with ties to the region. In the medium term, a prolonged conflict could lead to higher oil prices, negatively impacting companies with high energy costs or those that rely on oil exports.",
-      "risks": [
-        "Increased conflict risk",
-        "Higher oil prices",
-        "Decline in investor sentiment"
-      ]
-    }
   },
   {
     "id": "8010546",
@@ -21370,213 +21512,6 @@
         "Increased production costs risk",
         "Decline in demand risk",
         "Uncertainty risk due to geopolitical tensions"
-      ]
-    }
-  },
-  {
-    "id": "7916845",
-    "headline": "Trump's feuds, tensions with allies likely to outlast Iran war - Reuters",
-    "summary": "Trump's feuds, tensions with allies likely to outlast Iran war  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa251MDhvbXRkZmpQYmxzZWpzdU9fLV91cW8taTJibUZkOEItUHVLMWZTbGcwZS1zdmVpbnZVdlpCMWdaNVdHdnRfbTZ0YWo5dkkya0UwZWF3Y01jR2Z3Zm1hQU1nQXNaOC1CZ1E2RkViemZ0VzVIV3lzLTN6RWJSNXowRjIwOXd5WEpRVU94UDVyZEd1SmFpZGd0OHVwZnFQM0F0RktYRHY?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778396400,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778317487,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "US President Trump's ongoing feuds and tensions with allies are likely to persist even after the Iran war subsides. This is because the root causes of these tensions, including trade policies, immigration, and security concerns, are deeply ingrained in the US's domestic and foreign policy. The ongoing tensions with allies will likely continue to impact US foreign policy and global relations, potentially affecting the country's reputation and influence. The impact on the US economy and businesses is expected to be moderate, with potential effects on trade, investment, and tourism. The situation is complex and multifaceted, with various stakeholders and interests at play.",
-      "impact": "The ongoing tensions with allies may lead to a short-term increase in uncertainty and volatility in the US stock market, potentially affecting the valuations of companies with significant exposure to international trade and investment. In the medium term, the situation may impact the earnings outlook for companies that rely on international trade, such as those in the aerospace and defense industries. The tensions may also lead to a decrease in investor sentiment towards the US market, potentially affecting liquidity and stock prices.",
-      "risks": [
-        "Trade war escalation risk",
-        "Decreased investor sentiment risk",
-        "Earnings outlook risk for international trade-reliant companies"
-      ]
-    }
-  },
-  {
-    "id": "7913226",
-    "headline": "Wall St Week Ahead Data, Iran, US-China meeting in focus for scorching US stock market - Reuters",
-    "summary": "Wall St Week Ahead Data, Iran, US-China meeting in focus for scorching US stock market  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVm1NRGVCTU9VOWx2YmpPRV91WVVQeHh5WGhFeDdfTVVodi1QdUgzUVNScHlCRVY2c1ZkbVZHQlFlVHREWG91c1YxMkhkSTNfcXBtazZfQ3NReloycDJMYUlKWFRMMTd4dXJnTWtjQ3RCTXJmbmNab21xQjgwd2h1TDZkeU1zNzMyVkdxSU9vcTRzUnd5bnVqZG9tb2lrSXpsSG1CUS1WekZJcVNMODFGRlA0RWx2MEVvXzV4UkpXMENmT1U?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778396400,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778247070,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The US stock market is expected to remain strong, driven by upcoming data releases, a US-China meeting, and the easing of tensions with Iran. The article highlights the potential for positive economic data to boost investor sentiment and support the market's current momentum. The US-China meeting is seen as a key event, with the possibility of a trade deal being reached, which could have a significant impact on the market. The easing of tensions with Iran also reduces the risk of a global economic downturn.",
-      "impact": "The positive sentiment and potential for a trade deal with China could lead to a short-term increase in stock prices, driven by improved earnings outlook and increased investor confidence. The medium-term impact could be a re-rating of the market, as investors become more optimistic about the US economy and corporate earnings. The easing of tensions with Iran could also reduce the risk of a global economic downturn, making it easier for companies to operate and invest in the region.",
-      "risks": [
-        "Trade deal risk: The US-China meeting may not result in a trade deal, which could lead to a market correction.",
-        "Economic data risk: Weak economic data could negatively impact investor sentiment and the market.",
-        "Geopolitical risk: The situation with Iran could escalate, leading to increased tensions and a negative impact on the market."
-      ]
-    }
-  },
-  {
-    "id": "7922398",
-    "headline": "Qatar says cargo vessel coming from Abu Dhabi attacked in its waters - Reuters",
-    "summary": "Qatar says cargo vessel coming from Abu Dhabi attacked in its waters  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSE96bUZWYWdjX3dMWjhTdkY5eWEwOXI1eElSalVKUnFCNmRYVUdBUkY4d2NPd3huN3VndUoyMWFzZDdBMXU5S0l3SjhoYVNBYkMyWUw2Tkd3WEtyWk44czQ3c2YweHBfRnI2UFc3dkFhS0U2bnVXeFJaNFcxcC1kZFB3WGphYWdBSkpxSldNaEhZUVdaU2lZN2RrUjhkSUtYWFFpUDF6UmJUSEhicnJjSXdUT2g?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778391005,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778413008,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "A cargo vessel coming from Abu Dhabi was attacked in Qatari waters, escalating tensions between Qatar and the United Arab Emirates. The incident occurred in a sensitive region with ongoing diplomatic and economic disputes. The attack may be related to the ongoing blockade of Qatar by Saudi Arabia, the UAE, and other countries. The incident highlights the risks of regional instability and potential disruptions to trade and commerce. The situation is likely to impact the economic and political relationship between Qatar and its neighbors.",
-      "impact": "The attack on the cargo vessel is likely to have a negative impact on the UAE's economy, particularly on companies with significant trade ties with Qatar. The incident may also lead to increased tensions in the region, potentially affecting the earnings outlook for companies with operations in the Middle East. In the short term, the attack may lead to a decline in investor sentiment for UAE-based companies, particularly those with exposure to Qatar. In the medium term, the situation may lead to increased costs and disruptions to trade, potentially impacting the valuation of UAE-based companies.",
-      "risks": [
-        "Regional instability risk",
-        "Trade disruption risk",
-        "Earnings outlook risk for UAE-based companies"
-      ]
-    }
-  },
-  {
-    "id": "7925144",
-    "headline": "Aramco Q1 profit jumps 25% as Hormuz risks push pipeline to full capacity - Reuters",
-    "summary": "Aramco Q1 profit jumps 25% as Hormuz risks push pipeline to full capacity  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdjlXbUFMYVMyd29pSmpOWU02UDNoelpfdmZPZ191VVdOcG55a1ZqYXlwTjQwV2IyZXcwcXBMRURCVkVpUFdOZVkzM2oxOHVrUk15MGprV1l3MWYwZVdLTktZS0pYR3U0dE16N21wcTgxWllXMjdRTEk2YlJmckpENFNQenVvbENtX19xVmMtVDV3UG9OZFFPRkpZWFpDZw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778390520,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778463247,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Aramco's Q1 profit surged 25% due to increased pipeline capacity driven by Hormuz risks, indicating resilience in the face of geopolitical tensions. The Hormuz Strait, a critical oil shipping route, has been subject to increased security concerns, prompting oil majors to diversify their pipeline networks. This has led to a surge in demand for pipeline capacity, benefiting Aramco's business. The company's ability to capitalize on this trend suggests its strong market position and adaptability.",
-      "impact": "The news is likely to have a positive impact on Aramco's stock in the short term, driven by the increased demand for pipeline capacity and the company's ability to capitalize on this trend. This could lead to a re-rating of the company's valuation, potentially driving up its stock price. However, investors should also consider the medium-term implications of increased pipeline capacity, including potential overcapacity and decreased utilization rates. Additionally, the ongoing geopolitical tensions in the region may continue to impact the company's operations and profitability.",
-      "risks": [
-        "Overcapacity risk in the pipeline sector",
-        "Decreased utilization rates due to increased capacity",
-        "Ongoing geopolitical tensions in the region"
-      ]
-    }
-  },
-  {
-    "id": "7923021",
-    "headline": "Africa’s richest man Dangote eyes Kenya for new refinery, FT reports - Reuters",
-    "summary": "Africa’s richest man Dangote eyes Kenya for new refinery, FT reports  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTmcyNWJRQmUtaUtmbERQUW9feFFhSUVoaVZkS1pYVGIySkdGNUlBaFZBNDVFbDhXMk1veTVxUDFhelc5QkFueTNKc3FQZUt0MmduTENwV2x0YmlYWmt2cFFTRkRJMktZYzRoNG9LM0VWQXozUGdYdWtZWTFUT1hoaEh0eERKQlQ3cXVyX2s3OUpST25adEpxWHVSbkIycnZpeDRMUlR2QWphSnZwSEpEaw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778386860,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778422326,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Africa's richest man Aliko Dangote is planning to build a new refinery in Kenya, as reported by the Financial Times. This move is part of Dangote's expansion plans in the African continent. The new refinery is expected to cater to the growing demand for petroleum products in East Africa. Dangote's investment in the region is a positive signal for the Kenyan economy and the broader African market. The project's success will depend on various factors, including regulatory approvals and the availability of funding.",
-      "impact": "This news is likely to have a positive impact on the Kenyan economy and the broader African market. The new refinery will increase the country's refining capacity and reduce its reliance on imported petroleum products. This could lead to a decrease in the country's trade deficit and an increase in government revenue. The success of the project will also boost Dangote's reputation as a major player in the African energy sector.",
-      "risks": [
-        "regulatory approval risk",
-        "funding risk",
-        "execution risk"
-      ]
-    }
-  },
-  {
-    "id": "7920493",
-    "headline": "Israel built and defended a secret base in Iraq for Iran war, WSJ reports - Reuters",
-    "summary": "Israel built and defended a secret base in Iraq for Iran war, WSJ reports  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbDN2ZXlkLUdEWG9PSXE4NS1QclA5X0JTQ2x1dUZIXzJBTjVkNTJZWk1yLUJVMlpPNWFfV1dqU0ZCbnJpNzQ5MFJSRkctYmhBRm0yVl9wLWZWTU1xLXp5dDhscVJ6bm5lZDVBeDg1MWd0ZzBzVmpGNmdETE1xcVI0bjVhcjQzVzJsa3RxT0llVkk0d3BaSVFLLWlsWWl3NFdjS2JhNUFvcUx5ZzZsSUZ2VVQ2Yw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778361216,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778399340,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The Wall Street Journal reports that Israel built and defended a secret base in Iraq for a potential war with Iran. This revelation has significant geopolitical implications, as it suggests a heightened state of military preparedness between the two nations. The base's existence was previously unknown, and its construction and defense indicate a serious commitment to regional security. The development is likely a response to ongoing tensions between Israel and Iran, which have been escalating in recent years. The news may have implications for regional stability and the global oil market.",
-      "impact": "The news is unlikely to have a direct impact on the stock market in the short term, but it may lead to increased volatility in the medium term. Investors should be cautious of potential escalations in the region, which could affect oil prices and global economic growth. The news may also lead to increased defense spending in the region, benefiting companies involved in the defense industry. However, the impact on specific stocks will depend on their exposure to the region and their business models.",
-      "risks": [
-        "Escalation of regional tensions and potential conflict",
-        "Increased defense spending and its impact on regional economies",
-        "Potential disruption to global oil supplies and prices"
-      ]
-    }
-  },
-  {
-    "id": "7919990",
-    "headline": "UK deploys warship to Middle East with eye on potential Hormuz mission - Reuters",
-    "summary": "UK deploys warship to Middle East with eye on potential Hormuz mission  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR1B6SWFua241SlJCblBFdzNCZHZlWVk3ZVkxaV9QS3RIVWNHYjc5eEVpcVRCTUVWNkNhLXlQVXQ0U0Z0U2hTUm1iM0RHN1pfQkFvVHBlT201Q1NnVUZ0dzdORWdiT0dMcmZZMm00bjBKOXhPZGdMMi1vMWR6eHZMeUh3UGJfQTJvS2tlVXp1Z2xiaDhsamNGRDQ0X2pmeS14X2VuVFp6dzhOT3I1dVE?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778358210,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778369508,
-      "sentiment": "bullish",
-      "confidence": 0.6,
-      "summary": "The UK has deployed a warship to the Middle East, with a potential mission to escort ships through the Strait of Hormuz. The move is a response to increased tensions in the region and a possible escalation of the Iran-US conflict. The Strait of Hormuz is a critical waterway for global oil exports, and any disruption to its operations could have significant economic and geopolitical implications. This development is likely to increase the demand for defense and security services, benefiting companies involved in the industry.",
-      "impact": "The news is likely to have a positive impact on defense and security stocks, particularly those with a presence in the Middle East or expertise in maritime security. Companies such as BAE Systems (BA.L) and Rolls-Royce (RR.L) may benefit from increased demand for their services. In the short-term, investors may see a boost in sentiment and liquidity for these stocks, while medium-term earnings outlook may also improve as the demand for defense and security services increases.",
-      "risks": [
-        "escalation of conflict risk",
-        "geopolitical instability risk",
-        "supply chain disruption risk"
-      ]
-    }
-  },
-  {
-    "id": "7919688",
-    "headline": "S&P 500 extends winning streak to 6 weeks. What drove the stock market gains",
-    "summary": "Investors cheered positive earnings, economic data, and a high-profile AI partnership.",
-    "url": "https://www.cnbc.com/2026/05/09/sp-500-extends-winning-streak-to-6-weeks-what-drove-the-stock-market-gains.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108265635-1770999292005-gettyimages-2260936508-AFP_97EN9RV.jpeg?v=1774272523&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1778357937,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778362148,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The S&P 500 and Nasdaq extended their winning streak to 6 weeks, driven by positive earnings, economic data, and a high-profile AI partnership. The Iran war remained a major focus for investors, but the market remained resilient, with oil prices and bond yields dropping. The strong April jobs report and resilient labor market weakened the case for a near-term rate cut, but didn't completely rule it out. The University of Michigan survey showed consumers' sentiment remains low, but the market is holding out hope for an end to the hostilities in the Mideast.",
-      "impact": "The positive earnings and economic data are likely to boost investor sentiment and drive the market higher in the short-term. The resilient labor market and low bond yields may also support the ongoing bull run. However, the Iran war and its impact on oil prices remain a significant risk to the market. The market's reaction to the potential rate cut by the Fed will also be closely watched, as it could have a significant impact on the market's trajectory.",
-      "risks": [
-        "Iran war escalation risk",
-        "Fed rate cut uncertainty",
-        "Oil price volatility risk"
-      ]
-    }
-  },
-  {
-    "id": "7919588",
-    "headline": "Qatari LNG tanker sailing towards Hormuz Strait, shipping data shows - Reuters",
-    "summary": "Qatari LNG tanker sailing towards Hormuz Strait, shipping data shows  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM2RPQWdNdmc3T2d1aDhIR3FBVl82NF8xTFplbmI3MDdHYUZOWlNmMHBjek1aOUdxaHltVnFYMnNoRGNOWk42em9TWlUwVzdXQ2lZdTZXMmJHWXVFSHdubWxlZkp2VG5wcWFia1hYalJxdVRqVmlrclRzQ3FJQzdLNFRiX3ZiT2xVTndFNGVKQXRLNk5JZVhodVJuT0lISVhNbmE0UjNVNEh0RUEwM0FJd1g4WUlrR0x6TFYtN29kWQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778348390,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778362195,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "A Qatari LNG tanker is reported to be sailing towards the Hormuz Strait, according to shipping data. The Hormuz Strait is a critical shipping lane for oil and gas exports, particularly for Qatar, which relies heavily on energy exports. This development may indicate an increase in Qatari LNG exports, potentially benefiting companies involved in the global LNG market. However, the article does not provide specific details on the tanker's destination or the volume of LNG being transported.",
-      "impact": "The news may have a positive impact on LNG-focused companies, such as those in the supply chain or involved in LNG trading. In the short-term, the increased LNG exports could lead to higher earnings for these companies due to increased demand. However, the medium-term impact will depend on the global LNG market's response to the increased supply, which may lead to decreased prices and reduced earnings for these companies. Additionally, the geopolitical tensions in the region may affect the tanker's journey and the overall LNG market.",
-      "risks": [
-        "Geopolitical tensions in the region",
-        "Decreased LNG prices due to increased supply",
-        "Potential disruptions to tanker operations"
       ]
     }
   }
