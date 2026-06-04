@@ -1,5 +1,51 @@
 [
   {
+    "id": "8026025",
+    "headline": "Jim Cramer says Thursday's rally shows investors' 'huge appetite' for stocks",
+    "summary": "CNBC's Jim Cramer said Thursday's rally showed investors remain resilient and eager to buy stocks.",
+    "url": "https://www.cnbc.com/2026/06/04/jim-cramer-says-thursdays-rally-shows-investors-huge-appetite-for-stocks.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/107113455-NUP_198430_00728r.jpg?v=1697496177&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1780611219,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780613874,
+      "sentiment": "bullish",
+      "confidence": 0.85,
+      "summary": "CNBC's Jim Cramer attributes Thursday's market rally to investors' resilience and appetite for stocks, shrugging off concerns about earnings disappointments and private credit redemptions. He cites Broadcom's history of conservative forecasts and CrowdStrike's stronger-than-expected results as examples of investors' willingness to look past potential obstacles. The successful debut of Quantinuum's IPO also suggests investors remain eager to participate in new offerings. The market's broad participation, including financial, healthcare, and transportation stocks, further indicates investor enthusiasm.",
+      "impact": "The rally suggests a short-term positive impact on the market, with potential for continued buying momentum. This could lead to a medium-term increase in stock prices, driven by investor sentiment and the broadening of market participation. The successful IPO debut of Quantinuum may also have a positive impact on the company's stock price and the overall tech sector.",
+      "risks": [
+        "Potential earnings disappointments from other companies could lead to a market correction",
+        "Overvaluation risk as investors continue to drive up stock prices",
+        "Uncertainty around the impact of private credit redemptions on the financial sector"
+      ]
+    }
+  },
+  {
+    "id": "8026027",
+    "headline": "Trump says he does not need deal with Iran to get enriched uranium - Reuters",
+    "summary": "Trump says he does not need deal with Iran to get enriched uranium  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM01DUG5YdTR1eWk0WTA3MGlTcDh0Y1g0N0ZlYUEwQTAwRWNKc3hFenJncXJ4M2hwS2ZQMlV0d2dITVU5ak4tand0WEN0MHNEZTFCYnBxc0hiSE53cnBHcmdVYXpvSGFCUTVQMFJjR2hmenFjMWdxck5iXzdRV1Q5blUzT3RLT3BsZjZCcWo3WHBYamNNdzQ2WDE1Nmp2MGFDN0lsZ0hzdjI?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1780605351,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780613925,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "US President Trump stated that the US does not need a deal with Iran to obtain enriched uranium, contradicting previous administration claims. This development may indicate a shift in US policy towards Iran, potentially easing tensions in the region. The US has not explicitly stated its intentions for obtaining enriched uranium, but this statement suggests a change in approach. The background of the news is the ongoing dispute between the US and Iran over nuclear agreements and uranium enrichment. The logical chain from the news to the business fundamentals is that a shift in US policy may impact the energy and defense sectors, as well as global markets. This could lead to a reevaluation of investments in companies involved in these sectors.",
+      "impact": "The news may have a neutral to slightly positive impact on energy and defense stocks, as a reduced threat of conflict with Iran could lead to increased investor confidence and improved earnings outlook. However, the medium-term impact is uncertain, as the US policy shift may also lead to increased tensions with other countries in the region, potentially affecting global markets and trade. The news may also lead to a reevaluation of investments in companies involved in the energy and defense sectors, potentially affecting their valuations and liquidity.",
+      "risks": [
+        "Increased tensions with other countries in the region",
+        "Uncertainty in US policy towards Iran",
+        "Potential impact on global markets and trade"
+      ]
+    }
+  },
+  {
     "id": "8025597",
     "headline": "Lululemon cuts annual outlook and issues weak Q2 guidance, citing undisclosed 'headwinds'",
     "summary": "Lululemon is expecting its situation to get a lot worse before it gets better, as it issued weak guidance for the full year.",
@@ -482,7 +528,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1780554240
+    "publishedAt": 1780554240,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780613973,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Hezbollah has rejected a ceasefire plan declared in Washington, and Israel continues to carry out strikes. This development increases tensions in the region and may lead to further escalation. The conflict has been ongoing for several days, with both sides trading blows. The situation is complex and sensitive, with multiple stakeholders involved. The potential for a prolonged conflict could impact regional stability and global markets. The conflict may also affect the earnings outlook for companies operating in the region.",
+      "impact": "The ongoing conflict may lead to a short-term increase in volatility for regional stocks, particularly those with exposure to Israel or Lebanon. Investors may reassess their risk appetite and adjust their portfolios accordingly, potentially leading to a decline in stock prices. In the medium term, a prolonged conflict could impact the earnings outlook for companies operating in the region, particularly those in the defense and aerospace industries. This may lead to a decrease in stock prices and a revaluation of their valuations.",
+      "risks": [
+        "Escalation of conflict risk",
+        "Regional instability risk",
+        "Earnings outlook risk"
+      ]
+    }
   },
   {
     "id": "8023323",
@@ -492,7 +551,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1780553383
+    "publishedAt": 1780553383,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780614020,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Global airline chiefs are set to gather at an industry summit to discuss the impact of the Iran-US conflict on fuel prices. The conflict has led to a surge in fuel prices, which is a significant cost component for airlines. This increase in fuel costs will likely lead to higher operating expenses for airlines, potentially affecting their profitability. The industry is already facing challenges such as overcapacity and declining demand, making it vulnerable to additional cost pressures.",
+      "impact": "The potential impact on airline stocks is bearish in the short term, as higher fuel costs will reduce profitability. In the medium term, airlines may need to pass on the increased costs to consumers through higher ticket prices, which could lead to a decline in demand. This could further exacerbate the industry's existing challenges, leading to a decline in stock prices. The earnings outlook for airlines may be negatively impacted, particularly for those with high fuel exposure.",
+      "risks": [
+        "Increased fuel costs risk",
+        "Decline in demand risk",
+        "Earnings pressure risk"
+      ]
+    }
   },
   {
     "id": "8023006",
@@ -636,7 +708,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1780529965
+    "publishedAt": 1780529965,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780614073,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "US President Trump's statement that a potential 2028 presidential run by Marco Rubio and Donald Trump would be unbeatable has sparked excitement among Republican supporters. This news is significant as it could signal a strong alliance between two prominent Republican figures, potentially altering the dynamics of the 2028 presidential election. The partnership could also impact the Republican Party's stance on various policy issues, which may influence the business environment and market sentiment. Rubio and Trump's joint candidacy could be a game-changer in the election, given their combined popularity and influence within the party.",
+      "impact": "The potential alliance between Rubio and Trump could lead to increased optimism among Republican supporters, potentially boosting the party's chances in the 2028 presidential election. This, in turn, could have a positive impact on the US stock market, particularly for companies that benefit from a Republican-friendly business environment. However, the medium-term impact on individual stocks may be limited, as the election is still two years away, and market sentiment is influenced by a multitude of factors.",
+      "risks": [
+        "Uncertainty surrounding the outcome of the 2028 presidential election",
+        "Potential shift in policy priorities and their impact on specific industries",
+        "Market volatility due to changing market sentiment"
+      ]
+    }
   },
   {
     "id": "8021647",
@@ -677,29 +762,6 @@
         "Deterioration in US-Israel relations",
         "Increased volatility in the Israeli stock market",
         "Potential decline in investor sentiment towards US companies with Israeli ties"
-      ]
-    }
-  },
-  {
-    "id": "8017143",
-    "headline": "Yen dips to 160 level, prompting warnings from Japanese officials - Reuters",
-    "summary": "Yen dips to 160 level, prompting warnings from Japanese officials  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdlBCenZ0QjFsZWdEem9ZT2tncUc5S29ra3RNOGZFVDJCQ1Fud2N3aEtyRXRIaUpEcUlzOTEtcHEydjRuZ1dzRlNQZ050MTJVN1AyM1RET2tTY3Y1MjI0dDNDaElYOTNwdlcwWHBQZmxEMzdwaGhxMnB6NEloajhWX2EtelpQb0dha21xSjJZZnBqajBTYTNLaWY4bWY3T242SzhGVUt2YzVWXzJr?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1780523360,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1780464876,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The yen has slipped to a key level of 160 due to increased hostilities in the Gulf region, which has boosted the dollar. This development is likely a result of investors seeking safe-haven assets as tensions rise in the region. The dollar's strength is a positive sign for US multinational companies with significant international exposure, as a stronger dollar can increase their competitiveness in foreign markets. The yen's weakness could also have a positive impact on Japanese exporters, as their products become more competitive in the global market.",
-      "impact": "The strengthening dollar is likely to have a positive impact on US multinational companies with significant international exposure, such as technology and consumer goods companies. These companies may see an increase in earnings due to the stronger dollar, which can boost their competitiveness in foreign markets. In the short-term, the yen's weakness could also lead to an increase in Japanese exports, benefiting companies such as Toyota and Honda. However, the medium-term impact will depend on the duration and intensity of the Gulf hostilities.",
-      "risks": [
-        "Escalation of Gulf hostilities and potential impact on global oil prices",
-        "Uncertainty around the duration and intensity of the conflict",
-        "Potential impact on global economic growth and trade"
       ]
     }
   },
@@ -746,29 +808,6 @@
         "geopolitical risks remain high in the region",
         "US-Iran tensions could escalate again",
         "uncertainty around future US foreign policy"
-      ]
-    }
-  },
-  {
-    "id": "8017142",
-    "headline": "World shares drop, oil jumps as Middle East unrest deepens - Reuters",
-    "summary": "World shares drop, oil jumps as Middle East unrest deepens  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeVllVU5TSEVpajhKb3hSRUx6NDY3bWU2cDJpaUtOMllscG9lckFqZzJrMEowQ0IxSENhamFtNjZuOXVGb2Ywd0VfSUhlTnUzRkR5dlJlNHI1ME02YnhJV1RWRk5PZml5QlRIRlRQWEZIMzNUYlBmQ183aGEzNXFZU3V3ZFFXb0dw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1780519764,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1780464782,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The recent escalation of fighting in the Middle East has led to an increase in oil prices, benefiting energy companies. This development, combined with the ongoing momentum of AI-related stocks, has driven the market higher. The Middle East conflict is expected to disrupt oil supplies, causing prices to rise, which in turn will boost the earnings of energy companies. The AI sector continues to gain traction, driven by the increasing adoption of AI technologies across various industries.",
-      "impact": "The short-term impact of the Middle East conflict on energy stocks is expected to be positive, with prices likely to remain elevated. This could lead to a boost in earnings for energy companies, potentially driving their stock prices higher. However, the medium-term impact of the conflict is uncertain and may lead to increased volatility in the market. The AI sector's continued growth is expected to drive the overall market higher, with potential beneficiaries including AI-related stocks and companies with exposure to the sector.",
-      "risks": [
-        "Supply chain disruption risk",
-        "Geopolitical instability risk",
-        "Economic downturn risk"
       ]
     }
   },
@@ -884,6 +923,29 @@
         "Regulatory challenges and potential backlash from states targeting prediction market platforms",
         "Uncertainty around the success of the partnership with The Jeffery and its ability to attract more clients",
         "Dependence on the performance of the Knicks and the outcome of the game"
+      ]
+    }
+  },
+  {
+    "id": "8016937",
+    "headline": "Oil gains as Middle East hostilities flare - Reuters",
+    "summary": "Oil gains as Middle East hostilities flare  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRktPRENWZHRDVGluSHgybDl4djZHUEhxNDJOdzVFRjR0NzFNV3BlemJvLUxCSTBfeElPN0lBQ2FWVnNra1owTi0tR05NM3JaVnhDQzBxMDVUTVJhQ2ZPQUY5QldBa3hfbnJRLTlINk5BQkN3djFuVWlUVTFSUFJjd0Y4eWpCbXFmZ2k4b0xoRFhjcVAzLXd1MFZlSXJ0b0kxOUppUEwtN0JSdU91ZWVzM1RtMA?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1780513954,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780464923,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Oil prices have extended their gains due to escalating hostilities in the Middle East and stalled diplomatic talks. The region's geopolitical tensions have increased the risk of supply disruptions, which is driving up oil prices. The situation is a concern for oil-producing countries and companies, as well as countries heavily reliant on oil imports. The current tensions are a short-term driver of oil prices, but the medium-term impact on the industry is uncertain. The ongoing conflict in the Middle East has the potential to disrupt oil production and exports, leading to higher prices and increased volatility.",
+      "impact": "The potential impact on oil-related stocks is positive in the short-term, as increased tensions and supply disruptions drive up oil prices. This could lead to higher earnings for oil-producing companies, particularly those with significant exposure to the Middle East. However, the medium-term impact is uncertain, as the conflict could lead to a prolonged period of volatility in the oil market. Investors should be cautious of the potential risks associated with the conflict, including supply chain disruptions and increased costs.",
+      "risks": [
+        "Supply chain disruptions risk",
+        "Increased costs risk",
+        "Volatility risk"
       ]
     }
   },
@@ -1032,29 +1094,6 @@
     }
   },
   {
-    "id": "8016937",
-    "headline": "Oil gains as Middle East hostilities flare - Reuters",
-    "summary": "Oil gains as Middle East hostilities flare  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRktPRENWZHRDVGluSHgybDl4djZHUEhxNDJOdzVFRjR0NzFNV3BlemJvLUxCSTBfeElPN0lBQ2FWVnNra1owTi0tR05NM3JaVnhDQzBxMDVUTVJhQ2ZPQUY5QldBa3hfbnJRLTlINk5BQkN3djFuVWlUVTFSUFJjd0Y4eWpCbXFmZ2k4b0xoRFhjcVAzLXd1MFZlSXJ0b0kxOUppUEwtN0JSdU91ZWVzM1RtMA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1780500178,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1780464923,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Oil prices have extended their gains due to escalating hostilities in the Middle East and stalled diplomatic talks. The region's geopolitical tensions have increased the risk of supply disruptions, which is driving up oil prices. The situation is a concern for oil-producing countries and companies, as well as countries heavily reliant on oil imports. The current tensions are a short-term driver of oil prices, but the medium-term impact on the industry is uncertain. The ongoing conflict in the Middle East has the potential to disrupt oil production and exports, leading to higher prices and increased volatility.",
-      "impact": "The potential impact on oil-related stocks is positive in the short-term, as increased tensions and supply disruptions drive up oil prices. This could lead to higher earnings for oil-producing companies, particularly those with significant exposure to the Middle East. However, the medium-term impact is uncertain, as the conflict could lead to a prolonged period of volatility in the oil market. Investors should be cautious of the potential risks associated with the conflict, including supply chain disruptions and increased costs.",
-      "risks": [
-        "Supply chain disruptions risk",
-        "Increased costs risk",
-        "Volatility risk"
-      ]
-    }
-  },
-  {
     "id": "8019632",
     "headline": "Sellers are pulling homes off the market at the fastest pace since 2020",
     "summary": "Frustrated sellers are pulling their homes off the market at an increasingly high pace, as demand weakens and bidding wars wane.",
@@ -1118,6 +1157,16 @@
         "Potential for oil price volatility"
       ]
     }
+  },
+  {
+    "id": "8025921",
+    "headline": "IMF says Saudi economy holding up during Iran war but growth could slow to 2% in 2026 - Reuters",
+    "summary": "IMF says Saudi economy holding up during Iran war but growth could slow to 2% in 2026  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPb2ZZT1o2eXpKVEJXNE5wR0VEN0VkTEFndHVnaGlmUmhBVzZZbXdDQXo5eGFrT1NqRVhBby1qdWN0dlFhRGhKU1Q2QmcxblozTmdnTmxtcU9pMEY4Nm9GcURiU0x0Ui1MUGNCR2pXR2htaTQ3Skw1NHVjcUxuWmZuUG9LU3lnUnVnbTg2bzBDcWJCOEZ2VmVNYS1qLWFpNnBCYWtRb29YNG1KSzUzR0VoN0czSEFwNEpjZFZ5dVhQOGJTZzZaVTNJ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1780492106
   },
   {
     "id": "8019414",
@@ -1542,6 +1591,29 @@
     }
   },
   {
+    "id": "8017142",
+    "headline": "World shares drop, oil jumps as Middle East unrest deepens - Reuters",
+    "summary": "World shares drop, oil jumps as Middle East unrest deepens  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeVllVU5TSEVpajhKb3hSRUx6NDY3bWU2cDJpaUtOMllscG9lckFqZzJrMEowQ0IxSENhamFtNjZuOXVGb2Ywd0VfSUhlTnUzRkR5dlJlNHI1ME02YnhJV1RWRk5PZml5QlRIRlRQWEZIMzNUYlBmQ183aGEzNXFZU3V3ZFFXb0dw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1780452840,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780464782,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The recent escalation of fighting in the Middle East has led to an increase in oil prices, benefiting energy companies. This development, combined with the ongoing momentum of AI-related stocks, has driven the market higher. The Middle East conflict is expected to disrupt oil supplies, causing prices to rise, which in turn will boost the earnings of energy companies. The AI sector continues to gain traction, driven by the increasing adoption of AI technologies across various industries.",
+      "impact": "The short-term impact of the Middle East conflict on energy stocks is expected to be positive, with prices likely to remain elevated. This could lead to a boost in earnings for energy companies, potentially driving their stock prices higher. However, the medium-term impact of the conflict is uncertain and may lead to increased volatility in the market. The AI sector's continued growth is expected to drive the overall market higher, with potential beneficiaries including AI-related stocks and companies with exposure to the sector.",
+      "risks": [
+        "Supply chain disruption risk",
+        "Geopolitical instability risk",
+        "Economic downturn risk"
+      ]
+    }
+  },
+  {
     "id": "8017562",
     "headline": "Gold slips on bets of higher rates as war fuels inflation fears - Reuters",
     "summary": "Gold slips on bets of higher rates as war fuels inflation fears  Reuters",
@@ -1573,6 +1645,29 @@
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
     "publishedAt": 1780448340
+  },
+  {
+    "id": "8017143",
+    "headline": "Yen dips to 160 level, prompting warnings from Japanese officials - Reuters",
+    "summary": "Yen dips to 160 level, prompting warnings from Japanese officials  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdlBCenZ0QjFsZWdEem9ZT2tncUc5S29ra3RNOGZFVDJCQ1Fud2N3aEtyRXRIaUpEcUlzOTEtcHEydjRuZ1dzRlNQZ050MTJVN1AyM1RET2tTY3Y1MjI0dDNDaElYOTNwdlcwWHBQZmxEMzdwaGhxMnB6NEloajhWX2EtelpQb0dha21xSjJZZnBqajBTYTNLaWY4bWY3T242SzhGVUt2YzVWXzJr?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1780447560,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780464876,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The yen has slipped to a key level of 160 due to increased hostilities in the Gulf region, which has boosted the dollar. This development is likely a result of investors seeking safe-haven assets as tensions rise in the region. The dollar's strength is a positive sign for US multinational companies with significant international exposure, as a stronger dollar can increase their competitiveness in foreign markets. The yen's weakness could also have a positive impact on Japanese exporters, as their products become more competitive in the global market.",
+      "impact": "The strengthening dollar is likely to have a positive impact on US multinational companies with significant international exposure, such as technology and consumer goods companies. These companies may see an increase in earnings due to the stronger dollar, which can boost their competitiveness in foreign markets. In the short-term, the yen's weakness could also lead to an increase in Japanese exports, benefiting companies such as Toyota and Honda. However, the medium-term impact will depend on the duration and intensity of the Gulf hostilities.",
+      "risks": [
+        "Escalation of Gulf hostilities and potential impact on global oil prices",
+        "Uncertainty around the duration and intensity of the conflict",
+        "Potential impact on global economic growth and trade"
+      ]
+    }
   },
   {
     "id": "8021438",
@@ -1796,6 +1891,29 @@
     }
   },
   {
+    "id": "8012110",
+    "headline": "Oil prices rise to one-week high as Iran reviews US proposal to halt war - Reuters",
+    "summary": "Oil prices rise to one-week high as Iran reviews US proposal to halt war  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMkZaWGJPbHBSQnUxdWZ6U3l6a3otSGFQSVNoTmpQNWJORWEtZ1dXeE42NGp2c2s4anV6UVFYenhsNHcycHh5UnhYUTJLRFlIbS1ONElzNzBCT2RsX0ROZVh4RXk3SmhKQmc0UXlFa1l4Sm5admU2LUNkdWxaZENkSmN3ZHJnbU1UYTJDbHZUdUJiNFFJZ3lfOTJmTnFKV21LQXZxcE1sWUF3TGZ5N3A4ZFROTTU?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1780430154,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780377522,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Oil prices steadied as uncertainty surrounding US-Iran talks kept markets on edge. The US and Iran are engaged in talks to revive the 2015 nuclear deal, which could have a significant impact on global oil supply. If the deal is reached, it could lead to a relaxation of sanctions on Iran, potentially increasing oil exports. However, if the talks fail, it could lead to a more tense situation in the region, potentially disrupting oil supplies.",
+      "impact": "The uncertainty surrounding the US-Iran talks has a neutral impact on oil prices, but it could have a significant impact on the earnings outlook of oil-related companies. If the deal is reached, it could lead to a short-term increase in oil prices, benefiting oil producers such as ExxonMobil and Chevron. However, if the talks fail, it could lead to a decrease in oil prices, negatively impacting the earnings of these companies. In the medium term, a successful deal could lead to increased oil production from Iran, potentially increasing supply and putting downward pressure on oil prices.",
+      "risks": [
+        "sanctions risk",
+        "supply disruption risk",
+        "price volatility risk"
+      ]
+    }
+  },
+  {
     "id": "8015772",
     "headline": "Traders say Karen Bass and Spencer Pratt will advance to runoff in high-profile L.A. mayoral race",
     "summary": "Los Angeles voters go to the polls Tuesday. If no candidate receives more than 50%, the top-two vote getters will advance to a November runoff.",
@@ -1907,29 +2025,6 @@
         "valuation risk",
         "earnings slowdown risk",
         "macroeconomic downturn risk"
-      ]
-    }
-  },
-  {
-    "id": "8012110",
-    "headline": "Oil prices rise to one-week high as Iran reviews US proposal to halt war - Reuters",
-    "summary": "Oil prices rise to one-week high as Iran reviews US proposal to halt war  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMkZaWGJPbHBSQnUxdWZ6U3l6a3otSGFQSVNoTmpQNWJORWEtZ1dXeE42NGp2c2s4anV6UVFYenhsNHcycHh5UnhYUTJLRFlIbS1ONElzNzBCT2RsX0ROZVh4RXk3SmhKQmc0UXlFa1l4Sm5admU2LUNkdWxaZENkSmN3ZHJnbU1UYTJDbHZUdUJiNFFJZ3lfOTJmTnFKV21LQXZxcE1sWUF3TGZ5N3A4ZFROTTU?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1780427105,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1780377522,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Oil prices steadied as uncertainty surrounding US-Iran talks kept markets on edge. The US and Iran are engaged in talks to revive the 2015 nuclear deal, which could have a significant impact on global oil supply. If the deal is reached, it could lead to a relaxation of sanctions on Iran, potentially increasing oil exports. However, if the talks fail, it could lead to a more tense situation in the region, potentially disrupting oil supplies.",
-      "impact": "The uncertainty surrounding the US-Iran talks has a neutral impact on oil prices, but it could have a significant impact on the earnings outlook of oil-related companies. If the deal is reached, it could lead to a short-term increase in oil prices, benefiting oil producers such as ExxonMobil and Chevron. However, if the talks fail, it could lead to a decrease in oil prices, negatively impacting the earnings of these companies. In the medium term, a successful deal could lead to increased oil production from Iran, potentially increasing supply and putting downward pressure on oil prices.",
-      "risks": [
-        "sanctions risk",
-        "supply disruption risk",
-        "price volatility risk"
       ]
     }
   },
@@ -21181,76 +21276,6 @@
       "summary": "The recent news of the US and Iran failing to reach an agreement on a peace proposal has led to a surge in oil prices. The US and Iran have been engaged in a long-standing conflict, and any development that increases tensions in the region typically leads to higher oil prices. This is because oil prices are heavily influenced by geopolitical events, particularly those that affect the supply of crude oil. The lack of a peace agreement between the two nations implies that the current situation of heightened tensions will continue, leading to higher oil prices.",
       "impact": "The potential impact on oil-related stocks could be significant, with short-term gains expected due to the increase in oil prices. This could lead to increased earnings for oil producers and refiners, positively affecting their stock prices. In the medium term, the ongoing tensions between the US and Iran could lead to a sustained increase in oil prices, making oil-related stocks more attractive to investors. However, the impact on the global economy and consumer sentiment could also lead to increased volatility in the stock market, affecting investor confidence and liquidity.",
       "risks": []
-    }
-  },
-  {
-    "id": "7925861",
-    "headline": "Dollar edges up as Trump rejects Iran peace move - Reuters",
-    "summary": "Dollar edges up as Trump rejects Iran peace move  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcTZ6NW1CNXZSaHpYd2tlQUtjRlFuYmZOc3hkVzlGMVRKVlFXMUwtNG40VC1jSURSVTd2cEVCV2ZXMHNHTGM0YU11OFBfMEtaQXBIN3dyQVhVc1Rmdng4SDAwYU1GUlZWZVRIYzc5S1ROQUJLcmpraHpVU1V1TnpLNm9kVXAtM1ZKUk9aQzQ5OEdPNnZRV0U4ZGlONFMtUmdVcXA0M2xpU2FYQThteFJvLUV4bUU?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778527802,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778478447,
-      "sentiment": "bullish",
-      "confidence": 0.7,
-      "summary": "US President Donald Trump's rejection of Iran's peace offer has led to a strengthening of the US dollar, as investors perceive the development as a positive for the US economy. The dollar's appreciation is attributed to the reduced uncertainty surrounding US foreign policy and the potential for increased economic sanctions on Iran. This, in turn, is expected to boost US exports and contribute to economic growth. The strengthening dollar may also have a negative impact on emerging markets and companies with significant foreign currency debt.",
-      "impact": "The strengthening US dollar is likely to have a positive impact on US-based multinational companies with significant foreign operations, as their earnings will be boosted by the weaker foreign currency. This may lead to an increase in their stock prices in the short term. However, the medium-term impact may be less clear, as a stronger dollar can also lead to reduced demand for US exports, potentially affecting companies with significant international sales.",
-      "risks": [
-        "Reduced demand for US exports",
-        "Impact on emerging markets",
-        "Increased economic sanctions on Iran"
-      ]
-    }
-  },
-  {
-    "id": "7929605",
-    "headline": "US issues alert to banks on IRGC efforts to evade sanctions - Reuters",
-    "summary": "US issues alert to banks on IRGC efforts to evade sanctions  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb3QtUVJiYmR1RjljSnkxYjZYc1BUTzVmQ3RhN3RydnItcy1VMFkwaHNiaExuNFZWV1F2dU8tSUk1RlM2WmYyWVkxQnJkQXl1VDd6bENfRzYtUk05MXdXWTR5Y3hDSHpodVdySFJpVEx0aHdSa3VvM05Nc2o1VEI4R3RMeXJ5T2t1cHJaWFlUbUtZdWlLUnFwUktJSi1NYXlGcVItZ0V1NjVPZw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778523823,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778539293,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The US has issued an alert to banks warning them of the Islamic Revolutionary Guard Corps (IRGC)'s efforts to evade sanctions. The IRGC is a designated foreign terrorist organization and has been subject to US sanctions since 2007. The alert highlights the IRGC's use of front companies and other tactics to circumvent sanctions. This development suggests that the IRGC continues to pose a significant risk to global financial institutions. The US government's warning may lead to increased scrutiny and potential penalties for banks that fail to comply with sanctions regulations.",
-      "impact": "The news may lead to increased regulatory scrutiny and potential penalties for banks that have dealings with the IRGC. This could result in higher compliance costs and potential fines, negatively impacting earnings and valuation for banks with significant exposure to the Middle East region. In the short term, we expect a negative reaction in bank stocks, particularly those with significant exposure to Iran or the Middle East. Medium-term, the increased regulatory environment may lead to a more cautious approach to doing business in the region, potentially impacting growth prospects for banks with significant exposure to the area.",
-      "risks": [
-        "Regulatory risk",
-        "Compliance risk",
-        "Increased costs and potential fines",
-        "Negative impact on earnings and valuation"
-      ]
-    }
-  },
-  {
-    "id": "7928969",
-    "headline": "A beat-and-raise is key for Qnity — plus, high stakes for CEOs on Trump China trip",
-    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-    "url": "https://www.cnbc.com/2026/05/11/a-beat-and-raise-is-key-for-qnity-plus-ceos-on-trump-china-trip.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108220696-1762191413398-Q-OB-Photo-20251103-CC-PRESS-31.jpg?v=1762191680&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1778523770,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778527261,
-      "sentiment": "bullish",
-      "confidence": 0.7,
-      "summary": "The market is experiencing a mix of positive and negative news, with tech stocks surging due to strong earnings and energy stocks rising alongside oil prices. However, consumer-related stocks are under pressure due to rising energy prices and the potential impact of the Consumer Price Index. The upcoming meeting between Trump and Chinese leaders, accompanied by CEOs from various companies, may have significant implications for Boeing and other participating companies. Qnity Electronics, a pure-play provider of integrated solutions for the semiconductor value chain, is set to report earnings and needs to beat expectations to sustain its rally.",
-      "impact": "The strong earnings and positive sentiment in the tech sector may continue to drive the market upwards, but the potential impact of rising energy prices and the Consumer Price Index may weigh on consumer-related stocks. Qnity Electronics' earnings report is crucial for the stock's short-term performance, and a beat-and-raise is necessary to sustain its rally. The meeting between Trump and Chinese leaders may have a positive impact on Boeing and other participating companies, but the outcome is uncertain.",
-      "risks": [
-        "Rising energy prices and inflation concerns",
-        "Uncertainty surrounding the outcome of the Trump-China meeting",
-        "Dependence on a single large order for Boeing's success"
-      ]
     }
   }
 ]
