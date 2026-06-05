@@ -7,7 +7,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1780684089,
+    "publishedAt": 1780692544,
     "analysis": {
       "version": 2,
       "generatedAt": 1780693946,
@@ -418,7 +418,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1780655268
+    "publishedAt": 1780655268,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780699711,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The World Food Programme (WFP) reports that the ongoing Middle East conflict is pushing millions of people into hunger. The conflict has disrupted food supplies, leading to a shortage of essential goods. This has severe consequences for the local population, particularly in areas where food is already scarce. The WFP warns that the situation may worsen if the conflict continues. The humanitarian crisis is expected to have a significant impact on the region's economy and stability.",
+      "impact": "The news is likely to have a negative impact on the earnings outlook for companies operating in the Middle East, particularly those in the food and agriculture sectors. The conflict may lead to increased costs and supply chain disruptions, which could negatively affect their profitability. In the short term, investors may become risk-averse and sell their holdings in companies with exposure to the region, leading to a decline in stock prices. This could result in a medium-term increase in volatility and a potential decline in investor sentiment.",
+      "risks": [
+        "Supply chain disruption risk",
+        "Increased costs risk",
+        "Decreased investor sentiment risk"
+      ]
+    }
   },
   {
     "id": "8028197",
@@ -735,29 +748,6 @@
     }
   },
   {
-    "id": "8023325",
-    "headline": "Hezbollah rejects ceasefire plan declared in Washington, Israel keeps up strikes - Reuters",
-    "summary": "Hezbollah rejects ceasefire plan declared in Washington, Israel keeps up strikes  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc0tZZnRwemFBYWROV0xINzJVYVdzUjFuOXVvZTBCbktuTnM2T01kYnozQmFBSVJIak1GdG5vNzdPNV9sdUVuSDZBTGFWbTlTa2FWRzBzNEhTYUJucmtwRjdIU05HWm9fWFlwVmpLT1M4QnoxeHlSc2htYWVsTTlxTXJ6b0ZDU05RdEFZZ2pyUW9VTjVGd1A3akFzZVNTa0JYYlljVzlVaUVrOGxpeWlVbk1zUi1KdG5ITXRyOVJoRTVnclVCZ0lnUnRJeWU?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1780586470,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1780613973,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Hezbollah has rejected a ceasefire plan declared in Washington, and Israel continues to carry out strikes. This development increases tensions in the region and may lead to further escalation. The conflict has been ongoing for several days, with both sides trading blows. The situation is complex and sensitive, with multiple stakeholders involved. The potential for a prolonged conflict could impact regional stability and global markets. The conflict may also affect the earnings outlook for companies operating in the region.",
-      "impact": "The ongoing conflict may lead to a short-term increase in volatility for regional stocks, particularly those with exposure to Israel or Lebanon. Investors may reassess their risk appetite and adjust their portfolios accordingly, potentially leading to a decline in stock prices. In the medium term, a prolonged conflict could impact the earnings outlook for companies operating in the region, particularly those in the defense and aerospace industries. This may lead to a decrease in stock prices and a revaluation of their valuations.",
-      "risks": [
-        "Escalation of conflict risk",
-        "Regional instability risk",
-        "Earnings outlook risk"
-      ]
-    }
-  },
-  {
     "id": "8020280",
     "headline": "Resilient Saudi economy proves a draw for wartime Gulf business - Reuters",
     "summary": "Resilient Saudi economy proves a draw for wartime Gulf business  Reuters",
@@ -1053,6 +1043,29 @@
     }
   },
   {
+    "id": "8021123",
+    "headline": "US House votes for measure that would end Iran war, in blow to Trump - Reuters",
+    "summary": "US House votes for measure that would end Iran war, in blow to Trump  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaXZBVGtQRWNUQXJnZ1ZIRy1ESnlmMTR6MXZMeGotWEJEV0JwTnJmVXdHYUJZazB3cjhrU2FLN0gyMk0tUlNPZDVYYUpLMzhhTUZFam9aLWpNWjNManFDVzFVTGFudDBCQnJja0V4YXFLNldHRUtvYTZBdVR5eTlZaHFKb1dHSjBHSXNMRHpZR3JGY21Kb1NONEJ3ckoxR3N4d3c?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1780559993,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780525023,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The US House of Representatives has passed a resolution to curb President Trump's war powers regarding Iran, limiting his ability to engage in military action without congressional approval. This development is a significant shift in US foreign policy and reduces the likelihood of a major conflict with Iran. The resolution's passage is seen as a check on the executive branch's authority, reflecting a growing concern among lawmakers about the potential consequences of military action. The move is also a response to the US-Iran tensions that have escalated in recent months.",
+      "impact": "The resolution's passage is likely to have a positive impact on defense stocks that benefit from reduced tensions with Iran, such as Boeing (BA) and Lockheed Martin (LMT). These companies may see increased demand for their defense products and services as the US government seeks to reduce its military presence in the region. In the medium term, the reduced risk of conflict may also lead to increased investment in the region, benefiting companies with exposure to the Middle East, such as ExxonMobil (XOM) and Chevron (CVX).",
+      "risks": [
+        "geopolitical risks remain high in the region",
+        "US-Iran tensions could escalate again",
+        "uncertainty around future US foreign policy"
+      ]
+    }
+  },
+  {
     "id": "8023429",
     "headline": "China to cut domestic retail gasoline, diesel prices from June 5 - Reuters",
     "summary": "China to cut domestic retail gasoline, diesel prices from June 5  Reuters",
@@ -1099,6 +1112,29 @@
     }
   },
   {
+    "id": "8023325",
+    "headline": "Hezbollah rejects ceasefire plan declared in Washington, Israel keeps up strikes - Reuters",
+    "summary": "Hezbollah rejects ceasefire plan declared in Washington, Israel keeps up strikes  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc0tZZnRwemFBYWROV0xINzJVYVdzUjFuOXVvZTBCbktuTnM2T01kYnozQmFBSVJIak1GdG5vNzdPNV9sdUVuSDZBTGFWbTlTa2FWRzBzNEhTYUJucmtwRjdIU05HWm9fWFlwVmpLT1M4QnoxeHlSc2htYWVsTTlxTXJ6b0ZDU05RdEFZZ2pyUW9VTjVGd1A3akFzZVNTa0JYYlljVzlVaUVrOGxpeWlVbk1zUi1KdG5ITXRyOVJoRTVnclVCZ0lnUnRJeWU?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1780554240,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780613973,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Hezbollah has rejected a ceasefire plan declared in Washington, and Israel continues to carry out strikes. This development increases tensions in the region and may lead to further escalation. The conflict has been ongoing for several days, with both sides trading blows. The situation is complex and sensitive, with multiple stakeholders involved. The potential for a prolonged conflict could impact regional stability and global markets. The conflict may also affect the earnings outlook for companies operating in the region.",
+      "impact": "The ongoing conflict may lead to a short-term increase in volatility for regional stocks, particularly those with exposure to Israel or Lebanon. Investors may reassess their risk appetite and adjust their portfolios accordingly, potentially leading to a decline in stock prices. In the medium term, a prolonged conflict could impact the earnings outlook for companies operating in the region, particularly those in the defense and aerospace industries. This may lead to a decrease in stock prices and a revaluation of their valuations.",
+      "risks": [
+        "Escalation of conflict risk",
+        "Regional instability risk",
+        "Earnings outlook risk"
+      ]
+    }
+  },
+  {
     "id": "8023006",
     "headline": "More oil escapes Hormuz, keeping traders guessing - Reuters",
     "summary": "More oil escapes Hormuz, keeping traders guessing  Reuters",
@@ -1106,7 +1142,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1780553220,
+    "publishedAt": 1780554012,
     "analysis": {
       "version": 2,
       "generatedAt": 1780565832,
@@ -1460,25 +1496,25 @@
     }
   },
   {
-    "id": "8021123",
-    "headline": "US House votes for measure that would end Iran war, in blow to Trump - Reuters",
-    "summary": "US House votes for measure that would end Iran war, in blow to Trump  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaXZBVGtQRWNUQXJnZ1ZIRy1ESnlmMTR6MXZMeGotWEJEV0JwTnJmVXdHYUJZazB3cjhrU2FLN0gyMk0tUlNPZDVYYUpLMzhhTUZFam9aLWpNWjNManFDVzFVTGFudDBCQnJja0V4YXFLNldHRUtvYTZBdVR5eTlZaHFKb1dHSjBHSXNMRHpZR3JGY21Kb1NONEJ3ckoxR3N4d3c?oc=5",
+    "id": "8030758",
+    "headline": "How America celebrated its 200th birthday in 1976 - Reuters",
+    "summary": "How America celebrated its 200th birthday in 1976  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNXNfd3FKTDAzc1l5VG1sRHhsWjZQaFVvdTkwTC15T3dLR2NKTHZhUXA1RV8tZEpETjNSbWg5a1dXTDl5ZmR1MGFWdFRtRUlfNnBnTUJvREFlaFZwMGt4V3hNOGRfa0xVVmxMSHo5ekpJRzdwelZrN0ZtU09KaUlqU3ByNWdaMmUtQlZFVGtWS01zSDFFRkE?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1780521840,
+    "publishedAt": 1780519200,
     "analysis": {
       "version": 2,
-      "generatedAt": 1780525023,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The US House of Representatives has passed a resolution to curb President Trump's war powers regarding Iran, limiting his ability to engage in military action without congressional approval. This development is a significant shift in US foreign policy and reduces the likelihood of a major conflict with Iran. The resolution's passage is seen as a check on the executive branch's authority, reflecting a growing concern among lawmakers about the potential consequences of military action. The move is also a response to the US-Iran tensions that have escalated in recent months.",
-      "impact": "The resolution's passage is likely to have a positive impact on defense stocks that benefit from reduced tensions with Iran, such as Boeing (BA) and Lockheed Martin (LMT). These companies may see increased demand for their defense products and services as the US government seeks to reduce its military presence in the region. In the medium term, the reduced risk of conflict may also lead to increased investment in the region, benefiting companies with exposure to the Middle East, such as ExxonMobil (XOM) and Chevron (CVX).",
+      "generatedAt": 1780699758,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The article reports on how America celebrated its 200th birthday in 1976, highlighting various events and festivities across the country. The celebrations included the Bicentennial era, which was marked by a renewed sense of national pride and unity. The article provides a nostalgic look at the events, people, and cultural trends of the time. The celebrations were a significant event in American history, reflecting the country's growth and development over the past 200 years. The article does not have any direct relation to business fundamentals or industry context.",
+      "impact": "The article's nostalgic tone and historical context are unlikely to have a direct impact on the stock market or related stocks in the short-term. However, the article may contribute to a positive sentiment shift towards the US economy and consumer spending in the medium-term, potentially benefiting companies in the tourism, entertainment, and consumer goods sectors. This could lead to increased investor confidence and a positive impact on their stock prices.",
       "risks": [
-        "geopolitical risks remain high in the region",
-        "US-Iran tensions could escalate again",
-        "uncertainty around future US foreign policy"
+        "overemphasis on nostalgia may not translate to increased consumer spending",
+        "historical events do not directly impact current business fundamentals",
+        "article's focus on national pride and unity may not be a significant driver for stock market performance"
       ]
     }
   },
@@ -2081,7 +2117,20 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/108309872-1779291291941-gettyimages-2216860840-RWANDA_TUNGSTEN.jpeg?v=1779291310&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1780486211
+    "publishedAt": 1780486211,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780699807,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The ongoing wars in Ukraine and Iran have led to a shortage of tungsten, a critical metal used in munitions, industrial production, and various everyday items. China dominates the global tungsten market, controlling 80% of production, but has clamped down on exports due to national security concerns. This has created a supply chain bottleneck, with the US relying on imports, particularly from China. The US Department of Defense is seeking new sources of tungsten, with a new mining operation in Kazakhstan being developed.",
+      "impact": "The tungsten shortage is likely to drive up prices, benefiting companies involved in tungsten mining and processing, such as those listed on the stock exchange. In the short-term, this could lead to increased earnings for these companies, while in the medium-term, it could attract new investments and partnerships. The US Department of Defense's new sourcing rules could also create new opportunities for companies that can provide alternative sources of tungsten.",
+      "risks": [
+        "Supply chain disruption risk",
+        "Dependence on Chinese tungsten imports risk",
+        "Regulatory approval risk for new mining operations"
+      ]
+    }
   },
   {
     "id": "8022166",
@@ -2091,7 +2140,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1780482858
+    "publishedAt": 1780482858,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780699854,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "UK services firms have reported a decline in activity for the first time since April 2025, primarily due to the ongoing Iran war and its associated price pressure. This development is a concern for the UK economy, as services account for a significant portion of the country's GDP. The Iran war has led to increased uncertainty and volatility in the market, affecting businesses' confidence and investment decisions. The decline in services activity may also have a ripple effect on other sectors, such as manufacturing and trade.",
+      "impact": "The decline in services activity is likely to have a negative impact on the UK economy in the short term, potentially leading to a decrease in GDP growth. This may also lead to a decline in earnings for companies in the services sector, particularly those with high exposure to the UK market. The Iran war's price pressure may also lead to increased inflation, which could further exacerbate the situation. In the medium term, the decline in services activity may lead to a decrease in business investment and hiring, potentially affecting the overall economic growth.",
+      "risks": [
+        "Decreased earnings for services sector companies",
+        "Increased inflation due to price pressure",
+        "Decreased business investment and hiring"
+      ]
+    }
   },
   {
     "id": "8018971",
@@ -2170,7 +2232,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1780477544
+    "publishedAt": 1780477544,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780699900,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The Israeli military intercepted a 'hostile aircraft' that crossed from Lebanon, escalating tensions in the region. The incident occurred on the backdrop of ongoing conflicts in the Middle East, with Israel and Lebanon having a long-standing dispute over their shared border. The event may lead to increased military spending and heightened security measures, potentially impacting the defense industry and related companies. The incident may also raise concerns about regional instability and its impact on global markets.",
+      "impact": "The incident may have a bearish impact on the defense industry, particularly on companies that supply military equipment and services to Israel. The increased military spending and heightened security measures may lead to a short-term boost in demand for defense-related products and services, but the medium-term impact may be neutral or even bearish if the conflict escalates and leads to a broader regional destabilization. The incident may also lead to increased volatility in global markets, particularly in the Middle East, which could impact investor sentiment and liquidity.",
+      "risks": [
+        "Regional instability risk",
+        "Escalation of conflict risk",
+        "Global market volatility risk"
+      ]
+    }
   },
   {
     "id": "8023428",
@@ -21319,29 +21394,6 @@
         "Regulatory risks for Super Micro Computer due to its ties to China",
         "Risk of a demand slowdown for AI servers",
         "Potential impact of soaring gas prices on consumer spending"
-      ]
-    }
-  },
-  {
-    "id": "7930941",
-    "headline": "Indian shares post worst drop in six weeks; $115 bln wiped out as Mideast hopes fade - Reuters",
-    "summary": "Indian shares post worst drop in six weeks; $115 bln wiped out as Mideast hopes fade  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMV8xdXh1d1g2cWJUY3NfcmxFYzZRR2lXSTc1cE1xeWNPZ2lNcVRReXZzU2Q5RnFPQnEzT0lXaFBOaWlDNFZoUWszNFd1bjRLUEtCdVF0M2pmUW5ra3c2V0tXanVVRjd5eUE4QjYyVWFWSEFfTkhnZU51THgwOXhsV3VUeEszaVlqdy1sUkl2TURWZm1xcmNrVnlsMHBwdUdXa2x5RWtpZS1Rc0xGejMtanVlNG0?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778589282,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778563533,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Indian shares have declined and the rupee has reached a record low due to fading hopes of a Middle East peace deal. The news has negatively impacted investor sentiment, leading to a sell-off in the market. The Indian economy is heavily reliant on oil imports, and a weaker rupee makes imports more expensive, potentially harming corporate earnings. This development is a negative for Indian companies with high exposure to oil imports, such as those in the energy and consumer staples sectors.",
-      "impact": "The short-term impact on Indian stocks is likely to be negative, with a potential decline in earnings for companies with high oil import exposure. The medium-term impact may be more significant, as a weaker rupee can lead to higher inflation and interest rates, making it more expensive for companies to borrow and invest. This could lead to a decrease in investor sentiment and a decline in stock prices. The impact on the Indian rupee is also likely to be significant, potentially leading to a decrease in foreign investment and a widening trade deficit.",
-      "risks": [
-        "higher inflation risk",
-        "interest rate risk",
-        "decrease in investor sentiment risk"
       ]
     }
   }
