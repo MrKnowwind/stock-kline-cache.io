@@ -459,7 +459,16 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1780763460
+    "publishedAt": 1780763460,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780862539,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Iraqi World Cup striker Hussein was questioned for hours at Chicago airport, according to a source. The reason for the questioning is not specified in the article. The incident occurred in the United States, but there is no clear connection to any specific company or industry. The news is likely a one-off event and does not have any direct implications for the global economy or business fundamentals.",
+      "impact": "The news is unlikely to have any direct impact on the stock market or related stocks. However, it may slightly increase the risk perception for companies with international operations or those involved in global events and travel. In the short term, the news may lead to a slight increase in volatility for companies with exposure to international events or travel-related industries. Long-term, the news is unlikely to have any significant impact on the earnings outlook or valuation of related companies.",
+      "risks": []
+    }
   },
   {
     "id": "8039244",
@@ -469,7 +478,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1780759783
+    "publishedAt": 1780759783,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780862585,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "A recent Israeli strike in Gaza resulted in the deaths of seven people, including two women, according to medics. The incident occurred in a volatile region, where tensions between Israel and Palestine have been escalating. The situation remains sensitive, with potential implications for regional stability. The incident is not directly related to any specific company or industry, but it may impact the broader sentiment towards defense and aerospace stocks. The Israeli defense industry is a significant player in the global market, and any escalation of violence could lead to increased demand for defense-related products and services.",
+      "impact": "The potential impact on the Israeli defense industry could be positive in the short term, as increased tensions may lead to increased demand for defense-related products and services. However, this could be offset by the negative sentiment towards the region, which may lead to decreased investor confidence and potentially lower stock prices. Medium-term, the impact could be more significant, as a prolonged conflict could lead to increased investment in the defense sector, potentially benefiting companies such as Elbit Systems (ESLT) and Israel Aerospace Industries (ARCI).",
+      "risks": [
+        "regional instability risk",
+        "sentiment risk",
+        "valuation risk"
+      ]
+    }
   },
   {
     "id": "8035620",
@@ -1032,7 +1054,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1780672817
+    "publishedAt": 1780672817,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780862635,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The Bank of Canada (BoC) is expected to maintain interest rates through 2026, despite temporary inflation pressures. This decision is based on the BoC's assessment that these pressures are transitory and will not have a lasting impact on the economy. The central bank is focusing on the long-term prospects of the economy, which are expected to remain strong. This news is positive for the Canadian economy and the financial sector, as it suggests that the BoC is confident in the country's economic growth prospects.",
+      "impact": "This news is likely to have a positive impact on the Canadian financial sector, particularly banks and other interest-rate sensitive stocks. The expectation of stable interest rates through 2026 could lead to higher stock prices for these companies, as investors become more confident in their earnings outlook. Additionally, the news may also boost sentiment in the Canadian dollar, making it more attractive for foreign investors to invest in the country.",
+      "risks": [
+        "Inflation risks: If inflation persists or accelerates, the BoC may need to re-evaluate its interest rate stance.",
+        "Economic slowdown risk: A global economic downturn could lead to lower interest rates and negatively impact the Canadian financial sector.",
+        "Monetary policy risk: Changes in monetary policy could impact the interest rate outlook and affect the stock prices of interest-rate sensitive companies."
+      ]
+    }
   },
   {
     "id": "8038128",
@@ -1354,6 +1389,29 @@
     }
   },
   {
+    "id": "8039854",
+    "headline": "Swedish court rules seized cargo ship can be handed over to Ukraine - Reuters",
+    "summary": "Swedish court rules seized cargo ship can be handed over to Ukraine  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOVB2Si1qZFhfcmYybXNhdjZ6eXVSRm4xaE0xejNhOUxndGJHSG5kejR1SHJtX29kU1hLYV9OZkg5WElwdXNITWs2VHpEVGpLWl9jUDN1S1huOHVZQlBKX2dfQjczREpkc3hsMW1oTy1OTzVOMV9lQnVleHdOLVNaelVVWkljS1BPZHA5NWlDNWVVdjNsa0JEZS1pQnFlVnN3SThZbDg4U3Z0Zw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1780657543,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780862681,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "A Swedish court has ruled that a seized cargo ship can be handed over to Ukraine, potentially easing tensions between the two countries. The cargo ship was seized by Russia in 2019, and its return is seen as a significant development in the ongoing conflict. The decision is expected to improve Ukraine's trade prospects and potentially boost its economy. The court's ruling is a positive development for Ukraine, but its impact on the global shipping industry is likely to be limited.",
+      "impact": "The news is likely to have a positive impact on Ukrainian stocks, particularly those involved in the shipping and logistics sectors. The return of the cargo ship could lead to an increase in trade between Ukraine and its trading partners, potentially boosting economic growth and earnings for companies involved in the sector. However, the impact on the global shipping industry is expected to be limited, as the seized ship is just one of many cargo vessels operating in the region.",
+      "risks": [
+        "geopolitical tensions between Russia and Ukraine may escalate",
+        "potential delays in the handover process",
+        "impact on global shipping industry may be limited"
+      ]
+    }
+  },
+  {
     "id": "8028608",
     "headline": "India's economy expands 7.8% over January to March — faster than expected",
     "summary": "The world's fastest growing major economy, India, has been facing major headwinds due to the conflict in Middle East that began end of February.",
@@ -1518,7 +1576,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1780633980
+    "publishedAt": 1780633980,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780862725,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "The article discusses a small miss and its significant impact on the market. A company's earnings report showed a small miss, but the market reacted strongly, indicating a possible shift in investor sentiment. The company's stock price dropped significantly, and investors are reevaluating their expectations. The article highlights the volatility of the market and the potential for a correction.",
+      "impact": "The potential impact on related stocks is significant, with a possible short-term correction in the market. The earnings report may lead to a reevaluation of the company's valuation, potentially affecting its stock price. Investors may reassess their expectations, leading to a shift in market sentiment. The article suggests that the market is volatile and may be due for a correction.",
+      "risks": [
+        "valuation risk",
+        "sentiment shift risk",
+        "market correction risk"
+      ]
+    }
   },
   {
     "id": "8032069",
@@ -1917,6 +1988,29 @@
     }
   },
   {
+    "id": "8023325",
+    "headline": "Hezbollah rejects ceasefire plan declared in Washington, Israel keeps up strikes - Reuters",
+    "summary": "Hezbollah rejects ceasefire plan declared in Washington, Israel keeps up strikes  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc0tZZnRwemFBYWROV0xINzJVYVdzUjFuOXVvZTBCbktuTnM2T01kYnozQmFBSVJIak1GdG5vNzdPNV9sdUVuSDZBTGFWbTlTa2FWRzBzNEhTYUJucmtwRjdIU05HWm9fWFlwVmpLT1M4QnoxeHlSc2htYWVsTTlxTXJ6b0ZDU05RdEFZZ2pyUW9VTjVGd1A3akFzZVNTa0JYYlljVzlVaUVrOGxpeWlVbk1zUi1KdG5ITXRyOVJoRTVnclVCZ0lnUnRJeWU?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1780586470,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780613973,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Hezbollah has rejected a ceasefire plan declared in Washington, and Israel continues to carry out strikes. This development increases tensions in the region and may lead to further escalation. The conflict has been ongoing for several days, with both sides trading blows. The situation is complex and sensitive, with multiple stakeholders involved. The potential for a prolonged conflict could impact regional stability and global markets. The conflict may also affect the earnings outlook for companies operating in the region.",
+      "impact": "The ongoing conflict may lead to a short-term increase in volatility for regional stocks, particularly those with exposure to Israel or Lebanon. Investors may reassess their risk appetite and adjust their portfolios accordingly, potentially leading to a decline in stock prices. In the medium term, a prolonged conflict could impact the earnings outlook for companies operating in the region, particularly those in the defense and aerospace industries. This may lead to a decrease in stock prices and a revaluation of their valuations.",
+      "risks": [
+        "Escalation of conflict risk",
+        "Regional instability risk",
+        "Earnings outlook risk"
+      ]
+    }
+  },
+  {
     "id": "8037927",
     "headline": "Netanyahu faces plunging support in north Israel as voters demand tougher Lebanon stance - Reuters",
     "summary": "Netanyahu faces plunging support in north Israel as voters demand tougher Lebanon stance  Reuters",
@@ -1982,29 +2076,6 @@
         "Increased regulatory scrutiny and potential penalties for companies and individuals facing SEC enforcement actions",
         "Higher costs associated with complying with SEC regulations",
         "Potential negative impact on companies with a history of securities law violations"
-      ]
-    }
-  },
-  {
-    "id": "8023325",
-    "headline": "Hezbollah rejects ceasefire plan declared in Washington, Israel keeps up strikes - Reuters",
-    "summary": "Hezbollah rejects ceasefire plan declared in Washington, Israel keeps up strikes  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc0tZZnRwemFBYWROV0xINzJVYVdzUjFuOXVvZTBCbktuTnM2T01kYnozQmFBSVJIak1GdG5vNzdPNV9sdUVuSDZBTGFWbTlTa2FWRzBzNEhTYUJucmtwRjdIU05HWm9fWFlwVmpLT1M4QnoxeHlSc2htYWVsTTlxTXJ6b0ZDU05RdEFZZ2pyUW9VTjVGd1A3akFzZVNTa0JYYlljVzlVaUVrOGxpeWlVbk1zUi1KdG5ITXRyOVJoRTVnclVCZ0lnUnRJeWU?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1780582999,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1780613973,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Hezbollah has rejected a ceasefire plan declared in Washington, and Israel continues to carry out strikes. This development increases tensions in the region and may lead to further escalation. The conflict has been ongoing for several days, with both sides trading blows. The situation is complex and sensitive, with multiple stakeholders involved. The potential for a prolonged conflict could impact regional stability and global markets. The conflict may also affect the earnings outlook for companies operating in the region.",
-      "impact": "The ongoing conflict may lead to a short-term increase in volatility for regional stocks, particularly those with exposure to Israel or Lebanon. Investors may reassess their risk appetite and adjust their portfolios accordingly, potentially leading to a decline in stock prices. In the medium term, a prolonged conflict could impact the earnings outlook for companies operating in the region, particularly those in the defense and aerospace industries. This may lead to a decrease in stock prices and a revaluation of their valuations.",
-      "risks": [
-        "Escalation of conflict risk",
-        "Regional instability risk",
-        "Earnings outlook risk"
       ]
     }
   },
@@ -22025,25 +22096,6 @@
         "Potential decline in foreign investment",
         "Decrease in the value of the Latvian lats"
       ]
-    }
-  },
-  {
-    "id": "7937691",
-    "headline": "Nissan predicts profit above $1 billion this fiscal year, modest Iran war hit - Reuters",
-    "summary": "Nissan predicts profit above $1 billion this fiscal year, modest Iran war hit  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWGhpdENxOVcyMExfTWs0aTZyREJxX01vaEF0NkxyMVBqZ3hzdU12NGpPREhzYXhfcnRiLXpkekNzS1NLTXYySWZuRzlTNlBWeFJ4dVZRUVlMaVVIbnJjYkttTXA3SERmLVJ4bWJmUGp3VVJoSXZ1VVRFTlVOSEVjRHltZ2tTcWMxTWNRNkMtLV81QXM4eFpoajNFazF1RFBPLWc?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778682805,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778688923,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Nissan has predicted a profit above $1 billion for the current fiscal year, despite a modest impact from the Iran war. The company's revised forecast is an improvement from its previous estimate. Nissan's resilience is attributed to its diversified operations and cost-cutting measures. The news is a positive surprise for investors, as the market had been expecting a more significant hit from the conflict. The company's ability to mitigate the effects of the war demonstrates its operational strength.",
-      "impact": "The news is likely to have a positive impact on Nissan's stock price in the short term, as investors react to the improved earnings outlook. The company's ability to maintain profitability despite the Iran war will boost sentiment and potentially lead to a re-evaluation of its valuation. However, investors should remain cautious, as the medium-term impact will depend on the duration and severity of the conflict. Additionally, the company's reliance on Middle Eastern markets may still pose a risk if the situation escalates.",
-      "risks": []
     }
   }
 ]
