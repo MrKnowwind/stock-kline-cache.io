@@ -1,5 +1,61 @@
 [
   {
+    "id": "8039242",
+    "headline": "Here are the 6 big things we're watching in the stock market this week",
+    "summary": "Earnings season for Club names has come to an end, but that doesn't mean the excitement has.",
+    "url": "https://www.cnbc.com/2026/06/07/the-6-big-things-were-watching-in-the-stock-market-this-week.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108299250-1777479631989-gettyimages-2273121353-US-NEWS-SCI-SPACEX-LAUNCH-OS.jpeg?v=1777479669&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1780847934
+  },
+  {
+    "id": "8038737",
+    "headline": "US draft resolution at IAEA demands Iran open up on sites, uranium stocks - Reuters",
+    "summary": "US draft resolution at IAEA demands Iran open up on sites, uranium stocks  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWUM3R3dKX21nNlNJX0RpUlpmRTlGWGc5THZwYXZjdXE2Z0M0dUVfaVpPTVhhajZZQTZIQ3JfTzNKMkZ6UUpMazRFbzFlSmRSdDFaVnRSbFl1OV9fSUs3QWU1S1RHMUJoVVQwbm9KejJnMXFOUXpudVhZaXd6a0lDV1pJYk5RdG1UaWhZOFE2b3poUU5RcFVnVmRPUFRNWmwtdi1jeGc4MXZmQWlkNVBQeGcyckRZSTh5SWRZ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1780846002,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780845375,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "The US has drafted a resolution at the International Atomic Energy Agency (IAEA) demanding Iran open up its nuclear sites and uranium stocks for inspection. This move is a significant escalation of tensions between the US and Iran, as it directly challenges Iran's nuclear program. The IAEA has been monitoring Iran's nuclear activities, but this resolution aims to increase transparency and accountability. The resolution's passage would likely lead to increased tensions and potential economic sanctions against Iran. This could have far-reaching implications for the global energy market, particularly for companies involved in the nuclear industry.",
+      "impact": "The potential passage of this resolution could lead to a short-term increase in volatility for energy-related stocks, particularly those with exposure to the Middle East or nuclear energy. In the medium term, a more significant impact could be seen if the resolution leads to increased economic sanctions against Iran, potentially disrupting global oil supplies and driving up prices. This could benefit energy companies with diversified supply chains or those with a strong presence in non-Iranian oil-producing regions.",
+      "risks": [
+        "Increased tensions and potential economic sanctions against Iran could lead to a slowdown in oil production and exports, impacting global energy markets.",
+        "The resolution's passage could also lead to a decrease in investor sentiment for energy-related stocks, particularly those with exposure to the Middle East or nuclear energy.",
+        "The potential for increased volatility in the energy market could lead to a liquidity crisis for some energy-related stocks, making it difficult for investors to buy or sell shares."
+      ]
+    }
+  },
+  {
+    "id": "8039142",
+    "headline": "Iran's World Cup team arrive in Tijuana with US tensions high - Reuters",
+    "summary": "Iran's World Cup team arrive in Tijuana with US tensions high  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYjNBakMyWFQwSzEwLWtYTmc4TXNHb2h0RHJCYWdES3NmenJURzZWa2UwdE1TbHowVzhvRjhHLVBWX1V0YnRpeDZPcmJ2YjI1bXJ1Z05zay1FcEVlUFIxNjlCb09ydTFXVV9qVUJyZTl4Z0M5U3JpLU9MOXFjVjRNUjlRdjJnSE5RNVYta0pyWTh2S3dNNThKekUwcU9iNmxSN3hqaEw4c3RLQ1k?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1780842217,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780851540,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Iran's World Cup team's arrival in Tijuana is a minor, isolated event that does not have a direct impact on the global economy or the financial markets. However, the timing of this event coincides with heightened US-Iran tensions, which could potentially lead to increased geopolitical instability. The World Cup is a major international sporting event that brings together nations from around the world, but it is not directly related to the business fundamentals of any specific company or industry. The article does not mention any specific companies or industries that could be affected by this event.",
+      "impact": "In the short term, the potential impact on related stocks is minimal, as the event is not directly related to any specific company or industry. However, in the medium term, increased US-Iran tensions could lead to a decrease in investor confidence, potentially affecting the valuations of companies with exposure to the region. This could be particularly relevant for companies with operations or supply chains in the Middle East, such as energy or logistics companies.",
+      "risks": [
+        "geopolitical instability risk",
+        "decreased investor confidence risk",
+        "valuation risk"
+      ]
+    }
+  },
+  {
     "id": "8038738",
     "headline": "Trump says he would not unfreeze Iran's assets before peace deal is done - Reuters",
     "summary": "Trump says he would not unfreeze Iran's assets before peace deal is done  Reuters",
@@ -46,25 +102,25 @@
     }
   },
   {
-    "id": "8038737",
-    "headline": "US resolution draft at IAEA demands Iran open up on sites, uranium stocks - Reuters",
-    "summary": "US resolution draft at IAEA demands Iran open up on sites, uranium stocks  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWUM3R3dKX21nNlNJX0RpUlpmRTlGWGc5THZwYXZjdXE2Z0M0dUVfaVpPTVhhajZZQTZIQ3JfTzNKMkZ6UUpMazRFbzFlSmRSdDFaVnRSbFl1OV9fSUs3QWU1S1RHMUJoVVQwbm9KejJnMXFOUXpudVhZaXd6a0lDV1pJYk5RdG1UaWhZOFE2b3poUU5RcFVnVmRPUFRNWmwtdi1jeGc4MXZmQWlkNVBQeGcyckRZSTh5SWRZ?oc=5",
+    "id": "8039042",
+    "headline": "Gunman kills one, wounds five in drive-by attacks in Israel - Reuters",
+    "summary": "Gunman kills one, wounds five in drive-by attacks in Israel  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTVVBY0NvY3MxTGpiWkluSFByZkZzUlBWYm1uYW9XV2pzZ3JNSmxTaGpPVm42ZjREeXF6WDZLMUN1TnZOdlZuOWsyYmhyWlEtbWZ6WWF3UDdJNWROVVB2UkFLX0lYcG8zbndnRUhqTXJ1cmxBZjVOem1LQkVqUTdlcWY2TEwxRExWNG9vTzZEalZ3WVluaUJGTTNjLWxlc3pUZG5hdlJuZWJzQ05EcDU3U1ZfcGNIQ3hMV3Q3UVpmZHc2UXoxbTQ0c19uYw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1780838427,
+    "publishedAt": 1780838394,
     "analysis": {
       "version": 2,
-      "generatedAt": 1780845375,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "The US has drafted a resolution at the International Atomic Energy Agency (IAEA) demanding Iran open up its nuclear sites and uranium stocks for inspection. This move is a significant escalation of tensions between the US and Iran, as it directly challenges Iran's nuclear program. The IAEA has been monitoring Iran's nuclear activities, but this resolution aims to increase transparency and accountability. The resolution's passage would likely lead to increased tensions and potential economic sanctions against Iran. This could have far-reaching implications for the global energy market, particularly for companies involved in the nuclear industry.",
-      "impact": "The potential passage of this resolution could lead to a short-term increase in volatility for energy-related stocks, particularly those with exposure to the Middle East or nuclear energy. In the medium term, a more significant impact could be seen if the resolution leads to increased economic sanctions against Iran, potentially disrupting global oil supplies and driving up prices. This could benefit energy companies with diversified supply chains or those with a strong presence in non-Iranian oil-producing regions.",
+      "generatedAt": 1780851588,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "A gunman killed one person and wounded five others in a series of drive-by attacks in Israel. The incident occurred in the West Bank, a region known for its high levels of violence and conflict. This event is not directly related to any specific company or industry, but it may have broader implications for the Israeli economy and the global geopolitical landscape. The attack is a reminder of the ongoing tensions in the region and the potential risks associated with investing in companies with significant operations or exposure to Israel. The incident is likely to have a limited impact on the overall Israeli economy, but it may lead to increased security measures and a heightened sense of unease among investors.",
+      "impact": "The incident is unlikely to have a significant impact on the Israeli economy in the short term, but it may lead to increased security measures and a higher sense of uncertainty among investors. This could potentially weigh on the Israeli shekel and lead to a decline in the country's stock market. In the medium term, the incident may lead to increased tensions between Israel and its neighbors, which could have broader implications for the global economy and the companies operating in the region.",
       "risks": [
-        "Increased tensions and potential economic sanctions against Iran could lead to a slowdown in oil production and exports, impacting global energy markets.",
-        "The resolution's passage could also lead to a decrease in investor sentiment for energy-related stocks, particularly those with exposure to the Middle East or nuclear energy.",
-        "The potential for increased volatility in the energy market could lead to a liquidity crisis for some energy-related stocks, making it difficult for investors to buy or sell shares."
+        "Increased security risks for companies operating in Israel",
+        "Heightened geopolitical tensions in the region",
+        "Potential decline in investor sentiment and confidence"
       ]
     }
   },
@@ -139,8 +195,8 @@
   },
   {
     "id": "8037627",
-    "headline": "Israeli military strikes Hezbollah in Beirut's Dahiyeh - Reuters",
-    "summary": "Israeli military strikes Hezbollah in Beirut's Dahiyeh  Reuters",
+    "headline": "Israeli military says it hit Hezbollah in Beirut suburbs - Reuters",
+    "summary": "Israeli military says it hit Hezbollah in Beirut suburbs  Reuters",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRWM3a2NBbFRYb3ZxLUNNb3kwYVRtckcyZjVValRobHBhYjJ2TUZUWkFqbHNmUjI5VjROeVlSR0RmcjRkMGJoc2htWjlGWmFtcnhNSUtyOG5WRk1fbjNPZ1NEV0VuaVNDYUw4Tk1oSWJyendTbWdUOHc0V0Z2a0JiUjdiRHNBMTRFclBzNzhaODI3ak9QZGFNMnY5bzEzQTB2WXZ5eUNLZmNPMzJ6bjk0UVZLSjVsLUhkSHRUOE56czIwUTVDeVE?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -168,7 +224,16 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1780809360
+    "publishedAt": 1780809360,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780851632,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "South Korea has nominated Han as the country's first female prime minister in two decades. This move is seen as a significant step towards promoting gender equality in the country's politics. Han's nomination is expected to be voted on by the National Assembly, and if approved, she will become the first female prime minister in 20 years. The nomination is a positive development for South Korea's efforts to increase diversity and inclusion in its government.",
+      "impact": "The nomination of Han as prime minister is unlikely to have a direct impact on the stock market in the short term. However, it may lead to a positive sentiment shift towards South Korean equities, particularly those with a strong focus on social responsibility and diversity. In the medium term, the appointment of a female prime minister could lead to increased investment in female-led businesses and initiatives, potentially benefiting companies with a strong track record of promoting women in the workplace. This could lead to increased earnings growth and improved valuation multiples for these companies.",
+      "risks": []
+    }
   },
   {
     "id": "8038740",
@@ -178,7 +243,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1780801740
+    "publishedAt": 1780801740,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780851680,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Ethiopian Airlines is expected to make a decision on a regional jet order within the next three months. The airline has been evaluating options for new aircraft to support its growing regional network. This decision is likely to be driven by the airline's need to expand its regional presence and improve its fleet efficiency. The order could be a significant opportunity for regional jet manufacturers, such as Bombardier or Embraer, to secure a major contract.",
+      "impact": "The potential order could have a positive impact on regional jet manufacturers, potentially driving up their stock prices in the short-term. However, the decision is still uncertain, and the airline's choice may depend on various factors, including pricing, delivery timelines, and maintenance costs. In the medium-term, the order could lead to increased demand for regional jets, potentially benefiting the industry as a whole.",
+      "risks": [
+        "Pricing risk: the airline may negotiate a favorable price for the jets, which could impact the manufacturer's profit margins.",
+        "Delivery risk: delays in delivery could impact the airline's operational efficiency and passenger satisfaction.",
+        "Alternative options risk: the airline may choose to lease or purchase used aircraft or explore alternative regional jet options, reducing demand for new jets."
+      ]
+    }
   },
   {
     "id": "8036021",
@@ -270,6 +348,16 @@
     "publishedAt": 1780763460
   },
   {
+    "id": "8039244",
+    "headline": "Israeli strike in Gaza kills seven people, including two women, medics say - Reuters",
+    "summary": "Israeli strike in Gaza kills seven people, including two women, medics say  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa2dRaVMwVWwyZUhrV2xseWEzYVhWdjhHLUFzMXZhNUtUajFxcUxaUkVtRTdqUUZIOUlTRlViVUt6WDNuaV8yMTNwaTJLQ0VwdG5FMUNSVTYxYnhoM0JGUUFsbEhOTGNmcVdqc1FEcGlxSTZWbUQ4ZGxwM3N1dzFOU1RzeU9FbE52cVlmQkJzN2NaZjIwUHpnLWxINnVjdXdkUkRCbXhaaTh5Q0hyandnaVQ2aUg3Z0JVOTdRdE1TUkM?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1780759783
+  },
+  {
     "id": "8035620",
     "headline": "Lebanese army chief leaves for Pakistan at invitation of counterpart - Reuters",
     "summary": "Lebanese army chief leaves for Pakistan at invitation of counterpart  Reuters",
@@ -358,6 +446,29 @@
         "Potential for the Strait of Hormuz to reopen, reducing oil prices and negatively impacting US oil stocks",
         "Increased competition from OPEC+ countries, potentially reducing US oil companies' market share",
         "Uncertainty around global oil demand and the impact of the Strait's closure on the global economy"
+      ]
+    }
+  },
+  {
+    "id": "8028508",
+    "headline": "Trump's 'crazy' rebuke undercuts Netanyahu at a critical moment - Reuters",
+    "summary": "Trump's 'crazy' rebuke undercuts Netanyahu at a critical moment  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOVJhNXhDSC1NbGdmd1NJUnlTaGFMM3JxTnZFNUR6VVpDdXlMS2ZOLW05TW1YMXJhcUdGSVFfM1Q3VVNURUNVSnl4VVM3WnlFMGZuZjVOSUhQZkFCZjBBYVFBeEMzTVViNnFLZWtCWGdKMDFRTF8xZ0RVUlBPbDZBV2FFZVpCZmhHTG00RWNDRGtIS0N5TXI1RzRFY1ozQXR3SXpDNm9JX0ZPcUxQR0E?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1780729200,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780660327,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "US President Donald Trump's public rebuke of Israeli Prime Minister Benjamin Netanyahu has dealt a significant blow to Netanyahu's re-election campaign at a critical moment. The rebuke has sparked a diplomatic crisis between the US and Israel, potentially undermining the long-standing alliance between the two countries. This development has significant implications for the Israeli economy, particularly for companies with ties to the government, such as defense contractors and infrastructure developers. Netanyahu's weakened position may lead to a delay in key infrastructure projects, impacting the earnings outlook for these companies.",
+      "impact": "The potential impact on the Israeli economy and related stocks is significant, with a short-term risk of increased volatility and a medium-term risk of reduced investor confidence. Companies with ties to the government, such as defense contractors and infrastructure developers, may see their earnings outlook deteriorate as a result of the diplomatic crisis. This could lead to a decline in their stock prices, particularly if investors become increasingly risk-averse. The crisis may also lead to a decrease in foreign investment in Israel, further exacerbating the economic impact.",
+      "risks": [
+        "Diplomatic crisis risk",
+        "Economic instability risk",
+        "Decreased investor confidence risk"
       ]
     }
   },
@@ -1198,29 +1309,6 @@
     }
   },
   {
-    "id": "8028508",
-    "headline": "Trump's 'crazy' rebuke undercuts Netanyahu at a critical moment - Reuters",
-    "summary": "Trump's 'crazy' rebuke undercuts Netanyahu at a critical moment  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOVJhNXhDSC1NbGdmd1NJUnlTaGFMM3JxTnZFNUR6VVpDdXlMS2ZOLW05TW1YMXJhcUdGSVFfM1Q3VVNURUNVSnl4VVM3WnlFMGZuZjVOSUhQZkFCZjBBYVFBeEMzTVViNnFLZWtCWGdKMDFRTF8xZ0RVUlBPbDZBV2FFZVpCZmhHTG00RWNDRGtIS0N5TXI1RzRFY1ozQXR3SXpDNm9JX0ZPcUxQR0E?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1780650000,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1780660327,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "US President Donald Trump's public rebuke of Israeli Prime Minister Benjamin Netanyahu has dealt a significant blow to Netanyahu's re-election campaign at a critical moment. The rebuke has sparked a diplomatic crisis between the US and Israel, potentially undermining the long-standing alliance between the two countries. This development has significant implications for the Israeli economy, particularly for companies with ties to the government, such as defense contractors and infrastructure developers. Netanyahu's weakened position may lead to a delay in key infrastructure projects, impacting the earnings outlook for these companies.",
-      "impact": "The potential impact on the Israeli economy and related stocks is significant, with a short-term risk of increased volatility and a medium-term risk of reduced investor confidence. Companies with ties to the government, such as defense contractors and infrastructure developers, may see their earnings outlook deteriorate as a result of the diplomatic crisis. This could lead to a decline in their stock prices, particularly if investors become increasingly risk-averse. The crisis may also lead to a decrease in foreign investment in Israel, further exacerbating the economic impact.",
-      "risks": [
-        "Diplomatic crisis risk",
-        "Economic instability risk",
-        "Decreased investor confidence risk"
-      ]
-    }
-  },
-  {
     "id": "8023866",
     "headline": "Yen touches 160, dollar slips from two-month high amid Iran talks - Reuters",
     "summary": "Yen touches 160, dollar slips from two-month high amid Iran talks  Reuters",
@@ -1406,6 +1494,29 @@
         "Potential for future supply chain disruptions",
         "Uncertainty in global oil demand",
         "Geopolitical risks in the Middle East"
+      ]
+    }
+  },
+  {
+    "id": "8022167",
+    "headline": "Wall Street ends mixed as Broadcom drags tech, European stocks gain; oil dips - Reuters",
+    "summary": "Wall Street ends mixed as Broadcom drags tech, European stocks gain; oil dips  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMGphS3NPLVBWc1FHMDZFdklTMS1VQ2tzOE5zQnlOaXJaUTdwcW13VjNfUkowNnljUmhDTUhuNy0xS05sdVNkTmZqS1F0dDVCYkoyR053M05IR1c5QWFyR0RrY3BDcEtFS0NaRFZxTkhER0N6eHByMlJLTzdBeW8yOFFYSQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1780622799,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780551006,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "A flare-up in Middle East fighting has led to a decline in global stock markets, with oil prices easing off their highs. The conflict has increased tensions in the region, raising concerns about the stability of global energy supplies. This news has negatively impacted investor sentiment, causing stocks to slide. The situation is a reminder of the ongoing geopolitical risks that can impact the global economy and energy markets.",
+      "impact": "The flare-up in Middle East fighting is likely to have a short-term negative impact on energy stocks, particularly those with exposure to the region. Companies with high leverage or those with significant exposure to the oil and gas industry may see their valuations come under pressure. In the medium term, the conflict could lead to increased volatility in energy markets, potentially affecting earnings outlook and liquidity for energy-related stocks.",
+      "risks": [
+        "geopolitical risk",
+        "energy supply chain disruption risk",
+        "market volatility risk"
       ]
     }
   },
@@ -2326,29 +2437,6 @@
         "integration risk",
         "market share erosion risk",
         "earnings decline risk"
-      ]
-    }
-  },
-  {
-    "id": "8022167",
-    "headline": "Wall Street ends mixed as Broadcom drags tech, European stocks gain; oil dips - Reuters",
-    "summary": "Wall Street ends mixed as Broadcom drags tech, European stocks gain; oil dips  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMGphS3NPLVBWc1FHMDZFdklTMS1VQ2tzOE5zQnlOaXJaUTdwcW13VjNfUkowNnljUmhDTUhuNy0xS05sdVNkTmZqS1F0dDVCYkoyR053M05IR1c5QWFyR0RrY3BDcEtFS0NaRFZxTkhER0N6eHByMlJLTzdBeW8yOFFYSQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1780533780,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1780551006,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "A flare-up in Middle East fighting has led to a decline in global stock markets, with oil prices easing off their highs. The conflict has increased tensions in the region, raising concerns about the stability of global energy supplies. This news has negatively impacted investor sentiment, causing stocks to slide. The situation is a reminder of the ongoing geopolitical risks that can impact the global economy and energy markets.",
-      "impact": "The flare-up in Middle East fighting is likely to have a short-term negative impact on energy stocks, particularly those with exposure to the region. Companies with high leverage or those with significant exposure to the oil and gas industry may see their valuations come under pressure. In the medium term, the conflict could lead to increased volatility in energy markets, potentially affecting earnings outlook and liquidity for energy-related stocks.",
-      "risks": [
-        "geopolitical risk",
-        "energy supply chain disruption risk",
-        "market volatility risk"
       ]
     }
   },
@@ -21942,98 +22030,6 @@
         "Oil price volatility risk",
         "Capital outflow risk",
         "Currency volatility risk"
-      ]
-    }
-  },
-  {
-    "id": "7937683",
-    "headline": "Whipsaw market actions leaves traders looking for direction. The 'fear gauge' might offer a clue",
-    "summary": "Volatility in the S&P 500 as measured by the Cboe VIX Index ended down on Tuesday, despite a brief pop to 19.01, the highest since April 28.",
-    "url": "https://www.cnbc.com/2026/05/13/whipsaw-market-actions-leaves-traders-looking-for-direction-the-fear-gauge-might-offer-a-clue.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108303847-1778173903070-gettyimages-2274431101-HAWKEYE_IPO.jpeg?v=1778174895&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1778678748,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778680449,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The market experienced a whipsaw action on Tuesday, with the S&P 500 ending down by less than 12 points despite a brief pop in the VIX to 19.01, its highest since April 28. This disconnect between the benchmark index and its individual components, such as semiconductor stocks, presents a hedging opportunity. The Cboe VIX Index ended down on the day, but options traders showed conviction in buying VIX calls, indicating a potential opportunity in volatility. This is particularly notable given the recent surge in crude oil prices and the 10-year Treasury yield, which has led to massive swings in semiconductor stocks.",
-      "impact": "The muted VIX presents a potential hedging opportunity in volatility, which could be attractive to traders. This could lead to increased buying of VIX calls, potentially driving up the price of volatility. In the short term, this may impact semiconductor stocks, such as Qualcomm and Intel, which have seen massive swings and soaring options prices. In the medium term, the impact on these stocks will depend on their earnings outlook, valuation, and sentiment, as well as macro factors such as crude oil prices and interest rates.",
-      "risks": [
-        "Increased volatility in the market",
-        "Potential downturn in semiconductor stocks",
-        "Impact of crude oil prices on earnings outlook"
-      ]
-    }
-  },
-  {
-    "id": "7937575",
-    "headline": "The Club's top 10 things to watch in the stock market Wednesday",
-    "summary": "AI stocks like Micron and Club name Corning after coming right back after one day of selling.",
-    "url": "https://www.cnbc.com/2026/05/13/the-clubs-top-10-things-to-watch-in-the-stock-market-wednesday.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108240006-1765390998579-gettyimages-2244770556-CHINA_CIIE.jpeg?v=1773772572&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1778677839,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778680497,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The stock market is expected to be influenced by various factors, including the reversal of semiconductor and AI stocks, Nvidia's upcoming earnings, and the performance of companies like Qnity Electronics, Johnson & Johnson, and NextPower. AI stocks like Micron and Corning are bouncing back after one day of selling, while Nvidia's price target was raised to $320. Johnson & Johnson was upgraded to buy with a price target of $265, driven by its accelerating sales growth and raised revenue estimates for its psoriasis pill. NextPower's strong quarter and backlog increase led to a 13% jump in its shares.",
-      "impact": "The reversal of semiconductor and AI stocks could lead to a short-term bounce in stocks like Micron and Corning. Nvidia's earnings next week may have a medium-term impact on its stock price, with a raised price target of $320. Johnson & Johnson's upgrade to buy and raised revenue estimates could lead to a medium-term increase in its stock price. NextPower's strong quarter and backlog increase may lead to a short-term increase in its stock price, driven by its expanding product offerings and revenue growth.",
-      "risks": [
-        "valuation risk",
-        "earnings miss risk",
-        "macroeconomic uncertainty"
-      ]
-    }
-  },
-  {
-    "id": "7937904",
-    "headline": "Swiss considering rival air defences after Washington delays Patriots over Iran war - Reuters",
-    "summary": "Swiss considering rival air defences after Washington delays Patriots over Iran war  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbGdQUG1hTUliWnIzbE5lMF9QS1AtQk01S3hINlpuV2RnVTMxRXoxZ1JMZ0hOMTN2ZVJxSGFZRGxhcDZOR0NZQ2h0cEROZDdwWHJIRDJTZjRiV2tZSTcweHRDdDBuN1hsMDJYQ1VjN0tEMVRvR2RzWDI1ZlZheWFHU3Y2WWdnd090WUFneTlQNm9EZEF1Rjc0Ri1XWnk3d0FRc0pfcDZCdlA5c0dlQVNZ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778675268,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778697132,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The Swiss government is considering alternative air defense systems following the US delay in delivering Patriot missile systems to the country. This decision is reportedly linked to the ongoing tensions between the US and Iran. The Swiss government's move is likely driven by a desire to enhance its national security and protect its citizens. The US delay in delivering the Patriot systems is seen as a strategic decision, possibly due to the escalating tensions with Iran. This development may have implications for the defense industry, particularly companies involved in air defense systems.",
-      "impact": "The news is likely to have a mixed impact on the defense industry, with potential short-term volatility and medium-term opportunities. The delay in the Patriot system delivery may lead to increased demand for alternative air defense systems, benefiting companies like MBDA (a European missile manufacturer) and Rafael Advanced Defense Systems. However, the US delay may also lead to a decrease in demand for US-made defense systems, negatively impacting companies like Lockheed Martin. The sentiment around the defense industry may become more cautious, potentially leading to a short-term decline in stock prices.",
-      "risks": [
-        "Increased competition in the air defense market",
-        "Potential decrease in demand for US-made defense systems",
-        "Uncertainty around the US-Iran tensions and their impact on global defense spending"
-      ]
-    }
-  },
-  {
-    "id": "7938646",
-    "headline": "UAE-owned tanker leaks some fuel off Oman following Iranian strike - Reuters",
-    "summary": "UAE-owned tanker leaks some fuel off Oman following Iranian strike  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaHVXdXd2azZYMkF4azRGNG5aamJCc2xkSWtEWW9YUmc2UVdacXVRektZdGZxX2psbW5sU0FtckdBMURqOFhKTjNUc3dBTU9FR1EwVG8yckkxd3FXMldtaURCZEJDRTMxNUNVVHZBZFJkOVh5RHIwcGlBQlVLbE9NNEIzbzltNTdKRnVkTUplb0RmX08xX0U3OXVQZ0g2dE5fZkFjdWtQaXo5U0dyTjBBcUo2bTIzUXZXWlVBcg?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778673717,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778722470,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "A UAE-owned tanker has leaked some fuel off the coast of Oman following an Iranian strike. The incident is a reminder of the ongoing tensions between the UAE and Iran, which could impact the oil and gas industry in the region. The UAE is a major oil producer and exporter, and any disruption to its operations could have a ripple effect on the global energy market. The incident is also a reminder of the risks associated with shipping and logistics in the region, which could impact the bottom line of companies involved in these activities.",
-      "impact": "The incident could have a negative impact on the earnings outlook for oil and gas companies operating in the region, particularly those with exposure to the UAE. The increased tensions between the UAE and Iran could also lead to a decrease in investor sentiment and a subsequent decline in stock prices. In the short-term, the incident could lead to a spike in oil prices, which could be beneficial for oil producers but negative for consumers and companies with high energy costs. In the medium-term, the incident could lead to a re-evaluation of the risks associated with operating in the region, which could impact the long-term growth prospects of companies involved.",
-      "risks": [
-        "Increased tensions between the UAE and Iran",
-        "Disruption to oil and gas operations in the region",
-        "Rise in oil prices"
       ]
     }
   }
