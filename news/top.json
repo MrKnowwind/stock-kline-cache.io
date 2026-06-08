@@ -342,8 +342,8 @@
   },
   {
     "id": "8036021",
-    "headline": "Israel strikes Beirut despite truce, Iran threatens to retaliate - Reuters",
-    "summary": "Israel strikes Beirut despite truce, Iran threatens to retaliate  Reuters",
+    "headline": "Trump says he will press Israel to hold back after Iran retaliates for Beirut attack - Reuters",
+    "summary": "Trump says he will press Israel to hold back after Iran retaliates for Beirut attack  Reuters",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ09pbXlqUEZwdUE4cVVKVEtySklkRGIwSmx6LXlNZm1qWnN1cE8wT1FkODFaUGtJVWh3UG1CRXRMM3JuUWpKQ3ZwOU82aGZpM0llWkZvNUhyLUx5dFJHeV9Bd1B0Rm9DQVdhWno2aG9IQWhxZFhlc2RSbGRlV3A4UklMVFhFZkxvSlBfS3pWaGljaE83RklTb0pIazNHejYydUFuT2ZoQTN5Y05LNU14bURUaWVOTGc?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -6327,7 +6327,21 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/106668476-15977683532020-08-18t094644z_966918122_rc29gi95b8sg_rtrmadp_0_usa-spac-wallstreet.jpeg?v=1664533041&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1780314318
+    "publishedAt": 1780314318,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780876656,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The S&P 500 reached a record high in May, but only a narrow group of AI-related stocks, including memory chip makers Micron Technology, Advanced Micro Devices, SK Hynix, and Samsung, hit their own all-time highs. This echoes the top of the dot-com bubble in 2000, where only a handful of stocks reached new highs. Strategist Michael Hartnett at Bank of America notes that this is a sign that the market is nearing a bubble top, driven by central banks and rising interest rates. The narrow advance-decline lines and poor breadth in the S&P 500 are also bearish signs.",
+      "impact": "The narrow market leadership could lead to a correction in the short-term, with the S&P 500 potentially experiencing a decline in the coming months. The AI-related stocks that have driven the market's gains may see a reversal in their fortunes, with their high valuations and rapid price appreciation making them vulnerable to a decline. The rising interest rates and central bank actions could also lead to a decrease in investor sentiment and a reduction in liquidity, exacerbating the potential correction.",
+      "risks": [
+        "valuation risk",
+        "interest rate risk",
+        "liquidity risk",
+        "sentiment risk"
+      ]
+    }
   },
   {
     "id": "8009903",
@@ -6406,7 +6420,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1780310703
+    "publishedAt": 1780310703,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780876704,
+      "sentiment": "neutral",
+      "confidence": 0.5,
+      "summary": "This article from Reuters discusses the intersection of artificial intelligence (AI) and George Orwell's classic dystopian novel '1984'. The piece explores how AI is being used to analyze and understand the themes and motifs in the book, with a focus on the role of language and surveillance. The article highlights the potential for AI to provide new insights into literary analysis and the human experience. However, it also raises questions about the implications of AI-powered analysis and the potential for bias in AI-driven interpretations. The article does not have a direct impact on the stock market or specific companies, but it does reflect the growing interest in AI and its applications in various fields.",
+      "impact": "The article does not have a direct impact on the stock market or specific companies. However, the growing interest in AI and its applications may have a positive impact on companies involved in AI development and deployment, such as NVIDIA (NVDA) or Alphabet (GOOGL). In the short term, the article may increase interest in AI-related stocks, leading to potential short-term gains. In the medium term, the article may contribute to the growing adoption of AI in various industries, leading to increased demand for AI-related services and products.",
+      "risks": [
+        "regulatory risk",
+        "adoption risk",
+        "valuation risk"
+      ]
+    }
   },
   {
     "id": "8010228",
@@ -6439,7 +6466,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1780308556
+    "publishedAt": 1780308556,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780876749,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "The article reports that the sterling exchange rate has remained relatively stable as markets await updates on the Iran situation. The lack of significant movement in the sterling is attributed to the uncertainty surrounding the Iran situation, which is affecting global markets. The situation in Iran has been a major concern for investors, with many countries imposing sanctions on the country. The article does not provide any specific information on the impact of the Iran situation on the UK economy or the sterling exchange rate.",
+      "impact": "The article does not provide any concrete information on the potential impact of the Iran situation on the UK economy or the sterling exchange rate. However, it is likely that the situation in Iran will continue to affect global markets, potentially leading to increased volatility in the sterling exchange rate. This could have a short-term impact on UK stocks, particularly those with significant international exposure. In the medium term, the situation in Iran could also affect the UK's economic growth prospects, potentially leading to a revaluation of the sterling.",
+      "risks": [
+        "global economic uncertainty risk",
+        "sanctions risk",
+        "volatility risk"
+      ]
+    }
   },
   {
     "id": "8008462",
@@ -6518,7 +6558,21 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1780300543
+    "publishedAt": 1780300543,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780876795,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The global smartphone market is experiencing a record annual decline due to a worsening chip crunch. This shortage has led to reduced production and sales of smartphones, affecting major manufacturers such as Apple and Samsung. The chip shortage is attributed to a combination of factors, including supply chain disruptions, increased demand, and manufacturing issues. As a result, the global smartphone market is expected to decline by a significant margin. The chip crunch is also expected to impact the broader technology sector, with potential ripple effects on related industries.",
+      "impact": "The potential impact on related stocks is significant, with a short-term decline in earnings outlook and medium-term effects on valuation. The chip shortage is likely to lead to reduced sales and revenue for smartphone manufacturers, which could result in lower earnings per share and a decrease in stock price. Additionally, the sentiment towards the technology sector may become increasingly bearish, leading to decreased investor confidence and liquidity. This could further exacerbate the decline in stock prices.",
+      "risks": [
+        "Supply chain disruptions risk",
+        "Increased demand risk",
+        "Manufacturing issues risk",
+        "Earnings decline risk"
+      ]
+    }
   },
   {
     "id": "8012212",
@@ -6528,7 +6582,21 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1780299486
+    "publishedAt": 1780299486,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780876861,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "A former Bank of Japan policymaker has warned that Japan may return to stagnation if the central bank doesn't raise interest rates early. This warning comes as Japan's economy has been struggling with low inflation and a weak labor market. The ex-BOJ policymaker believes that a rate hike would help stimulate the economy and boost growth. If the BOJ fails to act, it could lead to a return to stagnation, which would have significant implications for the Japanese economy and its companies.",
+      "impact": "A potential return to stagnation in Japan could lead to a decline in the stock prices of Japanese companies, particularly those in the banking and finance sector. This is because a stagnant economy would lead to reduced earnings and lower valuations. In the short-term, investors may become increasingly risk-averse, leading to a decrease in liquidity and a decline in stock prices. In the medium-term, a return to stagnation could lead to a re-rating of Japanese companies, with investors becoming more cautious about investing in the country's economy.",
+      "risks": [
+        "economic stagnation risk",
+        "interest rate hike uncertainty",
+        "reduced earnings risk",
+        "valuation risk"
+      ]
+    }
   },
   {
     "id": "8010441",
