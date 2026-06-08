@@ -1,5 +1,71 @@
 [
   {
+    "id": "8041074",
+    "headline": "Why AI hyperscalers are now the epicenter of a bear case for stocks",
+    "summary": "In the near term, there are many mouths to feed and not enough to eat.",
+    "url": "https://www.cnbc.com/2026/06/07/cramer-hyperscalers-are-now-the-epicenter-of-a-bear-case-for-stocks.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108261647-1770242575202-gettyimages-2259952847-_73a9124_zkfql89f.jpeg?v=1770242732&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1780877734,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780887167,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "CNBC's Jim Cramer has shifted his market outlook from bullish to bearish due to the changing landscape of AI hyperscalers. The strong job growth data has reduced the likelihood of rate cuts, which was a key prop for his previous bull case. Additionally, the rising costs of data center buildouts and the potential need for massive equity offerings from tech giants like Amazon, Microsoft, and Meta to fund their AI efforts have eroded his confidence. This has led Cramer to conclude that the market cannot sustain the current levels with the increased supply of equity.",
+      "impact": "The potential need for massive equity offerings from tech giants could lead to a supply shock in the market, putting downward pressure on stock prices. This could be particularly challenging for AI hyperscalers, which have already seen their valuations rise significantly. The increased supply of equity could also lead to a decrease in liquidity, making it more difficult for investors to buy and sell stocks. In the short term, this could lead to a sell-off in the stocks of Amazon, Microsoft, and Meta, while in the medium term, it could lead to a revaluation of the entire sector.",
+      "risks": []
+    }
+  },
+  {
+    "id": "8041281",
+    "headline": "UK firms pause hiring as Iran war stings, REC survey shows - Reuters",
+    "summary": "UK firms pause hiring as Iran war stings, REC survey shows  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT21fRzk1ZmZ1OUtEVmJkWXpGd1RFNUhaVU9KRU9TVWZ1T2sxVVozclBXVjczRTU5NlVFaTRZbjZEWGU3TnhuaW5XYndqUmxCNzFFWlpWYXp1TWhPVzVzaHl2a3NyNFhOT200TXNpSWRwVDZhc2NOWnY4c3JULTk1SUI1bGhscnktSHFpU1BEQW1neFptU0F5ZU9NN1VJNnZC?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1780874966,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780887214,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "A recent survey by the Recruitment and Employment Confederation (REC) shows that UK firms have paused hiring due to the ongoing Iran war. The war has created uncertainty and volatility in the global economy, leading to a decline in business confidence. This development is a concern for the UK's economic growth prospects, as hiring is a key driver of economic expansion. The pause in hiring may also have a ripple effect on the labor market, potentially leading to a slowdown in economic growth.",
+      "impact": "The potential impact on related stocks is bearish, particularly in the short-term. The pause in hiring may lead to a decline in earnings expectations, as reduced business activity and uncertainty can negatively impact revenue growth. This, in turn, may lead to a decline in stock prices, particularly for companies with high exposure to the UK economy. The medium-term impact may be more muted, but the uncertainty surrounding the Iran war may persist, keeping a lid on business confidence and investment.",
+      "risks": [
+        "Global economic slowdown risk",
+        "Uncertainty risk",
+        "Earnings decline risk",
+        "Valuation risk"
+      ]
+    }
+  },
+  {
+    "id": "8041180",
+    "headline": "Oil prices rise more than $2 on Israel strikes on Lebanon - Reuters",
+    "summary": "Oil prices rise more than $2 on Israel strikes on Lebanon  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNTlEbEFKMHpFNlgyeTJmTXIzWlNLWEI2aTV1OTFkTHgzejlqM2ZpQUM1NjZVaGo1WXk2UHV1TW9xMVhvWDVwcXVOdTBuaWp6aVBRMjBFSHRBUVBNREpHblcwNFNILW52TmhRT1gtaFVaZTJJWjdWQmwyV1A1SDBFY05RRzZxQkRQV3YzbVZEX2tWQ1haMW9CLTBRVko5YWx5VHUwSw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1780871460,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780887261,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Oil prices surged more than $2 on the news of Israel's strikes on Lebanon, driven by concerns of potential supply disruptions and heightened tensions in the region. The conflict has raised fears of a broader conflict in the Middle East, which could impact oil production and exports. This development comes as the global energy market is already facing supply constraints, with many countries struggling to meet their oil demands. The price increase is a result of the uncertainty and risk premium associated with the conflict.",
+      "impact": "The oil price increase is likely to have a positive impact on oil-producing companies, such as those listed on the NYSE and NASDAQ, in the short term. ExxonMobil and Chevron, for example, may see an increase in their stock prices due to the higher oil prices. In the medium term, the increased oil prices could lead to higher earnings for these companies, potentially boosting their stock valuations. However, the ongoing conflict and potential supply disruptions may also lead to increased volatility in the oil market, which could negatively impact investor sentiment and liquidity.",
+      "risks": [
+        "Supply disruption risk",
+        "Geopolitical risk",
+        "Volatility risk"
+      ]
+    }
+  },
+  {
     "id": "8040158",
     "headline": "Iran rejects idea of using its assets to pay damages to US allies - Reuters",
     "summary": "Iran rejects idea of using its assets to pay damages to US allies  Reuters",
@@ -65,6 +131,29 @@
         "geopolitical instability risk",
         "decreased investor confidence risk",
         "valuation risk"
+      ]
+    }
+  },
+  {
+    "id": "8038941",
+    "headline": "Israel kills nine in Gaza as Egypt hosts new ceasefire talks - Reuters",
+    "summary": "Israel kills nine in Gaza as Egypt hosts new ceasefire talks  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVmdOMkE1X05ZRTdTNHpxVnVGcnFhTHR3Ukg5MmJkbDhvQ2JYdkk0MTBVc3BMdkxmZXVIMWJva3hkQk1vQVl2OXV0MExwWk9ENXFoS0JtZS00aEtvX2NWbzV0Mzdfakk5MmduRjh3UlU3OF9kU3dfTUQ1TUF3d3lNak9yLXdzdUNOV3NLUFl2UDhSVVNmR3AwRVN6Q2syME9rUUpwRnVjV0NzeU1K?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1780852773,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780845420,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Israel's military actions in Gaza have led to the deaths of five people, while Egypt is hosting new ceasefire talks. This development is a continuation of the ongoing conflict between Israel and Palestine. The situation in Gaza has been volatile for years, with frequent escalations and attempts at peace negotiations. The current situation is unlikely to have a direct impact on the business fundamentals of companies in the region, but it may affect sentiment and investor confidence in the short term. The conflict is a humanitarian crisis, with significant human suffering and economic costs.",
+      "impact": "The potential impact on related stocks is limited, but the ongoing conflict may lead to a short-term decline in investor sentiment and a decrease in liquidity for companies with exposure to the region. This could result in a temporary decrease in stock prices for companies with significant operations in Israel or Palestine. However, the medium-term impact is uncertain and will depend on the outcome of the ceasefire talks and the subsequent developments in the region.",
+      "risks": [
+        "geopolitical risk",
+        "sentiment risk",
+        "liquidity risk"
       ]
     }
   },
@@ -138,6 +227,29 @@
     }
   },
   {
+    "id": "8040766",
+    "headline": "Most Gulf markets end lower amid fresh US-Iran escalation - Reuters",
+    "summary": "Most Gulf markets end lower amid fresh US-Iran escalation  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRDlFSUN2aW9WY0xORWtTOEo2RlhOTkJxaVVNZUV2YmNDRDR2LWhvSU9JbEx1LW1hQWlpaG5KVEFmMktnVFBOOTVfX0pjc1dweS00NG94UG0xVEVBcTFiSGh1N3JTeWt2SE1yOWkzdS1FZE9GNW1mN00zYVNOS0tSYzF4YWZ1T1dmWnZNUE9lMS12aGYtaXJQM2lBaHZGaXpxR1V3UTVDdmFmMnR3Q0QtcQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1780840620,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780887308,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The recent escalation between the US and Iran has led to a decline in Gulf markets, with most stocks ending lower. The tensions between the two countries have increased concerns about regional stability and the potential impact on global oil prices. The escalation has also led to a rise in oil prices, which could negatively affect the earnings of oil-producing companies in the region. The situation is fluid and uncertain, with the potential for further escalation or de-escalation.",
+      "impact": "The potential impact on the related stocks is negative, particularly for oil-producing companies in the region. The rise in oil prices could lead to a decline in earnings and potentially affect the valuation of these companies. In the short-term, investors may reduce their exposure to these stocks, leading to a decline in liquidity. In the medium-term, the escalation could lead to a re-evaluation of the region's stability and potentially affect the earnings outlook for companies operating in the region.",
+      "risks": [
+        "Oil price volatility risk",
+        "Regional stability risk",
+        "Earnings decline risk"
+      ]
+    }
+  },
+  {
     "id": "8038738",
     "headline": "Trump says he would not unfreeze Iran's assets before peace deal is done - Reuters",
     "summary": "Trump says he would not unfreeze Iran's assets before peace deal is done  Reuters",
@@ -145,7 +257,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1780840743,
+    "publishedAt": 1780838520,
     "analysis": {
       "version": 2,
       "generatedAt": 1780845281,
@@ -157,29 +269,6 @@
         "supply disruption risk",
         "economic sanctions risk",
         "geopolitical instability risk"
-      ]
-    }
-  },
-  {
-    "id": "8038939",
-    "headline": "Global airlines slash 2026 profit forecast on fuel shock from Iran war - Reuters",
-    "summary": "Global airlines slash 2026 profit forecast on fuel shock from Iran war  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQenE5amZ2NmVSM2gzMXBWVjczMDdsZnRreUZObWlzUGJ2YVpBeU45cTNOdmt2Z1lOc1MtcmZqV2JSZ1RwaktBUzYyTDcwZVRjYnhiWk9xX2hQc3QxMUJ3NjVacWF2MTdwZ2hfOFozZEh3NzdyQWpza2xGRVNIYzAxV3hKaTJlM2dmTGxUdWRuR1RuaS1od2pWcEFpRXh6Tk5FV2lycE1Na2FaSjFlNlVGRDF6dEVfa09iZHN5dDhGTDFrSWM?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1780839985,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1780845326,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Global airlines have slashed their 2026 profit forecast due to the ongoing conflict in Iran, which has led to a significant increase in fuel prices. The conflict has disrupted oil production, causing a shortage and subsequent surge in fuel prices. This increase in fuel costs will directly impact airlines' operating expenses, leading to reduced profit margins. The industry's reliance on fuel as a major operating expense makes it particularly vulnerable to fluctuations in fuel prices.",
-      "impact": "The news is likely to have a negative impact on the airline industry, particularly on companies with high fuel costs. This may lead to a decrease in earnings outlook and potentially a revaluation of stocks. The increased uncertainty surrounding fuel prices may also lead to a decrease in investor sentiment, affecting liquidity and stock prices. In the short term, airlines may need to adjust their fuel hedging strategies to mitigate the impact of rising fuel prices.",
-      "risks": [
-        "increased fuel costs risk",
-        "earnings outlook risk",
-        "valuation risk"
       ]
     }
   },
@@ -207,25 +296,25 @@
     }
   },
   {
-    "id": "8038941",
-    "headline": "Israel kills five in Gaza as Egypt hosts new ceasefire talks - Reuters",
-    "summary": "Israel kills five in Gaza as Egypt hosts new ceasefire talks  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVmdOMkE1X05ZRTdTNHpxVnVGcnFhTHR3Ukg5MmJkbDhvQ2JYdkk0MTBVc3BMdkxmZXVIMWJva3hkQk1vQVl2OXV0MExwWk9ENXFoS0JtZS00aEtvX2NWbzV0Mzdfakk5MmduRjh3UlU3OF9kU3dfTUQ1TUF3d3lNak9yLXdzdUNOV3NLUFl2UDhSVVNmR3AwRVN6Q2syME9rUUpwRnVjV0NzeU1K?oc=5",
+    "id": "8038939",
+    "headline": "Global airlines slash 2026 profit forecast on fuel shock from Iran war - Reuters",
+    "summary": "Global airlines slash 2026 profit forecast on fuel shock from Iran war  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQenE5amZ2NmVSM2gzMXBWVjczMDdsZnRreUZObWlzUGJ2YVpBeU45cTNOdmt2Z1lOc1MtcmZqV2JSZ1RwaktBUzYyTDcwZVRjYnhiWk9xX2hQc3QxMUJ3NjVacWF2MTdwZ2hfOFozZEh3NzdyQWpza2xGRVNIYzAxV3hKaTJlM2dmTGxUdWRuR1RuaS1od2pWcEFpRXh6Tk5FV2lycE1Na2FaSjFlNlVGRDF6dEVfa09iZHN5dDhGTDFrSWM?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1780837210,
+    "publishedAt": 1780837320,
     "analysis": {
       "version": 2,
-      "generatedAt": 1780845420,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Israel's military actions in Gaza have led to the deaths of five people, while Egypt is hosting new ceasefire talks. This development is a continuation of the ongoing conflict between Israel and Palestine. The situation in Gaza has been volatile for years, with frequent escalations and attempts at peace negotiations. The current situation is unlikely to have a direct impact on the business fundamentals of companies in the region, but it may affect sentiment and investor confidence in the short term. The conflict is a humanitarian crisis, with significant human suffering and economic costs.",
-      "impact": "The potential impact on related stocks is limited, but the ongoing conflict may lead to a short-term decline in investor sentiment and a decrease in liquidity for companies with exposure to the region. This could result in a temporary decrease in stock prices for companies with significant operations in Israel or Palestine. However, the medium-term impact is uncertain and will depend on the outcome of the ceasefire talks and the subsequent developments in the region.",
+      "generatedAt": 1780845326,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Global airlines have slashed their 2026 profit forecast due to the ongoing conflict in Iran, which has led to a significant increase in fuel prices. The conflict has disrupted oil production, causing a shortage and subsequent surge in fuel prices. This increase in fuel costs will directly impact airlines' operating expenses, leading to reduced profit margins. The industry's reliance on fuel as a major operating expense makes it particularly vulnerable to fluctuations in fuel prices.",
+      "impact": "The news is likely to have a negative impact on the airline industry, particularly on companies with high fuel costs. This may lead to a decrease in earnings outlook and potentially a revaluation of stocks. The increased uncertainty surrounding fuel prices may also lead to a decrease in investor sentiment, affecting liquidity and stock prices. In the short term, airlines may need to adjust their fuel hedging strategies to mitigate the impact of rising fuel prices.",
       "risks": [
-        "geopolitical risk",
-        "sentiment risk",
-        "liquidity risk"
+        "increased fuel costs risk",
+        "earnings outlook risk",
+        "valuation risk"
       ]
     }
   },
@@ -341,6 +430,29 @@
     }
   },
   {
+    "id": "8031468",
+    "headline": "US strikes Iranian sites after Iran launches drones in latest Gulf flare-up - Reuters",
+    "summary": "US strikes Iranian sites after Iran launches drones in latest Gulf flare-up  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ1o1RDBJVGVQai1scDRmSmlnaWxVZlZBaDZyZUswRHNMY0c1N25BM053RXdmWGV5aGJkalg3V0lpUnpVOEFpUWY5YTBCY0syV1dmejdaUVlJVXZkc0tNVTQ2RmlTVWlEUVlDYkZEYl9yQVZ1QWtLVzZYNl9RRTBzaENsNlBVMWJCYjJLd0ZtdGlpUTljLVBhV0JlVDFJRWJwdm9YQjhIZ3BqdHdua2Z6TFMzS0xXbHhuZTFuNC0yWDhHaUlWSFo2MQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1780786271,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780711338,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "The US has launched a military attack on Iranian coastal sites in response to Iran's launch of drones. This escalation in tensions between the US and Iran may lead to increased volatility in the global oil market, as Iran is a significant oil producer. The recent drone launch by Iran was seen as a provocation, and the US response is an attempt to deter further aggression. The situation is developing, and its impact on the global economy and oil prices is uncertain. The US has a long-standing policy of not commenting on its military operations, but the attack is seen as a significant escalation of tensions between the two countries.",
+      "impact": "The potential impact of this news on the oil and gas sector is significant, with oil prices likely to rise in the short term due to increased tensions in the region. This may lead to increased costs for companies operating in the sector, particularly those with high production costs or exposure to the Middle East. The medium-term impact is uncertain, but a prolonged conflict could lead to a slowdown in economic growth and a decrease in oil demand, negatively impacting the sector. The increased volatility in the oil market may also lead to increased hedging activity, potentially benefiting companies with significant hedging operations.",
+      "risks": [
+        "Oil price volatility risk",
+        "Global economic slowdown risk",
+        "Increased costs for oil and gas companies"
+      ]
+    }
+  },
+  {
     "id": "8036021",
     "headline": "Trump says he will press Israel to hold back after Iran retaliates for Beirut attack - Reuters",
     "summary": "Trump says he will press Israel to hold back after Iran retaliates for Beirut attack  Reuters",
@@ -402,6 +514,52 @@
         "Airline failure risk",
         "Consolidation risk",
         "Increased debt risk for weaker airlines"
+      ]
+    }
+  },
+  {
+    "id": "8030339",
+    "headline": "Iran World Cup players get US visas, official says, some staff waiting - Reuters",
+    "summary": "Iran World Cup players get US visas, official says, some staff waiting  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZU5Fb3BhUml4d0p4bk9yZjhvdUoydElaSjV4c3BvNUZHOURqVU82RENQd0FXak8teXBBcElyRzVrTjBHMWl6NGdiME1UdjVBbFFqMHBYWVo2bWNYMW15aUNLdnk5QmkzX1dLajNoTmJnQ1pjS3lzS1pVZnBNVWc0anBGa09MNDl4TG1yTDQ4RlFhNTRneTVwRHh1cXBjU01Xd09DWk03a2VuelpOTHo2WGNvWmYzdVNEYkMzNDFWdjl0Nmc?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1780777656,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780693946,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Iran's World Cup players have been granted visas to enter the US, according to a White House official. This development comes after months of uncertainty surrounding the team's ability to participate in the tournament. The news is a positive step towards normalization of relations between the US and Iran, which could have broader implications for international relations and global events. However, the news does not have a direct impact on the business fundamentals of any specific company or industry, as it is a diplomatic development rather than an economic one.",
+      "impact": "The news is unlikely to have a significant impact on the US economy or specific stocks in the short term. However, it may lead to increased optimism and improved sentiment towards international relations, which could positively affect companies with exposure to global events or diplomatic activities. In the medium term, a normalization of relations between the US and Iran could lead to increased trade and investment between the two countries, potentially benefiting companies with operations in the region.",
+      "risks": [
+        "no direct impact on earnings outlook",
+        "no clear link to valuation or liquidity",
+        "uncertainty around long-term implications of diplomatic developments"
+      ]
+    }
+  },
+  {
+    "id": "8040867",
+    "headline": "Airline chiefs grapple with fuel shock, fare test at Rio summit - Reuters",
+    "summary": "Airline chiefs grapple with fuel shock, fare test at Rio summit  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdGVwQ1pwQzkwRmFFMG1fZDJfSmhUMGZxbmRrR3NnRVUyanJPVFo4YUwxcVdnUDN5ai1WdjVHWEVUcUZVZmdBNzRfeml3OHlFQlE0eW1CeDIyZmVDdXhqNjlmVUtHTDJiM2ZuYWxSdlY0LWVhbVZweEZaSlp5b0RSd2JueVBMODBhUEFlNS15QzkyWWF6QjlmRDduRFI2S2FEcE9iUXdEa0tHdnZpcDNNRg?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1780777176,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780887353,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Airline chiefs gathered at a summit in Rio to address the rising fuel costs and fare pressure. The industry is facing a significant shock from the surge in fuel prices, which is expected to impact profitability. The airlines are struggling to balance their ticket prices with the increasing costs, and some have already started to raise fares. This development is a concern for investors as it may lead to a decline in demand and ultimately affect earnings.",
+      "impact": "The short-term impact on airline stocks is likely to be negative, with investors reevaluating their valuations in light of the increased costs. In the medium term, the earnings outlook for the industry may be revised downward, leading to a decline in stock prices. The sentiment towards the airlines may also turn negative, making it challenging for them to attract investors. The liquidity in the market may be affected as investors become risk-averse and start to exit the sector.",
+      "risks": [
+        "increased fuel costs risk",
+        "decline in demand risk",
+        "earnings outlook revision risk"
       ]
     }
   },
@@ -609,6 +767,29 @@
     }
   },
   {
+    "id": "8028508",
+    "headline": "Trump's 'crazy' rebuke undercuts Netanyahu at a critical moment - Reuters",
+    "summary": "Trump's 'crazy' rebuke undercuts Netanyahu at a critical moment  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOVJhNXhDSC1NbGdmd1NJUnlTaGFMM3JxTnZFNUR6VVpDdXlMS2ZOLW05TW1YMXJhcUdGSVFfM1Q3VVNURUNVSnl4VVM3WnlFMGZuZjVOSUhQZkFCZjBBYVFBeEMzTVViNnFLZWtCWGdKMDFRTF8xZ0RVUlBPbDZBV2FFZVpCZmhHTG00RWNDRGtIS0N5TXI1RzRFY1ozQXR3SXpDNm9JX0ZPcUxQR0E?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1780729200,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780660327,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "US President Donald Trump's public rebuke of Israeli Prime Minister Benjamin Netanyahu has dealt a significant blow to Netanyahu's re-election campaign at a critical moment. The rebuke has sparked a diplomatic crisis between the US and Israel, potentially undermining the long-standing alliance between the two countries. This development has significant implications for the Israeli economy, particularly for companies with ties to the government, such as defense contractors and infrastructure developers. Netanyahu's weakened position may lead to a delay in key infrastructure projects, impacting the earnings outlook for these companies.",
+      "impact": "The potential impact on the Israeli economy and related stocks is significant, with a short-term risk of increased volatility and a medium-term risk of reduced investor confidence. Companies with ties to the government, such as defense contractors and infrastructure developers, may see their earnings outlook deteriorate as a result of the diplomatic crisis. This could lead to a decline in their stock prices, particularly if investors become increasingly risk-averse. The crisis may also lead to a decrease in foreign investment in Israel, further exacerbating the economic impact.",
+      "risks": [
+        "Diplomatic crisis risk",
+        "Economic instability risk",
+        "Decreased investor confidence risk"
+      ]
+    }
+  },
+  {
     "id": "8037426",
     "headline": "World Cup workers threaten strike before $2,000-a-ticket game",
     "summary": "The union represents roughly 2,000 food service workers, including bartenders, dishwashers, cooks and concession workers at the venue; legends didn’t immediately respond to a request for comment",
@@ -674,29 +855,6 @@
         "higher interest rates risk",
         "inflation risk",
         "sector rotation risk"
-      ]
-    }
-  },
-  {
-    "id": "8031468",
-    "headline": "US strikes Iranian sites after Iran launches drones in latest Gulf flare-up - Reuters",
-    "summary": "US strikes Iranian sites after Iran launches drones in latest Gulf flare-up  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ1o1RDBJVGVQai1scDRmSmlnaWxVZlZBaDZyZUswRHNMY0c1N25BM053RXdmWGV5aGJkalg3V0lpUnpVOEFpUWY5YTBCY0syV1dmejdaUVlJVXZkc0tNVTQ2RmlTVWlEUVlDYkZEYl9yQVZ1QWtLVzZYNl9RRTBzaENsNlBVMWJCYjJLd0ZtdGlpUTljLVBhV0JlVDFJRWJwdm9YQjhIZ3BqdHdua2Z6TFMzS0xXbHhuZTFuNC0yWDhHaUlWSFo2MQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1780704120,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1780711338,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "The US has launched a military attack on Iranian coastal sites in response to Iran's launch of drones. This escalation in tensions between the US and Iran may lead to increased volatility in the global oil market, as Iran is a significant oil producer. The recent drone launch by Iran was seen as a provocation, and the US response is an attempt to deter further aggression. The situation is developing, and its impact on the global economy and oil prices is uncertain. The US has a long-standing policy of not commenting on its military operations, but the attack is seen as a significant escalation of tensions between the two countries.",
-      "impact": "The potential impact of this news on the oil and gas sector is significant, with oil prices likely to rise in the short term due to increased tensions in the region. This may lead to increased costs for companies operating in the sector, particularly those with high production costs or exposure to the Middle East. The medium-term impact is uncertain, but a prolonged conflict could lead to a slowdown in economic growth and a decrease in oil demand, negatively impacting the sector. The increased volatility in the oil market may also lead to increased hedging activity, potentially benefiting companies with significant hedging operations.",
-      "risks": [
-        "Oil price volatility risk",
-        "Global economic slowdown risk",
-        "Increased costs for oil and gas companies"
       ]
     }
   },
@@ -951,29 +1109,6 @@
         "reputation risk",
         "morale risk",
         "national security risk"
-      ]
-    }
-  },
-  {
-    "id": "8030339",
-    "headline": "Iran World Cup players get US visas, official says, some staff waiting - Reuters",
-    "summary": "Iran World Cup players get US visas, official says, some staff waiting  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZU5Fb3BhUml4d0p4bk9yZjhvdUoydElaSjV4c3BvNUZHOURqVU82RENQd0FXak8teXBBcElyRzVrTjBHMWl6NGdiME1UdjVBbFFqMHBYWVo2bWNYMW15aUNLdnk5QmkzX1dLajNoTmJnQ1pjS3lzS1pVZnBNVWc0anBGa09MNDl4TG1yTDQ4RlFhNTRneTVwRHh1cXBjU01Xd09DWk03a2VuelpOTHo2WGNvWmYzdVNEYkMzNDFWdjl0Nmc?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1780680180,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1780693946,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Iran's World Cup players have been granted visas to enter the US, according to a White House official. This development comes after months of uncertainty surrounding the team's ability to participate in the tournament. The news is a positive step towards normalization of relations between the US and Iran, which could have broader implications for international relations and global events. However, the news does not have a direct impact on the business fundamentals of any specific company or industry, as it is a diplomatic development rather than an economic one.",
-      "impact": "The news is unlikely to have a significant impact on the US economy or specific stocks in the short term. However, it may lead to increased optimism and improved sentiment towards international relations, which could positively affect companies with exposure to global events or diplomatic activities. In the medium term, a normalization of relations between the US and Iran could lead to increased trade and investment between the two countries, potentially benefiting companies with operations in the region.",
-      "risks": [
-        "no direct impact on earnings outlook",
-        "no clear link to valuation or liquidity",
-        "uncertainty around long-term implications of diplomatic developments"
       ]
     }
   },
@@ -1477,29 +1612,6 @@
         "Supply chain disruption risk",
         "Increased costs risk",
         "Decreased investor sentiment risk"
-      ]
-    }
-  },
-  {
-    "id": "8028508",
-    "headline": "Trump's 'crazy' rebuke undercuts Netanyahu at a critical moment - Reuters",
-    "summary": "Trump's 'crazy' rebuke undercuts Netanyahu at a critical moment  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOVJhNXhDSC1NbGdmd1NJUnlTaGFMM3JxTnZFNUR6VVpDdXlMS2ZOLW05TW1YMXJhcUdGSVFfM1Q3VVNURUNVSnl4VVM3WnlFMGZuZjVOSUhQZkFCZjBBYVFBeEMzTVViNnFLZWtCWGdKMDFRTF8xZ0RVUlBPbDZBV2FFZVpCZmhHTG00RWNDRGtIS0N5TXI1RzRFY1ozQXR3SXpDNm9JX0ZPcUxQR0E?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1780650000,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1780660327,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "US President Donald Trump's public rebuke of Israeli Prime Minister Benjamin Netanyahu has dealt a significant blow to Netanyahu's re-election campaign at a critical moment. The rebuke has sparked a diplomatic crisis between the US and Israel, potentially undermining the long-standing alliance between the two countries. This development has significant implications for the Israeli economy, particularly for companies with ties to the government, such as defense contractors and infrastructure developers. Netanyahu's weakened position may lead to a delay in key infrastructure projects, impacting the earnings outlook for these companies.",
-      "impact": "The potential impact on the Israeli economy and related stocks is significant, with a short-term risk of increased volatility and a medium-term risk of reduced investor confidence. Companies with ties to the government, such as defense contractors and infrastructure developers, may see their earnings outlook deteriorate as a result of the diplomatic crisis. This could lead to a decline in their stock prices, particularly if investors become increasingly risk-averse. The crisis may also lead to a decrease in foreign investment in Israel, further exacerbating the economic impact.",
-      "risks": [
-        "Diplomatic crisis risk",
-        "Economic instability risk",
-        "Decreased investor confidence risk"
       ]
     }
   },
@@ -22135,121 +22247,6 @@
         "Geopolitical risk",
         "Oil supply disruption risk",
         "Increased volatility in oil prices risk"
-      ]
-    }
-  },
-  {
-    "id": "7938434",
-    "headline": "Exclusive: Saudi warplanes struck militias in Iraq during war, sources say - Reuters",
-    "summary": "Exclusive: Saudi warplanes struck militias in Iraq during war, sources say  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdm83YUM0dlJzbS1aT2Z0SHg2NUdKMDgyempPa3NKNEpMaXRiQjlhZXktY3IyM0pxTFhyMmtlLVhfZzVZMG8yTTZjZl9nM2tEbHdpWXFNZHJKUHA4LXpsZmJUUWZxSFJlcmttUmY2ZWdOdGZnUzhQQjNJcVhuS1BYVkdwSEJPR0VZd3NlX0JSNHFjYW5wNHBlUE04aFJPVGxWWmhESWZXOU5KRVBudmVXY3ZWVQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778690400,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778696986,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Saudi warplanes struck militias in Iraq during the war, according to sources. This news is an isolated incident and does not directly impact the broader geopolitical landscape. The incident is likely a one-off event and does not indicate a significant shift in Saudi Arabia's military strategy. The news may have a minor impact on the global oil market, but it is unlikely to have a lasting effect on the industry.",
-      "impact": "The news is unlikely to have a significant impact on the oil and gas industry in the short term. However, it may lead to increased tensions in the region, potentially affecting oil prices and demand. The incident may also lead to a slight increase in military spending for Saudi Arabia, which could have a positive impact on the country's defense contractors. In the medium term, the news may lead to a reevaluation of the geopolitical risks associated with investing in the region.",
-      "risks": [
-        "Increased military spending risk",
-        "Geopolitical risk in the Middle East",
-        "Oil price volatility risk"
-      ]
-    }
-  },
-  {
-    "id": "7938861",
-    "headline": "How has the Iran war affected Middle East states? - Reuters",
-    "summary": "How has the Iran war affected Middle East states?  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVWM5N3puQUliMmVyYUZEaUN1U0RSb1BKbDlNRm5UNUxObEVtbWZSLWFBcWFfaGxJU0Vld2ZBM0w4Y1J5bnpJekE4WF9GWm1zekNmbUpSVGVKTDFKSElpS1hCSU0zNDJfc3FGOTJRZjhaS1hCUXRmQW9GMHg3UGk4UmdMcWZzUFBCdGp4eU9DXzg0cDhKSWMwMks5NkMtWW8?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778687744,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778713727,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The article discusses the impact of the Iran war on Middle East states, highlighting the economic and geopolitical implications. The war has led to increased tensions and instability in the region, affecting trade and investment. The article notes that some countries have seen a decline in oil exports and economic growth, while others have benefited from increased military spending. The situation remains uncertain, with ongoing diplomatic efforts to resolve the conflict.",
-      "impact": "The Iran war is likely to have a mixed impact on the related stocks in the Middle East. In the short-term, oil prices may be affected, potentially benefiting energy companies in the region. However, the long-term outlook remains uncertain, and investors should be cautious of the potential risks to economic growth and stability in the region. The impact on individual stocks will depend on their specific exposure to the region and the war's effects on their business operations.",
-      "risks": [
-        "geopolitical risk",
-        "economic instability risk",
-        "uncertainty risk"
-      ]
-    }
-  },
-  {
-    "id": "7938324",
-    "headline": "10-year Treasury yield hits new high for the year after very hot producer prices reading",
-    "summary": "Treasury yields climbed after a hotter-than-expected reading on the producer price index.",
-    "url": "https://www.cnbc.com/2026/05/13/treasury-yields-fall-as-investors-digest-hotter-than-expected-cpi-data.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/106029258-1563548988268rts2kfgj.jpg?v=1574195712&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1778687658,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778697033,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The 10-year Treasury yield rose to its highest level since July 17, driven by a hotter-than-expected producer price index (PPI) reading. The PPI rose 1.4% in April, exceeding the Dow Jones consensus forecast of 0.5%. This increase is the largest monthly gain since March 2022 and indicates that producers are feeling the effects of high oil prices, which are raising production costs across the board. The hot inflation readings could complicate the Federal Reserve's path forward, particularly as the labor market has slowed down.",
-      "impact": "The rise in Treasury yields could lead to a decrease in the stock market, particularly in sectors sensitive to interest rates such as real estate, consumer staples, and utilities. In the short term, this could lead to a decrease in investor sentiment and a decline in stock prices. In the medium term, the higher interest rates could lead to a decrease in earnings for these sectors, as higher borrowing costs reduce consumption and investment. The Federal Reserve's response to the hot inflation readings will be crucial in determining the direction of the market.",
-      "risks": [
-        "Higher interest rates risk",
-        "Earnings slowdown risk",
-        "Increased volatility risk"
-      ]
-    }
-  },
-  {
-    "id": "7938218",
-    "headline": "Why this unheralded AI stock can go higher despite its recent massive rally",
-    "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-    "url": "https://www.cnbc.com/2026/05/13/jim-cramer-this-unheralded-stock-qnity-has-become-one-of-the-investing-clubs-top-performers.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108112028-1741276826776-gettyimages-1307216100-pre_0827-edit.jpeg?v=1768567029&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1778687591,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778688828,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Qnity Electronics, a holding of the CNBC Investing Club with Jim Cramer, has pulled back slightly after surging nearly 10% on a strong beat-and-raise quarter. Despite the recent rally, the stock has more than doubled this year and remains one of the Club's top performers. Analysts, including the Club, have raised their price targets to near $180. Qnity remains underfollowed by Wall Street, with only nine analysts currently covering the stock, which could create further upside as additional firms initiate coverage.",
-      "impact": "The potential impact on Qnity Electronics is positive, with the stock likely to continue to benefit from its strong earnings performance and underfollowed status. The company's valuation may be attractive relative to its peers, and additional analyst coverage could lead to further price appreciation. However, the stock's recent massive rally may make it challenging to chase, and the Club may eventually look to trim its position as it becomes a larger part of the portfolio.",
-      "risks": [
-        "valuation risk",
-        "overbought risk",
-        "regulatory risk"
-      ]
-    }
-  },
-  {
-    "id": "7938117",
-    "headline": "India's Tata Motors warns of costs from Iran war after profit surge - Reuters",
-    "summary": "India's Tata Motors warns of costs from Iran war after profit surge  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYlJvZ21PZWkyQzIzRUhmUDJKcEQ0dGxRdTExdHBoSVJXYk9tZFR1SnhfcGtab1RUai1GQVBFNExyVk5remprVno1ZGc3RS1ZRVJtMTNEdTZLTURrdFM4UklLVVJSNng1OXpld2dIQS1iVWpHQ2pwU2R3bDBzcklsOGR3WFJialVKYmxnVzdZREY5UFl0dHFFMHloMEZqTzFiRWtJeWFPUQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778685720,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778688880,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Tata Motors, an Indian automaker, has reported a profit surge but warned of potential costs associated with the Iran war. The company's operations in Iran could be affected by the escalating conflict, which may lead to increased expenses, supply chain disruptions, and potential losses. This news is a concern for investors as it may impact the company's earnings outlook and valuation. The Iran conflict is a macroeconomic risk that could have far-reaching consequences for the global automotive industry.",
-      "impact": "The news is likely to have a negative impact on Tata Motors' stock price in the short term due to the increased uncertainty and potential costs associated with the Iran war. Investors may reassess their earnings outlook and valuation expectations, leading to a decline in the stock price. The medium-term impact will depend on the duration and intensity of the conflict, but it may lead to a prolonged period of uncertainty and volatility for the company's stock.",
-      "risks": [
-        "Increased costs and expenses due to the conflict",
-        "Supply chain disruptions and potential losses",
-        "Uncertainty and volatility in the global automotive industry"
       ]
     }
   }
