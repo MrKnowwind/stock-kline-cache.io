@@ -1,5 +1,152 @@
 [
   {
+    "id": "8049234",
+    "headline": "Jim Cramer debates trimming 2 stocks — one struggling name, the other a winner",
+    "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+    "url": "https://www.cnbc.com/2026/06/09/jim-cramer-debates-trimming-2-stocks-one-struggling-name-the-other-a-winner.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108305557-1778590911098-gettyimages-2267652248-260318_hd_signs_147.jpeg?v=1779125458&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1781021868,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781025201,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Jim Cramer expressed concerns about the market's volatility, citing the flood of new shares from mega IPOs and hyperscalers' stock sales. He also mentioned the potential for Taiwan to curb chip sales to China, which could benefit Nvidia, but ultimately fell short of expectations. Home Depot rose despite expectations of a rate cut, and Jim would consider trimming his position if it continues to move higher. TJX also rose on positive analyst comments, but Jim is hesitant to sell his winners.",
+      "impact": "Nvidia's stock may see a short-term dip due to the Taiwan news, as investors initially expected the restriction to benefit the company. Home Depot's rally may be short-lived if interest rates remain high, impacting the housing market. TJX's stock may see a medium-term boost from analyst consensus, but Jim's hesitation to sell suggests caution. The overall market volatility and IPO activity may lead to increased liquidity and price fluctuations in the short term.",
+      "risks": []
+    }
+  },
+  {
+    "id": "8049018",
+    "headline": "Apple shares slide after big Siri AI reveal",
+    "summary": "Apple unveiled new artificial intelligence software at WWDC, highlighted by its long-awaited update to Siri.",
+    "url": "https://www.cnbc.com/2026/06/09/apple-stock-siri-ai-reaction.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108318724-1781007139303-gettyimages-2280595110-img_2222.jpeg?v=1781007160&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1781018816,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781025247,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Apple's recent AI-related announcements, including the unveiling of Siri AI and Apple Intelligence, led to a 3% decline in stock price. Analysts were mixed in their reactions, with some praising the advancements but others expressing skepticism about the short-term impact. The lack of a concrete release date for Siri AI and concerns about regulatory issues in China and Europe may have contributed to the sell-off. The company's ability to monetize AI through rate limits and subscriptions is seen as a potential upside.",
+      "impact": "The short-term impact on Apple's stock is likely to be negative, with the stock on track for its worst day since February. The lack of a clear release date for Siri AI and regulatory issues in key markets may have contributed to the sell-off. However, the potential for Apple to monetize AI through rate limits and subscriptions could drive medium-term growth. The company's ability to execute on its AI strategy will be a key driver of its stock performance in the coming months.",
+      "risks": []
+    }
+  },
+  {
+    "id": "8049019",
+    "headline": "We're booking more profits in a tech stock as the market wobbles ahead of a big IPO",
+    "summary": "We'll realize a gain of about 90% on shares bought in April.",
+    "url": "https://www.cnbc.com/2026/06/09/were-booking-more-profits-in-a-tech-stock-as-the-market-wobbles-ahead-of-a-big-ipo.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108282346-1774373773356-gettyimages-2267713643-ARM_EVERYWHERE.jpeg?v=1774373799&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1781018475,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781025294,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "Jim Cramer's Charitable Trust is selling 12 shares of Arm Holdings at $325, realizing a 90% gain on shares bought in April. The sale is driven by three reasons: protecting against a potential correction, trimming the position to 1% of the portfolio, and caution about the market setup ahead of a hot consumer price index and the SpaceX IPO. The trust still owns 118 shares of ARM, reducing its weight in the portfolio to 1% from 1.11%. This move is not a strong indication of a bearish or bullish sentiment towards Arm Holdings, but rather a risk management strategy.",
+      "impact": "The sale may slightly increase liquidity in the short term, potentially benefiting other investors who want to buy Arm Holdings. However, the medium-term impact is uncertain, as the trust's remaining position in Arm Holdings still represents a significant holding. The caution about the market setup ahead of the SpaceX IPO may lead to increased volatility in the tech sector, which could negatively impact Arm Holdings' stock price.",
+      "risks": [
+        "Market volatility ahead of the SpaceX IPO",
+        "Potential correction in Arm Holdings' stock price",
+        "Increased competition from other tech companies"
+      ]
+    }
+  },
+  {
+    "id": "8048914",
+    "headline": "36-year-old's fitness company was 'a week away' from bankruptcy—now it's valued at $10.1 billion",
+    "summary": "Whoop was born from founder and CEO Will Ahmed's obsession with tracking his own fitness and recovery as a college athlete.",
+    "url": "https://www.cnbc.com/2026/06/09/whoop-founder-how-i-built-a-10-billion-fitness-wearable-company.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108317502-1780677523540-WHOOP_SCREENSHOT.png?v=1780677826&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1781017780,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781025342,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Whoop, a fitness wearables company, has achieved a $10.1 billion valuation after a tumultuous start, with the founder, Will Ahmed, overcoming skepticism and rejections from investors to build a platform that tracks biometric data for active consumers. Ahmed's obsession with fitness and recovery led him to develop Whoop's screen-free wrist devices, which now have over 2.7 million users globally. The company's success can be attributed to its unique value proposition and Ahmed's perseverance in the face of adversity.",
+      "impact": "The news is likely to have a positive impact on the fitness wearables industry, with Whoop's valuation serving as a benchmark for other companies in the space. The company's success may also lead to increased investor interest in the industry, potentially driving up valuations and sentiment for related stocks. However, the news may also put pressure on companies with similar products to innovate and improve their offerings to remain competitive.",
+      "risks": [
+        "Increased competition from established players in the fitness wearables market",
+        "Dependence on celebrity endorsements for marketing and brand awareness",
+        "Potential regulatory scrutiny of the company's data collection and usage practices"
+      ]
+    }
+  },
+  {
+    "id": "8048813",
+    "headline": "Exclusive: Emirates to offer incentives, safety assurances as Iran war hits travel - Reuters",
+    "summary": "Exclusive: Emirates to offer incentives, safety assurances as Iran war hits travel  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNmxoM2tuRUdrbmdsOTJaS0Q3NktYRi1oaXFtZkZ2SXNHSThGVk5SLVFNdm1udVZrb25La3ZmRGo5QTcyVXZzbE9qM1lFV1N0MDlUTHpTOFFQaERBMUhraEU5MERodXc5VkdIcWpDQUNoeEI2bGNxZUJINVRaYktLZFhPMjUzODFybzlza013dU10Vi1CNWZSMzcxX2x6ZjhDUDRsSG1Wa3pkZW42RVV4b3Z0SVNaQWFWQ1E?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1781013812,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781025391,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Emirates, the Middle Eastern airline, is offering incentives and safety assurances to travelers as the ongoing Iran-US conflict affects travel to the region. The airline's move aims to boost passenger confidence and alleviate concerns about safety. This development comes as the conflict between the US and Iran has led to increased tensions in the region, causing some airlines to suspend flights to Iran. The airline's incentives and safety assurances are likely a response to the growing uncertainty and risk associated with traveling to the region.",
+      "impact": "The news is unlikely to have a significant impact on Emirates' stock price in the short term, as the airline's financials are not directly tied to the conflict. However, the airline's safety record and customer confidence are crucial to its business, and any perceived safety risks could negatively impact its earnings outlook. In the medium term, the conflict could lead to a decrease in demand for travel to the region, which could negatively impact Emirates' revenue and profitability. The airline's ability to maintain its safety record and manage customer expectations will be key to mitigating this risk.",
+      "risks": [
+        "Decreased demand for travel to the region",
+        "Negative impact on customer confidence and safety record",
+        "Potential escalation of the conflict and increased risk to airline operations"
+      ]
+    }
+  },
+  {
+    "id": "8048706",
+    "headline": "Most Gulf markets rebound after Iran and Israel halt attacks - Reuters",
+    "summary": "Most Gulf markets rebound after Iran and Israel halt attacks  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa09iM1JTQ3pyNmMwcm5uRWVuclk4TUtFQzJLNVctdmVwVElVVXQzUmxlanNCSWFvenJXSmN5Sjc4aXBtbndEd25CSDhuSTNGOW1OSDRVUEFNQXRzNFQ2c1hxN1NMdHNxdlloaU1jTjh6V19Ybkt0bDZoU2N4cjFBTVlKZXdRaEVWOS1aaW5Zd0xHMWtWc1pwVURqdUwxSE5oa1lWb19UeFBTUjkwVUhkQg?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1781011562
+  },
+  {
+    "id": "8048581",
+    "headline": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+    "summary": "U.S. stocks are set for a higher open as oil prices decline. Plus, the SpaceX IPO is heating up.",
+    "url": "https://www.cnbc.com/2026/06/09/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108318547-1780964553416-gettyimages-1249371195-SPACEBOOK.jpeg?v=1780964707&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1781010889
+  },
+  {
+    "id": "8048594",
+    "headline": "Climate cost of expanded World Cup under scrutiny as emissions set to soar - Reuters",
+    "summary": "Climate cost of expanded World Cup under scrutiny as emissions set to soar  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT2hObnZJYjNzS2NFME5fVkdndElQVVd6UWZqdXhBejJMSkl2eTQ3R2VVSUlUeHFFYldIMlVjbl9BTElwbEVsUm10S004VGtJT29ETVZtWUk2RU5wRl82Nkt1Ym9oVW52LUdvNkVMdjdUWkV4bG9NcERjT25WMGhlUzdiaDJiLTgxdVVvVkU3djNJVjRKcGlQaVBCMUlqa3RWeEIzdHloeVAzVjg1SHdSX25GNG9HWjFyQ29mY245bw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1781006702
+  },
+  {
+    "id": "8048236",
+    "headline": "5 takeaways from airline CEOs' biggest annual gathering",
+    "summary": "Airline CEOs met in Rio de Janeiro at IATA, the International Air Transport Association's annual meeting.",
+    "url": "https://www.cnbc.com/2026/06/09/iata-annual-meeting-airline-ceo-takeaways.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/107432708-1719309320316-gettyimages-1659533130-AFP_33UY8DJ.jpeg?v=1780941078&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1781006402
+  },
+  {
     "id": "8048022",
     "headline": "Trump's trade war has a new target: forced labor. The case behind it is far from simple",
     "summary": "Ending forced labor is a goal most countries around the world have but few actually have success, including the U.S. Can Trump's tariffs change that?",
@@ -33,6 +180,29 @@
     }
   },
   {
+    "id": "8047709",
+    "headline": "LNG demand in Asia recovers from Iran shock as China buys - Reuters",
+    "summary": "LNG demand in Asia recovers from Iran shock as China buys  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPME8tR25BVGlpS1lPR09idGVCV2dUQ205eXM5SmdaRGlWMjZ5WWswRjdsLVY1R183Nmk5ZkEzOWNUTUtJSFc2VHEtdU5qTmRLS0RxeXZXVlBTTEpnaGI1VWRlOE1UdkxBbmxZcWkwSzJZMlNobFZKTFZPdUdLZjBYN000ZnExcE1BQkUxYWdKQWVkdlRoUUhwcnVlbWtpVHFJQWQwakxwTjFYZ1NsTzNFaXQwSk41QQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1781000973,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781006223,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "LNG demand in Asia has recovered from the initial shock of the Iran nuclear deal, driven by increased purchases from China. This uptick in demand is expected to benefit companies involved in the liquefied natural gas (LNG) trade. The recovery is attributed to China's increased energy needs, particularly in the power generation sector. As a result, LNG prices have started to rise, indicating a shift in market dynamics. This trend is expected to continue as China's energy demand grows.",
+      "impact": "The recovery in LNG demand is expected to positively impact companies involved in the LNG trade, such as LNG producers and shipping companies. In the short-term, this could lead to higher earnings for these companies due to increased demand and higher prices. In the medium-term, this trend could lead to increased investment in LNG infrastructure and capacity expansion, driving growth and potentially improving valuations for related stocks. Additionally, the increased demand from China could lead to a shift in the global LNG market, potentially benefiting companies with exposure to the Asian market.",
+      "risks": [
+        "geopolitical tensions in the Middle East could disrupt LNG supply and impact demand",
+        "increased competition from other energy sources could reduce LNG demand",
+        "regulatory changes in China could impact LNG demand and prices"
+      ]
+    }
+  },
+  {
     "id": "8047505",
     "headline": "Iran says ticket allocation for World Cup withdrawn days before tournament - Reuters",
     "summary": "Iran says ticket allocation for World Cup withdrawn days before tournament  Reuters",
@@ -56,9 +226,19 @@
     }
   },
   {
+    "id": "8048478",
+    "headline": "India's May fuel consumption rises month-on-month, slips annually - Reuters",
+    "summary": "India's May fuel consumption rises month-on-month, slips annually  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMlRYeFNmRVVncFh6SHBmVXBSMnliMGJreW1TLWhKQnI3ZlE1bUJTWVNpc1ZxUGtVcEh0OEZLcnlHbnNhTnF6YW4xZ1BUQzNqaW8zaFVwYU9aYVZQbmFDeWNFdlZmT2RvdzVSeGlUNEpYZU4yckFsUnFOUzdTSWJRYWlfZ0hsVlFBTm5WLXpqdG5hazA4bjd3d2dGVW1XNDltTlZMV0lOMEZHMERESnpxQXhXNDFFdw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1780985760
+  },
+  {
     "id": "8047185",
-    "headline": "Trump says US helicopter pilots who went down in Strait of Hormuz are fine - Reuters",
-    "summary": "Trump says US helicopter pilots who went down in Strait of Hormuz are fine  Reuters",
+    "headline": "Israel kills eight in strike on Lebanon; US rescues helicopter crew from Hormuz - Reuters",
+    "summary": "Israel kills eight in strike on Lebanon; US rescues helicopter crew from Hormuz  Reuters",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWGZKeW81Zk5SeFFRa0s2TWRGZWR4czJsM1ZkUlR4M0xMbWdpNER1UndNRFJmTEtYZEZST0JQSUtCemFXQjN2Z3R4ZnUzemZadUYwakxFTWUyY0ZCZWpQWFhLa1Y4NjN2T1MtTW1XMU1OYTE5M3hwUEpZZ3dOXzlobUVzazRrM3ZyOEhiWUdyM2JUdkRINVZJREFUWDFLSG5hUGRjWGhIX1JnbUdqTHNYUGY1R1ZqdDNMa0hybkptaw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -79,32 +259,9 @@
     }
   },
   {
-    "id": "8047709",
-    "headline": "LNG demand in Asia recovers from Iran shock as China buys - Reuters",
-    "summary": "LNG demand in Asia recovers from Iran shock as China buys  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPME8tR25BVGlpS1lPR09idGVCV2dUQ205eXM5SmdaRGlWMjZ5WWswRjdsLVY1R183Nmk5ZkEzOWNUTUtJSFc2VHEtdU5qTmRLS0RxeXZXVlBTTEpnaGI1VWRlOE1UdkxBbmxZcWkwSzJZMlNobFZKTFZPdUdLZjBYN000ZnExcE1BQkUxYWdKQWVkdlRoUUhwcnVlbWtpVHFJQWQwakxwTjFYZ1NsTzNFaXQwSk41QQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1780982737,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1781006223,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "LNG demand in Asia has recovered from the initial shock of the Iran nuclear deal, driven by increased purchases from China. This uptick in demand is expected to benefit companies involved in the liquefied natural gas (LNG) trade. The recovery is attributed to China's increased energy needs, particularly in the power generation sector. As a result, LNG prices have started to rise, indicating a shift in market dynamics. This trend is expected to continue as China's energy demand grows.",
-      "impact": "The recovery in LNG demand is expected to positively impact companies involved in the LNG trade, such as LNG producers and shipping companies. In the short-term, this could lead to higher earnings for these companies due to increased demand and higher prices. In the medium-term, this trend could lead to increased investment in LNG infrastructure and capacity expansion, driving growth and potentially improving valuations for related stocks. Additionally, the increased demand from China could lead to a shift in the global LNG market, potentially benefiting companies with exposure to the Asian market.",
-      "risks": [
-        "geopolitical tensions in the Middle East could disrupt LNG supply and impact demand",
-        "increased competition from other energy sources could reduce LNG demand",
-        "regulatory changes in China could impact LNG demand and prices"
-      ]
-    }
-  },
-  {
     "id": "8047186",
-    "headline": "Trump says pilots safe after US Army Apache goes down near Hormuz - Reuters",
-    "summary": "Trump says pilots safe after US Army Apache goes down near Hormuz  Reuters",
+    "headline": "US sea drone rescues crew from US army helicopter that crashed near Hormuz - Reuters",
+    "summary": "US sea drone rescues crew from US army helicopter that crashed near Hormuz  Reuters",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaUF1RGh1MHRmV3BMbTV3bTFQTnRRYkEtM2lxRE8zRGlqcE82RkZwOTlpRHZvTl8tNk9zRkQ0SVJueG1MUU9TdDhlelItVXlMcTVxT2FETVNRcW5vYVlrckt6UTVZbWNPQnAzVXNBWnVkLU13NWVjUXhGVHRYYzdVcXM1MjdCSzcyWktuS3RYSTQ1dFdHb1cyX2ViakVaWUVtSXBfZTNrallHVlRzNm5SUnRpXzJYZw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -119,6 +276,16 @@
       "impact": "The incident may lead to increased tensions in the region, potentially driving up oil prices and benefiting oil-producing companies such as ExxonMobil (XOM) and Chevron (CVX). However, the short-term impact on these companies is likely to be muted, as the incident is not directly related to their operations. In the medium term, the incident may lead to increased spending on defense and security measures, benefiting companies such as Lockheed Martin (LMT) and Boeing (BA).",
       "risks": []
     }
+  },
+  {
+    "id": "8048357",
+    "headline": "China's May coal imports fall 8% from a year earlier - Reuters",
+    "summary": "China's May coal imports fall 8% from a year earlier  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWHdwTVMxQ0F1NDBWQ3gzWTBpYnR6Zk5uaGVWLU9tY0Noa0toSG9YaUhLdjFackRPS3NKd2pxM2hENGdZbDFkWEh3NXdhclI0RkxlQ0xkSDhzZVd6Qi1faGZ6LWYtWmdhYVI5Q0VRNV9zTkhrOHdEaG11MEp1d2pRNXFPcEwyMTNIZ0NTWXVOZlhzeVE1Z1NRUURsUzZpVkU?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1780975860
   },
   {
     "id": "8047288",
@@ -145,8 +312,8 @@
   },
   {
     "id": "8046976",
-    "headline": "Dollar eases as investors weigh Middle East hopes, rate outlook - Reuters",
-    "summary": "Dollar eases as investors weigh Middle East hopes, rate outlook  Reuters",
+    "headline": "Dollar eases as Middle East hopes outweigh prospects of higher US rates - Reuters",
+    "summary": "Dollar eases as Middle East hopes outweigh prospects of higher US rates  Reuters",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeWs5WHdObzRZRHJxcnRhbVBqbS1DV09RV0RUUFdsQnVMZ0czT2x0NFNnSDh3ODl3QXdTd1VTV0hiQkd0ektSRFhhQWEtdW1uMjU2bTl2TW1tcV9qVkJMbHNQeWZUYjlEcHN4RURDNDNicUsxLUVic0RqcHJHVU9YR3ZEYzVxeUxnNk1BQTlLRUZTb3ZtbzBtUm1sZENrenozQVJENkc4SUpYVHZvTlBDTXd6RUlIM2lhQmZKY1E4TQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -168,8 +335,8 @@
   },
   {
     "id": "8047506",
-    "headline": "Gold steady as lower oil offsets US rate-hike fears - Reuters",
-    "summary": "Gold steady as lower oil offsets US rate-hike fears  Reuters",
+    "headline": "Gold edges up as dollar weakens, oil falls ahead of inflation data - Reuters",
+    "summary": "Gold edges up as dollar weakens, oil falls ahead of inflation data  Reuters",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUnRSbjZFTzlmZ0Z6REdoNFdlcGVHbmtVSFZBLUxObzZuWjA4V1VrcVZUd1NZcDBYUUVNbEtJVk0wcUhBZ01ZMDlYWXZ2azNCWmFzcDZldDBTZ1UtaEJiRVdFVy1jbEFCbjc4bGFZVXh0SUEtQXplLUZBcVJLWFBsR3NYOURyVllITmNBSUxrMHhfTlk?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -187,8 +354,8 @@
   },
   {
     "id": "8046248",
-    "headline": "Oil falls as investors await clarity after Iran-Israel halt attacks - Reuters",
-    "summary": "Oil falls as investors await clarity after Iran-Israel halt attacks  Reuters",
+    "headline": "Oil prices fall 4% to seven-week low as Iran and Israel halt attacks - Reuters",
+    "summary": "Oil prices fall 4% to seven-week low as Iran and Israel halt attacks  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQno1QTVjdUJYSkVuMTUxZTVxcHBhUWNVQWVfN0JsVzdpNmVPUTBjMjdTaE4wSy1RNVpNNGJHdi1DVGNzd0NfQUdYOVVILWh0djRxbFpSSUJGTEp5ZTJnNUFsNnU4UkRscHJBZi1mVlYwNWFiUGFyVk1TOGNxcDEtVDc0cFhTYmpvRDdrd0tTYjFON19JNmI2Sm5MX3ZXb0M3UE5lZ0Q4UTFZSTJ6VFNudFMxRmVQMUh6U05XU3M2SGtpNmc?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -720,6 +887,16 @@
     }
   },
   {
+    "id": "8043043",
+    "headline": "Rupee slumps as elevated crude, Treasury yields support dollar - Reuters",
+    "summary": "Rupee slumps as elevated crude, Treasury yields support dollar  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRVc2R0NiNjh6dTIxSmR0OFdMaE1MRXAteVZWRVRRWXo2M1RnVHZRSFRPTEh5aXhreHlHZmdGeWRCRThLTUs1MWhGcUhJSmQxYjU2dWlGcmtzNEVxU1lDRVZlNUNHdG9VTDBFTEJkYkdpU2ZiZGdmUnhRYy1RNnN6U2lYMkFyOVYxdVpqWkFOQjFydFgzRi1ZTmNoLXFzUWpVTUJjNU1wU01VUVpPc0JaTw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1780916562
+  },
+  {
     "id": "8043723",
     "headline": "Trump says Israel and Iran 'looking to do an immediate ceasefire' - Reuters",
     "summary": "Trump says Israel and Iran 'looking to do an immediate ceasefire'  Reuters",
@@ -977,6 +1154,29 @@
     }
   },
   {
+    "id": "8036021",
+    "headline": "Trump says he will press Israel to hold back after Iran retaliates for Beirut attack - Reuters",
+    "summary": "Trump says he will press Israel to hold back after Iran retaliates for Beirut attack  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ09pbXlqUEZwdUE4cVVKVEtySklkRGIwSmx6LXlNZm1qWnN1cE8wT1FkODFaUGtJVWh3UG1CRXRMM3JuUWpKQ3ZwOU82aGZpM0llWkZvNUhyLUx5dFJHeV9Bd1B0Rm9DQVdhWno2aG9IQWhxZFhlc2RSbGRlV3A4UklMVFhFZkxvSlBfS3pWaGljaE83RklTb0pIazNHejYydUFuT2ZoQTN5Y05LNU14bURUaWVOTGc?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1780897710,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780797414,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The US is considering using Iranian assets to aid in the reconstruction of Gulf allies, according to a source. This move is seen as a potential sign of improving relations between the US and Iran. The US has previously imposed sanctions on Iran, but this development could indicate a shift in policy. The reconstruction efforts are likely to be a long-term project, requiring significant investment and resources. This news may have implications for companies involved in infrastructure development and reconstruction in the region.",
+      "impact": "This news could have a positive impact on companies involved in infrastructure development and reconstruction in the Gulf region, such as construction companies and engineering firms. The increased investment and resources required for reconstruction efforts could lead to higher demand for their services, potentially driving up earnings and stock prices in the medium term. However, the timing and scope of the reconstruction efforts are still uncertain, and any potential benefits may be tempered by ongoing geopolitical tensions in the region.",
+      "risks": [
+        "geopolitical risk",
+        "sanctions risk",
+        "execution risk"
+      ]
+    }
+  },
+  {
     "id": "8046974",
     "headline": "Goldman sees rupee weakness capped after steps to boost inflows",
     "summary": "Goldman now sees the dollar/rupee cross at 96 in three months, from 97 previously; it has kept its 6-month forecast unchanged at 96, while seeing the currency at 97 in 12 months, from 96 previously",
@@ -1087,16 +1287,6 @@
         "Reduced earnings for oil-producing companies"
       ]
     }
-  },
-  {
-    "id": "8043043",
-    "headline": "Rupee slumps as elevated crude, Treasury yields support dollar - Reuters",
-    "summary": "Rupee slumps as elevated crude, Treasury yields support dollar  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRVc2R0NiNjh6dTIxSmR0OFdMaE1MRXAteVZWRVRRWXo2M1RnVHZRSFRPTEh5aXhreHlHZmdGeWRCRThLTUs1MWhGcUhJSmQxYjU2dWlGcmtzNEVxU1lDRVZlNUNHdG9VTDBFTEJkYkdpU2ZiZGdmUnhRYy1RNnN6U2lYMkFyOVYxdVpqWkFOQjFydFgzRi1ZTmNoLXFzUWpVTUJjNU1wU01VUVpPc0JaTw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1780887180
   },
   {
     "id": "8041794",
@@ -1462,29 +1652,6 @@
     }
   },
   {
-    "id": "8038738",
-    "headline": "Trump says he would not unfreeze Iran's assets before peace deal is done - Reuters",
-    "summary": "Trump says he would not unfreeze Iran's assets before peace deal is done  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR0t2Sk5ISElDUHNqUWthaDlabUV5czBtSVVtQ05kOTJFVVFYRm01RWRnTkZ6U2JXdEUxVFJjdXpUYUhSbGdJVFRsdEhMYS1lNENNYjVMcWtJdnE4dExueWM5TzBLQlpVYmxQUjVObEN6dDUzcnpUeUpXV2h6cnFSeWllWElnMXlZdjN6MWg4S2NQamVfd2U4dDZaQjJlOFMwX2xwNTFvcWJ5VzNMR3RIY2EtMjBQeEIxYTFhdmlxOVBkbmc?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1780843870,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1780845281,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "US President Trump stated that he would not unfreeze Iran's assets before a peace deal is reached, indicating a potential delay in the resolution of the ongoing diplomatic tensions. This news is a continuation of the ongoing conflict between the US and Iran, which has been a major concern for the global economy. The situation remains uncertain, and the lack of progress in negotiations may lead to further economic sanctions and instability in the region. The freeze on Iran's assets has significant implications for the country's economy and its ability to access international trade and finance.",
-      "impact": "The news is likely to have a negative impact on the oil prices in the short-term, as tensions between the US and Iran may lead to supply disruptions and increased volatility in the global energy market. This, in turn, may lead to a decline in the earnings of oil-related companies, such as ExxonMobil (XOM) and Chevron (CVX). The medium-term impact may be a decrease in investor sentiment and a potential decline in the stock prices of companies with significant exposure to the Middle East region, such as Schlumberger (SLB) and Halliburton (HAL).",
-      "risks": [
-        "supply disruption risk",
-        "economic sanctions risk",
-        "geopolitical instability risk"
-      ]
-    }
-  },
-  {
     "id": "8045107",
     "headline": "Iranian assets, Supreme Court, Armenia and the Tonys - Reuters",
     "summary": "Iranian assets, Supreme Court, Armenia and the Tonys  Reuters",
@@ -1514,6 +1681,29 @@
         "Oil price volatility risk",
         "Regional stability risk",
         "Earnings decline risk"
+      ]
+    }
+  },
+  {
+    "id": "8038738",
+    "headline": "Trump says he would not unfreeze Iran's assets before peace deal is done - Reuters",
+    "summary": "Trump says he would not unfreeze Iran's assets before peace deal is done  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR0t2Sk5ISElDUHNqUWthaDlabUV5czBtSVVtQ05kOTJFVVFYRm01RWRnTkZ6U2JXdEUxVFJjdXpUYUhSbGdJVFRsdEhMYS1lNENNYjVMcWtJdnE4dExueWM5TzBLQlpVYmxQUjVObEN6dDUzcnpUeUpXV2h6cnFSeWllWElnMXlZdjN6MWg4S2NQamVfd2U4dDZaQjJlOFMwX2xwNTFvcWJ5VzNMR3RIY2EtMjBQeEIxYTFhdmlxOVBkbmc?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1780838520,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1780845281,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "US President Trump stated that he would not unfreeze Iran's assets before a peace deal is reached, indicating a potential delay in the resolution of the ongoing diplomatic tensions. This news is a continuation of the ongoing conflict between the US and Iran, which has been a major concern for the global economy. The situation remains uncertain, and the lack of progress in negotiations may lead to further economic sanctions and instability in the region. The freeze on Iran's assets has significant implications for the country's economy and its ability to access international trade and finance.",
+      "impact": "The news is likely to have a negative impact on the oil prices in the short-term, as tensions between the US and Iran may lead to supply disruptions and increased volatility in the global energy market. This, in turn, may lead to a decline in the earnings of oil-related companies, such as ExxonMobil (XOM) and Chevron (CVX). The medium-term impact may be a decrease in investor sentiment and a potential decline in the stock prices of companies with significant exposure to the Middle East region, such as Schlumberger (SLB) and Halliburton (HAL).",
+      "risks": [
+        "supply disruption risk",
+        "economic sanctions risk",
+        "geopolitical instability risk"
       ]
     }
   },
@@ -1747,29 +1937,6 @@
         "public safety concerns",
         "security services demand impact",
         "local economic activity slowdown"
-      ]
-    }
-  },
-  {
-    "id": "8036021",
-    "headline": "Trump says he will press Israel to hold back after Iran retaliates for Beirut attack - Reuters",
-    "summary": "Trump says he will press Israel to hold back after Iran retaliates for Beirut attack  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ09pbXlqUEZwdUE4cVVKVEtySklkRGIwSmx6LXlNZm1qWnN1cE8wT1FkODFaUGtJVWh3UG1CRXRMM3JuUWpKQ3ZwOU82aGZpM0llWkZvNUhyLUx5dFJHeV9Bd1B0Rm9DQVdhWno2aG9IQWhxZFhlc2RSbGRlV3A4UklMVFhFZkxvSlBfS3pWaGljaE83RklTb0pIazNHejYydUFuT2ZoQTN5Y05LNU14bURUaWVOTGc?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1780784880,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1780797414,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The US is considering using Iranian assets to aid in the reconstruction of Gulf allies, according to a source. This move is seen as a potential sign of improving relations between the US and Iran. The US has previously imposed sanctions on Iran, but this development could indicate a shift in policy. The reconstruction efforts are likely to be a long-term project, requiring significant investment and resources. This news may have implications for companies involved in infrastructure development and reconstruction in the region.",
-      "impact": "This news could have a positive impact on companies involved in infrastructure development and reconstruction in the Gulf region, such as construction companies and engineering firms. The increased investment and resources required for reconstruction efforts could lead to higher demand for their services, potentially driving up earnings and stock prices in the medium term. However, the timing and scope of the reconstruction efforts are still uncertain, and any potential benefits may be tempered by ongoing geopolitical tensions in the region.",
-      "risks": [
-        "geopolitical risk",
-        "sanctions risk",
-        "execution risk"
       ]
     }
   },
@@ -21655,259 +21822,6 @@
         "decline in oil prices",
         "prolonged period of uncertainty",
         "negative impact on investor sentiment and liquidity"
-      ]
-    }
-  },
-  {
-    "id": "7948276",
-    "headline": "Xi gives Trump rare tour of secret garden at heart of Chinese government - Reuters",
-    "summary": "Xi gives Trump rare tour of secret garden at heart of Chinese government  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVjlvNEp2RndvTDdPVGNkbnNHWGgyNnl2T3l5VHFGZS1UTFJUeVlGbWN1YkhxVHhMemxIQTFPTDZvdTJiZ1ZBRDVxd1BydE5ieHdQc3RQZnJOT2xnT3hmWXdyUmVjZW9zMEpPajBzMVd4MWtidlY0QURXQy1oUXpmS3RmWk1QY0JYcVRjaGRvclA0QkNCN3hZTFhuX25QVk1DNGs2X3NOeDNZOEJDYXJNTw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778849288,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778865847,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Chinese President Xi Jinping gave US President Donald Trump a rare tour of a secret garden at the heart of the Chinese government. The event was part of Trump's visit to China, which aimed to ease tensions between the two nations. The garden, located in the Zhongnanhai complex, is a symbol of Chinese power and politics. The tour was seen as a gesture of goodwill and a sign of improved relations between the two countries. The event is unlikely to have a direct impact on the business fundamentals of Chinese companies, but it may improve the overall sentiment towards China and its economic prospects.",
-      "impact": "The news may lead to a short-term positive sentiment shift towards Chinese stocks, driven by improved relations between the US and China. This could result in a slight increase in investor confidence, potentially boosting the stock prices of Chinese companies with a high exposure to the US market. However, the medium-term impact is likely to be limited, as the event is more of a symbolic gesture rather than a concrete economic development.",
-      "risks": [
-        "geopolitical tensions resuming",
-        "trade war escalation",
-        "ongoing US-China relations uncertainty"
-      ]
-    }
-  },
-  {
-    "id": "7947286",
-    "headline": "30-year Treasury yield tops 5.1%, highest in nearly a year",
-    "summary": "Treasuries spiked on Friday as inflation signals continue to muddy interest rate expectations under the new Federal Reserve chair Kevin Warsh.",
-    "url": "https://www.cnbc.com/2026/05/15/treasury-yields-surge-as-inflation-data-points-to-tricky-rates-path.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108296432-17769691342026-04-23t145354z_946964958_rc22vka4lnni_rtrmadp_0_usa-stocks.jpeg?v=1776982682&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1778847041,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778851232,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The 30-year Treasury yield has surged to 5.1%, its highest in nearly a year, driven by inflation data and uncertainty around the Federal Reserve's interest rate policy under new Chair Kevin Warsh. The yield on the 10-year Treasury note also rose, while the 2-year Treasury note yield increased by over 6 basis points. Inflation data showed the consumer price index at 3.8%, producer prices at 6%, and import prices at 4.2% on a 12-month basis, all of which are at multi-year highs. These numbers, combined with the recent increase in energy prices, are causing concerns about inflation and its impact on the economy.",
-      "impact": "The rise in Treasury yields could have a negative impact on the stock market, particularly on growth stocks and companies with high debt levels. This is because higher interest rates can increase borrowing costs and reduce consumer spending, which could lead to a slowdown in economic growth. The increase in yields also makes bonds more attractive, which could lead to a rotation out of stocks and into bonds, further pressuring stock prices. In the short term, this could lead to a decline in stock prices, particularly for companies with high valuations or high debt levels.",
-      "risks": [
-        "Higher interest rates risk",
-        "Inflation risk",
-        "Economic slowdown risk"
-      ]
-    }
-  },
-  {
-    "id": "7947522",
-    "headline": "Trump: spoke with Xi about lifting sanctions on Chinese companies that buy Iranian oil - Reuters",
-    "summary": "Trump: spoke with Xi about lifting sanctions on Chinese companies that buy Iranian oil  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbUhzT0x4cjVoUllReHBYUmpOeWtYRjlXeGc2UDl1a1Q1eC1iMjdWaEw4eW9zWElTN2RmUklUR1l1SU9KWmdQUVd6NFBlWnRfSFZwWTQ3Y2JfQ2VQRnowXzFoMk9kbExCLS1jclh2YTI0WXFSZWtkcy1uMy13NjFwNk5RVlBMN3ViTnhRTUxXMTAzYldYMnlhMXFEN1J2N0xVcF9SenlGazRrVkZxQjRfMXBMTkVnWW9VVXZ1QWxyVDRrcW5YeVZPY0w4dVJTYU5mQndj?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778846119,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778860322,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "US President Trump has spoken with Chinese President Xi about lifting sanctions on Chinese companies that buy Iranian oil. This development is a continuation of the ongoing efforts to ease tensions between the US and China. The US has imposed sanctions on Iran since 2018, affecting oil imports. The easing of sanctions could potentially increase oil imports from Iran, benefiting Chinese companies involved in the trade. However, the outcome of these talks is uncertain and subject to various factors, including US-China relations and global oil market dynamics.",
-      "impact": "The news may have a positive impact on Chinese oil companies that have been affected by the sanctions, potentially leading to increased earnings and valuation. However, the short-term impact may be limited due to the uncertainty surrounding the outcome of the talks and the complex geopolitical landscape. In the medium term, a potential increase in oil imports from Iran could lead to increased competition in the global oil market, potentially affecting the earnings and valuations of oil companies globally.",
-      "risks": [
-        "Uncertainty surrounding the outcome of the US-China talks",
-        "Potential backlash from the US government or other countries",
-        "Increased competition in the global oil market"
-      ]
-    }
-  },
-  {
-    "id": "7947076",
-    "headline": "Trump says he will soon make decision about sanctions on Chinese companies buying Iranian oil",
-    "summary": "U.S. President Donald Trump said Friday that he will make a decision over the next few days about lifting sanctions on Chinese oil companies that buy Iranion oil.",
-    "url": "https://www.cnbc.com/2026/05/15/trump-china-sanctions-iranian-oil.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108306886-17787594972026-05-14t051409z_67000638_rc2q8laxia4h_rtrmadp_0_china-usa.jpeg?v=1778759519&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1778844554,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778851372,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "US President Donald Trump plans to make a decision within the next few days on whether to lift sanctions on Chinese oil companies buying Iranian oil. This decision follows a recent US campaign to cut off revenue streams to Iran. The sanctions were imposed as part of a 'maximum pressure' campaign, targeting independent refineries, including China's Hengli Petrochemical (Dalian) Refinery, which imports Iranian oil using a 'shadow fleet' of tankers. The US and China strengthened their bilateral relationship during Trump's visit, but the issue of chip export controls and US access to rare earth minerals remains uncertain.",
-      "impact": "The potential lifting of sanctions on Chinese oil companies buying Iranian oil could positively impact Chinese oil companies, such as Hengli Petrochemical (Dalian) Refinery, by reducing their operational costs and increasing their revenue. This could lead to improved earnings outlook and valuation for these companies. However, the decision's impact on the oil market and global energy prices is uncertain, and could be influenced by various macro factors, including global demand and supply dynamics.",
-      "risks": [
-        "uncertainty around the US decision-making process and potential delays",
-        "potential backlash from Iran or other countries affected by the sanctions",
-        "impact on global energy prices and oil market dynamics"
-      ]
-    }
-  },
-  {
-    "id": "7947066",
-    "headline": "Family investors turn to old-economy businesses like dealerships and fisheries to avoid AI disruption",
-    "summary": "While car dealerships and fisheries are less eye-catching than high-flying AI startups, they offer stability and cash flow that's attractive to family offices.",
-    "url": "https://www.cnbc.com/2026/05/15/family-investors-economy-businesses-to-avoid-ai-disruption.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108306528-1778697651151-gettyimages-2220796623-dji_0923.jpeg?v=1778697685&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1778842903,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778860373,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Family offices are increasingly investing in old-economy businesses such as car dealerships and fisheries, which are less susceptible to disruption from AI and other technologies. This strategy, dubbed 'HALO' (heavy assets, low obsolescence), allows family offices to focus on stable, cash-generating businesses with a longer-term perspective. The trend is driven by a desire for stability and tax benefits, particularly with the renewal of bonus depreciation under the 'one big beautiful bill' law. This shift in investment strategy is expected to benefit companies in industries such as automotive and equipment sales, as well as fisheries and other asset-heavy businesses.",
-      "impact": "The trend is likely to have a positive impact on the stocks of companies in industries such as automotive and equipment sales, as well as fisheries and other asset-heavy businesses. This could lead to increased demand for shares of companies like John Deere, which is owned by Equity Group Investments, a family office that has invested in these types of businesses. The trend may also lead to higher valuations for these companies, as family offices are willing to pay a premium for stable, cash-generating businesses with a long-term perspective.",
-      "risks": [
-        "valuation risk: family offices may overpay for these companies, leading to a decline in their valuations if the trend reverses",
-        "sector risk: the trend may be specific to family offices and not representative of the broader market, which could lead to a decline in demand for these companies if the trend reverses",
-        "regulatory risk: changes in tax laws or regulations could impact the benefits of investing in asset-heavy businesses"
-      ]
-    }
-  },
-  {
-    "id": "7957190",
-    "headline": "Capital Economics sees oil at $150 per barrel through 2027 in an extreme case - Reuters",
-    "summary": "Capital Economics sees oil at $150 per barrel through 2027 in an extreme case  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNemo4aTZIQnd4a3I1dTU4V1ZvU0ZvcEp2djJUc2RJckRFWUNOM2dmS2ZXRjhGbXVpSHFYLWJzSjdvcEVjMzlUUnpDcjZiUUs1aW16QW9HYzA4V2VkYU1xVUNTRkNGR2x2cDRUZy1MMFE0LXRET3k3ZnlYSFJpcHUwNkxIQjM0enpfNC1hY0VQaHFOdVpPekF3V1JYeWNDeVNuclN6STQtRExNTUtsb2FLUUxESlk5R3BWaGdpOW9Daw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778841955,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1779027198,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Capital Economics predicts that oil prices could reach $150 per barrel by 2027 in an extreme scenario. This forecast is based on a potential supply-demand imbalance, driven by increasing global demand and limited production capacity. The report highlights the increasing demand for oil from emerging markets and the potential for supply disruptions due to geopolitical tensions. This scenario is considered extreme, but it could have significant implications for the oil industry and related stocks.",
-      "impact": "The potential for oil prices to reach $150 per barrel by 2027 could have a positive impact on oil-producing companies, particularly those with significant production capacity. This could lead to increased earnings and valuations for these companies in the medium term. However, the extreme nature of this scenario also increases the risk of supply disruptions and price volatility, which could negatively impact investor sentiment and liquidity in the short term.",
-      "risks": [
-        "Supply disruption risk due to geopolitical tensions",
-        "Price volatility risk due to extreme market conditions",
-        "Investor sentiment risk due to uncertainty around oil prices"
-      ]
-    }
-  },
-  {
-    "id": "7941899",
-    "headline": "Iran urges BRICS nations to condemn war, Indian-flagged vessel sunk - Reuters",
-    "summary": "Iran urges BRICS nations to condemn war, Indian-flagged vessel sunk  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdW53TkljVWJ0UDg1cW1kemFaaUtmcDM5ODBCcEZiZFJOcGE5SkROazJrXzBVSFZGNno5UXVlbmRYUnpDcjlKWVoxal84QVI5Mm91NXZFTVMyNHdra05YbThpZ2h3Tm82ZHlpTVQxOFVjOVlDbVZtNXNuc1E1UXVpeWFhaEU2RGlwV3R6Y1R4X1N5bktmbTlWRHZNM3FNMjVaZ2l1bFJQMA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778837168,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778756723,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "Iran's call for BRICS to condemn the US and Israel for war has exposed divisions within the bloc, potentially weakening its unity and effectiveness. The BRICS nations, which include Brazil, Russia, India, China, and South Africa, have historically been a counterbalance to Western powers. However, Iran's move may indicate a shift in the bloc's dynamics, with some members potentially disagreeing with Tehran's stance. This could lead to a loss of credibility and influence for the BRICS nations.",
-      "impact": "The potential impact on related stocks is likely to be negative, particularly for companies with exposure to the Middle East or those with ties to the BRICS nations. The increased tensions and divisions within the BRICS bloc may lead to a decrease in investor confidence, causing a short-term sell-off in stocks such as those in the energy or defense sectors. In the medium term, the weakening of the BRICS nations may also lead to a decrease in demand for their exports, potentially impacting companies with significant international sales.",
-      "risks": [
-        "Decrease in investor confidence",
-        "Weakening of BRICS nations' credibility",
-        "Decrease in demand for exports"
-      ]
-    }
-  },
-  {
-    "id": "7938326",
-    "headline": "Iran, Ukraine wars deliver worst hit in years to oil refining output - Reuters",
-    "summary": "Iran, Ukraine wars deliver worst hit in years to oil refining output  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUlF2anR3RFgtMkdYdEFWNzByUkVIU1M2aHdzZ3E1VVg3d3dkWFRZUHpzbEt2NXNBWWdaLXhZYXNBRlVVSk8yaUxyTVNJMTVrVEg4VEJqb2s1ZEdqR2VBTmNtcExPVWFIbnV5QjBtenEzbVBHcjFFUlNZMGZ3eWc5cjdLY3ctX0ItSmlJVjRXWWNiWTR6c3VZTVNDUy11bVZlNnFFcS1ManQySENZdXN0NG1iYw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778833094,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778697083,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The ongoing Iran and Ukraine wars have significantly impacted oil refining output, resulting in the worst hit in years. The conflict in Ukraine has disrupted the flow of oil from the Black Sea, while the Iran-US tensions have led to a decrease in oil exports from Iran. This has caused a shortage of oil supplies, leading to a surge in oil prices. The refining industry is struggling to meet the increased demand, resulting in reduced output. The situation is expected to continue in the short term, with potential long-term implications for the industry.",
-      "impact": "The news is likely to have a negative impact on oil refining stocks, potentially leading to a decline in earnings outlook and valuation. The reduced refining output and increased oil prices may also lead to a decrease in liquidity for these stocks. In the short term, investors may see a surge in oil prices, which could be positive for oil producers but negative for refiners. However, in the medium term, the reduced refining capacity may lead to a decrease in oil production, which could have a positive impact on oil prices and, subsequently, oil producers.",
-      "risks": [
-        "Reduced refining capacity risk",
-        "Increased oil prices risk",
-        "Decreased earnings outlook risk"
-      ]
-    }
-  },
-  {
-    "id": "7946525",
-    "headline": "German economy to take hit from Iran war during Q2, ministry says - Reuters",
-    "summary": "German economy to take hit from Iran war during Q2, ministry says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSDZkZExsZVpBRnlRUkttUm1fVGdvWlF6UHhPMUpxVlhVNExBdktjT1dLbTlhUXFuYkJ6b3ZGT09iN0RTQVNJOEx0MW5WQVRTdTFONlgtcTVyeW1kaWhhOFVzZTRKLXMzb1dJaVI5YkIwN0FDc21ibkdhblZLNVFnbjR6anFpY1pQdkR5S291eFFsdWdrdkFEbHhXdTFLeVRLQWNn?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778826960,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778843261,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The German economy is expected to be negatively impacted by a potential war with Iran in the second quarter, according to a ministry statement. This news is based on a Reuters article citing a ministry official. The official stated that a war with Iran would likely lead to higher oil prices, which would in turn increase inflation and reduce consumer spending. This could lead to a slowdown in the German economy, which is heavily reliant on exports and imports. The ministry's assessment suggests that the economic impact could be significant, with potential effects on the country's GDP and overall economic growth.",
-      "impact": "The potential war with Iran is likely to have a negative impact on the German economy, particularly in the short-term. This could lead to a decline in earnings for companies with significant exposure to the automotive and manufacturing sectors, as well as those with high import costs. The war could also lead to a decline in consumer spending, further exacerbating the economic slowdown. In the medium-term, the impact could be felt across the entire economy, with potential effects on the country's GDP and overall economic growth.",
-      "risks": [
-        "Economic slowdown risk",
-        "Inflation risk",
-        "Oil price volatility risk"
-      ]
-    }
-  },
-  {
-    "id": "7945894",
-    "headline": "Trump leaves Beijing with few wins but warm words for Xi - Reuters",
-    "summary": "Trump leaves Beijing with few wins but warm words for Xi  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRU9TTUprdzlUN0ZBWGo1LUVNZWlYNzFvaXpPX21KTk1aQ0tfYXp5alZGai1Ub09XX2tma2JqME9MM0lKcEJVWDZneklPQWhkTlc5c1U4Z0NpUElNUUg1Tjc2UkpHQ3pTcWJLSWxhR2NYaFVVYnhOalZPUjhMaDhpVWJEQ24xY3NjTlpYaV9QTlJzZjhOZjdaNTN3bXY1WFk?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778825211,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778833971,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "US President Trump highlighted his administration's business achievements, including a trade deal with China. However, China's concerns about Iran and Taiwan were also raised, potentially straining US-China relations. The US and China have been engaged in a trade war, with the US imposing tariffs on Chinese goods and China retaliating with its own tariffs. This news does not directly impact the US-China trade negotiations, but it may indicate a shift in China's priorities and potentially affect the trade talks.",
-      "impact": "The news may have a neutral impact on US stocks in the short term, as it does not provide any new information on the trade talks. However, it could lead to increased volatility in the market, particularly if tensions between the US and China escalate. In the medium term, a worsening of US-China relations could negatively impact US companies that rely heavily on Chinese trade, such as those in the technology and industrial sectors.",
-      "risks": [
-        "Escalating trade tensions between the US and China",
-        "Potential slowdown in US-China trade negotiations",
-        "Increased volatility in the market"
-      ]
-    }
-  },
-  {
-    "id": "7944333",
-    "headline": "Airlines cancel flights in response to Middle East conflict - Reuters",
-    "summary": "Airlines cancel flights in response to Middle East conflict  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUktYcUtESEg4Vkt6a2d5akRkeFI2Njd0dkR1UnhaLU5EbVFuQkJnMnkyaWRnWFlkQlVBY1BtWFRRVWpfS1RPMjRfclZidFBVaWJwb0c2Y2UxV2p5azA5M3FyWjRJLXlMcVRsd3JIdWZsZXpXVDV5WVdJRHFFUUFzWF9pQkxsbURWQ0p4bnl3MkxtTVFrVUxEX3dhdGNKM2MyNkhhOVNMTmhLRGNEYnJSWHRKTG5zdw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1778822520,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1778808767,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Several airlines have canceled flights in response to the escalating conflict in the Middle East. The conflict has created a high level of uncertainty and risk for airlines operating in the region. The cancellations are likely a precautionary measure to protect passengers and crew, as well as to minimize potential losses. The situation is fluid and may continue to evolve, with potential implications for the global airline industry. The cancellations are a short-term response to a developing situation, but may have medium-term implications for airline earnings and valuations.",
-      "impact": "The cancellations are likely to have a negative impact on airline stocks, particularly those with significant operations in the Middle East. The short-term impact may be limited, but the medium-term effects could be more pronounced, particularly if the conflict escalates. The cancellations may also lead to a decline in air travel demand, which could negatively impact airline earnings and valuations. The situation may also lead to increased costs for airlines, such as fuel and security costs, which could further pressure earnings.",
-      "risks": [
-        "decline in air travel demand risk",
-        "increased costs risk",
-        "earnings pressure risk"
       ]
     }
   }
