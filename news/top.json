@@ -1,5 +1,61 @@
 [
   {
+    "id": "8063423",
+    "headline": "Jim Cramer's top 10 things to watch in the stock market Friday",
+    "summary": "The biggest IPO of all time is finally here.",
+    "url": "https://www.cnbc.com/2026/06/12/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108320407-17811948012026-06-11t161848z_2116664479_rc2srlaib9ia_rtrmadp_0_spacex-ipo.jpeg?v=1781194846&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1781269167,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781272675,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Jim Cramer's top 10 things to watch in the stock market on Friday include the largest IPO of all time, SpaceX, which is expected to have a 25-30% pop at the open. Additionally, stock futures are higher on hopes of a peace deal between the US and Iran, which could lead to a reopening of the Strait of Hormuz and a decrease in oil prices. Adobe's CFO is leaving to join Marvell, a sign of the market's shift from software to semiconductors. AMD was upgraded to buy from hold at Citi, citing agentic AI as a major tailwind to its CPU business. JPMorgan upped its Nokia price target to $21, citing its reinvention as an AI networking play and partnership with Nvidia.",
+      "impact": "The potential impact on stocks is significant, with SpaceX's IPO expected to drive a pop in the stock, potentially encouraging flippers and a weak shareholder base. The peace deal between the US and Iran could lead to a decrease in oil prices, benefiting energy stocks. The upgrade of AMD to buy from hold at Citi could lead to a short-term increase in the stock price, driven by the potential for increased demand from Meta. JPMorgan's price target increase for Nokia could lead to a short-term increase in the stock price, driven by the company's AI networking play and partnership with Nvidia.",
+      "risks": [
+        "Regulatory approval risk for SpaceX's IPO",
+        "Integration risk for AMD's CPU business",
+        "Demand slowdown risk for Nokia's AI networking play"
+      ]
+    }
+  },
+  {
+    "id": "8063098",
+    "headline": "Former Tesla board member says SpaceX needs to achieve 2 of its 3 moonshots to keep its valuation",
+    "summary": "SpaceX has achieved its goal of becoming the largest IPO on record.",
+    "url": "https://www.cnbc.com/2026/06/12/spacex-moonshots-valuation-westly-tesla.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108316180-17805083792026-04-23t200549z_1942745949_rc24vkaijt22_rtrmadp_0_spacex-ipo.jpeg?v=1780508425&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1781263357
+  },
+  {
+    "id": "8063426",
+    "headline": "European stocks rally as oil falls on hopes for US-Iran deal - Reuters",
+    "summary": "European stocks rally as oil falls on hopes for US-Iran deal  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU2NwbnhSejZzNkxual9ZYm1wRmRmVjVHTlYwQjlVYmdZaW8yQlFVbVBaVWR5c1RXaTNyMGZXdVV0c2J2eV9STWRlaEExTndPVkZIc2g2WVpxdHdmZE9aT0txYTg5WXk5LWdpRmRyN29FMnNaeEhBb3FPOVc5NU1XQ3h0czRRNWxmdnRPTmVlWWowYVFOdFdtTE0yd0JJTHpmWDc0?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1781250087,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781272738,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "European stocks rallied as oil prices fell on hopes for a US-Iran deal, which could lead to increased global oil supply and reduced tensions in the Middle East. The news is a positive development for energy companies, as lower oil prices can boost their profitability. The US-Iran deal could also have a positive impact on the global economy, potentially leading to increased trade and economic growth. This, in turn, could benefit European stocks as a whole. The news is a welcome relief for investors, who had been worried about the potential for a conflict in the region to disrupt global oil supplies and lead to higher prices.",
+      "impact": "The potential US-Iran deal could lead to a short-term boost in European stocks, particularly those with significant exposure to the energy sector. Companies such as Royal Dutch Shell (RDSB) and Total (TOT) may benefit from lower oil prices, which could improve their profitability and earnings outlook. In the medium term, a US-Iran deal could lead to increased trade and economic growth, benefiting European stocks more broadly. This could be particularly positive for companies with exposure to international trade, such as Airbus (AIR.PA) and Siemens (SIE.DE).",
+      "risks": [
+        "Geopolitical risk remains, as a US-Iran deal is not yet finalized and tensions in the region could escalate at any time",
+        "Oil prices could rebound if the US-Iran deal falls through or if global demand increases",
+        "The impact of a US-Iran deal on European stocks may be short-lived if the deal does not lead to sustained economic growth"
+      ]
+    }
+  },
+  {
     "id": "8062458",
     "headline": "UK economy began to feel fallout from Iran war in April, data shows - Reuters",
     "summary": "UK economy began to feel fallout from Iran war in April, data shows  Reuters",
@@ -47,8 +103,8 @@
   },
   {
     "id": "8061927",
-    "headline": "Trump says Iran war deal close as Strait of Hormuz tensions linger - Reuters",
-    "summary": "Trump says Iran war deal close as Strait of Hormuz tensions linger  Reuters",
+    "headline": "U.S.-Iran peace memorandum could be signed on Sunday in Geneva, source says - Reuters",
+    "summary": "U.S.-Iran peace memorandum could be signed on Sunday in Geneva, source says  Reuters",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMXk5cUo1M00yVjgxUGh5ZHl5SWdsUFcxZWhQUUF4MUhZY3pzNGZUbUU1SEtHUEh0dnZJM1Y4TFU0SzloMWNlQ1VqcjBZZ09raU1QdnFXallaeTBVMEZsNGhsOVVDcFNUZ2tjY29zX3hYYjJ6ZzAtZU1FSURnY0J3TktmSEk2eGFpd1Njek1SUG1mbkJrVmltN3RMQVk5WFpOOUxuMEVLUHRuVE50alhrTGk0VGs?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -70,8 +126,8 @@
   },
   {
     "id": "8061716",
-    "headline": "India rupee surges as oil nosedives on rising bets of US-Iran peace deal - Reuters",
-    "summary": "India rupee surges as oil nosedives on rising bets of US-Iran peace deal  Reuters",
+    "headline": "Rupee rallies as oil slump sparks unwinding of dollar longs - Reuters",
+    "summary": "Rupee rallies as oil slump sparks unwinding of dollar longs  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVnp0bHQ1RVV4dE9lSW9XS2YtaXg4VEMxVU4tcGVrXzFaT0lVQjI4TjVKZU1aUWxFZ0JVcEVkR1IweUJVU1h1NXBNU0lPVm9ORnFRRk0teFkyM1JWZEJNQUpybVdsclU3ZU5rclJrWmh2QW96RjA5akZHTzRGMFlvT1JkZEh3YVNYdnpDNndqZHh3dFdMS0cwRnZQSWY2X0R0RlhWbU9ZM0Q?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -93,8 +149,8 @@
   },
   {
     "id": "8062457",
-    "headline": "Dollar steadies as traders weigh prospects for Iran ceasefire - Reuters",
-    "summary": "Dollar steadies as traders weigh prospects for Iran ceasefire  Reuters",
+    "headline": "Dollar firm as traders weigh prospects for Iran ceasefire - Reuters",
+    "summary": "Dollar firm as traders weigh prospects for Iran ceasefire  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONC04MExBWDdBT2lMaDd6aXBldkN4VWRjV0N3TlEyLVVzQmloWDhGNTZLU2k0b2xUUW5KRjRMdmVobFZMc2l0TmY2dEhpamVwbWlmeEpnb1l0RkZnWEFZbTNXYWFBY0piNmZwTlZMNWJGenkxV3BpdGlrbWJKWjlNWlloOEhla3l3aVVTOWd5d0tacndjSFF5ZUJqNFF4T1lnUE8zYmJiTU5sZXpIbFVKU3B5aw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -670,7 +726,20 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/108319410-1781091905727-gettyimages-2280184183-AFP_B6JP3AE.jpeg?v=1781091932&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1781183375
+    "publishedAt": 1781183375,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781272786,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Chip stocks are leading the market higher, driven by Micron, Sandisk, and Intel's recent gains. Oracle's earnings missed expectations due to increased spending on AI-related projects, but its large remaining performance obligation provides a potential upside. Bank of America upgraded Intel to buy, citing its chipmaking business and CPU market size. Semiconductor equipment suppliers, such as Lam Research, KLA Corp, and Applied Materials, are also seeing increased price targets due to strong demand.",
+      "impact": "Chip stocks, particularly Intel, Micron, and Sandisk, are likely to see short-term gains due to their recent price increases. The upgrade from Bank of America and increased price targets for semiconductor equipment suppliers could also drive medium-term growth. However, Oracle's earnings miss and plans to raise $20 billion for data center construction may lead to short-term selling pressure and increased debt.",
+      "risks": [
+        "Regulatory risk for Intel due to its foundry business",
+        "Execution risk for Intel's CPU market growth",
+        "Increased debt and equity dilution risk for Oracle"
+      ]
+    }
   },
   {
     "id": "8058313",
@@ -680,7 +749,16 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1781182736
+    "publishedAt": 1781182736,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781272832,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "US President Trump has threatened to take control of Iran's energy infrastructure, implying a significant escalation of tensions between the two countries. This move is likely in response to Iran's recent actions in the Middle East. The US has been increasing its military presence in the region, and this announcement suggests a further tightening of the noose around Iran. The impact on the global energy market is uncertain, but it could lead to increased volatility and potential supply disruptions.",
+      "impact": "The news is likely to have a bearish impact on oil prices, potentially leading to a short-term increase in crude oil prices. This could be beneficial for energy companies with significant oil reserves or production capacity, such as ExxonMobil (XOM) and Chevron (CVX). However, the medium-term impact is less clear, as the situation could lead to increased tensions and potential supply disruptions, which could negatively affect earnings outlook for energy companies. The news may also increase investor risk aversion, leading to a decrease in stock prices for companies with high exposure to the Middle East region.",
+      "risks": []
+    }
   },
   {
     "id": "8057546",
@@ -865,6 +943,29 @@
     "publishedAt": 1781160240
   },
   {
+    "id": "8051622",
+    "headline": "US, Iran exchange attacks as Trump threatens further escalation - Reuters",
+    "summary": "US, Iran exchange attacks as Trump threatens further escalation  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS0dXSGJPLVM3VVFmRmYwcWloclNleWtLV0NrYVZfblNtdU5kY0RnOXNQSjBUQVZQS2RhR1RwQVhhT1oxVGdtVjJkdExKWG5uM3VFSTlPY0JhWms0S3RMdml0X0dVTEhuOTlEWUc3ZHlJVXl4dWFUeVFOT2xKWUhCbTh3aUVFeS1qaTNySWRBdWNMY1BhVWZUekZaUVNIZEVDVklnV1VISHpid0JObjVCU3V5bXFHaTgxaEN3M0UwOW1ac1Nz?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1781159964,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781071999,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Iran has announced plans to target US military bases in Jordan and the Gulf in response to Trump's order to strike near the Strait of Hormuz. This escalation in tensions between the US and Iran increases the risk of conflict in the region. The Strait of Hormuz is a critical chokepoint for global oil trade, with approximately 20% of the world's oil passing through it. This development is likely to lead to increased volatility in oil prices, which could have a negative impact on energy companies and related industries.",
+      "impact": "The potential impact on energy companies such as ExxonMobil (XOM) and Chevron (CVX) could be significant, as increased tensions in the region could lead to higher oil prices. This could result in increased costs for these companies and potentially negatively impact their earnings outlook. Additionally, the increased volatility in the oil market could also impact the valuation of these companies. In the short term, we expect oil prices to rise, which could lead to a short-term boost in earnings for energy companies, but this could be offset by the increased costs associated with the higher oil prices.",
+      "risks": [
+        "Increased oil prices risk",
+        "Escalation of conflict risk",
+        "Negative impact on earnings outlook risk"
+      ]
+    }
+  },
+  {
     "id": "8057980",
     "headline": "India demands end to US attacks on ships after three sailors killed - Reuters",
     "summary": "India demands end to US attacks on ships after three sailors killed  Reuters",
@@ -978,7 +1079,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1781145600
+    "publishedAt": 1781146319
   },
   {
     "id": "8056822",
@@ -1935,29 +2036,6 @@
     "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
     "relatedSymbols": [],
     "publishedAt": 1781066748
-  },
-  {
-    "id": "8051622",
-    "headline": "US, Iran exchange attacks as Trump threatens further escalation - Reuters",
-    "summary": "US, Iran exchange attacks as Trump threatens further escalation  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS0dXSGJPLVM3VVFmRmYwcWloclNleWtLV0NrYVZfblNtdU5kY0RnOXNQSjBUQVZQS2RhR1RwQVhhT1oxVGdtVjJkdExKWG5uM3VFSTlPY0JhWms0S3RMdml0X0dVTEhuOTlEWUc3ZHlJVXl4dWFUeVFOT2xKWUhCbTh3aUVFeS1qaTNySWRBdWNMY1BhVWZUekZaUVNIZEVDVklnV1VISHpid0JObjVCU3V5bXFHaTgxaEN3M0UwOW1ac1Nz?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781063640,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1781071999,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Iran has announced plans to target US military bases in Jordan and the Gulf in response to Trump's order to strike near the Strait of Hormuz. This escalation in tensions between the US and Iran increases the risk of conflict in the region. The Strait of Hormuz is a critical chokepoint for global oil trade, with approximately 20% of the world's oil passing through it. This development is likely to lead to increased volatility in oil prices, which could have a negative impact on energy companies and related industries.",
-      "impact": "The potential impact on energy companies such as ExxonMobil (XOM) and Chevron (CVX) could be significant, as increased tensions in the region could lead to higher oil prices. This could result in increased costs for these companies and potentially negatively impact their earnings outlook. Additionally, the increased volatility in the oil market could also impact the valuation of these companies. In the short term, we expect oil prices to rise, which could lead to a short-term boost in earnings for energy companies, but this could be offset by the increased costs associated with the higher oil prices.",
-      "risks": [
-        "Increased oil prices risk",
-        "Escalation of conflict risk",
-        "Negative impact on earnings outlook risk"
-      ]
-    }
   },
   {
     "id": "8053443",
@@ -21084,75 +21162,6 @@
         "higher oil prices",
         "higher bond yields",
         "increased competition from new AI cloud company"
-      ]
-    }
-  },
-  {
-    "id": "7969772",
-    "headline": "Workday to keep expanding Indian workforce, deepen AI investments, executive says - Reuters",
-    "summary": "Workday to keep expanding Indian workforce, deepen AI investments, executive says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV0VzNWdWTXVZempITlBHdXBxel9PNlpnblAtMDlvR3pEZ0VNSmtILWlfSWRUZHpNWlU4SGJQWmFiSGNRcWh1VGJXUUhQdWRiZGpDTk9ITExmUzNTY1o1VlJwRGZtZlJJel9CTlZTWW1VWlotZHJEcXU5TDYyU05IQTQ4NHU5STd3UnJvNHRqRjJRS0ZwN1NtVGowR00xcnQta1p6RkNwSEM0bWJOZmFPbGpKMlp4UElObF80Y1NHR1dsZlBTZTFLOGc1WnhyZl9F?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1779194886,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1779339799,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Workday, a cloud-based financial management software company, plans to expand its Indian workforce and deepen its artificial intelligence (AI) investments. This move is a strategic step to tap into the growing demand for cloud-based solutions in India, where the company has seen significant growth. The expansion is expected to enhance the company's ability to deliver innovative solutions to its clients. Workday's focus on AI will enable it to improve its product offerings and stay competitive in the market. This news is a positive indicator of the company's growth prospects and its ability to adapt to the changing market landscape.",
-      "impact": "The expansion of Workday's Indian workforce and AI investments are likely to have a positive impact on the company's earnings outlook, as it will enable it to deliver more innovative solutions to its clients. This, in turn, will drive growth and increase revenue. The company's valuation may also benefit from this move, as it will enhance its competitive position in the market. Additionally, the increased focus on AI will attract more investors, leading to increased liquidity and sentiment.",
-      "risks": [
-        "Integration risk: The successful integration of AI into Workday's existing products and services is crucial for the company's growth prospects.",
-        "Dependence on Indian market: Workday's growth is heavily dependent on the Indian market, which may be subject to economic and regulatory risks.",
-        "Competition from other AI players: Workday faces intense competition from other AI players in the market, which may impact its market share and growth prospects."
-      ]
-    }
-  },
-  {
-    "id": "7969667",
-    "headline": "ConocoPhillips expects Qatar gas JVs delays of months, not years - Reuters",
-    "summary": "ConocoPhillips expects Qatar gas JVs delays of months, not years  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbjd6LTlqNkNacTBybHNXVzgyeEt0TTYxakp6cFRBVGZlRjlweDRQeU9YUVNVc1R5ZFRsbERkWW1pdk1SZmwxdHZZdWtOd0otYktlQ3RjRWt1bVNzNnhyck5nN3lkbk9FVzhXZXo2TE1pMWVNMS1IMzNOamRJSXJobGNLS1RRRGlGSlpkcGUxczJheDlKN29fUU9zc25ieGtyVGtiVWNxZ3R2RGZLX0VBS2RB?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1779194712,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1779339848,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "ConocoPhillips, an American multinational energy corporation, has announced that the delays in its joint ventures (JVs) in Qatar are expected to be measured in months, not years. This news is a correction to previous expectations of significant delays. The company's JVs in Qatar are focused on natural gas production. The revised timeline is seen as a positive development for the company, as it indicates that the project is still on track to meet its goals. The news is likely to have a neutral impact on the company's stock price, as it does not provide any significant new information about the project's profitability or the company's overall financial health.",
-      "impact": "The news is likely to have a neutral impact on ConocoPhillips' stock price in the short term, as the revised timeline does not provide any significant new information about the project's profitability or the company's overall financial health. However, it may lead to a slight increase in investor confidence in the company's ability to manage its projects. In the medium term, the news may have a positive impact on the company's stock price if the revised timeline is met and the JVs are successfully completed, leading to increased revenue and earnings for the company.",
-      "risks": [
-        "project execution risk",
-        "regulatory risk in Qatar",
-        "market volatility risk"
-      ]
-    }
-  },
-  {
-    "id": "7966776",
-    "headline": "Explosions heard in Iran's Qeshm island due to disposal of enemy ammunition - Reuters",
-    "summary": "Explosions heard in Iran's Qeshm island due to disposal of enemy ammunition  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYXp2VkJXcWNlaEc3N0JOazlfb2ZDbXljVmVxV0V0enNsRXNTMWhuYkIzZDBDZkREUTBJTkVOdy1JOURBdGFSaHJkeDBmV2lxTm9RZHlTaEtVR1NMMUZiaXdLY2diLWEzQlB0SmFyYnNFSFhlaEo3UExrcWpYc1oxRDAzTXRUa2hNcVlXQXFRQ0xHeC1sNnN3NzhWX1lvcGo4V1dNSzdnS2hOczN3ZDFrVW5KMVVBS2J6WU9yeQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1779189470,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1779201230,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Explosions were heard in Iran's Qeshm island, reportedly due to the disposal of enemy ammunition. The incident occurred on an island with significant strategic and economic importance, particularly in the context of Iran's naval and military capabilities. Qeshm island is a key location for Iran's military and naval operations, and the incident may be related to the country's efforts to dispose of seized or captured enemy equipment. The background of the incident is unclear, but it is likely that the disposal of enemy ammunition is a routine process. The incident does not have an immediate impact on the global economy or the business fundamentals of related companies.",
-      "impact": "The incident may have a neutral impact on the related stocks in the short term, as it does not appear to have any direct connection to the business fundamentals of companies in the aerospace, defense, or energy sectors. However, the incident may increase tensions in the region, potentially leading to a medium-term impact on the stocks of companies with exposure to the Middle East or Iran. The impact will depend on the outcome of the incident and any subsequent developments, such as changes in government policies or military operations.",
-      "risks": [
-        "Increased tensions in the region leading to a decline in investor sentiment",
-        "Potential disruption to military operations and supply chains",
-        "Uncertainty around the incident's impact on Iran's military capabilities and regional influence"
       ]
     }
   }
