@@ -1,5 +1,28 @@
 [
   {
+    "id": "8059093",
+    "headline": "Taking Kharg Island would pose risks for US troops - Reuters",
+    "summary": "Taking Kharg Island would pose risks for US troops  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeVptY3pRQnZwZWticGdhV3dBc0hmZzlvanVBdXp0MFlmcVFDNWlOU2NubENld21zOXhRSm9IUWFFOUgtTWhGaDdaM180b09nN014V1Fnb0VuTDcwNVp5MWxxOHVoWVRqLVZWWGxuQ1luNEZ5LUd6aUtQcGEtTGppMWpXV3VjUVM2dFF3ZFRWY3FTTHlWSU5LNnVhNkxrNWVBN2M1S1ZhcmNkTG1jcmtTQzhjOA?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1781226300,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781229651,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The news article discusses the potential risks associated with the US taking control of Kharg Island, a strategic location in the Persian Gulf. The article highlights the potential risks to US troops, but does not provide any specific information about the financial implications for companies. The article does not mention any specific companies or industries, and the context is related to geopolitical tensions rather than business fundamentals. The news is neutral in tone and does not provide a clear direction for investors.",
+      "impact": "The news is unlikely to have a significant impact on the stocks of companies involved in the energy or defense industries in the short term. However, if the situation escalates, it could lead to increased volatility in the markets and potentially affect the valuation of companies with exposure to the region. The medium-term impact will depend on the outcome of the situation and the response of the US government.",
+      "risks": [
+        "geopolitical risk",
+        "regional instability risk",
+        "market volatility risk"
+      ]
+    }
+  },
+  {
     "id": "8059641",
     "headline": "Wall Street indexes jump, Trump says strikes against Iran canceled - Reuters",
     "summary": "Wall Street indexes jump, Trump says strikes against Iran canceled  Reuters",
@@ -7,7 +30,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1781212742,
+    "publishedAt": 1781218276,
     "analysis": {
       "version": 2,
       "generatedAt": 1781214885,
@@ -19,6 +42,29 @@
         "Potential for a change in US policy on Iran",
         "Uncertainty surrounding the global economic outlook",
         "Risk of a new conflict breaking out in the Middle East"
+      ]
+    }
+  },
+  {
+    "id": "8060693",
+    "headline": "Iran players conduct first open practice at Tijuana camp - Reuters",
+    "summary": "Iran players conduct first open practice at Tijuana camp  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUWU5QjJnNGtNeWkxUmJNWjJweVlTNEtZdFBtUTNDYVM2d1lEaUhfVEdSYUtjam0yWHVTbHFoZUJzaUdKazFLdEc5M1NBdGhyUXJYaWI3RjZiOWVNWTJXY21uUXRkVGgzc2VwMEF6TEZJVnFEeS1Edm9pN3hTYklOZGpGbVNZTWFNbzVZYkVqeWptbVRKekdSWGU3YkJ5X2pBc1FiSUZn?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1781213563,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781229696,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Iran's national soccer team has conducted its first open practice at a training camp in Tijuana, Mexico, ahead of the CONCACAF Gold Cup. The team's participation in the tournament is seen as a significant event for the country's soccer enthusiasts. The team's performance in the tournament may have some impact on the country's sports industry, but it is not directly related to any specific publicly traded companies. The news is a minor event with limited business implications.",
+      "impact": "The news is unlikely to have a significant impact on the stocks of companies related to the sports industry, as the event is not directly related to any specific company. However, a strong performance by the Iranian team in the tournament could increase interest in the sports industry, potentially leading to a short-term increase in advertising revenue for sports-related companies. This could be a positive for companies such as sports equipment manufacturers or sports media companies.",
+      "risks": [
+        "Limited business implications",
+        "No direct impact on specific companies",
+        "Short-term market volatility due to tournament results"
       ]
     }
   },
@@ -237,7 +283,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1781200946
+    "publishedAt": 1781200946,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781229742,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The Kuwait aviation authority reported that an Iranian attack on the Kuwait airport resulted in injuries and serious damage. This incident highlights the ongoing geopolitical tensions between Iran and its neighboring countries, particularly in the Middle East. The attack may lead to increased security concerns for airlines and airports in the region, potentially impacting the aviation industry. The incident may also raise concerns about the safety and security of air travel, which could negatively affect passenger demand and airline stocks.",
+      "impact": "The incident may lead to a short-term decline in airline stocks, particularly those with significant operations in the Middle East or with exposure to the region. The medium-term impact may be more pronounced if the incident leads to a prolonged period of increased security concerns, potentially affecting passenger demand and airline revenue. The incident may also raise concerns about the safety and security of air travel, which could negatively affect airline stocks and the broader aviation industry.",
+      "risks": [
+        "Increased security concerns for airlines and airports in the region",
+        "Potential decline in passenger demand due to safety and security concerns",
+        "Negative impact on airline stocks and the broader aviation industry"
+      ]
+    }
   },
   {
     "id": "8059639",
@@ -282,6 +341,29 @@
         "Obsolescence risk for chipmakers, as older chips may not be ideal for the latest cutting-edge workloads",
         "Regulatory risk, as governments may impose regulations on AI development and deployment",
         "Supply chain risk, as the demand for compute and electricity may outstrip supply"
+      ]
+    }
+  },
+  {
+    "id": "8060694",
+    "headline": "UN's Guterres calls for return to U.S.-Iran ceasefire - Reuters",
+    "summary": "UN's Guterres calls for return to U.S.-Iran ceasefire  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSnY2OWtyV2xXYXJySkV1enFqSWwzVzdlZ1ltX3pvY2J5UGl1NFNacWdkNEJUdndYTmwxYWJCTzZrd1NtaXJCbkZJVGFTNVBBeFpOTzNIMmRCTzltTFhQcWVGcm92dk01WXM0SUxWenhsVUJZXzU3SkRydmo0T1g5c2RNNXFqeU1ZeVMzS1lEWnlSOEFzSFVBQzB5dzYwZw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1781195473,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781229790,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The United Nations Secretary-General António Guterres called for a return to the US-Iran ceasefire, citing concerns about the escalating tensions and potential humanitarian crises in the region. The statement comes after a recent surge in violence and attacks on US and Iranian targets. The US and Iran have been engaged in a cycle of tit-for-tat attacks since the US drone strike that killed top Iranian military commander Qassem Soleimani in January. The situation remains volatile, with both sides showing no signs of de-escalation. The call for a ceasefire is a neutral move, aiming to reduce the risk of further conflict and potential disruptions to global oil markets.",
+      "impact": "The news is likely to have a neutral impact on the oil and energy sector in the short term, as a ceasefire could lead to a reduction in tensions and potential disruptions to oil supplies. However, the medium-term impact is uncertain, as a sustained ceasefire could lead to increased investment and economic activity in the region, potentially benefiting companies with exposure to the region's energy sector. The news may also lead to increased volatility in the stock market, as investors react to the potential changes in the geopolitical landscape.",
+      "risks": [
+        "Escalation of violence and potential disruptions to global oil markets",
+        "Uncertainty around the effectiveness of the ceasefire and potential for renewed tensions",
+        "Impact on regional economic activity and investment"
       ]
     }
   },
@@ -339,7 +421,20 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/108315202-1780408970024-gettyimages-2278719383-s1046919_1.jpeg?v=1780409020&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1781193601
+    "publishedAt": 1781193601,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781229840,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The 2026 midterm election cycle is expected to reach a record high in advertising spend, surpassing the 2024 presidential cycle. AdImpact estimates the total ad spend to be $11.6 billion, with $5.6 billion allocated to broadcast, $1.4 billion to cable, $2.6 billion to connected TV, and $1.68 billion to digital. The increased spend is driven by high-profile races in California, Texas, and other key states, as well as a competitive landscape that continues to expand. This surge in ad spend is expected to benefit media companies, particularly those with a strong presence in battleground states.",
+      "impact": "The increased ad spend is expected to drive revenue growth for media companies, particularly those with a strong presence in battleground states. This could lead to a short-term boost in earnings for these companies, as well as a potential increase in valuation. However, the medium-term impact may be more muted, as the increased competition and ad spend could lead to a decrease in margins for individual media companies. Additionally, the increased spend may also lead to a surge in digital advertising, benefiting companies like Facebook, Google, and Snapchat.",
+      "risks": [
+        "Increased competition and ad spend could lead to decreased margins for individual media companies",
+        "The surge in digital advertising may not be sustainable in the long term",
+        "The impact of the increased ad spend on media companies may be delayed or muted if the election cycle is not as competitive as expected"
+      ]
+    }
   },
   {
     "id": "8058757",
@@ -651,39 +746,6 @@
     "publishedAt": 1781142240
   },
   {
-    "id": "8059093",
-    "headline": "Taking Kharg Island would pose risks for US troops - Reuters",
-    "summary": "Taking Kharg Island would pose risks for US troops  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeVptY3pRQnZwZWticGdhV3dBc0hmZzlvanVBdXp0MFlmcVFDNWlOU2NubENld21zOXhRSm9IUWFFOUgtTWhGaDdaM180b09nN014V1Fnb0VuTDcwNVp5MWxxOHVoWVRqLVZWWGxuQ1luNEZ5LUd6aUtQcGEtTGppMWpXV3VjUVM2dFF3ZFRWY3FTTHlWSU5LNnVhNkxrNWVBN2M1S1ZhcmNkTG1jcmtTQzhjOA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781140773
-  },
-  {
-    "id": "8057135",
-    "headline": "Kenya sees risks to fiscal consolidation, oil output to power Uganda's growth - Reuters",
-    "summary": "Kenya sees risks to fiscal consolidation, oil output to power Uganda's growth  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUWU0VjRBanRuN09DVEFkb2FaX0dXYm1zWkxYVzF6ZWZ4anBSSXRSSFliLTU3UDhfU0FleUVwRExnYjZBSmE0Z3JPWWhDNmxZUWJxaVVvUGppc2ZPWXhwTlFsdnQxMk9QTVpld3lDNER2d1dkZ2dhMV9UNnJKR2ptWGhGVVZ5djZtOTZiYjYzT3FTZDFuYnk1U2N3YWFnaEZaM2REa0Y5SW5Hc2J5RWUyMEZQUlpBU1VabG9IaHB3?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781139940,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1781179266,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "East African ministers are set to unveil budgets in the coming days, amidst concerns over the impact of the Iran fuel shock and debt strains on the region's economies. The fuel shock has led to a significant increase in fuel prices, which is expected to have a ripple effect on inflation and economic growth. This news is a reminder of the region's vulnerability to external shocks and the need for prudent fiscal management. The budgets are expected to reflect the government's response to these challenges, which may involve increased spending or revenue measures.",
-      "impact": "The news is likely to have a bearish impact on the region's stocks, particularly those with exposure to the energy sector. The increased fuel prices and debt strains may lead to a slowdown in economic growth, which could negatively impact earnings outlook for companies in the region. In the short term, investors may be cautious about investing in the region's markets, leading to decreased liquidity and lower stock prices. In the medium term, the fiscal measures outlined in the budgets may have a positive impact on the region's economy, but this will depend on the effectiveness of the measures and the region's ability to implement them.",
-      "risks": [
-        "economic growth slowdown risk",
-        "inflation risk",
-        "debt sustainability risk"
-      ]
-    }
-  },
-  {
     "id": "8056609",
     "headline": "Gold rises 2% as Trump canceling Iran strikes eases inflation fears - Reuters",
     "summary": "Gold rises 2% as Trump canceling Iran strikes eases inflation fears  Reuters",
@@ -723,6 +785,29 @@
       "summary": "The article reports that US strikes on Iran have led to a surge in oil prices, which has caused a decline in tech stocks as investors shift their focus from growth-oriented tech companies to energy and commodity-related stocks. This shift in market sentiment is attributed to the uncertainty surrounding the US-Iran conflict and its potential impact on global economic stability. The article highlights that tech stocks have been extending their losses, indicating a broader market trend of risk aversion. The US-Iran conflict has created a sense of uncertainty, causing investors to reevaluate their portfolios and seek safer assets.",
       "impact": "The potential impact on related stocks is significant, with oil prices expected to remain volatile in the short term. This could lead to increased earnings pressure on tech companies that are heavily reliant on global supply chains and commodity prices. In the medium term, a sustained rise in oil prices could also impact the US economy, leading to a slowdown in consumer spending and a potential recession. This could further exacerbate the decline in tech stocks.",
       "risks": []
+    }
+  },
+  {
+    "id": "8057135",
+    "headline": "Kenya sees risks to fiscal consolidation, oil output to power Uganda's growth - Reuters",
+    "summary": "Kenya sees risks to fiscal consolidation, oil output to power Uganda's growth  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUWU0VjRBanRuN09DVEFkb2FaX0dXYm1zWkxYVzF6ZWZ4anBSSXRSSFliLTU3UDhfU0FleUVwRExnYjZBSmE0Z3JPWWhDNmxZUWJxaVVvUGppc2ZPWXhwTlFsdnQxMk9QTVpld3lDNER2d1dkZ2dhMV9UNnJKR2ptWGhGVVZ5djZtOTZiYjYzT3FTZDFuYnk1U2N3YWFnaEZaM2REa0Y5SW5Hc2J5RWUyMEZQUlpBU1VabG9IaHB3?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1781138569,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781179266,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "East African ministers are set to unveil budgets in the coming days, amidst concerns over the impact of the Iran fuel shock and debt strains on the region's economies. The fuel shock has led to a significant increase in fuel prices, which is expected to have a ripple effect on inflation and economic growth. This news is a reminder of the region's vulnerability to external shocks and the need for prudent fiscal management. The budgets are expected to reflect the government's response to these challenges, which may involve increased spending or revenue measures.",
+      "impact": "The news is likely to have a bearish impact on the region's stocks, particularly those with exposure to the energy sector. The increased fuel prices and debt strains may lead to a slowdown in economic growth, which could negatively impact earnings outlook for companies in the region. In the short term, investors may be cautious about investing in the region's markets, leading to decreased liquidity and lower stock prices. In the medium term, the fiscal measures outlined in the budgets may have a positive impact on the region's economy, but this will depend on the effectiveness of the measures and the region's ability to implement them.",
+      "risks": [
+        "economic growth slowdown risk",
+        "inflation risk",
+        "debt sustainability risk"
+      ]
     }
   },
   {
@@ -900,29 +985,6 @@
         "Geopolitical tensions and potential military conflict with Iran",
         "Increased volatility in oil prices and its impact on energy companies",
         "Uncertainty surrounding the outcome of diplomatic efforts and its impact on the global energy market"
-      ]
-    }
-  },
-  {
-    "id": "8051218",
-    "headline": "Oil settles up nearly $2 after Trump threatens to hit Iran 'very hard' - Reuters",
-    "summary": "Oil settles up nearly $2 after Trump threatens to hit Iran 'very hard'  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNGJ6NWZtUjUzMDg5TTZFYWY3SGhyUjEzcURaYnpPRkpZcmlsWVZVemw5aC1JNDY1NE82VlMyLTdhWmlDUkZyTTNMRTlfM1E1ZUVCSWJ3dDJyQ3RYbF9peF9zdjlIOFJ0bEJub0dJdTRxRjR4NFBaVmxZWHNkZFJUa3hBdEpJRVdHcnhYWlppZEN1MFJ4TDdyMlJBcFFPanlWU0Q3LTIySi1SUE9SRFdEbC1VSUM0em5HcF9xSFBrZ0o?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781119951,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1781072165,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Tensions between the US and Iran have flared up again, leading to an increase in oil prices. The escalation of tensions has resulted in a decrease in oil stockpiles, which has further contributed to the price increase. This development is a concern for oil producers and consumers alike, as it may impact the global supply chain. The rise in oil prices is a positive sign for oil-producing companies, particularly those with significant reserves, as it may lead to increased revenue and profitability.",
-      "impact": "The increase in oil prices is likely to be a short-term positive for oil-producing companies such as ExxonMobil (XOM) and Chevron (CVX), as it may lead to higher earnings and revenue. In the medium term, the increased tensions between the US and Iran may lead to a shift in global supply and demand dynamics, potentially benefiting companies with diversified energy portfolios. However, investors should be cautious of the potential risks associated with geopolitical tensions and their impact on the global economy.",
-      "risks": [
-        "Geopolitical tensions and potential conflict risk",
-        "Global economic slowdown risk due to increased oil prices",
-        "Uncertainty around future oil supply and demand dynamics"
       ]
     }
   },
@@ -1682,6 +1744,29 @@
       "summary": "The US dollar has steadied following the US strikes on Iran, which has led to a reduction in risk aversion among investors. This stability is expected to continue ahead of the release of inflation data, which will provide insight into the US economy's inflation rate. The strikes on Iran have had a limited impact on the global economy, and the market is awaiting the inflation data to gauge the US Federal Reserve's next move on interest rates. The inflation data will be a key driver for the dollar's movement, as a high inflation rate could lead to a stronger dollar, while a low inflation rate could lead to a weaker dollar. The dollar's stability is also influenced by the ongoing trade tensions between the US and its trading partners, which have been a major driver of the dollar's volatility in recent months.",
       "impact": "The dollar's stability is likely to have a positive impact on US multinationals with significant foreign revenue exposure, such as tech and consumer staples companies, as a stronger dollar can make their products more competitive in the global market. However, a strong dollar can also make it more expensive for these companies to import goods and materials, potentially affecting their profit margins. In the short-term, the dollar's stability may lead to a decrease in volatility in the currency market, which could reduce the opportunity for traders to profit from currency fluctuations. In the medium-term, the dollar's movement will be influenced by the inflation data and the US Federal Reserve's response to it, which could have a significant impact on the economy and the stock market.",
       "risks": []
+    }
+  },
+  {
+    "id": "8051218",
+    "headline": "Oil settles up nearly $2 after Trump threatens to hit Iran 'very hard' - Reuters",
+    "summary": "Oil settles up nearly $2 after Trump threatens to hit Iran 'very hard'  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNGJ6NWZtUjUzMDg5TTZFYWY3SGhyUjEzcURaYnpPRkpZcmlsWVZVemw5aC1JNDY1NE82VlMyLTdhWmlDUkZyTTNMRTlfM1E1ZUVCSWJ3dDJyQ3RYbF9peF9zdjlIOFJ0bEJub0dJdTRxRjR4NFBaVmxZWHNkZFJUa3hBdEpJRVdHcnhYWlppZEN1MFJ4TDdyMlJBcFFPanlWU0Q3LTIySi1SUE9SRFdEbC1VSUM0em5HcF9xSFBrZ0o?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1781051580,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781072165,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Tensions between the US and Iran have flared up again, leading to an increase in oil prices. The escalation of tensions has resulted in a decrease in oil stockpiles, which has further contributed to the price increase. This development is a concern for oil producers and consumers alike, as it may impact the global supply chain. The rise in oil prices is a positive sign for oil-producing companies, particularly those with significant reserves, as it may lead to increased revenue and profitability.",
+      "impact": "The increase in oil prices is likely to be a short-term positive for oil-producing companies such as ExxonMobil (XOM) and Chevron (CVX), as it may lead to higher earnings and revenue. In the medium term, the increased tensions between the US and Iran may lead to a shift in global supply and demand dynamics, potentially benefiting companies with diversified energy portfolios. However, investors should be cautious of the potential risks associated with geopolitical tensions and their impact on the global economy.",
+      "risks": [
+        "Geopolitical tensions and potential conflict risk",
+        "Global economic slowdown risk due to increased oil prices",
+        "Uncertainty around future oil supply and demand dynamics"
+      ]
     }
   },
   {
@@ -21099,48 +21184,6 @@
         "inflation risk",
         "supply chain disruption risk",
         "earnings outlook risk"
-      ]
-    }
-  },
-  {
-    "id": "7965272",
-    "headline": "Indian shares end flat as financials offset IT rally - Reuters",
-    "summary": "Indian shares end flat as financials offset IT rally  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLTNqVW5uMUN1UUN1ak9xd2VnOFVySDJWbG13d2ZyMGNSbS1KVWRqdjc0N3VRZnFDNzY4UXRKb214eUJ0eFkyZUMyRmd2b055cEJhY2tXV2hnVzByZURnRDNzNW5YRXA0b2NQQWh5Q2VPRERzQjNSeUhZLXI3dGVUSkRvRGo1M19qbE9QUy1UcGplOV9rRXlZSm5ST2ZXRVVMVi1fS2U0NG05Ym9PcUVCb0UwaUJPR3pJRTJXNm1YN1A?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1779158520,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1779169915,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Indian shares opened slightly higher after US President Trump hinted at a potential deal with Iran. This news has a positive impact on the Indian economy, particularly the energy sector, as Iran is a key oil supplier to India. The Adani Group, a major Indian conglomerate with interests in energy and infrastructure, saw its shares rise in response to the news. The Adani Group's exposure to the energy sector makes it a potential beneficiary of a potential deal with Iran.",
-      "impact": "The news is likely to have a positive impact on the Adani Group's shares in the short-term, driven by increased optimism about the energy sector. This could lead to a rally in the stock price, potentially making it an attractive buying opportunity. However, investors should also consider the medium-term implications, including the potential for increased competition in the energy sector and the impact on the company's valuation. The news may also increase liquidity in the Indian market, making it easier for investors to buy and sell shares.",
-      "risks": []
-    }
-  },
-  {
-    "id": "7967451",
-    "headline": "Australia central bank saw space to assess impact of Gulf conflict after May rate hike - Reuters",
-    "summary": "Australia central bank saw space to assess impact of Gulf conflict after May rate hike  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWWpteXhkRXRERm1TdHRlX1ZHa3lrbG91WFZlbmdFZTc2d0h0LXBpUzhuYno0SmdvTGZEaXF6TEhBTGt1RklIbHVMUXd3WWJzUmEtODhuY0NqRHNiQTloMzRmU2plVUtpRUxOMm8zNlNxQkZCS2RCdTNkWmI4bU9ZRGwzcTlYTFVmQ1AwdS05dUdPLWRKSThoN0o2YUVEX3lVenk0UnUzZ0VrWlFDOFZRaElNZHFqamJKbVdWZWFGYVpVeFdCWGg1N0Q4WktMRjZx?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1779156300,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1779234565,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The Reserve Bank of Australia (RBA) has indicated that they have space to assess the impact of the Gulf conflict on the economy after their May rate hike. The RBA's decision to maintain the cash rate at 4.1% suggests that they are cautiously monitoring the situation. The Gulf conflict has raised concerns about global oil prices and its potential impact on inflation, which could influence the RBA's monetary policy decisions. The RBA's stance on the matter is crucial for the Australian economy, as it is heavily reliant on international trade and commodity prices.",
-      "impact": "The news is likely to have a neutral impact on the Australian dollar, as the RBA's cautious approach suggests that they are prepared to reassess their monetary policy decisions in response to the Gulf conflict. In the short term, the conflict may lead to higher oil prices, which could increase inflation and potentially lead to higher interest rates. However, the RBA's decision to maintain the cash rate at 4.1% suggests that they are not yet convinced that higher interest rates are necessary. In the medium term, the conflict could lead to a slowdown in global economic growth, which could negatively impact Australian exports and economic growth.",
-      "risks": [
-        "Inflation risk due to higher oil prices",
-        "Global economic growth slowdown risk",
-        "Australian dollar volatility risk"
       ]
     }
   }
