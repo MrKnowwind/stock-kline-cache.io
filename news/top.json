@@ -1,5 +1,28 @@
 [
   {
+    "id": "8068845",
+    "headline": "What drove the stock market last week — before and after SpaceX's historic IPO",
+    "summary": "The successful debut of Elon Musk's rocket company wiped away a week of anxiety.",
+    "url": "https://www.cnbc.com/2026/06/13/what-drove-the-stock-market-last-week-before-and-after-spacexs-historic-ipo.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108321157-17812776602026-06-12t144016z_756326809_rc2dslammudl_rtrmadp_0_spacex-ipo.jpeg?v=1781277686&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1781368562,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781370231,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The stock market experienced a relief rally after SpaceX's successful IPO, driven by the company's strong debut and subsequent rally. The success of the IPO alleviated concerns about the market's appetite for large offerings, and the news also coincided with a possible US-Iran peace deal. Additionally, Corning announced a massive supply deal with Amazon, which should boost its optical communications division. The market's cash pile grew, and investors sold some stocks to raise cash and buy into the hot IPO, leading to a slight decline in those stocks.",
+      "impact": "The successful IPO and the supply deal with Amazon are likely to positively impact Corning's stock in the medium term, as it should drive growth in its optical communications division. The deal may also lead to increased demand for Corning's products, potentially driving up its stock price. In the short term, the rally may have a positive impact on the overall market, with the S&P 500 and Nasdaq experiencing gains. However, the increased supply of equity from the IPO may lead to a slight decline in some stocks that were sold to raise cash.",
+      "risks": [
+        "Increased supply of equity from the IPO may lead to a decline in some stocks",
+        "Potential volatility in the market due to the large size of the IPO",
+        "Uncertainty around the impact of the US-Iran peace deal on the market"
+      ]
+    }
+  },
+  {
     "id": "8068336",
     "headline": "This 28-year-old paid off her law school loans selling stickers and coloring books",
     "summary": "Elyse Burns started selling her art on Etsy when she turned 18. Now she's paid off her student loans and did nearly $5 million last year.",
@@ -65,29 +88,6 @@
     }
   },
   {
-    "id": "8065905",
-    "headline": "Exclusive: US forces shoot down Iranian attack drones, source says - Reuters",
-    "summary": "Exclusive: US forces shoot down Iranian attack drones, source says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLVpqblpRT0R6RGd1RUJmVjhfQi12S3JhbUJwM2dsM2hVSGRtMy02UkZYZTdseUI4YzRyMEFzOGpqNTdiRGkwdVB2R0oyX0otZDFQXzhENzYyVnpvMnNVUWZ4U0N5MzZETmp0OG5RcmdfWGV5elVlZktyeXVObThKNUlIa1N2dUtTdDUweGxwV0ZDeC1QeW9rd3p5RWhVVFRRRVdLYTJhQ2JxbnFt?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781351393,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1781327479,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "US forces have shot down Iranian attack drones, indicating a heightened state of military tension between the US and Iran. This development is a response to recent reports of Iranian drone attacks on US forces in the region. The incident highlights the ongoing geopolitical risks in the Middle East, particularly for companies operating in the region. The news may lead to increased military spending and a stronger US presence in the region, potentially benefiting defense contractors such as Lockheed Martin and Boeing. The incident also increases the risk of a broader conflict, which could have significant implications for global oil prices and the stability of the region.",
-      "impact": "The news may lead to a short-term increase in the stock prices of defense contractors such as Lockheed Martin and Boeing, as investors bet on increased military spending. In the medium term, a stronger US presence in the region could lead to increased demand for defense-related services and products, benefiting these companies. However, a broader conflict could lead to a decline in global economic activity, potentially negatively impacting the earnings outlook for companies with significant exposure to the Middle East, such as oil majors and multinational corporations with operations in the region.",
-      "risks": [
-        "Escalation of conflict risk",
-        "Global economic slowdown risk",
-        "Oil price volatility risk"
-      ]
-    }
-  },
-  {
     "id": "8067821",
     "headline": "Pakistan PM says US-Iran peace deal signing expected within 24 hours - Reuters",
     "summary": "Pakistan PM says US-Iran peace deal signing expected within 24 hours  Reuters",
@@ -130,6 +130,29 @@
         "supply chain disruption risk",
         "oil price volatility risk",
         "geopolitical risk"
+      ]
+    }
+  },
+  {
+    "id": "8065905",
+    "headline": "Exclusive: US forces shoot down Iranian attack drones, source says - Reuters",
+    "summary": "Exclusive: US forces shoot down Iranian attack drones, source says  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLVpqblpRT0R6RGd1RUJmVjhfQi12S3JhbUJwM2dsM2hVSGRtMy02UkZYZTdseUI4YzRyMEFzOGpqNTdiRGkwdVB2R0oyX0otZDFQXzhENzYyVnpvMnNVUWZ4U0N5MzZETmp0OG5RcmdfWGV5elVlZktyeXVObThKNUlIa1N2dUtTdDUweGxwV0ZDeC1QeW9rd3p5RWhVVFRRRVdLYTJhQ2JxbnFt?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1781311200,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781327479,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "US forces have shot down Iranian attack drones, indicating a heightened state of military tension between the US and Iran. This development is a response to recent reports of Iranian drone attacks on US forces in the region. The incident highlights the ongoing geopolitical risks in the Middle East, particularly for companies operating in the region. The news may lead to increased military spending and a stronger US presence in the region, potentially benefiting defense contractors such as Lockheed Martin and Boeing. The incident also increases the risk of a broader conflict, which could have significant implications for global oil prices and the stability of the region.",
+      "impact": "The news may lead to a short-term increase in the stock prices of defense contractors such as Lockheed Martin and Boeing, as investors bet on increased military spending. In the medium term, a stronger US presence in the region could lead to increased demand for defense-related services and products, benefiting these companies. However, a broader conflict could lead to a decline in global economic activity, potentially negatively impacting the earnings outlook for companies with significant exposure to the Middle East, such as oil majors and multinational corporations with operations in the region.",
+      "risks": [
+        "Escalation of conflict risk",
+        "Global economic slowdown risk",
+        "Oil price volatility risk"
       ]
     }
   },
@@ -180,29 +203,6 @@
     }
   },
   {
-    "id": "8061927",
-    "headline": "U.S., Iran signal peace deal near as Tehran claims victory - Reuters",
-    "summary": "U.S., Iran signal peace deal near as Tehran claims victory  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMXk5cUo1M00yVjgxUGh5ZHl5SWdsUFcxZWhQUUF4MUhZY3pzNGZUbUU1SEtHUEh0dnZJM1Y4TFU0SzloMWNlQ1VqcjBZZ09raU1QdnFXallaeTBVMEZsNGhsOVVDcFNUZ2tjY29zX3hYYjJ6ZzAtZU1FSURnY0J3TktmSEk2eGFpd1Njek1SUG1mbkJrVmltN3RMQVk5WFpOOUxuMEVLUHRuVE50alhrTGk0VGs?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781303669,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1781246676,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "US President Trump has stated that a deal with Iran is close, but tensions in the Strait of Hormuz remain high. This news comes as the region continues to be a focal point for global energy markets. The Strait of Hormuz is a critical waterway for oil exports, and any disruptions to the flow of oil could have significant implications for the global economy. The news of a potential deal with Iran may alleviate some concerns about the region, but the ongoing tensions and the history of failed negotiations in the past suggest that there is still a high degree of uncertainty surrounding the situation.",
-      "impact": "The news of a potential deal with Iran may have a mixed impact on the energy sector. On one hand, a resolution to the tensions in the region could lead to increased investor confidence and potentially higher oil prices, benefiting energy producers such as ExxonMobil (XOM) and Chevron (CVX). On the other hand, a prolonged period of uncertainty and potential disruptions to oil exports could continue to weigh on the sector, leading to lower earnings and valuations for energy companies. In the short-term, the news may lead to increased volatility in the oil markets, which could impact the stock prices of energy-related companies.",
-      "risks": [
-        "Oil price volatility risk",
-        "Global economic slowdown risk",
-        "US-Iran relations risk"
-      ]
-    }
-  },
-  {
     "id": "8064687",
     "headline": "Iran team chief slams FIFA’s 'lack of coordination' on visa issues - Reuters",
     "summary": "Iran team chief slams FIFA’s 'lack of coordination' on visa issues  Reuters",
@@ -222,29 +222,6 @@
         "Decreased investor sentiment",
         "Potential diplomatic fallout",
         "Controversy impact on team performance"
-      ]
-    }
-  },
-  {
-    "id": "8061309",
-    "headline": "Brent falls to lowest since March on expected peace deal - Reuters",
-    "summary": "Brent falls to lowest since March on expected peace deal  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQWg3TG5xNExlOE40WERlbU5TdUMwQlNZSC1TYUVKZV9HN1M3LUNoRGlCdkQ4cmRhQ1UtUkdJSDBrMzN4dGlHOWZ0b18yTFo2SHR1UTBGYkoxTS11aGNMTHAzRGFtMVNSQzRRZUtwLXRxWGsyN3FwVm9XY2stOHN4X21BOU91THhlb0JIakhjVGNEWmpQTkxzZzhONlhlUzRGS1dZdWQtOXAzZWs?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781294023,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1781246772,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "US President Trump has called off planned strikes on Iran, leading to a decline in oil prices as tensions between the US and Iran ease. The news is a positive development for oil-producing countries and companies, as lower oil prices can increase demand and boost economic growth. This, in turn, can lead to higher earnings for oil-related companies and a positive impact on their stock prices. The oil market had been expecting a potential escalation in tensions, which would have led to higher oil prices. With the tensions easing, oil prices are likely to stabilize and potentially decline further.",
-      "impact": "The news is likely to have a positive impact on oil-related stocks in the short term, as lower oil prices can increase demand and boost economic growth. This can lead to higher earnings for oil-related companies, making their stocks more attractive to investors. In the medium term, the stability in the oil market can also lead to a decrease in volatility, making oil-related stocks more stable and attractive to investors. This can lead to an increase in investor sentiment and liquidity for these stocks.",
-      "risks": [
-        "Potential increase in global demand for oil, leading to higher prices and a negative impact on oil-related stocks",
-        "Uncertainty around US-Iran relations and potential future escalations in tensions",
-        "Global economic slowdown, which can lead to a decrease in demand for oil and a negative impact on oil-related stocks"
       ]
     }
   },
@@ -629,6 +606,29 @@
     }
   },
   {
+    "id": "8061716",
+    "headline": "Rupee rallies as oil slump sparks unwinding of dollar longs - Reuters",
+    "summary": "Rupee rallies as oil slump sparks unwinding of dollar longs  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVnp0bHQ1RVV4dE9lSW9XS2YtaXg4VEMxVU4tcGVrXzFaT0lVQjI4TjVKZU1aUWxFZ0JVcEVkR1IweUJVU1h1NXBNU0lPVm9ORnFRRk0teFkyM1JWZEJNQUpybVdsclU3ZU5rclJrWmh2QW96RjA5akZHTzRGMFlvT1JkZEh3YVNYdnpDNndqZHh3dFdMS0cwRnZQSWY2X0R0RlhWbU9ZM0Q?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1781265519,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781246724,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The Indian rupee has surged as oil prices nosedived following rising bets of a US-Iran peace deal. This news is likely driven by the potential for reduced tensions in the Middle East, which could lead to a decrease in oil prices. Lower oil prices would be a boon for India, which is a significant oil importer. The news has also sparked a rally in global markets, with the S&P 500 and other indices rising. The Indian rupee has historically been sensitive to global market sentiment, and this news has likely contributed to its appreciation.",
+      "impact": "The potential impact on Indian stocks is likely to be positive, with lower oil prices benefiting energy-intensive sectors such as airlines, transportation, and manufacturing. In the short-term, this could lead to increased consumer spending and economic growth. However, the medium-term impact may be more nuanced, as lower oil prices could also lead to reduced government revenue from oil exports, potentially affecting fiscal policy. Additionally, the appreciation of the rupee may make Indian exports more expensive, potentially affecting the country's trade deficit.",
+      "risks": [
+        "Potential volatility in global markets",
+        "Impact on government revenue from oil exports",
+        "Appreciation of the rupee affecting trade deficit"
+      ]
+    }
+  },
+  {
     "id": "8063098",
     "headline": "Former Tesla board member says SpaceX needs to achieve 2 of its 3 moonshots to keep its valuation",
     "summary": "SpaceX has achieved its goal of becoming the largest IPO on record.",
@@ -671,29 +671,6 @@
         "regulatory risk",
         "innovation risk",
         "global event risk"
-      ]
-    }
-  },
-  {
-    "id": "8061716",
-    "headline": "Rupee rallies as oil slump sparks unwinding of dollar longs - Reuters",
-    "summary": "Rupee rallies as oil slump sparks unwinding of dollar longs  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVnp0bHQ1RVV4dE9lSW9XS2YtaXg4VEMxVU4tcGVrXzFaT0lVQjI4TjVKZU1aUWxFZ0JVcEVkR1IweUJVU1h1NXBNU0lPVm9ORnFRRk0teFkyM1JWZEJNQUpybVdsclU3ZU5rclJrWmh2QW96RjA5akZHTzRGMFlvT1JkZEh3YVNYdnpDNndqZHh3dFdMS0cwRnZQSWY2X0R0RlhWbU9ZM0Q?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781259813,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1781246724,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The Indian rupee has surged as oil prices nosedived following rising bets of a US-Iran peace deal. This news is likely driven by the potential for reduced tensions in the Middle East, which could lead to a decrease in oil prices. Lower oil prices would be a boon for India, which is a significant oil importer. The news has also sparked a rally in global markets, with the S&P 500 and other indices rising. The Indian rupee has historically been sensitive to global market sentiment, and this news has likely contributed to its appreciation.",
-      "impact": "The potential impact on Indian stocks is likely to be positive, with lower oil prices benefiting energy-intensive sectors such as airlines, transportation, and manufacturing. In the short-term, this could lead to increased consumer spending and economic growth. However, the medium-term impact may be more nuanced, as lower oil prices could also lead to reduced government revenue from oil exports, potentially affecting fiscal policy. Additionally, the appreciation of the rupee may make Indian exports more expensive, potentially affecting the country's trade deficit.",
-      "risks": [
-        "Potential volatility in global markets",
-        "Impact on government revenue from oil exports",
-        "Appreciation of the rupee affecting trade deficit"
       ]
     }
   },
@@ -790,6 +767,29 @@
     }
   },
   {
+    "id": "8061927",
+    "headline": "U.S., Iran signal peace deal near as Tehran claims victory - Reuters",
+    "summary": "U.S., Iran signal peace deal near as Tehran claims victory  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMXk5cUo1M00yVjgxUGh5ZHl5SWdsUFcxZWhQUUF4MUhZY3pzNGZUbUU1SEtHUEh0dnZJM1Y4TFU0SzloMWNlQ1VqcjBZZ09raU1QdnFXallaeTBVMEZsNGhsOVVDcFNUZ2tjY29zX3hYYjJ6ZzAtZU1FSURnY0J3TktmSEk2eGFpd1Njek1SUG1mbkJrVmltN3RMQVk5WFpOOUxuMEVLUHRuVE50alhrTGk0VGs?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1781240760,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781246676,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "US President Trump has stated that a deal with Iran is close, but tensions in the Strait of Hormuz remain high. This news comes as the region continues to be a focal point for global energy markets. The Strait of Hormuz is a critical waterway for oil exports, and any disruptions to the flow of oil could have significant implications for the global economy. The news of a potential deal with Iran may alleviate some concerns about the region, but the ongoing tensions and the history of failed negotiations in the past suggest that there is still a high degree of uncertainty surrounding the situation.",
+      "impact": "The news of a potential deal with Iran may have a mixed impact on the energy sector. On one hand, a resolution to the tensions in the region could lead to increased investor confidence and potentially higher oil prices, benefiting energy producers such as ExxonMobil (XOM) and Chevron (CVX). On the other hand, a prolonged period of uncertainty and potential disruptions to oil exports could continue to weigh on the sector, leading to lower earnings and valuations for energy companies. In the short-term, the news may lead to increased volatility in the oil markets, which could impact the stock prices of energy-related companies.",
+      "risks": [
+        "Oil price volatility risk",
+        "Global economic slowdown risk",
+        "US-Iran relations risk"
+      ]
+    }
+  },
+  {
     "id": "8066408",
     "headline": "China confronts G7 during Macron’s call by defending free trade",
     "summary": "China's Vice Premier defends free trade during a G7 call, addressing economic imbalances and fostering international cooperation.",
@@ -860,6 +860,29 @@
     }
   },
   {
+    "id": "8061309",
+    "headline": "Brent falls to lowest since March on expected peace deal - Reuters",
+    "summary": "Brent falls to lowest since March on expected peace deal  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQWg3TG5xNExlOE40WERlbU5TdUMwQlNZSC1TYUVKZV9HN1M3LUNoRGlCdkQ4cmRhQ1UtUkdJSDBrMzN4dGlHOWZ0b18yTFo2SHR1UTBGYkoxTS11aGNMTHAzRGFtMVNSQzRRZUtwLXRxWGsyN3FwVm9XY2stOHN4X21BOU91THhlb0JIakhjVGNEWmpQTkxzZzhONlhlUzRGS1dZdWQtOXAzZWs?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1781226240,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781246772,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "US President Trump has called off planned strikes on Iran, leading to a decline in oil prices as tensions between the US and Iran ease. The news is a positive development for oil-producing countries and companies, as lower oil prices can increase demand and boost economic growth. This, in turn, can lead to higher earnings for oil-related companies and a positive impact on their stock prices. The oil market had been expecting a potential escalation in tensions, which would have led to higher oil prices. With the tensions easing, oil prices are likely to stabilize and potentially decline further.",
+      "impact": "The news is likely to have a positive impact on oil-related stocks in the short term, as lower oil prices can increase demand and boost economic growth. This can lead to higher earnings for oil-related companies, making their stocks more attractive to investors. In the medium term, the stability in the oil market can also lead to a decrease in volatility, making oil-related stocks more stable and attractive to investors. This can lead to an increase in investor sentiment and liquidity for these stocks.",
+      "risks": [
+        "Potential increase in global demand for oil, leading to higher prices and a negative impact on oil-related stocks",
+        "Uncertainty around US-Iran relations and potential future escalations in tensions",
+        "Global economic slowdown, which can lead to a decrease in demand for oil and a negative impact on oil-related stocks"
+      ]
+    }
+  },
+  {
     "id": "8066713",
     "headline": "Stocks rise as SpaceX makes market debut; oil slides on Gulf peace hopes - Reuters",
     "summary": "Stocks rise as SpaceX makes market debut; oil slides on Gulf peace hopes  Reuters",
@@ -879,6 +902,29 @@
         "Potential volatility in the tech sector due to the debut of a new company",
         "Uncertainty around the impact of the decline in oil prices on the economy",
         "Risk of a market correction if investor sentiment shifts"
+      ]
+    }
+  },
+  {
+    "id": "8057980",
+    "headline": "India demands end to US attacks on ships after three sailors killed - Reuters",
+    "summary": "India demands end to US attacks on ships after three sailors killed  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMXJDR0NGVFZXVU9sUlQ4M1piTXh4eEk0bFVIeFJCMUVORXVYOHB6b0IwRl9WeTBYZGEtRnhDcWtzcHE3NjZfdGJmeTdfZWNfaWNDYXlRREh4VTVsRFhCeDhQTU4tUW1JRHNuTjljMmVCcFNTbDJlMVlyNmhyclA4R2h4MVQyZFhYaUVSTXhkbEJpNUJJVEpGYkxKMmhDeEZlRkZzMjdVejl0NVNCTmRMRk1Xa0dfWXV0UC13Ymx5NU9Xc2M?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1781218751,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781348695,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "India's demand for an end to US attacks on ships comes after three sailors were killed. The incident is a geopolitical escalation between the two nations. This development could potentially impact global trade and shipping, particularly in the Indian Ocean region. The Indian government's stance may lead to increased tensions with the US, potentially affecting bilateral trade agreements and investments. The incident may also raise concerns about maritime security and the safety of shipping routes.",
+      "impact": "The news may lead to a short-term decline in the shares of shipping companies, particularly those with exposure to Indian Ocean routes. Medium-term, the increased tensions between India and the US may impact the earnings outlook for companies with significant business ties to both countries. The incident may also lead to a decrease in investor sentiment, potentially affecting the overall market sentiment and liquidity. The impact on the shipping industry may be more pronounced if the tensions escalate further.",
+      "risks": [
+        "Increased regulatory risks for shipping companies due to potential changes in trade agreements",
+        "Decreased investor sentiment and liquidity in the market",
+        "Escalation of tensions between India and the US, potentially affecting bilateral trade and investments"
       ]
     }
   },
@@ -1473,29 +1519,6 @@
     }
   },
   {
-    "id": "8057980",
-    "headline": "India demands end to US attacks on ships after three sailors killed - Reuters",
-    "summary": "India demands end to US attacks on ships after three sailors killed  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMXJDR0NGVFZXVU9sUlQ4M1piTXh4eEk0bFVIeFJCMUVORXVYOHB6b0IwRl9WeTBYZGEtRnhDcWtzcHE3NjZfdGJmeTdfZWNfaWNDYXlRREh4VTVsRFhCeDhQTU4tUW1JRHNuTjljMmVCcFNTbDJlMVlyNmhyclA4R2h4MVQyZFhYaUVSTXhkbEJpNUJJVEpGYkxKMmhDeEZlRkZzMjdVejl0NVNCTmRMRk1Xa0dfWXV0UC13Ymx5NU9Xc2M?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781187481,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1781348695,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "India's demand for an end to US attacks on ships comes after three sailors were killed. The incident is a geopolitical escalation between the two nations. This development could potentially impact global trade and shipping, particularly in the Indian Ocean region. The Indian government's stance may lead to increased tensions with the US, potentially affecting bilateral trade agreements and investments. The incident may also raise concerns about maritime security and the safety of shipping routes.",
-      "impact": "The news may lead to a short-term decline in the shares of shipping companies, particularly those with exposure to Indian Ocean routes. Medium-term, the increased tensions between India and the US may impact the earnings outlook for companies with significant business ties to both countries. The incident may also lead to a decrease in investor sentiment, potentially affecting the overall market sentiment and liquidity. The impact on the shipping industry may be more pronounced if the tensions escalate further.",
-      "risks": [
-        "Increased regulatory risks for shipping companies due to potential changes in trade agreements",
-        "Decreased investor sentiment and liquidity in the market",
-        "Escalation of tensions between India and the US, potentially affecting bilateral trade and investments"
-      ]
-    }
-  },
-  {
     "id": "8057548",
     "headline": "US military says none of its warships struck in Strait of Hormuz - Reuters",
     "summary": "US military says none of its warships struck in Strait of Hormuz  Reuters",
@@ -1714,6 +1737,29 @@
         "Earnings slowdown risk",
         "Decrease in investor sentiment risk",
         "Liquidity risk"
+      ]
+    }
+  },
+  {
+    "id": "8058082",
+    "headline": "US Department of Justice formally moves to drop Halkbank case - Reuters",
+    "summary": "US Department of Justice formally moves to drop Halkbank case  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWi0xQ2s4bWFDc3RuSENTczhOdzA4dDBvZFFETXRyLVJ3WHdjeW5KR0p1SVRLVW90c3ZVRXliVWxGbk5tVTVTWGdNS2xnWnhVNTVoSGtNWGdITDBnTWpKb1E3YmZqZjNhWWFrdkVpcWowbTBTblZaZjU5MnFFaVgyTTdUM0hpNlBXNm10RU1FMFEydDRmX19VVFFuQWU1N2VvSHE1VFJ4Y0JyZ1hK?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1781173565,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781370279,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The US Department of Justice has formally moved to drop the case against Halkbank, a Turkish state-owned bank accused of violating US sanctions on Iran. This development is significant as it removes a major overhang on the bank's operations and reputation. The case had been ongoing for several years, causing uncertainty and potential damage to the bank's business. The dropping of the case is likely to improve the bank's financial performance and reputation, leading to potential increases in its stock price.",
+      "impact": "The dropping of the case is likely to have a positive impact on Halkbank's stock price in the short term, as the uncertainty and potential damage to its reputation are removed. This could lead to an increase in investor confidence and a subsequent rise in the stock price. In the medium term, the bank may see improved financial performance as it is able to focus on its core business without the distraction of the ongoing case. The Turkish banking sector as a whole may also benefit from this development, potentially leading to a broader rally in the sector.",
+      "risks": [
+        "Regulatory risk remains, as the US Department of Justice's decision may not be the final word on the matter",
+        "Potential reputational risk if new evidence emerges that could revive the case",
+        "Impact on Halkbank's peers in the Turkish banking sector may be limited if they are not similarly affected by the case"
       ]
     }
   },
@@ -1978,7 +2024,20 @@
     "source": "Bloomberg",
     "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
     "relatedSymbols": [],
-    "publishedAt": 1781155770
+    "publishedAt": 1781155770,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781370328,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "SpaceX's highly anticipated IPO has seen more than four times the demand for shares, indicating strong investor interest in the company. This is a testament to the growing demand for space technology and the success of Elon Musk's ventures. The oversubscription is a vote of confidence in SpaceX's future prospects, driven by its innovative products and services. The company's ability to attract such strong demand will likely lead to a successful listing and potentially higher stock prices.",
+      "impact": "The oversubscription of SpaceX's IPO is likely to have a positive impact on the stock market, particularly in the technology and aerospace sectors. The strong demand for shares will lead to a higher valuation for the company, potentially making it more attractive to investors. This could also lead to a short-term increase in the stock price, as investors look to capitalize on the momentum. In the medium term, the successful listing could pave the way for other space technology companies to go public, driving growth in the sector.",
+      "risks": [
+        "valuation risk: the high demand for shares may lead to a high valuation, making it difficult for the company to meet investor expectations.",
+        "market volatility risk: the stock market can be unpredictable, and a sudden downturn could impact the stock price.",
+        "regulatory risk: changes in government regulations or policies could impact SpaceX's business and operations."
+      ]
+    }
   },
   {
     "id": "8059095",
@@ -1988,7 +2047,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1781154523
+    "publishedAt": 1781154523,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781370375,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The US has surpassed Saudi Arabia as the world's top oil exporter, driven by increased shale oil production and a surge in exports to Asia. This shift marks a significant reversal from the 1970s, when the US was a victim of the Arab oil embargo. The rise of shale oil production has transformed the US into a major oil producer, with the country's oil exports increasing by 17% in 2020. This development is expected to have a lasting impact on the global energy landscape.",
+      "impact": "The news is likely to have a positive impact on US energy companies, particularly those involved in shale oil production and export. Companies such as ExxonMobil (XOM) and Chevron (CVX) may see an increase in earnings due to higher oil prices and increased exports. The medium-term outlook for these companies appears to be positive, driven by growing demand for oil in Asia and the US's position as a major oil exporter. This shift may also lead to increased investment in the US energy sector, further driving growth and profitability.",
+      "risks": [
+        "Oil price volatility risk",
+        "Global demand slowdown risk",
+        "Environmental concerns and regulations risk"
+      ]
+    }
   },
   {
     "id": "8061711",
@@ -1998,7 +2070,20 @@
     "source": "Bloomberg",
     "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
     "relatedSymbols": [],
-    "publishedAt": 1781153979
+    "publishedAt": 1781153979,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781370420,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The recent decline in fertilizer offers in India is a sign of easing global supply strain. National Fertilizers, a state-run producer, received lower offers for urea imports, indicating a decrease in demand. This development is likely due to improving global supply, which has reduced the need for imports. The decrease in fertilizer prices could have a positive impact on the fertilizer industry, potentially leading to increased profitability for companies like National Fertilizers.",
+      "impact": "The decline in fertilizer prices could lead to increased profitability for companies like National Fertilizers, potentially driving up their stock prices in the short-term. In the medium-term, this could also lead to increased investment in the fertilizer industry, driving growth and improving the earnings outlook for related stocks. The decrease in demand for imports could also lead to improved liquidity for Indian fertilizer companies, making them more attractive to investors.",
+      "risks": [
+        "Potential volatility in global fertilizer prices",
+        "Uncertainty in global demand for fertilizers",
+        "Regulatory changes that could impact the fertilizer industry"
+      ]
+    }
   },
   {
     "id": "8056925",
@@ -2055,16 +2140,6 @@
     "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
     "relatedSymbols": [],
     "publishedAt": 1781146845
-  },
-  {
-    "id": "8058082",
-    "headline": "US Department of Justice formally moves to drop Halkbank case - Reuters",
-    "summary": "US Department of Justice formally moves to drop Halkbank case  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWi0xQ2s4bWFDc3RuSENTczhOdzA4dDBvZFFETXRyLVJ3WHdjeW5KR0p1SVRLVW90c3ZVRXliVWxGbk5tVTVTWGdNS2xnWnhVNTVoSGtNWGdITDBnTWpKb1E3YmZqZjNhWWFrdkVpcWowbTBTblZaZjU5MnFFaVgyTTdUM0hpNlBXNm10RU1FMFEydDRmX19VVFFuQWU1N2VvSHE1VFJ4Y0JyZ1hK?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781146319
   },
   {
     "id": "8056822",
@@ -21354,25 +21429,6 @@
         "Geopolitical tensions risk",
         "Increased security costs risk"
       ]
-    }
-  },
-  {
-    "id": "7969144",
-    "headline": "US Senate advances measure curbing Trump's Iran war powers - Reuters",
-    "summary": "US Senate advances measure curbing Trump's Iran war powers  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQnlvb0RIYm4zX1hkNU1hQkFKbTFQdEpONE80cGdJaS1IUzUzSmJuTUxoaXN5dGpabEpTTWFybF9pVkQwUTA1VjJDSGYyc1VKUzgzajV0cEZ1SkJodmpCeGlRZ21SME9GUW10bFhtd2tIMVdXcGhoSUJINmpVdGpGbmVDS1EydF9lbjBrRFFrNFBOU0lnU1h2d2xyaTJRRmltaVc2UVlROXJwUzFVRElreA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1779227880,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1779241849,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The US Senate has advanced a measure to curb President Trump's war powers, limiting his ability to engage in military action against Iran without congressional approval. This move is a significant development in the ongoing tensions between the US and Iran. The measure is a response to the US-Iran conflict, which has been escalating in recent months. The US Senate's action is seen as a check on the President's authority, and it may lead to a reduction in tensions between the two countries. This development could have implications for the defense and aerospace industries, as well as the energy sector.",
-      "impact": "The potential impact of this news on stocks is positive, particularly for companies that benefit from reduced tensions between the US and Iran. In the short-term, this could lead to increased investor confidence and a boost in stock prices for defense and aerospace companies, such as Lockheed Martin (LMT) and Boeing (BA). In the medium-term, a reduction in tensions could lead to increased investment in the energy sector, benefiting companies such as ExxonMobil (XOM) and Chevron (CVX).",
-      "risks": []
     }
   }
 ]
