@@ -7,7 +7,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1781321528,
+    "publishedAt": 1781314380,
     "analysis": {
       "version": 2,
       "generatedAt": 1781327432,
@@ -30,7 +30,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1781311200,
+    "publishedAt": 1781311290,
     "analysis": {
       "version": 2,
       "generatedAt": 1781327479,
@@ -115,29 +115,6 @@
     }
   },
   {
-    "id": "8061927",
-    "headline": "U.S., Iran signal peace deal near as Tehran claims victory - Reuters",
-    "summary": "U.S., Iran signal peace deal near as Tehran claims victory  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMXk5cUo1M00yVjgxUGh5ZHl5SWdsUFcxZWhQUUF4MUhZY3pzNGZUbUU1SEtHUEh0dnZJM1Y4TFU0SzloMWNlQ1VqcjBZZ09raU1QdnFXallaeTBVMEZsNGhsOVVDcFNUZ2tjY29zX3hYYjJ6ZzAtZU1FSURnY0J3TktmSEk2eGFpd1Njek1SUG1mbkJrVmltN3RMQVk5WFpOOUxuMEVLUHRuVE50alhrTGk0VGs?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781303669,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1781246676,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "US President Trump has stated that a deal with Iran is close, but tensions in the Strait of Hormuz remain high. This news comes as the region continues to be a focal point for global energy markets. The Strait of Hormuz is a critical waterway for oil exports, and any disruptions to the flow of oil could have significant implications for the global economy. The news of a potential deal with Iran may alleviate some concerns about the region, but the ongoing tensions and the history of failed negotiations in the past suggest that there is still a high degree of uncertainty surrounding the situation.",
-      "impact": "The news of a potential deal with Iran may have a mixed impact on the energy sector. On one hand, a resolution to the tensions in the region could lead to increased investor confidence and potentially higher oil prices, benefiting energy producers such as ExxonMobil (XOM) and Chevron (CVX). On the other hand, a prolonged period of uncertainty and potential disruptions to oil exports could continue to weigh on the sector, leading to lower earnings and valuations for energy companies. In the short-term, the news may lead to increased volatility in the oil markets, which could impact the stock prices of energy-related companies.",
-      "risks": [
-        "Oil price volatility risk",
-        "Global economic slowdown risk",
-        "US-Iran relations risk"
-      ]
-    }
-  },
-  {
     "id": "8064687",
     "headline": "Iran team chief slams FIFA’s 'lack of coordination' on visa issues - Reuters",
     "summary": "Iran team chief slams FIFA’s 'lack of coordination' on visa issues  Reuters",
@@ -157,6 +134,29 @@
         "Decreased investor sentiment",
         "Potential diplomatic fallout",
         "Controversy impact on team performance"
+      ]
+    }
+  },
+  {
+    "id": "8061309",
+    "headline": "Brent falls to lowest since March on expected peace deal - Reuters",
+    "summary": "Brent falls to lowest since March on expected peace deal  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQWg3TG5xNExlOE40WERlbU5TdUMwQlNZSC1TYUVKZV9HN1M3LUNoRGlCdkQ4cmRhQ1UtUkdJSDBrMzN4dGlHOWZ0b18yTFo2SHR1UTBGYkoxTS11aGNMTHAzRGFtMVNSQzRRZUtwLXRxWGsyN3FwVm9XY2stOHN4X21BOU91THhlb0JIakhjVGNEWmpQTkxzZzhONlhlUzRGS1dZdWQtOXAzZWs?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1781294023,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781246772,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "US President Trump has called off planned strikes on Iran, leading to a decline in oil prices as tensions between the US and Iran ease. The news is a positive development for oil-producing countries and companies, as lower oil prices can increase demand and boost economic growth. This, in turn, can lead to higher earnings for oil-related companies and a positive impact on their stock prices. The oil market had been expecting a potential escalation in tensions, which would have led to higher oil prices. With the tensions easing, oil prices are likely to stabilize and potentially decline further.",
+      "impact": "The news is likely to have a positive impact on oil-related stocks in the short term, as lower oil prices can increase demand and boost economic growth. This can lead to higher earnings for oil-related companies, making their stocks more attractive to investors. In the medium term, the stability in the oil market can also lead to a decrease in volatility, making oil-related stocks more stable and attractive to investors. This can lead to an increase in investor sentiment and liquidity for these stocks.",
+      "risks": [
+        "Potential increase in global demand for oil, leading to higher prices and a negative impact on oil-related stocks",
+        "Uncertainty around US-Iran relations and potential future escalations in tensions",
+        "Global economic slowdown, which can lead to a decrease in demand for oil and a negative impact on oil-related stocks"
       ]
     }
   },
@@ -610,6 +610,29 @@
     }
   },
   {
+    "id": "8061927",
+    "headline": "U.S., Iran signal peace deal near as Tehran claims victory - Reuters",
+    "summary": "U.S., Iran signal peace deal near as Tehran claims victory  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMXk5cUo1M00yVjgxUGh5ZHl5SWdsUFcxZWhQUUF4MUhZY3pzNGZUbUU1SEtHUEh0dnZJM1Y4TFU0SzloMWNlQ1VqcjBZZ09raU1QdnFXallaeTBVMEZsNGhsOVVDcFNUZ2tjY29zX3hYYjJ6ZzAtZU1FSURnY0J3TktmSEk2eGFpd1Njek1SUG1mbkJrVmltN3RMQVk5WFpOOUxuMEVLUHRuVE50alhrTGk0VGs?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1781240760,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781246676,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "US President Trump has stated that a deal with Iran is close, but tensions in the Strait of Hormuz remain high. This news comes as the region continues to be a focal point for global energy markets. The Strait of Hormuz is a critical waterway for oil exports, and any disruptions to the flow of oil could have significant implications for the global economy. The news of a potential deal with Iran may alleviate some concerns about the region, but the ongoing tensions and the history of failed negotiations in the past suggest that there is still a high degree of uncertainty surrounding the situation.",
+      "impact": "The news of a potential deal with Iran may have a mixed impact on the energy sector. On one hand, a resolution to the tensions in the region could lead to increased investor confidence and potentially higher oil prices, benefiting energy producers such as ExxonMobil (XOM) and Chevron (CVX). On the other hand, a prolonged period of uncertainty and potential disruptions to oil exports could continue to weigh on the sector, leading to lower earnings and valuations for energy companies. In the short-term, the news may lead to increased volatility in the oil markets, which could impact the stock prices of energy-related companies.",
+      "risks": [
+        "Oil price volatility risk",
+        "Global economic slowdown risk",
+        "US-Iran relations risk"
+      ]
+    }
+  },
+  {
     "id": "8066408",
     "headline": "China confronts G7 during Macron’s call by defending free trade",
     "summary": "China's Vice Premier defends free trade during a G7 call, addressing economic imbalances and fostering international cooperation.",
@@ -617,7 +640,20 @@
     "source": "Bloomberg",
     "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
     "relatedSymbols": [],
-    "publishedAt": 1781236289
+    "publishedAt": 1781236289,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781340090,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "China's Vice Premier participated in a G7 call with French President Macron to discuss trade imbalances and promote international cooperation. The call is a response to recent concerns over global trade tensions and economic instability. China's stance on free trade is a key aspect of its economic policy, and this move aims to reassure global partners and maintain market stability. The call is also seen as a way to address the impact of the ongoing trade tensions on the global economy.",
+      "impact": "The news is likely to have a positive impact on Chinese companies listed on international exchanges, particularly those with significant exposure to global trade, such as shipping and logistics companies. The move may also boost sentiment for multinational corporations with operations in China, as it suggests a more cooperative approach to trade. However, the short-term impact may be limited, and investors should focus on the medium-term implications of this development on China's economic policy and global trade dynamics.",
+      "risks": [
+        "trade tensions may escalate",
+        "China's economic growth slowdown risk",
+        "global economic instability risk"
+      ]
+    }
   },
   {
     "id": "8066307",
@@ -627,7 +663,21 @@
     "source": "Bloomberg",
     "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
     "relatedSymbols": [],
-    "publishedAt": 1781235755
+    "publishedAt": 1781235755,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781340135,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Asian investors locked out of the SpaceX IPO are turning to space supply chain companies, industry-themed ETFs, and Nasdaq 100 Index-tracking funds as alternatives. This shift is driven by the growing interest in the space industry and the potential for long-term growth. The space supply chain companies, such as satellite manufacturers and launch service providers, are expected to benefit from the increasing demand for space technology. As a result, investors are piling into these companies in hopes of capturing gains.",
+      "impact": "The potential impact on related stocks is significant, with short-term gains expected from increased trading volumes and medium-term growth driven by the increasing demand for space technology. This trend is likely to boost the earnings outlook for space supply chain companies, leading to higher valuations and increased liquidity. The sentiment among investors is positive, driven by the growing interest in the space industry and the potential for long-term growth.",
+      "risks": [
+        "regulatory approval risk",
+        "integration risk",
+        "valuation risk",
+        "industry demand volatility risk"
+      ]
+    }
   },
   {
     "id": "8061716",
@@ -654,8 +704,8 @@
   },
   {
     "id": "8062457",
-    "headline": "Dollar steady as markets eye US-Iran talks - Reuters",
-    "summary": "Dollar steady as markets eye US-Iran talks  Reuters",
+    "headline": "Dollar steadies, set for weekly loss on US-Iran deal talks - Reuters",
+    "summary": "Dollar steadies, set for weekly loss on US-Iran deal talks  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONC04MExBWDdBT2lMaDd6aXBldkN4VWRjV0N3TlEyLVVzQmloWDhGNTZLU2k0b2xUUW5KRjRMdmVobFZMc2l0TmY2dEhpamVwbWlmeEpnb1l0RkZnWEFZbTNXYWFBY0piNmZwTlZMNWJGenkxV3BpdGlrbWJKWjlNWlloOEhla3l3aVVTOWd5d0tacndjSFF5ZUJqNFF4T1lnUE8zYmJiTU5sZXpIbFVKU3B5aw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -676,25 +726,25 @@
     }
   },
   {
-    "id": "8061309",
-    "headline": "Brent falls to lowest since March on expected peace deal - Reuters",
-    "summary": "Brent falls to lowest since March on expected peace deal  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQWg3TG5xNExlOE40WERlbU5TdUMwQlNZSC1TYUVKZV9HN1M3LUNoRGlCdkQ4cmRhQ1UtUkdJSDBrMzN4dGlHOWZ0b18yTFo2SHR1UTBGYkoxTS11aGNMTHAzRGFtMVNSQzRRZUtwLXRxWGsyN3FwVm9XY2stOHN4X21BOU91THhlb0JIakhjVGNEWmpQTkxzZzhONlhlUzRGS1dZdWQtOXAzZWs?oc=5",
+    "id": "8066713",
+    "headline": "Stocks rise as SpaceX makes market debut; oil slides on Gulf peace hopes - Reuters",
+    "summary": "Stocks rise as SpaceX makes market debut; oil slides on Gulf peace hopes  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV1pjRmJPbG9FY2Q3ekpEY1dDQTI3aWU0MzdqR0tMbDdKNjdkWHNDRGk3TEdFbDVzeHBZODUyS20yNnpuWHR0N2xPRHFPWHN4QlA3QzNUM1BONlRJakJfdGpTOWYybHU2ZTBfM29JamNOc096OWgzd0FRa01GN1BWbzNraw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1781226240,
+    "publishedAt": 1781224800,
     "analysis": {
       "version": 2,
-      "generatedAt": 1781246772,
+      "generatedAt": 1781340186,
       "sentiment": "bullish",
       "confidence": 0.8,
-      "summary": "US President Trump has called off planned strikes on Iran, leading to a decline in oil prices as tensions between the US and Iran ease. The news is a positive development for oil-producing countries and companies, as lower oil prices can increase demand and boost economic growth. This, in turn, can lead to higher earnings for oil-related companies and a positive impact on their stock prices. The oil market had been expecting a potential escalation in tensions, which would have led to higher oil prices. With the tensions easing, oil prices are likely to stabilize and potentially decline further.",
-      "impact": "The news is likely to have a positive impact on oil-related stocks in the short term, as lower oil prices can increase demand and boost economic growth. This can lead to higher earnings for oil-related companies, making their stocks more attractive to investors. In the medium term, the stability in the oil market can also lead to a decrease in volatility, making oil-related stocks more stable and attractive to investors. This can lead to an increase in investor sentiment and liquidity for these stocks.",
+      "summary": "The article reports on the market's reaction to SpaceX's market debut, which contributed to a rise in stocks. The news also mentions a decline in oil prices due to hopes of peace in the Gulf region. The market's positive sentiment is attributed to the successful debut of a prominent company, which can boost investor confidence and potentially lead to increased investment in the tech sector. This, in turn, can have a positive impact on the overall market. The decline in oil prices may also have a positive effect on the economy, as lower oil prices can lead to increased consumer spending and economic growth.",
+      "impact": "The successful market debut of SpaceX is likely to have a positive impact on the tech sector, potentially leading to increased investment and a boost in investor confidence. This could result in a short-term increase in the stock prices of companies in the tech sector. The decline in oil prices may also have a positive impact on the overall economy, leading to increased consumer spending and economic growth. This could, in turn, lead to a medium-term increase in stock prices for companies that benefit from a strong economy.",
       "risks": [
-        "Potential increase in global demand for oil, leading to higher prices and a negative impact on oil-related stocks",
-        "Uncertainty around US-Iran relations and potential future escalations in tensions",
-        "Global economic slowdown, which can lead to a decrease in demand for oil and a negative impact on oil-related stocks"
+        "Potential volatility in the tech sector due to the debut of a new company",
+        "Uncertainty around the impact of the decline in oil prices on the economy",
+        "Risk of a market correction if investor sentiment shifts"
       ]
     }
   },
@@ -748,7 +798,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1781214402
+    "publishedAt": 1781214402,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781340233,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "US President Donald Trump cancelled planned strikes against Iran, leading to a decline in oil prices. The news came after a period of heightened tensions between the US and Iran, which had driven up oil prices in anticipation of potential disruptions to global oil supplies. The cancellation of the strikes is seen as a positive development for oil producers, as it reduces the risk of supply disruptions and lower demand for oil. However, the underlying tensions between the US and Iran remain, and the situation could escalate again in the future.",
+      "impact": "The cancellation of the strikes is likely to have a short-term positive impact on oil prices, which could lead to a decline in the earnings of oil producers such as ExxonMobil (XOM) and Chevron (CVX). In the medium term, the reduced risk of supply disruptions could lead to increased investor confidence in the energy sector, potentially driving up valuations of oil producers. However, the underlying tensions between the US and Iran could lead to increased volatility in oil prices, making it a challenging environment for investors.",
+      "risks": [
+        "Escalation of tensions between the US and Iran",
+        "Unexpected supply disruptions",
+        "Increased volatility in oil prices"
+      ]
+    }
   },
   {
     "id": "8061204",
@@ -1034,7 +1097,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1781198423
+    "publishedAt": 1781198423,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781340287,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "The European Central Bank (ECB) has raised interest rates to combat war-driven inflation, citing concerns about the potential for inflation to persist and become entrenched. The ECB's decision is a response to the ongoing conflict in Ukraine and its impact on global commodity prices. The rate hike is intended to slow down inflation, which has been rising due to higher energy and food prices. The ECB's move is a proactive measure to prevent inflation from becoming a long-term problem. The decision is expected to have a significant impact on the European economy and financial markets.",
+      "impact": "The ECB's rate hike is likely to have a mixed impact on European stocks, with some sectors benefiting from higher interest rates and others suffering from reduced borrowing demand. In the short-term, banks and financial institutions may see an increase in net interest income, while consumers may face higher borrowing costs. Medium-term, the rate hike could lead to a slowdown in economic growth, which may negatively impact companies with high debt levels or those that are heavily reliant on consumer spending. The ECB's decision may also lead to a strengthening of the euro, which could negatively impact export-oriented companies.",
+      "risks": [
+        "economic slowdown risk",
+        "inflation persistence risk",
+        "currency volatility risk"
+      ]
+    }
   },
   {
     "id": "8059639",
@@ -1103,6 +1179,25 @@
         "Regulatory risk, as governments may impose regulations on AI development and deployment",
         "Supply chain risk, as the demand for compute and electricity may outstrip supply"
       ]
+    }
+  },
+  {
+    "id": "8056205",
+    "headline": "Equities rally, dollar dips with oil as Trump cancels Iran attacks - Reuters",
+    "summary": "Equities rally, dollar dips with oil as Trump cancels Iran attacks  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1iNlU3bUZXWVJpaVhJRXMwVG1LcUMyUmE1UWFvWTVlQnhqODM1bUZsM2txQmJZRzI4NUNYVlJFRVBkcnVpZHVLQnZaRDhGOV9xVTVnSU5PdEhfdVZJVm40ZU9SaExNWTFvMGZWWEI2dU1wTEwtTEZoVGxkTQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1781196037,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781162455,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The article reports that US strikes on Iran have led to a surge in oil prices, which has caused a decline in tech stocks as investors shift their focus from growth-oriented tech companies to energy and commodity-related stocks. This shift in market sentiment is attributed to the uncertainty surrounding the US-Iran conflict and its potential impact on global economic stability. The article highlights that tech stocks have been extending their losses, indicating a broader market trend of risk aversion. The US-Iran conflict has created a sense of uncertainty, causing investors to reevaluate their portfolios and seek safer assets.",
+      "impact": "The potential impact on related stocks is significant, with oil prices expected to remain volatile in the short term. This could lead to increased earnings pressure on tech companies that are heavily reliant on global supply chains and commodity prices. In the medium term, a sustained rise in oil prices could also impact the US economy, leading to a slowdown in consumer spending and a potential recession. This could further exacerbate the decline in tech stocks.",
+      "risks": []
     }
   },
   {
@@ -1196,6 +1291,16 @@
         "The impact of the increased ad spend on media companies may be delayed or muted if the election cycle is not as competitive as expected"
       ]
     }
+  },
+  {
+    "id": "8060056",
+    "headline": "Dollar falls after Trump halts US strikes on Iran - Reuters",
+    "summary": "Dollar falls after Trump halts US strikes on Iran  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObkUxSDl1cTN2SUI4UEZoRHJOOVVHajBCRDhwR19lN2ItLWRITmxOamJOQi1oaHZNSEFGNFF6RE9fWXF5ZEtBbkFzQ0NIY2lqOFhTZm1fTkgwXzhJVlQ1RFlzREx2eHN4VEw2RTJ0NlpnSktfWHFzQVN2UTNyU3dneDZHclFjTkdnX0NyS0JSLVFsWEVTWTZHRm1vQ1BjX0hHT2R3QWN4QjV3RXVXTVhF?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1781192413
   },
   {
     "id": "8057980",
@@ -1453,16 +1558,6 @@
     }
   },
   {
-    "id": "8058082",
-    "headline": "US Department of Justice formally moves to drop Halkbank case - Reuters",
-    "summary": "US Department of Justice formally moves to drop Halkbank case  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWi0xQ2s4bWFDc3RuSENTczhOdzA4dDBvZFFETXRyLVJ3WHdjeW5KR0p1SVRLVW90c3ZVRXliVWxGbk5tVTVTWGdNS2xnWnhVNTVoSGtNWGdITDBnTWpKb1E3YmZqZjNhWWFrdkVpcWowbTBTblZaZjU5MnFFaVgyTTdUM0hpNlBXNm10RU1FMFEydDRmX19VVFFuQWU1N2VvSHE1VFJ4Y0JyZ1hK?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781173565
-  },
-  {
     "id": "8057136",
     "headline": "Rupee drops on dollar demand from oil cos, nearly erases RBI-led gains - Reuters",
     "summary": "Rupee drops on dollar demand from oil cos, nearly erases RBI-led gains  Reuters",
@@ -1602,7 +1697,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1781158500
+    "publishedAt": 1781158924
   },
   {
     "id": "8061818",
@@ -1737,6 +1832,16 @@
     "publishedAt": 1781146845
   },
   {
+    "id": "8058082",
+    "headline": "US Department of Justice formally moves to drop Halkbank case - Reuters",
+    "summary": "US Department of Justice formally moves to drop Halkbank case  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWi0xQ2s4bWFDc3RuSENTczhOdzA4dDBvZFFETXRyLVJ3WHdjeW5KR0p1SVRLVW90c3ZVRXliVWxGbk5tVTVTWGdNS2xnWnhVNTVoSGtNWGdITDBnTWpKb1E3YmZqZjNhWWFrdkVpcWowbTBTblZaZjU5MnFFaVgyTTdUM0hpNlBXNm10RU1FMFEydDRmX19VVFFuQWU1N2VvSHE1VFJ4Y0JyZ1hK?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1781146319
+  },
+  {
     "id": "8056822",
     "headline": "Indian shares fall on Iran war, hot US inflation; IT leads losses - Reuters",
     "summary": "Indian shares fall on Iran war, hot US inflation; IT leads losses  Reuters",
@@ -1761,16 +1866,6 @@
     }
   },
   {
-    "id": "8060056",
-    "headline": "Dollar falls after Trump halts US strikes on Iran - Reuters",
-    "summary": "Dollar falls after Trump halts US strikes on Iran  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObkUxSDl1cTN2SUI4UEZoRHJOOVVHajBCRDhwR19lN2ItLWRITmxOamJOQi1oaHZNSEFGNFF6RE9fWXF5ZEtBbkFzQ0NIY2lqOFhTZm1fTkgwXzhJVlQ1RFlzREx2eHN4VEw2RTJ0NlpnSktfWHFzQVN2UTNyU3dneDZHclFjTkdnX0NyS0JSLVFsWEVTWTZHRm1vQ1BjX0hHT2R3QWN4QjV3RXVXTVhF?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781142240
-  },
-  {
     "id": "8056609",
     "headline": "Gold rises 2% as Trump canceling Iran strikes eases inflation fears - Reuters",
     "summary": "Gold rises 2% as Trump canceling Iran strikes eases inflation fears  Reuters",
@@ -1791,25 +1886,6 @@
         "Volatility in gold prices",
         "Uncertainty in inflation data"
       ]
-    }
-  },
-  {
-    "id": "8056205",
-    "headline": "Equities rally, dollar dips with oil as Trump cancels Iran attacks - Reuters",
-    "summary": "Equities rally, dollar dips with oil as Trump cancels Iran attacks  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1iNlU3bUZXWVJpaVhJRXMwVG1LcUMyUmE1UWFvWTVlQnhqODM1bUZsM2txQmJZRzI4NUNYVlJFRVBkcnVpZHVLQnZaRDhGOV9xVTVnSU5PdEhfdVZJVm40ZU9SaExNWTFvMGZWWEI2dU1wTEwtTEZoVGxkTQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781139780,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1781162455,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The article reports that US strikes on Iran have led to a surge in oil prices, which has caused a decline in tech stocks as investors shift their focus from growth-oriented tech companies to energy and commodity-related stocks. This shift in market sentiment is attributed to the uncertainty surrounding the US-Iran conflict and its potential impact on global economic stability. The article highlights that tech stocks have been extending their losses, indicating a broader market trend of risk aversion. The US-Iran conflict has created a sense of uncertainty, causing investors to reevaluate their portfolios and seek safer assets.",
-      "impact": "The potential impact on related stocks is significant, with oil prices expected to remain volatile in the short term. This could lead to increased earnings pressure on tech companies that are heavily reliant on global supply chains and commodity prices. In the medium term, a sustained rise in oil prices could also impact the US economy, leading to a slowdown in consumer spending and a potential recession. This could further exacerbate the decline in tech stocks.",
-      "risks": []
     }
   },
   {
@@ -21202,25 +21278,6 @@
         "Potential backlash from US lawmakers and other countries opposed to the deal",
         "Impact of increased oil production on global oil prices and the energy market"
       ]
-    }
-  },
-  {
-    "id": "7968097",
-    "headline": "NATO not drawing up plans for Hormuz mission, top commander says - Reuters",
-    "summary": "NATO not drawing up plans for Hormuz mission, top commander says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOTZNTVNNQ1l5elFEQzQ5empmSHp3d05DeTNlaDYtMGZnZHZjZThRS0ZPWjZoRl9OOGNabXd2VEVTNTQ2bktWcDRWMC0yaGh6Qjl6ek5hVEp1WEkyZFNUVlhlckRLTDV4c3BCZzBpYmxSVXlJTkhRTG9rbmNWX1c0dnJrODF4T1lmNkU2bnl2NlVjMlhyNGlsZi16YXBoTUd6dzdCU05mZlpkQUlvSzhNV2VQbHdEVjN1VkpSSE8yMmJheFktajNPZEwxMA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1779220521,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1779219085,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "NATO's top commander stated that a potential mission in the Strait of Hormuz is a political decision. This decision is separate from military operations. The Strait of Hormuz is a critical waterway for global oil trade, with approximately 20% of the world's oil passing through it. A NATO mission could potentially impact regional tensions and oil prices. However, the decision is still in its infancy, and no concrete plans have been announced.",
-      "impact": "The potential NATO mission in the Strait of Hormuz may have a neutral impact on the oil and gas sector in the short term. However, if the situation escalates, it could lead to increased oil prices, benefiting companies with significant oil reserves or production capacity. This could positively impact companies like ExxonMobil (XOM) or Chevron (CVX), but the impact would depend on the specific circumstances and the companies' exposure to the region. In the medium term, the situation could lead to increased military spending and defense contracts, potentially benefiting companies like Lockheed Martin (LMT) or Boeing (BA).",
-      "risks": []
     }
   }
 ]
