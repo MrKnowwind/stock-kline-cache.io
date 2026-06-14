@@ -1,5 +1,28 @@
 [
   {
+    "id": "8074500",
+    "headline": "Charlie Javice reportedly seeking a pardon from Trump",
+    "summary": "Javice founded a startup called Frank that JPMorgan acquired in 2021 for $175 million.",
+    "url": "https://www.cnbc.com/2026/06/14/charlie-javice-reportedly-seeking-a-pardon-from-trump-.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108205389-17591800202025-09-29t210241z_1504781659_rc2w1hathm5j_rtrmadp_0_jpmorgan-javice.jpeg?v=1759180074&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1781468952,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781474298,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Charlie Javice, the founder of Frank, is seeking a pardon from the Trump administration after being sentenced to 7 years in prison for defrauding JPMorgan Chase. Frank was acquired by JPMorgan in 2021 for $175 million. Javice's appeal is ongoing. The Trump administration is considering a wave of 250 pardons to mark the 250th anniversary of the US. The news does not directly affect JPMorgan's business fundamentals but may influence public perception and sentiment.",
+      "impact": "The news may have a short-term negative impact on JPMorgan's sentiment and potential long-term impact on its reputation. However, the financial implications are likely to be minimal as the acquisition of Frank was a one-time event, and JPMorgan's business fundamentals are not directly affected. The company's earnings outlook and valuation are unlikely to be impacted in the near term.",
+      "risks": [
+        "reputation risk",
+        "sentiment risk",
+        "macroeconomic uncertainty"
+      ]
+    }
+  },
+  {
     "id": "8073697",
     "headline": "In Tijuana, Iran's tiny diaspora agrees on little — except Team Melli - Reuters",
     "summary": "In Tijuana, Iran's tiny diaspora agrees on little — except Team Melli  Reuters",
@@ -19,29 +42,6 @@
         "no direct risks identified",
         "macroeconomic risks associated with investing in Iran",
         "regulatory risks related to Iran's economic sanctions"
-      ]
-    }
-  },
-  {
-    "id": "8070954",
-    "headline": "Trump says Israeli strike on Lebanon should not have happened, but Iran deal close - Reuters",
-    "summary": "Trump says Israeli strike on Lebanon should not have happened, but Iran deal close  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSXA2RmM1Y0lOSlBJSHJpd285cFViUGlLNFRUa0FTZWxBbC1DdUdVM1hSbUY5Z1A4R3poZEI3QjNGbFFzSlZpalRkbnVGWVFMNzYzQXlJbXhMTjdaRjFLQlk0b3FXZVIzcVVDbm9YVmd4RmtRTWVGcndQN1VJaEZRUEppeGlUZWJGaUx6WEI1OUtoeDRpbGdNbF8xRVFRTlY3Tk9Fcg?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781456806,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1781421057,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The US and Iran are reportedly making progress towards a deal, but the timing remains unclear. The news is based on a Reuters article citing unnamed sources. The article does not provide specific details about the nature of the deal or its implications for the US or Iran. The lack of clarity on the timing and terms of the deal makes it difficult to assess its potential impact on the business fundamentals of companies in the region. The news is likely to be closely watched by investors and policymakers alike.",
-      "impact": "The potential deal could have a positive impact on the oil and gas industry, particularly for companies with operations in the Middle East. A resolution to the tensions between the US and Iran could lead to increased stability and investment in the region, potentially boosting earnings outlook for companies such as ExxonMobil (XOM) and Chevron (CVX). However, the timing and terms of the deal are still uncertain, which could lead to short-term volatility in the stock prices of these companies.",
-      "risks": [
-        "Regulatory risk: The deal may be subject to regulatory approval, which could be a lengthy and uncertain process.",
-        "Geopolitical risk: The situation in the Middle East is complex and unpredictable, and any deal could be derailed by unforeseen events.",
-        "Economic risk: The deal may not lead to significant economic benefits for the US or Iran, or could have unintended consequences for the global economy."
       ]
     }
   },
@@ -202,6 +202,29 @@
         "Cybersecurity risk",
         "Regulatory risk",
         "International relations risk"
+      ]
+    }
+  },
+  {
+    "id": "8070954",
+    "headline": "Trump says Israeli strike on Lebanon should not have happened, but Iran deal close - Reuters",
+    "summary": "Trump says Israeli strike on Lebanon should not have happened, but Iran deal close  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSXA2RmM1Y0lOSlBJSHJpd285cFViUGlLNFRUa0FTZWxBbC1DdUdVM1hSbUY5Z1A4R3poZEI3QjNGbFFzSlZpalRkbnVGWVFMNzYzQXlJbXhMTjdaRjFLQlk0b3FXZVIzcVVDbm9YVmd4RmtRTWVGcndQN1VJaEZRUEppeGlUZWJGaUx6WEI1OUtoeDRpbGdNbF8xRVFRTlY3Tk9Fcg?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1781401980,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781421057,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The US and Iran are reportedly making progress towards a deal, but the timing remains unclear. The news is based on a Reuters article citing unnamed sources. The article does not provide specific details about the nature of the deal or its implications for the US or Iran. The lack of clarity on the timing and terms of the deal makes it difficult to assess its potential impact on the business fundamentals of companies in the region. The news is likely to be closely watched by investors and policymakers alike.",
+      "impact": "The potential deal could have a positive impact on the oil and gas industry, particularly for companies with operations in the Middle East. A resolution to the tensions between the US and Iran could lead to increased stability and investment in the region, potentially boosting earnings outlook for companies such as ExxonMobil (XOM) and Chevron (CVX). However, the timing and terms of the deal are still uncertain, which could lead to short-term volatility in the stock prices of these companies.",
+      "risks": [
+        "Regulatory risk: The deal may be subject to regulatory approval, which could be a lengthy and uncertain process.",
+        "Geopolitical risk: The situation in the Middle East is complex and unpredictable, and any deal could be derailed by unforeseen events.",
+        "Economic risk: The deal may not lead to significant economic benefits for the US or Iran, or could have unintended consequences for the global economy."
       ]
     }
   },
@@ -616,29 +639,6 @@
     }
   },
   {
-    "id": "8061309",
-    "headline": "Brent falls to lowest since March on expected peace deal - Reuters",
-    "summary": "Brent falls to lowest since March on expected peace deal  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQWg3TG5xNExlOE40WERlbU5TdUMwQlNZSC1TYUVKZV9HN1M3LUNoRGlCdkQ4cmRhQ1UtUkdJSDBrMzN4dGlHOWZ0b18yTFo2SHR1UTBGYkoxTS11aGNMTHAzRGFtMVNSQzRRZUtwLXRxWGsyN3FwVm9XY2stOHN4X21BOU91THhlb0JIakhjVGNEWmpQTkxzZzhONlhlUzRGS1dZdWQtOXAzZWs?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781294023,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1781246772,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "US President Trump has called off planned strikes on Iran, leading to a decline in oil prices as tensions between the US and Iran ease. The news is a positive development for oil-producing countries and companies, as lower oil prices can increase demand and boost economic growth. This, in turn, can lead to higher earnings for oil-related companies and a positive impact on their stock prices. The oil market had been expecting a potential escalation in tensions, which would have led to higher oil prices. With the tensions easing, oil prices are likely to stabilize and potentially decline further.",
-      "impact": "The news is likely to have a positive impact on oil-related stocks in the short term, as lower oil prices can increase demand and boost economic growth. This can lead to higher earnings for oil-related companies, making their stocks more attractive to investors. In the medium term, the stability in the oil market can also lead to a decrease in volatility, making oil-related stocks more stable and attractive to investors. This can lead to an increase in investor sentiment and liquidity for these stocks.",
-      "risks": [
-        "Potential increase in global demand for oil, leading to higher prices and a negative impact on oil-related stocks",
-        "Uncertainty around US-Iran relations and potential future escalations in tensions",
-        "Global economic slowdown, which can lead to a decrease in demand for oil and a negative impact on oil-related stocks"
-      ]
-    }
-  },
-  {
     "id": "8065298",
     "headline": "Since March, Trump has repeatedly said the Iran war will end soon - Reuters",
     "summary": "Since March, Trump has repeatedly said the Iran war will end soon  Reuters",
@@ -773,6 +773,29 @@
         "Potential volatility in the global oil market",
         "Uncertainty around the effectiveness of the UAE's plan to unlock billions of dollars for Iran",
         "Risk of increased competition in the global oil market"
+      ]
+    }
+  },
+  {
+    "id": "8061309",
+    "headline": "Brent falls to lowest since March on expected peace deal - Reuters",
+    "summary": "Brent falls to lowest since March on expected peace deal  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQWg3TG5xNExlOE40WERlbU5TdUMwQlNZSC1TYUVKZV9HN1M3LUNoRGlCdkQ4cmRhQ1UtUkdJSDBrMzN4dGlHOWZ0b18yTFo2SHR1UTBGYkoxTS11aGNMTHAzRGFtMVNSQzRRZUtwLXRxWGsyN3FwVm9XY2stOHN4X21BOU91THhlb0JIakhjVGNEWmpQTkxzZzhONlhlUzRGS1dZdWQtOXAzZWs?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1781287627,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781246772,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "US President Trump has called off planned strikes on Iran, leading to a decline in oil prices as tensions between the US and Iran ease. The news is a positive development for oil-producing countries and companies, as lower oil prices can increase demand and boost economic growth. This, in turn, can lead to higher earnings for oil-related companies and a positive impact on their stock prices. The oil market had been expecting a potential escalation in tensions, which would have led to higher oil prices. With the tensions easing, oil prices are likely to stabilize and potentially decline further.",
+      "impact": "The news is likely to have a positive impact on oil-related stocks in the short term, as lower oil prices can increase demand and boost economic growth. This can lead to higher earnings for oil-related companies, making their stocks more attractive to investors. In the medium term, the stability in the oil market can also lead to a decrease in volatility, making oil-related stocks more stable and attractive to investors. This can lead to an increase in investor sentiment and liquidity for these stocks.",
+      "risks": [
+        "Potential increase in global demand for oil, leading to higher prices and a negative impact on oil-related stocks",
+        "Uncertainty around US-Iran relations and potential future escalations in tensions",
+        "Global economic slowdown, which can lead to a decrease in demand for oil and a negative impact on oil-related stocks"
       ]
     }
   },
@@ -5612,7 +5635,21 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1780916562
+    "publishedAt": 1780916562,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781474343,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The Indian rupee has depreciated against the US dollar due to elevated crude oil prices and rising US Treasury yields. This has led to a decrease in investor sentiment towards the rupee. The depreciation of the rupee is expected to have a negative impact on Indian companies with significant foreign currency debt, particularly those in the energy and commodity sectors. The Reserve Bank of India (RBI) may intervene to stabilize the currency, but its effectiveness is uncertain.",
+      "impact": "The depreciation of the rupee is likely to negatively impact Indian companies with significant foreign currency debt, particularly those in the energy and commodity sectors. This may lead to increased borrowing costs and reduced profitability. In the short-term, the rupee's depreciation may also lead to higher import costs for Indian companies, which could negatively impact their earnings outlook. In the medium-term, the RBI's intervention may help stabilize the currency, but its effectiveness is uncertain.",
+      "risks": [
+        "Currency volatility risk",
+        "Increased borrowing costs risk",
+        "Reduced profitability risk",
+        "Uncertainty around RBI intervention"
+      ]
+    }
   },
   {
     "id": "8043723",
@@ -5691,7 +5728,20 @@
     "source": "Bloomberg",
     "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
     "relatedSymbols": [],
-    "publishedAt": 1780912940
+    "publishedAt": 1780912940,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781474392,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Bitcoin surged to a new high of $64,200 after Michael Saylor, CEO of MicroStrategy, hinted at buying more of the cryptocurrency. This comes after the cryptocurrency broke the $60,000 barrier, a significant milestone in its price history. The price action suggests increasing investor confidence in the cryptocurrency's value, driven by Saylor's endorsement and the growing institutional adoption of Bitcoin. This development may indicate a shift in sentiment towards Bitcoin as a store of value and a hedge against inflation.",
+      "impact": "The news is likely to have a positive impact on Bitcoin-related stocks, particularly those with exposure to cryptocurrency mining or trading. Companies like Riot Blockchain and Marathon Patent Group may see an increase in demand for their services, leading to higher earnings potential. The medium-term impact may also be felt in the valuation of these stocks, as investors reassess their expectations for the cryptocurrency market. Additionally, the sentiment shift may lead to increased liquidity in the market, benefiting traders and investors alike.",
+      "risks": [
+        "Regulatory risk: Changes in government policies or regulations could negatively impact the cryptocurrency market and related stocks.",
+        "Volatility risk: The cryptocurrency market is known for its high volatility, which could lead to sharp price swings and negatively impact investor confidence.",
+        "Security risk: The increased adoption of Bitcoin and other cryptocurrencies may lead to increased security risks, including hacking and theft."
+      ]
+    }
   },
   {
     "id": "8042720",
@@ -5747,7 +5797,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1780909253
+    "publishedAt": 1780909253,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781474439,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "German industrial orders fell more than expected in April, indicating a decline in economic activity. The news is a negative signal for the German economy, which has been a key driver of the European Union's growth. The decline in industrial orders is a result of weaker demand from key markets, including the automotive and machinery sectors. This development is likely to impact the earnings of companies that rely heavily on exports, such as those in the manufacturing and industrial sectors.",
+      "impact": "The decline in German industrial orders is expected to negatively impact the earnings of companies that rely on exports, particularly those in the manufacturing and industrial sectors. This could lead to a short-term decline in stock prices for these companies, as investors reassess their earnings outlook. In the medium term, the decline in industrial orders could also impact the overall economic growth of the European Union, which could have a negative impact on the broader market. The news may also lead to a decrease in investor sentiment, potentially causing a decline in liquidity for affected stocks.",
+      "risks": [
+        "decline in earnings",
+        "decrease in investor sentiment",
+        "negative impact on European economic growth"
+      ]
+    }
   },
   {
     "id": "8042828",
@@ -5780,7 +5843,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1780905224
+    "publishedAt": 1780905224,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781474485,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Chinese refiners are delaying projects due to disruptions in Middle East oil supply, which will likely impact the country's refining capacity and oil demand. This is a significant development as China is one of the world's largest oil consumers. The Middle East is a major oil-producing region, and any disruptions to supply can have a ripple effect on global oil markets. The delay in projects will also impact the earnings outlook for Chinese refiners as they may face reduced refining capacity and lower oil demand.",
+      "impact": "The delay in projects will likely lead to a short-term decline in the stock prices of Chinese refiners, as investors may become risk-averse due to the uncertainty surrounding oil supply. In the medium term, the reduced refining capacity and lower oil demand may lead to a decline in earnings for Chinese refiners, which could further weigh on their stock prices. The delay in projects may also impact the overall sentiment towards the oil and gas sector in China, leading to a decline in investor confidence and liquidity in the sector.",
+      "risks": [
+        "Reduced refining capacity risk",
+        "Lower oil demand risk",
+        "Uncertainty surrounding oil supply risk"
+      ]
+    }
   },
   {
     "id": "8043174",
@@ -21949,29 +22025,6 @@
         "Potential overvaluation risk if investors drive up the stock price too quickly",
         "Dependence on the performance of the gaming and data center markets",
         "Risk of increased competition from other technology companies"
-      ]
-    }
-  },
-  {
-    "id": "7970840",
-    "headline": "Indonesia's Prabowo announces 2027 fiscal deficit target of 1.8% to 2.4% of GDP - Reuters",
-    "summary": "Indonesia's Prabowo announces 2027 fiscal deficit target of 1.8% to 2.4% of GDP  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNFA4NHJBbEpSQjdBVWczbG9qMlY0aVU4VFVIaElrdmhkWi1hS3BremlpZ0YzczJtcDNSZHlPM1ctLWkzWTNhaHVHNXpiY1B5SWFYNTFtOXpVTFFBQURBM0NNZEtodGtpVk5ZakRwR0dCVHo5YVRqMlkwbmxjX2JmME1pMlJVNlNVd29Rak5TejlhZTVpMTl1el9MdDYza1ZlTFpLQ0Z5WlRvalZSNjlQTE1hc01maGh5UWxGaA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1779250800,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1779267291,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Indonesia's Coordinating Minister for Economic Affairs, Prabowo Subianto, has announced the country's fiscal deficit target for 2027, aiming to keep it within 1.8% to 2.4% of GDP. This target is part of the government's effort to maintain fiscal discipline and ensure sustainable economic growth. The announcement comes as Indonesia continues to navigate its economic recovery from the COVID-19 pandemic. The government's fiscal policy is expected to have a significant impact on the country's economic growth and investor sentiment. The announcement is a key development in Indonesia's economic policy landscape.",
-      "impact": "The news is likely to have a positive impact on the Indonesian rupiah (IDR) in the short term, as a lower fiscal deficit target is expected to boost investor confidence and attract foreign capital. However, the medium-term impact on the stock market is uncertain, as the government's fiscal policy may lead to increased spending and infrastructure development, potentially benefiting sectors such as construction and infrastructure. The announcement may also lead to a re-evaluation of the country's credit rating by rating agencies, which could have a positive impact on the stock market if the rating is upgraded.",
-      "risks": [
-        "implementation risk: the government's ability to implement the fiscal policy and achieve the target",
-        "macroeconomic risk: potential changes in global economic conditions that may impact Indonesia's economic growth",
-        "valuation risk: the stock market may overreact to the news, leading to overvaluation of certain stocks"
       ]
     }
   }
