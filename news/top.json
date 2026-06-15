@@ -552,7 +552,16 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1781477340
+    "publishedAt": 1781477340,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781565938,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "A fragile Iran deal has been reached, which may provide some relief to the oil market by potentially increasing oil exports from Iran. However, the deal's fragility and the ongoing risks to shipping through the Strait of Hormuz remain a concern. The Strait of Hormuz is a critical waterway for global oil trade, and any disruptions could lead to supply chain disruptions and higher oil prices. The deal's impact on oil prices is uncertain, and the situation remains volatile.",
+      "impact": "The news may have a mixed impact on oil-related stocks in the short-term. On one hand, a potential increase in oil exports from Iran could lead to higher oil prices, benefiting oil producers such as those listed on the NYMEX. On the other hand, the ongoing risks to shipping through the Strait of Hormuz may lead to supply chain disruptions and lower oil prices. This uncertainty may lead to increased volatility in oil prices and related stocks.",
+      "risks": []
+    }
   },
   {
     "id": "8075006",
@@ -631,7 +640,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1781469120
+    "publishedAt": 1781469120,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781565984,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Iran's national soccer team has arrived in the US to participate in the World Cup, marking a significant diplomatic gesture as the two nations have reached a peace deal. This development is a result of ongoing negotiations between the two countries, which have been strained in the past due to various geopolitical tensions. The peace deal is a positive step towards improved relations between the US and Iran, but its implications on the business world are limited. The news does not directly impact any specific stocks, as it is a diplomatic event rather than an economic or financial development.",
+      "impact": "The news is unlikely to have a significant impact on the stock market in the short term, as it is a diplomatic event rather than an economic or financial development. However, improved relations between the US and Iran could lead to increased trade and economic cooperation in the medium term, potentially benefiting companies operating in industries such as energy, finance, and logistics. This could lead to a positive sentiment shift towards companies with exposure to the Iranian market or those that could benefit from increased trade between the two countries.",
+      "risks": [
+        "geopolitical tensions flare-up risk",
+        "sanctions risk",
+        "trade disruptions risk"
+      ]
+    }
   },
   {
     "id": "8074500",
@@ -847,7 +869,20 @@
     "source": "Bloomberg",
     "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
     "relatedSymbols": [],
-    "publishedAt": 1781430407
+    "publishedAt": 1781430407,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781566034,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Wall Street is gaining access to new catastrophe models that can predict wars, which will help investors make more informed decisions in an increasingly volatile market. This development is a response to the growing geopolitical risks and escalating tensions around the world. The new models will allow investors to better assess the potential impact of wars on their portfolios, enabling them to make more accurate predictions and adjust their strategies accordingly. This is a positive development for the financial industry, as it will provide investors with a more comprehensive view of the risks and opportunities in the market.",
+      "impact": "The adoption of new catastrophe models is likely to have a positive impact on the financial industry, particularly for companies that provide risk management and insurance services. This is because investors will be able to better assess the potential risks associated with wars and other geopolitical events, which will lead to increased demand for risk management products. The medium-term impact will be an increase in the earnings of companies that provide risk management services, as investors seek to mitigate their exposure to potential losses. Additionally, the increased transparency and predictability will lead to a more stable market, which will positively impact investor sentiment and liquidity.",
+      "risks": [
+        "over-reliance on new models may lead to complacency among investors",
+        "geopolitical tensions may escalate, making the models less accurate",
+        "regulatory changes may impact the adoption and use of the new models"
+      ]
+    }
   },
   {
     "id": "8072056",
@@ -1718,7 +1753,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1781278090
+    "publishedAt": 1781278090,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781566080,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The US military is assisting in the transportation of 7 million barrels of oil per day from the Persian Gulf. This development is likely a response to the ongoing conflict in the region and the need to maintain oil supply chains. The US military's involvement suggests a significant increase in oil production and export from the region, which could lead to higher global oil supply and lower prices. This, in turn, could benefit oil-producing companies and related industries.",
+      "impact": "The news is likely to have a positive impact on oil-producing companies, particularly those with significant operations in the Persian Gulf region. This could lead to an increase in earnings for these companies, as higher oil production and exports would result in higher revenue. Additionally, lower oil prices could boost consumer spending and economic growth, benefiting companies that rely on oil as a key input or have exposure to the energy sector. In the short term, this news could lead to a surge in oil stocks, with potential beneficiaries including companies like ExxonMobil and Chevron.",
+      "risks": [
+        "Oil price volatility risk",
+        "Geopolitical risk in the Persian Gulf region",
+        "Supply chain disruptions risk"
+      ]
+    }
   },
   {
     "id": "8063942",
@@ -1978,7 +2026,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1781253943
+    "publishedAt": 1781253943,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781566127,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "The Bank of England (BoE) reported that UK public inflation expectations surged following the Iran war. This increase in inflation expectations is a concern for the BoE, as it may lead to higher borrowing costs and reduced consumer spending. The UK's inflation rate has been a topic of discussion in recent months, with the BoE aiming to keep it within a 2% target. The Iran war's impact on oil prices and global trade could further exacerbate inflationary pressures.",
+      "impact": "The surge in inflation expectations may lead to a decrease in consumer spending, negatively impacting companies in the retail and consumer goods sectors. This could result in lower earnings for these companies, potentially leading to a decrease in their stock prices. Additionally, higher borrowing costs may negatively impact companies with high debt levels, such as those in the energy and finance sectors. The medium-term impact may be a decrease in the overall economic growth rate, as higher inflation can lead to reduced consumer and business confidence.",
+      "risks": [
+        "Increased borrowing costs risk",
+        "Reduced consumer spending risk",
+        "Decreased economic growth risk"
+      ]
+    }
   },
   {
     "id": "8059093",
