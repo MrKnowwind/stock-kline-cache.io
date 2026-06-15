@@ -1,5 +1,51 @@
 [
   {
+    "id": "8077221",
+    "headline": "I want people to be millionaires — Jim Cramer's blueprint to make money in any market",
+    "summary": "In this exclusive interview, Jim walks through how investors should think about identifying a small group of individual stocks to complement a diversified portfolio",
+    "url": "https://www.cnbc.com/2026/06/15/i-want-people-to-be-millionaires-cramer-blueprint-on-making-money-in-any-market.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/107090835-1658243303284-NUP_198367_00047_copy.jpg?v=1694379483&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1781554144,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781559581,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Jim Cramer emphasizes the importance of identifying a small group of individual stocks to complement a diversified portfolio, citing Nvidia as an example of a stock that can move the needle. He stresses that it is possible for people to become millionaires through smart investing. Cramer outlines a framework for identifying stocks, including balancing passive investing with active stock selection, and considers factors such as age, risk tolerance, and time horizon. He also touches on portfolio construction and the characteristics of exceptional investments.",
+      "impact": "The article suggests that investors should focus on identifying a small group of high-growth stocks, such as Nvidia, to boost their portfolios. This could lead to increased demand for these stocks, potentially driving up their prices in the short to medium term. Cramer's emphasis on active stock selection and growth opportunities tied to artificial intelligence may also lead to increased interest in stocks related to AI, such as Nvidia, and potentially drive up their valuations.",
+      "risks": [
+        "overvaluation risk",
+        "market volatility risk",
+        "regulatory risk"
+      ]
+    }
+  },
+  {
+    "id": "8077213",
+    "headline": "Salesforce looks to strengthen its AI platform — plus, a positive note for J&J",
+    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+    "url": "https://www.cnbc.com/2026/06/15/salesforce-looks-to-strengthen-its-ai-platform-a-positive-note-for-jj.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108210812-1760124319878-gettyimages-2239744238-JJ_PROTAGONIST_THERAPEUTICS.jpeg?v=1776163777&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1781549620,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781559633,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The market rallied on Monday after a deal to end the US-Iran war was announced, with the S&P 500 and Nasdaq experiencing their best days since April and March respectively. The healthcare sector was a notable exception, with defensive stocks being sold off as investors moved to more economically sensitive companies. However, a positive note from Leerink on Johnson & Johnson's psoriasis drug Icotyde boosted the stock, citing a survey of dermatologists that supports the company's above-consensus sales forecast. Salesforce announced a $3.6 billion acquisition of customer service platform Fin, which will enhance its AI capabilities and help customers launch AI-powered customer service agents more quickly.",
+      "impact": "The deal between the US and Iran is expected to have a positive impact on the market in the short term, with the agreement likely to lead to increased investor confidence and a boost to economic growth. Johnson & Johnson's stock may see a short-term lift due to the positive note on Icotyde, but the company's healthcare sector peers may face headwinds due to the CMS's new drug-price negotiation proposal. Salesforce's acquisition of Fin is expected to enhance its AI capabilities and drive growth, potentially leading to an increase in its stock price in the medium term. The deal may also have a positive impact on the broader tech sector, as it demonstrates Salesforce's commitment to investing in AI and customer service capabilities.",
+      "risks": [
+        "Regulatory approval risk for Icotyde",
+        "Integration risk for Salesforce's acquisition of Fin",
+        "Potential headwinds for healthcare sector due to CMS's new drug-price negotiation proposal"
+      ]
+    }
+  },
+  {
     "id": "8077207",
     "headline": "Things are lining up in favor of the market bulls. How to proceed from here",
     "summary": "Oil and bond yields are falling on U.S.-Iran optimism, and the market cleared the SpaceX hurdle.",
@@ -345,7 +391,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1781487660
+    "publishedAt": 1781487660,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781559681,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "US President Trump has signaled a potential exit from the Iran conflict, which could lead to a decrease in tensions and a shift in global geopolitics. The news comes after recent escalations in the conflict, which have had a negative impact on oil prices and the global economy. The US-Iran conflict has also had a significant impact on the airline and travel industries, with several airlines canceling flights to the region. A potential exit could lead to a decrease in these industries' exposure to the conflict, but also raises concerns about the potential for future conflicts in the region.",
+      "impact": "The news could have a positive impact on oil prices in the short-term, potentially leading to a decrease in the cost of production for companies such as ExxonMobil (XOM) and Chevron (CVX). However, the medium-term impact is uncertain, as a potential exit could lead to a decrease in demand for oil, potentially affecting the earnings outlook for these companies. Additionally, the news could also have a positive impact on the airline industry, potentially leading to an increase in demand for travel and tourism, benefiting companies such as American Airlines (AAL) and Delta Air Lines (DAL).",
+      "risks": [
+        "potential for future conflicts in the region",
+        "uncertainty around the US-Iran conflict's impact on global oil demand",
+        "potential decrease in demand for oil in the medium-term"
+      ]
+    }
   },
   {
     "id": "8075517",
@@ -378,7 +437,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1781481720
+    "publishedAt": 1781481720,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781559730,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The news of the US-Iran peace deal has led to a surge in gold prices, pushing them to a near one-week high. This development is likely driven by the reduced geopolitical tensions and increased uncertainty, which often lead investors to seek safe-haven assets like gold. The peace deal has alleviated some of the concerns related to the potential for conflict in the region, which in turn has led to a decrease in the demand for safe-haven assets. This is a positive development for gold prices, as it reduces one of the key drivers of its value.",
+      "impact": "The increase in gold prices is likely to have a positive impact on gold mining companies, as higher prices can lead to increased profitability and revenue. This could lead to a short-term increase in the stock prices of gold mining companies, as investors take advantage of the higher prices. However, the medium-term impact will depend on the sustainability of the peace deal and the potential for further increases in gold prices. The reduced demand for safe-haven assets may also lead to a decrease in the stock prices of companies that benefit from increased uncertainty, such as defense contractors.",
+      "risks": [
+        "Potential for a breakdown in the peace deal and a return to increased tensions in the region",
+        "Uncertainty around the sustainability of the reduced demand for safe-haven assets",
+        "Impact of increased gold prices on the overall economy and inflation"
+      ]
+    }
   },
   {
     "id": "8075921",
@@ -388,7 +460,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1781481180
+    "publishedAt": 1781481180,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781559783,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Global leaders have reacted to the announcement of a US-Iran peace agreement, with some expressing cautious optimism. The agreement aims to ease tensions between the two countries, which have been heightened in recent years due to various conflicts and disputes. The news has sparked a mix of reactions from world leaders, with some welcoming the development and others expressing skepticism. The agreement is seen as a significant step towards reducing tensions in the region and potentially opening up economic opportunities for both countries. However, the details of the agreement are still unclear, and its implementation will depend on various factors.",
+      "impact": "The news is likely to have a positive impact on the global economy, particularly in the medium term, as reduced tensions between the US and Iran could lead to increased trade and investment in the region. This could benefit companies that operate in industries such as energy, finance, and logistics. However, the impact on individual stocks will depend on their specific exposure to the region and their ability to capitalize on any potential opportunities. In the short term, the news may lead to increased volatility in the markets, particularly in sectors that are closely tied to the region.",
+      "risks": [
+        "Implementation risk: The success of the agreement will depend on its effective implementation, which may be challenging given the complex relationships between the two countries.",
+        "Economic uncertainty: The agreement may not lead to immediate economic benefits, and its impact may be delayed or uncertain.",
+        "Geopolitical risk: The agreement may not be universally accepted, and regional tensions could escalate if other countries or groups object to the deal."
+      ]
+    }
   },
   {
     "id": "8075518",
@@ -21893,25 +21978,5 @@
         "Challenges in Nike's turnaround efforts"
       ]
     }
-  },
-  {
-    "id": "7974408",
-    "headline": "Photos of the week - Reuters",
-    "summary": "Photos of the week  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0Y0JDWld5Ym5ad09mRUVFQnprZXFvRUZ2YUxHVFhMQWJPMVNuUDJIdW9kZEdxMC1STjRaMGlYeUEtNUNjUWpzQ29pMGhEd3FtRGdPZ09mNTB3MzhjaDRQQWdQakFmWGM?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1779385230
-  },
-  {
-    "id": "7974353",
-    "headline": "Exclusive: Supreme Leader says enriched uranium must stay in Iran, Iranian sources say - Reuters",
-    "summary": "Exclusive: Supreme Leader says enriched uranium must stay in Iran, Iranian sources say  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOR2FnRzlWa0JneHMzSWNSa2NPeFh6UTdEMnpDbFpLOGNubnRNaWZWOFhKOTBrd0Y0ZkRHYUVIVjcyMmVVZHhBYzFPaXhxa0NaUWZXUzBzVWhybWZXbVlITjB5Z1dQRGZiQ011ZzlIVy1pRHZYTGdoSlFvS0pKVEtjc29LZHYySkstYlprRGxDUTlhaXFncEVmWkJCc0YzMTRoWDM4S1EwN1gwTll2RXZ0akhNYzlSWWc2MzQ5S0dwa2s2bFE4?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1779384180
   }
 ]
