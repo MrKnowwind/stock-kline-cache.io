@@ -1,5 +1,51 @@
 [
   {
+    "id": "8080554",
+    "headline": "Databricks sales growth tops 80%, but margin are shrinking from swarm of AI agents",
+    "summary": "Databricks is seeing higher growth as AI agents assist with data analysis, but all that activity is significantly increasing costs.",
+    "url": "https://www.cnbc.com/2026/06/16/databricks-revenue-growth-tops-80percent-to-6point9-billion-annualized.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108322870-1781646191900-Handout_Databricks_Data_AI_Summit_260616_cropped.png?v=1781646335&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1781648728,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781651424,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Databricks reports 80% revenue growth to $6.9 billion, driven by increased adoption of its data analytics tools and AI agents. However, the company is experiencing higher costs due to increased consumption of its services, leading to lower margins. This trend is expected to continue as clients rely more on AI agents to clean up data and ask questions. Databricks' unique role in the AI boom, providing data analytics tools and AI agents, sets it apart from rival Snowflake. The company's private market valuation of $134 billion is higher than Snowflake's market cap of $83 billion.",
+      "impact": "The revenue growth is positive for Databricks, but the shrinking margins may lead to a reevaluation of the company's valuation. The increased costs may also impact the company's profitability in the short-term, potentially affecting its earnings outlook. The trend of 'value-maxxing' among companies, which aims to optimize AI usage and curb costs, may also impact Databricks' revenue growth in the medium-term.",
+      "risks": [
+        "shrinking margins risk",
+        "increased costs risk",
+        "revaluation risk due to changing margins"
+      ]
+    }
+  },
+  {
+    "id": "8080453",
+    "headline": "Pope Leo says 'thanks be to God' for interim US-Iran peace deal - Reuters",
+    "summary": "Pope Leo says 'thanks be to God' for interim US-Iran peace deal  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTzFHWUR1RHVWSWxHWmdLeVhybEpRRkEtVW5DTHpIcmx2allHNjBuZWwzZ2EzcG9ibzljcmhrT3pVeEhOdjNJbmtSQmxfbUw5VzNUdG1xSG93YksyakdDQk9ZV0pGYkx2Rkd2VUpCdzBhRUN0V2tnUlkxZFVockRYQU50cDVKWVp1UHBzRFZYU1M3Y1VCUTlobV9PeDI5TlFDem5oUF93?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1781647128,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781651472,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Pope Leo's statement on the interim US-Iran peace deal is a positive development, as it suggests a reduction in geopolitical tensions in the region. The deal is seen as a step towards de-escalation and increased stability, which could have a positive impact on the global economy. This, in turn, may lead to increased investor confidence and a boost to related industries such as defense, energy, and trade. The deal's success is a result of diplomatic efforts between the US and Iran, which may lead to further cooperation and reduced conflict in the region.",
+      "impact": "The news is likely to have a positive impact on defense stocks, particularly those involved in the Middle East region, as reduced tensions may lead to increased demand for their services. Additionally, energy stocks may benefit from increased stability in the region, leading to improved oil production and trade. The deal may also lead to increased investor confidence, driving up stock prices and improving liquidity in the market. In the medium term, the deal could lead to increased trade and economic cooperation between the US and Iran, benefiting industries such as finance and trade.",
+      "risks": [
+        "Potential for deal collapse or renegotiation",
+        "Uncertainty around the deal's long-term implications",
+        "Risk of increased competition in the defense and energy sectors"
+      ]
+    }
+  },
+  {
     "id": "8079608",
     "headline": "Exclusive: Iran deal includes $300 billion fund, more than half of which already committed, source says - Reuters",
     "summary": "Exclusive: Iran deal includes $300 billion fund, more than half of which already committed, source says  Reuters",
@@ -114,7 +160,21 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1781636898
+    "publishedAt": 1781636898,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781651519,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "BMW has lowered its profit outlook due to a downturn in China and the escalating Iran war, which has resulted in higher production costs and reduced demand. The company's sales in China have been affected by the ongoing trade tensions and economic slowdown, while the Iran war has disrupted global supply chains and increased costs. This double whammy has led to a significant decrease in BMW's profit forecast, which is expected to impact the company's stock price. The news is a negative development for the automotive industry, particularly for companies with significant exposure to the Chinese market and global supply chains.",
+      "impact": "The news is expected to have a negative impact on BMW's stock price in the short-term, potentially leading to a decline in valuation. The company's earnings outlook has been revised downward, which may lead to a decrease in investor sentiment. The Iran war and China downturn are expected to have a medium-term impact on the company's profitability, potentially leading to a decline in sales and revenue. The increased costs and reduced demand may also lead to a decrease in liquidity for the company.",
+      "risks": [
+        "China downturn risk",
+        "Iran war risk",
+        "Global supply chain disruption risk",
+        "Decreased investor sentiment risk"
+      ]
+    }
   },
   {
     "id": "8079607",
@@ -170,7 +230,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1781632219
+    "publishedAt": 1781632219,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781651566,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Hezbollah's statement suggests that the presence of Israel in Lebanon could jeopardize the signing of a final nuclear deal between Iran and other world powers. This development has significant implications for the region's geopolitical stability and could potentially lead to increased tensions between Iran and its adversaries. The news is a negative indicator for any company with exposure to the region, particularly those with operations in Lebanon or Iran. The statement from Hezbollah adds to the uncertainty surrounding the nuclear talks and could lead to a re-evaluation of the potential risks and rewards of investing in the region.",
+      "impact": "The news is likely to have a negative impact on stocks related to the region, particularly those with exposure to Lebanon or Iran. The increased tensions and uncertainty could lead to a short-term decline in investor sentiment and a decrease in stock prices. Medium-term, the news could also impact the earnings outlook for companies operating in the region, as well as their valuation and liquidity. The increased geopolitical risks could also lead to a decrease in investor confidence and a subsequent decline in stock prices.",
+      "risks": [
+        "Increased geopolitical tensions and instability in the region",
+        "Uncertainty surrounding the nuclear talks and their potential impact on the region",
+        "Decreased investor confidence and sentiment"
+      ]
+    }
   },
   {
     "id": "8079498",
@@ -250,7 +323,20 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/108321480-1781297227196-gettyimages-2280590450-20090101260612-99-717515.jpeg?v=1781297255&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1781627667
+    "publishedAt": 1781627667,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781651614,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Veteran traders are stunned by the extreme bullish sentiment in SpaceX options, with over $1.4 billion in premium traded, surpassing major index ETFs. This surge is driven by investors betting on massive overnight gains, with calls outnumbering puts by a ratio of 1.5:1. The most popular trades are near-the-money 210-strike calls, which expire Thursday, and cheaper contracts that require an 80% surge in the stock price. This extreme speculation is fueled by Elon Musk's ambitious vision for SpaceX and the company's high implied volatility.",
+      "impact": "The extreme bullish sentiment in SpaceX options is likely to drive up the stock price in the short term, potentially leading to a buying frenzy. However, this may also increase the risk of a short squeeze, where short sellers are forced to cover their positions, further fueling the price increase. In the medium term, the company's earnings outlook and valuation will be under scrutiny, and investors will be watching for any signs of a slowdown in growth or increased competition in the space industry.",
+      "risks": [
+        "valuation risk",
+        "earnings slowdown risk",
+        "regulatory approval risk"
+      ]
+    }
   },
   {
     "id": "8079274",
@@ -1187,29 +1273,6 @@
     "publishedAt": 1781519317
   },
   {
-    "id": "8076550",
-    "headline": "China bonds emerge as surprise haven as Iran war reshapes portfolios - Reuters",
-    "summary": "China bonds emerge as surprise haven as Iran war reshapes portfolios  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMGVJeXVydy16cW1Bak93RU1mZFRoNy1zZnVWS0tIVGRpTEEteUpUUlBOanpFUnlrWV9qSU5mRDcwa0dnVGpQZm9feWIyRmszckFfa1dGYlpyWnh1aHljdmJoaFJuSzJPc0t0WjFobGZOcHBKZkx0TmdMRHhpRG0tQV8zXzUxalZScHJPQjhjMWlSWXVFbzUzQzdRZ3dCWVRUWDdGVURndDZkQkIzSU5aS09tTjhGQ2hq?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781517374,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1781512928,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "China's bond market has emerged as a safe-haven asset class as investors seek refuge from the escalating tensions with Iran. The recent conflict has led to a surge in demand for Chinese bonds, driven by their perceived safety and liquidity. This trend is attributed to the country's economic stability and low inflation rate, making Chinese bonds an attractive alternative to other assets. As a result, the yield on Chinese government bonds has decreased, indicating a decrease in risk aversion. This shift in investor sentiment is expected to continue as the global economic uncertainty persists.",
-      "impact": "The surge in demand for Chinese bonds is likely to have a positive impact on the country's financial markets, particularly for companies with significant exposure to the bond market. In the short term, this may lead to higher bond prices and lower yields, benefiting investors who hold these bonds. In the medium term, the increased demand for Chinese bonds may lead to a decrease in borrowing costs for Chinese companies, potentially boosting economic growth. This, in turn, could have a positive impact on the stock market, particularly for companies with significant exposure to the Chinese economy.",
-      "risks": [
-        "Global economic uncertainty and trade tensions may persist, impacting investor sentiment and demand for Chinese bonds",
-        "A sudden change in investor sentiment or a shift in global economic conditions may lead to a decrease in demand for Chinese bonds",
-        "The Chinese government's economic policies and monetary decisions may impact the bond market and investor confidence"
-      ]
-    }
-  },
-  {
     "id": "8076970",
     "headline": "Global shippers cautious on Hormuz transit despite US-Iran deal - Reuters",
     "summary": "Global shippers cautious on Hormuz transit despite US-Iran deal  Reuters",
@@ -1308,6 +1371,29 @@
         "Implementation risk: The success of the agreement will depend on its effective implementation, which may be challenging given the complex relationships between the two countries.",
         "Economic uncertainty: The agreement may not lead to immediate economic benefits, and its impact may be delayed or uncertain.",
         "Geopolitical risk: The agreement may not be universally accepted, and regional tensions could escalate if other countries or groups object to the deal."
+      ]
+    }
+  },
+  {
+    "id": "8076550",
+    "headline": "China bonds emerge as surprise haven as Iran war reshapes portfolios - Reuters",
+    "summary": "China bonds emerge as surprise haven as Iran war reshapes portfolios  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMGVJeXVydy16cW1Bak93RU1mZFRoNy1zZnVWS0tIVGRpTEEteUpUUlBOanpFUnlrWV9qSU5mRDcwa0dnVGpQZm9feWIyRmszckFfa1dGYlpyWnh1aHljdmJoaFJuSzJPc0t0WjFobGZOcHBKZkx0TmdMRHhpRG0tQV8zXzUxalZScHJPQjhjMWlSWXVFbzUzQzdRZ3dCWVRUWDdGVURndDZkQkIzSU5aS09tTjhGQ2hq?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1781501220,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781512928,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "China's bond market has emerged as a safe-haven asset class as investors seek refuge from the escalating tensions with Iran. The recent conflict has led to a surge in demand for Chinese bonds, driven by their perceived safety and liquidity. This trend is attributed to the country's economic stability and low inflation rate, making Chinese bonds an attractive alternative to other assets. As a result, the yield on Chinese government bonds has decreased, indicating a decrease in risk aversion. This shift in investor sentiment is expected to continue as the global economic uncertainty persists.",
+      "impact": "The surge in demand for Chinese bonds is likely to have a positive impact on the country's financial markets, particularly for companies with significant exposure to the bond market. In the short term, this may lead to higher bond prices and lower yields, benefiting investors who hold these bonds. In the medium term, the increased demand for Chinese bonds may lead to a decrease in borrowing costs for Chinese companies, potentially boosting economic growth. This, in turn, could have a positive impact on the stock market, particularly for companies with significant exposure to the Chinese economy.",
+      "risks": [
+        "Global economic uncertainty and trade tensions may persist, impacting investor sentiment and demand for Chinese bonds",
+        "A sudden change in investor sentiment or a shift in global economic conditions may lead to a decrease in demand for Chinese bonds",
+        "The Chinese government's economic policies and monetary decisions may impact the bond market and investor confidence"
       ]
     }
   },
@@ -21404,52 +21490,6 @@
         "Economic instability risk",
         "Investor sentiment risk",
         "Currency devaluation risk"
-      ]
-    }
-  },
-  {
-    "id": "7974356",
-    "headline": "Bahrain court jails nine for life for collaborating with Iran's Revolutionary Guards - Reuters",
-    "summary": "Bahrain court jails nine for life for collaborating with Iran's Revolutionary Guards  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUEVjRE93LUZZc0g1dEtaUGVHOGZWUDJ5eFBxSkswdGNMcmRZYXI4S1lnNXBaekpZbTVkZXQ5elcwcVhmUTVhQ1N0TmM3VWUwcWhWNlMyN3BKNFlCTTJCcGxncXYzQ21iQ2JMbEl6RUZabTZHNnFIaklVWVp4S1gwV3QtRXBCV0lXckI0eUcwLWUtRkJORDJqZHFteDIwdFdyTVFtZDc4d1VCRmd6Z1pMS3lJWmQwN1E1?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1779622529,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1780192436,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "A Bahraini court has sentenced nine individuals to life in prison for collaborating with Iran's Revolutionary Guards. This development is a significant escalation of tensions between Bahrain and Iran. The incident highlights the ongoing geopolitical risks in the region, particularly for companies with exposure to the Middle East. The Bahraini government's actions may lead to increased security measures and diplomatic tensions, potentially affecting regional economic stability and investor sentiment.",
-      "impact": "This news is likely to have a negative impact on regional stocks, particularly those with exposure to Bahrain or the Middle East. Investors may become more cautious, leading to a decrease in stock prices and reduced liquidity. The increased tensions may also lead to a reevaluation of the earnings outlook for companies operating in the region, particularly those with significant operations or investments in Bahrain.",
-      "risks": [
-        "geopolitical risk",
-        "regional economic instability risk",
-        "investor sentiment risk"
-      ]
-    }
-  },
-  {
-    "id": "7974341",
-    "headline": "Iran has not agreed to hand over highly enriched uranium stockpile, senior Iranian source tells Reuters - Reuters",
-    "summary": "Iran has not agreed to hand over highly enriched uranium stockpile, senior Iranian source tells Reuters  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLTVwdlNITDVXTG5kaEY3VVFfRk9PLXlETVUwRnA5aGl3TFRZS19pR1l1MDdRc3lNMHdWV2M5S1JVdWZzTDJxOGM1aUNmTGVlMVBaTms2WWxtOVRpMDM0UGN6SFhtWTJLd1dEZWFFSEhEMUd4bURCTDJ6M0xDZEdVR1Y5cWRFdkMzX1JVUWx5NE5TVTFCNmF4NWhMZS14djRIUEFJRmtwcC1wUFctRDJSWk1GaG1nQ0kzQWRDMXp5OVhGQTJsM2J2WEpR?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1779620649,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1780192484,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Iran's refusal to hand over its highly enriched uranium stockpile is a significant development in the ongoing nuclear negotiations. This move could escalate tensions between Iran and the international community, potentially leading to increased economic sanctions. The US and other Western countries have imposed sanctions on Iran's nuclear program in the past, and a renewed escalation could negatively impact Iran's economy. The news may also affect the global energy market, particularly oil prices, as Iran is a significant oil producer.",
-      "impact": "The news is likely to have a negative impact on the energy sector, particularly on oil producers, as increased tensions with Iran could lead to supply disruptions and higher oil prices. This could negatively affect the earnings outlook for companies with significant oil production and refining operations. In the short term, investors may become risk-averse, leading to a decrease in stock prices for companies with exposure to the energy sector. In the medium term, the increased uncertainty could lead to a decline in investor sentiment and a decrease in stock prices for companies with ties to Iran or the Middle East region.",
-      "risks": [
-        "sanctions risk",
-        "supply disruption risk",
-        "oil price volatility risk"
       ]
     }
   }
