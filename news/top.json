@@ -1,13 +1,55 @@
 [
   {
+    "id": "8089277",
+    "headline": "Markets are set for a much more hawkish Warsh Fed than expected",
+    "summary": "Fed Chairman Kevin Warsh's tough talk on inflation Wednesday reverberated through financial markets.",
+    "url": "https://www.cnbc.com/2026/06/18/markets-are-set-for-a-much-more-hawkish-warsh-fed-than-expected.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108323802-1781783157198-gettyimages-2282152002-vcg111648900843.jpeg?v=1781783196&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1781803496,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781804952,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Federal Reserve Chairman Kevin Warsh's hawkish comments on inflation have led to a surge in expectations for interest rate hikes, with markets pricing in multiple rate increases over the next few years. This shift in tone from a dovish to a hawkish stance has caused a spike in 2-year Treasury yields and a decline in stock prices. The market had previously expected a more accommodative monetary policy under Warsh, but his comments have dispelled this narrative. The Fed's focus on price stability and inflation fighting is likely to have a negative impact on economic growth and corporate earnings.",
+      "impact": "The potential impact on stocks is bearish in the short term, with a higher probability of rate hikes leading to a decrease in economic growth, corporate earnings, and stock prices. This could lead to a decline in investor sentiment and liquidity, making it more challenging for companies to raise capital. In the medium term, the higher interest rates could lead to a decrease in borrowing costs for companies, but this may be offset by the negative impact on economic growth and corporate earnings.",
+      "risks": [
+        "Higher interest rates risk slowing down economic growth",
+        "Increased borrowing costs for companies",
+        "Decrease in investor sentiment and liquidity"
+      ]
+    }
+  },
+  {
+    "id": "8088104",
+    "headline": "Oil flowing through the strait, says Vance, but Israeli strikes in Lebanon raise doubts over peace - Reuters",
+    "summary": "Oil flowing through the strait, says Vance, but Israeli strikes in Lebanon raise doubts over peace  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQR2xiMDYySHk3ZzFXaHcyR1ZHNDFJQUJVNzF4MTRQcmdmZ1pDUVNyR1Z5N255MjkzSHItckpnalNfRUo5VWpjTDVHSHE3R3kybW1NRGd5NGJKV0prTFA0eUZBd0hVZzlMTTNNcXVWR3JTV1lOMzhwYXVtMEc4N05QVlFCSDlnYnZ5S24zMVdMSjl2M2pTYnc0eDdJUkZhWVlwS0tQaUJjTnJIMTNka1E5dm9RcHprVkkydVo4a3dzUmV3RTg4bE5feDN5dw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1781800660,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781793349,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The Iran nuclear deal has been partially implemented, with the first tankers crossing the Strait of Hormuz. However, Israeli strikes in Lebanon have raised doubts about the deal's stability. The deal's success is crucial for the oil market, as it could lead to increased oil exports from Iran, potentially affecting global oil prices. The situation's uncertainty may impact the oil industry's earnings outlook and valuation.",
+      "impact": "The news may have a mixed impact on oil-related stocks in the short term. On one hand, a successful Iran deal could lead to increased oil exports, potentially benefiting oil producers and transportation companies. On the other hand, the Israeli strikes and resulting uncertainty may lead to increased tensions in the region, potentially impacting oil prices and the earnings outlook for oil-related companies.",
+      "risks": []
+    }
+  },
+  {
     "id": "8088547",
-    "headline": "Accenture forecast takes hit from Iran war, shares tumble 14% - Reuters",
-    "summary": "Accenture forecast takes hit from Iran war, shares tumble 14%  Reuters",
+    "headline": "Accenture forecast takes hit from Iran war, shares tumble over 17% - Reuters",
+    "summary": "Accenture forecast takes hit from Iran war, shares tumble over 17%  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZUtGWWhJdERFTm55bGZRRnJhVzBOa19KMi0xNlVjdFJ0OGF3VUhrSmh5Tk13OTJQQ2p6YUdyU2VQQmVCM0lUTUQ3TnpQSlA4ZHRMWkZQR3czNjVmdXVCTjJqdldHa2N6bWZ6QXBvQTA2TG9hYW9MQVFhbm1uZUFxd0tzaEUtd1pfY0puZExWMkJPaU4xSDVGYTRFRFRXTFh3OWs2MkdvckhiZkFNdUdlaFpSaTNwZDZ5TDF2MzVkYUw0aVY1RTdBNEFR?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1781792674,
+    "publishedAt": 1781800607,
     "analysis": {
       "version": 2,
       "generatedAt": 1781793303,
@@ -23,33 +65,37 @@
     }
   },
   {
-    "id": "8088104",
-    "headline": "First tankers cross strait under Iran deal; Israeli strikes raise doubt in Lebanon - Reuters",
-    "summary": "First tankers cross strait under Iran deal; Israeli strikes raise doubt in Lebanon  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQR2xiMDYySHk3ZzFXaHcyR1ZHNDFJQUJVNzF4MTRQcmdmZ1pDUVNyR1Z5N255MjkzSHItckpnalNfRUo5VWpjTDVHSHE3R3kybW1NRGd5NGJKV0prTFA0eUZBd0hVZzlMTTNNcXVWR3JTV1lOMzhwYXVtMEc4N05QVlFCSDlnYnZ5S24zMVdMSjl2M2pTYnc0eDdJUkZhWVlwS0tQaUJjTnJIMTNka1E5dm9RcHprVkkydVo4a3dzUmV3RTg4bE5feDN5dw?oc=5",
+    "id": "8088210",
+    "headline": "Israel demarcates expanded Lebanon occupation zone, challenging US-Iran pact - Reuters",
+    "summary": "Israel demarcates expanded Lebanon occupation zone, challenging US-Iran pact  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbkdWQjYzX0NOaGtfVGdEdkNrNWhjYmN2V2VfWHJXTm5jWlpueEV6ekFiTHN0Nm1IaHJYMndKdTAyLTZibUtwcmlLbk5HUGhJR2w0ZFkxOHpEaWR3WThRNF80OHg4a1NUa3diajFhNEk3cU1aWV8xSHJNMjRJNjdNa2h6RnJ5RG5LTXFIQXRSVjNZR1FvemoxZzBOdWIydmZtZ3dXNlZKVVFnc0RNWW9QbE5PQWRRYXk2ZHlmRmZrWUZlU1llTjJ6S3ZJd0FYZw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1781791853,
+    "publishedAt": 1781797681,
     "analysis": {
       "version": 2,
-      "generatedAt": 1781793349,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The Iran nuclear deal has been partially implemented, with the first tankers crossing the Strait of Hormuz. However, Israeli strikes in Lebanon have raised doubts about the deal's stability. The deal's success is crucial for the oil market, as it could lead to increased oil exports from Iran, potentially affecting global oil prices. The situation's uncertainty may impact the oil industry's earnings outlook and valuation.",
-      "impact": "The news may have a mixed impact on oil-related stocks in the short term. On one hand, a successful Iran deal could lead to increased oil exports, potentially benefiting oil producers and transportation companies. On the other hand, the Israeli strikes and resulting uncertainty may lead to increased tensions in the region, potentially impacting oil prices and the earnings outlook for oil-related companies.",
-      "risks": []
+      "generatedAt": 1781804998,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Israel's demarcation of an expanded occupation zone in Lebanon is a significant development that challenges the US-Iran pact. The move is likely a response to the recent escalation of tensions in the region. The demarcation of the zone may lead to increased military activities and a heightened sense of uncertainty in the region. This development may have implications for regional stability and security, which could, in turn, impact the business environment in the Middle East.",
+      "impact": "This news may lead to a short-term increase in volatility in the oil and gas sector, as the region's stability is crucial for the flow of energy resources. The medium-term impact may be a decrease in investor sentiment towards companies operating in the region, potentially leading to a decline in stock prices. The increased military activities and uncertainty may also lead to a decrease in economic activity and a slowdown in growth in the region.",
+      "risks": [
+        "Regional instability risk",
+        "Oil price volatility risk",
+        "Decreased investor sentiment risk"
+      ]
     }
   },
   {
     "id": "8087990",
-    "headline": "Wall St advances as Iran deal optimism offsets hawkish Fed; Intel soars - Reuters",
-    "summary": "Wall St advances as Iran deal optimism offsets hawkish Fed; Intel soars  Reuters",
+    "headline": "Wall St advances as Iran deal optimism offsets hawkish Fed; Intel jumps - Reuters",
+    "summary": "Wall St advances as Iran deal optimism offsets hawkish Fed; Intel jumps  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbk9OU3cxZnFJZTJuS2dhU3hka1hTQjc0ay1fMUgzTHl5cnhpb2F1NzUzbEkwTmQ1TzkxWHJscTJKVGRkMEFvdC1ieXJ1RDhWVjRvNERsaHdwUVBROEE4ckpaaUwyY1I0RlJwMVRDWFBSd1BmYkF0OC02UXIxMXFwSFU2RGNpd1hwNG9lN1NqbWVMTlhRUUhkVk5jdHN4MVhfRXpnZkdXYUFiT25WOWVndVktRVBNUHY3WjQ1SkNDeWFNZw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1781791172,
+    "publishedAt": 1781797585,
     "analysis": {
       "version": 2,
       "generatedAt": 1781782902,
@@ -66,13 +112,13 @@
   },
   {
     "id": "8088546",
-    "headline": "Bank of England keeps rates steady as it assesses Iran truce - Reuters",
-    "summary": "Bank of England keeps rates steady as it assesses Iran truce  Reuters",
+    "headline": "Bank of England keeps rates steady as it weighs Iran truce - Reuters",
+    "summary": "Bank of England keeps rates steady as it weighs Iran truce  Reuters",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVlBqTkljUlJidjBRbm5IeVhDa2pWakdxS3M2TElrcnVHYWJmTVhpelN0YklNOGpHVVprV2FTdjZGT2htY3RZLVZWUUhUUGQ5blVDYkpic0FlV3h6R1JseUFDRFdXNzN3UzVCdDNSMkhacWg4clg0OVJ4UkRRZTEtRmtfd3FhZXhPanN6RURDVQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1781788684,
+    "publishedAt": 1781794370,
     "analysis": {
       "version": 2,
       "generatedAt": 1781793395,
@@ -84,6 +130,29 @@
         "escalation of tensions in the Middle East",
         "global economic instability",
         "currency market volatility"
+      ]
+    }
+  },
+  {
+    "id": "8087776",
+    "headline": "Three Saudi-flagged supertankers sail through Hormuz after Iran deal signed, data shows - Reuters",
+    "summary": "Three Saudi-flagged supertankers sail through Hormuz after Iran deal signed, data shows  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOWdZLXp2TVRxbkY3elZISTVjUE15c3EtXy1LM1pCbWlGWDVGUGxOYnlHNlpBTkExeDlpUFRsaERpNHBpNFdhTG81TDdOaVB3NlRTVjVOX3lrZmtGVHZDamFDR3hFS3FsaGw5SElCUGFqaVdKMktUd1FnZ1hzR1ZNS19fRjFHQVY2XzBEc0s2LWR6aHk2OUZGN2dSdEZJMTBtdzdiRTdNOW4zQ1FZRnFSVVVGa1pNSVJUdVkwa3RNckhCMWJGQzlMSExXMjc5WkE?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1781794190,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781782954,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Three Saudi-flagged supertankers sailing through the Strait of Hormuz after an Iran deal suggests a potential easing of tensions in the region, which could positively impact global oil prices. The Strait of Hormuz is a critical waterway for oil exports, and increased tanker traffic may indicate a boost in oil supply and exports. This development is a positive signal for oil-producing countries, particularly those in the Middle East. The news may also have a positive impact on companies involved in the oil and gas industry, such as oil majors and shipping companies.",
+      "impact": "The news is likely to have a positive impact on oil-related stocks in the short-term, as increased oil supply and exports could lead to lower oil prices. This, in turn, could boost earnings for oil producers and refiners. In the medium-term, the news may also have a positive impact on shipping companies, as increased tanker traffic could lead to higher demand for their services. However, the impact on oil prices and the overall market will depend on various factors, including global demand and OPEC's response to the increased supply.",
+      "risks": [
+        "OPEC's response to the increased supply and potential impact on oil prices",
+        "Global demand for oil and its impact on oil prices",
+        "Potential for increased tensions in the region to escalate again"
       ]
     }
   },
@@ -134,35 +203,25 @@
     }
   },
   {
-    "id": "8088210",
-    "headline": "Israel issues new Lebanon occupation map, in talks with US over deployment - Reuters",
-    "summary": "Israel issues new Lebanon occupation map, in talks with US over deployment  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbkdWQjYzX0NOaGtfVGdEdkNrNWhjYmN2V2VfWHJXTm5jWlpueEV6ekFiTHN0Nm1IaHJYMndKdTAyLTZibUtwcmlLbk5HUGhJR2w0ZFkxOHpEaWR3WThRNF80OHg4a1NUa3diajFhNEk3cU1aWV8xSHJNMjRJNjdNa2h6RnJ5RG5LTXFIQXRSVjNZR1FvemoxZzBOdWIydmZtZ3dXNlZKVVFnc0RNWW9QbE5PQWRRYXk2ZHlmRmZrWUZlU1llTjJ6S3ZJd0FYZw?oc=5",
+    "id": "8088659",
+    "headline": "Iran peace not stopping central banks from raising borrowing costs - Reuters",
+    "summary": "Iran peace not stopping central banks from raising borrowing costs  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRzJQOGlfLXVoX0cwdFcxT3dGaTZTT1VLR25aZHY1aTBkOHNsdEJXQjF4OG5sRFJRZENDTzVtbF91bkwzdmJGNW4tWXkxaURZSDN6VGxpNnVXbmRSNG40dE4zU0lZZ2VuQ3pIRGVDRzY5Um15T3drd1BvUXBlQ0JjTHQ4RFJwU3FSckQyMzlvRE1mTUlKR284NHR2YjdBeENCdTVDZmgtSUNXMF9RYWZQdjJhdmdNR00?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1781785664
-  },
-  {
-    "id": "8087776",
-    "headline": "Three Saudi-flagged supertankers sail through Hormuz after Iran deal signed, data shows - Reuters",
-    "summary": "Three Saudi-flagged supertankers sail through Hormuz after Iran deal signed, data shows  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOWdZLXp2TVRxbkY3elZISTVjUE15c3EtXy1LM1pCbWlGWDVGUGxOYnlHNlpBTkExeDlpUFRsaERpNHBpNFdhTG81TDdOaVB3NlRTVjVOX3lrZmtGVHZDamFDR3hFS3FsaGw5SElCUGFqaVdKMktUd1FnZ1hzR1ZNS19fRjFHQVY2XzBEc0s2LWR6aHk2OUZGN2dSdEZJMTBtdzdiRTdNOW4zQ1FZRnFSVVVGa1pNSVJUdVkwa3RNckhCMWJGQzlMSExXMjc5WkE?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781784891,
+    "publishedAt": 1781787163,
     "analysis": {
       "version": 2,
-      "generatedAt": 1781782954,
-      "sentiment": "bullish",
+      "generatedAt": 1781805042,
+      "sentiment": "bearish",
       "confidence": 0.8,
-      "summary": "Three Saudi-flagged supertankers sailing through the Strait of Hormuz after an Iran deal suggests a potential easing of tensions in the region, which could positively impact global oil prices. The Strait of Hormuz is a critical waterway for oil exports, and increased tanker traffic may indicate a boost in oil supply and exports. This development is a positive signal for oil-producing countries, particularly those in the Middle East. The news may also have a positive impact on companies involved in the oil and gas industry, such as oil majors and shipping companies.",
-      "impact": "The news is likely to have a positive impact on oil-related stocks in the short-term, as increased oil supply and exports could lead to lower oil prices. This, in turn, could boost earnings for oil producers and refiners. In the medium-term, the news may also have a positive impact on shipping companies, as increased tanker traffic could lead to higher demand for their services. However, the impact on oil prices and the overall market will depend on various factors, including global demand and OPEC's response to the increased supply.",
+      "summary": "Iran's peace deal is not affecting central banks' decisions to raise borrowing costs, as inflation remains a top priority. Central banks are focusing on controlling inflation, which is still high in many countries. This decision is driven by the need to maintain economic stability and prevent overheating. The news is a reminder that central banks are prioritizing inflation control over economic growth.",
+      "impact": "This news may have a negative impact on stocks of companies with high debt levels, as higher borrowing costs will increase their interest expenses. The increased borrowing costs may also lead to a decrease in consumer spending and economic growth, which could negatively affect companies in the retail and consumer goods sectors. In the short-term, this may lead to a decrease in stock prices of companies that are sensitive to interest rates and economic growth.",
       "risks": [
-        "OPEC's response to the increased supply and potential impact on oil prices",
-        "Global demand for oil and its impact on oil prices",
-        "Potential for increased tensions in the region to escalate again"
+        "higher interest rates risk",
+        "economic slowdown risk",
+        "debt crisis risk"
       ]
     }
   },
@@ -174,7 +233,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1781783752
+    "publishedAt": 1781783752,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781805089,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The US Department of Justice (DOJ) is investigating US banks over transactions tied to Iran's supreme leader, according to a report by Bloomberg News. The investigation is likely a response to recent sanctions imposed by the US on Iran's supreme leader and his inner circle. This development may lead to increased scrutiny of US banks' compliance with sanctions and potentially result in fines or penalties. US banks have a history of facing regulatory issues, which can impact their earnings and valuation.",
+      "impact": "The investigation may lead to a short-term decline in US bank stocks as investors worry about potential fines or penalties. Medium-term, the increased scrutiny may result in higher compliance costs for US banks, potentially affecting their profitability and earnings outlook. The investigation may also lead to a decline in sentiment towards US banks, making it more challenging for them to access capital markets. Additionally, the investigation may have a broader impact on the US financial sector, potentially affecting the overall market sentiment and liquidity.",
+      "risks": [
+        "Regulatory risk",
+        "Compliance risk",
+        "Earnings risk"
+      ]
+    }
   },
   {
     "id": "8088092",
@@ -231,7 +303,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1781777531
+    "publishedAt": 1781777531,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781805136,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The reopening of the Hormuz Strait is expected to release a wave of oil supply onto the market, which will likely lead to a decrease in oil prices. This development comes as a result of the easing of tensions in the region, allowing for increased shipping and trade. The Hormuz Strait is a critical waterway for oil exports, and any disruption to it can significantly impact global oil supplies. As a result, the increased supply will put downward pressure on oil prices, which could benefit consumers and energy-intensive industries, but negatively impact oil producers and related companies.",
+      "impact": "The potential impact on oil-related stocks is bearish in the short term, as lower oil prices could lead to decreased revenue and profitability for companies such as ExxonMobil (XOM) and Chevron (CVX). In the medium term, the increased supply could also lead to a decrease in oil prices, making it less attractive for exploration and production companies to invest in new projects, potentially impacting companies like Schlumberger (SLB) and Halliburton (HAL).",
+      "risks": [
+        "Decreased revenue and profitability for oil producers",
+        "Impact on oil prices may be short-lived if demand increases",
+        "Increased supply could lead to oversaturation of the market"
+      ]
+    }
   },
   {
     "id": "8088209",
@@ -242,6 +327,25 @@
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
     "publishedAt": 1781772484
+  },
+  {
+    "id": "8079608",
+    "headline": "Iran deal includes $300 billion fund, more than half of which already committed, source says - Reuters",
+    "summary": "Iran deal includes $300 billion fund, more than half of which already committed, source says  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWUQ2ODdpWjF3UzYxRTVRUi1hMkZRMEw3S3pDR0VWSzY5bjVWeE1TXzJZUUp1SWQ4QXFjVUJBNzRDcFp2cnJoMVBSQU45Vkp6YjdDanJLMlNiVFRTMm1KNnhlLWkxOXFLQUJmeTJkOThzTmlQMlpuVHlybW9SMnczd2lIWXJBcHI4Uk94R2RwUVg5aHJxR1ptNGppUVRSV1pneUp3WkN1elRrN1FSd0EwZ05kZDVEMTRpX0VGeHFwOVlvTmV3b3c?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1781767926,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781645749,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Iran has agreed to a $300 billion fund, with more than half of the amount already committed. This deal is part of a larger agreement aimed at reviving the 2015 nuclear deal. The fund is expected to provide a significant boost to Iran's economy, which has been struggling due to US sanctions. The deal also includes commitments from other countries, indicating a shift in global politics and economic diplomacy.",
+      "impact": "The news is likely to have a positive impact on the energy sector, particularly companies involved in oil and gas production. The increased economic activity in Iran is expected to drive up demand for energy resources, leading to higher prices and revenue for these companies. This could also lead to an increase in M&A activity as companies look to capitalize on the new opportunities in the region. However, the deal also increases the risk of increased competition and volatility in the energy market.",
+      "risks": []
+    }
   },
   {
     "id": "8087335",
@@ -301,8 +405,8 @@
   },
   {
     "id": "8086501",
-    "headline": "Stocks slip as Fed rate outlook offsets optimism over Iran deal - Reuters",
-    "summary": "Stocks slip as Fed rate outlook offsets optimism over Iran deal  Reuters",
+    "headline": "Stocks rise as oil falls on optimism over Iran deal - Reuters",
+    "summary": "Stocks rise as oil falls on optimism over Iran deal  Reuters",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQWc5blRuNGVXLWNEeGRWUHBJTi1tNG1oR2wzR3R0RXY1dWdVS3JVMmRRSlI0NEgwZUpVNTNLdUphd1Q4OGpXSmtSc0lwVmNONzFpYWZFVG05OFQ4Y1JtaVAyN0lCblhSVEUwZ2RDTUx4eTFzWl9SR1NVT1RvTGxwSTg0dw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -324,8 +428,8 @@
   },
   {
     "id": "8086295",
-    "headline": "Oil falls to lowest since start of Iran war after ceasefire deal signed - Reuters",
-    "summary": "Oil falls to lowest since start of Iran war after ceasefire deal signed  Reuters",
+    "headline": "Oil touches pre-Iran war lows after ceasefire deal - Reuters",
+    "summary": "Oil touches pre-Iran war lows after ceasefire deal  Reuters",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZU5Zdm80MlhXLVFYajFEdy1GcU9zNGNaa2FvM2ExTmZkZXJieS10V1ZjQ3NqTndMcG1hT1hpb0FGYTN5M1ZMY2VFRG9QNDZkVGhxVEJTcUVpakJGQWNtODJYOTJpSFJOM0hwN01DT21ZaUxKN2FBa2czX3ZFUHlTMXpuUnZpa1dNOFUtOXFFaUx1LTJwN1E?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1431,25 +1535,6 @@
         "Uncertainty around the timing and magnitude of the oil price decline",
         "Risk of a rebound in oil prices if producers quickly reverse course and reduce output"
       ]
-    }
-  },
-  {
-    "id": "8079608",
-    "headline": "Exclusive: Iran deal includes $300 billion fund, more than half of which already committed, source says - Reuters",
-    "summary": "Exclusive: Iran deal includes $300 billion fund, more than half of which already committed, source says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWUQ2ODdpWjF3UzYxRTVRUi1hMkZRMEw3S3pDR0VWSzY5bjVWeE1TXzJZUUp1SWQ4QXFjVUJBNzRDcFp2cnJoMVBSQU45Vkp6YjdDanJLMlNiVFRTMm1KNnhlLWkxOXFLQUJmeTJkOThzTmlQMlpuVHlybW9SMnczd2lIWXJBcHI4Uk94R2RwUVg5aHJxR1ptNGppUVRSV1pneUp3WkN1elRrN1FSd0EwZ05kZDVEMTRpX0VGeHFwOVlvTmV3b3c?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781632680,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1781645749,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Iran has agreed to a $300 billion fund, with more than half of the amount already committed. This deal is part of a larger agreement aimed at reviving the 2015 nuclear deal. The fund is expected to provide a significant boost to Iran's economy, which has been struggling due to US sanctions. The deal also includes commitments from other countries, indicating a shift in global politics and economic diplomacy.",
-      "impact": "The news is likely to have a positive impact on the energy sector, particularly companies involved in oil and gas production. The increased economic activity in Iran is expected to drive up demand for energy resources, leading to higher prices and revenue for these companies. This could also lead to an increase in M&A activity as companies look to capitalize on the new opportunities in the region. However, the deal also increases the risk of increased competition and volatility in the energy market.",
-      "risks": []
     }
   },
   {
@@ -21133,52 +21218,6 @@
         "economic growth slowdown risk",
         "currency volatility risk",
         "inflation risk"
-      ]
-    }
-  },
-  {
-    "id": "7977487",
-    "headline": "US military strikes Iranian boats, missile launch sites: CENTCOM - Reuters",
-    "summary": "US military strikes Iranian boats, missile launch sites: CENTCOM  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMGFjWmVLMi1XMzNha00yYVM2RFZWbHhxQlZZVFY2M0xsdk1ZOFRXWERfUlpYM0RyNGtEYW1HbVZHTGhNaWIxZ2ZUV1JZRHpsUFE2cmpEZjBnVVpqQk9rMGxwaTdnaGNYMGJFVUl2Y3lZWE01N2FIQVd3cEZBc2NsNmo5WjJURlpJMTRkUlhILW5fX25LTi1peFA0akozZlZocE5FMGRYUENQdDZzR0xKVTJzMUttQ1ZPeTd6a195WmhkTU0?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1779784310,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1779761003,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "US military strikes on Iranian boats and missile launch sites have heightened tensions between the US and Iran, increasing the risk of a broader conflict. The US Central Command (CENTCOM) confirmed the strikes, which were reportedly in response to a series of provocative Iranian actions. The incident has sparked concerns about the potential for a destabilization of the region and the impact on global oil markets. The US has been increasing its military presence in the region, and the situation is likely to continue to escalate.",
-      "impact": "The news is likely to have a bearish impact on oil-related stocks, particularly those with exposure to the Middle East region. Companies such as ExxonMobil (XOM) and Chevron (CVX) may see their stock prices decline as investors become risk-averse and sell off energy stocks. The medium-term impact may also be felt by defense contractors such as Lockheed Martin (LMT) and Boeing (BA), as the US military presence in the region is likely to increase, leading to higher demand for their products. The situation may also lead to a strengthening of the US dollar, which could negatively impact multinational companies with significant international exposure.",
-      "risks": [
-        "Escalation of conflict in the Middle East",
-        "Increased military spending and defense sector growth",
-        "Potential oil price volatility and impact on energy stocks"
-      ]
-    }
-  },
-  {
-    "id": "7979671",
-    "headline": "Iran executes man for intelligence cooperation with Israel, news agency says - Reuters",
-    "summary": "Iran executes man for intelligence cooperation with Israel, news agency says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQzh4VFh4ZzlvbkxIV2w0UkVVMFBneGFFNzBfS2hYeHlRM0lzaE5BZlQ4dzhiM0RxdXAxSFcwYWhUVnlJaVVmQVN4S1FMUHltTjJjQkp0c0pVcTNmaGxJRTZBVG1FSUJCSFhjQWZMMXZXeWRuTHdwaTBBTkpaNEFQSTd1MVktLV9GUWhNTFNCV1FOdmZuRDVMS2VaTS1WMllHWmxnN0l1TUNpc1F5SHhacWFSYkxnT3FEU0VRQVNpY2prYzQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1779783972,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1779830619,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Iran has executed a man for allegedly cooperating with Israel, as reported by Reuters. This event is a domestic matter for Iran, with no direct implications on the global economy or specific industries. The news may have a minor impact on regional geopolitics, but it is not expected to significantly affect the business fundamentals of companies. The execution is a demonstration of Iran's stance on national security and its willingness to enforce laws related to espionage.",
-      "impact": "The news is unlikely to have a direct impact on the stock market in the short term. However, it may lead to increased tensions in the Middle East, potentially affecting oil prices and the energy sector. Companies with exposure to the region, such as oil majors or defense contractors, may experience some volatility in the medium term as investors reassess their risk exposure.",
-      "risks": [
-        "Increased geopolitical tensions in the Middle East",
-        "Potential impact on oil prices and the energy sector",
-        "Volatility in defense stocks"
       ]
     }
   }
