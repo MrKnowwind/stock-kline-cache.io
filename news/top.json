@@ -168,7 +168,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1781916919,
+    "publishedAt": 1781917386,
     "analysis": {
       "version": 2,
       "generatedAt": 1781935834,
@@ -345,6 +345,29 @@
     }
   },
   {
+    "id": "8091889",
+    "headline": "Shares ease as investors ponder US-Iran peace talks; yen nears 40-year lows - Reuters",
+    "summary": "Shares ease as investors ponder US-Iran peace talks; yen nears 40-year lows  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZGh0dzZrMVhwME55Z1FPXzBZRjQ3LTVFS2xaLS1hMlNRUUNWN1A0Wk1qVXVKYlRhNEY3X2lMZVVKWnF5UHMxWU5yUkhJdmhBODZFNnFDYXFYYXRkT25nQ1FTRWZIY00xTFRaX2t3TjcwOGxUV05LQTdBVVplSEFpeGN4VQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1781879308,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781900685,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "US-Iran peace talks have led to a decline in global market sentiment, causing shares to ease. The yen has reached 40-year lows, potentially affecting the Japanese economy. The peace talks may lead to a decrease in tensions between the US and Iran, which could positively impact the global oil market. However, the outcome of the talks is uncertain, and investors are cautious. The Japanese yen's depreciation may lead to higher import costs for Japan, affecting the country's economy.",
+      "impact": "The decline in global market sentiment may lead to a short-term decrease in oil prices, positively impacting oil-related stocks. In the medium term, a decrease in tensions between the US and Iran may lead to increased investor confidence in the global market. The depreciation of the yen may have a negative impact on Japanese companies with high import costs, potentially affecting their earnings outlook and valuation. The uncertainty surrounding the outcome of the peace talks may lead to increased volatility in the market.",
+      "risks": [
+        "uncertainty surrounding the outcome of the US-Iran peace talks",
+        "potential increase in global market volatility",
+        "negative impact on Japanese companies with high import costs"
+      ]
+    }
+  },
+  {
     "id": "8093464",
     "headline": "29-year-old making $250k in tech went 'undercover' at a coffee chain before opening her own matcha cafe",
     "summary": "Michelle Yeung wasn't happy in tech, despite earning $250,000 a year. Before opening Matcha House, she spent months learning the business.",
@@ -384,29 +407,6 @@
       "summary": "Israel and Hezbollah have agreed to a ceasefire starting on Friday, according to a U.S. official. This development comes after a recent escalation in tensions between the two parties. The ceasefire is expected to ease the geopolitical tensions in the region, which have been a concern for investors. The agreement is a positive step towards de-escalation, but its sustainability and effectiveness remain uncertain. The ceasefire is expected to have a positive impact on the regional economy, which has been affected by the conflict.",
       "impact": "The ceasefire is likely to have a positive impact on the Israeli defense industry, as a reduction in conflict would reduce the demand for military equipment and services. This could lead to a decrease in earnings for companies such as Elbit Systems (ESLT) and Israel Aerospace Industries (ARSPF). However, in the long term, a more stable region could lead to increased investment and economic growth, benefiting companies such as Bank Hapoalim (BKHYY) and Teva Pharmaceutical Industries (TEVA).",
       "risks": []
-    }
-  },
-  {
-    "id": "8091889",
-    "headline": "Shares ease as investors ponder US-Iran peace talks; yen nears 40-year lows - Reuters",
-    "summary": "Shares ease as investors ponder US-Iran peace talks; yen nears 40-year lows  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZGh0dzZrMVhwME55Z1FPXzBZRjQ3LTVFS2xaLS1hMlNRUUNWN1A0Wk1qVXVKYlRhNEY3X2lMZVVKWnF5UHMxWU5yUkhJdmhBODZFNnFDYXFYYXRkT25nQ1FTRWZIY00xTFRaX2t3TjcwOGxUV05LQTdBVVplSEFpeGN4VQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781875021,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1781900685,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "US-Iran peace talks have led to a decline in global market sentiment, causing shares to ease. The yen has reached 40-year lows, potentially affecting the Japanese economy. The peace talks may lead to a decrease in tensions between the US and Iran, which could positively impact the global oil market. However, the outcome of the talks is uncertain, and investors are cautious. The Japanese yen's depreciation may lead to higher import costs for Japan, affecting the country's economy.",
-      "impact": "The decline in global market sentiment may lead to a short-term decrease in oil prices, positively impacting oil-related stocks. In the medium term, a decrease in tensions between the US and Iran may lead to increased investor confidence in the global market. The depreciation of the yen may have a negative impact on Japanese companies with high import costs, potentially affecting their earnings outlook and valuation. The uncertainty surrounding the outcome of the peace talks may lead to increased volatility in the market.",
-      "risks": [
-        "uncertainty surrounding the outcome of the US-Iran peace talks",
-        "potential increase in global market volatility",
-        "negative impact on Japanese companies with high import costs"
-      ]
     }
   },
   {
@@ -910,6 +910,25 @@
         "decline in investor sentiment risk",
         "earnings decline risk"
       ]
+    }
+  },
+  {
+    "id": "8088104",
+    "headline": "US vice president cancels trip for peace talks with Iran - Reuters",
+    "summary": "US vice president cancels trip for peace talks with Iran  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQR2xiMDYySHk3ZzFXaHcyR1ZHNDFJQUJVNzF4MTRQcmdmZ1pDUVNyR1Z5N255MjkzSHItckpnalNfRUo5VWpjTDVHSHE3R3kybW1NRGd5NGJKV0prTFA0eUZBd0hVZzlMTTNNcXVWR3JTV1lOMzhwYXVtMEc4N05QVlFCSDlnYnZ5S24zMVdMSjl2M2pTYnc0eDdJUkZhWVlwS0tQaUJjTnJIMTNka1E5dm9RcHprVkkydVo4a3dzUmV3RTg4bE5feDN5dw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1781825430,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781793349,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The Iran nuclear deal has been partially implemented, with the first tankers crossing the Strait of Hormuz. However, Israeli strikes in Lebanon have raised doubts about the deal's stability. The deal's success is crucial for the oil market, as it could lead to increased oil exports from Iran, potentially affecting global oil prices. The situation's uncertainty may impact the oil industry's earnings outlook and valuation.",
+      "impact": "The news may have a mixed impact on oil-related stocks in the short term. On one hand, a successful Iran deal could lead to increased oil exports, potentially benefiting oil producers and transportation companies. On the other hand, the Israeli strikes and resulting uncertainty may lead to increased tensions in the region, potentially impacting oil prices and the earnings outlook for oil-related companies.",
+      "risks": []
     }
   },
   {
@@ -1683,25 +1702,6 @@
         "Competition from other space companies and the risk of market saturation",
         "Valuation risk: SpaceX's high valuation may make it difficult to sustain growth and maintain investor confidence"
       ]
-    }
-  },
-  {
-    "id": "8088104",
-    "headline": "US vice president cancels trip for peace talks with Iran - Reuters",
-    "summary": "US vice president cancels trip for peace talks with Iran  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQR2xiMDYySHk3ZzFXaHcyR1ZHNDFJQUJVNzF4MTRQcmdmZ1pDUVNyR1Z5N255MjkzSHItckpnalNfRUo5VWpjTDVHSHE3R3kybW1NRGd5NGJKV0prTFA0eUZBd0hVZzlMTTNNcXVWR3JTV1lOMzhwYXVtMEc4N05QVlFCSDlnYnZ5S24zMVdMSjl2M2pTYnc0eDdJUkZhWVlwS0tQaUJjTnJIMTNka1E5dm9RcHprVkkydVo4a3dzUmV3RTg4bE5feDN5dw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781781180,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1781793349,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The Iran nuclear deal has been partially implemented, with the first tankers crossing the Strait of Hormuz. However, Israeli strikes in Lebanon have raised doubts about the deal's stability. The deal's success is crucial for the oil market, as it could lead to increased oil exports from Iran, potentially affecting global oil prices. The situation's uncertainty may impact the oil industry's earnings outlook and valuation.",
-      "impact": "The news may have a mixed impact on oil-related stocks in the short term. On one hand, a successful Iran deal could lead to increased oil exports, potentially benefiting oil producers and transportation companies. On the other hand, the Israeli strikes and resulting uncertainty may lead to increased tensions in the region, potentially impacting oil prices and the earnings outlook for oil-related companies.",
-      "risks": []
     }
   },
   {
@@ -3868,7 +3868,20 @@
     "source": "Bloomberg",
     "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
     "relatedSymbols": [],
-    "publishedAt": 1781598520
+    "publishedAt": 1781598520,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781992472,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Biocon's goal to become the world's top insulin supplier is driven by the growing demand for the critical drug, as major pharmaceutical companies shift their focus to other medicines. This shift creates an opportunity for Biocon to capture market share and increase its insulin sales. The company's co-founder, Kiran Mazumdar-Shaw, has expressed confidence in Biocon's ability to achieve this goal within the next five years. Biocon's existing expertise in biologics and its established partnerships with global pharmaceutical companies will be crucial in executing this strategy.",
+      "impact": "The news is likely to have a positive impact on Biocon's stock price, as investors anticipate increased revenue and earnings growth driven by the company's expanding insulin business. This could lead to a revaluation of the company's shares, making them more attractive to investors. The medium-term outlook for Biocon's stock is also positive, as the company's market share gains in the insulin market are expected to drive growth and profitability.",
+      "risks": [
+        "regulatory approval risk",
+        "supply chain disruption risk",
+        "intense competition from established players"
+      ]
+    }
   },
   {
     "id": "8082310",
@@ -4016,7 +4029,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1781582460
+    "publishedAt": 1781582460,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781992520,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "G7 leaders expressed optimism for peace after a 'very good' meeting between US President Trump and Ukrainian President Zelenskiy. This development suggests a potential easing of tensions between the US and Ukraine, which could lead to improved relations between the two countries. The meeting marks a positive step towards resolving the ongoing conflict in eastern Ukraine. This news is likely to have a positive impact on Ukrainian stocks, particularly those related to the country's economy and infrastructure. The improved relations could also lead to increased investment and trade between the two countries.",
+      "impact": "The positive sentiment surrounding the meeting could lead to a short-term increase in Ukrainian stocks, particularly those related to the country's economy and infrastructure. This could be driven by improved investor sentiment and increased confidence in the country's economic prospects. In the medium term, improved relations between the US and Ukraine could lead to increased investment and trade, driving economic growth and potentially boosting earnings for Ukrainian companies. This could also lead to a re-rating of Ukrainian stocks, as investors become more optimistic about the country's growth prospects.",
+      "risks": [
+        "Potential for a reversal of sentiment if tensions between the US and Ukraine escalate again",
+        "Uncertainty around the effectiveness of the meeting in resolving the conflict in eastern Ukraine",
+        "Risk of increased competition from other countries in the region, potentially leading to decreased investment and trade"
+      ]
+    }
   },
   {
     "id": "8077506",
@@ -4026,7 +4052,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1781580960
+    "publishedAt": 1781580960,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781992565,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Pakistan is planning to issue more global bonds, which could help the country's budget. This move is partly driven by the recent agreement with Iran, which is expected to bring in significant revenue. The agreement will increase Pakistan's foreign exchange earnings, reducing the country's reliance on the International Monetary Fund (IMF). The government aims to issue bonds to take advantage of the improved economic outlook.",
+      "impact": "The news is likely to have a positive impact on Pakistan's economy and its related stocks. The increased foreign exchange earnings and reduced reliance on the IMF could lead to an improvement in the country's budget and potentially boost investor sentiment. This, in turn, could lead to a short-term increase in the stock prices of Pakistani companies, particularly those in the banking and financial sectors. The medium-term impact could be a reduction in the country's debt burden and an improvement in its credit rating.",
+      "risks": [
+        "Market volatility risk",
+        "Dependence on external factors risk",
+        "Fiscal discipline risk"
+      ]
+    }
   },
   {
     "id": "8077309",
@@ -4036,7 +4075,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1781579729
+    "publishedAt": 1781579729,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781992611,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Iranian Americans gathered to watch the World Cup opener between Iran and England, with some waving protest flags and others cheering for their team. The event took place in the US, where there is a significant Iranian-American community. The protest flags were likely a response to the ongoing tensions between the US and Iran, which have been heightened in recent years. The event highlights the complex and diverse views within the Iranian-American community. The World Cup is a major international sporting event that brings people together, but it also serves as a backdrop for political expression and protest.",
+      "impact": "The news is unlikely to have a significant impact on the stock market or related stocks in the short term. However, it may contribute to a negative sentiment towards companies with exposure to the Middle East or Iran, potentially affecting their stock prices in the medium term. Investors may be cautious about companies with significant operations or investments in the region due to the ongoing tensions and potential for future conflicts.",
+      "risks": [
+        "geopolitical risk",
+        "regional instability risk",
+        "negative sentiment risk"
+      ]
+    }
   },
   {
     "id": "8077315",
@@ -4046,7 +4098,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1781579160
+    "publishedAt": 1781579160,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781992658,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Iran drew with New Zealand in a World Cup soccer match in Los Angeles, a politically charged encounter that highlighted tensions between the two countries. The match was played amidst heightened diplomatic tensions following recent developments in the region. The draw was a result of a late equalizer by Iran, which came after New Zealand took an early lead. The match was seen as a symbol of the complex relationship between the two nations, with both teams' fans and players showing strong emotions throughout the game. The event is unlikely to have a direct impact on the business fundamentals of any publicly traded companies.",
+      "impact": "The news is unlikely to have a significant impact on the stocks of companies involved in the sports industry, such as sports equipment manufacturers or sports media companies. However, the event may have a short-term impact on the sentiment of investors with exposure to companies with operations in the Middle East or with ties to the region. In the medium term, the news may lead to increased scrutiny of companies with business ties to Iran, potentially affecting their valuation and liquidity.",
+      "risks": [
+        "Increased geopolitical tensions between Iran and New Zealand, potentially affecting business operations and investor sentiment",
+        "Potential for further diplomatic fallout between the two countries, impacting business relationships and trade",
+        "Increased regulatory scrutiny of companies with ties to Iran"
+      ]
+    }
   },
   {
     "id": "8078077",
