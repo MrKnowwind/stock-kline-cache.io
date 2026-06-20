@@ -1,13 +1,36 @@
 [
   {
+    "id": "8098414",
+    "headline": "The budget airline model in the U.S. is running out of runway",
+    "summary": "Spirit's bankruptcy as United and Delta fly high suggests there's more to success in airline industry than low fares, and failure isn't about jet fuel spikes.",
+    "url": "https://www.cnbc.com/2026/06/20/cheap-airline-fares-summer-travel.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108324518-1781967006230-gettyimages-2261780378-250417_AveloProtest__TRB6637.jpeg?v=1781967137&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1781967499,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781969150,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The demise of Spirit Airlines signals a potential shift in the US airline industry, where low-cost carriers may no longer be viable due to rising costs and changing consumer behavior. Delta and United Airlines' strong results show that premium ticket sales are driving revenue growth, while economy ticket sales are declining. This trend is attributed to consumers prioritizing price over loyalty programs, and airlines needing scale to compete. The industry's focus is shifting towards higher-margin lines like premium cabins and cargo.",
+      "impact": "The news is likely to have a negative impact on low-cost carriers like Frontier, as well as other budget airlines, as consumers may be forced to pay higher prices for flights. This could lead to a decline in earnings for these companies, making them less attractive to investors. The shift towards premium ticket sales may also lead to increased competition for these airlines, making it harder for them to compete with established carriers like Delta and United. In the short-term, this could lead to a decline in stock prices for these companies, while in the medium-term, it may lead to a re-evaluation of their business models and potential consolidation in the industry.",
+      "risks": [
+        "Decline in earnings for low-cost carriers",
+        "Increased competition from established carriers",
+        "Potential consolidation in the industry"
+      ]
+    }
+  },
+  {
     "id": "8097912",
-    "headline": "Israeli strikes kill 10 in Lebanon hours after ceasefire - Reuters",
-    "summary": "Israeli strikes kill 10 in Lebanon hours after ceasefire  Reuters",
+    "headline": "Israeli strikes kill 16 in Lebanon hours after ceasefire - Reuters",
+    "summary": "Israeli strikes kill 16 in Lebanon hours after ceasefire  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbVUyY2ZiaHlmMU01WFZDX2M5c2Y3d3JWekJWMWZTbF9iR3d4UVdDR3ItSWEwSmE1M2taaG5GX2gzbTFZN3V0cUJXV1RzXzZXQ2ZmNWx1emtiVlk0Y3ZCLWQ4cVB3VFpYUmlZZUF1WmFfaUdmY1Ywa2d6MlBLakdUX0hKVzgwQWwzWVpNOXQ5TkhCYzhSVGZlSlJIc3Z6VHF1UndYd2JiMkR0T290dTVZXy1heVlwREF0Vm5z?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1781933280,
+    "publishedAt": 1781964639,
     "analysis": {
       "version": 2,
       "generatedAt": 1781961321,
@@ -19,6 +42,52 @@
         "Increased military spending risk",
         "Decline in tourism and trade risk",
         "Decreased investor confidence risk"
+      ]
+    }
+  },
+  {
+    "id": "8098113",
+    "headline": "Iran closes Strait of Hormuz over ceasefire violations - MEHR - Reuters",
+    "summary": "Iran closes Strait of Hormuz over ceasefire violations - MEHR  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaTEyTUU2Snk2NzBhWmZCcV9JMzlEV0hRbjNTU282RU5wV3FvNElISFk2ek5SaXU3YXJXR3l1ZFF2RGpsMElnTkpMUmc3Y084NldTRndXWGdLWDJuT05wd0JkY3VtSUxKdFZMLXdJYmVMZXROV2NOczE3b0pWNEZpaEN1UU1teHZyWmotTjdtNmU2RHRlVmtkMzNoZUN5aGpFZHhnRVRnanVxYkRtSnVz?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1781961943,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781969202,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Iran's closure of the Strait of Hormuz in response to ceasefire violations has significant implications for global oil markets. The strait is a critical waterway for oil exports from the Middle East, with approximately 20% of the world's oil passing through it. This move is likely a retaliatory measure by Iran in response to recent ceasefire violations by other parties. The closure could lead to a shortage of oil supplies, potentially driving up oil prices and impacting companies involved in the energy sector.",
+      "impact": "The closure of the Strait of Hormuz could lead to short-term price volatility in the energy sector, with oil prices potentially increasing by 5-10% in the coming days. This could negatively impact the earnings outlook for companies with significant exposure to the oil industry, such as oil majors and energy services providers. In the medium term, the situation could lead to increased investment in alternative energy sources, benefiting companies in the renewable energy sector.",
+      "risks": [
+        "Oil price volatility risk",
+        "Supply chain disruption risk",
+        "Increased competition from renewable energy sources risk"
+      ]
+    }
+  },
+  {
+    "id": "8098214",
+    "headline": "Switzerland says US-Iran talks continue at Bürgenstock, declines to identify participants - Reuters",
+    "summary": "Switzerland says US-Iran talks continue at Bürgenstock, declines to identify participants  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRDVvaUdiWWJuc1RxSXoxbnpGSXRFVVZJOHZmOU5CVWtEM3FUcVNLN0RkdHYtLTBndXNXU1RtbklqZUxUaW55LUR4dk1qRHlXXzZyRHgzM3JleV95Q0ZJN2ZmaTBsWkhmSlZPaDFtRmV2dmNzUWFrTG9mNFFNVjhadU9WVWstTTZNeVZjY3NkTWFoN0V5X3JGb1pybVVGb1NZaHMtNElLZklFV2h0a3l4VUpFalBDN1Vk?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1781955948,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781969256,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The Swiss government has confirmed that US-Iran talks are ongoing at Bürgenstock, but declined to disclose the identities of the participants. This development suggests that diplomatic efforts to ease tensions between the US and Iran are continuing. The talks are taking place in a private setting, which may indicate a desire for secrecy and flexibility in the negotiations. The Swiss government's decision to keep the identities of the participants under wraps may be an attempt to avoid drawing attention and pressure from external parties. The Bürgenstock resort is a secluded location, which could facilitate open and candid discussions between the US and Iranian delegations.",
+      "impact": "The news is unlikely to have a direct impact on the stock market in the short term, as the details of the talks remain unclear. However, a potential breakthrough in US-Iran relations could have positive implications for the global economy and energy markets, particularly if a deal is reached to revive the 2015 nuclear deal. This could lead to increased investor confidence and a subsequent boost to stocks in the energy and industrials sectors. In the medium term, a successful outcome could also lead to increased trade and economic cooperation between the US and Iran, potentially benefiting companies with exposure to the region.",
+      "risks": [
+        "geopolitical risk",
+        "diplomatic failure risk",
+        "economic sanctions risk"
       ]
     }
   },
@@ -47,8 +116,8 @@
   },
   {
     "id": "8096601",
-    "headline": "Israeli strikes kill 10 in Lebanon after truce, with prospect of U.S.-Iran talks unclear - Reuters",
-    "summary": "Israeli strikes kill 10 in Lebanon after truce, with prospect of U.S.-Iran talks unclear  Reuters",
+    "headline": "Vance expects Iran talks soon, as Guards say Hormuz is closed again - Reuters",
+    "summary": "Vance expects Iran talks soon, as Guards say Hormuz is closed again  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMmZyRmRQdUo5dlpLWnZaTEVkV2JBOXpMS2hNTEg1LVN6YzN2VjNlMXZkNXlNdVY4bWhaMG0wd1JtVWtmV1BNbXk5UjNHODNLT3ZJZUNfcmFZSmVvWkRfQ2J2eHNoZGRiWUpwbGZBT04zbjBILVZoV21rUC1VU2pWeENyaDJNRGMtY2otYWV5eG1fdjc3RFhFNmNCQzkyTWJLRVhVbjhFZWhfQQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -134,30 +203,6 @@
         "Regulatory scrutiny risk",
         "Increased litigation costs risk",
         "Earnings outlook risk"
-      ]
-    }
-  },
-  {
-    "id": "8092519",
-    "headline": "Israel, Hezbollah agree to ceasefire in Lebanon, U.S. official says - Reuters",
-    "summary": "Israel, Hezbollah agree to ceasefire in Lebanon, U.S. official says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMDU0b09vektQdnBEbFN3LXFOMjFUQk0ybEdGV3EyZnpibE13akNnNzVVVHZjRkZIX1ZjYjBUM0ZHTTNSdTVWWTJPTGpGQkJhMndMWDFqYnQ2Zjg2eEVPWm41Q0otVmhvRHZTOUo1MEx5Zi0zd3JINUZXb25fVFBONHJhUHNoT3VPTWxlYWFfVDlwY0htS0FfMnpBWkIwSWoxNm9HTFZieGF0RmtsMjRmZQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781897256,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1781864498,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Tensions between the US and Iran have escalated as hostilities in Lebanon have raised concerns about the stability of the region. This development is likely to weigh on the US-Iran nuclear deal, which has been a major point of contention between the two nations. The situation in Lebanon is a significant concern for the region, with the potential for further instability and conflict. The US-Iran deal has been a key focus for investors, with many companies relying on the deal for stability in the region.",
-      "impact": "The escalation of hostilities in Lebanon is likely to have a negative impact on the US-Iran deal, which could lead to increased tensions between the two nations. This could result in a decline in investor confidence, leading to a decrease in stock prices for companies that rely on the deal for stability in the region. The medium-term impact could be a reduction in earnings for companies that operate in the region, as well as a decrease in liquidity due to increased uncertainty.",
-      "risks": [
-        "Regional instability risk",
-        "Decreased investor confidence risk",
-        "Earnings decline risk",
-        "Liquidity risk"
       ]
     }
   },
@@ -250,6 +295,29 @@
         "geopolitical risks in the Middle East",
         "security risks associated with transporting oil through Syria",
         "potential disruptions to export routes due to conflict or other factors"
+      ]
+    }
+  },
+  {
+    "id": "8091889",
+    "headline": "Shares ease as investors ponder US-Iran peace talks; yen nears 40-year lows - Reuters",
+    "summary": "Shares ease as investors ponder US-Iran peace talks; yen nears 40-year lows  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZGh0dzZrMVhwME55Z1FPXzBZRjQ3LTVFS2xaLS1hMlNRUUNWN1A0Wk1qVXVKYlRhNEY3X2lMZVVKWnF5UHMxWU5yUkhJdmhBODZFNnFDYXFYYXRkT25nQ1FTRWZIY00xTFRaX2t3TjcwOGxUV05LQTdBVVplSEFpeGN4VQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1781879308,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781900685,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "US-Iran peace talks have led to a decline in global market sentiment, causing shares to ease. The yen has reached 40-year lows, potentially affecting the Japanese economy. The peace talks may lead to a decrease in tensions between the US and Iran, which could positively impact the global oil market. However, the outcome of the talks is uncertain, and investors are cautious. The Japanese yen's depreciation may lead to higher import costs for Japan, affecting the country's economy.",
+      "impact": "The decline in global market sentiment may lead to a short-term decrease in oil prices, positively impacting oil-related stocks. In the medium term, a decrease in tensions between the US and Iran may lead to increased investor confidence in the global market. The depreciation of the yen may have a negative impact on Japanese companies with high import costs, potentially affecting their earnings outlook and valuation. The uncertainty surrounding the outcome of the peace talks may lead to increased volatility in the market.",
+      "risks": [
+        "uncertainty surrounding the outcome of the US-Iran peace talks",
+        "potential increase in global market volatility",
+        "negative impact on Japanese companies with high import costs"
       ]
     }
   },
@@ -568,6 +636,30 @@
     }
   },
   {
+    "id": "8092519",
+    "headline": "Israel, Hezbollah agree to ceasefire in Lebanon, U.S. official says - Reuters",
+    "summary": "Israel, Hezbollah agree to ceasefire in Lebanon, U.S. official says  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMDU0b09vektQdnBEbFN3LXFOMjFUQk0ybEdGV3EyZnpibE13akNnNzVVVHZjRkZIX1ZjYjBUM0ZHTTNSdTVWWTJPTGpGQkJhMndMWDFqYnQ2Zjg2eEVPWm41Q0otVmhvRHZTOUo1MEx5Zi0zd3JINUZXb25fVFBONHJhUHNoT3VPTWxlYWFfVDlwY0htS0FfMnpBWkIwSWoxNm9HTFZieGF0RmtsMjRmZQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1781849400,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781864498,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Tensions between the US and Iran have escalated as hostilities in Lebanon have raised concerns about the stability of the region. This development is likely to weigh on the US-Iran nuclear deal, which has been a major point of contention between the two nations. The situation in Lebanon is a significant concern for the region, with the potential for further instability and conflict. The US-Iran deal has been a key focus for investors, with many companies relying on the deal for stability in the region.",
+      "impact": "The escalation of hostilities in Lebanon is likely to have a negative impact on the US-Iran deal, which could lead to increased tensions between the two nations. This could result in a decline in investor confidence, leading to a decrease in stock prices for companies that rely on the deal for stability in the region. The medium-term impact could be a reduction in earnings for companies that operate in the region, as well as a decrease in liquidity due to increased uncertainty.",
+      "risks": [
+        "Regional instability risk",
+        "Decreased investor confidence risk",
+        "Earnings decline risk",
+        "Liquidity risk"
+      ]
+    }
+  },
+  {
     "id": "8093040",
     "headline": "ECB’s Wunsch keeps July hike in play even as Iran deal eases energy prices - Reuters",
     "summary": "ECB’s Wunsch keeps July hike in play even as Iran deal eases energy prices  Reuters",
@@ -729,29 +821,6 @@
     }
   },
   {
-    "id": "8091889",
-    "headline": "Shares ease as investors ponder US-Iran peace talks; yen nears 40-year lows - Reuters",
-    "summary": "Shares ease as investors ponder US-Iran peace talks; yen nears 40-year lows  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZGh0dzZrMVhwME55Z1FPXzBZRjQ3LTVFS2xaLS1hMlNRUUNWN1A0Wk1qVXVKYlRhNEY3X2lMZVVKWnF5UHMxWU5yUkhJdmhBODZFNnFDYXFYYXRkT25nQ1FTRWZIY00xTFRaX2t3TjcwOGxUV05LQTdBVVplSEFpeGN4VQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781836080,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1781900685,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "US-Iran peace talks have led to a decline in global market sentiment, causing shares to ease. The yen has reached 40-year lows, potentially affecting the Japanese economy. The peace talks may lead to a decrease in tensions between the US and Iran, which could positively impact the global oil market. However, the outcome of the talks is uncertain, and investors are cautious. The Japanese yen's depreciation may lead to higher import costs for Japan, affecting the country's economy.",
-      "impact": "The decline in global market sentiment may lead to a short-term decrease in oil prices, positively impacting oil-related stocks. In the medium term, a decrease in tensions between the US and Iran may lead to increased investor confidence in the global market. The depreciation of the yen may have a negative impact on Japanese companies with high import costs, potentially affecting their earnings outlook and valuation. The uncertainty surrounding the outcome of the peace talks may lead to increased volatility in the market.",
-      "risks": [
-        "uncertainty surrounding the outcome of the US-Iran peace talks",
-        "potential increase in global market volatility",
-        "negative impact on Japanese companies with high import costs"
-      ]
-    }
-  },
-  {
     "id": "8091681",
     "headline": "Brent set for 8% weekly fall as Israel, Hezbollah agree ceasefire - Reuters",
     "summary": "Brent set for 8% weekly fall as Israel, Hezbollah agree ceasefire  Reuters",
@@ -771,6 +840,29 @@
         "supply glut risk",
         "decline in investor sentiment risk",
         "earnings decline risk"
+      ]
+    }
+  },
+  {
+    "id": "8090240",
+    "headline": "How Trump's deal with Iran compares to Obama's - Reuters",
+    "summary": "How Trump's deal with Iran compares to Obama's  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbV9DV1p2OVVQRlVSYmRFYWxGd0lfcFFYamp1M1pGRVluaDB5Y2QyMVhKSERSVW9GM0ROOUNRUk1UVXpIaThfYnFvcHowazdUMWxkVWZSWEVaeUJvQUowTlR2SUJuMGdBUFZMeVdXVDJOT0xydWZoNUY0WUxPeWFadUdvbkZWZkhPTXVVTjdQNGZLNDdmOG9iellKYw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1781828743,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781828200,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The article compares the Iran nuclear deal negotiated by Trump to the one negotiated by Obama. The Trump deal, also known as the Joint Comprehensive Plan of Action (JCPOA), was signed in 2015 and lifted sanctions on Iran in exchange for restrictions on its nuclear program. The Obama deal was a 15-year agreement that limited Iran's nuclear activities and allowed for inspections. The article notes that the Trump deal was a 10-year agreement with no sunset clause, but was withdrawn by Trump in 2018. The current deal, negotiated by Biden, is a modified version of the Obama deal with some key differences. The article does not provide a clear assessment of the implications of these differences.",
+      "impact": "The potential impact on related stocks is neutral, as the article does not provide any specific information about the implications of the deal on the energy or defense sectors. However, the deal may have a positive impact on oil prices in the short-term, as the easing of sanctions could lead to increased oil production and exports from Iran. This could benefit companies involved in the oil and gas industry, such as ExxonMobil and Chevron. In the medium-term, the deal may also lead to increased trade and economic cooperation between the US and Iran, which could have a positive impact on companies with exposure to the Iranian market, such as Boeing and General Electric.",
+      "risks": [
+        "sanctions risk",
+        "economic instability risk in Iran",
+        "potential for renewed US-Iran tensions"
       ]
     }
   },
@@ -996,29 +1088,6 @@
         "reputational risk for companies operating in the region",
         "regulatory scrutiny and potential fines",
         "economic instability in Lebanon and the Middle East"
-      ]
-    }
-  },
-  {
-    "id": "8090240",
-    "headline": "How Trump's deal with Iran compares to Obama's - Reuters",
-    "summary": "How Trump's deal with Iran compares to Obama's  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbV9DV1p2OVVQRlVSYmRFYWxGd0lfcFFYamp1M1pGRVluaDB5Y2QyMVhKSERSVW9GM0ROOUNRUk1UVXpIaThfYnFvcHowazdUMWxkVWZSWEVaeUJvQUowTlR2SUJuMGdBUFZMeVdXVDJOT0xydWZoNUY0WUxPeWFadUdvbkZWZkhPTXVVTjdQNGZLNDdmOG9iellKYw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781806740,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1781828200,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The article compares the Iran nuclear deal negotiated by Trump to the one negotiated by Obama. The Trump deal, also known as the Joint Comprehensive Plan of Action (JCPOA), was signed in 2015 and lifted sanctions on Iran in exchange for restrictions on its nuclear program. The Obama deal was a 15-year agreement that limited Iran's nuclear activities and allowed for inspections. The article notes that the Trump deal was a 10-year agreement with no sunset clause, but was withdrawn by Trump in 2018. The current deal, negotiated by Biden, is a modified version of the Obama deal with some key differences. The article does not provide a clear assessment of the implications of these differences.",
-      "impact": "The potential impact on related stocks is neutral, as the article does not provide any specific information about the implications of the deal on the energy or defense sectors. However, the deal may have a positive impact on oil prices in the short-term, as the easing of sanctions could lead to increased oil production and exports from Iran. This could benefit companies involved in the oil and gas industry, such as ExxonMobil and Chevron. In the medium-term, the deal may also lead to increased trade and economic cooperation between the US and Iran, which could have a positive impact on companies with exposure to the Iranian market, such as Boeing and General Electric.",
-      "risks": [
-        "sanctions risk",
-        "economic instability risk in Iran",
-        "potential for renewed US-Iran tensions"
       ]
     }
   },
@@ -3316,7 +3385,20 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/107130270-1665062045729-gettyimages-1195409503-6w1a1965.jpeg?v=1752085622&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1781623494
+    "publishedAt": 1781623494,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781969305,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Novig, a sports prediction market company, has received CFTC approval to operate as a federally regulated prediction market focused on sports. This move is part of a larger trend of companies seeking to capitalize on the growing sports prediction market, which is expected to be fueled by a packed sports calendar and midterm elections. Novig's platform allows users to trade directly against each other, cutting out the middleman and rendering sportsbooks obsolete. The company has raised $105 million in funding and has seen significant volume, with over $5 billion in cumulative trades.",
+      "impact": "The approval of Novig's DCM application is a positive development for the company, which could lead to increased trading volume and revenue. The growing competition in the sports prediction market may also drive innovation and further adoption, benefiting companies like Novig. However, the crowded field may also lead to increased competition for market share, potentially putting pressure on earnings and valuation. In the short-term, the news may contribute to a positive sentiment shift towards Novig and other sports prediction market companies.",
+      "risks": [
+        "regulatory risk: the CFTC may impose additional regulations or restrictions on Novig's operations",
+        "competition risk: the crowded field may lead to increased competition for market share",
+        "valuation risk: the company's valuation may be affected by the growing competition and market dynamics"
+      ]
+    }
   },
   {
     "id": "8078860",
@@ -3326,7 +3408,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1781622904
+    "publishedAt": 1781622904,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781969358,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "US President Trump stated that a memo clearly indicates Iran will not develop a nuclear weapon, contradicting previous concerns about the country's nuclear program. This announcement comes as a surprise to the market, as it alleviates concerns about a potential escalation of tensions in the Middle East. The news is a positive development for the global economy, as it reduces the risk of a conflict in the region. The statement is likely to be welcomed by investors and could lead to a shift in sentiment towards stocks related to the energy and defense sectors.",
+      "impact": "The news is likely to have a positive impact on energy stocks, particularly those with exposure to the Middle East region. Companies such as ExxonMobil and Chevron may see an increase in investor confidence, leading to a rise in their stock prices. The defense sector may also benefit, as the reduced risk of conflict could lead to increased demand for defense-related products and services. However, the impact may be short-term, as the news is likely to be digested by the market and priced in over the coming days.",
+      "risks": [
+        "Potential for further escalation of tensions in the Middle East",
+        "Uncertainty around the content of the memo and its implications",
+        "Risk of a shift in US foreign policy under a new administration"
+      ]
+    }
   },
   {
     "id": "8076438",
@@ -21412,75 +21507,6 @@
         "Escalation of US-Iran conflict risk",
         "Disruption to global oil supplies risk",
         "Weakening rupee risk"
-      ]
-    }
-  },
-  {
-    "id": "7987444",
-    "headline": "India rice exports decline as Iran war curbs basmati shipments to Gulf - Reuters",
-    "summary": "India rice exports decline as Iran war curbs basmati shipments to Gulf  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMnBNN2laRjJBRC1CR2kwTmZyam5CeVpIUjljYXB4Z1NEREtlWDVRSElxZG9vaWMxTVJNVjl5ZlBOS09UWVAtN3I4em9pZ0U1TTRWYWxoLU5NQUJIaVJwdWhZZC0tRDA5OEdLTXpDYjdFTnVXb1d1VkxsRENScFNiQUlUSEhlelJOalNCWlJsSFBUc1dJaV82R2JNdlczb29nb2w0S05KczhiQ21xRVY2aHRB?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1779876566,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1779961566,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "India's rice exports have declined due to the ongoing war in Iran, which has curbed basmati shipments to the Gulf region. Basmati rice is a significant export commodity for India, and the decline in exports is expected to impact the country's rice industry. The war in Iran has disrupted trade routes and led to a decrease in demand for Indian basmati rice in the region. This development is likely to affect the earnings of Indian rice exporters and the overall rice industry in the country.",
-      "impact": "The decline in rice exports is expected to have a negative impact on the earnings of Indian rice exporters, particularly those that rely heavily on basmati rice shipments to the Gulf region. This could lead to a decline in their stock prices in the short term as investors reassess their valuation multiples. In the medium term, the decline in exports could also impact the overall rice industry in India, potentially leading to a decrease in production and further affecting the earnings of rice exporters. The decline in demand for basmati rice in the Gulf region could also have a negative impact on the Indian rupee, potentially leading to a decline in the currency's value.",
-      "risks": [
-        "decline in demand risk",
-        "supply chain disruption risk",
-        "currency devaluation risk"
-      ]
-    }
-  },
-  {
-    "id": "7984081",
-    "headline": "Taiwan chip stocks climb after Nvidia announces $150 billion spending plans",
-    "summary": "Mainland China-based chip giants such as Cambricon saw their shares tumble on Wednesday.",
-    "url": "https://www.cnbc.com/2026/05/27/nvidia-taiwan-investment-150-billion-spending.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108312317-1779864357054-052726_Constellation_All_Employee_Celebration_2_3.JPG?v=1779864999&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1779874874,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1779923120,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Nvidia CEO Jensen Huang announced plans to increase annual spending in Taiwan to $150 billion, a tenfold increase from previous levels, to support the growth of artificial intelligence (AI) powered by hardware. This investment will lead to the construction of a new office complex in northern Taipei that can accommodate 4,000 employees. The move is part of Nvidia's strategy to expand its presence in Taiwan, which has seen a surge in revenue from the region, up over 50% from a year ago. Nvidia's AI infrastructure investment in the US is also expected to reach $125 billion over four years. The investment comes as Nvidia faces growing regulatory hurdles in selling to the mainland Chinese market, where revenue has halved.",
-      "impact": "The news is likely to have a positive impact on Taiwan's Taiex stock index, which has already climbed 1.7% to a record close. Taiwanese chip manufacturing giants such as TSMC, MediaTek, and Delta Electronics are also expected to benefit from the increased spending, with shares of these companies rising 1.3%, 8.8%, and 7.2% respectively. Nvidia's increased presence in Taiwan and its growing reliance on the region for revenue may also lead to a reevaluation of the company's earnings outlook, potentially driving up its stock price. The increased spending may also lead to increased liquidity and sentiment in the Taiwanese market.",
-      "risks": [
-        "Regulatory approval risk in the US and Taiwan",
-        "Integration risk of expanding operations in Taiwan",
-        "Dependence on Taiwan for revenue and supply chain risk"
-      ]
-    }
-  },
-  {
-    "id": "7984082",
-    "headline": "Treasury yields fall as investors remain optimistic on Iran peace deal prospects despite U.S. strikes",
-    "summary": "The yield on the 10-year U.S. Treasury note — the key benchmark for U.S. government borrowing — fell more than 2 basis points to 4.465%.",
-    "url": "https://www.cnbc.com/2026/05/27/treasury-yields-investor-optimism-ceasefire-prospects-rise.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108235248-1764691437169-gettyimages-2249564340-anotherday155733818_bvc8mgvu.jpeg?v=1764691476&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1779874287,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1779923183,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Treasury yields fell as investors remain optimistic about a potential Iran peace deal, despite US strikes on Iranian targets. The 10-year US Treasury note yield dropped 2 basis points to 4.465%, while the 2-year yield fell over a basis point to 4.035%. The decline in yields suggests that investors are pricing in a lower risk premium, anticipating a potential easing of tensions and a positive impact on the global economy. This optimism is also reflected in the decline in oil prices, with Brent crude futures falling 5.31% and US West Texas Intermediate crude futures losing 5.55%.",
-      "impact": "The decline in Treasury yields is likely to have a positive impact on stocks, particularly those sensitive to interest rates and macroeconomic conditions. Banks and financials may benefit from the lower yields, as they would reduce their borrowing costs and potentially increase their net interest income. Additionally, the optimism around the Iran peace deal and the subsequent decline in oil prices may boost consumer confidence and spending, benefiting retailers and other consumer-facing companies. However, the short-term impact may be muted due to the uncertainty surrounding the Iran situation and the upcoming inflation data release.",
-      "risks": [
-        "Inflation risk: a higher-than-expected inflation reading could lead to a reversal in Treasury yields and a negative impact on stocks",
-        "Geopolitical risk: the situation with Iran remains volatile, and any escalation could lead to a significant increase in oil prices and a negative impact on the global economy",
-        "Interest rate risk: the Federal Reserve's preferred inflation metric, the personal consumption expenditures price index, is due to be released on Thursday, and a higher reading could lead to a hike in interest rates and a negative impact on stocks"
       ]
     }
   }
