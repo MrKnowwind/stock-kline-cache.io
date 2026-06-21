@@ -133,7 +133,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1782044986
+    "publishedAt": 1782044986,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782061902,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "A no-fly zone imposed by Swiss authorities disrupted flights at Zurich airport due to Iran talks, causing inconvenience to travelers. The disruption is not related to any security concerns but rather a precautionary measure to ensure the safety of the talks. The talks between Iran and other world powers are ongoing to discuss the nuclear deal. The incident is an isolated event and does not have any direct impact on the global economy or the airline industry. The disruption is expected to be resolved once the no-fly zone is lifted.",
+      "impact": "The disruption is unlikely to have a significant impact on the airline industry or the stocks of companies operating at Zurich airport in the short term. However, it may lead to a slight increase in travel costs and delays for passengers, potentially affecting the earnings outlook of airlines operating in the region. In the medium term, the incident may lead to a review of airport security protocols and potentially impact the stocks of companies operating at Zurich airport, such as Swissport or Zurich Airport International.",
+      "risks": [
+        "air travel disruptions risk",
+        "regional security concerns risk",
+        "airport security protocols review risk"
+      ]
+    }
   },
   {
     "id": "8102538",
@@ -143,7 +156,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1782040783
+    "publishedAt": 1782040783,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782061949,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Iran's Tasnim news agency reports that the Hormuz Strait, a critical oil shipping route, will remain closed until a ceasefire in Lebanon is established and oil waivers are issued. This development is a significant escalation of tensions in the region, which could lead to a prolonged disruption in global oil supply. The closure of the Hormuz Strait would have a major impact on oil prices, potentially leading to a surge in crude oil prices. This, in turn, could have a positive impact on the earnings of oil-producing companies, but a negative impact on the earnings of oil-consuming companies and those with exposure to higher oil prices.",
+      "impact": "The potential closure of the Hormuz Strait could lead to a short-term surge in oil prices, benefiting oil-producing companies such as Saudi Aramco and National Iranian Oil Company. However, this could also lead to a negative impact on the earnings of oil-consuming companies such as airlines, shipping companies, and companies with high energy costs. In the medium term, the prolonged disruption in global oil supply could lead to a re-evaluation of the global energy landscape, potentially benefiting companies with exposure to alternative energy sources such as renewable energy companies.",
+      "risks": [
+        "Oil price volatility risk",
+        "Global economic slowdown risk due to higher energy costs",
+        "Supply chain disruption risk"
+      ]
+    }
   },
   {
     "id": "8101528",
@@ -212,8 +238,8 @@
   },
   {
     "id": "8100727",
-    "headline": "Vance, Iranians in Switzerland for first talks, overshadowed by closure of Strait - Reuters",
-    "summary": "Vance, Iranians in Switzerland for first talks, overshadowed by closure of Strait  Reuters",
+    "headline": "Trump threatens Iran with fresh strikes as Vance attends talks in Switzerland - Reuters",
+    "summary": "Trump threatens Iran with fresh strikes as Vance attends talks in Switzerland  Reuters",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd3B1UzBaM0FMeEpSTFF5N3J3NXFHanp0a0VKUlprczNXWVJCa0VmSUZxY1ZqYkNPdHBrVml3clJUZzdpck1DY3djZHR6ZTFMeU5HdHVTaTJPMV81Q0VJY1E3TWZyU2RlM0ZVZDJKZ2RERnRETURQRmM4MElPajdMV3VzNW4tUEVVWDZlWG1QTGU5dHVTX2NXdjd5UHd2blpVeW5QNE91cnRnYy1vN25BRTA0RjdzMTZ4X2lQd01JdmM2SnVD?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -295,6 +321,29 @@
         "Escalation of tensions in the region",
         "Potential for supply chain disruptions",
         "Uncertainty around US foreign policy"
+      ]
+    }
+  },
+  {
+    "id": "8103351",
+    "headline": "Big tech stock buybacks vanish as AI spending spree eats up cash",
+    "summary": "Big tech's stock buybacks decline as companies prioritize AI investments, shifting from capital-light to capital-intensive strategies.",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-18/big-tech-s-ai-spending-spree-is-making-stock-buybacks-disappear",
+    "source": "Bloomberg",
+    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+    "relatedSymbols": [],
+    "publishedAt": 1781970349,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782061994,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Big tech companies are shifting their capital allocation priorities from stock buybacks to AI investments, driven by the increasing importance of artificial intelligence in their business models. This trend is expected to continue as companies prioritize capital-intensive AI spending over capital-light stock buybacks. The decline in stock buybacks may lead to reduced demand for shares, potentially weighing on stock prices. The shift in capital allocation strategy is a response to the growing need for AI capabilities in the tech industry.",
+      "impact": "The decline in stock buybacks may lead to reduced stock prices in the short term as investors reassess their expectations for buyback-driven returns. In the medium term, the increased focus on AI investments could lead to improved earnings growth and valuation multiples for companies that successfully implement AI strategies. However, the shift in capital allocation may also lead to increased volatility and liquidity risks in the short term as investors adjust to the new priorities.",
+      "risks": [
+        "increased volatility risk",
+        "liquidity risk",
+        "valuation multiple risk"
       ]
     }
   },
@@ -645,29 +694,6 @@
     }
   },
   {
-    "id": "8093669",
-    "headline": "For US Vice President JD Vance, Iran talks could shape political rise - Reuters",
-    "summary": "For US Vice President JD Vance, Iran talks could shape political rise  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQWlnWFI3SUZDeUtiRU9JdURpYTJhMkM0Qzdzay01VGNKbFBXRDdNZURuX2h4TFNrdGVhYlF0QVcxaHY0cG5FNTIxSVRpVG9yOENHbnF1M2ZJRkpYb01kdUg5YWlhRHljMXhBcll5d2xNLTVaQXZQZDh2LWZhcU9TREVLYnl5MDUtdVQtdVlqOUQyQQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781887563,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1781886553,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "US presidential candidate Tim Ryan's potential rise in the polls could be influenced by the Iran nuclear talks. The talks, if successful, could lead to a more stable Middle East, which could positively impact US foreign policy and Ryan's stance on the issue. Ryan has been a vocal critic of the US withdrawal from the Iran nuclear deal. A successful deal could bolster his credibility on foreign policy and potentially boost his campaign.",
-      "impact": "The news is unlikely to have a direct impact on the US stock market in the short term. However, a successful Iran deal could lead to increased investor confidence in the US economy, potentially boosting the overall market. In the medium term, a more stable Middle East could also positively impact US defense contractors and energy companies, as they would face reduced uncertainty and potential for conflict. This could lead to increased earnings and stock prices for these companies.",
-      "risks": [
-        "Uncertainty surrounding the outcome of the Iran talks",
-        "Potential backlash from conservative voters if Ryan is seen as too soft on Iran",
-        "Economic sanctions on Iran could still be imposed, potentially derailing the deal"
-      ]
-    }
-  },
-  {
     "id": "8095598",
     "headline": "Iraq to export crude, naphtha through Syria after Hormuz shock - Reuters",
     "summary": "Iraq to export crude, naphtha through Syria after Hormuz shock  Reuters",
@@ -710,6 +736,29 @@
         "Increased competition from new matcha cafe entrants",
         "Potential decline in demand for traditional coffee drinks",
         "High startup costs and financial risks for new businesses"
+      ]
+    }
+  },
+  {
+    "id": "8093669",
+    "headline": "For US Vice President JD Vance, Iran talks could shape political rise - Reuters",
+    "summary": "For US Vice President JD Vance, Iran talks could shape political rise  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQWlnWFI3SUZDeUtiRU9JdURpYTJhMkM0Qzdzay01VGNKbFBXRDdNZURuX2h4TFNrdGVhYlF0QVcxaHY0cG5FNTIxSVRpVG9yOENHbnF1M2ZJRkpYb01kdUg5YWlhRHljMXhBcll5d2xNLTVaQXZQZDh2LWZhcU9TREVLYnl5MDUtdVQtdVlqOUQyQQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1781876820,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781886553,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "US presidential candidate Tim Ryan's potential rise in the polls could be influenced by the Iran nuclear talks. The talks, if successful, could lead to a more stable Middle East, which could positively impact US foreign policy and Ryan's stance on the issue. Ryan has been a vocal critic of the US withdrawal from the Iran nuclear deal. A successful deal could bolster his credibility on foreign policy and potentially boost his campaign.",
+      "impact": "The news is unlikely to have a direct impact on the US stock market in the short term. However, a successful Iran deal could lead to increased investor confidence in the US economy, potentially boosting the overall market. In the medium term, a more stable Middle East could also positively impact US defense contractors and energy companies, as they would face reduced uncertainty and potential for conflict. This could lead to increased earnings and stock prices for these companies.",
+      "risks": [
+        "Uncertainty surrounding the outcome of the Iran talks",
+        "Potential backlash from conservative voters if Ryan is seen as too soft on Iran",
+        "Economic sanctions on Iran could still be imposed, potentially derailing the deal"
       ]
     }
   },
@@ -4969,7 +5018,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1781535082
+    "publishedAt": 1781535082,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782062041,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "US Secretary of State Antony Blinken's statement that funds will not be transferred to Iran in exchange for signing a deal to halt the war is a positive development for the global economy and markets. This news reduces the risk of escalation and potential economic sanctions, which could have negatively impacted US and global companies with exposure to Iran. The statement is a step towards de-escalation and a more stable Middle East, which could lead to increased investor confidence and economic growth. The US government's stance on Iran has been a key driver of market volatility in recent months, and this news may help to alleviate some of that uncertainty.",
+      "impact": "This news is likely to have a positive impact on US and global companies with exposure to Iran, such as those in the energy and defense sectors. The reduction in risk of escalation and potential economic sanctions may lead to increased investor confidence and economic growth, which could drive up stock prices in the short to medium term. The news may also have a positive impact on companies with significant international operations, as a more stable Middle East could lead to increased trade and economic activity.",
+      "risks": [
+        "escalation risk",
+        "sanctions risk",
+        "geopolitical uncertainty"
+      ]
+    }
   },
   {
     "id": "8077339",
@@ -21876,29 +21938,6 @@
         "Increased security costs for oil tankers and shipping companies",
         "Disruptions to oil supplies and potential price volatility",
         "Escalation of regional tensions and potential conflict"
-      ]
-    }
-  },
-  {
-    "id": "7985198",
-    "headline": "'Greetings after 88 days': Iranians reconnect after long internet shutdown - Reuters",
-    "summary": "'Greetings after 88 days': Iranians reconnect after long internet shutdown  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZDh6MDBWTjJVR0x2SkthXzBlbXZHcEc5c0RpbjNDc0JWTjdzS3M3dHFXdnhfSDNjb1pnMTlrbUowMW1BVUQxdndoRGJJQklSYTNxNno2QWdwcGtudWpFdVJDYURzRmNURDVJNXJXSm9CeUhhZGR5UXRIX2syeWZTVmo0OTJZeDYzbGNEb2pZR1lNX3l4WmxJWkZtRU9kNElIc1l6bmFRZnZHaUxLTExwZnN4ZV9SdFBlN3BSQ1RnQzJDeVE?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1779903861,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1779903999,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Iran has lifted its 88-day internet shutdown, allowing Iranians to reconnect to the global internet. The shutdown was imposed in response to widespread protests and unrest in the country. The move is seen as a significant step towards normalizing the country's internet access. The lifting of the shutdown is expected to have a positive impact on the lives of millions of Iranians, particularly those in the technology and e-commerce sectors. The Iranian government's decision to restore internet access may also have implications for the country's economy and its relations with the international community.",
-      "impact": "The lifting of the internet shutdown is likely to have a positive impact on the Iranian economy, particularly in the short-term. This is because the shutdown had severely impacted the country's e-commerce and technology sectors, and the restoration of internet access will allow these sectors to recover. In the medium-term, the improved internet access may also boost Iran's economic growth and attract foreign investment. However, the impact of the shutdown's lifting on the country's economy and its relations with the international community will depend on various factors, including the government's policies and the response of the international community.",
-      "risks": [
-        "economy slowdown risk",
-        "regulatory risk",
-        "macroeconomic instability risk"
       ]
     }
   }
