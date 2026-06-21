@@ -1,5 +1,28 @@
 [
   {
+    "id": "8103856",
+    "headline": "The AI trade has left the hyperscalers in the dust. What will it take for that to change?",
+    "summary": "In his Sunday column for Investing Club subscribers, Jim Cramer examines the market's love affair with memory and semi-cap equipment stocks.",
+    "url": "https://www.cnbc.com/2026/06/21/the-ai-trade-has-left-the-hyperscalers-in-the-dust-what-will-it-take-for-that-to-change-.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108314424-1780313034276-gettyimages-2278507630-VIRGINIA_DATA_CENTERS.jpeg?v=1780313062&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1782067392,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782068777,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The article discusses how the hyperscalers (Amazon, Alphabet, Microsoft, and Meta) are struggling with the shortage of high-bandwidth memory (HBM) chips, which is a bottleneck in AI computing. This shortage has led to a surge in prices of memory chip stocks, including SK Hynix, Samsung, and Micron. The hyperscalers have been unable to overcome this shortage despite investing heavily in capital expenditures. The article suggests that the real intellectual property in this supply chain lies with the capital equipment companies (Applied Materials, Lam Research, and KLA Corp), which are not producing enough equipment to alleviate the shortage.",
+      "impact": "The shortage of HBM chips and the subsequent price surge in memory chip stocks is likely to have a negative impact on the hyperscalers' earnings outlook in the short term. This could lead to a decline in their stock prices, particularly for Amazon, Alphabet, and Microsoft, which are heavily reliant on these chips for their AI computing needs. In the medium term, the hyperscalers may need to diversify their business models to reduce their dependence on these chips, which could lead to a revaluation of their stocks. The article also suggests that Meta, which is heavily reliant on advertising, may benefit from developing a cloud business to offset its exposure to the shortage.",
+      "risks": [
+        "Short-term earnings decline risk for hyperscalers",
+        "Medium-term revaluation risk for hyperscalers",
+        "Increased competition from emerging chipmakers"
+      ]
+    }
+  },
+  {
     "id": "8103046",
     "headline": "Raising the minimum wage has been a big political winner. Now it's running into resistance",
     "summary": "Raising the minimum wage has been a progressive policy winner at the ballot box, but recent losses suggest an economic mood slowing its political momentum.",
@@ -238,8 +261,8 @@
   },
   {
     "id": "8100727",
-    "headline": "Trump threatens Iran with fresh strikes as Vance attends talks in Switzerland - Reuters",
-    "summary": "Trump threatens Iran with fresh strikes as Vance attends talks in Switzerland  Reuters",
+    "headline": "Trump threatens Iran with fresh strikes as Vance leads peace talks in Switzerland - Reuters",
+    "summary": "Trump threatens Iran with fresh strikes as Vance leads peace talks in Switzerland  Reuters",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd3B1UzBaM0FMeEpSTFF5N3J3NXFHanp0a0VKUlprczNXWVJCa0VmSUZxY1ZqYkNPdHBrVml3clJUZzdpck1DY3djZHR6ZTFMeU5HdHVTaTJPMV81Q0VJY1E3TWZyU2RlM0ZVZDJKZ2RERnRETURQRmM4MElPajdMV3VzNW4tUEVVWDZlWG1QTGU5dHVTX2NXdjd5UHd2blpVeW5QNE91cnRnYy1vN25BRTA0RjdzMTZ4X2lQd01JdmM2SnVD?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1850,6 +1873,29 @@
     }
   },
   {
+    "id": "8087335",
+    "headline": "Switzerland says talks planned for Friday between Iran and U.S. - Reuters",
+    "summary": "Switzerland says talks planned for Friday between Iran and U.S.  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaVZlUmREdTRwV2dYNHVFZm1DckNhXzBGUWwzaEpOVXRCOHdiOEV2WHdTdkR3ZE5PMTVGekItdHNmTTdSQmw4UWwydXZiZDdwaVBfNTJGR1VlanE0dUJfT3ZNejRlMXlYMWwyNEVtU3NqcnJQOG92bGxsNERITmRidm14U29iUWJGTU5qOFo2NEtBcndabW1CNV85T2RjMWZrdVliWDViS09ScW8?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1781790397,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1781783003,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Switzerland announced that talks are planned for Friday between Iran and the US, marking a potential step towards de-escalating tensions between the two nations. The talks are a result of ongoing diplomatic efforts to revive the Joint Comprehensive Plan of Action (JCPOA), also known as the Iran nuclear deal. The JCPOA was signed in 2015 but has been on hold since the US withdrew in 2018. The planned talks may lead to a relaxation of US sanctions on Iran, which could positively impact the country's economy and potentially benefit companies operating in the region.",
+      "impact": "The planned talks may have a positive impact on oil prices, as a relaxation of US sanctions on Iran could lead to an increase in Iranian oil exports. This, in turn, could put downward pressure on oil prices, benefiting oil-consuming companies such as airlines, shipping companies, and oil refiners. In the medium term, a successful outcome of the talks could also lead to increased economic activity in Iran, benefiting companies operating in the region, such as those in the energy, infrastructure, and construction sectors.",
+      "risks": [
+        "Uncertainty around the outcome of the talks and the potential for renewed tensions between the US and Iran",
+        "Potential for a delay or cancellation of the talks, which could lead to a continuation of the current economic sanctions on Iran",
+        "Risk of increased competition in the oil market if Iran's oil exports increase"
+      ]
+    }
+  },
+  {
     "id": "8093041",
     "headline": "ECB's Lane hints at higher rates even after Iran shock - Reuters",
     "summary": "ECB's Lane hints at higher rates even after Iran shock  Reuters",
@@ -2119,29 +2165,6 @@
         "Decreased revenue and profitability for oil producers",
         "Impact on oil prices may be short-lived if demand increases",
         "Increased supply could lead to oversaturation of the market"
-      ]
-    }
-  },
-  {
-    "id": "8087335",
-    "headline": "Switzerland says talks planned for Friday between Iran and U.S. - Reuters",
-    "summary": "Switzerland says talks planned for Friday between Iran and U.S.  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaVZlUmREdTRwV2dYNHVFZm1DckNhXzBGUWwzaEpOVXRCOHdiOEV2WHdTdkR3ZE5PMTVGekItdHNmTTdSQmw4UWwydXZiZDdwaVBfNTJGR1VlanE0dUJfT3ZNejRlMXlYMWwyNEVtU3NqcnJQOG92bGxsNERITmRidm14U29iUWJGTU5qOFo2NEtBcndabW1CNV85T2RjMWZrdVliWDViS09ScW8?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781773576,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1781783003,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Switzerland announced that talks are planned for Friday between Iran and the US, marking a potential step towards de-escalating tensions between the two nations. The talks are a result of ongoing diplomatic efforts to revive the Joint Comprehensive Plan of Action (JCPOA), also known as the Iran nuclear deal. The JCPOA was signed in 2015 but has been on hold since the US withdrew in 2018. The planned talks may lead to a relaxation of US sanctions on Iran, which could positively impact the country's economy and potentially benefit companies operating in the region.",
-      "impact": "The planned talks may have a positive impact on oil prices, as a relaxation of US sanctions on Iran could lead to an increase in Iranian oil exports. This, in turn, could put downward pressure on oil prices, benefiting oil-consuming companies such as airlines, shipping companies, and oil refiners. In the medium term, a successful outcome of the talks could also lead to increased economic activity in Iran, benefiting companies operating in the region, such as those in the energy, infrastructure, and construction sectors.",
-      "risks": [
-        "Uncertainty around the outcome of the talks and the potential for renewed tensions between the US and Iran",
-        "Potential for a delay or cancellation of the talks, which could lead to a continuation of the current economic sanctions on Iran",
-        "Risk of increased competition in the oil market if Iran's oil exports increase"
       ]
     }
   },
@@ -5041,7 +5064,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1781533801
+    "publishedAt": 1781533801,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782068841,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "A recent Israeli strike in south Lebanon resulted in one fatality, marking the first deadly attack since the US-Iran deal announcement. This incident highlights the ongoing tensions between Israel and Iran, which could escalate into a broader conflict. The situation has been escalating since the US withdrawal from the Iran nuclear deal in 2018, and the recent agreement has not alleviated tensions. The conflict could impact regional stability and global oil prices, which may influence oil-related stocks and the overall market sentiment.",
+      "impact": "The potential conflict in the region may lead to a short-term increase in oil prices, benefiting oil producers such as ExxonMobil (XOM) and Chevron (CVX). However, the medium-term impact could be negative for the entire market, as a broader conflict would increase uncertainty and risk aversion, leading to a sell-off in riskier assets. The US-Iran deal has not yet been ratified, and the situation remains volatile, making it challenging to predict the outcome. The conflict could also impact regional players such as Saudi Aramco (TADAWUL: 7010) and other Middle Eastern oil producers.",
+      "risks": [
+        "Escalating conflict risk",
+        "Oil price volatility risk",
+        "Regional instability risk"
+      ]
+    }
   },
   {
     "id": "8077337",
@@ -5051,7 +5087,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1781533489
+    "publishedAt": 1781533489,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782068888,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "US-Iran nuclear talks are ongoing, and it's crucial to address key issues such as verification mechanisms, sanctions relief, and regional security concerns. The talks aim to revive the 2015 Joint Comprehensive Plan of Action (JCPOA) nuclear deal. The US and Iran have been engaged in indirect talks since April, with the European Union facilitating the negotiations. The outcome of these talks will have significant implications for the global energy market and regional stability.",
+      "impact": "The potential revival of the JCPOA could lead to a decrease in oil prices, benefiting energy companies such as ExxonMobil (XOM) and Chevron (CVX). However, if the talks fail, it could lead to increased tensions in the region, potentially benefiting defense contractors such as Lockheed Martin (LMT) and Boeing (BA). The outcome of the talks will also have implications for the global economy, with potential impacts on inflation and interest rates. In the short-term, market volatility may increase due to the uncertainty surrounding the talks.",
+      "risks": [
+        "sanctions risk",
+        "regional instability risk",
+        "market volatility risk"
+      ]
+    }
   },
   {
     "id": "8077331",
@@ -5061,7 +5110,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1781532720
+    "publishedAt": 1781532720,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782068937,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "Middle East oil and gas output is expected to take months to fully recover due to recent attacks on oil facilities and infrastructure. The attacks have disrupted production and exports, leading to a shortage of crude oil and natural gas. The region's oil and gas producers, including Saudi Arabia and Iraq, have been affected by the attacks. The recovery of output will depend on the repair of damaged facilities and the restoration of security in the region.",
+      "impact": "The news is likely to have a short-term negative impact on oil prices, which could benefit oil-producing companies with significant hedging positions. However, the medium-term impact on the earnings outlook for these companies is uncertain, as the recovery of output and prices will depend on various factors, including the pace of repairs and the level of demand. The news may also lead to increased volatility in the oil market, affecting the liquidity of related stocks. The overall impact on the industry's sentiment and valuation will depend on the duration and severity of the disruption.",
+      "risks": [
+        "extended disruption to oil and gas production",
+        "delayed recovery of output and exports",
+        "impact on global oil prices and demand"
+      ]
+    }
   },
   {
     "id": "8077158",
@@ -21915,29 +21977,6 @@
         "geopolitical tensions",
         "oil price volatility",
         "sanctions uncertainty"
-      ]
-    }
-  },
-  {
-    "id": "7984190",
-    "headline": "Iranian missile likely involved in attack on ship in Strait of Hormuz, South Korea says - Reuters",
-    "summary": "Iranian missile likely involved in attack on ship in Strait of Hormuz, South Korea says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQU0FvelZ2cHpUUW5qS3FpQ1NJMUVha1YtR2owWnJ1OEROem1MekVoQkVtWEMtTmxuOGFUQ3Q3QW9XVHd6bENOVjVsMVZ3Y2FFT0RYYkJpWHBfbG9meWxwM2tOck1GaTF1djA2Tnd6alNncGVmclhGNkZQX21YRmkzTWFpWU9QeV93OFk5eUhCMTRnc1Bwc0ZGbmJmckp2Q3BWZ2lDR1pGM1F6cHZFU2NkNnlfd05oZUJSd2VlcHVQMWdIZmhCZWhRT0NmS1c?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1779903967,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1779911575,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "A South Korean investigation suggests that an Iranian missile was involved in an attack on a ship in the Strait of Hormuz. This incident raises concerns about regional tensions and the potential for further escalation. The Strait of Hormuz is a critical shipping lane for oil exports, and disruptions to this route can impact global oil prices. The incident may lead to increased security costs for oil tankers and shipping companies operating in the region. This could negatively impact the earnings outlook for companies involved in the oil and shipping industries.",
-      "impact": "The potential impact on related stocks could be significant, with increased security costs and potential disruptions to oil supplies leading to higher operating expenses and reduced profit margins. This may lead to a short-term decline in stock prices for companies such as oil majors and shipping operators. In the medium term, the increased tensions in the region could lead to a shift in global oil supply and demand dynamics, potentially impacting stock prices for companies involved in the oil and gas industry.",
-      "risks": [
-        "Increased security costs for oil tankers and shipping companies",
-        "Disruptions to oil supplies and potential price volatility",
-        "Escalation of regional tensions and potential conflict"
       ]
     }
   }
