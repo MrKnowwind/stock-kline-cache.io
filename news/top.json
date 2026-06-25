@@ -1,5 +1,28 @@
 [
   {
+    "id": "8124471",
+    "headline": "As Social Security faces trust fund depletion, some Washington lawmakers call for taxing high earners",
+    "summary": "High earners may only contribute Social Security payroll taxes for part of the year. As the program faces funding woes, some lawmakers say that should change.",
+    "url": "https://www.cnbc.com/2026/06/25/social-security-why-some-washington-lawmakers-want-to-tax-high-earners.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108166365-1751380219316-gettyimages-2208901888-MEI-USA-BD-FTRUSC-20250410-030.jpeg?v=1774021520&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1782422456,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782425719,
+      "sentiment": "bullish",
+      "confidence": 0.7,
+      "summary": "The Social Security trust fund faces a potential depletion by 2032, prompting lawmakers to propose taxing high earners to shore up the program's finances. Senators Elizabeth Warren and Bernie Moreno are co-sponsoring a bill to lift the payroll tax cap, currently set at $184,500, to include higher-income earners. This move aims to address the uneven wage growth that has affected Social Security solvency. The proposal would require individuals with earnings above $250,000 to pay Social Security payroll taxes for the entire year, rather than just up to the cap.",
+      "impact": "The potential tax increase on high earners could lead to increased tax revenues for the government, which may positively impact the overall economy. However, it may also lead to a decrease in disposable income for high-income individuals, potentially affecting their consumption and investment habits. In the short term, this could lead to a decrease in demand for luxury goods and services, negatively impacting companies that cater to this demographic. In the medium term, the increased tax revenues could lead to higher government spending, potentially benefiting companies that rely on government contracts or have exposure to the healthcare sector.",
+      "risks": [
+        "regulatory risk",
+        "macroeconomic uncertainty",
+        "possible tax policy changes affecting consumer behavior"
+      ]
+    }
+  },
+  {
     "id": "8124259",
     "headline": "Apple stock gets slammed on bigger Mac, iPad price hikes. Why it can weather the storm",
     "summary": "The stock had its worst session in more than a year as management made its first official move to pass higher memory costs onto consumers.",
@@ -19,6 +42,29 @@
         "Demand destruction risk",
         "Earnings slowdown risk",
         "Supply chain risk due to memory and storage shortages"
+      ]
+    }
+  },
+  {
+    "id": "8122649",
+    "headline": "UN pauses Hormuz evacuation plan after ship reports attack - Reuters",
+    "summary": "UN pauses Hormuz evacuation plan after ship reports attack  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVWR1YXZUaE9XT2xJQjBTUmZZa044RjRIbnhydkhZbXAzY0xuTllsNmJhdDRyXzJndWJFR3dtNjBLSFE2M2lXOTVDcjdRenBKX2dGSlNyWGhyZmhrbkRjVjcwb2pXUWx2Z0JvbmJpUmpzR2VFTkxza1htWVJMMWxPbnYzVGVuS3d3bEQzc2RTa1hEVnFtT3FjZzR4MUpPLWJjMVNTM01BcnBRSnpSQzRyd21yQ0U3b08xbXR0ajlmeG55UmxrV0RZZmVROA?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1782417274,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782395567,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The news article reports that oil prices have returned to pre-war levels due to the rebound in Hormuz traffic. The US is trying to reassure Gulf allies after the recent tensions in the region. The article does not provide any specific details on the current oil production levels, but it mentions that the traffic in the Strait of Hormuz has returned to normal. This development is likely to have a positive impact on oil prices, which in turn could benefit oil-producing companies. The article does not provide any specific information on the companies that would be directly affected by this news.",
+      "impact": "The potential impact of this news on oil-producing companies could be positive in the short term, as higher oil prices could lead to increased revenue and profitability. However, this effect may be short-lived if the global economic conditions continue to be uncertain. The medium-term impact could be more significant if the increased oil prices lead to higher demand and production levels, which could benefit oil-producing companies. The news may also have a positive impact on the sentiment of oil-related stocks, leading to increased trading volumes and prices.",
+      "risks": [
+        "Global economic uncertainty risk",
+        "Demand slowdown risk",
+        "Geopolitical tensions risk"
       ]
     }
   },
@@ -88,29 +134,6 @@
         "Increased security costs and potential disruption to global trade",
         "Higher insurance premiums and reduced demand for shipping services",
         "Escalation of tensions between Iran and the US, leading to further disruptions to global shipping routes"
-      ]
-    }
-  },
-  {
-    "id": "8122649",
-    "headline": "UN pauses Hormuz evacuation plan after ship reports suspected attack - Reuters",
-    "summary": "UN pauses Hormuz evacuation plan after ship reports suspected attack  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVWR1YXZUaE9XT2xJQjBTUmZZa044RjRIbnhydkhZbXAzY0xuTllsNmJhdDRyXzJndWJFR3dtNjBLSFE2M2lXOTVDcjdRenBKX2dGSlNyWGhyZmhrbkRjVjcwb2pXUWx2Z0JvbmJpUmpzR2VFTkxza1htWVJMMWxPbnYzVGVuS3d3bEQzc2RTa1hEVnFtT3FjZzR4MUpPLWJjMVNTM01BcnBRSnpSQzRyd21yQ0U3b08xbXR0ajlmeG55UmxrV0RZZmVROA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782411994,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782395567,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The news article reports that oil prices have returned to pre-war levels due to the rebound in Hormuz traffic. The US is trying to reassure Gulf allies after the recent tensions in the region. The article does not provide any specific details on the current oil production levels, but it mentions that the traffic in the Strait of Hormuz has returned to normal. This development is likely to have a positive impact on oil prices, which in turn could benefit oil-producing companies. The article does not provide any specific information on the companies that would be directly affected by this news.",
-      "impact": "The potential impact of this news on oil-producing companies could be positive in the short term, as higher oil prices could lead to increased revenue and profitability. However, this effect may be short-lived if the global economic conditions continue to be uncertain. The medium-term impact could be more significant if the increased oil prices lead to higher demand and production levels, which could benefit oil-producing companies. The news may also have a positive impact on the sentiment of oil-related stocks, leading to increased trading volumes and prices.",
-      "risks": [
-        "Global economic uncertainty risk",
-        "Demand slowdown risk",
-        "Geopolitical tensions risk"
       ]
     }
   },
@@ -360,6 +383,29 @@
         "price volatility risk",
         "sanctions risk",
         "disruption to supply chain risk"
+      ]
+    }
+  },
+  {
+    "id": "8124266",
+    "headline": "ECB's Schnabel sees more tightening even after Iran ceasefire - Reuters",
+    "summary": "ECB's Schnabel sees more tightening even after Iran ceasefire  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMzR6T2RpMkdwcnM2VmFkVVVrVTFFOGpZOWloNmU3VWxXR2czdGsydU83TWthX2UyUU5NTjk5aDJheUVjenl4SUtJNUs4TVNHNHlhV1RmTmc5bnZmTE9tZm5rUEFkNDhnWUZ3dTRxV2FkMS1RcnpDTndhS3hEWjlHSnRrOFpfcGNJaHIxeDYyU1kydHd1TEc4?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1782375336,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782425766,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "ECB's Schnabel has stated that the European Central Bank (ECB) will likely continue to tighten monetary policy even after the Iran ceasefire. This suggests that interest rates may continue to rise, which could lead to higher borrowing costs for companies and individuals. The ECB's actions are a response to inflation concerns, which have been fueled by the ongoing conflict in Ukraine and other global economic factors. This tightening of monetary policy is expected to have a negative impact on economic growth and potentially lead to a recession. The ECB's decision is a key driver of the European economy, and its actions will have far-reaching consequences for businesses and investors.",
+      "impact": "The potential impact of the ECB's decision on European stocks is significant, with a higher likelihood of a recession and lower economic growth. This could lead to a decrease in earnings for companies, particularly those with high debt levels or sensitive to interest rates. The short-term impact may be a decline in stock prices, while the medium-term impact could be a decrease in investor sentiment and a reduction in liquidity. The ECB's actions will likely lead to a more cautious approach from investors, with a focus on defensive stocks and sectors.",
+      "risks": [
+        "recession risk",
+        "interest rate risk",
+        "economic growth slowdown risk"
       ]
     }
   },
@@ -831,6 +877,29 @@
     }
   },
   {
+    "id": "8124267",
+    "headline": "Global physical crude markets dive as Middle East ramps up supply - Reuters",
+    "summary": "Global physical crude markets dive as Middle East ramps up supply  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLXUxZVlBdXJnZm1yZjBMY0p2LXNzMGdBTFliN0trUVU3eExBM1h3Zmd2T0tTX0VOdm5OOWFZMFJBaEc4cVRUOHlfSnQ4bWJlT0tzWjVCaUt2WU1tV0JwMDZRd3VWMFhZM2d2RkVVdGh0d0t4ZmcxTWQwUkQzSnZBOUxDTXMxbEtLUXpTYk9CUGJudGxiazlNR2owQ2VpNDhDVHJiXzRWQ3hhd2kza2ZNMDVrTjdjbWl0eWFXUFlndHlubmM?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1782312442,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782425812,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The global physical crude markets have experienced a significant decline due to the Middle East's increased supply. The region has ramped up production, leading to a surplus in the market. This surplus is expected to put downward pressure on crude oil prices. The increased supply is a result of the Middle East's efforts to capitalize on higher prices and meet growing demand from Asia. The global oil market is now facing a challenging situation with oversupply and potential price volatility.",
+      "impact": "The increased supply from the Middle East is likely to have a short-term bearish impact on oil prices, which could negatively affect oil-related stocks such as those of oil majors and drillers. In the medium term, the increased supply could lead to a decrease in earnings for these companies, potentially affecting their valuations. The increased supply also increases the risk of price volatility, which could negatively impact investor sentiment and liquidity in the oil sector.",
+      "risks": [
+        "price volatility risk",
+        "earnings decline risk",
+        "sentiment risk"
+      ]
+    }
+  },
+  {
     "id": "8118311",
     "headline": "US-Iran deal may leave Netanyahu as biggest casualty - Reuters",
     "summary": "US-Iran deal may leave Netanyahu as biggest casualty  Reuters",
@@ -1288,6 +1357,29 @@
     }
   },
   {
+    "id": "8114787",
+    "headline": "US Senate joins House in voting to halt Iran war, rebuking Trump - Reuters",
+    "summary": "US Senate joins House in voting to halt Iran war, rebuking Trump  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNmhxUVNibG82ZUN6NG5vUGVEb3c3X3ExNXJKYjFwYzZCYi03ZGFjX2JNZ1VyNzRzSzF5U3V4LVhIUGM4U0lrZzY4SmhBeGZuVHlqLWxsQ3hPRk5aYVZtT2ZPUk84LUl2LWw1WEl5ai1OS3ZFcGlKTmpEZmVPeG5rT1QwOFVoY25iS2NXRjBPTnQtNnBxYkNpQXFVT1hKTEJYbGJpSg?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1782270606,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782264840,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The US Senate has joined the House in voting to halt the war with Iran, rebuking President Trump's decision to take military action. This move is seen as a significant shift in US foreign policy and a rebuke of the President's authority. The Senate's vote is a bipartisan effort, with both Democrats and Republicans voting in favor of the resolution. This development is likely to ease tensions in the region and potentially lead to improved relations with Iran.",
+      "impact": "The news is likely to have a positive impact on defense stocks, particularly those with exposure to the Middle East region. Companies such as Lockheed Martin (LMT) and Boeing (BA) may see a boost in their stock prices as the threat of war subsides. Additionally, the easing of tensions may lead to increased demand for oil, benefiting energy companies such as ExxonMobil (XOM) and Chevron (CVX).",
+      "risks": [
+        "Potential for increased government spending on defense, which could lead to higher costs for defense contractors",
+        "Uncertainty around the long-term implications of the Senate's vote on US foreign policy",
+        "Risk of a backlash from President Trump or his supporters, potentially leading to market volatility"
+      ]
+    }
+  },
+  {
     "id": "8115298",
     "headline": "VIX owner Cboe jumps into prediction markets to build on zero-day options growth",
     "summary": "Global markets operator Cboe has launched its first prediction markets products to meet consumer demand in the fast growing sector.",
@@ -1357,25 +1449,25 @@
     }
   },
   {
-    "id": "8114787",
-    "headline": "US Senate joins House in voting to halt Iran war, rebuking Trump - Reuters",
-    "summary": "US Senate joins House in voting to halt Iran war, rebuking Trump  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNmhxUVNibG82ZUN6NG5vUGVEb3c3X3ExNXJKYjFwYzZCYi03ZGFjX2JNZ1VyNzRzSzF5U3V4LVhIUGM4U0lrZzY4SmhBeGZuVHlqLWxsQ3hPRk5aYVZtT2ZPUk84LUl2LWw1WEl5ai1OS3ZFcGlKTmpEZmVPeG5rT1QwOFVoY25iS2NXRjBPTnQtNnBxYkNpQXFVT1hKTEJYbGJpSg?oc=5",
+    "id": "8110942",
+    "headline": "US, Iran at odds on nuclear inspections, frozen assets in deal to end war - Reuters",
+    "summary": "US, Iran at odds on nuclear inspections, frozen assets in deal to end war  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcS1OdmpfbHlfTkxhM2xVM0cwWHVDeWhRUTNiY284YkViREtCTWpoSmRJVGpVdFBVWnpaS1BpZEFHcjd1Y2s0VDZ1Z25oOUQzY1FtQ1ZTOGlKRE1JRm1Ma3k0RUZoN0RCTlBjTV84eUtfZ05Cdk1lSzd3aXV3QkJtVklEa3FIYk92MkUzTW5YMm82Wmd0TmpYMEF5dnBnUmU2M0RKamprTjRJcnd1Z292dE1nM1A0ekFiS1M3YVhGZUQ3T0pQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1782255240,
+    "publishedAt": 1782254035,
     "analysis": {
       "version": 2,
-      "generatedAt": 1782264840,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The US Senate has joined the House in voting to halt the war with Iran, rebuking President Trump's decision to take military action. This move is seen as a significant shift in US foreign policy and a rebuke of the President's authority. The Senate's vote is a bipartisan effort, with both Democrats and Republicans voting in favor of the resolution. This development is likely to ease tensions in the region and potentially lead to improved relations with Iran.",
-      "impact": "The news is likely to have a positive impact on defense stocks, particularly those with exposure to the Middle East region. Companies such as Lockheed Martin (LMT) and Boeing (BA) may see a boost in their stock prices as the threat of war subsides. Additionally, the easing of tensions may lead to increased demand for oil, benefiting energy companies such as ExxonMobil (XOM) and Chevron (CVX).",
+      "generatedAt": 1782205084,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "US President Trump has waived sanctions on Iran, but warned that he will take action if Tehran misbehaves. This move is seen as a gesture of goodwill ahead of potential nuclear talks. The waiver allows US companies to continue doing business with Iran, but any missteps by Tehran could lead to renewed sanctions. The development is likely to be closely watched by oil and energy companies, as well as those with interests in the Middle East.",
+      "impact": "The waiver is likely to have a short-term positive impact on oil prices, as it reduces the risk of a supply disruption. However, the medium-term impact is uncertain, as the situation remains volatile and any misbehavior by Iran could lead to renewed sanctions. The development may also impact companies with exposure to the Middle East, such as oil and gas producers, as well as those with interests in the region.",
       "risks": [
-        "Potential for increased government spending on defense, which could lead to higher costs for defense contractors",
-        "Uncertainty around the long-term implications of the Senate's vote on US foreign policy",
-        "Risk of a backlash from President Trump or his supporters, potentially leading to market volatility"
+        "renewed sanctions risk",
+        "geopolitical instability risk",
+        "oil price volatility risk"
       ]
     }
   },
@@ -2104,29 +2196,6 @@
         "Integration risk: The successful integration of OpenAI's technology into Getty Images' existing infrastructure and operations is crucial to the success of the partnership.",
         "Dependence on OpenAI: Getty Images' success will be heavily dependent on the performance and growth of OpenAI, which could be a risk if OpenAI's business slows down or faces challenges.",
         "Competition risk: The AI-powered image recognition and management market is highly competitive, and Getty Images will need to differentiate itself to maintain its market share."
-      ]
-    }
-  },
-  {
-    "id": "8110942",
-    "headline": "US, Iran at odds on nuclear inspections, frozen assets in deal to end war - Reuters",
-    "summary": "US, Iran at odds on nuclear inspections, frozen assets in deal to end war  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcS1OdmpfbHlfTkxhM2xVM0cwWHVDeWhRUTNiY284YkViREtCTWpoSmRJVGpVdFBVWnpaS1BpZEFHcjd1Y2s0VDZ1Z25oOUQzY1FtQ1ZTOGlKRE1JRm1Ma3k0RUZoN0RCTlBjTV84eUtfZ05Cdk1lSzd3aXV3QkJtVklEa3FIYk92MkUzTW5YMm82Wmd0TmpYMEF5dnBnUmU2M0RKamprTjRJcnd1Z292dE1nM1A0ekFiS1M3YVhGZUQ3T0pQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782190920,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782205084,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "US President Trump has waived sanctions on Iran, but warned that he will take action if Tehran misbehaves. This move is seen as a gesture of goodwill ahead of potential nuclear talks. The waiver allows US companies to continue doing business with Iran, but any missteps by Tehran could lead to renewed sanctions. The development is likely to be closely watched by oil and energy companies, as well as those with interests in the Middle East.",
-      "impact": "The waiver is likely to have a short-term positive impact on oil prices, as it reduces the risk of a supply disruption. However, the medium-term impact is uncertain, as the situation remains volatile and any misbehavior by Iran could lead to renewed sanctions. The development may also impact companies with exposure to the Middle East, such as oil and gas producers, as well as those with interests in the region.",
-      "risks": [
-        "renewed sanctions risk",
-        "geopolitical instability risk",
-        "oil price volatility risk"
       ]
     }
   },
@@ -22657,48 +22726,5 @@
         "negative impact on related industries"
       ]
     }
-  },
-  {
-    "id": "8009568",
-    "headline": "Fed's Powell warns that politicizing the Fed would cost public trust - Reuters",
-    "summary": "Fed's Powell warns that politicizing the Fed would cost public trust  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV3ZFbXQweXJ2anVHZUoxV0o2N2E5TkVMeXZSTVcyX2xHdzdhdWVvbTBRV1RJRlE5ZnBlOUtabVZmRTI1REVXYXlFdlBMVXRzakxRUS1KSGw5YUhaVUNrVlJLNWVoMmVQR1lnc2ZldG5NWk9xbC1vZ0ljdzdhMjdvbC02TTlNLU9UZzdFOGlua244aDF6blYyT2t6blpyU1dsVENGQzhzc0t2UUtJ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1780274040,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782420977,
-      "sentiment": "neutral",
-      "confidence": 0.8,
-      "summary": "Federal Reserve Chairman Jerome Powell warned that politicizing the Federal Reserve would erode public trust in the institution. This statement comes as the US Congress is considering various proposals to reform the Fed's leadership structure. Powell's comments suggest that the Fed is committed to maintaining its independence and avoiding political interference. The Fed's independence is crucial for its ability to make unbiased monetary policy decisions.",
-      "impact": "The news is unlikely to have a significant short-term impact on the stock market, but it may lead to a medium-term increase in the Fed's credibility and confidence in the US economy. This could be positive for the overall market, particularly for sectors that benefit from a stable and independent monetary policy, such as banks and financial institutions. However, the news may also lead to increased scrutiny of the Fed's actions and decisions, which could potentially lead to increased volatility in the market.",
-      "risks": [
-        "Increased regulatory scrutiny",
-        "Potential for political interference in Fed decisions",
-        "Uncertainty around future monetary policy decisions"
-      ]
-    }
-  },
-  {
-    "id": "8011079",
-    "headline": "Russian-appointed official says child killed, 11 injured in drone attack in Russian-held Kherson region - Reuters",
-    "summary": "Russian-appointed official says child killed, 11 injured in drone attack in Russian-held Kherson region  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUl9ZNnZwT3FGYTZlakc3U1NNNkJTY0NfOUpVRV9JUEhOUjVtVlMxSVdHLWwyR2N1bGstSm42TGRwWmcxb2JsTGZneXRlakN5ZnlFWnl3YmxtcVUtV0hPZlNoZGhlY2w1UVBrYU1GSWt6WEZHLXd3elNRRjlKdjJHcElsWHdFUG82aWRnVVZSM1VPaHdERThhOEV1NHlQdlRocFVhRTR5aVpUSkpCdnB4bjczQk1Ob3gxR3FjdHlQMA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1780269202
-  },
-  {
-    "id": "8009459",
-    "headline": "Syria's Sharaa holds phone call with Trump, Syrian presidency says - Reuters",
-    "summary": "Syria's Sharaa holds phone call with Trump, Syrian presidency says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQXzRITzhyOHlrZkN3RUZ6eVkxY3lBQkZIbTNvWG9WWUxzenVZaTZzNTVxUDBWYTV6cmtCTDBDdU5fbE1GZjNsaGszSklXWDF3OW5hdTJSVDdSeF8wM0I2bDVCUTYxZ3JzM0h1S2hINlZhcVlvUWc5cDlSV0dvWERMeUlsZUh0NlJNaVdSNkhXc0lWNEtzczRILXdNbXZKczZBUU5LR3h4VS1DQTdjSzd2N2JwZndsU0h6d0E?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1780258322
   }
 ]
