@@ -1,5 +1,51 @@
 [
   {
+    "id": "8123086",
+    "headline": "We're locking in triple-digit profits on an AI winner at record highs",
+    "summary": "The stock has soared this week for unclear reasons.",
+    "url": "https://www.cnbc.com/2026/06/25/were-locking-in-triple-digit-profits-on-an-ai-winner-at-record-highs.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108262224-1770325809477-gettyimages-2249021916-AWS_Data_Center.jpeg?v=1770325951&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1782400295,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782404094,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Corning (GLW) has seen a significant price increase, reaching new record highs, with a 16% gain for the week and a 168% gain over the past few months. This outpaces the S&P 500's 10% gain over the same period. The exact catalyst for the move is unclear, but it is speculated to be related to Corning's consideration of South Korea as a hub for semiconductor glass substrate production. The company's CFO mentioned this possibility in a recent interview.",
+      "impact": "The strong performance of Corning's stock may lead to a short-term increase in investor sentiment and liquidity, potentially driving further price appreciation. In the medium term, the company's consideration of expanding its production capacity in South Korea could have a positive impact on its earnings outlook and valuation. However, the lack of clarity around the exact catalyst for the stock's move may lead to increased volatility and potential sell-offs if the company fails to deliver on its growth prospects.",
+      "risks": [
+        "valuation risk: the stock's price may be overextended and vulnerable to a correction",
+        "earnings uncertainty: the company's ability to deliver on its growth prospects is unclear",
+        "market sentiment risk: investor enthusiasm may wane if the company fails to meet expectations"
+      ]
+    }
+  },
+  {
+    "id": "8122649",
+    "headline": "Trump row with Republican senator clouds US drive to sell Iran deal to Gulf allies - Reuters",
+    "summary": "Trump row with Republican senator clouds US drive to sell Iran deal to Gulf allies  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVWR1YXZUaE9XT2xJQjBTUmZZa044RjRIbnhydkhZbXAzY0xuTllsNmJhdDRyXzJndWJFR3dtNjBLSFE2M2lXOTVDcjdRenBKX2dGSlNyWGhyZmhrbkRjVjcwb2pXUWx2Z0JvbmJpUmpzR2VFTkxza1htWVJMMWxPbnYzVGVuS3d3bEQzc2RTa1hEVnFtT3FjZzR4MUpPLWJjMVNTM01BcnBRSnpSQzRyd21yQ0U3b08xbXR0ajlmeG55UmxrV0RZZmVROA?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1782398189,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782395567,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The news article reports that oil prices have returned to pre-war levels due to the rebound in Hormuz traffic. The US is trying to reassure Gulf allies after the recent tensions in the region. The article does not provide any specific details on the current oil production levels, but it mentions that the traffic in the Strait of Hormuz has returned to normal. This development is likely to have a positive impact on oil prices, which in turn could benefit oil-producing companies. The article does not provide any specific information on the companies that would be directly affected by this news.",
+      "impact": "The potential impact of this news on oil-producing companies could be positive in the short term, as higher oil prices could lead to increased revenue and profitability. However, this effect may be short-lived if the global economic conditions continue to be uncertain. The medium-term impact could be more significant if the increased oil prices lead to higher demand and production levels, which could benefit oil-producing companies. The news may also have a positive impact on the sentiment of oil-related stocks, leading to increased trading volumes and prices.",
+      "risks": [
+        "Global economic uncertainty risk",
+        "Demand slowdown risk",
+        "Geopolitical tensions risk"
+      ]
+    }
+  },
+  {
     "id": "8122751",
     "headline": "The Club's top 10 things to watch in the stock market Thursday",
     "summary": "Another monster quarter from Micron has ignited a chip stock rally.",
@@ -19,29 +65,6 @@
         "Supply chain disruptions or inventory management risks for Micron and other chipmakers",
         "Competition from other AI chipmakers and data center infrastructure providers",
         "Potential slowdown in demand for AI-fueled chips and data center infrastructure"
-      ]
-    }
-  },
-  {
-    "id": "8122649",
-    "headline": "Oil back to pre-war levels as Hormuz traffic rebounds, US tries to reassure Gulf allies - Reuters",
-    "summary": "Oil back to pre-war levels as Hormuz traffic rebounds, US tries to reassure Gulf allies  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVWR1YXZUaE9XT2xJQjBTUmZZa044RjRIbnhydkhZbXAzY0xuTllsNmJhdDRyXzJndWJFR3dtNjBLSFE2M2lXOTVDcjdRenBKX2dGSlNyWGhyZmhrbkRjVjcwb2pXUWx2Z0JvbmJpUmpzR2VFTkxza1htWVJMMWxPbnYzVGVuS3d3bEQzc2RTa1hEVnFtT3FjZzR4MUpPLWJjMVNTM01BcnBRSnpSQzRyd21yQ0U3b08xbXR0ajlmeG55UmxrV0RZZmVROA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782391948,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782395567,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The news article reports that oil prices have returned to pre-war levels due to the rebound in Hormuz traffic. The US is trying to reassure Gulf allies after the recent tensions in the region. The article does not provide any specific details on the current oil production levels, but it mentions that the traffic in the Strait of Hormuz has returned to normal. This development is likely to have a positive impact on oil prices, which in turn could benefit oil-producing companies. The article does not provide any specific information on the companies that would be directly affected by this news.",
-      "impact": "The potential impact of this news on oil-producing companies could be positive in the short term, as higher oil prices could lead to increased revenue and profitability. However, this effect may be short-lived if the global economic conditions continue to be uncertain. The medium-term impact could be more significant if the increased oil prices lead to higher demand and production levels, which could benefit oil-producing companies. The news may also have a positive impact on the sentiment of oil-related stocks, leading to increased trading volumes and prices.",
-      "risks": [
-        "Global economic uncertainty risk",
-        "Demand slowdown risk",
-        "Geopolitical tensions risk"
       ]
     }
   },
@@ -89,6 +112,25 @@
         "market volatility affecting the wealth of megadonors",
         "uncertainty around the timing and magnitude of the Great Wealth Transfer"
       ]
+    }
+  },
+  {
+    "id": "8122771",
+    "headline": "EXCLUSIVE: Iraq warns it might leave OPEC if oil quota not raised, sources say - Reuters",
+    "summary": "EXCLUSIVE: Iraq warns it might leave OPEC if oil quota not raised, sources say  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNGtxVmo4OG9QRVAyTjJvcGpWUVFzWlJaZEhHSHBsazFQRWZxZXllakNTM2FXN2FxZjhialVFN0o1aW1DY2t1Q2JucHZRNlkzRHk4MFpCeGdOaHpEUXhRVVZSWEtGRDhfTGVKX3lyX1dqZ2tmYjg3QmtTWXMwVS1vNXlTVDRQeFVzakd3WXVuaGplbWdqY0JQUzhtcV9HSWRvSU1CUlp3aW5nYmdZbHNLeDJ2Tk5mZVhHLXh6S3AyZVFZS1ktWUg4X0J3?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1782386724,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782404144,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Iraq's potential departure from OPEC could lead to a significant increase in global oil supply, which may put downward pressure on oil prices. This could negatively impact oil-producing companies' revenue and profitability. Iraq's oil production is a substantial contributor to global oil supply, and its departure from OPEC would likely result in increased production levels. The news may also lead to a decrease in investor confidence in the oil sector.",
+      "impact": "The potential departure of Iraq from OPEC could lead to short-term downward pressure on oil prices, which may negatively impact oil-producing companies' earnings outlook. In the medium term, this could lead to a decrease in investor sentiment and a subsequent decline in stock prices. Oil majors such as ExxonMobil and Chevron may be particularly affected, as they have significant exposure to the oil sector. The increased supply could also lead to a decrease in oil prices, making it more challenging for these companies to maintain their profit margins.",
+      "risks": []
     }
   },
   {
@@ -168,7 +210,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1782368040
+    "publishedAt": 1782368040,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782404204,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The recent Iran peace deal has sparked mixed reactions from investors, with some hoping it could lead to a reduction in global oil prices and subsequently ease inflationary pressures. However, experts believe that the deal is unlikely to be a silver bullet for the Federal Reserve's inflation dilemma. The deal's impact on oil prices is uncertain, and even if it leads to a decrease, it may not be significant enough to have a substantial impact on inflation. The Fed's decision to raise interest rates in the past has been driven by the expectation of sustained economic growth, which may not be directly affected by the Iran peace deal.",
+      "impact": "The Iran peace deal is unlikely to have a significant impact on the US economy or the stock market in the short term. However, if the deal leads to a decrease in oil prices, it could positively affect energy companies and negatively affect companies with high production costs. In the medium term, the deal's impact on inflation and interest rates will be crucial in determining its overall effect on the market.",
+      "risks": [
+        "Uncertainty about the deal's effectiveness in reducing oil prices",
+        "Potential for the deal to have an insignificant impact on inflation",
+        "Risk of increased oil prices if the deal fails to materialize"
+      ]
+    }
   },
   {
     "id": "8121137",
@@ -228,8 +283,8 @@
   },
   {
     "id": "8121656",
-    "headline": "Oil touches pre-war levels on rising Middle East supply - Reuters",
-    "summary": "Oil touches pre-war levels on rising Middle East supply  Reuters",
+    "headline": "Oil prices at pre-war levels on rising Middle East supply - Reuters",
+    "summary": "Oil prices at pre-war levels on rising Middle East supply  Reuters",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVkdDYmZFSTkwNFU4TGw0UDItS3RmdzdoR0hYUjRhYVUtaWRpWjFueDBQSUlQQklKZzdoTWJlQ1phYXRWaHMtZU5jNnNmOVZPalE2eExoaE5ESEJOcW9RN1l3VjFFTXNPLUJvdWFfTWVOTno3SEdlMHNJQjMxM0hJcXM1WHFtVG9NeHZtSGtZQlY4b21GZ3pqWjFn?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -835,7 +890,20 @@
     "source": "Bloomberg",
     "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
     "relatedSymbols": [],
-    "publishedAt": 1782301615
+    "publishedAt": 1782301615,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782404271,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Meta's appointment of Kunal Shah as the new global head of WhatsApp suggests a strategic move to drive growth and revenue through the messaging platform. WhatsApp is a key driver of Meta's future revenue, with its large user base and potential for monetization. The move is likely a response to the need to boost growth and competitiveness in the increasingly crowded social media landscape. Shah's leadership is expected to bring fresh insights and expertise to the role, potentially leading to new revenue streams and improved user engagement.",
+      "impact": "The appointment is likely to have a positive impact on Meta's stock price in the short term, driven by the potential for increased revenue growth and improved competitiveness. In the medium term, the move could lead to increased investor confidence and improved sentiment towards the stock, potentially driving up the valuation. However, there are risks associated with the integration of Shah's expertise and the potential for regulatory scrutiny of WhatsApp's business practices.",
+      "risks": [
+        "integration risk",
+        "regulatory scrutiny risk",
+        "user adoption risk"
+      ]
+    }
   },
   {
     "id": "8120926",
@@ -929,6 +997,16 @@
         "valuation risk due to decreased investor sentiment"
       ]
     }
+  },
+  {
+    "id": "8122770",
+    "headline": "Under a scorching sun: Europe’s heatwave in pictures - Reuters",
+    "summary": "Under a scorching sun: Europe’s heatwave in pictures  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQX0lYcXZmc0ZPbmdoMGtqSUJaWHBxYVFrUEdlckd6RGtneUtRNVZZREZyNVpmb3VwZlppNjVPc3Y3cjZrN2ROa2d1bGtQdHJ4RndfajBIelNVUmU3SFpraTllUkt5VzNEcnRObGNjS25hVHd5dkVQRXlQaDZ4a3pqYmhwWWxuY3RoWlYzZUMtVHFZMGFk?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1782284400
   },
   {
     "id": "8116552",
@@ -1046,6 +1124,29 @@
     }
   },
   {
+    "id": "8114787",
+    "headline": "US Senate joins House in voting to halt Iran war, rebuking Trump - Reuters",
+    "summary": "US Senate joins House in voting to halt Iran war, rebuking Trump  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNmhxUVNibG82ZUN6NG5vUGVEb3c3X3ExNXJKYjFwYzZCYi03ZGFjX2JNZ1VyNzRzSzF5U3V4LVhIUGM4U0lrZzY4SmhBeGZuVHlqLWxsQ3hPRk5aYVZtT2ZPUk84LUl2LWw1WEl5ai1OS3ZFcGlKTmpEZmVPeG5rT1QwOFVoY25iS2NXRjBPTnQtNnBxYkNpQXFVT1hKTEJYbGJpSg?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1782270606,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782264840,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The US Senate has joined the House in voting to halt the war with Iran, rebuking President Trump's decision to take military action. This move is seen as a significant shift in US foreign policy and a rebuke of the President's authority. The Senate's vote is a bipartisan effort, with both Democrats and Republicans voting in favor of the resolution. This development is likely to ease tensions in the region and potentially lead to improved relations with Iran.",
+      "impact": "The news is likely to have a positive impact on defense stocks, particularly those with exposure to the Middle East region. Companies such as Lockheed Martin (LMT) and Boeing (BA) may see a boost in their stock prices as the threat of war subsides. Additionally, the easing of tensions may lead to increased demand for oil, benefiting energy companies such as ExxonMobil (XOM) and Chevron (CVX).",
+      "risks": [
+        "Potential for increased government spending on defense, which could lead to higher costs for defense contractors",
+        "Uncertainty around the long-term implications of the Senate's vote on US foreign policy",
+        "Risk of a backlash from President Trump or his supporters, potentially leading to market volatility"
+      ]
+    }
+  },
+  {
     "id": "8115298",
     "headline": "VIX owner Cboe jumps into prediction markets to build on zero-day options growth",
     "summary": "Global markets operator Cboe has launched its first prediction markets products to meet consumer demand in the fast growing sector.",
@@ -1111,52 +1212,6 @@
         "Decrease in investor sentiment towards oil stocks",
         "Lower earnings for oil companies due to downward pressure on oil prices",
         "Potential increase in supply and downward pressure on oil prices"
-      ]
-    }
-  },
-  {
-    "id": "8114787",
-    "headline": "US Senate joins House in voting to halt Iran war, rebuking Trump - Reuters",
-    "summary": "US Senate joins House in voting to halt Iran war, rebuking Trump  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNmhxUVNibG82ZUN6NG5vUGVEb3c3X3ExNXJKYjFwYzZCYi03ZGFjX2JNZ1VyNzRzSzF5U3V4LVhIUGM4U0lrZzY4SmhBeGZuVHlqLWxsQ3hPRk5aYVZtT2ZPUk84LUl2LWw1WEl5ai1OS3ZFcGlKTmpEZmVPeG5rT1QwOFVoY25iS2NXRjBPTnQtNnBxYkNpQXFVT1hKTEJYbGJpSg?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782255240,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782264840,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The US Senate has joined the House in voting to halt the war with Iran, rebuking President Trump's decision to take military action. This move is seen as a significant shift in US foreign policy and a rebuke of the President's authority. The Senate's vote is a bipartisan effort, with both Democrats and Republicans voting in favor of the resolution. This development is likely to ease tensions in the region and potentially lead to improved relations with Iran.",
-      "impact": "The news is likely to have a positive impact on defense stocks, particularly those with exposure to the Middle East region. Companies such as Lockheed Martin (LMT) and Boeing (BA) may see a boost in their stock prices as the threat of war subsides. Additionally, the easing of tensions may lead to increased demand for oil, benefiting energy companies such as ExxonMobil (XOM) and Chevron (CVX).",
-      "risks": [
-        "Potential for increased government spending on defense, which could lead to higher costs for defense contractors",
-        "Uncertainty around the long-term implications of the Senate's vote on US foreign policy",
-        "Risk of a backlash from President Trump or his supporters, potentially leading to market volatility"
-      ]
-    }
-  },
-  {
-    "id": "8110942",
-    "headline": "US, Iran at odds on nuclear inspections, frozen assets in deal to end war - Reuters",
-    "summary": "US, Iran at odds on nuclear inspections, frozen assets in deal to end war  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcS1OdmpfbHlfTkxhM2xVM0cwWHVDeWhRUTNiY284YkViREtCTWpoSmRJVGpVdFBVWnpaS1BpZEFHcjd1Y2s0VDZ1Z25oOUQzY1FtQ1ZTOGlKRE1JRm1Ma3k0RUZoN0RCTlBjTV84eUtfZ05Cdk1lSzd3aXV3QkJtVklEa3FIYk92MkUzTW5YMm82Wmd0TmpYMEF5dnBnUmU2M0RKamprTjRJcnd1Z292dE1nM1A0ekFiS1M3YVhGZUQ3T0pQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782254035,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782205084,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "US President Trump has waived sanctions on Iran, but warned that he will take action if Tehran misbehaves. This move is seen as a gesture of goodwill ahead of potential nuclear talks. The waiver allows US companies to continue doing business with Iran, but any missteps by Tehran could lead to renewed sanctions. The development is likely to be closely watched by oil and energy companies, as well as those with interests in the Middle East.",
-      "impact": "The waiver is likely to have a short-term positive impact on oil prices, as it reduces the risk of a supply disruption. However, the medium-term impact is uncertain, as the situation remains volatile and any misbehavior by Iran could lead to renewed sanctions. The development may also impact companies with exposure to the Middle East, such as oil and gas producers, as well as those with interests in the region.",
-      "risks": [
-        "renewed sanctions risk",
-        "geopolitical instability risk",
-        "oil price volatility risk"
       ]
     }
   },
@@ -1797,6 +1852,29 @@
     }
   },
   {
+    "id": "8111576",
+    "headline": "Undoing the 'tangled nest' of Iran sanctions won't be easy or quick - Reuters",
+    "summary": "Undoing the 'tangled nest' of Iran sanctions won't be easy or quick  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbnh6TlJtOW40cUJya0psc1JjaWQ1UlZMUU1aRWlraTFDajNvSWE3bWdvNTdTQnFYa0drOExiM1VQT1Zhdm5scnR0UW42Unh1b3hUcmpKdVVlTTlrN3dvc0pyc0hkVUY0RzhZTXV3MzBHeXFXVlF5TmkzVWdQQWhBcFNsSmY0TEpiLWQ1NUdMR3dEcktFcUdkUkNSZE42clhRT1g2T3psa1ZCajdCZTNWVw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1782194291,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782215697,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "The article discusses the complexity of undoing Iran sanctions, which are a tangled web of regulations and restrictions. The US and other countries have imposed various sanctions on Iran over the years, making it challenging to lift them. The process involves multiple stakeholders, including governments, companies, and international organizations. This complexity may impact the oil and gas industry, particularly companies involved in energy trade with Iran. The article highlights the need for a coordinated effort to resolve the issue.",
+      "impact": "The news may lead to a short-term increase in volatility in the energy sector, particularly for companies with significant exposure to Iranian oil and gas. This could result in a temporary decline in stock prices as investors adjust to the uncertainty. In the medium term, a successful resolution to the sanctions issue could lead to a positive impact on the earnings outlook for these companies, potentially driving a rebound in their stock prices. However, the process of lifting sanctions is likely to be lengthy and may be subject to various setbacks, which could maintain uncertainty in the market.",
+      "risks": [
+        "sanctions uncertainty risk",
+        "regulatory approval risk",
+        "geopolitical risk"
+      ]
+    }
+  },
+  {
     "id": "8105168",
     "headline": "Tanker traffic through Hormuz picks up after slower flows due to crossing concerns - Reuters",
     "summary": "Tanker traffic through Hormuz picks up after slower flows due to crossing concerns  Reuters",
@@ -1843,25 +1921,25 @@
     }
   },
   {
-    "id": "8111576",
-    "headline": "Undoing the 'tangled nest' of Iran sanctions won't be easy or quick - Reuters",
-    "summary": "Undoing the 'tangled nest' of Iran sanctions won't be easy or quick  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbnh6TlJtOW40cUJya0psc1JjaWQ1UlZMUU1aRWlraTFDajNvSWE3bWdvNTdTQnFYa0drOExiM1VQT1Zhdm5scnR0UW42Unh1b3hUcmpKdVVlTTlrN3dvc0pyc0hkVUY0RzhZTXV3MzBHeXFXVlF5TmkzVWdQQWhBcFNsSmY0TEpiLWQ1NUdMR3dEcktFcUdkUkNSZE42clhRT1g2T3psa1ZCajdCZTNWVw?oc=5",
+    "id": "8110942",
+    "headline": "US, Iran at odds on nuclear inspections, frozen assets in deal to end war - Reuters",
+    "summary": "US, Iran at odds on nuclear inspections, frozen assets in deal to end war  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcS1OdmpfbHlfTkxhM2xVM0cwWHVDeWhRUTNiY284YkViREtCTWpoSmRJVGpVdFBVWnpaS1BpZEFHcjd1Y2s0VDZ1Z25oOUQzY1FtQ1ZTOGlKRE1JRm1Ma3k0RUZoN0RCTlBjTV84eUtfZ05Cdk1lSzd3aXV3QkJtVklEa3FIYk92MkUzTW5YMm82Wmd0TmpYMEF5dnBnUmU2M0RKamprTjRJcnd1Z292dE1nM1A0ekFiS1M3YVhGZUQ3T0pQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1782191520,
+    "publishedAt": 1782190920,
     "analysis": {
       "version": 2,
-      "generatedAt": 1782215697,
+      "generatedAt": 1782205084,
       "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "The article discusses the complexity of undoing Iran sanctions, which are a tangled web of regulations and restrictions. The US and other countries have imposed various sanctions on Iran over the years, making it challenging to lift them. The process involves multiple stakeholders, including governments, companies, and international organizations. This complexity may impact the oil and gas industry, particularly companies involved in energy trade with Iran. The article highlights the need for a coordinated effort to resolve the issue.",
-      "impact": "The news may lead to a short-term increase in volatility in the energy sector, particularly for companies with significant exposure to Iranian oil and gas. This could result in a temporary decline in stock prices as investors adjust to the uncertainty. In the medium term, a successful resolution to the sanctions issue could lead to a positive impact on the earnings outlook for these companies, potentially driving a rebound in their stock prices. However, the process of lifting sanctions is likely to be lengthy and may be subject to various setbacks, which could maintain uncertainty in the market.",
+      "confidence": 0.6,
+      "summary": "US President Trump has waived sanctions on Iran, but warned that he will take action if Tehran misbehaves. This move is seen as a gesture of goodwill ahead of potential nuclear talks. The waiver allows US companies to continue doing business with Iran, but any missteps by Tehran could lead to renewed sanctions. The development is likely to be closely watched by oil and energy companies, as well as those with interests in the Middle East.",
+      "impact": "The waiver is likely to have a short-term positive impact on oil prices, as it reduces the risk of a supply disruption. However, the medium-term impact is uncertain, as the situation remains volatile and any misbehavior by Iran could lead to renewed sanctions. The development may also impact companies with exposure to the Middle East, such as oil and gas producers, as well as those with interests in the region.",
       "risks": [
-        "sanctions uncertainty risk",
-        "regulatory approval risk",
-        "geopolitical risk"
+        "renewed sanctions risk",
+        "geopolitical instability risk",
+        "oil price volatility risk"
       ]
     }
   },
@@ -2023,6 +2101,29 @@
         "Reputation risk: the ongoing controversy may damage Musk's reputation and the reputation of DOGE, potentially affecting investor sentiment and the stock price.",
         "Regulatory risk: the debate may lead to increased scrutiny of DOGE's actions and policies, potentially resulting in new regulations or investigations.",
         "Sentiment risk: the controversy may influence public perception of Musk and DOGE, potentially leading to a shift in investor sentiment and market trends."
+      ]
+    }
+  },
+  {
+    "id": "8105270",
+    "headline": "US waives Iran sanctions after talks; Lebanon fighting abates - Reuters",
+    "summary": "US waives Iran sanctions after talks; Lebanon fighting abates  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZWY0di1pSncycGtYTEtHQm9lQXhCWUxRSnlhMHlKdnJIdzdxYWlCcjdPVF9TeWJ6YXZQYU1oVjh0d1hRajdRaklhYU9CMHROR3VIbnNnSTFSaHJHYk1iNUJmLWhpVWU3VDN0cEE0UVZXTmFFQjYzUFZ1eUNNUFh0MmtDWmxWaUhFTjN0aWxMNGlCQ3Uyb0hBSk1Bd1h5cm9lN0RtOEdZSHdRdUlILVJueXJIQTBoMHMy?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1782169677,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782099746,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "US and Iran concluded high-level talks in Switzerland, mediated by neutral parties. The talks aimed to address ongoing tensions between the two nations. The outcome of the talks is not explicitly stated in the article. The background of the tensions is not provided in the article. The lack of concrete results from the talks implies that the situation remains uncertain. The talks may have a medium-term impact on the global geopolitical landscape.",
+      "impact": "The news may have a neutral to slightly positive impact on defense stocks and companies with exposure to the Middle East region in the medium term, as a reduction in tensions could lead to increased trade and investment. However, the lack of concrete results from the talks implies that the situation remains uncertain, and the impact on the market may be limited in the short term. The news may also have a negative impact on companies with exposure to sanctions, as a potential easing of sanctions could lead to increased competition.",
+      "risks": [
+        "sanctions risk",
+        "geopolitical uncertainty risk",
+        "trade war risk"
       ]
     }
   },
@@ -2729,29 +2830,6 @@
       "summary": "The article suggests that the US withdrawal from the Iran nuclear deal may lead to a safer world, as it could prevent Iran from developing a nuclear weapon. This development is seen as a positive outcome for global security. The article argues that the US decision is a step in the right direction, despite its potential short-term costs. This shift in global politics may have a positive impact on the business environment, particularly for companies involved in the energy and defense sectors.",
       "impact": "The potential impact on related stocks is likely to be positive in the medium term, as a safer world environment may lead to increased investment in the energy and defense sectors. This could drive earnings growth and boost valuations for companies such as defense contractors and energy companies with exposure to the Middle East. The article's bullish tone suggests that the short-term costs of the US decision may be outweighed by the long-term benefits of a safer world. However, the article does not provide specific stock recommendations or targets.",
       "risks": []
-    }
-  },
-  {
-    "id": "8105270",
-    "headline": "US waives Iran sanctions after talks; Lebanon fighting abates - Reuters",
-    "summary": "US waives Iran sanctions after talks; Lebanon fighting abates  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZWY0di1pSncycGtYTEtHQm9lQXhCWUxRSnlhMHlKdnJIdzdxYWlCcjdPVF9TeWJ6YXZQYU1oVjh0d1hRajdRaklhYU9CMHROR3VIbnNnSTFSaHJHYk1iNUJmLWhpVWU3VDN0cEE0UVZXTmFFQjYzUFZ1eUNNUFh0MmtDWmxWaUhFTjN0aWxMNGlCQ3Uyb0hBSk1Bd1h5cm9lN0RtOEdZSHdRdUlILVJueXJIQTBoMHMy?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782087480,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782099746,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "US and Iran concluded high-level talks in Switzerland, mediated by neutral parties. The talks aimed to address ongoing tensions between the two nations. The outcome of the talks is not explicitly stated in the article. The background of the tensions is not provided in the article. The lack of concrete results from the talks implies that the situation remains uncertain. The talks may have a medium-term impact on the global geopolitical landscape.",
-      "impact": "The news may have a neutral to slightly positive impact on defense stocks and companies with exposure to the Middle East region in the medium term, as a reduction in tensions could lead to increased trade and investment. However, the lack of concrete results from the talks implies that the situation remains uncertain, and the impact on the market may be limited in the short term. The news may also have a negative impact on companies with exposure to sanctions, as a potential easing of sanctions could lead to increased competition.",
-      "risks": [
-        "sanctions risk",
-        "geopolitical uncertainty risk",
-        "trade war risk"
-      ]
     }
   },
   {
@@ -22570,61 +22648,5 @@
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
     "publishedAt": 1780219914
-  },
-  {
-    "id": "8003619",
-    "headline": "Defense spending, China in Asia and lessons from Ukraine: Takeways from the 2026 IISS Shangri-La Dialogue",
-    "summary": "The summit sees top world leaders, defence officials and key executives gathering in Singapore from May 29 to 31",
-    "url": "https://www.cnbc.com/2026/05/31/takeways-from-the-2026-shangri-la-dialogue-.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108314243-1780207068337-gettyimages-2278720246-_ea23511_dfffctpf.jpeg?v=1780207079&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1780216693,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1780220281,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The IISS Shangri-La Dialogue saw top defense officials and military leaders gather in Singapore to discuss defense spending, China's position in the Asia-Pacific region, and lessons from Ukraine. Countries like Japan, the Philippines, and the Netherlands are increasing their defense spending, with the US Secretary of War advocating for a minimum of 3.5% of GDP allocation. This shift in defense spending is a positive development for defense contractors and related industries. The absence of China's defense minister and its low-level delegation is seen as a missed opportunity for dialogue. The increased focus on defense spending is likely to boost the earnings outlook for defense contractors.",
-      "impact": "The increased defense spending in the Asia-Pacific region is expected to benefit defense contractors such as Lockheed Martin (LMT) and Boeing (BA), which are likely to see an increase in orders and revenue. The medium-term impact will be a boost to their earnings and valuation, as well as an improvement in sentiment towards the industry. This development is also likely to increase liquidity in the defense sector, as investors seek to capitalize on the growth opportunities.",
-      "risks": [
-        "Risk of increased competition from other defense contractors",
-        "Risk of delays or cancellations in defense contracts",
-        "Risk of geopolitical tensions escalating and negatively impacting defense spending"
-      ]
-    }
-  },
-  {
-    "id": "8009460",
-    "headline": "The great Indo-Pacific hedge - deeper defence ties as US doubts grow and China ascends - Reuters",
-    "summary": "The great Indo-Pacific hedge - deeper defence ties as US doubts grow and China ascends  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRTBQc0NzWnJaUkU5UmtiRV9yUzNVdjA1MzYxUVd5cXpEUVhqZUdsVVZTazBPX3N4UVJQWFFqYmhKelJzbGtUdjBSOHpvV1BtTlpFTG1TVEM0TUtEeXJoSWVkM0pSQ184bGc4c1hyWXRCdWdxOGlOWTZnZmFiWmRTRVdIdHN4N1d1UmZuQmZjNWhQUnRnTEVJWHB5bmZHNUFCcU80MERuQWt3ZG8wV3J2d1RUVlZFb2FWV0JiT0pn?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1780212840
-  },
-  {
-    "id": "7995697",
-    "headline": "Trump says he will soon decide on Iran deal, demands reopening of Hormuz Strait - Reuters",
-    "summary": "Trump says he will soon decide on Iran deal, demands reopening of Hormuz Strait  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVE5ESU5VTnpnd09UZ3VvYnJ5WmtPOUR1STFHREZuSXBjTmZob2tEUUZUTUZsOWZyaDlCbk9OdVZlM2ZaRUZyMnNvUG83QVl3d3EzbFlZZ3UyaThBaTRXRXBPRktIb0cxWEhrUUdqVHl0NlVBZUFYS3VkTkJlbU1ISUhpdFVKUTFSMklXWHY3TXBXWFptWkNvTWlhMXROQy14RlNvTUh5eFlTUm1ueUNMTnQ1U0p4REp5OTUwaVo2QkhVZw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1780212335,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1780082373,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "US President Trump is expected to make a decision on the Iran nuclear deal imminently. The decision is linked to the opening of the Strait of Hormuz, a critical waterway for global oil exports. The Strait's closure would have significant economic implications, including a potential spike in oil prices. The news does not directly relate to specific companies or industries, but could impact global energy markets and trade flows.",
-      "impact": "The potential closure of the Strait of Hormuz could lead to a short-term increase in oil prices, benefiting oil-producing companies such as ExxonMobil and Chevron. However, the medium-term impact is uncertain, as a prolonged closure could lead to a global economic slowdown, negatively affecting earnings and valuations of companies with high exposure to international trade. The news may also increase investor sentiment towards energy stocks, potentially leading to a short-term rally.",
-      "risks": [
-        "global economic slowdown risk",
-        "oil price volatility risk",
-        "trade war escalation risk"
-      ]
-    }
   }
 ]
