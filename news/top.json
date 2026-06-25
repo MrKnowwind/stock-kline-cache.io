@@ -1,5 +1,74 @@
 [
   {
+    "id": "8123734",
+    "headline": "Judge blocks Trump's rule limiting federal student loans for certain grad school borrowers",
+    "summary": "A federal judge temporarily blocked Trump's limits on how much certain graduate students can borrow. That policy was set to go into effect July 1.",
+    "url": "https://www.cnbc.com/2026/06/25/judge-blocks-trumps-rule-limiting-student-loans-for-grad-students-.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108326943-17824064042025-12-13t071247z_730650951_rc2ouha39bwi_rtrmadp_0_usa-chicago-immigration-journalists.jpeg?v=1782406454&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1782411047,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782413860,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "A federal judge blocked a Trump administration rule limiting federal student loans for graduate students, specifically those pursuing non-professional fields. The policy, set to take effect on July 1, would have capped borrowing at $20,500 per year for most graduate students. The judge's decision temporarily stays the Education Department's definition of a 'professional degree', which was set to exclude fields like nursing and education. This ruling is a win for graduate students in these fields, who can now borrow more to fund their education.",
+      "impact": "This news is likely to be positive for companies that provide education services, such as universities and online learning platforms, as more students may be able to afford to attend or continue their education. This could lead to increased enrollment and revenue for these companies in the short-term. Additionally, the ruling may also benefit companies that provide student loan services, as more students may be taking out loans to fund their education.",
+      "risks": [
+        "Regulatory uncertainty may persist if the Trump administration appeals the ruling",
+        "The ruling may not be permanent, and the policy could be reinstated in the future",
+        "The increased demand for education services may not materialize if students do not take advantage of the new borrowing limits"
+      ]
+    }
+  },
+  {
+    "id": "8123518",
+    "headline": "We're trimming a health-care stock into strength and raising our price target",
+    "summary": "It's been a remarkable turnaround for a name we started to buy a little too high and a little too fast when the Iran war broke out.",
+    "url": "https://www.cnbc.com/2026/06/25/were-trimming-a-stock-into-strength-raising-our-price-target.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108323255-1781709446265-NYSE_Traders-OB-Photo-ALR-20260617-PRESS-6.jpg?v=1781709567&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1782405324,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782413912,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "CNBC's Jim Cramer is trimming his position in Cardinal Health (CAH) due to the stock's strong performance, which has rallied 6% this week and 20% this month, reaching a new all-time high. Cramer's Charitable Trust is selling 50 shares, reducing its weighting in the portfolio to 2.25% from 2.50%. This move is part of a broader trend of health care stocks outperforming, with Johnson & Johnson and Eli Lilly also seeing gains. The stock's turnaround has been remarkable, with Cramer having averaged down on the position as it slid in March and April before buying more shares in May after a post-earnings drop.",
+      "impact": "The sale of 50 shares by Cramer's Charitable Trust is unlikely to have a significant impact on the stock's short-term price movement. However, the reduction in the trust's weighting in the portfolio may lead to some selling pressure, potentially causing the stock to consolidate its gains. In the medium term, the stock's valuation may come under scrutiny as its price target is raised to $245, which is in line with the consensus analyst target. The health care sector's outperformance may also lead to increased scrutiny of other stocks in the group, potentially driving further gains or losses.",
+      "risks": [
+        "valuation risk",
+        "sector rotation risk",
+        "macroeconomic factors affecting the health care sector"
+      ]
+    }
+  },
+  {
+    "id": "8122649",
+    "headline": "Trump shouting match with Republican senator clouds US push to sell Iran deal - Reuters",
+    "summary": "Trump shouting match with Republican senator clouds US push to sell Iran deal  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVWR1YXZUaE9XT2xJQjBTUmZZa044RjRIbnhydkhZbXAzY0xuTllsNmJhdDRyXzJndWJFR3dtNjBLSFE2M2lXOTVDcjdRenBKX2dGSlNyWGhyZmhrbkRjVjcwb2pXUWx2Z0JvbmJpUmpzR2VFTkxza1htWVJMMWxPbnYzVGVuS3d3bEQzc2RTa1hEVnFtT3FjZzR4MUpPLWJjMVNTM01BcnBRSnpSQzRyd21yQ0U3b08xbXR0ajlmeG55UmxrV0RZZmVROA?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1782401330,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782395567,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The news article reports that oil prices have returned to pre-war levels due to the rebound in Hormuz traffic. The US is trying to reassure Gulf allies after the recent tensions in the region. The article does not provide any specific details on the current oil production levels, but it mentions that the traffic in the Strait of Hormuz has returned to normal. This development is likely to have a positive impact on oil prices, which in turn could benefit oil-producing companies. The article does not provide any specific information on the companies that would be directly affected by this news.",
+      "impact": "The potential impact of this news on oil-producing companies could be positive in the short term, as higher oil prices could lead to increased revenue and profitability. However, this effect may be short-lived if the global economic conditions continue to be uncertain. The medium-term impact could be more significant if the increased oil prices lead to higher demand and production levels, which could benefit oil-producing companies. The news may also have a positive impact on the sentiment of oil-related stocks, leading to increased trading volumes and prices.",
+      "risks": [
+        "Global economic uncertainty risk",
+        "Demand slowdown risk",
+        "Geopolitical tensions risk"
+      ]
+    }
+  },
+  {
     "id": "8123086",
     "headline": "We're locking in triple-digit profits on an AI winner at record highs",
     "summary": "The stock has soared this week for unclear reasons.",
@@ -19,29 +88,6 @@
         "valuation risk: the stock's price may be overextended and vulnerable to a correction",
         "earnings uncertainty: the company's ability to deliver on its growth prospects is unclear",
         "market sentiment risk: investor enthusiasm may wane if the company fails to meet expectations"
-      ]
-    }
-  },
-  {
-    "id": "8122649",
-    "headline": "Trump row with Republican senator clouds US drive to sell Iran deal to Gulf allies - Reuters",
-    "summary": "Trump row with Republican senator clouds US drive to sell Iran deal to Gulf allies  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVWR1YXZUaE9XT2xJQjBTUmZZa044RjRIbnhydkhZbXAzY0xuTllsNmJhdDRyXzJndWJFR3dtNjBLSFE2M2lXOTVDcjdRenBKX2dGSlNyWGhyZmhrbkRjVjcwb2pXUWx2Z0JvbmJpUmpzR2VFTkxza1htWVJMMWxPbnYzVGVuS3d3bEQzc2RTa1hEVnFtT3FjZzR4MUpPLWJjMVNTM01BcnBRSnpSQzRyd21yQ0U3b08xbXR0ajlmeG55UmxrV0RZZmVROA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782398189,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782395567,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The news article reports that oil prices have returned to pre-war levels due to the rebound in Hormuz traffic. The US is trying to reassure Gulf allies after the recent tensions in the region. The article does not provide any specific details on the current oil production levels, but it mentions that the traffic in the Strait of Hormuz has returned to normal. This development is likely to have a positive impact on oil prices, which in turn could benefit oil-producing companies. The article does not provide any specific information on the companies that would be directly affected by this news.",
-      "impact": "The potential impact of this news on oil-producing companies could be positive in the short term, as higher oil prices could lead to increased revenue and profitability. However, this effect may be short-lived if the global economic conditions continue to be uncertain. The medium-term impact could be more significant if the increased oil prices lead to higher demand and production levels, which could benefit oil-producing companies. The news may also have a positive impact on the sentiment of oil-related stocks, leading to increased trading volumes and prices.",
-      "risks": [
-        "Global economic uncertainty risk",
-        "Demand slowdown risk",
-        "Geopolitical tensions risk"
       ]
     }
   },
@@ -111,6 +157,29 @@
         "regulatory risks related to tax deductions for charitable donations",
         "market volatility affecting the wealth of megadonors",
         "uncertainty around the timing and magnitude of the Great Wealth Transfer"
+      ]
+    }
+  },
+  {
+    "id": "8123736",
+    "headline": "India, Iran explore opportunities to cooperate in energy sector, minister Puri says - Reuters",
+    "summary": "India, Iran explore opportunities to cooperate in energy sector, minister Puri says  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSGVBelZ2NG1oOVB1TlNHMk9qRHBPOXBVcGlodVFGd044UmpZTG9odENUTGpLTTZsUzZmRFRYNXo3aDFpNy1RbE4xTllVbzMzd08tbFB0b0FRcFZNcnNaX3AxOVJrZ0QySHJHd0I2NXQ2UW1nWlZTR0ZzS0h6bWZEa2VKME1LS0JQR0FobjV5bkI3MWZXSTdKX0Z3aC1SZTVaVkdTak1nRFBBWWNKNVUwTWV4eWtBQ2FtRFh0STU1Z0pZWmtUNnc?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1782390223,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782413958,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "India and Iran are exploring opportunities for cooperation in the energy sector, with Indian Minister of Petroleum and Natural Gas Dharmendra Pradhan and Iranian Minister of Petroleum Javad Owji discussing potential collaborations. The two countries aim to increase energy trade and cooperation, which could lead to increased demand for energy-related services and infrastructure. This development is a positive sign for the energy sector, particularly for companies involved in oil and gas exploration and production. The cooperation could also lead to increased investment in the energy sector, benefiting companies involved in the sector.",
+      "impact": "The potential cooperation between India and Iran could have a positive impact on energy-related stocks, particularly those involved in oil and gas exploration and production. This could lead to increased demand for their services and infrastructure, potentially driving up their stock prices in the short to medium term. However, the implementation of any cooperation agreements would require regulatory approvals and could be subject to delays, which could impact the timing of any potential benefits.",
+      "risks": [
+        "regulatory approval risk",
+        "implementation risk",
+        "geopolitical risk"
       ]
     }
   },
@@ -256,7 +325,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1782358980
+    "publishedAt": 1782358980,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782414006,
+      "sentiment": "bullish",
+      "confidence": 0.7,
+      "summary": "The Indian rupee has ended a tad higher against the US dollar due to a decline in oil prices and foreign inflows. This development is likely a result of the global economic slowdown and reduced demand for oil, which has led to a decrease in oil prices. The foreign inflows are also a contributing factor, as investors are seeking safer assets in a time of economic uncertainty. This news is positive for the Indian economy, as a weaker rupee can boost exports and improve the competitiveness of Indian businesses. The Reserve Bank of India (RBI) may also take this opportunity to intervene and stabilize the currency.",
+      "impact": "The potential impact of this news on the Indian stock market is positive, as a weaker rupee can boost exports and improve the competitiveness of Indian businesses. This could lead to an increase in earnings for companies that export goods, such as IT and pharmaceutical companies. In the short-term, the rupee's appreciation may also lead to an increase in foreign investment in the Indian market, which can boost liquidity and sentiment. However, the RBI's intervention may also lead to a stabilization of the currency, which could limit the upside for the rupee.",
+      "risks": [
+        "RBI intervention risk",
+        "Global economic slowdown risk",
+        "Oil price volatility risk"
+      ]
+    }
   },
   {
     "id": "8121136",
@@ -283,8 +365,8 @@
   },
   {
     "id": "8121656",
-    "headline": "Oil prices at pre-war levels on rising Middle East supply - Reuters",
-    "summary": "Oil prices at pre-war levels on rising Middle East supply  Reuters",
+    "headline": "Oil prices edge up on new supply worries after cargo ship hit near Oman - Reuters",
+    "summary": "Oil prices edge up on new supply worries after cargo ship hit near Oman  Reuters",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVkdDYmZFSTkwNFU4TGw0UDItS3RmdzdoR0hYUjRhYVUtaWRpWjFueDBQSUlQQklKZzdoTWJlQ1phYXRWaHMtZU5jNnNmOVZPalE2eExoaE5ESEJOcW9RN1l3VjFFTXNPLUJvdWFfTWVOTno3SEdlMHNJQjMxM0hJcXM1WHFtVG9NeHZtSGtZQlY4b21GZ3pqWjFn?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1006,7 +1088,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1782284400
+    "publishedAt": 1782284400,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782414055,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "A severe heatwave is affecting Europe, causing widespread disruptions and heat-related illnesses. The extreme weather conditions are being captured in various photographs and videos shared on social media. The heatwave is expected to continue for several days, with temperatures reaching record highs in some areas. The impact on daily life and economic activities is significant, with many outdoor events and festivals being canceled or postponed. The heatwave is a natural disaster, and its effects on the economy and businesses will depend on the duration and severity of the event.",
+      "impact": "The heatwave may have a short-term negative impact on the European economy, particularly on industries such as tourism, agriculture, and construction. Companies operating in these sectors may experience reduced sales and profits due to the disruptions caused by the heatwave. However, the medium-term impact is likely to be limited, as the European economy is resilient and has a strong track record of recovering from natural disasters. The heatwave may also have a positive impact on companies that provide air conditioning and cooling solutions, such as manufacturers of air conditioners and refrigeration equipment.",
+      "risks": [
+        "reduced sales and profits for companies in affected industries",
+        "supply chain disruptions",
+        "increased costs for companies providing cooling solutions"
+      ]
+    }
   },
   {
     "id": "8116552",
@@ -1124,29 +1219,6 @@
     }
   },
   {
-    "id": "8114787",
-    "headline": "US Senate joins House in voting to halt Iran war, rebuking Trump - Reuters",
-    "summary": "US Senate joins House in voting to halt Iran war, rebuking Trump  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNmhxUVNibG82ZUN6NG5vUGVEb3c3X3ExNXJKYjFwYzZCYi03ZGFjX2JNZ1VyNzRzSzF5U3V4LVhIUGM4U0lrZzY4SmhBeGZuVHlqLWxsQ3hPRk5aYVZtT2ZPUk84LUl2LWw1WEl5ai1OS3ZFcGlKTmpEZmVPeG5rT1QwOFVoY25iS2NXRjBPTnQtNnBxYkNpQXFVT1hKTEJYbGJpSg?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782270606,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782264840,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The US Senate has joined the House in voting to halt the war with Iran, rebuking President Trump's decision to take military action. This move is seen as a significant shift in US foreign policy and a rebuke of the President's authority. The Senate's vote is a bipartisan effort, with both Democrats and Republicans voting in favor of the resolution. This development is likely to ease tensions in the region and potentially lead to improved relations with Iran.",
-      "impact": "The news is likely to have a positive impact on defense stocks, particularly those with exposure to the Middle East region. Companies such as Lockheed Martin (LMT) and Boeing (BA) may see a boost in their stock prices as the threat of war subsides. Additionally, the easing of tensions may lead to increased demand for oil, benefiting energy companies such as ExxonMobil (XOM) and Chevron (CVX).",
-      "risks": [
-        "Potential for increased government spending on defense, which could lead to higher costs for defense contractors",
-        "Uncertainty around the long-term implications of the Senate's vote on US foreign policy",
-        "Risk of a backlash from President Trump or his supporters, potentially leading to market volatility"
-      ]
-    }
-  },
-  {
     "id": "8115298",
     "headline": "VIX owner Cboe jumps into prediction markets to build on zero-day options growth",
     "summary": "Global markets operator Cboe has launched its first prediction markets products to meet consumer demand in the fast growing sector.",
@@ -1212,6 +1284,29 @@
         "Decrease in investor sentiment towards oil stocks",
         "Lower earnings for oil companies due to downward pressure on oil prices",
         "Potential increase in supply and downward pressure on oil prices"
+      ]
+    }
+  },
+  {
+    "id": "8114787",
+    "headline": "US Senate joins House in voting to halt Iran war, rebuking Trump - Reuters",
+    "summary": "US Senate joins House in voting to halt Iran war, rebuking Trump  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNmhxUVNibG82ZUN6NG5vUGVEb3c3X3ExNXJKYjFwYzZCYi03ZGFjX2JNZ1VyNzRzSzF5U3V4LVhIUGM4U0lrZzY4SmhBeGZuVHlqLWxsQ3hPRk5aYVZtT2ZPUk84LUl2LWw1WEl5ai1OS3ZFcGlKTmpEZmVPeG5rT1QwOFVoY25iS2NXRjBPTnQtNnBxYkNpQXFVT1hKTEJYbGJpSg?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1782255240,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782264840,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The US Senate has joined the House in voting to halt the war with Iran, rebuking President Trump's decision to take military action. This move is seen as a significant shift in US foreign policy and a rebuke of the President's authority. The Senate's vote is a bipartisan effort, with both Democrats and Republicans voting in favor of the resolution. This development is likely to ease tensions in the region and potentially lead to improved relations with Iran.",
+      "impact": "The news is likely to have a positive impact on defense stocks, particularly those with exposure to the Middle East region. Companies such as Lockheed Martin (LMT) and Boeing (BA) may see a boost in their stock prices as the threat of war subsides. Additionally, the easing of tensions may lead to increased demand for oil, benefiting energy companies such as ExxonMobil (XOM) and Chevron (CVX).",
+      "risks": [
+        "Potential for increased government spending on defense, which could lead to higher costs for defense contractors",
+        "Uncertainty around the long-term implications of the Senate's vote on US foreign policy",
+        "Risk of a backlash from President Trump or his supporters, potentially leading to market volatility"
       ]
     }
   },
@@ -2043,7 +2138,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1782183000,
+    "publishedAt": 1782184150,
     "analysis": {
       "version": 2,
       "generatedAt": 1782215649,
@@ -22592,61 +22687,5 @@
         "Guidance risk: management's outlook on demand for cybersecurity"
       ]
     }
-  },
-  {
-    "id": "8004636",
-    "headline": "In deeply red Oklahoma, minimum wage’s biggest 2026 election cycle fight is about to be decided",
-    "summary": "Oklahomans will soon vote on a measure to double the minimum wage, an election issue that may reflect the economic mood and inflation outlook across parties.",
-    "url": "https://www.cnbc.com/2026/05/31/oklahoma-minimum-wage-2026-election-vote-economy-inflation.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108314219-1780155905492-gettyimages-1084725258-929_14_voahd-78-830.jpeg?v=1780155914&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1780233318,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1780240009,
-      "sentiment": "bullish",
-      "confidence": 0.7,
-      "summary": "Oklahoma is set to vote on a ballot measure to double the minimum wage, with the current minimum wage of $7.25 to be increased to $12 in 2027, $13.50 in 2028, and $15 in 2029. This move reflects the growing trend of minimum wage increases across US states, with 28 out of 32 measures passed since 1996. The measure is expected to benefit 357,700 Oklahoma workers, increasing their wages by over $783 million. The opposition from business groups and Governor Kevin Stitt is largely based on the added cost, but the initiative has gained traction among voters, with support from both parties.",
-      "impact": "A potential increase in the minimum wage in Oklahoma could lead to higher labor costs for businesses, which may negatively impact the earnings outlook for companies in the state. However, this could also lead to increased consumer spending and economic growth, benefiting industries such as retail and hospitality. The impact on stocks related to the state's economy, such as those in the energy and agriculture sectors, may be more pronounced due to the state's strong presence in these industries.",
-      "risks": [
-        "Increased labor costs risk for businesses in Oklahoma",
-        "Potential negative impact on earnings outlook for companies in the state",
-        "Uncertainty around the outcome of the ballot measure"
-      ]
-    }
-  },
-  {
-    "id": "8004946",
-    "headline": "Saudi shares gain, Qatar slips on Iran-US deal uncertainty - Reuters",
-    "summary": "Saudi shares gain, Qatar slips on Iran-US deal uncertainty  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZE5ycVlXQ2lyWmppTS1UaElHQzhyOEROU0hwMTBxeno2bWkzZFVxdVJIa2hRYUpRVE9nanBHNV9qTGVrMEk5ZVZ3ajRBcGpKNVJMbElKalFwQndfeDlubTlvM2J2dndOZ1lkR3RrbExaYW5BenM3TWFseHZ2RXV1cGk4enVfXzlkM3gyUUpxWXZtT1ZEWHFfYVJNbGpHU3BDSlRJTTNjdFoxdEF4?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1780232973,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1780246123,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Saudi shares gained due to improved sentiment following the US-Iran deal uncertainty. The deal's impact on oil prices and regional stability is still unclear. The uncertainty has caused Qatar's shares to slip as investors remain cautious about the potential consequences. The Saudi and Qatari stock markets are closely linked to the region's geopolitical developments.",
-      "impact": "The news may have a short-term impact on oil prices, which could affect the earnings outlook of oil-related companies in Saudi Arabia. Medium-term, the deal's outcome could influence the region's stability and investor sentiment, potentially affecting the valuation of Saudi and Qatari stocks. Liquidity in the region's markets may be affected by the uncertainty surrounding the deal.",
-      "risks": [
-        "regional instability risk",
-        "oil price volatility risk",
-        "geopolitical uncertainty risk"
-      ]
-    }
-  },
-  {
-    "id": "8011900",
-    "headline": "US castigates Europe over defence spend as NATO reassures Asia - Reuters",
-    "summary": "US castigates Europe over defence spend as NATO reassures Asia  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeW5Rc1FldFFIVWxqVFhMLW45WGM4TWlvNmhFUTdVdE9DMW1veEdxaUg2cm0zbm4xOEJ0a2pYVWZsOF9ueHB3VndHTVNIb2ZuLV9TaWF3eHREN2w5MDRNV1FSTGN6VzJwdUJVcFlTQnVDOTFiLTR5ODRvWnhvV0dLVnZVSUNzaU9HdnI0SjFjTm4wTXprRlRraGpodEMtdVEtSjl1eGxhR2ttVlZlUU16TEUxMXRDQ1BmY2g0cTNqMA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1780219914
   }
 ]
