@@ -1,5 +1,51 @@
 [
   {
+    "id": "8138368",
+    "headline": "Everything tied to the data center is suddenly suspect. Can Big Tech fix it?",
+    "summary": "The hyperscalers are just beginning to figure out the consequences of the AI arms race, and now everyone seems to be against them.",
+    "url": "https://www.cnbc.com/2026/06/28/cramer-the-data-center-is-suddenly-suspect-can-big-tech-fix-it.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108263450-1770660021829-gettyimages-2260237949-US_STOCKS.jpeg?v=1775463131&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1782684587,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782686656,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The article discusses the sudden decline in the stock prices of Big Tech companies, particularly Amazon, Alphabet, Microsoft, Meta Platforms, and Apple. The author attributes this decline to the growing scrutiny of their data center business, which has become a target for politicians and populist groups. The author suggests that these companies are still strong and capable of generating consistent gains, but their business model is facing challenges due to the increasing criticism. The author also highlights the efforts of these companies to invest in onshoring and training the workforce, but notes that these efforts may not be enough to mitigate the negative sentiment.",
+      "impact": "The potential impact of this news on the related stocks is bearish, with a short-term decline in stock prices due to the negative sentiment and increasing scrutiny. In the medium-term, the earnings outlook for these companies may be affected as they face challenges in their data center business. The author's suggestion to go short on these stocks before their earnings reports may be a viable strategy for traders.",
+      "risks": [
+        "Regulatory risk: Increased scrutiny from politicians and populist groups may lead to stricter regulations that negatively impact the data center business.",
+        "Sentiment risk: The negative sentiment towards Big Tech companies may persist, leading to a decline in stock prices.",
+        "Earnings risk: The challenges in the data center business may impact the earnings of these companies, leading to a decline in stock prices."
+      ]
+    }
+  },
+  {
+    "id": "8137063",
+    "headline": "Israel damaged heritage sites across south Lebanon, minister says - Reuters",
+    "summary": "Israel damaged heritage sites across south Lebanon, minister says  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQlFsWjdyLTVfeVdablVHR3p5WGE2Q3g1UEdBYmRhTDlDNEM5WE82U0JRV3oyX3hWRE1BWlRwMkNKQktBNWhhVzUwVWtnOWNzUEN4R0k2djBuMHBVNTRHMVJFeW5sSnlpOW5LTjN1UXRpdEVnM3VoMnZXMGwyVXB0RFF2SEMwanJSY1p2MXk2RVZjaVNndkx5RUV0aDFPSzJEc20zTVBkSFBEalVfSE85TTN2TGxMWFRyc3c?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1782681136,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782665468,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Israel's actions in south Lebanon have damaged heritage sites, according to a minister's statement. This incident may escalate tensions between Israel and Lebanon, potentially leading to increased military activity. The conflict could disrupt regional stability, affecting the economic and business environment in the area. The incident may also raise concerns about the safety of infrastructure and investments in the region.",
+      "impact": "The conflict between Israel and Lebanon may lead to a decline in investor sentiment towards companies operating in the region, potentially affecting their stock prices. Companies with significant exposure to the region, such as those in the energy or construction sectors, may see a decline in earnings due to reduced business activity. The increased military activity may also lead to higher costs and risks for companies operating in the area.",
+      "risks": [
+        "Escalation of conflict and regional instability",
+        "Disruption to business operations and supply chains",
+        "Increased costs and risks for companies operating in the region"
+      ]
+    }
+  },
+  {
     "id": "8138066",
     "headline": "Israel destroys Hezbollah underground infrastructure in southern Lebanon - Reuters",
     "summary": "Israel destroys Hezbollah underground infrastructure in southern Lebanon  Reuters",
@@ -203,29 +249,6 @@
         "Increased geopolitical risk",
         "Uncertainty in the energy sector",
         "Potential decline in economic activity in the region"
-      ]
-    }
-  },
-  {
-    "id": "8137063",
-    "headline": "Israel damaged heritage sites across south Lebanon, minister says - Reuters",
-    "summary": "Israel damaged heritage sites across south Lebanon, minister says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQlFsWjdyLTVfeVdablVHR3p5WGE2Q3g1UEdBYmRhTDlDNEM5WE82U0JRV3oyX3hWRE1BWlRwMkNKQktBNWhhVzUwVWtnOWNzUEN4R0k2djBuMHBVNTRHMVJFeW5sSnlpOW5LTjN1UXRpdEVnM3VoMnZXMGwyVXB0RFF2SEMwanJSY1p2MXk2RVZjaVNndkx5RUV0aDFPSzJEc20zTVBkSFBEalVfSE85TTN2TGxMWFRyc3c?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782650685,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782665468,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "Israel's actions in south Lebanon have damaged heritage sites, according to a minister's statement. This incident may escalate tensions between Israel and Lebanon, potentially leading to increased military activity. The conflict could disrupt regional stability, affecting the economic and business environment in the area. The incident may also raise concerns about the safety of infrastructure and investments in the region.",
-      "impact": "The conflict between Israel and Lebanon may lead to a decline in investor sentiment towards companies operating in the region, potentially affecting their stock prices. Companies with significant exposure to the region, such as those in the energy or construction sectors, may see a decline in earnings due to reduced business activity. The increased military activity may also lead to higher costs and risks for companies operating in the area.",
-      "risks": [
-        "Escalation of conflict and regional instability",
-        "Disruption to business operations and supply chains",
-        "Increased costs and risks for companies operating in the region"
       ]
     }
   },
@@ -1104,29 +1127,6 @@
     }
   },
   {
-    "id": "8128336",
-    "headline": "Saudi Aramco resumes oil loading at Ras Tanura in boost to supply - Reuters",
-    "summary": "Saudi Aramco resumes oil loading at Ras Tanura in boost to supply  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV0s2NTFRakltWE1OUEd1RmlYdUE5XzdlUkpxaFdQNHRLa3VZVjNLbUFnQ1l0VWdJbFpxNDBxNWdNajBrNjdHQ0FZTlFIYUY5cUNBQjdmRjk5Y0RoVkE3WmNiaENIZ004TFZyNkZMc2Z0Q3g4MVpsNkxHZ1RMM2tqdkNVdU44WjBnS0hRbXVxeUhtUG03dHZESFlCTmJmTUl4UjhJamY3ZEcydjNsZm9SZ2lMd1BZRkQ1elp5S0hXUks1S2s?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782483555,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782501893,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Saudi Aramco has resumed oil loading at Ras Tanura, a major oil terminal, in a move that is expected to boost global oil supply. This development comes after a recent outage at the facility, which had impacted oil production and supply. The resumption of operations at Ras Tanura is a positive signal for the global oil market, as it indicates a return to normal production levels. This news is particularly significant for oil-producing companies, as it could lead to increased supply and potentially lower oil prices, which could benefit producers.",
-      "impact": "The resumption of oil loading at Ras Tanura is likely to have a positive impact on oil-producing companies, as it could lead to increased supply and potentially lower oil prices. This could boost earnings for companies with significant oil production operations, such as ExxonMobil and Chevron. In the short term, oil prices may decline, which could be a positive for oil producers, but may also impact oil-consuming companies, such as airlines and automotive manufacturers.",
-      "risks": [
-        "Global demand slowdown risk",
-        "Geopolitical tensions risk",
-        "Oil price volatility risk"
-      ]
-    }
-  },
-  {
     "id": "8127678",
     "headline": "Why breakthrough GLP-1 weight loss pills may be a bad thing for employer insurance coverage",
     "summary": "New GLP-1 weight-loss pills from Novo Nordisk and Eli Lilly are likely to boost consumer demand, but employer-sponsored health insurance may not foot the bill.",
@@ -1649,6 +1649,29 @@
         "Global economic uncertainty risk",
         "Demand slowdown risk",
         "Geopolitical tensions risk"
+      ]
+    }
+  },
+  {
+    "id": "8128336",
+    "headline": "Saudi Aramco resumes oil loading at Ras Tanura in boost to supply - Reuters",
+    "summary": "Saudi Aramco resumes oil loading at Ras Tanura in boost to supply  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV0s2NTFRakltWE1OUEd1RmlYdUE5XzdlUkpxaFdQNHRLa3VZVjNLbUFnQ1l0VWdJbFpxNDBxNWdNajBrNjdHQ0FZTlFIYUY5cUNBQjdmRjk5Y0RoVkE3WmNiaENIZ004TFZyNkZMc2Z0Q3g4MVpsNkxHZ1RMM2tqdkNVdU44WjBnS0hRbXVxeUhtUG03dHZESFlCTmJmTUl4UjhJamY3ZEcydjNsZm9SZ2lMd1BZRkQ1elp5S0hXUks1S2s?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1782442140,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782501893,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Saudi Aramco has resumed oil loading at Ras Tanura, a major oil terminal, in a move that is expected to boost global oil supply. This development comes after a recent outage at the facility, which had impacted oil production and supply. The resumption of operations at Ras Tanura is a positive signal for the global oil market, as it indicates a return to normal production levels. This news is particularly significant for oil-producing companies, as it could lead to increased supply and potentially lower oil prices, which could benefit producers.",
+      "impact": "The resumption of oil loading at Ras Tanura is likely to have a positive impact on oil-producing companies, as it could lead to increased supply and potentially lower oil prices. This could boost earnings for companies with significant oil production operations, such as ExxonMobil and Chevron. In the short term, oil prices may decline, which could be a positive for oil producers, but may also impact oil-consuming companies, such as airlines and automotive manufacturers.",
+      "risks": [
+        "Global demand slowdown risk",
+        "Geopolitical tensions risk",
+        "Oil price volatility risk"
       ]
     }
   },
@@ -22707,29 +22730,6 @@
       "summary": "Alphabet's $80 billion equity raise to fund AI investments is positive for Broadcom, which powers Google Cloud's AI compute infrastructure. This news extends Broadcom's recent rally, but the analyst has decided to trim the position due to the already significant gain since the last earnings report. The analyst is selling 40 shares, reducing the weighting to 3.75% from 4.2%. Alphabet's reiteration of its 2026 capex guidance of $180 billion to $190 billion suggests continued investment in AI, supporting Broadcom's partnerships with major AI companies.",
       "impact": "The news is likely to have a short-term positive impact on Broadcom's stock price due to the extension of its recent rally. However, the analyst's decision to trim the position may indicate a reduced outlook for the stock's medium-term growth. The analyst's confidence in Broadcom's partnerships with major AI companies and Alphabet's continued investment in AI may support the stock's valuation, but the reduced position size may also indicate a more cautious approach to the stock's future performance.",
       "risks": []
-    }
-  },
-  {
-    "id": "8014343",
-    "headline": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
-    "summary": "Marvell shares are flying after Nvidia's Jensen Huang said it would be the next trillion-dollar company.",
-    "url": "https://www.cnbc.com/2026/06/02/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/105959006-1685552016651-marv2.jpg?v=1692367783&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1780404710,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1780765570,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Marvell Technology's stock surged over 20% after Nvidia CEO Jensen Huang predicted it could be the next trillion-dollar company. This follows Nvidia's $2 billion investment in Marvell in March, which is working on optics technology with the company. Meanwhile, Hewlett Packard Enterprise delivered a blowout quarter, sending its stock up over 25%, driven by strong demand for servers in the AI and traditional enterprise server business. Additionally, Arm Holdings' CEO is optimistic about the company's new AGI CPU reaching its $15 billion sales target ahead of schedule.",
-      "impact": "The news is likely to boost Marvell's stock in the short term, with potential for further gains as investors continue to ride the AI chip rally. Nvidia's investment in Marvell and the companies' collaboration on optics technology also bodes well for Marvell's future prospects. In the medium term, the strong demand for servers and AI-related products could drive growth in the stocks of Marvell, Hewlett Packard Enterprise, and Arm Holdings. However, the $80 billion equity offering by Alphabet may put a lid on its stock, at least in the near term.",
-      "risks": [
-        "Potential supply chain disruptions from SK Hynix's plans to double its wafer capacity",
-        "Increased competition for Marvell's products from other AI chip designers",
-        "Potential regulatory challenges for Arm Holdings' new AGI CPU"
-      ]
     }
   }
 ]
