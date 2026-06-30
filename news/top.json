@@ -1,5 +1,24 @@
 [
   {
+    "id": "8145523",
+    "headline": "U.S. crude oil hovers above $70 as Trump, Iran issue mixed messages on talks in Qatar",
+    "summary": "The moves come as oil traders monitor the prospect of U.S.-Iran talks in Doha on Tuesday.",
+    "url": "https://www.cnbc.com/2026/06/30/oil-prices-brent-wti-crude-trump-iran.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108328542-1782812691430-gettyimages-2283378045-varittyakkal-flagplaz260629_npSVQ.jpeg?v=1782812722&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1782814437,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782820876,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Oil prices are mixed as the US and Iran engage in mixed messaging on potential talks in Doha, Qatar. The US and Iran had struck a 14-point memorandum of understanding to pause fighting and disrupt global oil flows through the Strait of Hormuz. Energy analysts expect the situation to change quickly, as the temporary ceasefire is not a permanent deal. The market is treating the temporary ceasefire as a permanent deal, leading to a more aggressive sell-off than expected.",
+      "impact": "The mixed messaging on US-Iran talks may lead to increased volatility in oil prices, affecting the earnings outlook of oil-related stocks. Companies such as ExxonMobil (XOM) and Chevron (CVX) may experience fluctuations in their stock prices due to the uncertainty surrounding oil prices. The potential for a permanent deal or extension of the ceasefire could impact the valuation of these stocks in the medium term.",
+      "risks": []
+    }
+  },
+  {
     "id": "8145094",
     "headline": "Buffett delays annual donation to Gates Foundation pending review of Jeffrey Epstein ties: WSJ",
     "summary": "This comes as the foundation continues to review its ties to the late sex offender Jeffery Epstein.",
@@ -30,7 +49,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1782799560,
+    "publishedAt": 1782805131,
     "analysis": {
       "version": 2,
       "generatedAt": 1782811443,
@@ -42,6 +61,52 @@
         "Iran war impact risk",
         "decline in investor sentiment risk",
         "macroeconomic uncertainty risk"
+      ]
+    }
+  },
+  {
+    "id": "8145746",
+    "headline": "Kenya, Rwanda sign fuel import deal to boost supply security - Reuters",
+    "summary": "Kenya, Rwanda sign fuel import deal to boost supply security  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOamxWb01vUUNPU2kwQ2tjTkI3blJHMXB6Nlg1WXVsVnVmbHZ1Sm9Rd2N0OWpna1ZrcTRoUjFNOE4zdGVRR0xUZ2NXTGxLZVlZMDlGSW82Y3F6RENoODUzX1ZqczdsVERTb21CYjItOFpPYUk5X2N4NVAyc01SenZPcmhTbXpabUdHLUl3NUFaaVhuZ2VlblBIV3MtMEFHQWN0RktOOUkxdDdLRmdy?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1782797697,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782820926,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Kenya and Rwanda have signed a fuel import deal to boost supply security, which is expected to increase the availability of fuel in the region. The deal aims to reduce reliance on foreign suppliers and enhance energy security. The agreement is a positive development for the East African region, which has been facing fuel shortages in the past. The deal is expected to benefit both countries by providing a stable and secure source of fuel. This move is likely to have a positive impact on the economies of both countries, particularly in the transportation and energy sectors.",
+      "impact": "The fuel import deal is expected to have a positive impact on the stocks of companies involved in the fuel industry in Kenya and Rwanda. The increased availability of fuel is likely to boost the earnings of companies such as oil refineries, fuel distributors, and transportation companies. In the short-term, the deal is expected to increase the demand for fuel, leading to higher sales and revenue for these companies. In the medium-term, the deal is expected to lead to increased investment in the energy sector, driving economic growth and development in the region.",
+      "risks": [
+        "Dependence on a single supplier",
+        "Fuel price volatility",
+        "Potential delays in implementation"
+      ]
+    }
+  },
+  {
+    "id": "8145642",
+    "headline": "Morning Bid: Investors go shopping for Q3 - Reuters",
+    "summary": "Morning Bid: Investors go shopping for Q3  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zOXVlMURwRlJZeUlDVm03YU1vbFJnNEFtd1ZCQzFOR1FzR3M4aVI0ejNCdnNrWXByM0dvWmg5WDd3MXJ1Z2QxcU5TU1h3eER0YVRNY3J6bnVaUjlIT25LTUxSaS0xVElxUnBZbUxrZ2FTTFF1NE5OVHFzY2RPaFE?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1782793860,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782820973,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Investors are gearing up for the Q3 earnings season, with many companies set to report their quarterly results. This season is expected to be a crucial one, with many analysts forecasting a rebound in earnings growth after a weak Q2. As a result, investors are likely to be closely watching the reports for any signs of improvement in corporate profitability. The Q3 earnings season is also expected to provide insight into the health of the US economy, with many companies set to report on their sales and revenue growth.",
+      "impact": "The potential for a rebound in earnings growth could lead to a short-term boost in stock prices, particularly for companies that have been lagging behind their peers. In the medium term, a strong Q3 earnings season could also lead to an increase in investor sentiment and a subsequent rise in stock valuations. However, investors should be cautious of any potential risks, such as a slowdown in revenue growth or a decline in profit margins.",
+      "risks": [
+        "revenue growth slowdown risk",
+        "profit margin decline risk",
+        "valuation risk"
       ]
     }
   },
@@ -76,7 +141,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1782779190,
+    "publishedAt": 1782777960,
     "analysis": {
       "version": 2,
       "generatedAt": 1782784237,
@@ -84,6 +149,25 @@
       "confidence": 0.6,
       "summary": "US President Trump has urged gasoline retailers to lower their prices, warning of 'big problems' if they don't comply. This statement is a response to recent price hikes at the pump, which have been a topic of public concern. The US gasoline market is heavily influenced by global oil prices, which have been volatile in recent months. The call to action from Trump may put pressure on retailers to adjust their pricing strategies to align with consumer expectations. The impact on the industry will depend on how retailers respond to the pressure and the extent to which they pass on the costs to consumers.",
       "impact": "The potential impact on gasoline retailers could be significant, with short-term price reductions potentially leading to increased sales and market share gains. However, medium-term, retailers may struggle to maintain profitability if they are forced to absorb the costs of lower prices. This could lead to downward pressure on earnings and potentially impact the stock prices of major gasoline retailers such as Chevron (CVX) and ExxonMobil (XOM).",
+      "risks": []
+    }
+  },
+  {
+    "id": "8145526",
+    "headline": "Strawberries and ice cream push UK food price inflation to lowest since March 2025, BRC data shows - Reuters",
+    "summary": "Strawberries and ice cream push UK food price inflation to lowest since March 2025, BRC data shows  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcE5rYzMwMEtZQVNzNHdvcHBaQ2xiUFJBXzhOYzFjbk9pMGc5RlhlUzRlTzNRWlZlWkF2SDRGcDkyWmtWcjliQ3hBOEFTM0JlT2dtd2ZUZWYyUzR1cWxKR1lhN281SUk4Y2E5NHlpU1AzRDNDWkE0ZUpON2pXUTFTVzZnMmtQa1BpYUlfczV6eEtyWnVoYVhfUVMtWE5UM3I5ZFdhZXRfWFQ5SEdKbVg3STVJQU8xN2lXYnpyVXQteTh3QQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1782774180,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782821025,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The UK's food price inflation has reached its lowest level since March 2025, according to the British Retail Consortium (BRC) data. This decline is attributed to lower prices of strawberries and ice cream. The news suggests that the UK's food market is stabilizing, which could be a positive indicator for retailers and food producers. Lower food prices may lead to increased consumer spending, benefiting the overall economy.",
+      "impact": "This news is likely to have a positive impact on retailers and food producers, particularly those with a focus on fresh produce and frozen foods. Companies like Tesco, Sainsbury's, and Waitrose may benefit from the lower food prices, leading to increased sales and revenue. In the short-term, this could lead to a boost in consumer spending, driving demand for these retailers' products. However, the medium-term impact may be a re-evaluation of valuations, as investors reassess the companies' earnings outlook in light of the improved market conditions.",
       "risks": []
     }
   },
@@ -107,29 +191,6 @@
         "geopolitical risk",
         "valuation risk",
         "integration risk"
-      ]
-    }
-  },
-  {
-    "id": "8141088",
-    "headline": "US and Iran negotiators head to Doha, but meeting uncertain - Reuters",
-    "summary": "US and Iran negotiators head to Doha, but meeting uncertain  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPamkzUTk4cHJ6Z1BfZm5Zc2FIX2cwaUNBVGd5dGZLenN5bjdsV2RqamY3NXhna0NpZjdiSDBobnpYNHpJaExjcWdOUWtteTdPNkd3ckJ1d0lEWFVkTlpueHlBRTV0b0lWLXVmbkxBenBKbGtmMFRKZGl4amxmcXU3RmV2ZGtIRHBoUzNoUl9mYzdpZHJwclRzNkNTNjJtYm8xbEkzcUowbnBaVWxCT2JXWEFVUlRyUkl1aDZpekJ4SlZjVFk?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782770371,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782745656,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Mediators have established de-escalation channels ahead of US-Iran talks, aiming to reduce tensions between the two nations. This development comes as a precursor to potential diplomatic efforts to resolve the ongoing conflict. The move is seen as a step towards easing tensions, which could have a positive impact on regional stability. However, the outcome of the talks remains uncertain, and any breakthroughs are not guaranteed. The news does not directly relate to any specific company or industry, but it may have a broader impact on global markets and geopolitics.",
-      "impact": "The news may have a positive impact on global markets, particularly in the energy and defense sectors, as reduced tensions could lead to increased trade and economic cooperation. However, the medium-term impact is uncertain, and any significant developments will depend on the outcome of the US-Iran talks. The news is unlikely to have a direct impact on individual company earnings or valuations, but it may influence investor sentiment and market volatility in the short term.",
-      "risks": [
-        "Uncertainty around the outcome of the US-Iran talks",
-        "Potential escalation of tensions if negotiations fail",
-        "Impact on global market volatility and investor sentiment"
       ]
     }
   },
@@ -199,6 +260,29 @@
         "Supply chain disruptions risk, given the company's priority on strengthening its supply chain",
         "Risk of overestimating growth prospects, particularly in the commercial aftermarket",
         "Potential integration risks with strategic acquisitions"
+      ]
+    }
+  },
+  {
+    "id": "8145320",
+    "headline": "Europe's economic resilience gives ECB greater room to move rates, Lagarde says - Reuters",
+    "summary": "Europe's economic resilience gives ECB greater room to move rates, Lagarde says  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcUszT2lMQnNpaUxGbFpJNG1KMDJJNmF4ZUJKX1g3ejBKbGhxbTRIWGNOTHBBbzA3enRTUFZDLTR6ek1fRnZLV3RUOTdGRFg2V3JOYUVSUFlhOTY5bFo5Y1JvX1V1OFRyTUZCZElwaDRTOVpSWTdITXg0YjZZeWZpWk03U0Rxcy04MzFPRUlIaVM0U0FIOFFfX01BNmpSZmx5OWFBTjZFNEdaQ25RZUJaTjlNOC14Um1LaVpaazJ2Qjh3aTZVMkE?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1782759735,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782821077,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "European Central Bank (ECB) President Christine Lagarde stated that Europe's economic resilience has given the ECB more room to maneuver with interest rates. This is a positive development for the region's economy, as it indicates that the ECB may be able to maintain or even lower interest rates to stimulate growth. The ECB's ability to set interest rates has a significant impact on the European economy, and a more accommodative monetary policy could boost economic activity. This, in turn, could lead to increased corporate earnings and improved business sentiment.",
+      "impact": "The news is likely to be positive for European stocks, particularly those in the financial sector, as a more accommodative monetary policy could lead to increased lending and economic activity. This could also boost the earnings outlook for companies in the region, particularly those with high debt levels. The news may also lead to a decrease in the euro, making European exports more competitive and potentially benefiting companies with significant international sales. In the short-term, the news may lead to a rally in European stocks, particularly those with high exposure to the region's economy.",
+      "risks": [
+        "Inflation risk: if inflation rises, the ECB may need to raise interest rates to combat it, which could offset the positive impact of the news.",
+        "Economic slowdown risk: if the European economy slows down, the ECB may need to tighten monetary policy, which could negatively impact the region's stocks.",
+        "Geopolitical risk: any escalation of the ongoing geopolitical tensions in Europe could negatively impact the region's economy and stocks."
       ]
     }
   },
@@ -344,7 +428,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1782744999,
+    "publishedAt": 1782744720,
     "analysis": {
       "version": 2,
       "generatedAt": 1782799127,
@@ -471,6 +555,39 @@
         "security risks associated with continued attacks on vessels in the region",
         "potential impact on global oil and gas prices due to supply chain disruptions",
         "uncertainty around the long-term sustainability of Middle East oil and gas production levels"
+      ]
+    }
+  },
+  {
+    "id": "8145527",
+    "headline": "Morning Bid: Weekend wars - Reuters",
+    "summary": "Morning Bid: Weekend wars  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa1NiUTBJSHp2YmZWYVVqMUFDa3pUaXpOVVVMV3ViVlVGS2tpVjlUV0R4TFFLdVp6QmVybDlKRjFxa1dBTUxjd1A3UTNILUIyVkVaZmlQQXVHSkVLVGluSUQzOGxIU2t4YVcwVWtaYnl5Z2JRZmFMeXBWdWhDYlJqa0lmekhBM0ZJaUlKZmczTFdkMlJ2cHFB?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1782729435
+  },
+  {
+    "id": "8141088",
+    "headline": "US and Iran negotiators head to Doha, but meeting uncertain - Reuters",
+    "summary": "US and Iran negotiators head to Doha, but meeting uncertain  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPamkzUTk4cHJ6Z1BfZm5Zc2FIX2cwaUNBVGd5dGZLenN5bjdsV2RqamY3NXhna0NpZjdiSDBobnpYNHpJaExjcWdOUWtteTdPNkd3ckJ1d0lEWFVkTlpueHlBRTV0b0lWLXVmbkxBenBKbGtmMFRKZGl4amxmcXU3RmV2ZGtIRHBoUzNoUl9mYzdpZHJwclRzNkNTNjJtYm8xbEkzcUowbnBaVWxCT2JXWEFVUlRyUkl1aDZpekJ4SlZjVFk?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1782729300,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782745656,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Mediators have established de-escalation channels ahead of US-Iran talks, aiming to reduce tensions between the two nations. This development comes as a precursor to potential diplomatic efforts to resolve the ongoing conflict. The move is seen as a step towards easing tensions, which could have a positive impact on regional stability. However, the outcome of the talks remains uncertain, and any breakthroughs are not guaranteed. The news does not directly relate to any specific company or industry, but it may have a broader impact on global markets and geopolitics.",
+      "impact": "The news may have a positive impact on global markets, particularly in the energy and defense sectors, as reduced tensions could lead to increased trade and economic cooperation. However, the medium-term impact is uncertain, and any significant developments will depend on the outcome of the US-Iran talks. The news is unlikely to have a direct impact on individual company earnings or valuations, but it may influence investor sentiment and market volatility in the short term.",
+      "risks": [
+        "Uncertainty around the outcome of the US-Iran talks",
+        "Potential escalation of tensions if negotiations fail",
+        "Impact on global market volatility and investor sentiment"
       ]
     }
   },
@@ -778,7 +895,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1782696660,
+    "publishedAt": 1782697166,
     "analysis": {
       "version": 2,
       "generatedAt": 1782763344,
@@ -1137,6 +1254,16 @@
         "safety risk"
       ]
     }
+  },
+  {
+    "id": "8145747",
+    "headline": "BIS says debt, AI boom and fragilities raise global risks - Reuters",
+    "summary": "BIS says debt, AI boom and fragilities raise global risks  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNVR4T0hxcEdBMnhpb3UwQThfajRZbl9DVkdCNVRmaUFoaHhNX1hzWm9MM3pXTk5aazFzMGpySTRCY3BPWUJfX0cyZE41ZjlmOVVOdWZBVk81QkllWjdxcEFSYmJnU19tZjN2MEpabDFrSS1FZk9LMXNfR3FTX0pLYg?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1782637426
   },
   {
     "id": "8135435",
@@ -1737,29 +1864,6 @@
     }
   },
   {
-    "id": "8143318",
-    "headline": "Oil prices dive as more tankers move through Strait of Hormuz - Reuters",
-    "summary": "Oil prices dive as more tankers move through Strait of Hormuz  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWjhLRmoxOGtYcldWSWt2aDlpcExleWFoYzhFendSc0pJV0d0bE0wbUpvVzF5R1JwbHNsWEtfWm9vcnByc3NERm1RanQwRnVrZ1FrNVJ0OTZHMG5uRmhxaVMtbThOTU96b21VbkF5Ny1sV3V4bE5FZEJ0LUNxMFIxaTJjOTd1dUJxVE9zYlp0WFhLLUozVWNQX2lrd2E2SlRMVjI0Ym9Sb0pkMWJESWFQTFdaa3FlRkJoT21yajlpSTdCRVh5?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782522167,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782776582,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Oil prices have declined as more tankers have moved through the Strait of Hormuz, a key shipping route. The Strait is a critical chokepoint for oil exports from the Middle East, and tensions in the region have raised concerns about supply disruptions. The recent increase in tanker traffic through the Strait suggests that oil supplies are being transported despite the risks. This could lead to increased oil production and supply, putting downward pressure on oil prices. The price decline is also influenced by the global economic slowdown and reduced demand for oil.",
-      "impact": "The decline in oil prices could have a negative impact on oil producers such as ExxonMobil (XOM) and Chevron (CVX), as lower prices reduce their revenue and profitability. In the short-term, the decline in oil prices could also lead to lower earnings for these companies. However, in the medium-term, the increased supply and reduced demand could lead to a prolonged period of low oil prices, which could negatively impact the earnings and valuation of these companies. The decline in oil prices could also lead to increased liquidity in the oil sector, potentially benefiting companies with strong balance sheets and diversified operations.",
-      "risks": [
-        "reduced demand risk",
-        "supply chain disruption risk",
-        "macroeconomic slowdown risk"
-      ]
-    }
-  },
-  {
     "id": "8139911",
     "headline": "Thousands left without power after wild weather in New Zealand - Reuters",
     "summary": "Thousands left without power after wild weather in New Zealand  Reuters",
@@ -1890,6 +1994,29 @@
         "Debt burden risk",
         "Negative free cash flow risk",
         "AI strategy execution risk"
+      ]
+    }
+  },
+  {
+    "id": "8143318",
+    "headline": "Oil prices dive as more tankers move through Strait of Hormuz - Reuters",
+    "summary": "Oil prices dive as more tankers move through Strait of Hormuz  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWjhLRmoxOGtYcldWSWt2aDlpcExleWFoYzhFendSc0pJV0d0bE0wbUpvVzF5R1JwbHNsWEtfWm9vcnByc3NERm1RanQwRnVrZ1FrNVJ0OTZHMG5uRmhxaVMtbThOTU96b21VbkF5Ny1sV3V4bE5FZEJ0LUNxMFIxaTJjOTd1dUJxVE9zYlp0WFhLLUozVWNQX2lrd2E2SlRMVjI0Ym9Sb0pkMWJESWFQTFdaa3FlRkJoT21yajlpSTdCRVh5?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1782503984,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782776582,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Oil prices have declined as more tankers have moved through the Strait of Hormuz, a key shipping route. The Strait is a critical chokepoint for oil exports from the Middle East, and tensions in the region have raised concerns about supply disruptions. The recent increase in tanker traffic through the Strait suggests that oil supplies are being transported despite the risks. This could lead to increased oil production and supply, putting downward pressure on oil prices. The price decline is also influenced by the global economic slowdown and reduced demand for oil.",
+      "impact": "The decline in oil prices could have a negative impact on oil producers such as ExxonMobil (XOM) and Chevron (CVX), as lower prices reduce their revenue and profitability. In the short-term, the decline in oil prices could also lead to lower earnings for these companies. However, in the medium-term, the increased supply and reduced demand could lead to a prolonged period of low oil prices, which could negatively impact the earnings and valuation of these companies. The decline in oil prices could also lead to increased liquidity in the oil sector, potentially benefiting companies with strong balance sheets and diversified operations.",
+      "risks": [
+        "reduced demand risk",
+        "supply chain disruption risk",
+        "macroeconomic slowdown risk"
       ]
     }
   },
@@ -22568,167 +22695,6 @@
         "Risk of increased competition from domestic players if they can adapt quickly to the changed market dynamics",
         "Potential for a reversal of the duty extension by the government in the future",
         "Dependence on government policies for the company's business"
-      ]
-    }
-  },
-  {
-    "id": "8019302",
-    "headline": "China, tungsten and a supply shock in metal critical for war that will last far beyond Iran conflict",
-    "summary": "Simultaneous wars in Ukraine and Iran have depleted sources of tungsten, a largely obscure metal that is critical to munitions and industrial production.",
-    "url": "https://www.cnbc.com/2026/06/03/china-metals-national-security-defense-weapons-supply-tungsten.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108309872-1779291291941-gettyimages-2216860840-RWANDA_TUNGSTEN.jpeg?v=1779291310&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1780486211,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1780699807,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The ongoing wars in Ukraine and Iran have led to a shortage of tungsten, a critical metal used in munitions, industrial production, and various everyday items. China dominates the global tungsten market, controlling 80% of production, but has clamped down on exports due to national security concerns. This has created a supply chain bottleneck, with the US relying on imports, particularly from China. The US Department of Defense is seeking new sources of tungsten, with a new mining operation in Kazakhstan being developed.",
-      "impact": "The tungsten shortage is likely to drive up prices, benefiting companies involved in tungsten mining and processing, such as those listed on the stock exchange. In the short-term, this could lead to increased earnings for these companies, while in the medium-term, it could attract new investments and partnerships. The US Department of Defense's new sourcing rules could also create new opportunities for companies that can provide alternative sources of tungsten.",
-      "risks": [
-        "Supply chain disruption risk",
-        "Dependence on Chinese tungsten imports risk",
-        "Regulatory approval risk for new mining operations"
-      ]
-    }
-  },
-  {
-    "id": "8022166",
-    "headline": "UK services firms post first drop in activity since April 2025 as Iran war price pressure persists - Reuters",
-    "summary": "UK services firms post first drop in activity since April 2025 as Iran war price pressure persists  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS0tRWFgta1lPZzRBNm1rNkxfd0RIbklOQzdKMEY2NFNlWFRDRzZ5S0kxS0ZZcW5YNjZ5UE8zUjdVRzlTNU5NbW5RRUo2N2ZDTmUwSkp4MF95WkZyeHdaLTJFbUY0X0NaUlgzRzRZVlh1a1NaUUpCcjB4VDZraDJtX29weWUzYmtxUUdpRnNaZlN6eFJPZGZpWDBsV3Z4RW9HV29rdnY0YlE5VW5tM3Vzalh5RExWQ1pqWTFHdWdpckVyUQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1780482858,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1780699854,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "UK services firms have reported a decline in activity for the first time since April 2025, primarily due to the ongoing Iran war and its associated price pressure. This development is a concern for the UK economy, as services account for a significant portion of the country's GDP. The Iran war has led to increased uncertainty and volatility in the market, affecting businesses' confidence and investment decisions. The decline in services activity may also have a ripple effect on other sectors, such as manufacturing and trade.",
-      "impact": "The decline in services activity is likely to have a negative impact on the UK economy in the short term, potentially leading to a decrease in GDP growth. This may also lead to a decline in earnings for companies in the services sector, particularly those with high exposure to the UK market. The Iran war's price pressure may also lead to increased inflation, which could further exacerbate the situation. In the medium term, the decline in services activity may lead to a decrease in business investment and hiring, potentially affecting the overall economic growth.",
-      "risks": [
-        "Decreased earnings for services sector companies",
-        "Increased inflation due to price pressure",
-        "Decreased business investment and hiring"
-      ]
-    }
-  },
-  {
-    "id": "8018971",
-    "headline": "Norwegian teen, hired by Swedish crime group used by Iran, planned UK murder, London court told - Reuters",
-    "summary": "Norwegian teen, hired by Swedish crime group used by Iran, planned UK murder, London court told  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaVdHaGlSX2dhVEU1NFhZZ05jcWRya0ltR2lMSVlwZkZNTlgtRTVBdmFKdGhIN1JyLU1ESkdwZFBJMzNaVDVTdFFHcHFiYmwyaUlxMzdnMEtPUzNhSEo0Y3RfVlI5RC1DMnlKTEpzc1BUZS00YWVHYmJEa2xnTWtWNnl2MzIyWGtrWU5xekFKWUVfOWFuSTBsWWdYMjZNdkRkQ2lOU3FmX0hUQ1ZFMTBHRkFtT1Z6QU0?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1780482404,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1780679196,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "A Norwegian teenager, allegedly hired by a Swedish crime group linked to Iran, was involved in planning a murder in the UK. The case is being heard in a London court. The teenager's involvement in the crime group raises concerns about the potential for international organized crime to operate in the UK. This news does not have a direct impact on the stock market, but it may contribute to a broader narrative about global security risks. The case highlights the complex nature of international crime and the need for law enforcement agencies to cooperate across borders.",
-      "impact": "This news is unlikely to have a significant impact on the stock market in the short term. However, it may lead to increased scrutiny of companies with ties to Sweden or Iran, potentially affecting their stock prices in the medium term. Investors may reassess their exposure to companies with international operations, particularly those in industries vulnerable to security risks. The news may also contribute to a broader shift in investor sentiment towards global security risks, potentially impacting the stock prices of companies in the defense and security sectors.",
-      "risks": [
-        "Increased regulatory scrutiny of companies with ties to Sweden or Iran",
-        "Potential reputational damage to companies with international operations",
-        "Increased security risks for companies operating in high-risk regions"
-      ]
-    }
-  },
-  {
-    "id": "8017766",
-    "headline": "Indian shares trim losses on foreign inflow hopes; IT sinks, oil surges - Reuters",
-    "summary": "Indian shares trim losses on foreign inflow hopes; IT sinks, oil surges  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ3NXSTV1QkRlSEVDSlZ2eFB1NmZZWjcwN0lXMGJSWms1SDlIWWFrNjRJVDc2SHIzYjBpQVhvY3ZzMUZtbkRjMGNMNlRrVklPeEY1OERjNnRKRTZ0OUJBU1FuYkNQU08waHNoRUxRQnV6TUQ0WGZKV2FBdDhScWgya0prdVdfaktzZDBNa09ta2xKaGxRbldNTHZyM0JKcHJaNG1leG9YUS0tWURTOTd2NW05OHBpb183S0JV?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1780481981,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1780482549,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Indian shares have resumed their decline due to the combined impact of high oil prices and a selloff in the IT sector. The rise in oil prices has led to increased inflation concerns, which may weigh on the overall market sentiment. The IT sector, which has been a key driver of the Indian market, has seen a significant selloff in recent days, further exacerbating the decline. This has resulted in a bearish sentiment among investors, leading to a decline in stock prices.",
-      "impact": "The potential impact on the Indian market is likely to be negative in the short term, with the decline in IT stocks and high oil prices leading to a decrease in investor confidence. This may result in a decrease in stock prices across the board, particularly in the IT and energy sectors. The medium-term impact may be a re-evaluation of the market's growth prospects, potentially leading to a decline in valuations. The liquidity in the market may also be affected, making it challenging for investors to exit their positions.",
-      "risks": [
-        "Increased inflation risk due to high oil prices",
-        "Potential decline in investor confidence",
-        "Re-evaluation of market growth prospects"
-      ]
-    }
-  },
-  {
-    "id": "8014242",
-    "headline": "Rubio grilled on Iran, says US won't swap sanctions relief for strait - Reuters",
-    "summary": "Rubio grilled on Iran, says US won't swap sanctions relief for strait  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMnhHX3pib0VOUmUzRkNhT1VGQVRRVnBVeVc1eVgta1dMNDVGRVVTZ0Jtb21oYUIyYjg1b3BoY28zMHd1dVQza1hPa3pWMFBzRktIOVVmdG5zVGFHaHdRZjJrdWVNUVJ1cEZPa0d6S2FiVDFOb1haX1I0ZlRLcjNJQjFRNk9MUWlodkxpOVhwM3RtdzE0Q1B4QklrNklVTDQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1780480159,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1780408111,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "US lawmakers are set to question Senator Marco Rubio about the ongoing Iran war, which has entered its fourth month. The war has led to increased tensions in the Middle East, potentially disrupting global oil supplies and impacting the US economy. This news may lead to a decrease in investor confidence, affecting the overall market sentiment. The US lawmakers' questioning of Rubio may shed more light on the situation, but the uncertainty surrounding the war's outcome is likely to continue.",
-      "impact": "The ongoing Iran war and its potential escalation may negatively impact the oil and gas industry, leading to a decrease in earnings for companies involved in the sector. This could result in a decrease in stock prices for companies like ExxonMobil (XOM) and Chevron (CVX). Additionally, the uncertainty surrounding the war may lead to increased volatility in the market, affecting investor sentiment and potentially leading to a decrease in stock prices across the board.",
-      "risks": [
-        "Oil supply disruption risk",
-        "Escalation of conflict risk",
-        "Decrease in investor confidence risk"
-      ]
-    }
-  },
-  {
-    "id": "8018859",
-    "headline": "Israel intercepts 'hostile aircraft' that crossed from Lebanon, military says - Reuters",
-    "summary": "Israel intercepts 'hostile aircraft' that crossed from Lebanon, military says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcTk3T2x5YmJhMUZzenpMUTg0UEJGUkZLNnVKMTF4dkU3cW9Kd1ZkSk9Jc1BxTlhhR2kzOUEwbmJIT3U4bUhiSmNWbkxBRnJ2cjNWYk1Xa29zOE54OUtNd2JnbWRKVWtldzRPYjBteFd3TmtDbVAtX0xUWTFmVklGZW4zLXM5N3BWMDBaMGVscGZEWkt1UHhPQ0VuOFNqLWJXbXA2dU1CUzJVTjVFQm5PbFR5bEx2bXY3d2dLUjdQeTM?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1780477544,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1780699900,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The Israeli military intercepted a 'hostile aircraft' that crossed from Lebanon, escalating tensions in the region. The incident occurred on the backdrop of ongoing conflicts in the Middle East, with Israel and Lebanon having a long-standing dispute over their shared border. The event may lead to increased military spending and heightened security measures, potentially impacting the defense industry and related companies. The incident may also raise concerns about regional instability and its impact on global markets.",
-      "impact": "The incident may have a bearish impact on the defense industry, particularly on companies that supply military equipment and services to Israel. The increased military spending and heightened security measures may lead to a short-term boost in demand for defense-related products and services, but the medium-term impact may be neutral or even bearish if the conflict escalates and leads to a broader regional destabilization. The incident may also lead to increased volatility in global markets, particularly in the Middle East, which could impact investor sentiment and liquidity.",
-      "risks": [
-        "Regional instability risk",
-        "Escalation of conflict risk",
-        "Global market volatility risk"
-      ]
-    }
-  },
-  {
-    "id": "8023428",
-    "headline": "Rouble's strength squeezes Russian exporters despite Iran war oil gains - Reuters",
-    "summary": "Rouble's strength squeezes Russian exporters despite Iran war oil gains  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTmpQdnJpZVM0UjFuSmtjSHhiYzdRRmhGTEhhM2NFVUFTUGh3MmdEY01abW1yUi05bjVHMzd4N2xlb200MjBweFN0N2ZxZU82N2p3UnR5ZFRDUnI4aFRCZ1QxQ1FnRTFLQ3dXUHhEYVJFSVBqbWZzdm8zb0F1MTROdXA2dnpKS3VscG5pNGhRU1pqWU5NX0plUjNFMmVyTXVLdk81Y01DVW9vdFl6cDNsNFJIZzEwdEFha3dORjd0UDQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1780476932,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1780703699,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "The rouble's strength is negatively impacting Russian exporters despite the recent gains in oil prices due to the Iran war. The rouble's appreciation is making Russian exports more expensive, reducing their competitiveness in the global market. This is particularly concerning for Russian companies that rely heavily on exports, such as those in the energy and commodities sectors. The rouble's strength is also a result of higher oil prices, which are expected to continue due to the ongoing conflict in Iran. This could lead to a further appreciation of the rouble, exacerbating the challenges faced by Russian exporters.",
-      "impact": "The rouble's strength is likely to have a negative impact on Russian exporters in the short term, as it reduces their competitiveness in the global market. This could lead to a decline in exports and revenue for companies that rely heavily on international sales. In the medium term, the appreciation of the rouble could also lead to a revaluation of Russian companies, potentially making them less attractive to investors. This could result in a decline in stock prices for companies that are heavily exposed to the rouble's strength.",
-      "risks": [
-        "decline in exports and revenue for Russian companies",
-        "reduced competitiveness in the global market",
-        "revaluation of Russian companies, potentially leading to lower stock prices"
       ]
     }
   }
