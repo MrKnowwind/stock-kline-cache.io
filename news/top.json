@@ -7,7 +7,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1782852904,
+    "publishedAt": 1782856350,
     "analysis": {
       "version": 2,
       "generatedAt": 1782832871,
@@ -19,6 +19,30 @@
         "Escalation of the US-Iran conflict could lead to a sudden shift in market sentiment and a decline in stock prices.",
         "A downturn in the US economy could reduce the market's risk appetite and impact earnings expectations.",
         "A rise in interest rates could reduce the attractiveness of stocks and impact investor sentiment."
+      ]
+    }
+  },
+  {
+    "id": "8146081",
+    "headline": "Iran says it won't meet with U.S. envoys, clouding prospects for peace deal - Reuters",
+    "summary": "Iran says it won't meet with U.S. envoys, clouding prospects for peace deal  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOem1UeFBMZHJrM2tKRG9fdE5oTEQzWEpsRGxPTVNwZ1cyTEMta3laT2Z0N1NMYU1zc1BzMTYtSGJSSGI0VUVselZGZnQ4cnlKSk5MekZIakY2LUNMTzFMZU5oV0dxeFNLaEpsZzRLOFJjWVVoU2xDS1ZaQ3Q4YlE2Zk1DbjFrSnoyWnlZTC1zOTQ5bnpOR3RhWVN6X3BKcjNGd3I4MVlFajF0aFBiZl96NnAyclQtMWs?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1782853807,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782832820,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "The article reports on the uncertainty surrounding the US-Iran deal due to Qatar's diplomatic efforts. Qatar's involvement has raised concerns that the deal may not be reached as expected, which could impact the oil market and related industries. The US-Iran deal has significant implications for the global energy market, particularly for companies involved in oil and gas production, such as ExxonMobil and Chevron. The uncertainty surrounding the deal has created a risk for these companies, as a delay or failure to reach an agreement could impact their earnings outlook and valuation.",
+      "impact": "The potential failure of the US-Iran deal could lead to a short-term increase in oil prices, benefiting energy companies such as ExxonMobil and Chevron. However, in the medium term, a prolonged uncertainty could lead to a decline in investor sentiment, affecting the stocks' valuation and liquidity. The earnings outlook for these companies may also be impacted, as a delay in the deal could reduce their ability to invest in new projects and exploration.",
+      "risks": [
+        "Deal failure risk",
+        "Oil price volatility risk",
+        "Earnings outlook risk",
+        "Investor sentiment risk"
       ]
     }
   },
@@ -41,30 +65,6 @@
       "risks": [
         "no direct impact on business fundamentals",
         "no clear connection to specific stocks or industries"
-      ]
-    }
-  },
-  {
-    "id": "8146081",
-    "headline": "Uncertainty over Qatar diplomacy clouds prospects for US-Iran deal - Reuters",
-    "summary": "Uncertainty over Qatar diplomacy clouds prospects for US-Iran deal  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOem1UeFBMZHJrM2tKRG9fdE5oTEQzWEpsRGxPTVNwZ1cyTEMta3laT2Z0N1NMYU1zc1BzMTYtSGJSSGI0VUVselZGZnQ4cnlKSk5MekZIakY2LUNMTzFMZU5oV0dxeFNLaEpsZzRLOFJjWVVoU2xDS1ZaQ3Q4YlE2Zk1DbjFrSnoyWnlZTC1zOTQ5bnpOR3RhWVN6X3BKcjNGd3I4MVlFajF0aFBiZl96NnAyclQtMWs?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782852756,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782832820,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "The article reports on the uncertainty surrounding the US-Iran deal due to Qatar's diplomatic efforts. Qatar's involvement has raised concerns that the deal may not be reached as expected, which could impact the oil market and related industries. The US-Iran deal has significant implications for the global energy market, particularly for companies involved in oil and gas production, such as ExxonMobil and Chevron. The uncertainty surrounding the deal has created a risk for these companies, as a delay or failure to reach an agreement could impact their earnings outlook and valuation.",
-      "impact": "The potential failure of the US-Iran deal could lead to a short-term increase in oil prices, benefiting energy companies such as ExxonMobil and Chevron. However, in the medium term, a prolonged uncertainty could lead to a decline in investor sentiment, affecting the stocks' valuation and liquidity. The earnings outlook for these companies may also be impacted, as a delay in the deal could reduce their ability to invest in new projects and exploration.",
-      "risks": [
-        "Deal failure risk",
-        "Oil price volatility risk",
-        "Earnings outlook risk",
-        "Investor sentiment risk"
       ]
     }
   },
@@ -454,7 +454,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1782817240
+    "publishedAt": 1782817240,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782860278,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The news article discusses the impressive performance of a company that has doubled its sales by halftime. The company's strong sales growth is likely due to its innovative products and effective marketing strategies. This growth is a positive indicator of the company's competitiveness and market demand. The article highlights the company's ability to execute its business plan and meet customer needs. As a result, investors may view the company as a promising investment opportunity.",
+      "impact": "The news is likely to have a positive impact on the company's stock price, potentially leading to a short-term increase in valuation. The company's strong sales growth may also boost investor sentiment, leading to increased liquidity and trading activity. In the medium term, the company's earnings outlook may improve, leading to a re-rating of the stock. Additionally, the company's market position may strengthen, making it more attractive to investors.",
+      "risks": [
+        "overestimation of sales growth risk",
+        "intense competition risk",
+        "supply chain disruption risk"
+      ]
+    }
   },
   {
     "id": "8146082",
@@ -464,7 +477,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1782816583
+    "publishedAt": 1782816583,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782860323,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "US envoy Witkoff and Kushner are traveling to Qatar, but will not meet with Iranian officials. This development is not directly related to any specific company or industry, but it may have implications for the broader geopolitical landscape. The visit is seen as an attempt to strengthen ties between the US and Qatar, which could potentially impact regional politics and trade relationships. The absence of a meeting with Iran suggests that the US is maintaining its tough stance on the country.",
+      "impact": "The news is unlikely to have a direct impact on US stocks in the short term, but it may influence market sentiment and investor confidence in the medium term. The strengthening of US-Qatar ties could lead to increased trade and investment opportunities, potentially benefiting companies with exposure to the Middle East region. However, the absence of a meeting with Iran may also suggest a continued tough stance on the country, which could have negative implications for companies with business interests in Iran.",
+      "risks": [
+        "geopolitical risk",
+        "trade war risk",
+        "regional instability risk"
+      ]
+    }
   },
   {
     "id": "8145523",
@@ -493,7 +519,16 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1782812890
+    "publishedAt": 1782812890,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782860369,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Two members of Iran's Revolutionary Guards were killed by gunmen in western Iran, which may indicate a rise in sectarian violence in the region. This event is likely linked to the ongoing tensions between Iran and the US, as well as the ongoing protests in Iran. The incident may also be related to the growing presence of extremist groups in the region. The Iranian government has been under pressure from the US sanctions and the protests, which may lead to increased instability in the region.",
+      "impact": "The news may lead to a short-term increase in tensions between Iran and the US, potentially affecting the global oil market and the oil prices. This may have a negative impact on the earnings outlook for companies with significant exposure to the Middle East, such as oil majors. The increased instability in the region may also lead to a decrease in investor sentiment towards companies with operations in Iran, such as those in the energy sector. Additionally, the incident may lead to a rise in security costs for companies operating in the region, which could negatively impact their bottom line.",
+      "risks": []
+    }
   },
   {
     "id": "8145860",
@@ -503,7 +538,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1782812796
+    "publishedAt": 1782812796,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782860414,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Indonesia's biofuel mandate is facing a test after global oil prices have tumbled. The country's biofuel industry relies heavily on the government's mandate to purchase a certain percentage of biofuels, which is linked to global oil prices. As oil prices fall, the economic viability of biofuels decreases, making it challenging for the industry to meet the mandate. This could lead to a decrease in demand for biofuels, affecting companies that produce them.",
+      "impact": "The decline in oil prices could lead to a decrease in demand for biofuels, negatively impacting companies that produce them. This could result in lower earnings for these companies, potentially affecting their stock prices. The medium-term impact could be a decrease in investment in the biofuel industry, as investors become less confident in the sector's prospects. This could lead to a decrease in liquidity for these stocks.",
+      "risks": [
+        "decline in oil prices risk",
+        "decrease in demand risk",
+        "earnings decline risk"
+      ]
+    }
   },
   {
     "id": "8145094",
@@ -548,6 +596,29 @@
         "Iran war impact risk",
         "decline in investor sentiment risk",
         "macroeconomic uncertainty risk"
+      ]
+    }
+  },
+  {
+    "id": "8136959",
+    "headline": "Saudi Aramco helicopter crash kills 14 nationals, state news agency says - Reuters",
+    "summary": "Saudi Aramco helicopter crash kills 14 nationals, state news agency says  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTl9QcUZ1VHdxdmRSYXhWRC0yWkdKMFhJYXNlM0JVMFEwR1BTeDA4djNxVjgtTnJPcVlTT0xGTDBlRE5FSllaLTdjcnFidVkwdDZKdlB6SmhKazhabUlvckNEaTF3VUdLTkgzUnZXbzB6MUZ3QkFBV09NVEZDSFpJTkkxUTlsekhMdlNsb0oxbl9QcEp3ZFZWYktvZ3dhTUNDVEJHSg?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1782798504,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782665513,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "A helicopter crash in Saudi Arabia has resulted in the deaths of 14 Saudi nationals. The incident occurred while the helicopter was on a domestic flight. Saudi Aramco, the state-owned oil company, is not directly involved in the incident. The news does not provide any information about the cause of the crash or the potential impact on the company's operations. The incident is a tragic event, but it does not appear to have any direct connection to the company's business fundamentals or industry context.",
+      "impact": "The news is unlikely to have a significant impact on Saudi Aramco's stock price in the short term. However, if the incident is found to be related to the company's operations or safety record, it could potentially lead to a negative sentiment shift and a decline in the stock price. The incident may also raise concerns about the safety of the company's employees and the potential risks associated with its operations.",
+      "risks": [
+        "regulatory scrutiny risk",
+        "reputation risk",
+        "safety risk"
       ]
     }
   },
@@ -628,7 +699,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1782780540
+    "publishedAt": 1782780540,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782860461,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The International Monetary Fund (IMF) has reached a staff-level agreement with Egypt that could unlock $1.6 billion in funding. This deal is a significant development for Egypt's economy, which has been struggling with a currency crisis and high inflation. The IMF's support is expected to help stabilize the Egyptian pound and improve the country's economic outlook. The agreement is subject to approval by the IMF's Executive Board, but if successful, it could have a positive impact on Egypt's economic fundamentals and potentially boost investor sentiment.",
+      "impact": "The news is likely to have a positive impact on Egyptian stocks, particularly those in the banking and finance sector, as the IMF's support is expected to improve the country's economic stability and attract foreign investment. The Egyptian pound may also appreciate against the US dollar, making Egyptian assets more attractive to foreign investors. In the short term, this could lead to a rally in Egyptian stocks, with potential upside for stocks such as Commercial International Bank Egypt (CIB), Banque Misr, and Suez Canal Authority.",
+      "risks": [
+        "IMF approval risk",
+        "Egyptian economic stabilization risk",
+        "Currency volatility risk"
+      ]
+    }
   },
   {
     "id": "8143737",
@@ -1757,29 +1841,6 @@
     }
   },
   {
-    "id": "8136959",
-    "headline": "Saudi Aramco helicopter crash kills 14 nationals, state news agency says - Reuters",
-    "summary": "Saudi Aramco helicopter crash kills 14 nationals, state news agency says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTl9QcUZ1VHdxdmRSYXhWRC0yWkdKMFhJYXNlM0JVMFEwR1BTeDA4djNxVjgtTnJPcVlTT0xGTDBlRE5FSllaLTdjcnFidVkwdDZKdlB6SmhKazhabUlvckNEaTF3VUdLTkgzUnZXbzB6MUZ3QkFBV09NVEZDSFpJTkkxUTlsekhMdlNsb0oxbl9QcEp3ZFZWYktvZ3dhTUNDVEJHSg?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782647400,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782665513,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "A helicopter crash in Saudi Arabia has resulted in the deaths of 14 Saudi nationals. The incident occurred while the helicopter was on a domestic flight. Saudi Aramco, the state-owned oil company, is not directly involved in the incident. The news does not provide any information about the cause of the crash or the potential impact on the company's operations. The incident is a tragic event, but it does not appear to have any direct connection to the company's business fundamentals or industry context.",
-      "impact": "The news is unlikely to have a significant impact on Saudi Aramco's stock price in the short term. However, if the incident is found to be related to the company's operations or safety record, it could potentially lead to a negative sentiment shift and a decline in the stock price. The incident may also raise concerns about the safety of the company's employees and the potential risks associated with its operations.",
-      "risks": [
-        "regulatory scrutiny risk",
-        "reputation risk",
-        "safety risk"
-      ]
-    }
-  },
-  {
     "id": "8145747",
     "headline": "BIS says debt, AI boom and fragilities raise global risks - Reuters",
     "summary": "BIS says debt, AI boom and fragilities raise global risks  Reuters",
@@ -1788,6 +1849,16 @@
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
     "publishedAt": 1782637426
+  },
+  {
+    "id": "8147918",
+    "headline": "Ukraine hits refinery in Russia's Krasnodar region overnight - Reuters",
+    "summary": "Ukraine hits refinery in Russia's Krasnodar region overnight  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVkNESVRDOHNUb1hYWXVDc3JjSGN3THl0cVlUcXktM1dEU0xuUVItNEtCdkt2aFEwYkdTcTdYbzgzQkMxZmlTOUx5VVdublk2bmtxWWhOdTVMRDlpMmtLOVpEc3gxbGgtTjRlcW93Um1XckxCUy1wMEhnUF9xQmlWMVRGR2NNNE9PN05KaWt0bzZfVDRwOGNLc0U4OVFEODQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1782630220
   },
   {
     "id": "8135435",
@@ -22536,29 +22607,6 @@
         "Uncertainty around the terms of the interim deal and its potential impact on the region",
         "Potential for a breakdown in the deal and renewed conflict",
         "Impact on global energy prices and the resulting effect on energy companies"
-      ]
-    }
-  },
-  {
-    "id": "8017142",
-    "headline": "World shares drop, oil jumps as Middle East unrest deepens - Reuters",
-    "summary": "World shares drop, oil jumps as Middle East unrest deepens  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeVllVU5TSEVpajhKb3hSRUx6NDY3bWU2cDJpaUtOMllscG9lckFqZzJrMEowQ0IxSENhamFtNjZuOXVGb2Ywd0VfSUhlTnUzRkR5dlJlNHI1ME02YnhJV1RWRk5PZml5QlRIRlRQWEZIMzNUYlBmQ183aGEzNXFZU3V3ZFFXb0dw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1780519764,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1780464782,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The recent escalation of fighting in the Middle East has led to an increase in oil prices, benefiting energy companies. This development, combined with the ongoing momentum of AI-related stocks, has driven the market higher. The Middle East conflict is expected to disrupt oil supplies, causing prices to rise, which in turn will boost the earnings of energy companies. The AI sector continues to gain traction, driven by the increasing adoption of AI technologies across various industries.",
-      "impact": "The short-term impact of the Middle East conflict on energy stocks is expected to be positive, with prices likely to remain elevated. This could lead to a boost in earnings for energy companies, potentially driving their stock prices higher. However, the medium-term impact of the conflict is uncertain and may lead to increased volatility in the market. The AI sector's continued growth is expected to drive the overall market higher, with potential beneficiaries including AI-related stocks and companies with exposure to the sector.",
-      "risks": [
-        "Supply chain disruption risk",
-        "Geopolitical instability risk",
-        "Economic downturn risk"
       ]
     }
   }
