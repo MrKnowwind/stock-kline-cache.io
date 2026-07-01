@@ -1,5 +1,61 @@
 [
   {
+    "id": "8152332",
+    "headline": "2026 laggards shine in Wednesday's mixed stock market that kicked off the third quarter",
+    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+    "url": "https://www.cnbc.com/2026/07/01/2026-laggards-shine-in-mixed-market-that-kicked-off-q3.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108326264-17823199802026-06-24t160038z_1026825060_rc2d0mafrueq_rtrmadp_0_usa-stocks.jpeg?v=1782320413&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1782930216,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782933877,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Meta Platforms' announcement to build out a cloud computing business has led to a 10% surge in its shares. This move aims to monetize its data centers and AI infrastructure, addressing concerns about overspending on AI. The company's lack of a cloud business was a major overhang on the stock, and this development should alleviate some of that pressure. The market is interpreting this as a strategic pivot to create new revenue streams, rather than a sign that Meta overbuilt capacity and will reduce capex.",
+      "impact": "The news is positive for Meta's shares, which could continue to rally in the short term. In the medium term, this development should support the company's earnings outlook, as it generates new revenue streams from its data centers. The move may also have a positive impact on the sentiment around the stock, as investors become more confident in Meta's ability to monetize its assets. However, the impact on AI-related stocks is less clear, as it may lead to reduced demand for AI infrastructure.",
+      "risks": [
+        "uncertainty around the success of Meta's cloud computing business",
+        "potential impact on AI-related stocks due to reduced demand for AI infrastructure",
+        "execution risk for Meta in establishing a cloud computing business"
+      ]
+    }
+  },
+  {
+    "id": "8152125",
+    "headline": "The $20,000 new vehicle is all but extinct—what the most affordable new car looks like now",
+    "summary": "Why the $20,000 new car disappeared, and what budget-conscious buyers can expect today.",
+    "url": "https://www.cnbc.com/2026/07/01/the-20000-new-car-is-gonewhat-the-an-affordable-car-looks-like-now.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108328831-1782839970346-gettyimages-530873866-fan2035107.jpeg?v=1782840024&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1782927001,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782933930,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The $20,000 new vehicle has become a rare sight in dealerships, accounting for only 0.2% of new-vehicle sales in 2025. This shift is driven by consumer preferences towards pricier vehicles, particularly SUVs and pickups, which offer more technology and comfort features. As a result, automakers have reduced production of inexpensive entry-level models, leaving budget-conscious buyers with fewer affordable options. Today's entry-level vehicles are still better equipped than their predecessors, but the market has changed, with the largest concentration of purchases now falling between $30,000 and $35,000.",
+      "impact": "The disappearance of affordable new vehicles may lead to a decline in sales for automakers that relied heavily on entry-level models, such as Chevrolet and Ford. This could negatively impact their earnings outlook and valuation in the short term. In the medium term, the shift towards more expensive vehicles may lead to increased competition among luxury and high-end brands, potentially affecting their market share and profitability.",
+      "risks": [
+        "decline in sales and earnings for automakers with a strong focus on entry-level models",
+        "increased competition among luxury brands",
+        "potential slowdown in demand for high-end vehicles"
+      ]
+    }
+  },
+  {
+    "id": "8152124",
+    "headline": "Bitcoin's summer swoon creates unique trade in Strategy",
+    "summary": "Outright shorting bitcoin or high-beta crypto equities after a steep decline carries immense tail risk.",
+    "url": "https://www.cnbc.com/2026/07/01/bitcoins-summer-swoon-creates-unique-trade-in-strategy.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108302671-1778029184116-gettyimages-2272981572-AA_28042026_2757065.jpeg?v=1778029210&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1782925822
+  },
+  {
     "id": "8152023",
     "headline": "US factory activity eases off four-year high; input prices remain elevated - Reuters",
     "summary": "US factory activity eases off four-year high; input prices remain elevated  Reuters",
@@ -391,7 +447,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1782873060
+    "publishedAt": 1782873060,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782933987,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "US Vice President Kamala Harris's comments on the Vatican's views on immigration have sparked a neutral market reaction. The Vatican's stance on immigration has been a long-standing issue, with the Catholic Church advocating for a more open-door policy. The comments from VP Harris are seen as a reflection of the ongoing debate on immigration policy in the US. The news does not have a direct impact on the business fundamentals of any specific company, but it may influence the broader political landscape and sentiment towards immigration-related stocks.",
+      "impact": "The news is unlikely to have a significant impact on the stock market in the short term. However, it may contribute to a more polarized debate on immigration policy, which could affect the earnings outlook for companies in the immigration services or related industries. Companies that provide services to immigrants, such as language training or financial services, may see increased demand if the US government adopts a more open-door policy.",
+      "risks": [
+        "polarized debate risk",
+        "regulatory policy risk",
+        "macroeconomic uncertainty risk"
+      ]
+    }
   },
   {
     "id": "8149691",
@@ -418,8 +487,8 @@
   },
   {
     "id": "8150244",
-    "headline": "World stocks pause after rally as focus turns to Warsh - Reuters",
-    "summary": "World stocks pause after rally as focus turns to Warsh  Reuters",
+    "headline": "Stocks edge up as Warsh says inflation expectations fall; oil slips - Reuters",
+    "summary": "Stocks edge up as Warsh says inflation expectations fall; oil slips  Reuters",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbWIzbFBrbzZhVDlNVmQwbktCbmZIV3VBQnc1d1dhUnYtbm45SDZZa1NZVXE0Vkh3V1QwTDVqT1ZwYUI0Zk9kYTlyRGRTN0NLMllyRmNLcXlDbUd4WXZ0RXZxcDUza0VKUWIyeFdoQjA2WTRGYWktZ0FkNklQWnZRX3J6NA?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -605,7 +674,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1782855440
+    "publishedAt": 1782855440,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1782934036,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Saab has signed a $2.54 billion deal with Ukraine to supply Gripen fighter jets. This contract is a significant win for Saab, demonstrating the demand for its fighter jet technology. The deal is expected to boost Saab's revenue and profitability in the coming years. The Gripen fighter jet is a highly advanced and competitive product, with a strong track record of sales in the global market. Saab's ability to secure this deal with Ukraine is a testament to the company's capabilities and reputation in the aerospace industry.",
+      "impact": "The deal is expected to have a positive impact on Saab's earnings outlook, with increased revenue and profitability in the coming years. The contract is likely to boost Saab's stock price in the short term, driven by increased investor confidence and improved sentiment. The medium-term impact will be a stronger competitive position for Saab in the global aerospace market, potentially leading to further sales and revenue growth.",
+      "risks": [
+        "Delivery and production risks associated with the large-scale contract",
+        "Potential geopolitical risks related to the conflict in Ukraine",
+        "Competition from other aerospace companies in the global market"
+      ]
+    }
   },
   {
     "id": "8147590",
@@ -22347,75 +22429,6 @@
         "Potential for future supply chain disruptions",
         "Uncertainty in global oil demand",
         "Geopolitical risks in the Middle East"
-      ]
-    }
-  },
-  {
-    "id": "8022167",
-    "headline": "Wall Street ends mixed as Broadcom drags tech, European stocks gain; oil dips - Reuters",
-    "summary": "Wall Street ends mixed as Broadcom drags tech, European stocks gain; oil dips  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMGphS3NPLVBWc1FHMDZFdklTMS1VQ2tzOE5zQnlOaXJaUTdwcW13VjNfUkowNnljUmhDTUhuNy0xS05sdVNkTmZqS1F0dDVCYkoyR053M05IR1c5QWFyR0RrY3BDcEtFS0NaRFZxTkhER0N6eHByMlJLTzdBeW8yOFFYSQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1780622799,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1780551006,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "A flare-up in Middle East fighting has led to a decline in global stock markets, with oil prices easing off their highs. The conflict has increased tensions in the region, raising concerns about the stability of global energy supplies. This news has negatively impacted investor sentiment, causing stocks to slide. The situation is a reminder of the ongoing geopolitical risks that can impact the global economy and energy markets.",
-      "impact": "The flare-up in Middle East fighting is likely to have a short-term negative impact on energy stocks, particularly those with exposure to the region. Companies with high leverage or those with significant exposure to the oil and gas industry may see their valuations come under pressure. In the medium term, the conflict could lead to increased volatility in energy markets, potentially affecting earnings outlook and liquidity for energy-related stocks.",
-      "risks": [
-        "geopolitical risk",
-        "energy supply chain disruption risk",
-        "market volatility risk"
-      ]
-    }
-  },
-  {
-    "id": "8026025",
-    "headline": "Jim Cramer says Thursday's rally shows investors' 'huge appetite' for stocks",
-    "summary": "CNBC's Jim Cramer said Thursday's rally showed investors remain resilient and eager to buy stocks.",
-    "url": "https://www.cnbc.com/2026/06/04/jim-cramer-says-thursdays-rally-shows-investors-huge-appetite-for-stocks.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/107113455-NUP_198430_00728r.jpg?v=1697496177&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1780611219,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1780613874,
-      "sentiment": "bullish",
-      "confidence": 0.85,
-      "summary": "CNBC's Jim Cramer attributes Thursday's market rally to investors' resilience and appetite for stocks, shrugging off concerns about earnings disappointments and private credit redemptions. He cites Broadcom's history of conservative forecasts and CrowdStrike's stronger-than-expected results as examples of investors' willingness to look past potential obstacles. The successful debut of Quantinuum's IPO also suggests investors remain eager to participate in new offerings. The market's broad participation, including financial, healthcare, and transportation stocks, further indicates investor enthusiasm.",
-      "impact": "The rally suggests a short-term positive impact on the market, with potential for continued buying momentum. This could lead to a medium-term increase in stock prices, driven by investor sentiment and the broadening of market participation. The successful IPO debut of Quantinuum may also have a positive impact on the company's stock price and the overall tech sector.",
-      "risks": [
-        "Potential earnings disappointments from other companies could lead to a market correction",
-        "Overvaluation risk as investors continue to drive up stock prices",
-        "Uncertainty around the impact of private credit redemptions on the financial sector"
-      ]
-    }
-  },
-  {
-    "id": "8022168",
-    "headline": "Oil settles lower on hopes for Iran deal following Israel-Lebanon ceasefire - Reuters",
-    "summary": "Oil settles lower on hopes for Iran deal following Israel-Lebanon ceasefire  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVjFnWWJPa2JCQmk0aWtNQ0VrdVdDellpTDRJLUk2ckpvcV9GZGdxVEJkNEJmZ25BU3Rwd3NXV0ZmNkNjOEZSdVllSTl1cWx2bVFjVUV0bXBST3RXU01pSGxWb19qVGpsdjFzRHdBYUxablpCZXg2WGdnOUFVN21zRjlzZVBWeUh3YlFzVUdEZEhTanBTNDdFdFZZSV9ubG9qemN1TQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1780609619,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1780551056,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "A ceasefire agreement between Lebanon and Israel has led to a decline in oil prices. The conflict had previously driven up oil prices due to concerns over supply disruptions. The agreement reduces the risk of supply disruptions, which in turn has led to a decrease in oil prices. This news is primarily related to the oil market and its geopolitical factors, rather than directly impacting specific stocks.",
-      "impact": "The decline in oil prices may have a positive impact on airlines and other transportation companies, as lower fuel costs reduce their expenses. However, the decrease in oil prices may also negatively impact oil producers and related companies, as lower prices reduce their revenue. In the short-term, the impact on oil companies may be limited, but in the medium-term, the decrease in oil prices could lead to a revaluation of oil companies' stocks.",
-      "risks": [
-        "price volatility risk",
-        "geopolitical instability risk",
-        "supply chain disruption risk"
       ]
     }
   }
