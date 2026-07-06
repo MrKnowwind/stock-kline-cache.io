@@ -23,6 +23,29 @@
     }
   },
   {
+    "id": "8173037",
+    "headline": "Oil prices settle at pre-Iran war levels as crude output grows - Reuters",
+    "summary": "Oil prices settle at pre-Iran war levels as crude output grows  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZkI2QThocHlWRUVKSHgtb2N1WmlUX2hDQ3MxZloycVItY3d4N2Nub2FTbWYzd1hPTlZXa2VPdEhfTGgxU2g3UlBrS0VvemRZTnI2SU9HZklMOEt4d2h1U1U2ZkpZT3dscE5SRzMtTHNqVXRGcy0yaWdXU3JxemdJRWNITEhVSkFSQnV0dnhKWlJWcF8xVWhNb0k4M1FaMDNtaHc?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1783368748,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1783318365,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Oil prices have drifted lower after OPEC+ agreed to raise output targets, which is a bearish signal for the energy sector. The move is a response to growing concerns over a global economic slowdown and reduced demand for oil. The OPEC+ decision to increase production targets may lead to a surplus in the oil market, putting downward pressure on prices. This development is a negative for oil producers, particularly those with high production costs or debt burdens.",
+      "impact": "The increase in oil production targets may lead to a short-term decline in oil prices, which could negatively impact the earnings outlook for oil producers. This could lead to a decline in stock prices for companies such as ExxonMobil (XOM) and Chevron (CVX), which have high production costs and significant debt burdens. In the medium term, the increased supply may lead to a decrease in oil prices, making it more challenging for producers to maintain profitability. This could also lead to a decline in investor sentiment towards the energy sector, making it a less attractive investment opportunity.",
+      "risks": [
+        "decline in oil prices",
+        "reduced profitability for oil producers",
+        "decrease in investor sentiment towards the energy sector"
+      ]
+    }
+  },
+  {
     "id": "8176737",
     "headline": "Here's our plan for both Honeywell stocks after a divergent first week of trading",
     "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
@@ -322,7 +345,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1783348506
+    "publishedAt": 1783348506,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1783378138,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The US service sector growth dipped in June, as indicated by a decline in the ISM non-manufacturing index. However, employment in the sector rebounded after months of contraction, suggesting a potential shift in the labor market. This news is part of a broader trend of mixed economic indicators, with some sectors showing signs of growth while others continue to struggle. The service sector is a significant contributor to the US economy, accounting for a large portion of GDP. The mixed signals from the service sector may lead to a cautious approach from investors, as the economic outlook remains uncertain.",
+      "impact": "The dip in service sector growth may lead to a short-term decline in consumer spending, potentially impacting companies that rely heavily on consumer demand. However, the rebound in employment could support a medium-term recovery in the sector, benefiting companies with a strong track record of hiring and retaining talent. The mixed signals from the service sector may lead to a more cautious approach from investors, potentially impacting stock prices in the short term. The impact on earnings outlook and valuation will depend on the specific companies and industries affected.",
+      "risks": [
+        "consumer spending slowdown risk",
+        "employment market uncertainty risk",
+        "economic outlook uncertainty risk"
+      ]
+    }
   },
   {
     "id": "8175692",
@@ -447,7 +483,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1783344872
+    "publishedAt": 1783344872,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1783378185,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Lockheed Martin is acquiring Ultra Maritime for $3.45 billion, expanding its presence in the maritime domain awareness and unmanned systems market. Ultra Maritime provides advanced sonar and radar systems, which will complement Lockheed Martin's existing capabilities. This acquisition is expected to enhance Lockheed Martin's offerings in the defense sector, particularly in the areas of surveillance and reconnaissance. The deal is likely to be accretive to Lockheed Martin's earnings, driven by cost synergies and expanded market opportunities.",
+      "impact": "The acquisition is expected to have a positive impact on Lockheed Martin's earnings, driven by cost synergies and expanded market opportunities. The deal may also lead to increased demand for Lockheed Martin's shares, as investors anticipate the potential for improved earnings growth. However, the integration of Ultra Maritime's operations may pose some risks, including potential disruptions to Lockheed Martin's existing business and the need for significant investments in research and development to integrate the acquired technology. In the short term, the deal may lead to increased trading activity in Lockheed Martin's shares, potentially driving up the stock price.",
+      "risks": [
+        "integration risk",
+        "regulatory approval risk",
+        "disruption to existing business risk"
+      ]
+    }
   },
   {
     "id": "8175464",
@@ -503,7 +552,20 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/108315137-17804039612026-06-02t070117z_2025086743_rc2jllak5qdb_rtrmadp_0_computex-intel.jpeg?v=1780403995&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1783342329
+    "publishedAt": 1783342329,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1783378231,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Jim Cramer's Charitable Trust is increasing its stake in Intel (INTC) by buying 120 more shares, citing strong demand for the company's chips and the potential for the foundry business to benefit from customers seeking alternatives to Taiwan Semiconductor Manufacturing Company (TSMC). Intel's decision to raise prices on some consumer and server CPUs suggests demand remains strong. The recent sell-off in the chip sector has led to a buying opportunity. Intel shares are trading at the same price as in mid-June.",
+      "impact": "The increased stake in Intel could lead to a short-term boost in the stock price, potentially driving it higher in the coming days. In the medium term, Intel's foundry business is expected to benefit from customers seeking alternatives to TSMC, which could drive growth and increase the stock's valuation. The recent price increase on some CPUs also suggests that Intel's pricing power remains strong, which could lead to higher revenue and earnings for the company.",
+      "risks": [
+        "peaking AI capex cycle risk",
+        "supply chain disruption risk",
+        "TSMC's competitive response risk"
+      ]
+    }
   },
   {
     "id": "8175364",
@@ -513,7 +575,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1783341900
+    "publishedAt": 1783341900,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1783378275,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Large crowds gathered in Tehran to mourn the passing of Ayatollah Khamenei, a significant figure in Iran's politics. The event is a display of public grief and respect for the leader. This news is primarily a domestic Iranian event and does not have a direct impact on the global economy or specific industries. However, it may influence regional politics and sentiment towards Iran.",
+      "impact": "The news is unlikely to have a significant impact on the global stock market or specific stocks. However, it may lead to increased volatility in Iranian stocks, particularly those related to the energy or financial sectors, as investors adjust their expectations for Iran's economic and political landscape. In the short term, this news may not have a direct impact on earnings outlook or valuation, but it could influence sentiment and liquidity in the market.",
+      "risks": [
+        "Increased volatility in Iranian stocks",
+        "Potential impact on regional politics and sentiment",
+        "Uncertainty around Iran's economic and political landscape"
+      ]
+    }
   },
   {
     "id": "8175585",
@@ -523,7 +598,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1783337174
+    "publishedAt": 1783337174,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1783378322,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "UK Chancellor Jeremy Hunt has reaffirmed his commitment to fiscal discipline, despite potentially needing to relax certain rules to stimulate the economy. The UK's fiscal rules, which include a 2% inflation target and a budget surplus, have been in place since 2010. Hunt's comments come as the UK faces economic challenges, including a recession and high inflation. The Chancellor's stance on fiscal discipline is crucial for investors, as it will impact the government's borrowing and spending plans. The UK's economic trajectory will likely be influenced by Hunt's decisions.",
+      "impact": "The news is neutral for the UK's overall economic trajectory, but it may have a slightly positive impact on the stock market in the short term, as investors may view Hunt's commitment to fiscal discipline as a sign of stability. However, if the Chancellor is forced to relax fiscal rules to stimulate the economy, it could lead to a decrease in investor confidence and a negative impact on the pound. In the medium term, the UK's economic growth and inflation outlook will be influenced by Hunt's decisions, which may impact the earnings of companies with exposure to the UK market.",
+      "risks": [
+        "Economic slowdown risk",
+        "Inflation risk",
+        "Decrease in investor confidence risk"
+      ]
+    }
   },
   {
     "id": "8175902",
@@ -612,29 +700,6 @@
     }
   },
   {
-    "id": "8174289",
-    "headline": "NATO Ankara summit: who's going and what to expect - Reuters",
-    "summary": "NATO Ankara summit: who's going and what to expect  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQamhtVERsemdOT1JMWlJJNHE2bXFzc1JlNmtCY1pEd0lsMHNGREtubDlkaTRJNFo4YTdpbEwtWlhUV0l5S1dPNDJEcFVhQ1g4WDdpakdFMktyNGpTYWdKcnBfelpOZ2wwek1qMkdGVk12R3ZrNWRVak1xeEZZR1kxWmN5Z1BGNHRBX1A5OHhWamY2TXNyYWs5WW5SWTAzUHFqVXJqQzRyYw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1783320137,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1783336833,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The NATO Ankara summit is a significant event where leaders from NATO member countries will gather to discuss key issues, including the situation in Ukraine and the ongoing conflict with Russia. The summit will also focus on strengthening NATO's eastern flank and increasing cooperation with partner countries. This event is not directly related to any specific stocks, but it may have broader implications for the global economy and geopolitics. The meeting is expected to be a platform for leaders to reaffirm their commitment to collective defense and strengthen ties between member countries. The summit's outcomes may influence the global economic and political landscape, which could have indirect effects on various industries and sectors.",
-      "impact": "The NATO Ankara summit may have a neutral impact on the related stocks, as it is not directly related to any specific companies. However, the summit's outcomes may influence the global economic and political landscape, which could have indirect effects on defense and aerospace companies, such as Lockheed Martin (LMT) and Boeing (BA), in the medium term. The increased focus on defense spending and cooperation may lead to increased demand for these companies' products and services, potentially driving their stock prices up.",
-      "risks": [
-        "geopolitical uncertainty risk",
-        "economic downturn risk",
-        "defense spending reduction risk"
-      ]
-    }
-  },
-  {
     "id": "8173446",
     "headline": "OPEC+ to boost crude output, but can it deliver and who will buy? - Reuters",
     "summary": "OPEC+ to boost crude output, but can it deliver and who will buy?  Reuters",
@@ -666,6 +731,29 @@
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
     "publishedAt": 1783318560
+  },
+  {
+    "id": "8174289",
+    "headline": "NATO Ankara summit: who's going and what to expect - Reuters",
+    "summary": "NATO Ankara summit: who's going and what to expect  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQamhtVERsemdOT1JMWlJJNHE2bXFzc1JlNmtCY1pEd0lsMHNGREtubDlkaTRJNFo4YTdpbEwtWlhUV0l5S1dPNDJEcFVhQ1g4WDdpakdFMktyNGpTYWdKcnBfelpOZ2wwek1qMkdGVk12R3ZrNWRVak1xeEZZR1kxWmN5Z1BGNHRBX1A5OHhWamY2TXNyYWs5WW5SWTAzUHFqVXJqQzRyYw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1783318140,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1783336833,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The NATO Ankara summit is a significant event where leaders from NATO member countries will gather to discuss key issues, including the situation in Ukraine and the ongoing conflict with Russia. The summit will also focus on strengthening NATO's eastern flank and increasing cooperation with partner countries. This event is not directly related to any specific stocks, but it may have broader implications for the global economy and geopolitics. The meeting is expected to be a platform for leaders to reaffirm their commitment to collective defense and strengthen ties between member countries. The summit's outcomes may influence the global economic and political landscape, which could have indirect effects on various industries and sectors.",
+      "impact": "The NATO Ankara summit may have a neutral impact on the related stocks, as it is not directly related to any specific companies. However, the summit's outcomes may influence the global economic and political landscape, which could have indirect effects on defense and aerospace companies, such as Lockheed Martin (LMT) and Boeing (BA), in the medium term. The increased focus on defense spending and cooperation may lead to increased demand for these companies' products and services, potentially driving their stock prices up.",
+      "risks": [
+        "geopolitical uncertainty risk",
+        "economic downturn risk",
+        "defense spending reduction risk"
+      ]
+    }
   },
   {
     "id": "8176219",
@@ -740,29 +828,6 @@
         "disappointing earnings reports risk",
         "oil supply chain disruption risk",
         "macroeconomic uncertainty risk"
-      ]
-    }
-  },
-  {
-    "id": "8173037",
-    "headline": "Oil prices little changed as Saudi cuts prices, OPEC+ boosts target - Reuters",
-    "summary": "Oil prices little changed as Saudi cuts prices, OPEC+ boosts target  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZkI2QThocHlWRUVKSHgtb2N1WmlUX2hDQ3MxZloycVItY3d4N2Nub2FTbWYzd1hPTlZXa2VPdEhfTGgxU2g3UlBrS0VvemRZTnI2SU9HZklMOEt4d2h1U1U2ZkpZT3dscE5SRzMtTHNqVXRGcy0yaWdXU3JxemdJRWNITEhVSkFSQnV0dnhKWlJWcF8xVWhNb0k4M1FaMDNtaHc?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1783298160,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1783318365,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Oil prices have drifted lower after OPEC+ agreed to raise output targets, which is a bearish signal for the energy sector. The move is a response to growing concerns over a global economic slowdown and reduced demand for oil. The OPEC+ decision to increase production targets may lead to a surplus in the oil market, putting downward pressure on prices. This development is a negative for oil producers, particularly those with high production costs or debt burdens.",
-      "impact": "The increase in oil production targets may lead to a short-term decline in oil prices, which could negatively impact the earnings outlook for oil producers. This could lead to a decline in stock prices for companies such as ExxonMobil (XOM) and Chevron (CVX), which have high production costs and significant debt burdens. In the medium term, the increased supply may lead to a decrease in oil prices, making it more challenging for producers to maintain profitability. This could also lead to a decline in investor sentiment towards the energy sector, making it a less attractive investment opportunity.",
-      "risks": [
-        "decline in oil prices",
-        "reduced profitability for oil producers",
-        "decrease in investor sentiment towards the energy sector"
       ]
     }
   },
