@@ -1,5 +1,28 @@
 [
   {
+    "id": "8186367",
+    "headline": "Few bright spots in Wednesday's tough market — why Nvidia stock is one of them",
+    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+    "url": "https://www.cnbc.com/2026/07/08/few-bright-spots-in-wednesdays-tough-market-why-nvidia-stock-is-one-of-them.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108306779-1778744604232-gettyimages-2275541264-AFP_B2TG2BT.jpeg?v=1778758999&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1783534959,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1783537152,
+      "sentiment": "bullish",
+      "confidence": 0.7,
+      "summary": "Nvidia's stock is one of the bright spots in a tough market due to its leadership in AI platforms. The company's shares traded higher after reports that China plans to let a handful of AI companies buy Nvidia's H200 chips. However, previous similar reports have not led to meaningful change, and it's unclear if this news will result in actual sales. Nvidia's leadership in AI and its relatively low valuation (16.5 times 2027 EPS estimates) make it an attractive investment opportunity.",
+      "impact": "Nvidia's stock may see short-term gains due to the positive news, but long-term investors should focus on the company's fundamental strengths rather than relying on China revenue. The AI chip company's leadership in its field and low valuation make it an attractive investment opportunity. The news also highlights the potential for Nvidia to tap into the $50 billion Chinese market, although this remains uncertain.",
+      "risks": [
+        "Regulatory approval risk",
+        "Uncertainty around China's willingness to allow Nvidia chip imports",
+        "Dependence on AI market growth"
+      ]
+    }
+  },
+  {
     "id": "8184546",
     "headline": "Wall St falls as Trump's Iran remarks rattle investors; Broadcom gains - Reuters",
     "summary": "Wall St falls as Trump's Iran remarks rattle investors; Broadcom gains  Reuters",
@@ -29,6 +52,122 @@
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
     "publishedAt": 1783528143
+  },
+  {
+    "id": "8185847",
+    "headline": "Britain's FTSE 100 sees worst day since May as Trump says Iran deal 'over' - Reuters",
+    "summary": "Britain's FTSE 100 sees worst day since May as Trump says Iran deal 'over'  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOEVhZjhTc3R1UFNlUnpESVozQi1MZUQyYy1GV2hhbmRSUWxrX2VGdUhBdy1LdWFVdV9WdlRIRlhmSUJfZmVuODE0TDNzdnkwWVNzZXprdlNsVUVJZ2JibGVyZ2d6ZGNsUW5qZXRJbHV5U2JSTVFrY09CU1VMQ2c5eWxSNVkxcDVJdmxOTS15VDhFS1I5YTM3UUFDUEFFdw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1783527557,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1783537213,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The FTSE 100, a benchmark index for the UK's top companies, has experienced its worst day since May due to a statement from US President Donald Trump that the Iran nuclear deal is 'over'. This news has triggered a global market sell-off, with investors concerned about the potential for increased tensions between the US and Iran. The Iran deal was a major topic of discussion in the energy and commodities sectors, with oil prices already under pressure from a global supply glut. The news has also raised concerns about the potential for a global economic slowdown, which could impact the earnings outlook for companies in the FTSE 100.",
+      "impact": "The potential impact on the FTSE 100 and its constituent stocks is significant, with a short-term sell-off likely to continue in the coming days. This could lead to a decline in stock prices, potentially affecting investor sentiment and liquidity. In the medium term, the increased tensions between the US and Iran could lead to a rise in oil prices, benefiting energy companies such as BP and Royal Dutch Shell. However, this could also lead to a slowdown in economic growth, potentially impacting companies with high exposure to the energy sector.",
+      "risks": [
+        "Global economic slowdown risk",
+        "Increased oil prices risk",
+        "Energy sector disruption risk",
+        "Investor sentiment risk"
+      ]
+    }
+  },
+  {
+    "id": "8186267",
+    "headline": "Trump unexpectedly switches back to old Air Force One, sidelining Qatari jet - Reuters",
+    "summary": "Trump unexpectedly switches back to old Air Force One, sidelining Qatari jet  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRUFNSFZCMUlyZmxEVTVyWGdaRzZfUEk4V0ppVmNhLWpQWlp2TEFGQTlmX2haM2dRMFk0TVAyM2VCMUZQdmE5N05HWTE1NzBQenBZOWZvS3VnZUZNX195QWtGa01MTUtOVnNmYkR4ZU5lSWF0Z2hrazRXWTV1d0dUM3NSMVE4NUxPYzRlZk5xbFdlS3RaaVRNTkJZM0h2clNtMXZ6eE43WFlvNTU1enBMOU9LeDdMNkZ6RTVzdVZBSlRQczhCNHZwZmNrYw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1783527536,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1783537262,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "US President Trump has unexpectedly switched back to using the old Air Force One aircraft, sidelining a Qatari jet that was previously leased to the US government. The decision is seen as a surprise move, as the Qatari jet was reportedly a more modern and efficient option. The old Air Force One has been in service since 1987 and has undergone several upgrades. The Qatari jet, on the other hand, was leased in 2020 as part of a deal between the US and Qatar. The reasons behind the switch are unclear, but it's likely related to budget or operational considerations.",
+      "impact": "The news is unlikely to have a significant impact on the US defense or aerospace industry in the short-term, as the decision is more of a symbolic gesture rather than a strategic shift. However, the move may lead to increased scrutiny of government contracts and procurement processes, potentially affecting companies involved in defense and aerospace manufacturing. In the medium-term, the decision could influence the US government's future procurement strategies and budget allocations.",
+      "risks": [
+        "increased scrutiny of government contracts and procurement processes",
+        "potential changes to US government budget allocations for defense and aerospace",
+        "impact on US-Qatar relations and future cooperation in defense and aerospace"
+      ]
+    }
+  },
+  {
+    "id": "8184658",
+    "headline": "VIEW Stocks, bonds retreat after Trump says Iran MOU 'is over' - Reuters",
+    "summary": "VIEW Stocks, bonds retreat after Trump says Iran MOU 'is over'  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNd2NZR0VCUmNCZGxrSS1qamhkR3g4MkJfTjNaV1AzSGpOSzJydGwyT2FGeUJFZm5vY3ZrNVNjRlhmbGs3a1RmV0NWTEZSWTRyS09tMTBaT2padWxOSi1CN2hwTGxkZlh5aWtTT0lRb3VyaUk3WkdOMjAya09UXzBGNE9Oa1NMdXBpeDJSdzJXN1k?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1783527067,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1783516805,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "US President Trump announced that the Iran MOU is 'over', leading to a market dive. The MOU referred to the Joint Comprehensive Plan of Action (JCPOA) nuclear deal between Iran and world powers. This move is a significant escalation in the US-Iran conflict, increasing tensions in the Middle East. The news has sparked concerns about potential oil price volatility, given Iran's significant oil exports.",
+      "impact": "The news is likely to have a negative impact on energy stocks, particularly those with significant exposure to the Middle East region. Oil prices may surge in the short term, benefiting oil producers and related companies. However, the medium-term impact on the energy sector could be negative, as escalating tensions may lead to supply disruptions and reduced investor confidence. The news may also have a broader impact on the global economy, particularly if the conflict spreads or leads to a global economic downturn.",
+      "risks": [
+        "Oil price volatility risk",
+        "Escalating tensions in the Middle East risk",
+        "Global economic downturn risk"
+      ]
+    }
+  },
+  {
+    "id": "8186162",
+    "headline": "Eight Iranian army members killed in U.S. attacks on southern parts of Iran - Reuters",
+    "summary": "Eight Iranian army members killed in U.S. attacks on southern parts of Iran  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWDVrZVZ0Mjl3MkdHVUxrYVR3UVNFMDJfQzhqbmxxMXhnOGRkVGxDOE9kRkF4VE43WGgxT2RpZzVTcEwwcTg4UlhtaWlVeGtDVllqYWJxcEJLQUplNWZCMjRNelZZaFNUUURSRzFkclRoeGdEQXRMaEdWZGllLVByM18xR3RkNG5KMHRRVnh3SktpWGVmcFZZX3RxcnlBNjE2TWRKSkd2N011aERHUnBPQ1Q2UnR4UTYySWc?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1783526604,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1783537313,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "The recent US attacks on southern parts of Iran have resulted in the deaths of eight Iranian army members. This escalation of tensions between the US and Iran increases the likelihood of further conflict, which could lead to a surge in oil prices and a negative impact on the global economy. The US has imposed sanctions on Iran in the past, which has had a significant impact on the country's economy. This latest development could lead to a further deterioration in the economic situation in Iran, which could have a negative impact on oil prices and the global economy.",
+      "impact": "The potential impact on stocks related to the energy sector could be significant, particularly those with exposure to oil prices. A surge in oil prices could lead to higher costs for companies in the sector, potentially impacting their earnings outlook. In the short-term, we could see a spike in oil prices, which could lead to a sell-off in energy stocks. In the medium-term, a prolonged conflict could lead to a decline in global economic growth, which could have a negative impact on the earnings outlook for companies with significant exposure to the global economy.",
+      "risks": [
+        "Escalation of conflict risk",
+        "Oil price volatility risk",
+        "Global economic slowdown risk"
+      ]
+    }
+  },
+  {
+    "id": "8184331",
+    "headline": "Trump orders halt to US trade with Spain over NATO spending, Iran - Reuters",
+    "summary": "Trump orders halt to US trade with Spain over NATO spending, Iran  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUHpycW05eTVleW81UVFsUkdsdzhiaDJuSTl1dDhFNy10bHpyYkVoeWFpWmtvSnFEa2MyRW4wdjExcGpMUVNRNlVveERCZXpPM0lmWkpnNVFBUzhENGdHQmVSRGw3WDN6bXQ4YkdaZGRveWVkWjlkdDFWU0lFSVF3UGFxMzREQkEyYkR0Yy1PbEl2Ul80WGJUMHp6VEE?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1783525843,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1783504907,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "US President Trump announced that he has ordered a complete halt to trade with Spain, citing unspecified reasons. This move is a significant escalation of tensions between the two nations. The decision is likely a response to Spain's stance on various global issues, including trade policies and international relations. The move is expected to have a negative impact on the Spanish economy, particularly on industries that rely heavily on US trade. The news is a surprise to investors, who are now left to assess the potential consequences of this sudden change in US-Spain relations.",
+      "impact": "The news is likely to have a negative impact on Spanish stocks, particularly those with significant exposure to US trade, such as exporters and companies with US-based operations. The short-term impact may be a decline in stock prices, as investors adjust to the new trade reality. Medium-term, the impact may be more pronounced, as companies struggle to adapt to the changed trade landscape and investors reassess their valuations. The move may also lead to a decline in investor sentiment towards Spanish stocks, making it more challenging for companies to access capital markets.",
+      "risks": [
+        "Trade disruption risk",
+        "Economic slowdown risk",
+        "Investor sentiment risk"
+      ]
+    }
   },
   {
     "id": "8185953",
@@ -70,29 +209,6 @@
       "summary": "Jim Cramer's Charitable Trust is selling its remaining shares of Arm Holdings (ARM) at $303.46, locking in a 75% gain after purchasing the stock in April. The decision is driven by concerns about the AI chipmaker's exposure to the CPU renaissance, which has turned shaky due to potential order and backlog peaks. The trust also wants to reduce overlap with its recent purchases of Intel (INTC), another chipmaker benefiting from the AI-driven CPU shift. Additionally, the trust is concerned about the supply chain and the flood of bond sales and equity offerings.",
       "impact": "The sale of Arm Holdings may lead to a short-term decrease in the stock's price, potentially affecting its valuation and sentiment. In the medium term, the reduced exposure to the CPU renaissance and the shift in the trust's portfolio may impact Arm's earnings outlook and liquidity. The trust's decision to move Arm to the Bullpen watchlist suggests that it may reevaluate the stock if it falls back to its May levels without deteriorating its long-term outlook.",
       "risks": []
-    }
-  },
-  {
-    "id": "8184658",
-    "headline": "VIEW Stocks, bonds retreat after Trump says Iran MOU 'is over' - Reuters",
-    "summary": "VIEW Stocks, bonds retreat after Trump says Iran MOU 'is over'  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNd2NZR0VCUmNCZGxrSS1qamhkR3g4MkJfTjNaV1AzSGpOSzJydGwyT2FGeUJFZm5vY3ZrNVNjRlhmbGs3a1RmV0NWTEZSWTRyS09tMTBaT2padWxOSi1CN2hwTGxkZlh5aWtTT0lRb3VyaUk3WkdOMjAya09UXzBGNE9Oa1NMdXBpeDJSdzJXN1k?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1783522187,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1783516805,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "US President Trump announced that the Iran MOU is 'over', leading to a market dive. The MOU referred to the Joint Comprehensive Plan of Action (JCPOA) nuclear deal between Iran and world powers. This move is a significant escalation in the US-Iran conflict, increasing tensions in the Middle East. The news has sparked concerns about potential oil price volatility, given Iran's significant oil exports.",
-      "impact": "The news is likely to have a negative impact on energy stocks, particularly those with significant exposure to the Middle East region. Oil prices may surge in the short term, benefiting oil producers and related companies. However, the medium-term impact on the energy sector could be negative, as escalating tensions may lead to supply disruptions and reduced investor confidence. The news may also have a broader impact on the global economy, particularly if the conflict spreads or leads to a global economic downturn.",
-      "risks": [
-        "Oil price volatility risk",
-        "Escalating tensions in the Middle East risk",
-        "Global economic downturn risk"
-      ]
     }
   },
   {
@@ -207,29 +323,6 @@
         "increased costs and delays in LNG transportation",
         "disruption to global energy trade",
         "potential increase in security costs for companies operating in the region"
-      ]
-    }
-  },
-  {
-    "id": "8183179",
-    "headline": "Gold drifts lower after Trump says deal with Iran 'over' - Reuters",
-    "summary": "Gold drifts lower after Trump says deal with Iran 'over'  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS1hzdnRhSUFjNm5yb3RRTUlITEtOd1NMOFJJNlc0VVczR0s1S295WjY5b0YyaEhIMjZxZWEtdk5WUjlPcC05dUtFaThpNGo3QVl4REZiMzIxZ252bHE4a2VRRjFUYXlfR3Myb0Y3aUlSVnplSEp5eW9YQjBvNXU1UmwySVFjaXhuXzNLMFBXNE5Rdk5IcWxqUXJZR3FvNGRjc2p2b3hoa2x3U2ZvOE5XYU1n?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1783517899,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1783486540,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "The recent escalation of US-Iran tensions has led to a rise in oil prices, which in turn has caused gold prices to ease. This is because higher oil prices are often seen as a positive for the US economy, reducing the need for investors to seek safe-haven assets like gold. The US Federal Reserve's rate-hike bets have also contributed to the decline in gold prices, as higher interest rates make holding non-yielding assets like gold less attractive. The US-Iran tensions have increased geopolitical uncertainty, but the impact on the US economy is still uncertain.",
-      "impact": "The easing of gold prices may have a negative impact on gold mining companies, such as Newmont Goldcorp (NEM) and Barrick Gold (GOLD), as their stock prices may decline. The rise in oil prices may also have a positive impact on energy companies, such as ExxonMobil (XOM) and Chevron (CVX), as their stock prices may increase. However, the medium-term impact on the US economy is uncertain, and the rise in oil prices may be offset by other factors, such as inflation and interest rates.",
-      "risks": [
-        "geopolitical uncertainty risk",
-        "interest rate risk",
-        "inflation risk"
       ]
     }
   },
@@ -366,37 +459,27 @@
     "publishedAt": 1783513820
   },
   {
-    "id": "8184331",
-    "headline": "Trump orders halt to US trade with Spain over NATO spending, Iran - Reuters",
-    "summary": "Trump orders halt to US trade with Spain over NATO spending, Iran  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUHpycW05eTVleW81UVFsUkdsdzhiaDJuSTl1dDhFNy10bHpyYkVoeWFpWmtvSnFEa2MyRW4wdjExcGpMUVNRNlVveERCZXpPM0lmWkpnNVFBUzhENGdHQmVSRGw3WDN6bXQ4YkdaZGRveWVkWjlkdDFWU0lFSVF3UGFxMzREQkEyYkR0Yy1PbEl2Ul80WGJUMHp6VEE?oc=5",
+    "id": "8184001",
+    "headline": "Four oil and gas tankers turn back from Hormuz strait after vessel attacks - Reuters",
+    "summary": "Four oil and gas tankers turn back from Hormuz strait after vessel attacks  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUGg0M1U4ckhfRFJKQTRnZjUwSFFHZWlrX0U0dHJXT2hDMkE3NzItM19WT2d1QmZPdUg4c3hsQmJ1NFgzeTl1RnpUTlpYeUdKdTVLRnh1WUIzbFplcW1ESl9WOUMyOFpoNndlcmZ2czBzVXJJWTlVbjZ5U294SWMxdnhLaHpGNnE3UU1WR3dROC1oTkxXOEEwT0xYVnFzLXNpNnYxclc3UUoxd3REUkx2YWQzNWtqWm5JaFJF?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1783513034,
+    "publishedAt": 1783512117,
     "analysis": {
       "version": 2,
-      "generatedAt": 1783504907,
+      "generatedAt": 1783495354,
       "sentiment": "bearish",
       "confidence": 0.8,
-      "summary": "US President Trump announced that he has ordered a complete halt to trade with Spain, citing unspecified reasons. This move is a significant escalation of tensions between the two nations. The decision is likely a response to Spain's stance on various global issues, including trade policies and international relations. The move is expected to have a negative impact on the Spanish economy, particularly on industries that rely heavily on US trade. The news is a surprise to investors, who are now left to assess the potential consequences of this sudden change in US-Spain relations.",
-      "impact": "The news is likely to have a negative impact on Spanish stocks, particularly those with significant exposure to US trade, such as exporters and companies with US-based operations. The short-term impact may be a decline in stock prices, as investors adjust to the new trade reality. Medium-term, the impact may be more pronounced, as companies struggle to adapt to the changed trade landscape and investors reassess their valuations. The move may also lead to a decline in investor sentiment towards Spanish stocks, making it more challenging for companies to access capital markets.",
+      "summary": "Four oil and gas tankers turned back from the Hormuz Strait after being attacked, highlighting the ongoing security risks in the region. The Hormuz Strait is a critical chokepoint for global oil trade, with over 20% of the world's oil passing through it. The attacks raise concerns about the safety of oil transportation and the potential for supply disruptions. This could impact oil prices and the earnings of companies involved in the oil and gas industry.",
+      "impact": "The potential impact on oil prices could lead to a short-term increase, which would negatively affect the earnings of oil majors such as ExxonMobil (XOM) and Chevron (CVX). In the medium term, the increased security risks and potential supply disruptions could lead to a reevaluation of oil reserves and production plans, affecting companies such as Occidental Petroleum (OXY) and ConocoPhillips (COP). The attacks also highlight the geopolitical risks in the region, which could impact investor sentiment and liquidity in the oil and gas sector.",
       "risks": [
-        "Trade disruption risk",
-        "Economic slowdown risk",
-        "Investor sentiment risk"
+        "supply disruption risk",
+        "geopolitical risk",
+        "oil price volatility risk"
       ]
     }
-  },
-  {
-    "id": "8185847",
-    "headline": "Britain's FTSE indexes fall as Trump says Iran deal 'over' - Reuters",
-    "summary": "Britain's FTSE indexes fall as Trump says Iran deal 'over'  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOEVhZjhTc3R1UFNlUnpESVozQi1MZUQyYy1GV2hhbmRSUWxrX2VGdUhBdy1LdWFVdV9WdlRIRlhmSUJfZmVuODE0TDNzdnkwWVNzZXprdlNsVUVJZ2JibGVyZ2d6ZGNsUW5qZXRJbHV5U2JSTVFrY09CU1VMQ2c5eWxSNVkxcDVJdmxOTS15VDhFS1I5YTM3UUFDUEFFdw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1783511403
   },
   {
     "id": "8184865",
@@ -451,6 +534,16 @@
     "publishedAt": 1783509103
   },
   {
+    "id": "8186056",
+    "headline": "UN inquiry urges release of Gaza doctor held by Israel since December 2024 - Reuters",
+    "summary": "UN inquiry urges release of Gaza doctor held by Israel since December 2024  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTlA4ZXFmMkxrSnBhZ1NtUHE5Tk1tbC1aQUg2cHFGTW12X3ZnOG4wU29UVHpWUW9JVXdJS25nb1cyRFhKRlpPc2xiWXFHa2c0YkxoUlhJbjJQSEpmVmhXS2QyR01pZTlLUTJ3YUtXbURVOG9OVVdRTXdtSlQ1YmhYeksyLW9QcmFkcGZyMUxRUnd2aU1HT0FqaDI5ejVVUnJhMU94SXlNUXlIRkNudWx2eS1HU2lxQjNncHRuVHllaU1fVUE?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1783508923
+  },
+  {
     "id": "8184765",
     "headline": "Morning Bid: Is it 'over'? - Reuters",
     "summary": "Morning Bid: Is it 'over'?  Reuters",
@@ -470,29 +563,6 @@
         "further market downturn risk",
         "economic uncertainty risk",
         "interest rate risk"
-      ]
-    }
-  },
-  {
-    "id": "8183379",
-    "headline": "Indian benchmarks log biggest one-day loss in three months as oil prices soar - Reuters",
-    "summary": "Indian benchmarks log biggest one-day loss in three months as oil prices soar  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNemJfQWZSNnQ3bXp6ZTRMbWlwU3NRendZSmxUX0lkRF9fWk5GRm41TVpxSW5qOHVwWmF6NEctNGN6LVNkZlhmV1hQaUFzVTMwajByOWY0X3ZPSG03VGRYSUhNUGVVcldiXzJIYy1wdlVCUHBoaEQ5UkhBVGpEQlJINWFXZVA2NWgtY2dFbzJDVEVrRmszYmJzMndGSnFZc3pBcEVRTU5vdFRWNGlOYlE?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1783506614,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1783486444,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "Indian shares opened lower as US-Iran hostilities escalated, leading to a rise in oil prices. The tension between the two nations has increased concerns about global oil supply and demand, which may impact India's economy. The country's stock market has historically been sensitive to oil price fluctuations, as a significant portion of the country's imports are oil-based. This development may lead to a decrease in investor sentiment and a potential decline in stock prices.",
-      "impact": "The potential impact on the Indian stock market and related stocks could be significant in the short term, with a rise in oil prices leading to higher input costs for companies, potentially affecting their profitability and earnings outlook. This may lead to a decline in stock prices, particularly for companies with high exposure to oil imports. In the medium term, the impact may be more nuanced, with some companies potentially benefiting from increased oil prices, such as those in the oil and gas sector.",
-      "risks": [
-        "Increased oil prices may lead to higher input costs for companies",
-        "Potential decline in investor sentiment and stock prices",
-        "Impact on India's economy due to increased oil import costs"
       ]
     }
   },
@@ -579,7 +649,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1783491000,
+    "publishedAt": 1783496848,
     "analysis": {
       "version": 2,
       "generatedAt": 1783505003,
@@ -595,27 +665,14 @@
     }
   },
   {
-    "id": "8184001",
-    "headline": "Four oil and gas tankers turn back from Hormuz strait after vessel attacks - Reuters",
-    "summary": "Four oil and gas tankers turn back from Hormuz strait after vessel attacks  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUGg0M1U4ckhfRFJKQTRnZjUwSFFHZWlrX0U0dHJXT2hDMkE3NzItM19WT2d1QmZPdUg4c3hsQmJ1NFgzeTl1RnpUTlpYeUdKdTVLRnh1WUIzbFplcW1ESl9WOUMyOFpoNndlcmZ2czBzVXJJWTlVbjZ5U294SWMxdnhLaHpGNnE3UU1WR3dROC1oTkxXOEEwT0xYVnFzLXNpNnYxclc3UUoxd3REUkx2YWQzNWtqWm5JaFJF?oc=5",
+    "id": "8186161",
+    "headline": "Oil refiners' Hormuz windfall may prove short-lived - Reuters",
+    "summary": "Oil refiners' Hormuz windfall may prove short-lived  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcVZMTHVYdkE2VEo5RWZfRW5EMkt0Z3BodlljWW43YTNCYkRsTWVWdTIzVHZOcERPWDFYWnVNOVdnLXViUUdPUzRxb0pLQkRRQVlXV3VPbURjS0VVVk5HbWFtT3NJNVUxdkhsaXVTZng2OV8wSDV1LVI3RUlBRmNTSTdJSDBzYnhHTjh1Nm45MF9NRlVMamR4bW5HdEp0SGFmTU51U3A5YnFLZjZaUnRWMWQ2TWhoMzd4aUZv?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1783488000,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1783495354,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Four oil and gas tankers turned back from the Hormuz Strait after being attacked, highlighting the ongoing security risks in the region. The Hormuz Strait is a critical chokepoint for global oil trade, with over 20% of the world's oil passing through it. The attacks raise concerns about the safety of oil transportation and the potential for supply disruptions. This could impact oil prices and the earnings of companies involved in the oil and gas industry.",
-      "impact": "The potential impact on oil prices could lead to a short-term increase, which would negatively affect the earnings of oil majors such as ExxonMobil (XOM) and Chevron (CVX). In the medium term, the increased security risks and potential supply disruptions could lead to a reevaluation of oil reserves and production plans, affecting companies such as Occidental Petroleum (OXY) and ConocoPhillips (COP). The attacks also highlight the geopolitical risks in the region, which could impact investor sentiment and liquidity in the oil and gas sector.",
-      "risks": [
-        "supply disruption risk",
-        "geopolitical risk",
-        "oil price volatility risk"
-      ]
-    }
+    "publishedAt": 1783490700
   },
   {
     "id": "8184766",
@@ -737,7 +794,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1783478499,
+    "publishedAt": 1783478340,
     "analysis": {
       "version": 2,
       "generatedAt": 1783486395,
@@ -749,6 +806,29 @@
         "Escalation of conflict risk",
         "Oil price volatility risk",
         "Global economic slowdown risk"
+      ]
+    }
+  },
+  {
+    "id": "8183379",
+    "headline": "Indian benchmarks log biggest one-day loss in three months as oil prices soar - Reuters",
+    "summary": "Indian benchmarks log biggest one-day loss in three months as oil prices soar  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNemJfQWZSNnQ3bXp6ZTRMbWlwU3NRendZSmxUX0lkRF9fWk5GRm41TVpxSW5qOHVwWmF6NEctNGN6LVNkZlhmV1hQaUFzVTMwajByOWY0X3ZPSG03VGRYSUhNUGVVcldiXzJIYy1wdlVCUHBoaEQ5UkhBVGpEQlJINWFXZVA2NWgtY2dFbzJDVEVrRmszYmJzMndGSnFZc3pBcEVRTU5vdFRWNGlOYlE?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1783478100,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1783486444,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Indian shares opened lower as US-Iran hostilities escalated, leading to a rise in oil prices. The tension between the two nations has increased concerns about global oil supply and demand, which may impact India's economy. The country's stock market has historically been sensitive to oil price fluctuations, as a significant portion of the country's imports are oil-based. This development may lead to a decrease in investor sentiment and a potential decline in stock prices.",
+      "impact": "The potential impact on the Indian stock market and related stocks could be significant in the short term, with a rise in oil prices leading to higher input costs for companies, potentially affecting their profitability and earnings outlook. This may lead to a decline in stock prices, particularly for companies with high exposure to oil imports. In the medium term, the impact may be more nuanced, with some companies potentially benefiting from increased oil prices, such as those in the oil and gas sector.",
+      "risks": [
+        "Increased oil prices may lead to higher input costs for companies",
+        "Potential decline in investor sentiment and stock prices",
+        "Impact on India's economy due to increased oil import costs"
       ]
     }
   },
@@ -772,6 +852,29 @@
         "geopolitical risk",
         "trade war risk",
         "economic slowdown risk"
+      ]
+    }
+  },
+  {
+    "id": "8183179",
+    "headline": "Gold drifts lower after Trump says deal with Iran 'over' - Reuters",
+    "summary": "Gold drifts lower after Trump says deal with Iran 'over'  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS1hzdnRhSUFjNm5yb3RRTUlITEtOd1NMOFJJNlc0VVczR0s1S295WjY5b0YyaEhIMjZxZWEtdk5WUjlPcC05dUtFaThpNGo3QVl4REZiMzIxZ252bHE4a2VRRjFUYXlfR3Myb0Y3aUlSVnplSEp5eW9YQjBvNXU1UmwySVFjaXhuXzNLMFBXNE5Rdk5IcWxqUXJZR3FvNGRjc2p2b3hoa2x3U2ZvOE5XYU1n?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1783474080,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1783486540,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "The recent escalation of US-Iran tensions has led to a rise in oil prices, which in turn has caused gold prices to ease. This is because higher oil prices are often seen as a positive for the US economy, reducing the need for investors to seek safe-haven assets like gold. The US Federal Reserve's rate-hike bets have also contributed to the decline in gold prices, as higher interest rates make holding non-yielding assets like gold less attractive. The US-Iran tensions have increased geopolitical uncertainty, but the impact on the US economy is still uncertain.",
+      "impact": "The easing of gold prices may have a negative impact on gold mining companies, such as Newmont Goldcorp (NEM) and Barrick Gold (GOLD), as their stock prices may decline. The rise in oil prices may also have a positive impact on energy companies, such as ExxonMobil (XOM) and Chevron (CVX), as their stock prices may increase. However, the medium-term impact on the US economy is uncertain, and the rise in oil prices may be offset by other factors, such as inflation and interest rates.",
+      "risks": [
+        "geopolitical uncertainty risk",
+        "interest rate risk",
+        "inflation risk"
       ]
     }
   },
@@ -1157,6 +1260,29 @@
       "summary": "Ukrainian President Volodymyr Zelenskiy has signed 'drone deals' with three countries, marking a significant development in the country's military modernization efforts. The move is expected to strengthen Ukraine's defense capabilities and potentially attract foreign investment. The drone deals are part of a broader effort to modernize Ukraine's military, which has been a key priority for the Zelenskiy administration. The country's military modernization efforts are expected to drive growth in the defense sector, which could have a positive impact on the economy. The deals are also likely to improve Ukraine's relations with its international partners and potentially lead to increased cooperation in the region.",
       "impact": "The drone deals are likely to have a positive impact on Ukrainian defense stocks, such as Ukroboronprom, which is the country's state-owned defense conglomerate. The deals may also lead to increased foreign investment in the defense sector, which could drive growth and improve the earnings outlook for related companies. In the short term, the news is likely to boost sentiment for Ukrainian stocks, potentially leading to an increase in liquidity and prices. Medium-term, the deals could lead to increased cooperation between Ukraine and its international partners, potentially driving growth in the region.",
       "risks": []
+    }
+  },
+  {
+    "id": "8178298",
+    "headline": "Hormuz shipping risk raised to severe after tankers hit, reviving U.S.-Iran tensions - Reuters",
+    "summary": "Hormuz shipping risk raised to severe after tankers hit, reviving U.S.-Iran tensions  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUVFSZk5WeEJaVV96QWl0TDFIZDJUNWFlNTVkNERLdkxfYlVuY2paaS1KbkFHaDB6dkpEeVQ0ZXlLLW1RTXlBTmN2XzBPaklObVJ1VzdpWkFVTDhIYWFNbWlRdDVWZDJkZF9BY0FlNmJHaDBPbmY5ZTVDMEw3M0ozbjN5N2ljem83ZVBQZ3BhUEc4VTZBYmNZVnBiTVFoWUJUdml0dEdOUVYtMG02VEJKQUhMaUZSSnJuWmc?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1783456785,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1783403546,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Iran's missile attack on commercial ships in the Strait of Hormuz has heightened tensions in the region, exacerbating concerns about global oil supply and prices. The Strait of Hormuz is a critical waterway for oil exports, and any disruptions to shipping could impact oil prices and global energy markets. The incident is likely to increase the risk premium for oil-producing companies and related industries, such as shipping and logistics. The escalation of tensions between Iran and the US could also lead to increased military spending and defense industry activity.",
+      "impact": "The potential impact on related stocks is bearish, particularly for oil producers and shipping companies. In the short-term, oil prices may surge due to concerns about supply disruptions, benefiting oil producers with significant exposure to WTI and Brent crude. However, this could also lead to a decline in airline and shipping stocks due to higher fuel costs. In the medium-term, the increased military spending and defense industry activity could benefit companies involved in defense and aerospace.",
+      "risks": [
+        "Oil price volatility risk",
+        "Supply chain disruption risk",
+        "Increased military spending risk"
+      ]
     }
   },
   {
@@ -2298,29 +2424,6 @@
         "Regulatory approval risk for new defense contracts",
         "Integration risk for companies involved in large-scale defense projects",
         "Potential for a slowdown in defense spending if geopolitical tensions ease"
-      ]
-    }
-  },
-  {
-    "id": "8178298",
-    "headline": "Hormuz shipping risk raised to severe after tankers hit, reviving U.S.-Iran tensions - Reuters",
-    "summary": "Hormuz shipping risk raised to severe after tankers hit, reviving U.S.-Iran tensions  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUVFSZk5WeEJaVV96QWl0TDFIZDJUNWFlNTVkNERLdkxfYlVuY2paaS1KbkFHaDB6dkpEeVQ0ZXlLLW1RTXlBTmN2XzBPaklObVJ1VzdpWkFVTDhIYWFNbWlRdDVWZDJkZF9BY0FlNmJHaDBPbmY5ZTVDMEw3M0ozbjN5N2ljem83ZVBQZ3BhUEc4VTZBYmNZVnBiTVFoWUJUdml0dEdOUVYtMG02VEJKQUhMaUZSSnJuWmc?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1783389840,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1783403546,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Iran's missile attack on commercial ships in the Strait of Hormuz has heightened tensions in the region, exacerbating concerns about global oil supply and prices. The Strait of Hormuz is a critical waterway for oil exports, and any disruptions to shipping could impact oil prices and global energy markets. The incident is likely to increase the risk premium for oil-producing companies and related industries, such as shipping and logistics. The escalation of tensions between Iran and the US could also lead to increased military spending and defense industry activity.",
-      "impact": "The potential impact on related stocks is bearish, particularly for oil producers and shipping companies. In the short-term, oil prices may surge due to concerns about supply disruptions, benefiting oil producers with significant exposure to WTI and Brent crude. However, this could also lead to a decline in airline and shipping stocks due to higher fuel costs. In the medium-term, the increased military spending and defense industry activity could benefit companies involved in defense and aerospace.",
-      "risks": [
-        "Oil price volatility risk",
-        "Supply chain disruption risk",
-        "Increased military spending risk"
       ]
     }
   },
@@ -21464,121 +21567,6 @@
       "summary": "Elyse Burns, a 28-year-old entrepreneur, paid off her $63,000 law school debt by building a successful art business on Etsy, generating nearly $5 million in revenue last year. She started selling art on Etsy at 18 and expanded her product line to stickers, coloring books, and home goods. Her business, Elyse Breanne Design, has grown significantly, with sales reaching six figures in 2020 and $5 million in revenue last year. Burns' success is attributed to her ability to leverage her art business while studying law, and her use of social media platforms like TikTok to promote her products.",
       "impact": "The news may have a positive impact on the sentiment and valuation of companies in the art and creative industries, particularly those with a strong e-commerce presence. The success of Elyse Breanne Design may also inspire others to pursue entrepreneurship and creative ventures, potentially driving growth in the industry. However, the article does not mention any specific stocks or companies, so the impact on related stocks is unclear. The story may also raise awareness about the potential for entrepreneurship and alternative career paths, which could positively impact the overall market sentiment.",
       "risks": []
-    }
-  },
-  {
-    "id": "8068236",
-    "headline": "Iran says signing of Islamabad memorandum will not take place on Sunday - Reuters",
-    "summary": "Iran says signing of Islamabad memorandum will not take place on Sunday  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM0QyenI2aldGY2QzNVRVbnJ5ejkxZmY3VXpTa2o4QkM5dDRTVVoyeEZMampXN3BVc1A2ODIzUmt3cGdVbl9XVkRJam5tVHl4c0xtbkdEcFo0QzdDemZEaEd0dWtSWjM2RG95YmI2bG5Zc2o1SlpKNTI2SDdvMzd3eDV6QkJiamFBUjBVblZ1dm5XS0ZIRDRnOVRQZGEzRURmMm1mM3psMmQ0bXZPUU9oeklCNDREc2hMeXRv?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781356081,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1781364193,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Iran announced that the signing of the Islamabad memorandum will not take place on Sunday, citing unspecified reasons. The memorandum was expected to be a significant development in the country's relations with Pakistan. The news does not provide any further details on the reasons behind the delay or the new expected timeline. The Islamabad memorandum is a key agreement between Iran and Pakistan that aims to strengthen economic and security ties between the two countries. The delay in the signing of the memorandum may have implications for the regional dynamics and the economic cooperation between Iran and Pakistan.",
-      "impact": "The delay in the signing of the Islamabad memorandum may have a neutral impact on the stocks of companies operating in the region, as the news does not provide any clear direction for the market. However, the uncertainty surrounding the memorandum's signing may lead to increased volatility in the short term. The delay may also impact the earnings outlook for companies that rely on trade and economic cooperation between Iran and Pakistan, potentially leading to a short-term decline in stock prices.",
-      "risks": [
-        "regional tensions risk",
-        "economic cooperation slowdown risk",
-        "valuation risk due to increased uncertainty"
-      ]
-    }
-  },
-  {
-    "id": "8067820",
-    "headline": "Funeral for Iran's late Supreme Leader Khamenei to begin July 4, burial set for July 9 - Reuters",
-    "summary": "Funeral for Iran's late Supreme Leader Khamenei to begin July 4, burial set for July 9  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWWljdFRvWXh3cEM0ODgyOFF1LUVuSTJFSklLNXlPVWxyZks4d0pKQmVVY1RBX0lNSHZ3Vzk1MlZOZHl0bTRRdFAteDEtLWptUnpiMEY2djh4cDNYZHFheFUwaFVCa0hpdU1YMWd4UDFwTnc1Z1kzcGZQNF9SUDVTZGI0VUE3VzRzQWM1OFU0RXJKQXBpMjQxZDNoMldScWNYQnlzaGE4aGtxaFo3RlY3RmJyMnJGdG4xTW9nSHJKM2tPZDN2UUZaX0QzYw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781354764,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1781356418,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Iran's Supreme Leader Ali Khamenei has passed away, and the country has announced a funeral procession and burial ceremony scheduled for July 4 and 9, respectively. This news is a significant event in Iran's domestic politics, but it does not directly impact the country's economy or the global market. The funeral procession is expected to be a major event in Iran, with many dignitaries and officials attending. The burial ceremony will be a private event, with only close family members and officials in attendance.",
-      "impact": "The news is unlikely to have a direct impact on the global market or related stocks in the short term. However, it may lead to a temporary increase in volatility in the region, potentially affecting oil prices and the overall market sentiment. In the medium term, the change in leadership may lead to a shift in Iran's economic policies, which could have a positive or negative impact on the country's economy and related stocks.",
-      "risks": [
-        "uncertainty about the future direction of Iran's economic policies",
-        "potential impact on oil prices and global energy markets",
-        "unpredictable effects on regional geopolitics and stability"
-      ]
-    }
-  },
-  {
-    "id": "8072875",
-    "headline": "Global capitalism bets it all on AI future that alarms voters",
-    "summary": "This week’s record SpaceX IPO captured the euphoria — and made Elon Musk the world’s first trillionaire; yet all the while, much of the global public is looking on aghast",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters",
-    "source": "Bloomberg",
-    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
-    "relatedSymbols": [],
-    "publishedAt": 1781354626,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1781449250,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The recent record-breaking SpaceX IPO has highlighted the growing enthusiasm for the AI-driven future, led by entrepreneurs like Elon Musk. This trend is driven by the increasing adoption of AI technologies across various industries, which is expected to drive growth and innovation. The public's growing concern about the implications of this shift, however, may lead to increased scrutiny and regulation, potentially altering the business landscape. As a result, investors are likely to focus on companies at the forefront of AI development and adoption, such as tech giants and startups in the AI space.",
-      "impact": "The growing hype around AI may lead to short-term stock price appreciation for companies involved in AI development and adoption, such as NVIDIA, Alphabet, and Microsoft, due to increased investor interest and demand. However, medium-term risks may arise from regulatory challenges and public backlash, potentially affecting the earnings outlook and valuation of these companies. Additionally, the increased focus on AI may divert attention and resources away from other areas, leading to a shift in investor sentiment and liquidity in related stocks.",
-      "risks": [
-        "Regulatory challenges and backlash from public concerns",
-        "Increased competition and market saturation in the AI space",
-        "Potential diversion of resources and attention away from other areas"
-      ]
-    }
-  },
-  {
-    "id": "8067821",
-    "headline": "Pakistan PM says US-Iran peace deal signing expected within 24 hours - Reuters",
-    "summary": "Pakistan PM says US-Iran peace deal signing expected within 24 hours  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRkRJSW8xc3RxTVJ0QnN0VnpIcHNGQUFnNGtKbDQ0bXY3b0F0TWs5U1ZoTVFvMnlQeHlWdDVHRjJobjl0RHd4RGd5LW1US3E5aWs1THNRRTRFbnVzTjZiUUMwb0gzZFlOTU0wWFI2SmRtVm1XcHJRQkR6QkxldVBnS01wclpLb01FMU9xOENLazdEdjdGWWwwYU9TRmUxUnpDRnlodU9qNzZEWXBHMjVQdTFEM29mWER1MUVhcl9Ic3g?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781349584,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1781364240,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Pakistan's Prime Minister has announced that a US-Iran peace deal is expected to be signed within 24 hours. This development is a significant step towards resolving the long-standing tensions between the two nations. The deal is expected to have a positive impact on regional stability and potentially lead to increased trade and economic cooperation between the US and Iran. This, in turn, could have a positive impact on the global economy, particularly in the energy sector, as Iran is a major oil producer.",
-      "impact": "The signing of the US-Iran peace deal is likely to have a positive impact on oil prices, potentially leading to a decrease in prices as the supply of oil from Iran increases. This could benefit oil-producing companies such as ExxonMobil and Chevron, as well as companies that rely on oil as a key input, such as airlines and shipping companies. In the medium term, the increased trade and economic cooperation between the US and Iran could lead to an increase in demand for US exports, benefiting companies such as Boeing and Caterpillar.",
-      "risks": [
-        "geopolitical tensions could flare up again",
-        "Iran's compliance with the deal could be uncertain",
-        "sanctions relief could lead to inflation in Iran"
-      ]
-    }
-  },
-  {
-    "id": "8064685",
-    "headline": "Exclusive: UAE to unlock billions of dollars for Iran, sources say - Reuters",
-    "summary": "Exclusive: UAE to unlock billions of dollars for Iran, sources say  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdU8xSkdDSVRGOXhzQTVoemlTUi1GaFEyMzFNSUFXdGdQd21pbUNENTdfX01KaGFXdGQ5RklfMVNiSDlBRzRvb0xZVkU1dVd6Q0NTakI1WmxVaXZMMlVtUHVEZ2I1d3NkbExTQXU4RlRSQVhueHE0RU9sbTg5VjJWU0VwUjRMeGJtRmhXbzBQM013T3p4Y05JU2JnZkt1d0k?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781335365,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1781297899,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The United Arab Emirates (UAE) is reportedly planning to unlock billions of dollars for Iran, according to sources. This development comes as a significant relief for Iran, which has been under economic sanctions. The UAE's move is expected to ease the economic pressure on Iran, potentially boosting its economy and increasing its trade with other countries. The news may also have a positive impact on the global oil market, as Iran is a major oil producer.",
-      "impact": "The news is likely to have a positive impact on the global oil market, particularly on oil-producing companies that have been affected by the sanctions on Iran. The easing of economic pressure on Iran may also boost its oil production, leading to increased supply and potentially lower oil prices. This could be a positive for oil-consuming companies and industries that rely on low oil prices. In the short-term, the news may lead to a rally in oil-related stocks, such as those of oil producers and oil services companies.",
-      "risks": [
-        "Potential volatility in the global oil market",
-        "Uncertainty around the effectiveness of the UAE's plan to unlock billions of dollars for Iran",
-        "Risk of increased competition in the global oil market"
-      ]
     }
   }
 ]
