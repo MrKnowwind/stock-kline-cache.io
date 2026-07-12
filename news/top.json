@@ -30,7 +30,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1783830421,
+    "publishedAt": 1783830360,
     "analysis": {
       "version": 2,
       "generatedAt": 1783848638,
@@ -302,7 +302,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1783741558,
+    "publishedAt": 1783740900,
     "analysis": {
       "version": 2,
       "generatedAt": 1783753289,
@@ -563,6 +563,29 @@
     }
   },
   {
+    "id": "8193384",
+    "headline": "Gold under pressure as Middle East tensions lift rate-hike bets - Reuters",
+    "summary": "Gold under pressure as Middle East tensions lift rate-hike bets  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY0V5Q0tTaFY3eWtUQUwydFZrcHA4dzI1blE1ZHNzRGRmcV9TVXNoVWxNQ2pXTHpvenpyYUM4X2tnZXcxT1JIUG1lWGQwS1kxWVJ3aHAweGl2Z1FEa1VaYjlLUi1BQ3RoRXBSUU1aWWpwTFRfbWJQbk5lUExMd2lBdDNWZC1COVpRTkhEWURwR3JJTUU1MDE1Q2NLaHVxaXpOMmR6SU5Kck1Pdnoz?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1783707869,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1783665135,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Gold prices are expected to decline this week due to the recent attacks on oil facilities in the Gulf, which have reinforced expectations of a rate hike by the US Federal Reserve. This is because higher interest rates make gold less attractive as a safe-haven asset. The attacks have also increased tensions in the region, which could lead to higher oil prices and inflation, further reducing the appeal of gold. The US dollar has also strengthened, making gold more expensive for foreign investors. This combination of factors is expected to lead to a decline in gold prices.",
+      "impact": "The decline in gold prices is likely to have a negative impact on gold mining companies, such as Newmont Goldcorp and Barrick Gold, which could see their stock prices decline in the short term. In the medium term, the increased expectations of a rate hike could lead to a decline in gold prices, making it more expensive for these companies to operate. The decline in gold prices could also lead to a decline in investor sentiment, making it more challenging for these companies to raise capital.",
+      "risks": [
+        "decline in gold prices",
+        "increased costs due to higher interest rates",
+        "decline in investor sentiment"
+      ]
+    }
+  },
+  {
     "id": "8203456",
     "headline": "European shares snap four-week winning streak on tech selloff, US-Iran war - Reuters",
     "summary": "European shares snap four-week winning streak on tech selloff, US-Iran war  Reuters",
@@ -583,29 +606,6 @@
         "market correction risk",
         "US-Iran conflict risk",
         "investor sentiment risk"
-      ]
-    }
-  },
-  {
-    "id": "8193384",
-    "headline": "Gold under pressure as Middle East tensions lift rate-hike bets - Reuters",
-    "summary": "Gold under pressure as Middle East tensions lift rate-hike bets  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY0V5Q0tTaFY3eWtUQUwydFZrcHA4dzI1blE1ZHNzRGRmcV9TVXNoVWxNQ2pXTHpvenpyYUM4X2tnZXcxT1JIUG1lWGQwS1kxWVJ3aHAweGl2Z1FEa1VaYjlLUi1BQ3RoRXBSUU1aWWpwTFRfbWJQbk5lUExMd2lBdDNWZC1COVpRTkhEWURwR3JJTUU1MDE1Q2NLaHVxaXpOMmR6SU5Kck1Pdnoz?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1783704394,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1783665135,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Gold prices are expected to decline this week due to the recent attacks on oil facilities in the Gulf, which have reinforced expectations of a rate hike by the US Federal Reserve. This is because higher interest rates make gold less attractive as a safe-haven asset. The attacks have also increased tensions in the region, which could lead to higher oil prices and inflation, further reducing the appeal of gold. The US dollar has also strengthened, making gold more expensive for foreign investors. This combination of factors is expected to lead to a decline in gold prices.",
-      "impact": "The decline in gold prices is likely to have a negative impact on gold mining companies, such as Newmont Goldcorp and Barrick Gold, which could see their stock prices decline in the short term. In the medium term, the increased expectations of a rate hike could lead to a decline in gold prices, making it more expensive for these companies to operate. The decline in gold prices could also lead to a decline in investor sentiment, making it more challenging for these companies to raise capital.",
-      "risks": [
-        "decline in gold prices",
-        "increased costs due to higher interest rates",
-        "decline in investor sentiment"
       ]
     }
   },
@@ -1035,6 +1035,29 @@
         "Increased volatility in the financial markets",
         "Decrease in earnings for companies with exposure to the oil and gas industry",
         "Negative impact on consumer spending and business confidence"
+      ]
+    }
+  },
+  {
+    "id": "8187399",
+    "headline": "Trump wants to leave the Iran war behind. That won't happen soon - Reuters",
+    "summary": "Trump wants to leave the Iran war behind. That won't happen soon  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdlZTdUh2QUFmVGl3LV9rMW8yR0NLVENkMG1oTFB5X0xLbU1Pd09fdDlEZ0hlSUU3NXdVbDFQSzNHc2F3dWlZby1yT05mVzJuVHRrT2x3VzA2NVJOQmNFZ0JrRkZZNzk1T1RUSnk4Y0hkak1QR2t5OFE1UDRJRWdMTHVVRjlFS0V2OF82WGRoc0xkXzdSWTVaZzlFXzVBd0hVNlNlMnoxYS1UbjVGVGc?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1783666800,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1783559910,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "US President Trump's comments on wanting to leave the Iran war behind may be seen as a positive development, but the article suggests that this is unlikely to happen soon. The article cites unnamed sources indicating that the US is unlikely to withdraw from the conflict in the near term. This is because the US has invested significant resources in the conflict, and a withdrawal would be a significant reversal of policy. The article also notes that the US has imposed sanctions on Iran, which would need to be lifted before a withdrawal could occur.",
+      "impact": "The news is likely to have a bearish impact on defense contractors that have benefited from the conflict, such as Lockheed Martin and Boeing. The companies may see reduced demand for their products and services if the conflict is resolved soon. Additionally, the news may also impact oil prices, which could have a negative impact on energy companies such as ExxonMobil and Chevron. In the medium term, the news may also impact the overall defense spending outlook, which could have a negative impact on defense contractors and related companies.",
+      "risks": [
+        "reduced demand for defense products and services",
+        "negative impact on oil prices",
+        "reduced defense spending outlook"
       ]
     }
   },
@@ -1695,6 +1718,29 @@
     }
   },
   {
+    "id": "8204057",
+    "headline": "Bahrain has not used UAE swap, in talks over F1 race, minister says - Reuters",
+    "summary": "Bahrain has not used UAE swap, in talks over F1 race, minister says  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUDNsTkRPUWFuQVJERl9LV1pYeFQwSmx0U1V4S2ZTdWVhVmRXb2cwdzlSYmlIOG5IVkpHX19haHllTVlmY2I4YllsdzlJcTlZakFHS1hkVGFZbF95NWdsQV9KcXBoMVo4TVpEM1hXaVJJSnlyZjV3dmdnbHprdGl5VXRSZEhscmtjTzlPNUFwMExqTmJ1NUoyTmRDeDJzYUVVdjM0bWNack9sWTlNcDNsS2wxS0Z0cWs?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1783600333,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1783854053,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "Bahrain's Minister has announced that the country has not used a swap with the UAE regarding the Formula 1 race. The statement comes as a response to speculation that Bahrain might have used a swap to secure the race. The background is that Bahrain and the UAE are in talks over the hosting of the F1 race. The news does not provide any new information about the talks or the potential outcome. The statement is likely intended to alleviate concerns and reassure stakeholders. The minister's statement is a neutral development in the context of the ongoing talks.",
+      "impact": "The news is unlikely to have a significant impact on the related stocks in the short term. However, a positive outcome in the talks could lead to increased investor confidence in Bahrain's economy and potentially boost the country's tourism industry. On the other hand, a negative outcome could lead to a decline in investor sentiment and potentially affect the country's sovereign bonds. The impact on the UAE's economy is also uncertain and will depend on the outcome of the talks.",
+      "risks": [
+        "negotiation risk",
+        "economic uncertainty risk",
+        "reputation risk"
+      ]
+    }
+  },
+  {
     "id": "8190877",
     "headline": "EU drafts 'electrification' plan to curb oil and gas use, after Iran war disruption - Reuters",
     "summary": "EU drafts 'electrification' plan to curb oil and gas use, after Iran war disruption  Reuters",
@@ -2166,29 +2212,6 @@
         "Escalation of the Iran war and subsequent decrease in LNG prices",
         "Potential for supply chain disruptions and increased costs",
         "Dependence on global LNG demand and price volatility"
-      ]
-    }
-  },
-  {
-    "id": "8187399",
-    "headline": "Trump wants to leave the Iran war behind. That won't happen soon - Reuters",
-    "summary": "Trump wants to leave the Iran war behind. That won't happen soon  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdlZTdUh2QUFmVGl3LV9rMW8yR0NLVENkMG1oTFB5X0xLbU1Pd09fdDlEZ0hlSUU3NXdVbDFQSzNHc2F3dWlZby1yT05mVzJuVHRrT2x3VzA2NVJOQmNFZ0JrRkZZNzk1T1RUSnk4Y0hkak1QR2t5OFE1UDRJRWdMTHVVRjlFS0V2OF82WGRoc0xkXzdSWTVaZzlFXzVBd0hVNlNlMnoxYS1UbjVGVGc?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1783549980,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1783559910,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "US President Trump's comments on wanting to leave the Iran war behind may be seen as a positive development, but the article suggests that this is unlikely to happen soon. The article cites unnamed sources indicating that the US is unlikely to withdraw from the conflict in the near term. This is because the US has invested significant resources in the conflict, and a withdrawal would be a significant reversal of policy. The article also notes that the US has imposed sanctions on Iran, which would need to be lifted before a withdrawal could occur.",
-      "impact": "The news is likely to have a bearish impact on defense contractors that have benefited from the conflict, such as Lockheed Martin and Boeing. The companies may see reduced demand for their products and services if the conflict is resolved soon. Additionally, the news may also impact oil prices, which could have a negative impact on energy companies such as ExxonMobil and Chevron. In the medium term, the news may also impact the overall defense spending outlook, which could have a negative impact on defense contractors and related companies.",
-      "risks": [
-        "reduced demand for defense products and services",
-        "negative impact on oil prices",
-        "reduced defense spending outlook"
       ]
     }
   },
@@ -22698,29 +22721,6 @@
         "Supply glut risk",
         "Price volatility risk",
         "Economic instability risk in Iran"
-      ]
-    }
-  },
-  {
-    "id": "8079285",
-    "headline": "Hezbollah believes Iran will not sign final nuclear deal if Israel stays in Lebanon - Reuters",
-    "summary": "Hezbollah believes Iran will not sign final nuclear deal if Israel stays in Lebanon  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOS0FQbkJUQkJjSWwxamljUThJQTl2alFPeDAtdHNOeFhxQ2wtQjk0d3dROTVfNGw0bWRfSXRmUFR5NnlicnRJT0VUdzhhTXItSWVTQmFWdURjWkJ4WExRcUpHc0hUNHVDRHJONjBVaTRXTURza0szSmVySmduSHNkbHpKZ3hCWjloRXJPaC1GZDlZclFtWU5PR1VqWmExTjZaU0tOdldWWmNNaDVhRzA0QU92ZjRPcVhYQVo4amJEWQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781632219,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1781651566,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Hezbollah's statement suggests that the presence of Israel in Lebanon could jeopardize the signing of a final nuclear deal between Iran and other world powers. This development has significant implications for the region's geopolitical stability and could potentially lead to increased tensions between Iran and its adversaries. The news is a negative indicator for any company with exposure to the region, particularly those with operations in Lebanon or Iran. The statement from Hezbollah adds to the uncertainty surrounding the nuclear talks and could lead to a re-evaluation of the potential risks and rewards of investing in the region.",
-      "impact": "The news is likely to have a negative impact on stocks related to the region, particularly those with exposure to Lebanon or Iran. The increased tensions and uncertainty could lead to a short-term decline in investor sentiment and a decrease in stock prices. Medium-term, the news could also impact the earnings outlook for companies operating in the region, as well as their valuation and liquidity. The increased geopolitical risks could also lead to a decrease in investor confidence and a subsequent decline in stock prices.",
-      "risks": [
-        "Increased geopolitical tensions and instability in the region",
-        "Uncertainty surrounding the nuclear talks and their potential impact on the region",
-        "Decreased investor confidence and sentiment"
       ]
     }
   }
