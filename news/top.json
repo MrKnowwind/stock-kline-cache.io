@@ -1,13 +1,13 @@
 [
   {
     "id": "8209168",
-    "headline": "Wall Street slips as Iran tensions hit sentiment; chipmakers drop - Reuters",
-    "summary": "Wall Street slips as Iran tensions hit sentiment; chipmakers drop  Reuters",
+    "headline": "Wall Street retreats as renewed Middle East strife hits sentiment; chipmakers drop - Reuters",
+    "summary": "Wall Street retreats as renewed Middle East strife hits sentiment; chipmakers drop  Reuters",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSUxJelN2M2lFYXd0QzZIdkhQVGdKTFl2clAtSllTMzIxZ0xudk9CeFpNNVV5MVNVSTdhb251ZjZYbWZ3UFQxWGl0ZWRBRXc3NFVvbXpRT1pPUjZxWUw5VDhtZ2s0bDZVT2VrWEp6M01qeTgwcWFtdmxOcFBYdmQxU1J6anlGbURld1ZmdnloOFBOaTJYbUFxNGo0dTFvbEl1bFdZTXIwcjMtRldFd1BMTw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1783960527,
+    "publishedAt": 1783967364,
     "analysis": {
       "version": 2,
       "generatedAt": 1783959356,
@@ -19,6 +19,98 @@
         "supply chain disruption risk",
         "demand slowdown risk",
         "geopolitical risk"
+      ]
+    }
+  },
+  {
+    "id": "8210668",
+    "headline": "UN maritime agency opposes Hormuz transit fees after Trump demands protection money",
+    "summary": "The security situation in Hormuz has deteriorated since Iran attacked multiple commercial ships transiting the strait over the past week.",
+    "url": "https://www.cnbc.com/2026/07/13/imo-maritime-organization-strait-hormuz-tolls-trump-iran.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108330705-17833366872026-07-01t164535z_267159373_rc2kvkadmuk6_rtrmadp_0_global-oil.jpeg?v=1783336748&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1783967284,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1783973026,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The International Maritime Organization (IMO) has stated its opposition to transit fees in the Strait of Hormuz, following President Trump's demand for ships to pay protection money. This stance is based on international law, which does not permit mandatory tolls for passage through straits used for international navigation. The security situation in Hormuz has deteriorated since Iran attacked multiple commercial ships, leading to a deterioration in the situation. The US Navy has been helping ships through a southern corridor, while Iran has demanded that all ships use a northern route through its territorial waters. The situation remains volatile, with the US launching airstrikes against Iran in retaliation for the ship attacks.",
+      "impact": "The escalating tensions in the Strait of Hormuz could lead to increased costs and uncertainty for shipping companies, potentially impacting their earnings outlook and valuation. The demand for tanker shipping services may decline as a result of the conflict, affecting companies like Nordic American Tankers. The situation may also lead to increased volatility in oil prices, affecting the overall market sentiment and liquidity. In the short term, shipping companies may experience increased costs and delays, while in the medium term, the situation could impact their long-term contracts and partnerships.",
+      "risks": [
+        "Increased costs and uncertainty for shipping companies",
+        "Potential decline in demand for tanker shipping services",
+        "Volatility in oil prices"
+      ]
+    }
+  },
+  {
+    "id": "8210770",
+    "headline": "US to begin enforcing maritime blockade on Iran on Tuesday - Reuters",
+    "summary": "US to begin enforcing maritime blockade on Iran on Tuesday  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOHhfWjBMY0wxWWV6RkVYbWw0bXN6LTFSX25HY1FDNXFwb0I5MndOZ2RSSmhjengxS2xKdFdmRi1Yd1J4ZnZkR3lHaTlabTZFbFl4dkdvOHh1MUs0cTNVc2NhOWc3OTJNbVhLa3NRQ0RzRkNUUlVGdk91eHlLX1hkRFBkYndhTjlfU3BCYzUwVHZlT0ZNZHBSV3NESmZjNXItY3Z2bTJ3?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1783967099,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1783973072,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The US is set to enforce a maritime blockade on Iran starting on Tuesday, which could disrupt Iran's oil exports. The blockade is a result of the US's efforts to pressure Iran to renegotiate its nuclear deal. This move is likely to lead to increased tensions between the US and Iran, potentially affecting global oil prices. The blockade may also impact Iranian oil companies, such as National Iranian Oil Company (NIOC), which could see a decline in revenue and profitability.",
+      "impact": "The enforcement of the maritime blockade on Iran is likely to have a negative impact on oil-related stocks, particularly those with exposure to Iranian oil exports. This could lead to a decline in earnings for companies with significant oil trading or refining operations. The increased tensions between the US and Iran may also lead to a surge in oil prices, benefiting oil producers and drillers, but potentially hurting oil consumers and airlines. In the short term, the market may experience volatility as investors react to the news.",
+      "risks": [
+        "Oil price volatility risk",
+        "Disruption to global oil supply chain risk",
+        "Increased tensions between the US and Iran risk"
+      ]
+    }
+  },
+  {
+    "id": "8209391",
+    "headline": "Saudi says it intercepted Houthi missiles fired at south in test of years-long truce - Reuters",
+    "summary": "Saudi says it intercepted Houthi missiles fired at south in test of years-long truce  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQV2Q4MUdSUXZ0ZWdUWnM4SFNoV0lqYlBHTy1PMURKeFA1TS02RWRjbVZDYzJTY29obkdIa29MV2Y1WjZta2c5TXRzTEdNRjc3alR0MGtNV3QzUXpoanJyLWQ4VHV4NlM2WloyaWZaenV1Y1hqUjY1dHNaaXRiWnoxdmxLYWtyNURVQlRfblZjaFBYTmdXNDVVVFFlM1BWS3M2SzFOcm5MakVrYWNwM01aT0s2UThnckpQRDlSUjdqRjlMaWM4eTJtRG5JZU9FQQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1783966076,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1783950700,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The Houthi rebels have accused Saudi Arabia of striking Sanaa airport, a move that could escalate tensions in the region. This incident is part of the ongoing conflict between the Houthis and the Saudi-led coalition in Yemen. The Houthis have vowed to retaliate, which could lead to further military action and instability in the region. This could have implications for oil prices and global markets. Saudi Arabia's involvement in the conflict could also impact the country's reputation and relations with other nations.",
+      "impact": "The potential impact on oil stocks such as Saudi Aramco (if it were publicly traded) could be significant, as increased tensions in the region could lead to higher oil prices. The escalation of the conflict could also negatively impact the earnings outlook for companies with exposure to the region, such as those in the defense or logistics industries. In the short term, investors may be cautious and pull back from the market, leading to a decrease in liquidity and potentially negatively impacting stock prices.",
+      "risks": [
+        "Escalation of conflict and instability in the region",
+        "Increased oil prices and impact on the global economy",
+        "Negative impact on Saudi Arabia's reputation and relations with other nations"
+      ]
+    }
+  },
+  {
+    "id": "8210568",
+    "headline": "Iranian-born engineer convicted in US of exporting technology to Iran - Reuters",
+    "summary": "Iranian-born engineer convicted in US of exporting technology to Iran  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYjRGVm92N1B3TGQ1aWlmTDdQa3llVWhraXJ1Mm5PSE14SVI5NDBHUkc4WDljdUZyQjZzRVBGMzdiak9RekNxZ2lWWXJCaGIyQm5YSjdIQVpPMHhpazgxVVJZSWM0VGJ2Y0ZBWU9EMHJXQjhySWJSR1FTWXVSbWVGdzllY0x4dmpvRllSVEhwTk9CMFRmVmhEdy1LUHQzbTRTZDdGRTJuUm81SHFNYkwyRlp1cw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1783960580,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1783973117,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "An Iranian-born engineer has been convicted in the US for exporting technology to Iran, which could have implications for US companies involved in technology exports. The engineer, who was not named, was found guilty of violating US export controls. The conviction highlights the risks associated with doing business with countries subject to US sanctions. The US government has implemented strict regulations on technology exports to Iran due to concerns over nuclear proliferation. This case may lead to increased scrutiny of US companies involved in similar activities.",
+      "impact": "The news may lead to a short-term increase in regulatory risk for US companies involved in technology exports, potentially impacting their earnings outlook and valuation. In the medium term, this could lead to increased compliance costs and potential fines for non-compliance, affecting liquidity and sentiment towards these companies. The news may also have a broader impact on the technology sector, as companies may re-evaluate their business relationships with countries subject to US sanctions.",
+      "risks": [
+        "regulatory risk",
+        "compliance risk",
+        "valuation risk"
       ]
     }
   },
@@ -42,29 +134,6 @@
         "Increased military spending risk",
         "Global economic uncertainty risk",
         "Decreased investor sentiment risk"
-      ]
-    }
-  },
-  {
-    "id": "8209391",
-    "headline": "Houthis accuse Saudi Arabia of striking Sanaa airport, vow retaliation - Reuters",
-    "summary": "Houthis accuse Saudi Arabia of striking Sanaa airport, vow retaliation  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQV2Q4MUdSUXZ0ZWdUWnM4SFNoV0lqYlBHTy1PMURKeFA1TS02RWRjbVZDYzJTY29obkdIa29MV2Y1WjZta2c5TXRzTEdNRjc3alR0MGtNV3QzUXpoanJyLWQ4VHV4NlM2WloyaWZaenV1Y1hqUjY1dHNaaXRiWnoxdmxLYWtyNURVQlRfblZjaFBYTmdXNDVVVFFlM1BWS3M2SzFOcm5MakVrYWNwM01aT0s2UThnckpQRDlSUjdqRjlMaWM4eTJtRG5JZU9FQQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1783956723,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1783950700,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The Houthi rebels have accused Saudi Arabia of striking Sanaa airport, a move that could escalate tensions in the region. This incident is part of the ongoing conflict between the Houthis and the Saudi-led coalition in Yemen. The Houthis have vowed to retaliate, which could lead to further military action and instability in the region. This could have implications for oil prices and global markets. Saudi Arabia's involvement in the conflict could also impact the country's reputation and relations with other nations.",
-      "impact": "The potential impact on oil stocks such as Saudi Aramco (if it were publicly traded) could be significant, as increased tensions in the region could lead to higher oil prices. The escalation of the conflict could also negatively impact the earnings outlook for companies with exposure to the region, such as those in the defense or logistics industries. In the short term, investors may be cautious and pull back from the market, leading to a decrease in liquidity and potentially negatively impacting stock prices.",
-      "risks": [
-        "Escalation of conflict and instability in the region",
-        "Increased oil prices and impact on the global economy",
-        "Negative impact on Saudi Arabia's reputation and relations with other nations"
       ]
     }
   },
@@ -276,6 +345,29 @@
     }
   },
   {
+    "id": "8210569",
+    "headline": "Korean Air Q2 profit falls 34% on higher fuel costs, revenue hits record high - Reuters",
+    "summary": "Korean Air Q2 profit falls 34% on higher fuel costs, revenue hits record high  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUm11eUdSZ3VRdWEwMDhySkRfVkVtSnlDM0FmUnlVdXpjSnVVVHlKUkgyX2tadUNnTXVhMS12M014bkRoS0p1ZDZ0ZndtbFU4ZkZWdG96MVJCZVJQSDB6MzRKamgwaUR3cmdSU0FKeFowTmFvOGVGOHl3RVUtWFA5SkhfbkE0dTFWOWhLNDhKODBJYXdyU1lkQzdSYllQUFdGekZnTjFJa1MtdXdESVV6aklObnFXSy0wUlJxTA?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1783931271,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1783973166,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Korean Air's Q2 profit fell 34% year-over-year due to higher fuel costs, which is a significant headwind for the airline industry. Despite this, the company reported a record high revenue, driven by increased demand for air travel. The airline's revenue growth is a positive sign, but the decline in profit margin is a concern. Fuel costs are a major expense for airlines, and higher fuel prices can erode profit margins. This is a common challenge for the industry, and Korean Air is not alone in facing this issue.",
+      "impact": "The news is likely to have a negative impact on Korean Air's stock price in the short term due to the decline in profit margin. The company's earnings outlook may be revised downward, which could lead to a decline in investor sentiment. In the medium term, the airline's ability to manage fuel costs and maintain revenue growth will be crucial in determining its stock performance. The industry's reliance on fuel prices makes it vulnerable to fluctuations in the global energy market.",
+      "risks": [
+        "Higher fuel prices and their impact on profit margins",
+        "Increased competition in the airline industry",
+        "Global economic uncertainty and its effect on air travel demand"
+      ]
+    }
+  },
+  {
     "id": "8208321",
     "headline": "Trump says US reinstates blockade of Iranian shipping in Strait of Hormuz after new clashes - Reuters",
     "summary": "Trump says US reinstates blockade of Iranian shipping in Strait of Hormuz after new clashes  Reuters",
@@ -302,7 +394,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1783923660
+    "publishedAt": 1783923660,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1783973212,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "European Union (EU) leaders have yet to reach an agreement on the 21st package of sanctions against Russia, as stated by EU Commission President Ursula von der Leyen's ally, Kallas. This development is a setback for those anticipating a unified EU response to Russia's actions. The delay in sanctions may embolden Russia, potentially leading to further aggression. The EU's inability to present a united front may also undermine its credibility and influence in global affairs.",
+      "impact": "The lack of a unified EU response may negatively impact European stocks with exposure to Russia, such as energy and commodity companies. Companies with significant operations in Russia, like BP and Shell, may see their earnings outlook deteriorate due to potential supply chain disruptions and increased costs. The medium-term impact may be a decrease in investor sentiment and a decrease in stock prices for these companies. The delay in sanctions may also lead to a decrease in liquidity for these stocks as investors become more cautious.",
+      "risks": [
+        "EU regulatory risk",
+        "Russia's potential escalation of aggression",
+        "Decrease in investor sentiment"
+      ]
+    }
   },
   {
     "id": "8210254",
@@ -491,8 +596,8 @@
   },
   {
     "id": "8208525",
-    "headline": "Tech stocks skid, bond yields rise as Gulf conflict sends oil surging - Reuters",
-    "summary": "Tech stocks skid, bond yields rise as Gulf conflict sends oil surging  Reuters",
+    "headline": "Stocks slip, oil rallies and bond yields rise as Gulf conflict escalates - Reuters",
+    "summary": "Stocks slip, oil rallies and bond yields rise as Gulf conflict escalates  Reuters",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS2QwU3pIcHNXVlZZZW1SUXpNSVlUYlRILUdqUmJBODg5ZDh0Q3d4U21VZkdHZGhmZDlnNFFxYWZ1Y1AwTTJ1bTBZVlQ5ZFpSSngtMTdzNzljNExjWk15WE11MDBScXMwTmJkcG9NM2lEMjM3Z1E5ODNPWWljYnVxUko5T21tZ055eHhtMnh0bDZNZw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -514,8 +619,8 @@
   },
   {
     "id": "8206894",
-    "headline": "Oil gains over 5% as Trump says US reinstating Iran naval blockade - Reuters",
-    "summary": "Oil gains over 5% as Trump says US reinstating Iran naval blockade  Reuters",
+    "headline": "Oil up 9% to one-month high as US says it will blockade entire Iranian coastline, all vessels - Reuters",
+    "summary": "Oil up 9% to one-month high as US says it will blockade entire Iranian coastline, all vessels  Reuters",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUFpPY1lfc0lIc0xsNVlaSkZQanVuM3RZd0lUMTdLMlktT0dLajFOWExXSTZEd1pJd1kteDBWeTk5UnFHMmFtdUE1cWdmMEZwaDR4M09lV3NENXlhTHIwOUc1NEhTbGNYQTBZUmFNYlRIT3RUWWNyc3JZOXR2WXFrTWRFTmc1V2FHWnlDRW90YkJrOW1WWGstZ0d1bS1JaEJYZTcya0dUdkN4VzZQczhz?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -22621,98 +22726,6 @@
       "summary": "Saudi Foreign Minister Adel al-Jubeir emphasized the importance of verification in US-Iran nuclear talks. He stated that verification is key to ensuring the success of any agreement. The talks between the US and Iran have been ongoing, with the goal of re-establishing the 2015 nuclear deal. The deal was previously abandoned by the US in 2018. The current talks aim to revive the agreement and prevent Iran from developing nuclear weapons.",
       "impact": "The news is unlikely to have a direct impact on the stock market in the short term. However, it may have medium-term implications for energy and defense stocks as a resolution to the Iran nuclear issue could lead to increased stability in the region and potentially lower oil prices. This, in turn, could positively affect energy companies such as ExxonMobil (XOM) and Chevron (CVX). On the other hand, defense companies like Lockheed Martin (LMT) and Boeing (BA) may see a negative impact as a resolution could reduce the need for military spending in the region.",
       "risks": []
-    }
-  },
-  {
-    "id": "8085361",
-    "headline": "The market didn't like what it heard from the Fed and its new leader Kevin Warsh",
-    "summary": "The S&P 500 closed down 1.2%, as bond yields rose.",
-    "url": "https://www.cnbc.com/2026/06/17/the-market-didnt-like-what-it-heard-from-the-fed-and-its-new-leader-kevin-warsh.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108323445-1781722202760-gettyimages-2281459476-WARSH_FOMC_NYSE.jpeg?v=1781722227&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1781729756,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1781732793,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The recent S&P 500 decline was triggered by the Federal Reserve's signals of possible interest rate hikes to combat inflation, despite keeping rates unchanged. New Fed Chairman Kevin Warsh's first monetary policy meeting was marked by a hawkish tone, with 9 out of 18 members expecting higher rates by the end of 2026. This shift in Fed sentiment was accompanied by a rise in bond yields, with the 10-year Treasury yield nearing 4.5%. The Fed's revised inflation outlook and Warsh's comments on the importance of objective market analysis have created uncertainty and concern among investors.",
-      "impact": "The potential interest rate hikes and hawkish Fed tone are likely to negatively impact the market in the short-term, with the S&P 500 experiencing a 1.2% decline. This could lead to a decrease in investor sentiment and a reevaluation of earnings outlook for companies with high debt levels or sensitive to interest rates. In the medium-term, the rise in bond yields could also affect the valuations of companies with high growth prospects, as investors may become more cautious and demand higher returns. The impact on the overall economy and industry fundamentals will depend on the Fed's future actions and the effectiveness of its monetary policy in managing inflation.",
-      "risks": [
-        "Interest rate hike risk",
-        "Inflation risk",
-        "Economic slowdown risk"
-      ]
-    }
-  },
-  {
-    "id": "8085779",
-    "headline": "Iran and US to end fighting and maritime blockades in the Gulf area per MoU, Iran's official news agency says - Reuters",
-    "summary": "Iran and US to end fighting and maritime blockades in the Gulf area per MoU, Iran's official news agency says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR0paczVXRGJYMnFmMG5fakIyVURzNnRNT1JrZVlDaTFtYVY0dlotcUhCaUVLWW1URnV6dE9UVk5IbzQ2OVEweEZyc2VVRy1TZnpXTGlrVUFGR1lBMGRiVTUzOTFUYjFIc3VEVGtrNWJTT3V0Z2lEeUxBd0hISzRlT3ZRRFpQVDBaelEwem5YLW9tM2lWRzkzRFUtbnI5TlBSc2VmNEpQMklmLUxLWEEzaXY0WG1OVzJHdVJySFhWYUFUVzg?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781727103,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1781748416,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The news article reports that Iran and the US have agreed to end fighting and maritime blockades in the Gulf area, according to an MoU announced by Iran's official news agency. This development is a significant step towards de-escalation and reduced tensions in the region. The agreement is likely a result of diplomatic efforts to resolve the long-standing conflict. The MoU may lead to increased stability and security in the region, which could positively impact the oil and gas industry, particularly companies operating in the Gulf area.",
-      "impact": "This news is likely to have a positive impact on oil and gas companies operating in the Gulf area, such as those in the S&P 500, as reduced tensions and increased stability could lead to increased investment and production in the region. The news may also positively impact the earnings outlook for these companies, particularly those with significant exposure to the Gulf region. However, the short-term impact may be limited due to the ongoing pandemic and global economic uncertainty.",
-      "risks": [
-        "renewed tensions risk",
-        "Iran-US relations volatility risk",
-        "oil price volatility risk"
-      ]
-    }
-  },
-  {
-    "id": "8091890",
-    "headline": "'I'm the boss', Trump says at G7, as he warms to Ukraine's war aims - Reuters",
-    "summary": "'I'm the boss', Trump says at G7, as he warms to Ukraine's war aims  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWVpQVHpZeW45d0hUQjMtVFlxUWRTVktHMi1nRjdzdkpfb2h5Sk9yTGI3Y1V2THMxNDYtUlJSS3ZEVXUzNWQ1TTZtN3VpbGt0d0NnMWNQNFU4bkFxbWl2OXBQbUJwRXhrZHN4WHlJVzNhblVPUW5iZWlmbC1KdEw5Y00yR1I4cWNiYkxtYUQtaDB0TGVZclJKOGYxa0drTTg?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781725832,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1781935975,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "US President Trump stated that he is the boss at the G7 meeting, indicating a shift in tone towards Ukraine's war aims. This development comes as Ukraine's President Zelenskiy is seeking support from the international community to aid in the ongoing conflict. The G7 meeting is a significant platform for global leaders to discuss key issues, including international security and economic cooperation. The statement by Trump suggests a potential shift in US policy towards Ukraine, which could have implications for the country's economic and political stability. The news does not directly relate to any specific stocks, but it may impact the overall market sentiment and geopolitical landscape.",
-      "impact": "The news may lead to increased uncertainty in the market, potentially causing a short-term sell-off in stocks related to the defense and aerospace industries. In the medium term, a shift in US policy towards Ukraine could lead to increased investment in the country's infrastructure and economy, potentially benefiting companies involved in the region. However, this is still speculative and depends on the actual policy changes that may arise from the G7 meeting.",
-      "risks": [
-        "geopolitical uncertainty risk",
-        "market sentiment risk",
-        "economic instability risk"
-      ]
-    }
-  },
-  {
-    "id": "8085370",
-    "headline": "Trump: unfair for Iran to lack ballistic missiles if other countries have them - Reuters",
-    "summary": "Trump: unfair for Iran to lack ballistic missiles if other countries have them  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNa0w0S0pySHdqVnhmUHVWZGRpUHhaRHdsZFdKMnVzTEhsUDdVYWk4aWdUVF96ak9GOVVHeVlNYXU0STRaTzR2aUpwekR5dlZZc0IyNl9uQnZqSkoxZjFmUFBCNTBZeVhZWHV4dU5aWUpNX1QxX3MwUlU5UDFSZ3NhWWo2WE1GdXlpbjVyYkRMRnNhdkoxOW5HWFBtYWdScy1xZ2t1VFdkVWVNSXV4SWVJZkJ2eTZad3ZfVE5fTndmTVhadw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781725119,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1781737744,
-      "sentiment": "neutral",
-      "confidence": 0.8,
-      "summary": "US President Trump has stated that it is unfair for Iran to lack ballistic missiles if other countries possess them. This comment is in the context of ongoing tensions between the US and Iran. The statement does not directly impact the US defense industry or related stocks, as the US has its own ballistic missile programs. However, the statement could potentially escalate tensions between the two nations, which could have broader implications for global security and stability.",
-      "impact": "The potential escalation of tensions between the US and Iran may lead to increased defense spending in the short-term, benefiting companies involved in the US defense industry. This could positively impact stocks such as Lockheed Martin (LMT) and Boeing (BA). However, the medium-term impact is uncertain and may be mitigated by the ongoing trade tensions and economic uncertainty.",
-      "risks": [
-        "Escalation of tensions leading to increased conflict",
-        "Uncertainty in global security and stability",
-        "Potential for increased defense spending to be offset by economic uncertainty"
-      ]
     }
   }
 ]
