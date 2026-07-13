@@ -1,5 +1,51 @@
 [
   {
+    "id": "8211431",
+    "headline": "3 things you need to know about cyclospora",
+    "summary": "Cyclospora, a parasitic infection that can cause weeks of severe diarrhea, is spreading in the U.S. Here's what to know about the disease, and how to stay safe.",
+    "url": "https://www.cnbc.com/2026/07/13/3-things-you-need-to-know-about-cyclospora.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108334377-1783978233201-gettyimages-1358954851-pi-2319966.jpeg?v=1783978346&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1783978444,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1783982391,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "A cyclospora outbreak is spreading across the US, with 843 reported cases and 86 hospitalizations as of July 9. The CDC has not yet identified a common source, leaving businesses in the restaurant, grocery, and agriculture sectors uncertain about the potential economic impacts. The outbreak has not been linked to any specific company or product, but past outbreaks have been associated with contaminated fresh produce. The CDC recommends washing produce before consumption and washing hands before handling food to prevent the spread of the disease.",
+      "impact": "The cyclospora outbreak is unlikely to have a significant short-term impact on restaurant stocks, as spokespeople from major chains like Chipotle and Burger King have not reported any evidence of contaminated ingredients. However, the uncertainty surrounding the outbreak may lead to increased caution among consumers, potentially affecting sales and earnings in the medium term. Valuations for these stocks may be affected by the increased risk perception, particularly if the outbreak is not contained soon.",
+      "risks": [
+        "Increased regulatory scrutiny of food safety practices",
+        "Potential decline in consumer confidence and sales",
+        "Uncertainty around the economic impact on the agriculture sector"
+      ]
+    }
+  },
+  {
+    "id": "8211330",
+    "headline": "Trump says the US will take out Pickaxe Mountain in Iran - Reuters",
+    "summary": "Trump says the US will take out Pickaxe Mountain in Iran  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR0MxRE1KWWs1OXh4SkpMa3dwZWQzSEhxMm11YkNzX1diNFJxNWl6TkxBV1VNczl0c1hheGVMT0l4UVpFcW15YVotc3ZrV1E1bi1TM2tHS3dfdTN1YTJpUTVLdG95RUpELXo5dm9GUFNKSUZ2ekdNdHNfZ2NLQlRyVV94LVhsbVVLSWNvbndVbmpNWTJiMEFlSzBLVDFoeFpXc2FpRzJ3?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1783976383,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1783982439,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "US President Trump's statement on taking out Pickaxe Mountain in Iran is a significant escalation of tensions between the US and Iran. This development increases the risk of military conflict in the region, which could have far-reaching consequences for global oil markets and the broader economy. The US has already imposed sanctions on Iran, and this latest move suggests a further tightening of the noose. The impact on the global economy and oil prices will depend on the specifics of the US action, but it is likely to be negative.",
+      "impact": "The potential impact on stocks related to the defense and aerospace industries is likely to be positive in the short term, as increased military spending and tensions in the region could lead to higher demand for defense equipment and services. However, the medium-term impact on the broader market could be negative, as a prolonged conflict in the Middle East could lead to higher oil prices and a slowdown in economic growth. This could negatively impact companies with significant exposure to the oil and gas sector, as well as those with international operations that could be disrupted by the conflict.",
+      "risks": [
+        "Escalation of military conflict in the Middle East",
+        "Disruption to global oil markets and supply chains",
+        "Negative impact on economic growth and corporate earnings"
+      ]
+    }
+  },
+  {
     "id": "8209168",
     "headline": "Wall Street ends lower as Iran tensions dampen risk appetite; chipmakers drop - Reuters",
     "summary": "Wall Street ends lower as Iran tensions dampen risk appetite; chipmakers drop  Reuters",
@@ -279,7 +325,21 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1783953123
+    "publishedAt": 1783953123,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1783982487,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The Iran-US ceasefire memorandum has frayed due to recent incidents of violence and tit-for-tat attacks between the two nations. This development is a setback for the 2015 nuclear deal, which aimed to ease tensions and restrict Iran's nuclear program. The current situation has raised concerns about a potential escalation of conflict, which could lead to a further deterioration in the global energy market and a rise in oil prices. This, in turn, could negatively impact energy companies and related industries.",
+      "impact": "The potential escalation of conflict between Iran and the US could lead to a short-term increase in oil prices, negatively impacting energy companies such as ExxonMobil (XOM) and Chevron (CVX). This could also impact the earnings outlook for these companies, as higher oil prices would increase their production costs and potentially reduce their profit margins. In the medium term, a prolonged conflict could lead to a decrease in investor sentiment and a decline in the stock prices of energy companies, making them less attractive to investors.",
+      "risks": [
+        "Escalation of conflict risk",
+        "Oil price volatility risk",
+        "Decrease in investor sentiment risk",
+        "Earnings outlook risk"
+      ]
+    }
   },
   {
     "id": "8210983",
@@ -289,7 +349,21 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1783951286
+    "publishedAt": 1783951286,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1783982533,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "DP World, a leading global port operator, plans to build a new port on the UAE's east coast to bypass the Strait of Hormuz, a strategically important waterway. The move aims to reduce reliance on the Strait, which has been a point of tension in the region. This development is a strategic play by DP World to enhance its operational efficiency and reduce potential disruptions. The new port will be built on the UAE's east coast, which is less prone to disruptions compared to the Strait of Hormuz.",
+      "impact": "This news is positive for DP World's stock as it positions the company for reduced operational risks and increased efficiency. In the short-term, the news is likely to boost investor sentiment and potentially lead to a price increase. In the medium-term, the new port is expected to improve DP World's earnings outlook as it reduces reliance on the Strait of Hormuz and increases its operational flexibility.",
+      "risks": [
+        "regulatory approval risk",
+        "integration risk",
+        "cost overruns risk",
+        "geopolitical risk"
+      ]
+    }
   },
   {
     "id": "8209169",
@@ -453,6 +527,29 @@
     }
   },
   {
+    "id": "8211331",
+    "headline": "Rescuers search for crew member after container ship attack in Strait of Hormuz - Reuters",
+    "summary": "Rescuers search for crew member after container ship attack in Strait of Hormuz  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcWxsQnZNbUV3U3pWcUpxc3g3QXRFM3U0eWlpWGpobURnY01iOERpUTlHSmlQY2NxZi1fT2JRbUJtMWdkZVhkYVNmMGhkNFlPX2VmU0d3NV9kTi10UEpERFZyRnN0N21TUU53WGV4N041QjFyemlkRW9lNHZXS25JRDAxNE14c2tEcE8wYVR2WG9NcjQ1ZlkteDhsdVhmaFU4X1pFelBZM0p2bkQyVXdHYUZNVHZtQmlrMGs0cDNaOUo?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1783942654,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1783982580,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "A container ship has been attacked in the Strait of Hormuz, a critical waterway for global trade. Rescuers are searching for a missing crew member. The incident highlights the ongoing tensions in the region, which could impact shipping companies operating in the area. The Strait of Hormuz is a key chokepoint for oil exports, and any disruptions to shipping could have far-reaching consequences for the global economy.",
+      "impact": "The incident is unlikely to have a direct impact on the earnings outlook of major shipping companies in the short term. However, it may lead to increased costs and insurance premiums for companies operating in the region, which could be a headwind for their profitability. The incident also highlights the ongoing geopolitical risks in the region, which could lead to increased volatility in the stock prices of companies with exposure to the area.",
+      "risks": [
+        "increased costs and insurance premiums",
+        "geopolitical risks in the region",
+        "disruptions to global trade"
+      ]
+    }
+  },
+  {
     "id": "8210361",
     "headline": "Iran's trump card - Reuters",
     "summary": "Iran's trump card  Reuters",
@@ -500,8 +597,8 @@
   },
   {
     "id": "8208321",
-    "headline": "Trump says US reinstates blockade of Iranian shipping in Strait of Hormuz after new clashes - Reuters",
-    "summary": "Trump says US reinstates blockade of Iranian shipping in Strait of Hormuz after new clashes  Reuters",
+    "headline": "Trump says US reinstates blockade of Iranian shipping in Strait of Hormuz, orders new US strikes - Reuters",
+    "summary": "Trump says US reinstates blockade of Iranian shipping in Strait of Hormuz, orders new US strikes  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMG0wMGZybUNSMnZyOWQzck1Eb0JwcFdfWUVXNlBYbk10c3VveDRrdzVpYVJhNjdwdUdnR1ZMZDhVTXdnWE41M09iZnZwUmJzbEpsX2V0Q2xDWmdHVjZGRkxtRmVsOFU2OWM3aGsyUGljckNVb1F1WlpmMk5GQVE4S0Q4QXJQYlI4V1hZSktORXBZYm1YXzNsQUYwQ2dOSUJtSTJrNmpvR3M5Q2szcXYzWENxeGFIbnRHS0lhaXdnN3FFcnM?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -704,8 +801,8 @@
   },
   {
     "id": "8208735",
-    "headline": "Dollar mostly flat amid escalating US-Iran tension, yen slides on pension doubts - Reuters",
-    "summary": "Dollar mostly flat amid escalating US-Iran tension, yen slides on pension doubts  Reuters",
+    "headline": "Dollar edges higher on escalating US-Iran tension, yen slides on pension doubts - Reuters",
+    "summary": "Dollar edges higher on escalating US-Iran tension, yen slides on pension doubts  Reuters",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVjVMa3FGTU1NQ1pSWXVaRllPTTBLc0xYR1dlQS1URUdySXZOb1ZaT3RxUFNlUmo4djVDcTNrWVpNOUFsNnpkcW5nWFJyZWlKamtvMlppZkYyTUpLeFBGc1dYUHYtcTNSTjk2aVhDSjI2OUV0MU81eDBsMUNaRGxiZHQ2SzUzRTBsd290RGZRTWl0NUZ0Mi1LVnBsMVMzSWlqNVJUeEJQQVp4cTRUUGhj?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -727,8 +824,8 @@
   },
   {
     "id": "8208525",
-    "headline": "Stocks slip, oil rallies and bond yields rise as Gulf conflict escalates - Reuters",
-    "summary": "Stocks slip, oil rallies and bond yields rise as Gulf conflict escalates  Reuters",
+    "headline": "Oil surges, stocks slip and bond yields rise as Gulf conflict flares up again - Reuters",
+    "summary": "Oil surges, stocks slip and bond yields rise as Gulf conflict flares up again  Reuters",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS2QwU3pIcHNXVlZZZW1SUXpNSVlUYlRILUdqUmJBODg5ZDh0Q3d4U21VZkdHZGhmZDlnNFFxYWZ1Y1AwTTJ1bTBZVlQ5ZFpSSngtMTdzNzljNExjWk15WE11MDBScXMwTmJkcG9NM2lEMjM3Z1E5ODNPWWljYnVxUko5T21tZ055eHhtMnh0bDZNZw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -22634,75 +22731,6 @@
         "Regulatory approval risk: The ultrasound machine may face regulatory hurdles before it can be commercially launched.",
         "Competition risk: Established players in the healthcare industry may resist the disruption caused by Midjourney's new product.",
         "Integration risk: The company's pivot to the healthcare sector may require significant investments in new infrastructure and talent, which could strain resources."
-      ]
-    }
-  },
-  {
-    "id": "8082846",
-    "headline": "US and Iran presidents sign ceasefire agreement, but Trump says he could still resume attacks - Reuters",
-    "summary": "US and Iran presidents sign ceasefire agreement, but Trump says he could still resume attacks  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSklNM1g3ZG9QYmFoMkJRS3o2T2ZRMTJ1azE5eG1YLU5TUXdEY1F5TkFBU01GMUt1UUstcHRrekJsOHBmRURqd2NTMVpzVVFoQlRPWHNvUVVQLU5ZRkJsNzZKNURTd01PQ1pubzFrR0UzdlMzbXU2RXBwLU9fT25GSU80UkRVcUlpWE9MOGhxYW4yS1lIbDJ3UkR5anJudnZPcDhhOHhqN3JxcWM?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781744676,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1781713916,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "US President Trump has made a statement indicating that the US may withdraw from the Iran nuclear deal if he is not satisfied with the agreement. This statement has significant implications for the global oil market, as Iran is a major oil producer. The US has imposed sanctions on Iran in the past, which has led to a decline in oil production and exports. If the US were to withdraw from the deal, it could lead to a surge in oil prices, which could negatively impact companies in the energy sector, such as oil majors and energy traders.",
-      "impact": "The potential withdrawal from the Iran deal could lead to a short-term surge in oil prices, benefiting oil-producing companies such as ExxonMobil (XOM) and Chevron (CVX). However, in the medium term, this could lead to increased volatility in the energy sector, making it a riskier investment. The sentiment around energy stocks could also be negatively impacted, leading to a decline in their valuations. Additionally, the potential for increased tensions in the Middle East could lead to a slowdown in economic growth, negatively impacting companies with significant exposure to the region, such as defense contractors like Lockheed Martin (LMT).",
-      "risks": [
-        "Increased oil prices risk",
-        "Volatility in the energy sector risk",
-        "Negative sentiment impact on energy stocks risk"
-      ]
-    }
-  },
-  {
-    "id": "8077751",
-    "headline": "Exclusive: The US is using an Iranian smuggling tactic to sneak oil out of the Gulf - Reuters",
-    "summary": "Exclusive: The US is using an Iranian smuggling tactic to sneak oil out of the Gulf  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWUJ2NW5rSzJQNDdJR2U2czlrcHhwbjlmVkNRZk9TVzd6RWowQ3Q0dW1Ud2QwZW90UHVPTmM2bkU1SlZOMmNicU1nYWhIeEJLTXRMX1d2RG9KeDJsMk1GaGhIbG84VW9kV1RxaFpMVkhXNmVxOU1nTjRLNEM1TmQxR2pPV0c1azNrQmlFVVFRNnl3SjdRQThLWlZHdWk4ZU83WXFYVTVmS004eEVoZDRv?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781742073,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1781634224,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The US is reportedly using an Iranian smuggling tactic to secretly export oil from the Gulf. This news is based on an exclusive Reuters report. The tactic involves using small vessels to transport oil, evading sanctions and detection. The Iranian government has been under US sanctions, limiting its ability to export oil. This development may indicate a shift in US policy towards Iran, potentially impacting the global oil market.",
-      "impact": "The news may lead to increased volatility in oil prices, potentially benefiting oil producers such as ExxonMobil (XOM) and Chevron (CVX) in the short term. However, the long-term implications of this development are uncertain, and the impact on the global oil market will depend on how the situation unfolds. The news may also increase tensions between the US and Iran, potentially leading to a deterioration in investor sentiment towards energy stocks.",
-      "risks": [
-        "Escalation of US-Iran tensions and potential military conflict",
-        "Increased volatility in oil prices and global energy markets",
-        "Uncertainty around the long-term implications of this development"
-      ]
-    }
-  },
-  {
-    "id": "8081483",
-    "headline": "Stocks drop, bond yields rise; Fed keeps rates steady but projects hike for later this year - Reuters",
-    "summary": "Stocks drop, bond yields rise; Fed keeps rates steady but projects hike for later this year  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOU5DMTRIOHpLY0VUdlJ6RW1fcEhveWNmVmZaNFo0YkdfNmN0a0VZN1JHMDcxVFdlMl81aVpWQV8td2hxb1dZcldhVE5USmVqeEhDNDA4Yk5RSDBpWnBuN3FTblFLMUxEa3poLTZsR3pfMmNfUENaOVZDRjVFNGl5V0l6MA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781737821,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1781684320,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Oil prices have declined due to improved prospects of Iran's oil supply returning to the market. Iran's nuclear deal has been revived, and the country's oil exports are expected to increase. This development has led to a decrease in oil prices as global supply concerns ease. The news has been met with caution by traders, who are waiting for further developments on the situation. The US Federal Reserve's stance on inflation and monetary policy will also be closely watched, as it may impact oil demand and prices.",
-      "impact": "The decline in oil prices may have a short-term positive impact on airlines and other industries that rely heavily on oil prices. However, the medium-term impact on the energy sector could be negative, as lower oil prices may reduce earnings for oil producers. The news may also lead to a decrease in the valuation of oil-related stocks, making them more attractive to value investors. The liquidity of oil-related stocks may increase as traders adjust their positions in response to the news.",
-      "risks": [
-        "Iran's oil supply returning to the market may be delayed or disrupted by various factors, including US sanctions or technical issues.",
-        "The US Federal Reserve's monetary policy decisions may have a significant impact on oil demand and prices.",
-        "The global economic outlook may be affected by the decline in oil prices, leading to a decrease in demand for oil-related stocks."
       ]
     }
   }
