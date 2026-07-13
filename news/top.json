@@ -1,13 +1,13 @@
 [
   {
     "id": "8209168",
-    "headline": "Wall Street retreats as renewed Middle East strife hits sentiment; chipmakers drop - Reuters",
-    "summary": "Wall Street retreats as renewed Middle East strife hits sentiment; chipmakers drop  Reuters",
+    "headline": "Wall Street ends lower as Iran tensions dampen risk appetite; chipmakers drop - Reuters",
+    "summary": "Wall Street ends lower as Iran tensions dampen risk appetite; chipmakers drop  Reuters",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSUxJelN2M2lFYXd0QzZIdkhQVGdKTFl2clAtSllTMzIxZ0xudk9CeFpNNVV5MVNVSTdhb251ZjZYbWZ3UFQxWGl0ZWRBRXc3NFVvbXpRT1pPUjZxWUw5VDhtZ2s0bDZVT2VrWEp6M01qeTgwcWFtdmxOcFBYdmQxU1J6anlGbURld1ZmdnloOFBOaTJYbUFxNGo0dTFvbEl1bFdZTXIwcjMtRldFd1BMTw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1783967364,
+    "publishedAt": 1783973810,
     "analysis": {
       "version": 2,
       "generatedAt": 1783959356,
@@ -19,6 +19,94 @@
         "supply chain disruption risk",
         "demand slowdown risk",
         "geopolitical risk"
+      ]
+    }
+  },
+  {
+    "id": "8210975",
+    "headline": "Chipotle is opening its first restaurant in Mexico",
+    "summary": "Fast casual chain Chipotle announced Monday that it is opening its first location in Mexico in the Monterrey area.",
+    "url": "https://www.cnbc.com/2026/07/13/chipotle-opening-first-restaurant-in-mexico.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108297767-1777307492105-108297767-1777307359121-gettyimages-2271667195-307029final.jpeg?v=1777307515&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1783973401,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1783978631,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Chipotle is expanding into Mexico through a partnership with Alsea, opening its first restaurant in the Monterrey area. This is part of the company's strategy to regain growth and entice customers with new menu offerings. The Monterrey area was chosen for its strong economy and growing population. The new restaurant will feature the same menu as existing U.S. locations. This expansion is expected to continue with a larger rollout of restaurants in Mexico, including an expansion into Mexico City in 2027.",
+      "impact": "This news is likely to have a positive impact on Chipotle's stock in the short-term, as it demonstrates the company's commitment to international expansion and growth. The partnership with Alsea provides a established presence in the Mexican market, which could lead to increased brand recognition and customer loyalty. However, the success of this expansion will depend on the company's ability to execute and adapt to the local market. In the medium-term, this expansion could lead to increased revenue and earnings growth, potentially driving up the stock price.",
+      "risks": [
+        "integration risk with Alsea",
+        "adaptation risk to local market preferences and tastes",
+        "regulatory risk in the Mexican market"
+      ]
+    }
+  },
+  {
+    "id": "8209391",
+    "headline": "Houthis fire missiles at Saudi Arabia, breaking years of calm - Reuters",
+    "summary": "Houthis fire missiles at Saudi Arabia, breaking years of calm  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQV2Q4MUdSUXZ0ZWdUWnM4SFNoV0lqYlBHTy1PMURKeFA1TS02RWRjbVZDYzJTY29obkdIa29MV2Y1WjZta2c5TXRzTEdNRjc3alR0MGtNV3QzUXpoanJyLWQ4VHV4NlM2WloyaWZaenV1Y1hqUjY1dHNaaXRiWnoxdmxLYWtyNURVQlRfblZjaFBYTmdXNDVVVFFlM1BWS3M2SzFOcm5MakVrYWNwM01aT0s2UThnckpQRDlSUjdqRjlMaWM4eTJtRG5JZU9FQQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1783972526,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1783950700,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The Houthi rebels have accused Saudi Arabia of striking Sanaa airport, a move that could escalate tensions in the region. This incident is part of the ongoing conflict between the Houthis and the Saudi-led coalition in Yemen. The Houthis have vowed to retaliate, which could lead to further military action and instability in the region. This could have implications for oil prices and global markets. Saudi Arabia's involvement in the conflict could also impact the country's reputation and relations with other nations.",
+      "impact": "The potential impact on oil stocks such as Saudi Aramco (if it were publicly traded) could be significant, as increased tensions in the region could lead to higher oil prices. The escalation of the conflict could also negatively impact the earnings outlook for companies with exposure to the region, such as those in the defense or logistics industries. In the short term, investors may be cautious and pull back from the market, leading to a decrease in liquidity and potentially negatively impacting stock prices.",
+      "risks": [
+        "Escalation of conflict and instability in the region",
+        "Increased oil prices and impact on the global economy",
+        "Negative impact on Saudi Arabia's reputation and relations with other nations"
+      ]
+    }
+  },
+  {
+    "id": "8210982",
+    "headline": "Lawmakers demand Pentagon release findings from probe of Iran school strike - Reuters",
+    "summary": "Lawmakers demand Pentagon release findings from probe of Iran school strike  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaFpXV2hLVHVQMmdvSC1Zd2JjNjZRMlFXN3ltcFFMOVRobWdwUjNKb1hkUnlyUnZ2RUZ1MEtqbTNkUkp3RkxIaEh5N3Fzb290QnhjeWdrVVJJNFlGNGJPLURERnpnM09tTVF5T0tDQ3ZoWEdHdngxQlVhcXA2cGN4MWVhT3kta245Sm5LN3dqT1ZVcGdtbS1GQ2sxMmJ0Q2xUaXZTXzNIWXNaYUlGODlwX0ZwbUtPSnRjbm1TMg?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1783971824,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1783978681,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "Lawmakers are demanding the Pentagon release the findings of an investigation into a recent school strike in Iran. The strike, which reportedly killed several civilians, has sparked international condemnation. The US government has been accused of being involved in the strike, but the Pentagon has not confirmed or denied the allegations. The incident has raised concerns about the US military's actions in the region and the potential consequences for the country's relations with Iran. The lawmakers' demand for the investigation's findings suggests that the incident may have significant implications for US foreign policy and national security.",
+      "impact": "The news is unlikely to have a direct impact on US defense contractors' stocks in the short term, as the incident is still under investigation and the Pentagon's findings are not yet public. However, if the investigation reveals that the US was involved in the strike, it could lead to increased scrutiny of the country's military actions and potentially harm the reputation of defense contractors. This could have medium-term implications for the earnings outlook of companies like Lockheed Martin (LMT) and Boeing (BA), which rely heavily on government contracts. The incident may also lead to increased tensions between the US and Iran, which could have broader macroeconomic implications and impact the overall market sentiment towards defense stocks.",
+      "risks": []
+    }
+  },
+  {
+    "id": "8210976",
+    "headline": "A toxic stew drags stocks lower as we look at what can get the AI trade back on track",
+    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+    "url": "https://www.cnbc.com/2026/07/13/a-toxic-stew-drags-stocks-lower-as-we-look-at-what-can-get-the-ai-trade-back-on-track.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108333454-1783696403692-Traders-Photo-20260710-KK-PRESS-023.jpg?v=1783696610&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1783969682,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1783978731,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The market is experiencing a downturn due to a toxic stew of factors, including the selling in the Korean stock market, the jump in oil prices, and hawkish remarks from a Fed official. The Nasdaq sank nearly 1.5% and the 10-year Treasury yield climbed above 4.6%. The increased probability of a Fed rate hike has been a significant change, with the CME FedWatch tool now indicating a 50% chance of a hike at the July 29 meeting. This has weighed on stocks, particularly in the AI-related sector.",
+      "impact": "The downturn is likely to impact stocks in the AI-related sector, particularly those with high valuations. Corning, a company in this sector, has seen its price target raised by Citi, but its recent performance has been weak due to the heightened volatility. The stock has fallen hard from its June high and is now trading below its previous levels. The earnings outlook and valuation of these stocks may be impacted by the increased probability of a Fed rate hike, which could lead to a decrease in investor sentiment and liquidity.",
+      "risks": [
+        "Increased probability of a Fed rate hike",
+        "Heightened volatility in the AI-related sector",
+        "Decrease in investor sentiment due to macroeconomic factors"
       ]
     }
   },
@@ -69,25 +157,25 @@
     }
   },
   {
-    "id": "8209391",
-    "headline": "Saudi says it intercepted Houthi missiles fired at south in test of years-long truce - Reuters",
-    "summary": "Saudi says it intercepted Houthi missiles fired at south in test of years-long truce  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQV2Q4MUdSUXZ0ZWdUWnM4SFNoV0lqYlBHTy1PMURKeFA1TS02RWRjbVZDYzJTY29obkdIa29MV2Y1WjZta2c5TXRzTEdNRjc3alR0MGtNV3QzUXpoanJyLWQ4VHV4NlM2WloyaWZaenV1Y1hqUjY1dHNaaXRiWnoxdmxLYWtyNURVQlRfblZjaFBYTmdXNDVVVFFlM1BWS3M2SzFOcm5MakVrYWNwM01aT0s2UThnckpQRDlSUjdqRjlMaWM4eTJtRG5JZU9FQQ?oc=5",
+    "id": "8210984",
+    "headline": "UN shipping agency opposes fees for any strait, after Trump plans Hormuz charge - Reuters",
+    "summary": "UN shipping agency opposes fees for any strait, after Trump plans Hormuz charge  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNei1BMHZIWThUNUlpYVYtTlhWcGdOSjZVdDdJWGpCT1FpRm1ab2NkbDJxM1l3WmdOSHlvUjRWbE5QZmRYeEVldWdrSm5SZVI1V05KdTZFWUtOMmlPWXozRWhhWVZCRVJqZHU2Sk9vQkw0TGg5NUFaQ3ZfRmZnaU1nTWZXc2dRTTZ1aHVlNG1zSmE5TDJEQmczcUhTb0tXM2dzVVF2UlNzMlRXLXl1Ui1OT1hiaEU0c1VrNHNSclU1RnFpN21hbU84?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1783966076,
+    "publishedAt": 1783962086,
     "analysis": {
       "version": 2,
-      "generatedAt": 1783950700,
+      "generatedAt": 1783978780,
       "sentiment": "bearish",
       "confidence": 0.8,
-      "summary": "The Houthi rebels have accused Saudi Arabia of striking Sanaa airport, a move that could escalate tensions in the region. This incident is part of the ongoing conflict between the Houthis and the Saudi-led coalition in Yemen. The Houthis have vowed to retaliate, which could lead to further military action and instability in the region. This could have implications for oil prices and global markets. Saudi Arabia's involvement in the conflict could also impact the country's reputation and relations with other nations.",
-      "impact": "The potential impact on oil stocks such as Saudi Aramco (if it were publicly traded) could be significant, as increased tensions in the region could lead to higher oil prices. The escalation of the conflict could also negatively impact the earnings outlook for companies with exposure to the region, such as those in the defense or logistics industries. In the short term, investors may be cautious and pull back from the market, leading to a decrease in liquidity and potentially negatively impacting stock prices.",
+      "summary": "The United Nations (UN) International Maritime Organization (IMO) has opposed any plans to charge fees for passage through the Strait of Hormuz, following a proposal by US President Donald Trump to impose a fee. The IMO has stated that such a move would be counterproductive to international cooperation and could lead to increased tensions in the region. The Strait of Hormuz is a critical waterway for global oil trade, with approximately 20% of the world's oil passing through it. The proposed fee would likely be a significant burden for oil producers and consumers, potentially leading to increased costs and reduced profitability.",
+      "impact": "The news is likely to be bearish for oil and shipping stocks in the short-term, as the potential imposition of a fee on the Strait of Hormuz could lead to increased costs and reduced profitability for oil producers and consumers. This could negatively impact earnings outlook for companies involved in the oil and shipping industries. In the medium-term, the news could also lead to increased tensions in the region, potentially disrupting global oil trade and further impacting the earnings outlook for related stocks.",
       "risks": [
-        "Escalation of conflict and instability in the region",
-        "Increased oil prices and impact on the global economy",
-        "Negative impact on Saudi Arabia's reputation and relations with other nations"
+        "Increased costs and reduced profitability for oil producers and consumers",
+        "Disruption to global oil trade due to increased tensions in the region",
+        "Negative impact on earnings outlook for oil and shipping companies"
       ]
     }
   },
@@ -138,6 +226,29 @@
     }
   },
   {
+    "id": "8211126",
+    "headline": "US forces strike Iranian submarine, ship maintenance facility - Reuters",
+    "summary": "US forces strike Iranian submarine, ship maintenance facility  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeG9fM3ZvcEZGU3RzemlVQnpqeFhlWkZkdDRYU2FqRWRYUlRjSGRmT1AwUWplLVhDZk1jTzB6b2RvREJMUjdPZEMxQzJPcXRJdmtsZzJFWmxnQW85ODlVSFBoeTdBdy14RjdPZjRWR1VmVTFsODBhTW1qbGZfbDlBQzFYcVpMZUpnSXNELURxVm0xTC1yRXNWVkxXRFAyOWZkNGpXSjdLX1hfSXZBSER5WEpsTEw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1783954721,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1783978830,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "US forces have struck an Iranian submarine and a ship maintenance facility, escalating tensions in the region. This development is a significant escalation of the ongoing conflict between the US and Iran. The attack is likely a response to recent Iranian actions, such as the seizure of a US drone. The incident may lead to further military action, potentially disrupting global oil supplies and affecting the global economy. The conflict has the potential to impact the oil and gas industry, particularly companies with exposure to the Middle East region.",
+      "impact": "The news is likely to have a negative impact on the stock market, particularly on companies with exposure to the Middle East region. The potential for further military action and disruption to global oil supplies may lead to a decline in earnings for oil and gas companies, affecting their stock prices. The incident may also increase geopolitical risks, leading to a decrease in investor sentiment and a decrease in stock prices. In the short term, we expect a decline in stock prices of companies with exposure to the Middle East region, such as oil and gas majors.",
+      "risks": [
+        "Escalation of conflict and disruption to global oil supplies",
+        "Decrease in investor sentiment and stock prices",
+        "Negative impact on earnings of oil and gas companies"
+      ]
+    }
+  },
+  {
     "id": "8209495",
     "headline": "Trump: Iran blockade reinstated, US to charge 20% on Strait of Hormuz cargo - Reuters",
     "summary": "Trump: Iran blockade reinstated, US to charge 20% on Strait of Hormuz cargo  Reuters",
@@ -159,6 +270,26 @@
         "Potential for oil price volatility"
       ]
     }
+  },
+  {
+    "id": "8210981",
+    "headline": "Explainer: Why has the Iran-US ceasefire memorandum frayed? - Reuters",
+    "summary": "Explainer: Why has the Iran-US ceasefire memorandum frayed?  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVXN1cXVSb3ZQMXNpLTJLQ3F0OGJ4bXUxWmRHZ080XzVVNE9nNzdyeFp3VTIySjRxYzZjTGJ5LWw2SVpJU2U0OWp3ZjBOdlhrVEpaQ18yWUZoM3gtY3VOdFFSTHVPemwxcmJicFJWMlAwNWFnNlJKMlVIU2lmTUNvMi12cjRMZTZRSkZERFpn?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1783953123
+  },
+  {
+    "id": "8210983",
+    "headline": "DP World plans UAE east coast port to bypass Strait of Hormuz, FT reports - Reuters",
+    "summary": "DP World plans UAE east coast port to bypass Strait of Hormuz, FT reports  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY2lKRXN0dUJoQnF6T1JPQkZhVDFQejBKNGpoeVJmcXdFeFZfX21ZRXlJOERMTDNaQWo0NFJoYUd4WHptM2Z6TzBOUXNVUDJWcmJJM2ZnQV8wUEJrZUZuSE5ibkVKN2xrZnpUMFFyOWtKTDNtOVp1aXlsSXh4NlhpZU1UeXFJbXl4NURQMllNWHcwc2V5aXdLU2x6VE42aHkwTExscXBhS2oteXY1T1QtZXMzd2UwS2hwNzVZQQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1783951286
   },
   {
     "id": "8209169",
@@ -1047,29 +1178,6 @@
     }
   },
   {
-    "id": "8196154",
-    "headline": "How the absence of Iran's Mojtaba Khamenei is becoming a liability for the Islamic Republic - Reuters",
-    "summary": "How the absence of Iran's Mojtaba Khamenei is becoming a liability for the Islamic Republic  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUTNPR0g0ZVgwQjFWR1R4WERMR215bmNZQ0l5YVVFMWN1V1FrZ3F5SWRIQmhwc2g3ZHBFcnhjVEdHOGJTSXdNdDdMR3l5Q3JtdWxWbHlkTkJXa1FaUDVxRGdWMVBFcDNOaXZILWd3Y2RmOXhwSWtNS0ZaclhCRl9IZ1RpVnBXS2RBaldpbzNxYS1GeUVrWFh0RWo0MnRqNl8tcUVRR194akZfeTZ4SXJkU1VybG5jMmVU?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1783829608,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1783710611,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Iran's Supreme Leader Ayatollah Ali Khamenei's absence is creating a power vacuum, which is affecting the country's decision-making process. This has led to a decrease in the government's ability to respond effectively to internal and external challenges. The absence of Khamenei has also led to a delay in key economic decisions, including those related to Iran's nuclear program and its relations with other countries. This has resulted in increased uncertainty and instability in the region, which could have a negative impact on the country's economy and the global oil market.",
-      "impact": "The absence of Khamenei is likely to have a negative impact on Iranian stocks, particularly those related to the energy sector, such as oil and gas companies. The uncertainty and instability in the region could lead to a decrease in investor confidence, resulting in a decline in stock prices. In the short-term, this could lead to a decrease in earnings for companies operating in the region, while in the medium-term, it could lead to a decrease in investment and economic growth.",
-      "risks": [
-        "Decrease in investor confidence",
-        "Uncertainty and instability in the region",
-        "Decrease in economic growth"
-      ]
-    }
-  },
-  {
     "id": "8202848",
     "headline": "UKMTO says crew abandon container ship near Oman after fire onboard - Reuters",
     "summary": "UKMTO says crew abandon container ship near Oman after fire onboard  Reuters",
@@ -1879,6 +1987,29 @@
         "Uncertainty around the outcome of the talks and potential collapse of the agreement",
         "Potential escalation of tensions between the US and Iran if the talks fail",
         "Impact on global oil prices and related industries"
+      ]
+    }
+  },
+  {
+    "id": "8196154",
+    "headline": "How the absence of Iran's Mojtaba Khamenei is becoming a liability for the Islamic Republic - Reuters",
+    "summary": "How the absence of Iran's Mojtaba Khamenei is becoming a liability for the Islamic Republic  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUTNPR0g0ZVgwQjFWR1R4WERMR215bmNZQ0l5YVVFMWN1V1FrZ3F5SWRIQmhwc2g3ZHBFcnhjVEdHOGJTSXdNdDdMR3l5Q3JtdWxWbHlkTkJXa1FaUDVxRGdWMVBFcDNOaXZILWd3Y2RmOXhwSWtNS0ZaclhCRl9IZ1RpVnBXS2RBaldpbzNxYS1GeUVrWFh0RWo0MnRqNl8tcUVRR194akZfeTZ4SXJkU1VybG5jMmVU?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1783692960,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1783710611,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Iran's Supreme Leader Ayatollah Ali Khamenei's absence is creating a power vacuum, which is affecting the country's decision-making process. This has led to a decrease in the government's ability to respond effectively to internal and external challenges. The absence of Khamenei has also led to a delay in key economic decisions, including those related to Iran's nuclear program and its relations with other countries. This has resulted in increased uncertainty and instability in the region, which could have a negative impact on the country's economy and the global oil market.",
+      "impact": "The absence of Khamenei is likely to have a negative impact on Iranian stocks, particularly those related to the energy sector, such as oil and gas companies. The uncertainty and instability in the region could lead to a decrease in investor confidence, resulting in a decline in stock prices. In the short-term, this could lead to a decrease in earnings for companies operating in the region, while in the medium-term, it could lead to a decrease in investment and economic growth.",
+      "risks": [
+        "Decrease in investor confidence",
+        "Uncertainty and instability in the region",
+        "Decrease in economic growth"
       ]
     }
   },
@@ -22573,159 +22704,6 @@
         "The US Federal Reserve's monetary policy decisions may have a significant impact on oil demand and prices.",
         "The global economic outlook may be affected by the decline in oil prices, leading to a decrease in demand for oil-related stocks."
       ]
-    }
-  },
-  {
-    "id": "8087777",
-    "headline": "Bank of England on track to hold rates as Iran response eyed - Reuters",
-    "summary": "Bank of England on track to hold rates as Iran response eyed  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMUhETzNWX0sxb05qTkxJMFRNTlRvOC1BZmdFcVdvSG1QOUl3VWJrRXZzOTBuLUpLVnhReVRjSllXa24wWjNfSUJGWkxJRGQxUTZrcHZobHQ0ckh4NVB6T0ZBTWgyWmJGbGVLQkdLU2dzQ0p5MDFTNlNBeGRKREhBMG13a2FPaGtmeXNkWXFyVXg4OGlpUG96Mw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781737740,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1781908810,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "The Bank of England is expected to keep interest rates unchanged as it monitors the response from Iran following the recent tensions in the region. The central bank has been cautious in its approach, considering the potential impact of geopolitical events on the UK economy. The decision to hold rates is seen as a way to maintain stability and avoid any significant disruption to the financial markets. The UK's economic growth has been steady, but the ongoing uncertainty surrounding global events may continue to affect the country's economic prospects.",
-      "impact": "The news is likely to have a neutral impact on the UK financial sector, with some potential short-term volatility in the currency markets. The decision to hold rates may be seen as a positive for the pound, as it reduces the likelihood of a rate hike, which could have negatively impacted the currency. However, the ongoing uncertainty surrounding the Iran situation may continue to weigh on investor sentiment, potentially affecting the UK's economic growth prospects and, in turn, the earnings outlook for companies with significant exposure to the region.",
-      "risks": [
-        "Geopolitical risk",
-        "Economic uncertainty",
-        "Currency market volatility"
-      ]
-    }
-  },
-  {
-    "id": "8081382",
-    "headline": "Oil rises 1% on US-Iran deal doubts; IEA warns of supply glut - Reuters",
-    "summary": "Oil rises 1% on US-Iran deal doubts; IEA warns of supply glut  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNenNvdC1DbGktWE0tRE5scUJEblVjSy1HVWROZkNNQ3lqT290eXhQV0R5MXhxYUhHYlBaN1lqdl95QUpEaHRaX0lOY3h2aEJSblJxYldFODhXWGFwN3dlOV9xbFFWTnpJNUlTUkJkaG9nWjRUUEpSemE2N09VWFVtNFRnT2RSQ3lKV094RjN5MkNYZlRIOURlZWJhREdaLWc2bVhiV2hCNUlYaTZrTUdXWkpKRnBTLWo1QVVEcDBIbGFWdGFqczhubmVR?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781736693,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1781908855,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Oil prices rose 1% on doubts surrounding the US-Iran nuclear deal, which could lead to a relaxation of sanctions on Iran, potentially increasing global oil supply. The International Energy Agency (IEA) also warned of a potential supply glut, citing rising production from non-OPEC countries. This news may indicate a shift in the global oil market dynamics, potentially impacting oil-producing companies and related industries. The IEA's warning of a supply glut could also affect oil prices in the medium term, as it may lead to increased competition and downward pressure on prices.",
-      "impact": "The news may negatively impact oil-producing companies, such as those in the S&P 500 energy sector, as increased supply and potential price volatility could affect their earnings outlook and valuation. In the short term, oil prices may fluctuate in response to the uncertainty surrounding the US-Iran deal, potentially leading to increased volatility in the oil market. In the medium term, a supply glut could lead to downward pressure on oil prices, affecting the profitability of oil-producing companies and related industries.",
-      "risks": []
-    }
-  },
-  {
-    "id": "8085675",
-    "headline": "Iran MOU was signed on Wednesday by Trump and Iran president, U.S. official says - Reuters",
-    "summary": "Iran MOU was signed on Wednesday by Trump and Iran president, U.S. official says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbzlqYWJEWUxoWXRqWTMtVVlRQnoxLWI4enhRSEFfQ2s4Y2MyT0J1UUpTTmlkejZoNklidnFBeWppUUlrM3BJbjZzSEczWGdVNy1vUi1pdE1OM2NQR0lzbzdyMGZpcXEzWTJNMHdsQ200d3QzdHhKZFp2NkFsc0Q2S1FHWjZQNXZ0MmdNYjlrOHQ1OXBVYXJMRHRpb0x4QkZPUV9WdUNuSE96UElJbElFRFNLanhMVTVGd1JjMlRNRTlIQQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781736675,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1781748271,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "US President Trump and the Iranian President signed a Memorandum of Understanding (MOU) on Wednesday, marking a significant development in the US-Iran relations. The MOU is seen as a step towards easing tensions between the two countries, which could have positive implications for the global energy market. The agreement may lead to increased oil production and exports from Iran, potentially benefiting oil-producing companies. The news comes as a surprise, as the US had previously imposed sanctions on Iran, limiting its oil exports.",
-      "impact": "The signing of the MOU could lead to a short-term increase in oil prices, benefiting oil-producing companies such as ExxonMobil (XOM) and Chevron (CVX). In the medium term, the agreement may lead to increased oil production and exports from Iran, which could put downward pressure on oil prices, benefiting airlines and other industries that rely heavily on oil. However, the impact on the US economy and the stock market is uncertain and may be influenced by various factors, including global economic trends and geopolitical developments.",
-      "risks": [
-        "Potential escalation of tensions between the US and Iran",
-        "Uncertainty around the implementation and enforcement of the MOU",
-        "Impact on global oil prices and the energy market"
-      ]
-    }
-  },
-  {
-    "id": "8085676",
-    "headline": "Trump signs memo aimed at ending Iran war, White House official says - Reuters",
-    "summary": "Trump signs memo aimed at ending Iran war, White House official says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNckM0TE4tcWU4eXF5amFvMFo5REU1TDNLYVF6ZHQ4UHk5akkwMEg4Q0J3WVQ2SXlQaWtfc1h5SXFjS2Fqdm1mY3FRWnktbHFUeDAwUUVXRzF4M3Uwa1hhN25CZ0JsTVFxR0NZUTkxamszeWstVm9NSE9xcGFyYVJFN1VGeEU3OTNzcDJ2R0xRcmFKWHZzNnYwZWxDdk5wT01IcFBCeVpld0R0dw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781733583,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1781748322,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "US President Trump has signed a memo aimed at ending the war in Iran, a development that could lead to a decrease in tensions in the Middle East and potentially positive implications for companies involved in the region. The news is a significant shift in US policy, which could lead to a reduction in military spending and a decrease in the risk of conflict. This, in turn, could have a positive impact on the earnings outlook for companies operating in the region, particularly those involved in the energy and defense sectors. The news is a positive development for the US and global economy, as it reduces the risk of a major conflict and its associated economic costs.",
-      "impact": "The potential impact of this news on related stocks is likely to be positive in the short-term, as a decrease in tensions in the Middle East could lead to an increase in investor confidence and a subsequent rally in stocks. Companies operating in the energy sector, such as oil majors, could benefit from a decrease in the risk of conflict and potential disruptions to oil supplies. In the medium-term, a decrease in military spending could also have a positive impact on the earnings outlook for defense contractors.",
-      "risks": [
-        "Potential for a reversal of policy under a new administration",
-        "Uncertainty around the effectiveness of the memo in ending the war",
-        "Risk of a delay in the implementation of the memo's provisions"
-      ]
-    }
-  },
-  {
-    "id": "8086088",
-    "headline": "Trump ties Iran deal to market swings, warns war risked 'catastrophe' - Reuters",
-    "summary": "Trump ties Iran deal to market swings, warns war risked 'catastrophe'  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTTFUblBYMU1GNThsMnJyWWU2WUY5RVJVOHJmNno4OXNSRk9tMVdyNUhpVXVVQUFDNUZ2eXl6ZUtud193WUZvVW1VTWF4S1hubmxFNTZQYmRmZGZ6b0REdGNTQW1QWjdzZTZmSmpWZ2hWSG02VzlKY09FaFE3cFlfdFd6eEE4eGVqeURhMTFuSDhuSXBJeTllQ3h5OUQtNmhud1FHay1vMGtWempXZWI3ci1HajhicnlLaDZ3UzFIZDZpdWxm?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781733509,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1781748369,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "US President Trump has linked market volatility to the Iran nuclear deal, implying that a potential war with Iran could have catastrophic consequences. This statement suggests that Trump is willing to use market fluctuations as a gauge for his decision-making on the Iran deal. The Iran deal has been a contentious issue for several years, with the US withdrawing from the agreement in 2018. The current situation is a reiteration of the ongoing tensions between the US and Iran, with the potential for military action. The market's reaction to this news will likely be influenced by the ongoing uncertainty surrounding the Iran deal and the potential for war.",
-      "impact": "The potential for war with Iran could lead to a short-term increase in oil prices, which could negatively impact the earnings of companies in the energy sector. This could also lead to a decrease in consumer confidence, potentially impacting the retail and consumer goods sectors. In the medium term, a prolonged conflict could lead to a global economic downturn, negatively impacting the overall market and potentially leading to a decrease in earnings for companies in various sectors.",
-      "risks": [
-        "Oil price volatility risk",
-        "Global economic downturn risk",
-        "Decrease in consumer confidence risk"
-      ]
-    }
-  },
-  {
-    "id": "8087886",
-    "headline": "Iran's Baghaei says text of MOU has officially been signed by Iran and US - Reuters",
-    "summary": "Iran's Baghaei says text of MOU has officially been signed by Iran and US  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ1BQVjd5S2hKa1pySElGZTNCWlZJZE4wTHJWM1ZYaDRoaXZzWTZlR2VHSEltWG5TcTBLR1dZcHV1T3lkWUI0N0ZrRmtXWWhoNTBwaGs2Y2xiZW1IS2dZbmNSOFdXbmJ5LXV0TWs2NlB6aWdCOUQxazJYNnhzaDlNNlpUWGpPRW1ta3FnaTVrTm83VUxJbXRRSGZVY0IzMlIxMkVFR1hRb252QXMzRmYzVkRmVEhSeUoxNVBn?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781733133,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1781908904,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Iran and the US have officially signed the text of a Memorandum of Understanding (MOU), marking a significant development in their diplomatic relations. This move follows months of negotiations and could potentially lead to the lifting of US sanctions on Iran. The MOU is a non-binding agreement that outlines the framework for cooperation between the two countries. The signing of the MOU is a positive step towards normalizing relations between the US and Iran, which could have significant implications for the global energy market, particularly for oil prices and the companies operating in the region.",
-      "impact": "The signing of the MOU could lead to an increase in oil prices as the market expects a potential rise in Iranian oil exports. This could positively impact oil-related stocks, such as those of oil majors like ExxonMobil (XOM) and Chevron (CVX), in the short term. In the medium term, improved relations between the US and Iran could lead to increased investment in the Iranian energy sector, potentially benefiting companies like Total (TOT) and Eni (E).",
-      "risks": [
-        "Potential backlash from hardline factions in Iran or the US that could derail the diplomatic efforts",
-        "Uncertainty around the effectiveness of the MOU in leading to a significant increase in Iranian oil exports",
-        "Risk of increased competition in the global energy market as Iranian oil returns to the market"
-      ]
-    }
-  },
-  {
-    "id": "8086296",
-    "headline": "Verification is key in US-Iran nuclear talks, Saudi foreign minister says - Reuters",
-    "summary": "Verification is key in US-Iran nuclear talks, Saudi foreign minister says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObWxyY2dUd1V5eVV5bXlGNmQybWNfZnlzV2NYQ3BpWFBEV1p6N3JMTXRoYWRrTEl6MGdPRm4yNEdZSGl2ZFNFOEtubDl1dTlqY2lDd1BsOS1kQkZMTjhrMlVKUVdJSHlDOXVydGltdTJVNXR1UVpxWEdRNDNqR1JmM3pacVNSWW9kRHBtNTNWazFMNy1nZE11QkNzSzBNVVhnSURUSmVLWDBCM1dJdWYwenJDTy11S2FKMHdiLUhxelI?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781730290,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1781767364,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Saudi Foreign Minister Adel al-Jubeir emphasized the importance of verification in US-Iran nuclear talks. He stated that verification is key to ensuring the success of any agreement. The talks between the US and Iran have been ongoing, with the goal of re-establishing the 2015 nuclear deal. The deal was previously abandoned by the US in 2018. The current talks aim to revive the agreement and prevent Iran from developing nuclear weapons.",
-      "impact": "The news is unlikely to have a direct impact on the stock market in the short term. However, it may have medium-term implications for energy and defense stocks as a resolution to the Iran nuclear issue could lead to increased stability in the region and potentially lower oil prices. This, in turn, could positively affect energy companies such as ExxonMobil (XOM) and Chevron (CVX). On the other hand, defense companies like Lockheed Martin (LMT) and Boeing (BA) may see a negative impact as a resolution could reduce the need for military spending in the region.",
-      "risks": []
     }
   }
 ]
