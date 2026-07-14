@@ -53,7 +53,43 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/108334662-1784032857530-A321XLREconomyPlusInterior.jpg?v=1784032923&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1784035052
+    "publishedAt": 1784035052,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784045013,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "United Airlines is introducing a new upsell option where customers can pay to keep the middle seat empty on its Airbus A321XLRs. This move is part of a broader trend in the airline industry to offer premium services and increase revenue. The new seating arrangement is similar to those found on European airlines, where it's sold as business class for short-haul flights. United's goal is to entice customers to pay more for a more comfortable flying experience. This move is expected to boost revenue and profitability for the airline.",
+      "impact": "The introduction of this new upsell option is likely to have a positive impact on United Airlines' revenue and profitability in the short term. As more customers opt for the premium seating option, the airline can increase its revenue per seat, leading to higher earnings. This move may also put pressure on competitors to follow suit, potentially leading to a competitive pricing environment. In the medium term, this could lead to increased demand for premium services, driving growth in the airline industry.",
+      "risks": [
+        "Regulatory risks associated with changes in airline regulations and industry standards",
+        "Competition from other airlines offering similar premium services",
+        "Uncertainty around consumer demand for premium seating options"
+      ]
+    }
+  },
+  {
+    "id": "8214042",
+    "headline": "Most Gulf bourses retreat on US-Iran hostilities - Reuters",
+    "summary": "Most Gulf bourses retreat on US-Iran hostilities  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSEYxR3pORjFGZWRWaDVLRjFydXg5aURMT3JzOXhPa0JzamlEZFNpSE9uQjFNclAxRkdXRmxiTmJFVFRCYlE1RmxzcnRkV2RIRzI0NzBZUTF2WldGSDE5MmxSQ3YzOXRtSUZFZlVTSVExM2NlU3ROU3FfMGlRUUxfdXBScWxVUFJqS1cyNWpqNWR2dHJVZGkzdGFJTnA?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784035032,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784033648,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Tensions between the US and Iran have led to a decline in Gulf markets, with most countries experiencing losses. The situation has been escalating since the US assassination of Iranian General Qassem Soleimani, and recent events have heightened concerns about a potential conflict. The US-Iran hostilities have created uncertainty for investors, leading to a risk-off sentiment in the region. This has resulted in a decline in oil prices, which has negatively impacted energy-related stocks in the Gulf. The situation is expected to continue affecting the region's markets until a resolution is reached.",
+      "impact": "The potential impact on stocks in the Gulf region is significant, with energy-related companies likely to be affected in the short term due to declining oil prices. This could lead to a decline in earnings for these companies, making them less attractive to investors. The medium-term impact could also be felt in the region's economic growth, as a prolonged conflict could lead to decreased investor confidence and reduced economic activity. The decline in oil prices may also have a ripple effect on other industries that rely on oil, such as transportation and manufacturing.",
+      "risks": [
+        "Oil price volatility risk",
+        "Decreased investor confidence risk",
+        "Economic growth slowdown risk"
+      ]
+    }
   },
   {
     "id": "8213833",
@@ -171,29 +207,6 @@
     }
   },
   {
-    "id": "8214042",
-    "headline": "Most Gulf markets fall on US-Iran hostilities - Reuters",
-    "summary": "Most Gulf markets fall on US-Iran hostilities  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSEYxR3pORjFGZWRWaDVLRjFydXg5aURMT3JzOXhPa0JzamlEZFNpSE9uQjFNclAxRkdXRmxiTmJFVFRCYlE1RmxzcnRkV2RIRzI0NzBZUTF2WldGSDE5MmxSQ3YzOXRtSUZFZlVTSVExM2NlU3ROU3FfMGlRUUxfdXBScWxVUFJqS1cyNWpqNWR2dHJVZGkzdGFJTnA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784014149,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784033648,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Tensions between the US and Iran have led to a decline in Gulf markets, with most countries experiencing losses. The situation has been escalating since the US assassination of Iranian General Qassem Soleimani, and recent events have heightened concerns about a potential conflict. The US-Iran hostilities have created uncertainty for investors, leading to a risk-off sentiment in the region. This has resulted in a decline in oil prices, which has negatively impacted energy-related stocks in the Gulf. The situation is expected to continue affecting the region's markets until a resolution is reached.",
-      "impact": "The potential impact on stocks in the Gulf region is significant, with energy-related companies likely to be affected in the short term due to declining oil prices. This could lead to a decline in earnings for these companies, making them less attractive to investors. The medium-term impact could also be felt in the region's economic growth, as a prolonged conflict could lead to decreased investor confidence and reduced economic activity. The decline in oil prices may also have a ripple effect on other industries that rely on oil, such as transportation and manufacturing.",
-      "risks": [
-        "Oil price volatility risk",
-        "Decreased investor confidence risk",
-        "Economic growth slowdown risk"
-      ]
-    }
-  },
-  {
     "id": "8213198",
     "headline": "China's June oil imports hit near 10-year low amid Iran war - Reuters",
     "summary": "China's June oil imports hit near 10-year low amid Iran war  Reuters",
@@ -282,6 +295,29 @@
     }
   },
   {
+    "id": "8214857",
+    "headline": "Trump says he wants US reimbursed by countries for protecting Strait of Hormuz - Reuters",
+    "summary": "Trump says he wants US reimbursed by countries for protecting Strait of Hormuz  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTFRTcWRjZGpTR2VEM3pLcC1xT2k1Vkc3emVhUGRsZjVVVGZwOUMyeU5EMklWYWtoUnpHeS1ydFlnQXJXaUJQcVpMMGVfbTVKaF9QYTd1eFVCaFlHbmQ2NVpvUFR1cTBHT3BxQk5GaXpVaVVPMFFWVWpsYVhZUEZUY29UanRYTkhZbEVia25aV18wY0x5VURqOGZOY0tzbzVYV0swTi1qcnRsWmotbjl3bmVhOA?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1783994400,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784045064,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "US President Trump has stated that he wants countries to be reimbursed by the US for protecting the Strait of Hormuz. This statement is in response to the ongoing tensions between the US and Iran, which have led to increased security measures in the region. The Strait of Hormuz is a critical waterway for global oil trade, and any disruptions to its security could have significant implications for oil prices and the global economy. The US has been increasing its military presence in the region in response to Iran's actions, and Trump's statement suggests that the US may seek to pass on the costs of this increased security to other countries.",
+      "impact": "The potential impact of this news on related stocks is likely to be limited in the short-term, as the statement is more of a diplomatic maneuver than a concrete policy change. However, if other countries were to agree to reimburse the US for its security efforts, it could lead to increased military spending and a boost to the US defense industry. This could have a positive impact on defense stocks, such as Boeing (BA) and Lockheed Martin (LMT), in the medium-term. Additionally, the increased tensions in the region could lead to higher oil prices, which could benefit oil majors such as ExxonMobil (XOM) and Chevron (CVX).",
+      "risks": [
+        "increased military spending risk",
+        "geopolitical tensions risk",
+        "oil price volatility risk"
+      ]
+    }
+  },
+  {
     "id": "8214636",
     "headline": "Stocks mixed as oil rises after Trump's Hormuz levy threat - Reuters",
     "summary": "Stocks mixed as oil rises after Trump's Hormuz levy threat  Reuters",
@@ -329,8 +365,8 @@
   },
   {
     "id": "8212169",
-    "headline": "Oil hits four-week high as US-Iran conflict escalates - Reuters",
-    "summary": "Oil hits four-week high as US-Iran conflict escalates  Reuters",
+    "headline": "Oil prices rise 2% as US blockade on Iran stokes supply fears - Reuters",
+    "summary": "Oil prices rise 2% as US blockade on Iran stokes supply fears  Reuters",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObjBFQ0x4dHAxeGhVUDB4NlR2LVlyU1JTNnJhWkV1bnI4b1Zneng1X0E4bmpBWnJLVjBHZm1aaDctN19OejdjdGpnYVlxaHJxcjRGQzZZLUNhbmtvakJmc0MxTVpmc1l3ZzBXWFhzWE8teV91d0x0WFlTc2JUM2RDNFUyMzVCWl9mMWltOTJjTWM5Mlpta3dtN3VtT1A1RHpCcUhGQmNUMWNIaTYtZGU3MjQxMnExZw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -22702,29 +22738,6 @@
         "Potential failure of the agreement",
         "Uncertainty around the terms of the agreement",
         "Impact on US-Iran relations"
-      ]
-    }
-  },
-  {
-    "id": "8090544",
-    "headline": "Western countries warn of atrocities, imminent RSF escalation in Sudan's al-Obeid - Reuters",
-    "summary": "Western countries warn of atrocities, imminent RSF escalation in Sudan's al-Obeid  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObGNQZjM2WXd2NVlVM2xxRGNCNUtqWlM0aUFOc3Qtc25wNzREVFJlQkVTU3BMWHVfdTdZakVrMy03T3FqdlVpeVN6eUdBV2UtYndGNU9pcG5ob3hRbmhEdTR6OC1HYW1HNmQ5c0RRV0QtblllSExEeUdiY3pSMHVpTE45UFdKYm93ampwNW1uSm93WHJ5Q05MQ29ZM0hMTUIwNWxseHBhUlhPaXVuZ3ZyaWRjb09FV0M3a2xwcDZXemh3MHQ4U2wzRUtzbFNFVlU?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781799375,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1781828276,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Western countries have warned of potential atrocities and an imminent escalation of the Rapid Support Forces (RSF) in Sudan's al-Obeid. This development is a significant escalation of the ongoing conflict in Sudan, which has been plagued by political instability and violence. The RSF is a paramilitary group that has been accused of human rights abuses and has been involved in the conflict. The warning from Western countries suggests that the situation in Sudan is deteriorating rapidly, which could have significant implications for the country's economy and stability.",
-      "impact": "The potential escalation of the conflict in Sudan could lead to a decline in investor sentiment and a decrease in economic activity, which could negatively impact companies operating in the region. This could lead to a decrease in earnings for companies with exposure to Sudan, such as those in the energy or mining sectors. In the short-term, the news could lead to a decrease in liquidity for companies with Sudanese operations, making it more difficult to buy or sell shares. Medium-term, the ongoing instability in Sudan could lead to a decrease in foreign investment and a decline in the country's economic growth.",
-      "risks": [
-        "Decrease in earnings for companies with exposure to Sudan",
-        "Decrease in foreign investment in Sudan",
-        "Decline in economic growth in Sudan"
       ]
     }
   }
