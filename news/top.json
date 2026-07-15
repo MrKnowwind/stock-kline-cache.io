@@ -1,5 +1,51 @@
 [
   {
+    "id": "8219663",
+    "headline": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
+    "summary": "ASML delivered a blowout quarter, and the June wholesale inflation report was softer than expected.",
+    "url": "https://www.cnbc.com/2026/07/15/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108229403-17636661312025-11-20t191219z_412767202_rc2h0iarqagm_rtrmadp_0_tech-asml-phoenix.jpeg?v=1763666203&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1784121370,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784126765,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The market is reacting positively to a softer-than-expected June wholesale inflation report, which has led to a slight increase in stock futures. ASML, a key player in the semiconductor industry, reported a blowout quarter and raised its full-year guidance, driving its stock up over 3%. This, combined with the positive sentiment towards semiconductor names, has contributed to the overall bullish tone. Additionally, BlackRock's strong earnings report, with a 31% increase in revenue and multi-year highs in operating margins, has also boosted investor confidence.",
+      "impact": "The potential impact on the related stocks is significant, with ASML's stock likely to continue its upward trend due to its strong earnings report and increased demand for its products. BlackRock's shares are also expected to benefit from its strong earnings and increased investor confidence. The softer inflation report may also have a positive impact on the semiconductor industry as a whole, driving demand for ASML's products and other related stocks. In the short-term, we may see an increase in liquidity and sentiment-driven buying in these stocks.",
+      "risks": [
+        "valuation risk",
+        "regulatory risk",
+        "integration risk"
+      ]
+    }
+  },
+  {
+    "id": "8219551",
+    "headline": "Warren Buffett on the market today: 'It's tough to find values when everybody is preferring gambling'",
+    "summary": "The investor has been sharply critical of the stock market, one that he says is increasingly defined by speculative trading as opposed to long-term investing.",
+    "url": "https://www.cnbc.com/2026/07/15/warren-buffett-on-the-market-today-its-tough-to-find-values-when-everybody-is-preferring-gambling.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108335259-1784117182377-sayZ7yQA.jpg?v=1784117291&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1784119850,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784126815,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Warren Buffett has expressed his concerns about the current state of the stock market, criticizing the prevalence of speculative trading and the lack of value investing. He believes that the market is driven more by gamblers than investors, making it challenging to find meaningful investment opportunities. Buffett's comments come as the market has reached all-time highs, fueled by retail traders and speculative vehicles such as options and leveraged ETFs. The billionaire investor emphasizes the importance of a patient and disciplined approach to investing.",
+      "impact": "The comments from Buffett may lead to a short-term market correction as investors reassess their investment strategies and the value of stocks. In the medium term, the increased scrutiny on speculative trading and the emphasis on value investing may lead to a rotation out of high-growth, high-beta stocks and into more stable, value-oriented companies. This could negatively impact stocks like Micron, which has been driven by retail traders, and recent IPOs like SpaceX. The shift in market sentiment may also lead to a decrease in liquidity and an increase in volatility.",
+      "risks": [
+        "market correction risk",
+        "valuation risk",
+        "liquidity risk"
+      ]
+    }
+  },
+  {
     "id": "8219303",
     "headline": "Buffett says Trump's pick of Kevin Warsh for Fed chair was 'good choice'",
     "summary": "Warren Buffett believes Fed Chair Kevin Warsh will do the best job he can.",
@@ -46,14 +92,60 @@
     }
   },
   {
+    "id": "8219563",
+    "headline": "US says it has begun new wave of strikes on Iran - Reuters",
+    "summary": "US says it has begun new wave of strikes on Iran  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObUM2X1dwWlEtWHFxM3dFS1pvOWlDcHNlR0NLTTBiTHR2RU01Y21HTXYwSW5FUng3UFZ1S21GdGhJQlJObjJySjBEa2RLSDJMN3cwNDVjMTJmNW9QVi1UOUVvQ0daRXIyVDJQN0RHX3VZWXRqVElkc0xYUEMtQlVwWW5JYzN0cnhnSmlYS1NhajlBTXhNWUZSRlZWLVo?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784112477,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784126869,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The US has launched a new wave of strikes on Iran, escalating tensions in the region. This development is a significant escalation of the ongoing conflict between the US and Iran, which has been ongoing since the US withdrew from the Iran nuclear deal in 2018. The strikes are likely to lead to increased instability in the Middle East, which could have far-reaching consequences for global oil prices and the energy industry. The US military action is also likely to put pressure on the Iranian economy, which is already facing significant challenges due to US sanctions.",
+      "impact": "The potential impact of this news on related stocks could be significant, particularly for companies with exposure to the Middle East or the energy sector. In the short-term, oil prices may surge due to the increased risk of supply disruptions, which could boost the earnings of oil producers such as ExxonMobil (XOM) and Chevron (CVX). However, the medium-term impact could be more nuanced, as the conflict could lead to a decline in demand for oil and other commodities, potentially weighing on the earnings of companies such as Boeing (BA) and Caterpillar (CAT).",
+      "risks": [
+        "Increased volatility in global oil prices",
+        "Potential decline in demand for oil and other commodities",
+        "Escalation of conflict in the Middle East"
+      ]
+    }
+  },
+  {
+    "id": "8218872",
+    "headline": "Indian shares edge higher as financials lead; U.S.-Iran tensions cap gains - Reuters",
+    "summary": "Indian shares edge higher as financials lead; U.S.-Iran tensions cap gains  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM2xmYXQ2eWtSM3VTZm5TSGU5amlPMGxoeGtKNXVEaUhqbmdienYzLW5ia1V2cG5YTUVvNUJWZkhqRVZqRFZCN3Brc1NscVNNZjRpX3JXeUsxM1V1RHhzX2d6cGJpdmZ5cjRsUzJiMU55X3Rwdmh5bENZUDZSSkFOblBaVTB3WFRzVW9kNFJpRTVFREFFV0pEUDN6OWx3REZvWTBPT1FGc3VhdjhWcnNVUzFnSXhIZ0lt?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784110609,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784114185,
+      "sentiment": "bullish",
+      "confidence": 0.7,
+      "summary": "Indian shares have edged higher, led by financials, as investors remain optimistic about the sector's prospects. The news comes amidst heightened tensions between the US and Iran, which has capped gains in the market. The Indian financial sector has been performing well, driven by a strong economy and improving corporate earnings. This has led to increased investor confidence in the sector, pushing up stock prices. The sector's performance is expected to continue, driven by a stable macroeconomic environment and improving earnings outlook.",
+      "impact": "The news is likely to have a positive impact on Indian financial stocks in the short term, with potential for further gains in the sector. The improving earnings outlook and stable macroeconomic environment should support the sector's performance. However, the US-Iran tensions may limit gains in the market, and investors should be cautious about over-optimism. In the medium term, the sector's performance is expected to be driven by its fundamentals, with potential for further growth.",
+      "risks": [
+        "US-Iran tensions may limit market gains",
+        "Potential for over-optimism among investors",
+        "Macroeconomic risks, including changes in interest rates or economic growth"
+      ]
+    }
+  },
+  {
     "id": "8218022",
-    "headline": "Iran threatens to block more vital seaways as Trump orders renewed Iran blockade - Reuters",
-    "summary": "Iran threatens to block more vital seaways as Trump orders renewed Iran blockade  Reuters",
+    "headline": "US launches new round of strikes against Iran as escalation threatens shipping - Reuters",
+    "summary": "US launches new round of strikes against Iran as escalation threatens shipping  Reuters",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUFEyN1NxTHNCaG5RT2lOTWY4WWxWd1JQUGpLdV8wY3J0RVp3RmZaN21hcm9YX1A1TWdYc3RMU3BKNV9rd0tqdnM4SEpmamFRLXJIU1NvdnhUYlo5WDFnb2dPY2JfZU5HXzBMR184ei1kSS1zeUthWmltb1VzZWhOR0lCX2FlR0NXSGUxY0gxbVJTVkw2RFo5NnZSVXFhcGYxOUhOS1BJU2gza3VYY3VHT2JEWVV2VHdCdDdmeTRyOElucVF4Mk9r?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1784113929,
+    "publishedAt": 1784091420,
     "analysis": {
       "version": 2,
       "generatedAt": 1784098892,
@@ -92,32 +184,9 @@
     }
   },
   {
-    "id": "8218872",
-    "headline": "Indian shares edge higher as financials lead; U.S.-Iran tensions cap gains - Reuters",
-    "summary": "Indian shares edge higher as financials lead; U.S.-Iran tensions cap gains  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM2xmYXQ2eWtSM3VTZm5TSGU5amlPMGxoeGtKNXVEaUhqbmdienYzLW5ia1V2cG5YTUVvNUJWZkhqRVZqRFZCN3Brc1NscVNNZjRpX3JXeUsxM1V1RHhzX2d6cGJpdmZ5cjRsUzJiMU55X3Rwdmh5bENZUDZSSkFOblBaVTB3WFRzVW9kNFJpRTVFREFFV0pEUDN6OWx3REZvWTBPT1FGc3VhdjhWcnNVUzFnSXhIZ0lt?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784082780,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784114185,
-      "sentiment": "bullish",
-      "confidence": 0.7,
-      "summary": "Indian shares have edged higher, led by financials, as investors remain optimistic about the sector's prospects. The news comes amidst heightened tensions between the US and Iran, which has capped gains in the market. The Indian financial sector has been performing well, driven by a strong economy and improving corporate earnings. This has led to increased investor confidence in the sector, pushing up stock prices. The sector's performance is expected to continue, driven by a stable macroeconomic environment and improving earnings outlook.",
-      "impact": "The news is likely to have a positive impact on Indian financial stocks in the short term, with potential for further gains in the sector. The improving earnings outlook and stable macroeconomic environment should support the sector's performance. However, the US-Iran tensions may limit gains in the market, and investors should be cautious about over-optimism. In the medium term, the sector's performance is expected to be driven by its fundamentals, with potential for further growth.",
-      "risks": [
-        "US-Iran tensions may limit market gains",
-        "Potential for over-optimism among investors",
-        "Macroeconomic risks, including changes in interest rates or economic growth"
-      ]
-    }
-  },
-  {
     "id": "8217198",
-    "headline": "Oil prices rise 1% as hostilities worsen in the Middle East - Reuters",
-    "summary": "Oil prices rise 1% as hostilities worsen in the Middle East  Reuters",
+    "headline": "Oil prices rise as hostilities worsen in the Middle East - Reuters",
+    "summary": "Oil prices rise as hostilities worsen in the Middle East  Reuters",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUFh4aWhsMnJmRnlKQkFsZXUxTWd4cjVvU0pKZG1TemNJTzZHWF9qZUFMZkFCR1Vic05WN2dqVk03RU1JWkxfOG1nQ3lzT3hmeVF6SDZkcVpiZFpTNGtBaUZyRUFxNmg0b0ZqMFJXSlRobGFqRmZwSE1ycy1TaEF2UTdQZU1WbGctVkNtTm8xaUdyMkpvZGlvMm4wOTBRVXZjVWhtYURYSHU5alBWREx6ZGF0YkYyalFkb0ZBLUd0LTVGdXdWZGc?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -245,29 +314,6 @@
         "Security risks in the region could still hinder the project's progress",
         "Investment risks associated with the project's high upfront costs",
         "Uncertainty around the project's timeline and feasibility"
-      ]
-    }
-  },
-  {
-    "id": "8214636",
-    "headline": "Stocks gain on softer inflation, bank results while oil rises on US-Iran hostilities - Reuters",
-    "summary": "Stocks gain on softer inflation, bank results while oil rises on US-Iran hostilities  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdWRaMVFPRFNSMDhQQ1dQT09aWlhsdzdhVGVFcGUzblZreE9kSms3eXc3ZjRlbVhvdUtFRW5IQ3ZSSE42bnhoTGxIaVlwbVVQR0tLUE0yY1N3NTJ2Qko2S01pNHREcW5CbmpweXpORmVRRzdCR0RDcTRjeG9oS2tqR2hIWQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784063634,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784040280,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "US President Trump's threat to impose sanctions on countries that don't protect the Strait of Hormuz has led to a rise in oil prices. This development has resulted in a mixed market response, with some stocks benefiting from the higher oil prices while others are negatively impacted. The Strait of Hormuz is a critical waterway for global oil trade, and any disruptions could significantly impact oil prices. The market is closely watching the situation, and investors are adjusting their positions accordingly.",
-      "impact": "The rise in oil prices is likely to benefit energy-related stocks, particularly those with significant exposure to oil production or refining. Companies such as ExxonMobil (XOM) and Chevron (CVX) may see a short-term boost in their stock prices. However, other sectors such as airlines and transportation companies may be negatively impacted by the higher oil prices, potentially leading to a decline in their stock prices. The medium-term impact will depend on the duration and severity of the tensions in the Strait of Hormuz.",
-      "risks": [
-        "geopolitical risk",
-        "supply chain disruption risk",
-        "economic slowdown risk"
       ]
     }
   },
@@ -862,6 +908,30 @@
     }
   },
   {
+    "id": "8207702",
+    "headline": "Oil pangs resurface for rupee, options market gauge signals bearish bias - Reuters",
+    "summary": "Oil pangs resurface for rupee, options market gauge signals bearish bias  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSXR4ZWZsd09NWExoakQ5aEpDdmdhNk5SVVNlQ1A3TmhtaXFFQnM3LTRSSzhSaFJxSHoxUWlVbFF5UTRzYnh2RG1qNEFWZTNHMzNFNTRuYlFUUHJiRldvakh4dEN6RU9FNXZkMlMtSW8tTGtPNW5sRXBYbVFRTWJOWDRRa2RxaVNuZFlBXzNtdVUxUFBMejZjOXNMTEVGUzRFWXEtYnltN2xEZ3I4aU9McnRnRTNDQQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784020998,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1783919947,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The US-Iran flare-up has put the Indian rupee under pressure, with oil prices expected to rise. The Indian rupee has historically been sensitive to oil price movements, as India is a major oil importer. The increase in oil prices will lead to higher import costs for India, putting pressure on its current account deficit and potentially weakening the rupee. This development is likely to be a concern for Indian oil companies, such as ONGC and HPCL, which are major players in the domestic oil market.",
+      "impact": "The potential rise in oil prices could lead to higher input costs for Indian refiners, negatively impacting their earnings in the short term. In the medium term, the weakening rupee could lead to higher import costs for Indian companies, potentially reducing their competitiveness in the global market. This could also lead to a decline in the Indian stock market, particularly for companies with high exposure to oil prices, such as ONGC and HPCL. The rupee's weakness could also lead to a decline in foreign portfolio investment in Indian stocks.",
+      "risks": [
+        "Oil price volatility risk",
+        "Weakening rupee risk",
+        "Increased import costs risk",
+        "Potential decline in foreign portfolio investment risk"
+      ]
+    }
+  },
+  {
     "id": "8214385",
     "headline": "Spot Mideast crude prices strengthen after Iran attacks UAE tankers - Reuters",
     "summary": "Spot Mideast crude prices strengthen after Iran attacks UAE tankers  Reuters",
@@ -904,30 +974,6 @@
         "Increased regulatory scrutiny and potential changes to immigration policies",
         "Negative sentiment and decreased investor confidence in the industry",
         "Potential impact on companies involved in the immigration and border control industry"
-      ]
-    }
-  },
-  {
-    "id": "8210981",
-    "headline": "Why has the Iran-US ceasefire memorandum frayed? - Reuters",
-    "summary": "Why has the Iran-US ceasefire memorandum frayed?  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVXN1cXVSb3ZQMXNpLTJLQ3F0OGJ4bXUxWmRHZ080XzVVNE9nNzdyeFp3VTIySjRxYzZjTGJ5LWw2SVpJU2U0OWp3ZjBOdlhrVEpaQ18yWUZoM3gtY3VOdFFSTHVPemwxcmJicFJWMlAwNWFnNlJKMlVIU2lmTUNvMi12cjRMZTZRSkZERFpn?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784014683,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1783982487,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The Iran-US ceasefire memorandum has frayed due to recent incidents of violence and tit-for-tat attacks between the two nations. This development is a setback for the 2015 nuclear deal, which aimed to ease tensions and restrict Iran's nuclear program. The current situation has raised concerns about a potential escalation of conflict, which could lead to a further deterioration in the global energy market and a rise in oil prices. This, in turn, could negatively impact energy companies and related industries.",
-      "impact": "The potential escalation of conflict between Iran and the US could lead to a short-term increase in oil prices, negatively impacting energy companies such as ExxonMobil (XOM) and Chevron (CVX). This could also impact the earnings outlook for these companies, as higher oil prices would increase their production costs and potentially reduce their profit margins. In the medium term, a prolonged conflict could lead to a decrease in investor sentiment and a decline in the stock prices of energy companies, making them less attractive to investors.",
-      "risks": [
-        "Escalation of conflict risk",
-        "Oil price volatility risk",
-        "Decrease in investor sentiment risk",
-        "Earnings outlook risk"
       ]
     }
   },
@@ -1089,25 +1135,25 @@
     }
   },
   {
-    "id": "8209391",
-    "headline": "Houthis fire missiles at Saudi Arabia, breaking years of calm - Reuters",
-    "summary": "Houthis fire missiles at Saudi Arabia, breaking years of calm  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQV2Q4MUdSUXZ0ZWdUWnM4SFNoV0lqYlBHTy1PMURKeFA1TS02RWRjbVZDYzJTY29obkdIa29MV2Y1WjZta2c5TXRzTEdNRjc3alR0MGtNV3QzUXpoanJyLWQ4VHV4NlM2WloyaWZaenV1Y1hqUjY1dHNaaXRiWnoxdmxLYWtyNURVQlRfblZjaFBYTmdXNDVVVFFlM1BWS3M2SzFOcm5MakVrYWNwM01aT0s2UThnckpQRDlSUjdqRjlMaWM4eTJtRG5JZU9FQQ?oc=5",
+    "id": "8209495",
+    "headline": "Trump: Iran blockade reinstated, US to charge 20% on Strait of Hormuz cargo - Reuters",
+    "summary": "Trump: Iran blockade reinstated, US to charge 20% on Strait of Hormuz cargo  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMV9vbjgzc3lGdFhGN0tRekRlTDItNXRiUnN1OV90MG5VeXVsRzRXNVItYUZPLWdPZlZtVUVFYTBaQlhhUkFTU1JTQzVfSVhoMHV1VUhQUmhtelBMMllPQk40dUhjWW16dEpaaWc0bVpjazBLWmRvakxGUEtkNHExcmlmRTBMRGxaSDF3VGk3d3BqZTNRU3pZRkUzTENvUk5KYVg5Rk4tUjZ1dw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
     "publishedAt": 1783998143,
     "analysis": {
       "version": 2,
-      "generatedAt": 1783950700,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The Houthi rebels have accused Saudi Arabia of striking Sanaa airport, a move that could escalate tensions in the region. This incident is part of the ongoing conflict between the Houthis and the Saudi-led coalition in Yemen. The Houthis have vowed to retaliate, which could lead to further military action and instability in the region. This could have implications for oil prices and global markets. Saudi Arabia's involvement in the conflict could also impact the country's reputation and relations with other nations.",
-      "impact": "The potential impact on oil stocks such as Saudi Aramco (if it were publicly traded) could be significant, as increased tensions in the region could lead to higher oil prices. The escalation of the conflict could also negatively impact the earnings outlook for companies with exposure to the region, such as those in the defense or logistics industries. In the short term, investors may be cautious and pull back from the market, leading to a decrease in liquidity and potentially negatively impacting stock prices.",
+      "generatedAt": 1783950651,
+      "sentiment": "bullish",
+      "confidence": 0.7,
+      "summary": "US President Trump's statement on controlling the Strait of Hormuz and getting paid for it could have significant implications for the global energy market. The Strait of Hormuz is a crucial waterway for oil exports, with approximately 20% of global oil supplies passing through it. Trump's proposal could lead to increased tensions in the region, potentially disrupting oil supplies and driving up prices. This could benefit energy companies that produce oil, particularly those with significant exposure to the Middle East.",
+      "impact": "The news could have a positive impact on energy companies such as ExxonMobil (XOM) and Chevron (CVX), which have significant operations in the Middle East and could benefit from increased oil prices. In the short-term, this could lead to higher earnings for these companies, driving up their stock prices. However, the medium-term impact is uncertain, as increased tensions in the region could lead to supply chain disruptions and decreased investor confidence.",
       "risks": [
-        "Escalation of conflict and instability in the region",
-        "Increased oil prices and impact on the global economy",
-        "Negative impact on Saudi Arabia's reputation and relations with other nations"
+        "Increased tensions in the Middle East leading to supply chain disruptions",
+        "Decreased investor confidence in the energy sector",
+        "Potential for oil price volatility"
       ]
     }
   },
@@ -1131,6 +1177,29 @@
         "increased military spending risk",
         "geopolitical tensions risk",
         "oil price volatility risk"
+      ]
+    }
+  },
+  {
+    "id": "8214636",
+    "headline": "Stocks gain on softer inflation, bank results while oil rises on US-Iran hostilities - Reuters",
+    "summary": "Stocks gain on softer inflation, bank results while oil rises on US-Iran hostilities  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdWRaMVFPRFNSMDhQQ1dQT09aWlhsdzdhVGVFcGUzblZreE9kSms3eXc3ZjRlbVhvdUtFRW5IQ3ZSSE42bnhoTGxIaVlwbVVQR0tLUE0yY1N3NTJ2Qko2S01pNHREcW5CbmpweXpORmVRRzdCR0RDcTRjeG9oS2tqR2hIWQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1783992420,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784040280,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "US President Trump's threat to impose sanctions on countries that don't protect the Strait of Hormuz has led to a rise in oil prices. This development has resulted in a mixed market response, with some stocks benefiting from the higher oil prices while others are negatively impacted. The Strait of Hormuz is a critical waterway for global oil trade, and any disruptions could significantly impact oil prices. The market is closely watching the situation, and investors are adjusting their positions accordingly.",
+      "impact": "The rise in oil prices is likely to benefit energy-related stocks, particularly those with significant exposure to oil production or refining. Companies such as ExxonMobil (XOM) and Chevron (CVX) may see a short-term boost in their stock prices. However, other sectors such as airlines and transportation companies may be negatively impacted by the higher oil prices, potentially leading to a decline in their stock prices. The medium-term impact will depend on the duration and severity of the tensions in the Strait of Hormuz.",
+      "risks": [
+        "geopolitical risk",
+        "supply chain disruption risk",
+        "economic slowdown risk"
       ]
     }
   },
@@ -1568,6 +1637,53 @@
     }
   },
   {
+    "id": "8210981",
+    "headline": "Why has the Iran-US ceasefire memorandum frayed? - Reuters",
+    "summary": "Why has the Iran-US ceasefire memorandum frayed?  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVXN1cXVSb3ZQMXNpLTJLQ3F0OGJ4bXUxWmRHZ080XzVVNE9nNzdyeFp3VTIySjRxYzZjTGJ5LWw2SVpJU2U0OWp3ZjBOdlhrVEpaQ18yWUZoM3gtY3VOdFFSTHVPemwxcmJicFJWMlAwNWFnNlJKMlVIU2lmTUNvMi12cjRMZTZRSkZERFpn?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1783953000,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1783982487,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The Iran-US ceasefire memorandum has frayed due to recent incidents of violence and tit-for-tat attacks between the two nations. This development is a setback for the 2015 nuclear deal, which aimed to ease tensions and restrict Iran's nuclear program. The current situation has raised concerns about a potential escalation of conflict, which could lead to a further deterioration in the global energy market and a rise in oil prices. This, in turn, could negatively impact energy companies and related industries.",
+      "impact": "The potential escalation of conflict between Iran and the US could lead to a short-term increase in oil prices, negatively impacting energy companies such as ExxonMobil (XOM) and Chevron (CVX). This could also impact the earnings outlook for these companies, as higher oil prices would increase their production costs and potentially reduce their profit margins. In the medium term, a prolonged conflict could lead to a decrease in investor sentiment and a decline in the stock prices of energy companies, making them less attractive to investors.",
+      "risks": [
+        "Escalation of conflict risk",
+        "Oil price volatility risk",
+        "Decrease in investor sentiment risk",
+        "Earnings outlook risk"
+      ]
+    }
+  },
+  {
+    "id": "8208012",
+    "headline": "Less than a month's supply: Europe's jet fuel stocks are wafer thin as Iran tensions flare - Reuters",
+    "summary": "Less than a month's supply: Europe's jet fuel stocks are wafer thin as Iran tensions flare  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR1lCYWdoRS1ZVjB4RTR3bHhleGU2aFlLOTdxckNDWXFtMGxQZVdTUklud0N1SXRXaG50LUk3dTBLZl8tV0FVVGg1cHNPZ3ZCOEFQY0FBUkhINUQzMEFDVUNqTzg2a3FsUkJiclZCZjJSbF9vd3AycW5ta1lNZHBObjF0Y1ZMV3UyUzVfR05iMmhLLTl2MmJ1YUhzX2pKZEZtMk14OEtHNVRPVFdYN1BkMDlscUlXRTAycjB1cGJ1Q1NYcTNyYTFr?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1783952123,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1783931869,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Europe's jet fuel stocks are critically low, with less than a month's supply available due to increased demand and reduced imports from Iran. The shortage is attributed to the ongoing tensions between the US and Iran, which have led to a significant reduction in Iranian oil exports. This has resulted in a shortage of jet fuel, a key component of aviation fuel, in Europe. The shortage is expected to continue until the situation with Iran stabilizes, which may take several weeks or months. The European aviation industry is heavily reliant on jet fuel, and a prolonged shortage could lead to significant disruptions to air travel and logistics.",
+      "impact": "The potential impact on the aviation and energy sectors is significant, with a shortage of jet fuel leading to increased costs and reduced profitability for airlines and fuel suppliers. In the short-term, this could lead to a surge in jet fuel prices, which would negatively impact airline earnings and potentially lead to a decrease in air travel demand. In the medium-term, this could lead to a re-evaluation of supply chains and logistics for the aviation industry, potentially driving increased investment in alternative fuels or more efficient supply chains. The impact on oil and energy stocks may be limited, but could lead to increased volatility in the sector.",
+      "risks": [
+        "Supply chain disruption risk",
+        "Increased fuel prices risk",
+        "Aviation industry earnings risk"
+      ]
+    }
+  },
+  {
     "id": "8208213",
     "headline": "Hormuz traffic slows to two-month low as renewed US, Iran strikes raise safety risk - Reuters",
     "summary": "Hormuz traffic slows to two-month low as renewed US, Iran strikes raise safety risk  Reuters",
@@ -1795,29 +1911,6 @@
     }
   },
   {
-    "id": "8209495",
-    "headline": "Trump: Iran blockade reinstated, US to charge 20% on Strait of Hormuz cargo - Reuters",
-    "summary": "Trump: Iran blockade reinstated, US to charge 20% on Strait of Hormuz cargo  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMV9vbjgzc3lGdFhGN0tRekRlTDItNXRiUnN1OV90MG5VeXVsRzRXNVItYUZPLWdPZlZtVUVFYTBaQlhhUkFTU1JTQzVfSVhoMHV1VUhQUmhtelBMMllPQk40dUhjWW16dEpaaWc0bVpjazBLWmRvakxGUEtkNHExcmlmRTBMRGxaSDF3VGk3d3BqZTNRU3pZRkUzTENvUk5KYVg5Rk4tUjZ1dw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1783945680,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1783950651,
-      "sentiment": "bullish",
-      "confidence": 0.7,
-      "summary": "US President Trump's statement on controlling the Strait of Hormuz and getting paid for it could have significant implications for the global energy market. The Strait of Hormuz is a crucial waterway for oil exports, with approximately 20% of global oil supplies passing through it. Trump's proposal could lead to increased tensions in the region, potentially disrupting oil supplies and driving up prices. This could benefit energy companies that produce oil, particularly those with significant exposure to the Middle East.",
-      "impact": "The news could have a positive impact on energy companies such as ExxonMobil (XOM) and Chevron (CVX), which have significant operations in the Middle East and could benefit from increased oil prices. In the short-term, this could lead to higher earnings for these companies, driving up their stock prices. However, the medium-term impact is uncertain, as increased tensions in the region could lead to supply chain disruptions and decreased investor confidence.",
-      "risks": [
-        "Increased tensions in the Middle East leading to supply chain disruptions",
-        "Decreased investor confidence in the energy sector",
-        "Potential for oil price volatility"
-      ]
-    }
-  },
-  {
     "id": "8211331",
     "headline": "Rescuers search for crew member after container ship attack in Strait of Hormuz - Reuters",
     "summary": "Rescuers search for crew member after container ship attack in Strait of Hormuz  Reuters",
@@ -1841,26 +1934,25 @@
     }
   },
   {
-    "id": "8207702",
-    "headline": "Oil pangs resurface for rupee, options market gauge signals bearish bias - Reuters",
-    "summary": "Oil pangs resurface for rupee, options market gauge signals bearish bias  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSXR4ZWZsd09NWExoakQ5aEpDdmdhNk5SVVNlQ1A3TmhtaXFFQnM3LTRSSzhSaFJxSHoxUWlVbFF5UTRzYnh2RG1qNEFWZTNHMzNFNTRuYlFUUHJiRldvakh4dEN6RU9FNXZkMlMtSW8tTGtPNW5sRXBYbVFRTWJOWDRRa2RxaVNuZFlBXzNtdVUxUFBMejZjOXNMTEVGUzRFWXEtYnltN2xEZ3I4aU9McnRnRTNDQQ?oc=5",
+    "id": "8209391",
+    "headline": "Houthis fire missiles at Saudi Arabia, breaking years of calm - Reuters",
+    "summary": "Houthis fire missiles at Saudi Arabia, breaking years of calm  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQV2Q4MUdSUXZ0ZWdUWnM4SFNoV0lqYlBHTy1PMURKeFA1TS02RWRjbVZDYzJTY29obkdIa29MV2Y1WjZta2c5TXRzTEdNRjc3alR0MGtNV3QzUXpoanJyLWQ4VHV4NlM2WloyaWZaenV1Y1hqUjY1dHNaaXRiWnoxdmxLYWtyNURVQlRfblZjaFBYTmdXNDVVVFFlM1BWS3M2SzFOcm5MakVrYWNwM01aT0s2UThnckpQRDlSUjdqRjlMaWM4eTJtRG5JZU9FQQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1783937578,
+    "publishedAt": 1783942200,
     "analysis": {
       "version": 2,
-      "generatedAt": 1783919947,
+      "generatedAt": 1783950700,
       "sentiment": "bearish",
       "confidence": 0.8,
-      "summary": "The US-Iran flare-up has put the Indian rupee under pressure, with oil prices expected to rise. The Indian rupee has historically been sensitive to oil price movements, as India is a major oil importer. The increase in oil prices will lead to higher import costs for India, putting pressure on its current account deficit and potentially weakening the rupee. This development is likely to be a concern for Indian oil companies, such as ONGC and HPCL, which are major players in the domestic oil market.",
-      "impact": "The potential rise in oil prices could lead to higher input costs for Indian refiners, negatively impacting their earnings in the short term. In the medium term, the weakening rupee could lead to higher import costs for Indian companies, potentially reducing their competitiveness in the global market. This could also lead to a decline in the Indian stock market, particularly for companies with high exposure to oil prices, such as ONGC and HPCL. The rupee's weakness could also lead to a decline in foreign portfolio investment in Indian stocks.",
+      "summary": "The Houthi rebels have accused Saudi Arabia of striking Sanaa airport, a move that could escalate tensions in the region. This incident is part of the ongoing conflict between the Houthis and the Saudi-led coalition in Yemen. The Houthis have vowed to retaliate, which could lead to further military action and instability in the region. This could have implications for oil prices and global markets. Saudi Arabia's involvement in the conflict could also impact the country's reputation and relations with other nations.",
+      "impact": "The potential impact on oil stocks such as Saudi Aramco (if it were publicly traded) could be significant, as increased tensions in the region could lead to higher oil prices. The escalation of the conflict could also negatively impact the earnings outlook for companies with exposure to the region, such as those in the defense or logistics industries. In the short term, investors may be cautious and pull back from the market, leading to a decrease in liquidity and potentially negatively impacting stock prices.",
       "risks": [
-        "Oil price volatility risk",
-        "Weakening rupee risk",
-        "Increased import costs risk",
-        "Potential decline in foreign portfolio investment risk"
+        "Escalation of conflict and instability in the region",
+        "Increased oil prices and impact on the global economy",
+        "Negative impact on Saudi Arabia's reputation and relations with other nations"
       ]
     }
   },
@@ -2083,29 +2175,6 @@
         "Increased volatility in the cryptocurrency market",
         "Risk of a decline in investor sentiment and confidence",
         "Potential for a stronger US dollar to erode Bitcoin's value"
-      ]
-    }
-  },
-  {
-    "id": "8208012",
-    "headline": "Less than a month's supply: Europe's jet fuel stocks are wafer thin as Iran tensions flare - Reuters",
-    "summary": "Less than a month's supply: Europe's jet fuel stocks are wafer thin as Iran tensions flare  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR1lCYWdoRS1ZVjB4RTR3bHhleGU2aFlLOTdxckNDWXFtMGxQZVdTUklud0N1SXRXaG50LUk3dTBLZl8tV0FVVGg1cHNPZ3ZCOEFQY0FBUkhINUQzMEFDVUNqTzg2a3FsUkJiclZCZjJSbF9vd3AycW5ta1lNZHBObjF0Y1ZMV3UyUzVfR05iMmhLLTl2MmJ1YUhzX2pKZEZtMk14OEtHNVRPVFdYN1BkMDlscUlXRTAycjB1cGJ1Q1NYcTNyYTFr?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1783919169,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1783931869,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Europe's jet fuel stocks are critically low, with less than a month's supply available due to increased demand and reduced imports from Iran. The shortage is attributed to the ongoing tensions between the US and Iran, which have led to a significant reduction in Iranian oil exports. This has resulted in a shortage of jet fuel, a key component of aviation fuel, in Europe. The shortage is expected to continue until the situation with Iran stabilizes, which may take several weeks or months. The European aviation industry is heavily reliant on jet fuel, and a prolonged shortage could lead to significant disruptions to air travel and logistics.",
-      "impact": "The potential impact on the aviation and energy sectors is significant, with a shortage of jet fuel leading to increased costs and reduced profitability for airlines and fuel suppliers. In the short-term, this could lead to a surge in jet fuel prices, which would negatively impact airline earnings and potentially lead to a decrease in air travel demand. In the medium-term, this could lead to a re-evaluation of supply chains and logistics for the aviation industry, potentially driving increased investment in alternative fuels or more efficient supply chains. The impact on oil and energy stocks may be limited, but could lead to increased volatility in the sector.",
-      "risks": [
-        "Supply chain disruption risk",
-        "Increased fuel prices risk",
-        "Aviation industry earnings risk"
       ]
     }
   },
@@ -22662,75 +22731,6 @@
         "uncertainty surrounding the outcome of the US-Iran peace talks",
         "potential increase in global market volatility",
         "negative impact on Japanese companies with high import costs"
-      ]
-    }
-  },
-  {
-    "id": "8093567",
-    "headline": "Oil shipments rise in Hormuz although questions grow over Iran's transit terms - Reuters",
-    "summary": "Oil shipments rise in Hormuz although questions grow over Iran's transit terms  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONmxOVHFxZFJqT0MyRms0akxNMzFSVG45ZDFFVHFjZkZrMmh0anBuak5MYjlwWWw3Vy04LWl1b3oxbnZHSGRqQ2V0cWN5WUhxbHpZdXRCQmdpZGpsUk40RWl3dlVyTWtTUTRQOUtjbHM4NUJtTlpwZWtMMmx3REpQMWl6OWJEYzVhSHpIVkVicGVSdzdiaHd6WkU4ZENSaWZlUVVVUFNXYTktZDRDSVdZMmRuWXhPWFBBS2RLMk01OEo0eWFy?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781871960,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1781886609,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Oil shipments through the Hormuz Strait have increased, despite concerns over Iran's transit terms. The Strait of Hormuz is a critical waterway for global oil trade, with many major oil-producing countries relying on it for exports. The news comes as tensions between the US and Iran remain high, with the US imposing sanctions on Iran's oil exports. The uncertainty over Iran's transit terms may impact oil prices, which could have a ripple effect on energy companies' earnings and valuations.",
-      "impact": "The news may have a mixed impact on oil-related stocks, with some benefiting from the increased oil shipments and others being negatively affected by the uncertainty over Iran's transit terms. In the short-term, oil prices may remain volatile, impacting energy companies' earnings and valuations. Medium-term, the increased oil shipments could lead to increased demand for oil-related infrastructure and equipment, benefiting companies involved in these sectors. However, the ongoing tensions between the US and Iran may continue to weigh on investor sentiment, potentially leading to a decrease in stock prices.",
-      "risks": [
-        "Increased oil prices risk",
-        "Uncertainty over Iran's transit terms risk",
-        "Tensions between the US and Iran risk"
-      ]
-    }
-  },
-  {
-    "id": "8097003",
-    "headline": "UAE bourses decline amid US-Iran truce uncertainty - Reuters",
-    "summary": "UAE bourses decline amid US-Iran truce uncertainty  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdWNoeGxDdFJVd2w1ZWg1Q29Wb1ZfZDkyT0RiMGhaMlU2UDZxeklhRVpXdlMyc0lPSE5MNFlFOTFtOFJsNVJ0Z0Q3YmxYbzlWRWlkbmZjVlhybVktbjZSRmd1VURlUHh0X0xtTDVreldBWng2U1hmZzlPZUJJdTNDby1UVnBzMmx4UkpGcDFEV1o1RFYtTVJGMWRoSERQRFlXRnZvalFYYw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781870744,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1781949263,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "The United Arab Emirates (UAE) stock market declined due to uncertainty surrounding a potential US-Iran truce. The news has created market volatility, causing investors to reassess their risk appetite and investment strategies. The UAE's economy is heavily reliant on international trade, particularly with Iran, and a prolonged conflict could negatively impact trade volumes and economic growth. The US-Iran tensions have been escalating in recent months, leading to increased uncertainty and volatility in the region.",
-      "impact": "The potential US-Iran truce uncertainty is likely to negatively impact the UAE's economy and its stock market in the short term. This could lead to a decline in investor sentiment, reduced trading volumes, and lower stock prices for UAE-based companies. In the medium term, a prolonged conflict could also impact the earnings outlook for companies with significant exposure to the region, such as those in the energy and logistics sectors. The uncertainty surrounding the truce could also lead to increased volatility in the region, making it more challenging for investors to make informed decisions.",
-      "risks": [
-        "Economic slowdown risk",
-        "Trade disruption risk",
-        "Investor sentiment risk"
-      ]
-    }
-  },
-  {
-    "id": "8093773",
-    "headline": "US equity fund inflows surge on Iran deal, tech draws record weekly investments - Reuters",
-    "summary": "US equity fund inflows surge on Iran deal, tech draws record weekly investments  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa2IxeWNvMGtLVFlFUGpoRG80NWMyQk54bFloejRqWUI5NlBlZlUtaFQ4UWxsMHNEQlF6ck5EN1BwTVRCeWR4Q1RmcXZiY1Y1QUNOUzVwbDJobEU3YUc2LVFDczQ2RlhMTzBlQnFCc2hOc28tNzJtbjJBV0JiY0R3aTd1TWd0SkgxS1AyUVA2QVgxUndFNFhDTVkyTDgtMUFLaHpiM3VPY2xQZHdadXNVM0U1eFNvQjhsVm1rTA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781867863,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1781886656,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "US equity fund inflows have surged due to the recent Iran deal, with a significant portion of the investments going into the tech sector. This is a positive development for the US economy, as it indicates increased investor confidence and a desire to take on risk. The tech sector has drawn record weekly investments, suggesting that investors are optimistic about the growth prospects of tech companies. This trend is expected to continue as the US economy remains strong and investors seek to capitalize on the potential for long-term growth.",
-      "impact": "The surge in tech investments is likely to have a positive impact on the stock prices of tech companies, particularly those with strong growth prospects. This could lead to a short-term increase in their stock prices, driven by the increased demand and investor sentiment. Medium-term, the increased investments could lead to improved earnings outlook and valuation multiples for tech companies, further driving their stock prices upwards. The overall market sentiment is expected to remain positive, with investors continuing to seek out opportunities in the tech sector.",
-      "risks": [
-        "market volatility risk",
-        "valuation multiples risk",
-        "macroeconomic downturn risk"
       ]
     }
   }
