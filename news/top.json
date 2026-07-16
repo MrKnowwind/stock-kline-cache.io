@@ -1,13 +1,59 @@
 [
   {
+    "id": "8224587",
+    "headline": "Jim Cramer's top 10 things to watch in the stock market Thursday",
+    "summary": "TSMC's strong quarter isn't helping chip stocks. Plus, strong results from GE Aerospace and UnitedHealth.",
+    "url": "https://www.cnbc.com/2026/07/16/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108190003-1756081779730-gettyimages-2147908701-TSMC_CHIP_GRANT.jpeg?v=1768435975&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1784205819,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784207255,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "TSMC's strong quarter is not translating to a positive day for the semiconductor group, with Intel, AMD, Micron, and Sandisk all down despite the company's 77% jump in operating profit. This is attributed to the sector's emotional response to SK Hynix's recent listing, leading to a casino-like market. On the other hand, UnitedHealth and GE Aerospace are performing well, with UnitedHealth beating earnings expectations and GE Aerospace delivering a blowout quarter. J.B. Hunt is also up 7% after a strong second quarter.",
+      "impact": "The semiconductor sector may experience short-term weakness due to the emotional response to SK Hynix's listing, potentially weighing on stocks like Intel and AMD. In the medium term, TSMC's strong quarter may have a positive impact on the sector, but this may be offset by the current market sentiment. UnitedHealth's strong earnings and guidance may lead to a short-term rally, while GE Aerospace's blowout quarter may boost the aerospace sector. J.B. Hunt's strong quarter may signal a potential end to the bear market in freight, benefiting FedEx Freight.",
+      "risks": [
+        "emotional market sentiment risk",
+        "valuation risk due to sector volatility",
+        "earnings outlook uncertainty for semiconductor stocks"
+      ]
+    }
+  },
+  {
+    "id": "8224598",
+    "headline": "EXCLUSIVE: Iran tells Houthis to close Red Sea gateway if US hits power network, sources say - Reuters",
+    "summary": "EXCLUSIVE: Iran tells Houthis to close Red Sea gateway if US hits power network, sources say  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNnlkS245LVFESkFHd2V1MjVwTjdoSm9ZZmRWTlRUZ0dBdkN1VlRPUHU0ZXZLbjNVWGVIdGxldS1uVi1TOFctd2VXQy1jeXRmLWhyOVczWmpaRVY1Ml9sVWQ2N3ktdE5iRUNOcTdaWnZmNzdzT1M4NG1jMkNIeFVaa05YSHhRdHZYQ3BDS3lnb2pkYmFpYS1NR2E5WHBuOEFsTWljaDNsWGVqZ1VKSFlaNmd2UkU4aE1Xa29XeDNVcFdZZnh4bjFSQ1NuUQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784205616,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784207304,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Iran has instructed the Houthis to close the Red Sea gateway if the US targets Iran's power network. This move is a response to potential US military action, highlighting the escalating tensions between the two countries. The Red Sea gateway is a critical shipping route for oil exports, and its closure could disrupt global oil supplies. The situation is a reflection of the ongoing conflict between Iran and the US, which has been escalating in recent months.",
+      "impact": "The potential closure of the Red Sea gateway could lead to a short-term increase in oil prices, benefiting oil-producing companies such as Saudi Aramco (2222.SA) and ExxonMobil (XOM). However, the medium-term impact on these companies could be negative due to potential disruptions in global oil supplies and the resulting increase in production costs. The situation also increases the risk of conflict between Iran and the US, which could lead to a decline in investor sentiment and a decrease in stock prices.",
+      "risks": [
+        "oil price volatility risk",
+        "global supply chain disruption risk",
+        "conflict escalation risk"
+      ]
+    }
+  },
+  {
     "id": "8223663",
-    "headline": "Iran warns Strait of Hormuz is a 'red line' and will resist until the end - Reuters",
-    "summary": "Iran warns Strait of Hormuz is a 'red line' and will resist until the end  Reuters",
+    "headline": "Iran, US escalate in Gulf but release of American signals path to climb down - Reuters",
+    "summary": "Iran, US escalate in Gulf but release of American signals path to climb down  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbGxQSEpXZmFYRldBSGhRcTZWZlBvbUFOZFJDeVoxdXVZczVtY2w1TlhqSnhFaGxsSWlINnBKbDZhNi1mT0Q1anJRTjM0Z0toaVg3QXhMcmkyZlBQRTZ1cVZvbmhZSmU4WDU4NGdnN3FJZGRzbnYzdm0zQUVxWjNUZ1dTZHlwMTA0VTNhbUg0UHVxZmFLUlVtSmVfeHZCb0tfWEE?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1784198139,
+    "publishedAt": 1784204018,
     "analysis": {
       "version": 2,
       "generatedAt": 1784195408,
@@ -19,6 +65,29 @@
         "oil price volatility risk",
         "supply chain disruption risk",
         "geopolitical risk"
+      ]
+    }
+  },
+  {
+    "id": "8222305",
+    "headline": "Oil eases as traders weigh US-Iran conflict risks - Reuters",
+    "summary": "Oil eases as traders weigh US-Iran conflict risks  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ09hT2dSaHFGQjJ2ckhSbUVfdGhGdVZYLXA4SGZ2ZWJCNTlkQU1LN2pYdURFX2F1QTFhNnVCMzZjMklKRXowdnF1YjdXSDR2TGVHMjBSb21pT1JmT3ZuNTNEWktLd3FZNlFHV29fVDhmTElfVXUxOWs0RDdWUHg2Qkt0QXJpMTgxUm02a08yOVBxRTJTOUhiSkVtQXBKclFWQUppMThudWFvV3dXejYyN3BBMzhiM2JKUXc?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784197070,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784177140,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "US strikes on Iran have raised fears of a wider conflict, leading to a 4th consecutive day of oil price increases. This development is a significant escalation of tensions in the region, which could disrupt global oil supplies and drive up prices further. The oil price increase is a direct result of the heightened geopolitical risk, as investors become more cautious and seek safe-haven assets. This, in turn, may lead to increased demand for oil, further driving up prices.",
+      "impact": "The oil price increase is likely to have a positive impact on energy-related stocks, particularly those with significant oil reserves or production capabilities. Companies such as ExxonMobil (XOM) and Chevron (CVX) may benefit from the increased oil prices, as they are major players in the oil industry. Additionally, the increased demand for oil may lead to higher earnings for these companies in the short to medium term. However, investors should be cautious of the potential risks associated with the escalating conflict in the region, which could lead to supply disruptions and further price volatility.",
+      "risks": [
+        "Supply disruption risk",
+        "Price volatility risk",
+        "Escalating conflict risk"
       ]
     }
   },
@@ -46,6 +115,53 @@
     }
   },
   {
+    "id": "8224421",
+    "headline": "Vance says some in Israeli government sought to sway US on Iran deal - Reuters",
+    "summary": "Vance says some in Israeli government sought to sway US on Iran deal  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY1FtT0xCbzMyYXpXME1CenRhVDZjdmpYX051ZlJpUDVQcms2LWhfY01EU2NWc0xkUE5aQTJaSDYyQ0x6SDZtTUJNUVlhZXdfOThFUkpGV3VtMUZFNGJxMU0tZ0pqSTBQZWoycHA2R0FoY2pzQzRoN29WSWNhY1ZzSkJIU1NBX21QOHZiTVctRVBZNzBtcEFYSUtqWFlkT1pONUdQVGdLRXN4MHVNVURQWHgzS1dCZDhPcE5lZ0JGQQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784193463,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784207351,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "US Secretary of State Antony Blinken's comments suggest that some individuals within the Israeli government may have sought to influence the US's stance on the Iran nuclear deal. This revelation could potentially damage the US-Israel relationship and may lead to increased tensions between the two countries. The news is a concern for investors as it may impact the US's foreign policy and geopolitical dynamics. The Israeli government's actions could also be seen as a breach of trust, which may have long-term consequences for the country's relationships with its allies.",
+      "impact": "This news may lead to increased volatility in the US dollar and potentially impact the stock market. The news may also have a negative impact on defense stocks, such as those of companies like Lockheed Martin (LMT) and Boeing (BA), as the US-Israel relationship is a key factor in their business. In the medium term, the news may lead to a reevaluation of the US's foreign policy and its implications for the global economy.",
+      "risks": [
+        "US-Israel relationship risk",
+        "Geopolitical tensions risk",
+        "Defense spending risk"
+      ]
+    }
+  },
+  {
+    "id": "8223337",
+    "headline": "Iran war leaves crisis-weary European airlines ready for a shakeout - Reuters",
+    "summary": "Iran war leaves crisis-weary European airlines ready for a shakeout  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdTZDTDdFekRhZC15N3daNVV3MDJrUXRBN2RsLWdrY0UzdWl3RVEwX0ZKd0ZmeUhWcklqcDl4c1pfMVlZUzdiQnV6dnhqbW5xVHVDd0p2NWNmZGVzMXp1cVFmRXN3czB5bkVFUEdSYkM5bjNRNkE1czBFaTBUUEN0Z1dweHlwQWpNUHhDa2YtVlBCU3NUb2FfSVJ4QUltNWFuQXoyNDNxMVUzRjJ1dU9NZ1RrWkVUSkZ0aTdPWmV0Nk92UQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784182862,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784195455,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The ongoing Iran war has heightened tensions in the Middle East, leading to a surge in fuel prices and increased uncertainty for European airlines. This comes at a time when the industry is already struggling with overcapacity, high fuel costs, and declining passenger demand. As a result, European airlines are facing significant challenges, and a shakeout in the industry is likely. The war has also disrupted global supply chains, further exacerbating the challenges faced by airlines.",
+      "impact": "The Iran war is likely to have a negative impact on European airlines in the short term, with increased fuel costs and disrupted supply chains affecting their profitability. In the medium term, the industry's overcapacity and declining demand may lead to consolidation and a shakeout, with weaker airlines struggling to survive. This could lead to a decline in valuations and earnings for the industry, making it a challenging time for investors. The increased uncertainty and volatility may also lead to a decrease in liquidity for airline stocks.",
+      "risks": [
+        "Increased fuel costs risk",
+        "Disrupted supply chain risk",
+        "Overcapacity risk",
+        "Declining demand risk"
+      ]
+    }
+  },
+  {
     "id": "8221890",
     "headline": "Explainer: Who are the Houthis, Iran’s allies in Yemen? - Reuters",
     "summary": "Explainer: Who are the Houthis, Iran’s allies in Yemen?  Reuters",
@@ -69,33 +185,32 @@
     }
   },
   {
-    "id": "8223337",
-    "headline": "Iran war leaves crisis-weary European airlines ready for a shakeout - Reuters",
-    "summary": "Iran war leaves crisis-weary European airlines ready for a shakeout  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdTZDTDdFekRhZC15N3daNVV3MDJrUXRBN2RsLWdrY0UzdWl3RVEwX0ZKd0ZmeUhWcklqcDl4c1pfMVlZUzdiQnV6dnhqbW5xVHVDd0p2NWNmZGVzMXp1cVFmRXN3czB5bkVFUEdSYkM5bjNRNkE1czBFaTBUUEN0Z1dweHlwQWpNUHhDa2YtVlBCU3NUb2FfSVJ4QUltNWFuQXoyNDNxMVUzRjJ1dU9NZ1RrWkVUSkZ0aTdPWmV0Nk92UQ?oc=5",
+    "id": "8224423",
+    "headline": "China’s oil fortress will reshape the global order - Reuters",
+    "summary": "China’s oil fortress will reshape the global order  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYlNEU0xzdGZaZ3lmRjRlZEFUaUJ0QnQxdEMxT25VYTdxS180T25XN3NhdlB2Tm50V1lqVzEtaGVOWFRJb3ZqeHd1LUNpZHkzdHpYUmRfZ0Z1YUxoTjBTaDFvSzhpVXYwUjB5dmYtUWExZG9sQnJsbmowY2dHeWlMcDlvX0NQN3pTRExIQkNuMjVrYWs3eDhmbnA2WmJPLU5HcUZMVXVKNFVFa1EyR1ROTTZaRUM?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1784181840,
+    "publishedAt": 1784181600,
     "analysis": {
       "version": 2,
-      "generatedAt": 1784195455,
-      "sentiment": "bearish",
+      "generatedAt": 1784207402,
+      "sentiment": "bullish",
       "confidence": 0.8,
-      "summary": "The ongoing Iran war has heightened tensions in the Middle East, leading to a surge in fuel prices and increased uncertainty for European airlines. This comes at a time when the industry is already struggling with overcapacity, high fuel costs, and declining passenger demand. As a result, European airlines are facing significant challenges, and a shakeout in the industry is likely. The war has also disrupted global supply chains, further exacerbating the challenges faced by airlines.",
-      "impact": "The Iran war is likely to have a negative impact on European airlines in the short term, with increased fuel costs and disrupted supply chains affecting their profitability. In the medium term, the industry's overcapacity and declining demand may lead to consolidation and a shakeout, with weaker airlines struggling to survive. This could lead to a decline in valuations and earnings for the industry, making it a challenging time for investors. The increased uncertainty and volatility may also lead to a decrease in liquidity for airline stocks.",
+      "summary": "China's oil fortress, a massive infrastructure project aimed at securing its energy supply, is set to reshape the global oil market. The project involves the construction of a 1,100-kilometer pipeline to transport oil from the Middle East to China, reducing reliance on the Strait of Malacca, a chokepoint vulnerable to disruption. This move is expected to increase China's oil security and reduce its dependence on foreign suppliers. The project is a strategic initiative to ensure China's energy independence and is a key component of its Belt and Road Initiative. The project's completion will likely have a significant impact on the global oil market, with potential implications for oil prices and trade routes.",
+      "impact": "The completion of China's oil fortress is likely to have a positive impact on the oil majors operating in the region, such as CNOOC and Sinopec, as they will benefit from increased demand for their services. The project may also lead to increased oil prices in the short term due to reduced supply, benefiting oil producers. However, the medium-term impact on oil prices is uncertain and may be mitigated by increased competition from alternative energy sources. The project's completion may also lead to increased trade tensions with countries that rely on the Strait of Malacca, such as Indonesia and Malaysia.",
       "risks": [
-        "Increased fuel costs risk",
-        "Disrupted supply chain risk",
-        "Overcapacity risk",
-        "Declining demand risk"
+        "Increased competition from alternative energy sources",
+        "Trade tensions with countries that rely on the Strait of Malacca",
+        "Uncertainty around the project's timeline and cost"
       ]
     }
   },
   {
     "id": "8223442",
-    "headline": "Gold falls as Mideast conflict dims easing inflation hopes - Reuters",
-    "summary": "Gold falls as Mideast conflict dims easing inflation hopes  Reuters",
+    "headline": "Gold eases as Middle East tensions revive inflation concerns - Reuters",
+    "summary": "Gold eases as Middle East tensions revive inflation concerns  Reuters",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZVRHTF9hUEdzeEVCU1g0SGhqcERsYWw1YnlkNUZ3X3hEbmpqN0RMLWM0YjlhSHpKSll3akpfaU5UMHctSERsNmxMMW1nLUgwd1NhSjhvN3kyNklCbGhhLUtyWnZLV1FCMlluTE9uT25wdS04akQxQWQ0VnhSZnFaSk14Tmt1MHRSZXNlZkRMcmJjT3k1LTVpaURWTFNQQlF3YmdDeA?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -112,6 +227,29 @@
         "Increased volatility in the gold market",
         "Prolonged period of uncertainty",
         "Lower demand for gold"
+      ]
+    }
+  },
+  {
+    "id": "8223441",
+    "headline": "US military says it completed latest strikes on Iran, targets included Bandar Abbas - Reuters",
+    "summary": "US military says it completed latest strikes on Iran, targets included Bandar Abbas  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcm1DZ002b2p4eXVXWGJheThfVE05elZjcGw2MUZ0WWNPZ0JudzZ3dkRXTlF1elByVnpiSy15V1JvOUhuTEVVcXBOVlRCTzZWbUJfdVhWRXE1dUs1MVN0UC1PemhmUEhOQWVMcVpJUXgyLUJCNEYta3FhNFBEN1RxeWczV2VHRV8yd24tbWE1cW1vQU45cmJ6Nzg0b3ctc0xuWFBzU1oxTlBlM2l1cE5oTHFXa2ZobXhzRUppUTFDblB3aE1vVDFzUUlCU3MxQQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784169463,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784195554,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The US military has conducted a series of strikes on Iran, including targets in the port city of Bandar Abbas. This development escalates tensions between the US and Iran, which could lead to a destabilization of the region. The strikes may have been in response to Iran's alleged attacks on US interests in the Middle East. The situation is fluid and unpredictable, with potential implications for global oil markets and regional security. The US military's actions may also lead to a strengthening of the US dollar, potentially benefiting US-based companies with significant dollar-denominated debt.",
+      "impact": "The strikes on Iran are likely to have a negative impact on the global oil market, potentially leading to higher oil prices and increased costs for energy companies. This could negatively affect the earnings of companies with significant exposure to the oil industry, such as ExxonMobil (XOM) and Chevron (CVX). The situation may also lead to increased volatility in the stock market, potentially affecting investor sentiment and liquidity. In the short term, investors may be cautious and reduce their exposure to stocks with high oil price sensitivity.",
+      "risks": [
+        "Oil price volatility risk",
+        "Regional conflict risk",
+        "Global economic instability risk"
       ]
     }
   },
@@ -135,52 +273,6 @@
         "Escalation of conflict risk",
         "Oil price volatility risk",
         "Global economic slowdown risk"
-      ]
-    }
-  },
-  {
-    "id": "8223441",
-    "headline": "US military says it completed latest strikes on Iran, targets included Bandar Abbas - Reuters",
-    "summary": "US military says it completed latest strikes on Iran, targets included Bandar Abbas  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcm1DZ002b2p4eXVXWGJheThfVE05elZjcGw2MUZ0WWNPZ0JudzZ3dkRXTlF1elByVnpiSy15V1JvOUhuTEVVcXBOVlRCTzZWbUJfdVhWRXE1dUs1MVN0UC1PemhmUEhOQWVMcVpJUXgyLUJCNEYta3FhNFBEN1RxeWczV2VHRV8yd24tbWE1cW1vQU45cmJ6Nzg0b3ctc0xuWFBzU1oxTlBlM2l1cE5oTHFXa2ZobXhzRUppUTFDblB3aE1vVDFzUUlCU3MxQQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784168280,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784195554,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The US military has conducted a series of strikes on Iran, including targets in the port city of Bandar Abbas. This development escalates tensions between the US and Iran, which could lead to a destabilization of the region. The strikes may have been in response to Iran's alleged attacks on US interests in the Middle East. The situation is fluid and unpredictable, with potential implications for global oil markets and regional security. The US military's actions may also lead to a strengthening of the US dollar, potentially benefiting US-based companies with significant dollar-denominated debt.",
-      "impact": "The strikes on Iran are likely to have a negative impact on the global oil market, potentially leading to higher oil prices and increased costs for energy companies. This could negatively affect the earnings of companies with significant exposure to the oil industry, such as ExxonMobil (XOM) and Chevron (CVX). The situation may also lead to increased volatility in the stock market, potentially affecting investor sentiment and liquidity. In the short term, investors may be cautious and reduce their exposure to stocks with high oil price sensitivity.",
-      "risks": [
-        "Oil price volatility risk",
-        "Regional conflict risk",
-        "Global economic instability risk"
-      ]
-    }
-  },
-  {
-    "id": "8222305",
-    "headline": "Oil eases as traders weigh US-Iran conflict risks - Reuters",
-    "summary": "Oil eases as traders weigh US-Iran conflict risks  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ09hT2dSaHFGQjJ2ckhSbUVfdGhGdVZYLXA4SGZ2ZWJCNTlkQU1LN2pYdURFX2F1QTFhNnVCMzZjMklKRXowdnF1YjdXSDR2TGVHMjBSb21pT1JmT3ZuNTNEWktLd3FZNlFHV29fVDhmTElfVXUxOWs0RDdWUHg2Qkt0QXJpMTgxUm02a08yOVBxRTJTOUhiSkVtQXBKclFWQUppMThudWFvV3dXejYyN3BBMzhiM2JKUXc?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784162580,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784177140,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "US strikes on Iran have raised fears of a wider conflict, leading to a 4th consecutive day of oil price increases. This development is a significant escalation of tensions in the region, which could disrupt global oil supplies and drive up prices further. The oil price increase is a direct result of the heightened geopolitical risk, as investors become more cautious and seek safe-haven assets. This, in turn, may lead to increased demand for oil, further driving up prices.",
-      "impact": "The oil price increase is likely to have a positive impact on energy-related stocks, particularly those with significant oil reserves or production capabilities. Companies such as ExxonMobil (XOM) and Chevron (CVX) may benefit from the increased oil prices, as they are major players in the oil industry. Additionally, the increased demand for oil may lead to higher earnings for these companies in the short to medium term. However, investors should be cautious of the potential risks associated with the escalating conflict in the region, which could lead to supply disruptions and further price volatility.",
-      "risks": [
-        "Supply disruption risk",
-        "Price volatility risk",
-        "Escalating conflict risk"
       ]
     }
   },
@@ -381,6 +473,29 @@
         "sentiment risk",
         "liquidity risk",
         "earnings outlook risk"
+      ]
+    }
+  },
+  {
+    "id": "8224422",
+    "headline": "In occupied zone of Lebanon, Israeli military veterans see shadow of past wars - Reuters",
+    "summary": "In occupied zone of Lebanon, Israeli military veterans see shadow of past wars  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUmptSXZqdERFSHpOMVJfd0pZMWJtdmxmb2hBVGVwejk2cHdGWlJYNXExVnd1SHFXYXRDNGtNYy1ENXZsaG12cldfU2g4UDRpai0ta25FOWN4dDIxd3JxTHBxRVVGNzZKaXBsZ3VrUFlYSEg1b0hFendxcVRjQ3hYMEdEYlR4Smlpdk5aOFpkSjBQNHd4aWpmdHhDZmR2cDBrbzczSXh5SzdiM2IwN05oTGo0RHBuUkR0MlVFV05sT1RBaWpWYWN6VlUyaw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784130916,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784207449,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "Israeli military veterans in the occupied zone of Lebanon are reflecting on the past wars, highlighting the ongoing tensions between Israel and Lebanon. The article does not provide any direct connection to the business fundamentals or industry context of specific companies. However, the ongoing tensions between the two countries could potentially impact the regional stability and economic growth, which in turn could affect companies operating in the region, such as defense contractors or companies with significant operations in the Middle East.",
+      "impact": "The ongoing tensions between Israel and Lebanon could lead to a short-term increase in defense spending, potentially benefiting defense contractors such as Elbit Systems (ESLT) and Israel Aerospace Industries (ARSTY.TA). However, the long-term impact on the region's economic growth and stability is uncertain, and could lead to a decline in investor sentiment and a decrease in stock prices for companies with significant operations in the region.",
+      "risks": [
+        "regional instability risk",
+        "economic growth slowdown risk",
+        "sentiment risk"
       ]
     }
   },
@@ -842,6 +957,29 @@
     }
   },
   {
+    "id": "8214636",
+    "headline": "Stocks gain on softer inflation, bank results while oil rises on US-Iran hostilities - Reuters",
+    "summary": "Stocks gain on softer inflation, bank results while oil rises on US-Iran hostilities  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdWRaMVFPRFNSMDhQQ1dQT09aWlhsdzdhVGVFcGUzblZreE9kSms3eXc3ZjRlbVhvdUtFRW5IQ3ZSSE42bnhoTGxIaVlwbVVQR0tLUE0yY1N3NTJ2Qko2S01pNHREcW5CbmpweXpORmVRRzdCR0RDcTRjeG9oS2tqR2hIWQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784071160,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784040280,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "US President Trump's threat to impose sanctions on countries that don't protect the Strait of Hormuz has led to a rise in oil prices. This development has resulted in a mixed market response, with some stocks benefiting from the higher oil prices while others are negatively impacted. The Strait of Hormuz is a critical waterway for global oil trade, and any disruptions could significantly impact oil prices. The market is closely watching the situation, and investors are adjusting their positions accordingly.",
+      "impact": "The rise in oil prices is likely to benefit energy-related stocks, particularly those with significant exposure to oil production or refining. Companies such as ExxonMobil (XOM) and Chevron (CVX) may see a short-term boost in their stock prices. However, other sectors such as airlines and transportation companies may be negatively impacted by the higher oil prices, potentially leading to a decline in their stock prices. The medium-term impact will depend on the duration and severity of the tensions in the Strait of Hormuz.",
+      "risks": [
+        "geopolitical risk",
+        "supply chain disruption risk",
+        "economic slowdown risk"
+      ]
+    }
+  },
+  {
     "id": "8216566",
     "headline": "Jim Cramer says concerns about AI market froth are overblown. Here's why",
     "summary": "CNBC's Jim Cramer said today's stock market is far less concerning than it was during the dot-com bubble.",
@@ -930,29 +1068,6 @@
     }
   },
   {
-    "id": "8214636",
-    "headline": "Stocks gain on softer inflation, bank results while oil rises on US-Iran hostilities - Reuters",
-    "summary": "Stocks gain on softer inflation, bank results while oil rises on US-Iran hostilities  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdWRaMVFPRFNSMDhQQ1dQT09aWlhsdzdhVGVFcGUzblZreE9kSms3eXc3ZjRlbVhvdUtFRW5IQ3ZSSE42bnhoTGxIaVlwbVVQR0tLUE0yY1N3NTJ2Qko2S01pNHREcW5CbmpweXpORmVRRzdCR0RDcTRjeG9oS2tqR2hIWQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784063634,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784040280,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "US President Trump's threat to impose sanctions on countries that don't protect the Strait of Hormuz has led to a rise in oil prices. This development has resulted in a mixed market response, with some stocks benefiting from the higher oil prices while others are negatively impacted. The Strait of Hormuz is a critical waterway for global oil trade, and any disruptions could significantly impact oil prices. The market is closely watching the situation, and investors are adjusting their positions accordingly.",
-      "impact": "The rise in oil prices is likely to benefit energy-related stocks, particularly those with significant exposure to oil production or refining. Companies such as ExxonMobil (XOM) and Chevron (CVX) may see a short-term boost in their stock prices. However, other sectors such as airlines and transportation companies may be negatively impacted by the higher oil prices, potentially leading to a decline in their stock prices. The medium-term impact will depend on the duration and severity of the tensions in the Strait of Hormuz.",
-      "risks": [
-        "geopolitical risk",
-        "supply chain disruption risk",
-        "economic slowdown risk"
-      ]
-    }
-  },
-  {
     "id": "8216466",
     "headline": "Lawmakers seek to counter China, Iran repression tactics on US soil - Reuters",
     "summary": "Lawmakers seek to counter China, Iran repression tactics on US soil  Reuters",
@@ -1006,7 +1121,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1784057739,
+    "publishedAt": 1784056374,
     "analysis": {
       "version": 2,
       "generatedAt": 1784003705,
@@ -1245,6 +1360,25 @@
         "Increased economic sanctions on Iran and Hezbollah",
         "Volatility in the oil market"
       ]
+    }
+  },
+  {
+    "id": "8212787",
+    "headline": "Gold gains over 2% after soft US inflation data - Reuters",
+    "summary": "Gold gains over 2% after soft US inflation data  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVWR0RmE4MVpQTF82M1c5VDlkYjBXQU1KRWNNdjQ5N2RrRlpHM1B2dmowSk1WQV9MQUJyYzRiVHl3aVE1dmVHb0RMZG9mOWN6alJmcjdhX0tGSmh3R0FoNXZ0dVM0c1R0QnBnRUl4VVBidWRJdDNUb1QyUkFOWkloU2tVOUs0RnhwbEFZSS1MWlc3aHhIMTkwMmVKV1JaeWk0RF9j?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784045510,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784012303,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Gold prices have recovered from a two-week low ahead of the US inflation figures release. The market is expecting the inflation data to provide insights into the US Federal Reserve's interest rate decisions. A higher-than-expected inflation rate could lead to a stronger US dollar, negatively impacting gold prices. On the other hand, a lower-than-expected inflation rate could lead to a weaker US dollar, supporting gold prices. The gold market is closely watching the inflation data to gauge the Fed's next move.",
+      "impact": "The potential impact on gold mining stocks such as Newmont Goldcorp (NEM), Barrick Gold (ABX), and Goldcorp (GG) could be significant. A weaker US dollar could lead to higher gold prices, benefiting these stocks in the short term. However, a stronger US dollar could lead to lower gold prices, negatively impacting their earnings outlook. The medium-term impact will depend on the Fed's interest rate decisions and the resulting effect on the US economy.",
+      "risks": []
     }
   },
   {
@@ -1654,6 +1788,29 @@
     }
   },
   {
+    "id": "8211848",
+    "headline": "Americans expect prolonged US-Iran war as ceasefire falters, Reuters/Ipsos poll finds - Reuters",
+    "summary": "Americans expect prolonged US-Iran war as ceasefire falters, Reuters/Ipsos poll finds  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUndFbURmd2hTcTRfYVltMHZWV0s0dHFIRkd0YmdiWGVHS3VJWWR3YTlpQTRpQUsyUHdjUERIdU0zY0pCaTBEVzBHLTF6c25VLW52Z2NWR29DdUhKMm43RXh2QzNWN05tbmhQWjhjTHdQUFpoczhXYmFELWlWYjJoQlBsYzhPd1A5ZHo2VlJOaElrY1ljVmVybmx3a05EMUZwNzRrbjgzU0RiM3JLZVhwWHhHUEgtdFNxTDNYV2ZQZEhJYmM?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784024344,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1783991210,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "A recent Reuters/Ipsos poll found that 61% of Americans expect a prolonged US-Iran war following the ceasefire's failure. This sentiment shift is likely driven by escalating tensions between the two nations. The news has significant implications for the global economy, particularly for industries reliant on oil and defense. The US-Iran conflict has the potential to disrupt global supply chains, increase oil prices, and lead to a rise in defense spending. This, in turn, may impact the earnings outlook for companies in these sectors.",
+      "impact": "The potential for a prolonged US-Iran war may lead to increased volatility in the oil market, causing oil prices to rise. This could negatively impact companies with high exposure to the energy sector, such as ExxonMobil (XOM) and Chevron (CVX). Additionally, defense contractors like Lockheed Martin (LMT) and Boeing (BA) may see an increase in demand for their products, potentially boosting their earnings. However, the overall impact on the US economy and the stock market remains uncertain.",
+      "risks": [
+        "Increased oil prices risk",
+        "Disruption to global supply chains risk",
+        "Uncertainty in defense spending risk"
+      ]
+    }
+  },
+  {
     "id": "8213937",
     "headline": "S&P 500 and Nasdaq end higher on cool inflation data, solid bank earnings - Reuters",
     "summary": "S&P 500 and Nasdaq end higher on cool inflation data, solid bank earnings  Reuters",
@@ -1928,25 +2085,6 @@
     }
   },
   {
-    "id": "8212787",
-    "headline": "Gold gains over 2% after soft US inflation data - Reuters",
-    "summary": "Gold gains over 2% after soft US inflation data  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVWR0RmE4MVpQTF82M1c5VDlkYjBXQU1KRWNNdjQ5N2RrRlpHM1B2dmowSk1WQV9MQUJyYzRiVHl3aVE1dmVHb0RMZG9mOWN6alJmcjdhX0tGSmh3R0FoNXZ0dVM0c1R0QnBnRUl4VVBidWRJdDNUb1QyUkFOWkloU2tVOUs0RnhwbEFZSS1MWlc3aHhIMTkwMmVKV1JaeWk0RF9j?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1783999140,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784012303,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Gold prices have recovered from a two-week low ahead of the US inflation figures release. The market is expecting the inflation data to provide insights into the US Federal Reserve's interest rate decisions. A higher-than-expected inflation rate could lead to a stronger US dollar, negatively impacting gold prices. On the other hand, a lower-than-expected inflation rate could lead to a weaker US dollar, supporting gold prices. The gold market is closely watching the inflation data to gauge the Fed's next move.",
-      "impact": "The potential impact on gold mining stocks such as Newmont Goldcorp (NEM), Barrick Gold (ABX), and Goldcorp (GG) could be significant. A weaker US dollar could lead to higher gold prices, benefiting these stocks in the short term. However, a stronger US dollar could lead to lower gold prices, negatively impacting their earnings outlook. The medium-term impact will depend on the Fed's interest rate decisions and the resulting effect on the US economy.",
-      "risks": []
-    }
-  },
-  {
     "id": "8212991",
     "headline": "US says it has completed its latest wave of strikes on Iran - Reuters",
     "summary": "US says it has completed its latest wave of strikes on Iran  Reuters",
@@ -2081,29 +2219,6 @@
         "Escalation of conflict and supply chain disruptions",
         "Potential impact on global oil prices and demand",
         "Uncertainty around US-Iran relations and regional stability"
-      ]
-    }
-  },
-  {
-    "id": "8211848",
-    "headline": "Americans expect prolonged US-Iran war as ceasefire falters, Reuters/Ipsos poll finds - Reuters",
-    "summary": "Americans expect prolonged US-Iran war as ceasefire falters, Reuters/Ipsos poll finds  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUndFbURmd2hTcTRfYVltMHZWV0s0dHFIRkd0YmdiWGVHS3VJWWR3YTlpQTRpQUsyUHdjUERIdU0zY0pCaTBEVzBHLTF6c25VLW52Z2NWR29DdUhKMm43RXh2QzNWN05tbmhQWjhjTHdQUFpoczhXYmFELWlWYjJoQlBsYzhPd1A5ZHo2VlJOaElrY1ljVmVybmx3a05EMUZwNzRrbjgzU0RiM3JLZVhwWHhHUEgtdFNxTDNYV2ZQZEhJYmM?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1783980900,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1783991210,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "A recent Reuters/Ipsos poll found that 61% of Americans expect a prolonged US-Iran war following the ceasefire's failure. This sentiment shift is likely driven by escalating tensions between the two nations. The news has significant implications for the global economy, particularly for industries reliant on oil and defense. The US-Iran conflict has the potential to disrupt global supply chains, increase oil prices, and lead to a rise in defense spending. This, in turn, may impact the earnings outlook for companies in these sectors.",
-      "impact": "The potential for a prolonged US-Iran war may lead to increased volatility in the oil market, causing oil prices to rise. This could negatively impact companies with high exposure to the energy sector, such as ExxonMobil (XOM) and Chevron (CVX). Additionally, defense contractors like Lockheed Martin (LMT) and Boeing (BA) may see an increase in demand for their products, potentially boosting their earnings. However, the overall impact on the US economy and the stock market remains uncertain.",
-      "risks": [
-        "Increased oil prices risk",
-        "Disruption to global supply chains risk",
-        "Uncertainty in defense spending risk"
       ]
     }
   },
@@ -22613,122 +22728,6 @@
         "decline in investor sentiment for labor-intensive industries",
         "negative impact on earnings outlook for retail and hospitality companies",
         "potential for increased inflationary pressures"
-      ]
-    }
-  },
-  {
-    "id": "8103050",
-    "headline": "Trump says US will resume attacks if Iran does not restrain Hezbollah allies - Reuters",
-    "summary": "Trump says US will resume attacks if Iran does not restrain Hezbollah allies  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRnRDWmZ2cjd6SldKNEFTZ3pKNFBSeE52eUk1cUpuZ3lWdUJDTU5sbXkybHVTLWN1SWVYMDBhMUROTU01VHhaOTh1RVl5TVY3NUI5OEdFbm1IN2toZW45TDltUi1Wbk9QazZRWnpudnV6WmNxc3BmSEIwbzFuRmhSZ29pSU5jWTNkVW1vUjk0RF9PVDVTWG5rOVVJOG9DbG9IcEhuZm9fV2pfbFN1TUcyU0xQd0pmUUhCTVo5YTJkakhjeTZ0MlQwQzhn?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782049712,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782054288,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "US President Trump has threatened to resume attacks on Iran if it does not restrain its allies, specifically Hezbollah. This statement comes amidst escalating tensions between the US and Iran. The background is a long-standing conflict between the two nations, with the US imposing sanctions on Iran and Iran retaliating with proxy forces in the region. The logical chain from the news to the business fundamentals is that increased tensions between the US and Iran could lead to a destabilization of the Middle East, negatively impacting oil prices and, in turn, the earnings of energy companies. This could also lead to increased defense spending and a rise in military equipment sales, benefiting defense contractors.",
-      "impact": "The potential impact on related stocks is bearish in the short term, as increased tensions between the US and Iran could lead to a spike in oil prices, negatively affecting energy companies' earnings. In the medium term, defense contractors may benefit from increased military spending, but this could be offset by the potential for a wider conflict, which could have a negative impact on the global economy and, in turn, on corporate earnings. The increased tensions also raise concerns about the stability of the Middle East, which could impact global trade and commerce.",
-      "risks": [
-        "Increased oil prices risk",
-        "Global economic instability risk",
-        "Defense spending uncertainty risk"
-      ]
-    }
-  },
-  {
-    "id": "8102945",
-    "headline": "The No. 1 trick I always teach to build unshakeable confidence—it worked for Beyoncé and Adele",
-    "summary": "\"No matter how talented or prepared you are, self-doubt can get in your way,\" says therapist Amy Morin. Here's how to channel your alter ego so you can do your best.",
-    "url": "https://www.cnbc.com/2026/06/21/the-no-1-trick-i-always-teach-to-build-unshakeable-confidence-therapist.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108324296-1781820925674-GettyImages-89013126.jpg?v=1781821103&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1782049501,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782054338,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Therapist Amy Morin shares a technique to build confidence by creating an alter ego, citing examples from Beyoncé, Adele, and Kobe Bryant. This strategy involves stepping into the mindset of someone who doesn't get nervous, creating space between oneself and anxious thoughts. Research supports this approach, showing that it can increase grit and persistence. This technique can be applied to various situations, such as presentations, asking for a raise, or working under pressure.",
-      "impact": "This news may have a neutral impact on the overall market, but it could potentially boost the sentiment around individual companies or industries that have struggled with self-doubt or anxiety. Companies that have high employee turnover or struggle with productivity may see a short-term benefit from adopting this technique. However, the medium-term impact is uncertain, as it depends on how effectively companies can implement and scale this strategy.",
-      "risks": [
-        "Implementation risk",
-        "Scalability risk",
-        "Uncertainty around effectiveness"
-      ]
-    }
-  },
-  {
-    "id": "8102944",
-    "headline": "No one wants AI data centers on Earth. Do they make sense in space?",
-    "summary": "Elon Musk's SpaceX is betting big on orbital AI data centers. The public doesn't want them on Earth, but the economic case for space-based is questionable.",
-    "url": "https://www.cnbc.com/2026/06/21/do-space-based-ai-data-centers-make-economic-sense.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108321449-1781295480618-IMG_9692.jpg?v=1781295701&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1782048814,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782054383,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "SpaceX, with its recent IPO success, is moving forward with its plan to build AI data centers in space. The company's reusable rockets and upgraded satellites make the project more feasible. Investors believe that space-based data centers will be more cost-effective than terrestrial ones in the next two to three years. This is driven by the increasing constraints on Earth-based data centers and the potential for lower launch costs with the Starship rocket.",
-      "impact": "This news is likely to be positive for SpaceX's stock in the long term, as it could justify its high valuation and provide a new revenue stream. However, the short-term impact may be neutral, as the project's success is still uncertain and faces several technical and economic challenges. The increased focus on space-based data centers may also create opportunities for other companies in the space industry, such as satellite manufacturers and launch providers.",
-      "risks": [
-        "regulatory approval risk",
-        "integration risk",
-        "economically marginal risk",
-        "launch cost uncertainty"
-      ]
-    }
-  },
-  {
-    "id": "8102639",
-    "headline": "Here are 3 big things to watch in the stock market this coming week",
-    "summary": "FedEx reports earnings, and the Fed's preferred inflation gauge is due out.",
-    "url": "https://www.cnbc.com/2026/06/21/here-are-3-big-things-to-watch-in-the-stock-market-this-coming-week.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108222477-17624482222025-11-06t165353z_1998999963_rc23rhaf1vzq_rtrmadp_0_usa-shutdown-air-travel.jpeg?v=1762448237&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1782045363,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782054434,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "FedEx is set to report earnings on Tuesday, with a complex print due to the recent spin-off of FedEx Freight and a change in its fiscal year end. The company's management team is known to be conservative, making it difficult to predict the stock's reaction. The earnings report will cover the March-to-May period, and investors will be focusing on profitability metrics and conference call commentary. The company's self-help initiatives to optimize its delivery network and prioritize profitable deliveries are expected to drive earnings and free cash flow growth.",
-      "impact": "The earnings report may lead to a short-term stock price volatility as the market digests the complex print. In the medium term, the company's ability to execute its self-help initiatives and drive growth will be a key driver of the stock's performance. The spin-off of FedEx Freight may also lead to a re-evaluation of the company's valuation. The conference call commentary from CEO Raj Subramaniam will provide insight into the company's strategy and growth prospects.",
-      "risks": [
-        "Complexity of the earnings report may lead to a delayed stock price reaction",
-        "Conservative management team may underpromise and overdeliver, or vice versa",
-        "Integration risk with the spun-off FedEx Freight"
-      ]
-    }
-  },
-  {
-    "id": "8102638",
-    "headline": "The best parents and leaders use a 3-step formula to help people handle uncertainty, says Dr. Becky Kennedy",
-    "summary": "Even if you can't control an outcome, you can still help your child or co-worker feel more at ease with uncertainty, just by how you describe a situation.",
-    "url": "https://www.cnbc.com/2026/06/21/use-a-3-step-formula-to-help-people-handle-uncertainty-dr-becky-kennedy.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108324199-1781810628263-gettyimages-1365927796-firstbikerider2021090221_022.jpeg?v=1781811932&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1782045002,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782075602,
-      "sentiment": "neutral",
-      "confidence": 0.8,
-      "summary": "Dr. Becky Kennedy, a clinical psychologist and founder of Good Inside, recommends a 3-step formula to help individuals handle uncertainty by acknowledging and communicating what is known and unknown in a situation. This approach can be applied to both personal and professional settings to ease anxiety around uncertainty. The formula involves stating what is known, acknowledging what is uncertain, and concluding with what is known again. Kennedy provided examples of using this formula with children and in a work setting to demonstrate its effectiveness.",
-      "impact": "The news is unlikely to have a direct impact on the stock market or specific stocks, but it may influence consumer behavior and sentiment in the long term. As people become more comfortable with uncertainty, they may be more likely to invest in companies that provide solutions to uncertainty, such as mental health services or companies that offer guidance on navigating change. However, this is a long-term effect and may not be immediately apparent in stock prices.",
-      "risks": [
-        "Risk of increased investor anxiety and market volatility due to uncertainty",
-        "Potential for increased demand for mental health services and companies that offer guidance on navigating change",
-        "Uncertainty about the effectiveness of Dr. Kennedy's 3-step formula in real-world applications"
       ]
     }
   }
