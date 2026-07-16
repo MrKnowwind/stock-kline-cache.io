@@ -7,7 +7,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1784191766,
+    "publishedAt": 1784198139,
     "analysis": {
       "version": 2,
       "generatedAt": 1784195408,
@@ -19,6 +19,29 @@
         "oil price volatility risk",
         "supply chain disruption risk",
         "geopolitical risk"
+      ]
+    }
+  },
+  {
+    "id": "8223983",
+    "headline": "UnitedHealth blows past estimates, hikes earnings outlook as it reins in costs",
+    "summary": "The healthcare giant is working to stabilize margins by shrinking membership, exiting unprofitable contracts and pouring $1.5 billion into AI.",
+    "url": "https://www.cnbc.com/2026/07/16/unitedhealth-group-unh-earnings-q2-2026.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108146030-1755268343131-108146030-1747316528172-gettyimages-2210767100-US_STOCKS.jpeg?v=1783017319&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1784195810,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784200978,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "UnitedHealth Group reported Q2 earnings that surpassed expectations, driven by its efforts to stabilize margins through cost-cutting measures and investments in artificial intelligence. The company raised its full-year earnings outlook to $19.50-$20 per share, up from $18.25, and maintained its revenue guidance of over $439 billion. This turnaround is attributed to the company's restructuring and executive shuffle, which is gaining momentum. UnitedHealth's use of AI to improve efficiency and patient care is also expected to contribute to its future growth.",
+      "impact": "The positive earnings beat and raised earnings outlook are likely to drive the stock price higher in the short term, with a potential 7% jump in premarket trading already seen. The company's turnaround plan is expected to continue to gain momentum, supporting its medium-term growth prospects. The increased investment in AI is also expected to improve operational efficiency and patient care, which could lead to higher valuations for the company. The company's ability to manage rising healthcare costs and stabilize margins is a key driver of its success in the industry.",
+      "risks": [
+        "Continued high medical costs could impact the company's ability to maintain its earnings growth",
+        "Dependence on AI technology may pose integration and scalability risks",
+        "Regulatory changes in the healthcare industry could impact the company's business model"
       ]
     }
   },
@@ -140,8 +163,8 @@
   },
   {
     "id": "8222305",
-    "headline": "Oil eases as traders lock in gains, assess Iran escalation - Reuters",
-    "summary": "Oil eases as traders lock in gains, assess Iran escalation  Reuters",
+    "headline": "Oil eases as traders weigh US-Iran conflict risks - Reuters",
+    "summary": "Oil eases as traders weigh US-Iran conflict risks  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ09hT2dSaHFGQjJ2ckhSbUVfdGhGdVZYLXA4SGZ2ZWJCNTlkQU1LN2pYdURFX2F1QTFhNnVCMzZjMklKRXowdnF1YjdXSDR2TGVHMjBSb21pT1JmT3ZuNTNEWktLd3FZNlFHV29fVDhmTElfVXUxOWs0RDdWUHg2Qkt0QXJpMTgxUm02a08yOVBxRTJTOUhiSkVtQXBKclFWQUppMThudWFvV3dXejYyN3BBMzhiM2JKUXc?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -572,7 +595,20 @@
     "source": "Bloomberg",
     "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
     "relatedSymbols": [],
-    "publishedAt": 1784108140
+    "publishedAt": 1784108140,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784201027,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "The state of Kerala has formed a panel to review Adani Port's proposal to sell a stake in the Vizhinjam International Seaport project, despite initially objecting to the sale. The panel, led by the state's top bureaucrat, aims to ensure Kerala's interests are protected and assess whether the transaction could give MSC excessive control over the project. This development suggests that the state is willing to reconsider its stance on the project, potentially paving the way for the deal to move forward. The review process is ongoing, and the outcome remains uncertain.",
+      "impact": "The potential sale of a stake in the Vizhinjam International Seaport project could have a positive impact on Adani Ports' earnings outlook in the medium term, as it would provide a much-needed boost to the company's revenue and profitability. However, the ongoing review process and the uncertainty surrounding the deal's outcome may lead to increased volatility in the stock price, potentially affecting liquidity. The development may also have a positive impact on the sentiment towards the company, as it suggests that the state is willing to work with Adani Ports to move the project forward.",
+      "risks": [
+        "regulatory approval risk",
+        "integration risk",
+        "uncertainty surrounding the deal's outcome"
+      ]
+    }
   },
   {
     "id": "8220414",
@@ -605,7 +641,20 @@
     "source": "Bloomberg",
     "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
     "relatedSymbols": [],
-    "publishedAt": 1784106660
+    "publishedAt": 1784106660,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784201075,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "BlackRock is in talks to invest $45 million in Udaan, a struggling Indian e-commerce company, as part of a $160 million financing effort. This investment aims to prevent Udaan's insolvency and potentially stabilize the company's operations. Udaan has been facing challenges in the highly competitive Indian e-commerce market, and this investment could be a lifeline. The investment is a vote of confidence in Udaan's potential for growth and recovery.",
+      "impact": "The potential investment from BlackRock could have a positive impact on Udaan's stock price in the short term, as it would provide a much-needed influx of capital to prevent insolvency. This could also boost investor sentiment and potentially lead to a re-rating of the stock. However, the long-term success of Udaan will depend on its ability to execute on its business plan and compete effectively in the Indian e-commerce market.",
+      "risks": [
+        "integration risk",
+        "execution risk",
+        "regulatory risk"
+      ]
+    }
   },
   {
     "id": "8223333",
@@ -793,29 +842,6 @@
     }
   },
   {
-    "id": "8214636",
-    "headline": "Stocks gain on softer inflation, bank results while oil rises on US-Iran hostilities - Reuters",
-    "summary": "Stocks gain on softer inflation, bank results while oil rises on US-Iran hostilities  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdWRaMVFPRFNSMDhQQ1dQT09aWlhsdzdhVGVFcGUzblZreE9kSms3eXc3ZjRlbVhvdUtFRW5IQ3ZSSE42bnhoTGxIaVlwbVVQR0tLUE0yY1N3NTJ2Qko2S01pNHREcW5CbmpweXpORmVRRzdCR0RDcTRjeG9oS2tqR2hIWQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784071160,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784040280,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "US President Trump's threat to impose sanctions on countries that don't protect the Strait of Hormuz has led to a rise in oil prices. This development has resulted in a mixed market response, with some stocks benefiting from the higher oil prices while others are negatively impacted. The Strait of Hormuz is a critical waterway for global oil trade, and any disruptions could significantly impact oil prices. The market is closely watching the situation, and investors are adjusting their positions accordingly.",
-      "impact": "The rise in oil prices is likely to benefit energy-related stocks, particularly those with significant exposure to oil production or refining. Companies such as ExxonMobil (XOM) and Chevron (CVX) may see a short-term boost in their stock prices. However, other sectors such as airlines and transportation companies may be negatively impacted by the higher oil prices, potentially leading to a decline in their stock prices. The medium-term impact will depend on the duration and severity of the tensions in the Strait of Hormuz.",
-      "risks": [
-        "geopolitical risk",
-        "supply chain disruption risk",
-        "economic slowdown risk"
-      ]
-    }
-  },
-  {
     "id": "8216566",
     "headline": "Jim Cramer says concerns about AI market froth are overblown. Here's why",
     "summary": "CNBC's Jim Cramer said today's stock market is far less concerning than it was during the dot-com bubble.",
@@ -904,6 +930,29 @@
     }
   },
   {
+    "id": "8214636",
+    "headline": "Stocks gain on softer inflation, bank results while oil rises on US-Iran hostilities - Reuters",
+    "summary": "Stocks gain on softer inflation, bank results while oil rises on US-Iran hostilities  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdWRaMVFPRFNSMDhQQ1dQT09aWlhsdzdhVGVFcGUzblZreE9kSms3eXc3ZjRlbVhvdUtFRW5IQ3ZSSE42bnhoTGxIaVlwbVVQR0tLUE0yY1N3NTJ2Qko2S01pNHREcW5CbmpweXpORmVRRzdCR0RDcTRjeG9oS2tqR2hIWQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784063634,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784040280,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "US President Trump's threat to impose sanctions on countries that don't protect the Strait of Hormuz has led to a rise in oil prices. This development has resulted in a mixed market response, with some stocks benefiting from the higher oil prices while others are negatively impacted. The Strait of Hormuz is a critical waterway for global oil trade, and any disruptions could significantly impact oil prices. The market is closely watching the situation, and investors are adjusting their positions accordingly.",
+      "impact": "The rise in oil prices is likely to benefit energy-related stocks, particularly those with significant exposure to oil production or refining. Companies such as ExxonMobil (XOM) and Chevron (CVX) may see a short-term boost in their stock prices. However, other sectors such as airlines and transportation companies may be negatively impacted by the higher oil prices, potentially leading to a decline in their stock prices. The medium-term impact will depend on the duration and severity of the tensions in the Strait of Hormuz.",
+      "risks": [
+        "geopolitical risk",
+        "supply chain disruption risk",
+        "economic slowdown risk"
+      ]
+    }
+  },
+  {
     "id": "8216466",
     "headline": "Lawmakers seek to counter China, Iran repression tactics on US soil - Reuters",
     "summary": "Lawmakers seek to counter China, Iran repression tactics on US soil  Reuters",
@@ -957,7 +1006,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1784056374,
+    "publishedAt": 1784057739,
     "analysis": {
       "version": 2,
       "generatedAt": 1784003705,
@@ -1307,6 +1356,25 @@
         "Reduced investor confidence risk",
         "Disrupted oil supplies risk"
       ]
+    }
+  },
+  {
+    "id": "8223985",
+    "headline": "BP sees boost from energy prices in second quarter but flags $1 billion impairment - Reuters",
+    "summary": "BP sees boost from energy prices in second quarter but flags $1 billion impairment  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNczVtR2daVUVQN3F6R3pZZ1dMeGd1TDNVN3VDZ2dwUm9CSDlTVE8weWJnbk5ZdXlDVkxXZXlsVnN3OExDVHlhXzVzYXNWV25IMUFESHhHM1lpdlg1Y19ndFBhMmsyTXpWb0FfaWZDLW1UTElKekFZX0R4VXVLdEdhWUhsWWJSTWUxRTVIekdMcXFZd0NBN2lMeXdvMFV0UVdxRGxwMk45cER4cmpKeVk0MFF1NkdoM084?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784042376,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784201122,
+      "sentiment": "bullish",
+      "confidence": 0.7,
+      "summary": "BP is expected to see a boost in energy prices in the second quarter, driven by higher oil and gas prices. This is a positive development for the company, as it will likely lead to increased revenue and earnings. However, BP also flagged a $1 billion impairment, which is a non-cash charge that will reduce the company's earnings. This impairment is likely due to the company's ongoing efforts to restructure and divest assets.",
+      "impact": "The news is likely to have a positive impact on BP's stock price in the short term, as the boost from energy prices will increase the company's revenue and earnings. In the medium term, the company's ability to manage its assets and reduce costs will be crucial in maintaining its competitiveness. The $1 billion impairment will have a negative impact on the company's earnings, but it is a non-cash charge and will not affect its cash flow. The company's ability to manage its debt and maintain its credit rating will be closely watched by investors.",
+      "risks": []
     }
   },
   {
@@ -1886,7 +1954,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1783999020,
+    "publishedAt": 1783999065,
     "analysis": {
       "version": 2,
       "generatedAt": 1784012351,
@@ -22661,52 +22729,6 @@
         "Risk of increased investor anxiety and market volatility due to uncertainty",
         "Potential for increased demand for mental health services and companies that offer guidance on navigating change",
         "Uncertainty about the effectiveness of Dr. Kennedy's 3-step formula in real-world applications"
-      ]
-    }
-  },
-  {
-    "id": "8102844",
-    "headline": "No-fly zone for Iran talks disrupted flights at Zurich airport, authorities say - Reuters",
-    "summary": "No-fly zone for Iran talks disrupted flights at Zurich airport, authorities say  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR3Y0aFE0VW1lYXZYRERxU3ZYcWFQSlQyTHcyaUhfQ3BiSlJ3cGhWOWxMNTFjNGh2SFNRTUxNLTh5MWZ4aEtlZGs1M0JfZU9ONlFzcDdGaFlISTRZVktPMmo2MS1jYlRmb25NNEk2Yk9oQWczSkVHVkczR2RwMkVFVVhsLVJzb3VXRVJ1QnljMHU2NmRoajk3TGROWkhiRGxOMHU4bHh6QkpfUE1VYjhaa0RHV1MyTnVHTExLbQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782044986,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782061902,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "A no-fly zone imposed by Swiss authorities disrupted flights at Zurich airport due to Iran talks, causing inconvenience to travelers. The disruption is not related to any security concerns but rather a precautionary measure to ensure the safety of the talks. The talks between Iran and other world powers are ongoing to discuss the nuclear deal. The incident is an isolated event and does not have any direct impact on the global economy or the airline industry. The disruption is expected to be resolved once the no-fly zone is lifted.",
-      "impact": "The disruption is unlikely to have a significant impact on the airline industry or the stocks of companies operating at Zurich airport in the short term. However, it may lead to a slight increase in travel costs and delays for passengers, potentially affecting the earnings outlook of airlines operating in the region. In the medium term, the incident may lead to a review of airport security protocols and potentially impact the stocks of companies operating at Zurich airport, such as Swissport or Zurich Airport International.",
-      "risks": [
-        "air travel disruptions risk",
-        "regional security concerns risk",
-        "airport security protocols review risk"
-      ]
-    }
-  },
-  {
-    "id": "8104966",
-    "headline": "Israeli soldiers in Lebanon are free to take action if under threat, Israel's Katz says - Reuters",
-    "summary": "Israeli soldiers in Lebanon are free to take action if under threat, Israel's Katz says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSkdWNzR5aWg1SW1EZEJJOFdvZXdfa1JaVG9CcnpOUWtfREI4LUpld2JNNnQ3MEtXT1JMNTFMS3d4UHRKWC1CSm1QV1pCQ19La2U5QWlpcGNwNDV4ZnN5UlJ3TVVVbllwT0xTTjllZjIzaDFvVWxqQWZKQWJKNzAxOW55ak1uczhOV0t4UEJIekpKdWtrWjdQdGZGdUlSajNJM19ZQllzaGZldVh0TEdFS1FhSmE2M3d0dHBubzloR2tYUUotQVdxa2hZeS1mUQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782043140,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782164123,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Israeli Defense Minister Yoav Galant's statement that Israeli soldiers in Lebanon are free to take action if under threat has sparked a neutral market reaction. The statement was made in response to a question about the rules of engagement for Israeli forces in Lebanon. The background is that the Israeli-Lebanese border has been relatively calm in recent years, with a 2006 ceasefire agreement in place. However, the current statement suggests that Israel may be preparing for potential future conflicts. The statement does not have any direct implications for the business fundamentals of Israeli defense companies, but it may impact the sentiment towards these companies.",
-      "impact": "The statement may have a short-term positive impact on Israeli defense companies such as Elbit Systems (NASDAQ: ESLT) and Israel Aerospace Industries (OTC: ARCDY), as it suggests that the Israeli government is preparing for potential future conflicts. This could lead to increased demand for defense equipment and services, boosting the earnings outlook for these companies. However, the medium-term impact is uncertain, as the situation on the Israeli-Lebanese border remains calm, and the ceasefire agreement is still in place.",
-      "risks": [
-        "Escalation of conflict risk",
-        "Regional instability risk",
-        "Uncertainty about future government policies risk"
       ]
     }
   }
