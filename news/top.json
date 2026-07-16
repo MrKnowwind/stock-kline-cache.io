@@ -24,8 +24,8 @@
   },
   {
     "id": "8222305",
-    "headline": "Oil prices rise for 4th day as US strikes on Iran raise fears of wider conflict - Reuters",
-    "summary": "Oil prices rise for 4th day as US strikes on Iran raise fears of wider conflict  Reuters",
+    "headline": "Oil eases as traders lock in gains, assess Iran escalation - Reuters",
+    "summary": "Oil eases as traders lock in gains, assess Iran escalation  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ09hT2dSaHFGQjJ2ckhSbUVfdGhGdVZYLXA4SGZ2ZWJCNTlkQU1LN2pYdURFX2F1QTFhNnVCMzZjMklKRXowdnF1YjdXSDR2TGVHMjBSb21pT1JmT3ZuNTNEWktLd3FZNlFHV29fVDhmTElfVXUxOWs0RDdWUHg2Qkt0QXJpMTgxUm02a08yOVBxRTJTOUhiSkVtQXBKclFWQUppMThudWFvV3dXejYyN3BBMzhiM2JKUXc?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -42,6 +42,29 @@
         "Supply disruption risk",
         "Price volatility risk",
         "Escalating conflict risk"
+      ]
+    }
+  },
+  {
+    "id": "8223233",
+    "headline": "Hegseth announces testosterone screening for US troops - Reuters",
+    "summary": "Hegseth announces testosterone screening for US troops  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTERVU09kWFg1ZmI0dWp5RWo5cVEwRkZxam9xYk9sS3QwYk1jbnNBV2pzQzY5NkdHUUtDaTJlT1J3alBydDRGTlJfSG1VU1AzaXhzMFNaN0VvaWVuRmpMM2VuV0ZRaHItbXVUNUVIUi1DZ1cyV093d0NjV1lTb3hUWVczaDhYeTgwWllLd2lWRGZfSVRObEthckRma3ljTXYtaTc4UThB?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784162280,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784185803,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Pete Hegseth, a US Department of Defense spokesperson, has announced that the US military will begin screening its troops for low testosterone levels. The screening is aimed at addressing concerns about the potential negative effects of low testosterone on troop readiness and performance. The move is part of a broader effort to improve the health and well-being of US service members. The screening will involve a simple blood test to measure testosterone levels. The decision to implement the screening is based on research suggesting a link between low testosterone and decreased physical performance, as well as potential mental health benefits.",
+      "impact": "The news is unlikely to have a direct impact on the stock market or specific companies, as it is a government announcement rather than a business development. However, it may lead to increased awareness and discussion about the importance of men's health, potentially benefiting companies that provide related services or products. In the short term, the news is unlikely to affect the earnings outlook for most companies, but it may lead to increased demand for healthcare services and products related to testosterone replacement therapy in the medium term.",
+      "risks": [
+        "Regulatory risks associated with implementing a new healthcare screening program",
+        "Potential backlash from service members who may object to the screening",
+        "Uncertainty around the effectiveness of testosterone screening in improving troop readiness and performance"
       ]
     }
   },
@@ -111,6 +134,29 @@
     }
   },
   {
+    "id": "8223025",
+    "headline": "Iran summons British envoy over IRGC designation - Reuters",
+    "summary": "Iran summons British envoy over IRGC designation  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdjhsUF9UYzdYREFpMDdNNGg0X2VsdDdLTHFISHkteW9Cb3BtOUN5X2MxOERKbU9hemVwVWJtUmpVZUViMmhXd29LX0c5UkdxdzJiVTZhMERWUDl1ODhHVTU3YllvdGIxQ0c0NXlVM1d2WDlGb3kteUszLXNKLWF3SmF2bVhtcDRKaHpCaFQzY2xCd3RqanNQTg?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784143084,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784185851,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Iran has summoned the British envoy over the US designation of the Iranian Revolutionary Guard Corps (IRGC) as a foreign terrorist organization. This move is seen as a significant escalation in tensions between the US and Iran. The IRGC is a powerful military force in Iran, and its designation as a terrorist organization is likely to have significant implications for the country's economy and international relations. The US move is also expected to lead to retaliatory measures from Iran, which could further escalate tensions in the region.",
+      "impact": "The potential impact on the global oil market is a concern, as Iran is a significant oil producer. This could lead to increased volatility in oil prices, which could negatively affect energy stocks. Additionally, the escalation of tensions in the region could lead to increased military spending, which could have a positive impact on defense stocks. However, the overall market sentiment is likely to be bearish in the short term due to the increased uncertainty and risk.",
+      "risks": [
+        "Escalation of tensions in the Middle East",
+        "Increased volatility in the oil market",
+        "Negative impact on global trade"
+      ]
+    }
+  },
+  {
     "id": "8221171",
     "headline": "EXCLUSIVE: US strikes on Iran strengthen Trump's options for new escalation, officials say - Reuters",
     "summary": "EXCLUSIVE: US strikes on Iran strengthen Trump's options for new escalation, officials say  Reuters",
@@ -118,7 +164,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1784141774,
+    "publishedAt": 1784141520,
     "analysis": {
       "version": 2,
       "generatedAt": 1784151683,
@@ -426,6 +472,30 @@
     }
   },
   {
+    "id": "8223333",
+    "headline": "Tata eyes ₹10,000 cr shipbuilding investment in Kerala, says CM V.D. Satheesan",
+    "summary": "The investment will add a new line of business for the $180-billion conglomerate that already makes coffee to luxury cars and steel products to smartphones",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-15/tata-to-invest-1-billion-in-shipbuilding-kerala-chief-says",
+    "source": "Bloomberg",
+    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+    "relatedSymbols": [],
+    "publishedAt": 1784097910,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784185900,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Tata Group, a $180 billion conglomerate, plans to invest ₹10,000 crore (approximately $1.2 billion) in shipbuilding in Kerala, India. This investment will diversify Tata's business portfolio and add a new line of revenue streams. The company already operates in various sectors such as coffee, luxury cars, steel, and smartphones. The shipbuilding industry is expected to benefit from India's growing demand for maritime trade and infrastructure development. This investment is likely to be a strategic move to capitalize on the growth opportunities in the sector.",
+      "impact": "The potential investment is expected to have a positive impact on Tata's earnings outlook, as the new revenue streams will contribute to the company's growth. The investment may also lead to an increase in Tata's valuation, as the company's diversification efforts are likely to be viewed positively by investors. Additionally, the shipbuilding investment may boost sentiment around Tata's stock, attracting more investors to the company. In the short term, the news may lead to an increase in Tata's stock price, driven by the positive sentiment and the potential for new revenue growth.",
+      "risks": [
+        "regulatory approval risk",
+        "integration risk",
+        "market volatility risk",
+        "project execution risk"
+      ]
+    }
+  },
+  {
     "id": "8222405",
     "headline": "Indian missing after attack on ship off Oman coast is dead, family says - Reuters",
     "summary": "Indian missing after attack on ship off Oman coast is dead, family says  Reuters",
@@ -450,8 +520,8 @@
   },
   {
     "id": "8218022",
-    "headline": "US strikes Iran again as Tehran warns of 'existential war' with America - Reuters",
-    "summary": "US strikes Iran again as Tehran warns of 'existential war' with America  Reuters",
+    "headline": "US launches multiple strikes on Iran, which retaliates against US targets in region - Reuters",
+    "summary": "US launches multiple strikes on Iran, which retaliates against US targets in region  Reuters",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUFEyN1NxTHNCaG5RT2lOTWY4WWxWd1JQUGpLdV8wY3J0RVp3RmZaN21hcm9YX1A1TWdYc3RMU3BKNV9rd0tqdnM4SEpmamFRLXJIU1NvdnhUYlo5WDFnb2dPY2JfZU5HXzBMR184ei1kSS1zeUthWmltb1VzZWhOR0lCX2FlR0NXSGUxY0gxbVJTVkw2RFo5NnZSVXFhcGYxOUhOS1BJU2gza3VYY3VHT2JEWVV2VHdCdDdmeTRyOElucVF4Mk9r?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -931,7 +1001,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1784048045
+    "publishedAt": 1784048045,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784185946,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Iraq's Prime Minister has called for a fair share within OPEC, indicating a potential increase in oil production. This could lead to increased revenue for Iraq, which is heavily reliant on oil exports. The country's economy has been struggling due to low oil prices and a decline in production. A fair share within OPEC could help alleviate these issues. The Prime Minister's statement suggests a shift in Iraq's stance on oil production, potentially impacting global oil markets.",
+      "impact": "This news could have a positive impact on the global oil market, potentially leading to increased oil production and prices. This could be beneficial for oil-producing companies, particularly those with significant operations in Iraq, such as ExxonMobil and Royal Dutch Shell. In the short-term, this could lead to increased earnings for these companies, potentially boosting their stock prices. However, the medium-term impact will depend on the actual increase in production and the global oil market's response.",
+      "risks": [
+        "Global oil demand slowdown risk",
+        "OPEC production cut agreement risk",
+        "Iraq's ability to increase production risk"
+      ]
+    }
   },
   {
     "id": "8217089",
@@ -22645,75 +22728,6 @@
         "Increased military spending risk",
         "Decline in tourism and trade risk",
         "Decreased investor confidence risk"
-      ]
-    }
-  },
-  {
-    "id": "8099926",
-    "headline": "US defends Iran World Cup travel restrictions, says discussions ongoing - Reuters",
-    "summary": "US defends Iran World Cup travel restrictions, says discussions ongoing  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWXZKd3Rfc2FkZHhCTEc1WWk1cjBmbm95d2xObktVdTJ4S2JtUnd1ZzMydmltY3B0SUszd3BSN25PMHdPLXBOTlEtbnJ1c1ROV21zT0tZT3RTeTFHczIxRlhUNTI3RXNmSVhNaVVwUWJEcy1BT1ZLTnhXd0sxTXB6MW9qVUFuYXlpSVI2Ni1lb3doTnA2aW9jNG9CQWxZLUc2TnVIQ21TUGdjWkZ6SElKMDhOM2UxeXJfRGVhbg?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781990388,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782000139,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "The US government has defended its decision to restrict travel to Iran for the World Cup, stating that discussions with Iran are ongoing. This move is part of the US's broader efforts to maintain its sanctions on Iran. The US has been critical of Iran's human rights record and its support for militant groups. The travel restrictions are likely a response to these concerns. The US and Iran have had strained relations in recent years, with the US imposing sanctions on Iran in response to its nuclear program.",
-      "impact": "The news is unlikely to have a significant impact on the US equities market in the short term, as the travel restrictions are not a new development and are part of the ongoing tensions between the US and Iran. However, the news may contribute to a negative sentiment towards companies with exposure to Iran, such as those in the energy or aerospace sectors. In the medium term, the ongoing tensions between the US and Iran may lead to increased volatility in the market, potentially affecting the valuation of companies with international operations.",
-      "risks": [
-        "geopolitical risk",
-        "sanctions risk",
-        "increased volatility risk"
-      ]
-    }
-  },
-  {
-    "id": "8099927",
-    "headline": "Trump says no toll on Strait of Hormuz unless US imposes one - Reuters",
-    "summary": "Trump says no toll on Strait of Hormuz unless US imposes one  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcTlFTUJWal9HaWxJLTBvcWZDT1BnOGlTdGxOWWdzZWMtWlpsTXQ1V0NLVVFXY29oSGxwRVotLVFMU2ptbS11M21nM2pSdExIM1E3OTFSUTc0d0xqeEZCblZtb0VHOEpPWXhzN2NDc2hvXzZ3bGFZSHlKak9VeUVIcElMSk5IcXlfZlh1QTh5emxIT25yQVRMZ09GOHduTDFkVFRIWkZuaXZLZjNK?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781985703,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782000191,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "US President Trump stated that the US will not impose a toll on the Strait of Hormuz unless the US is also imposed on. This statement is a response to Iran's threat to block the Strait, a crucial waterway for global oil trade. The Strait of Hormuz is a critical chokepoint for oil exports from the Middle East, with over 20% of global oil passing through it. The situation is a geopolitical risk for oil-producing countries and companies operating in the region.",
-      "impact": "The news is unlikely to have a significant impact on the stock prices of oil majors in the short term, as the statement is more of a diplomatic stance rather than a policy change. However, the ongoing tensions in the region may lead to increased volatility in oil prices, which could benefit oil producers like ExxonMobil (XOM) and Chevron (CVX). In the medium term, the situation may lead to increased costs and risks for oil companies operating in the region, potentially affecting their earnings outlook.",
-      "risks": [
-        "geopolitical risk",
-        "oil price volatility",
-        "increased costs and risks for oil companies"
-      ]
-    }
-  },
-  {
-    "id": "8099026",
-    "headline": "US forces monitoring Strait of Hormuz to ensure it stays open - Reuters",
-    "summary": "US forces monitoring Strait of Hormuz to ensure it stays open  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOEt1ZGR5cFBKRG1mSHlLQTc3TnpyMnVnaWltNHQ1eXpockxLYVhxeVlqdmRMeThjck83dVdad2s0eTJOblROeE1GNkJWeF94RTE3cEwyNEFSWTVIaTZITHAtbTNMeS13dmtXUFZrUzJHZjNMdW9ReHZpOFhELUJaX2hNU1BLblRBYno3UHVBT1djajVIdlVQQ1hGb0RuR19wZHA0dUZXX1VrSlJPQVE?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1781974511,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1781982016,
-      "sentiment": "bullish",
-      "confidence": 0.7,
-      "summary": "US forces are monitoring the Strait of Hormuz to ensure it remains open. The Strait of Hormuz is a critical waterway for global oil trade, with approximately 20% of the world's oil passing through it. The recent tensions in the region have raised concerns about the potential disruption to oil supplies. The US presence aims to deter any potential threats and maintain the free flow of oil. This development is likely to have a positive impact on oil prices and the energy sector.",
-      "impact": "The news is likely to have a positive impact on oil-related stocks in the short term, as the US presence in the Strait of Hormuz reduces the risk of a supply disruption. This could lead to higher oil prices, benefiting companies with significant oil reserves or exposure to the oil sector. In the medium term, the increased stability in the region could also lead to increased investment in the energy sector, benefiting companies with exposure to this sector. Companies such as ExxonMobil, Chevron, and BP may benefit from this development.",
-      "risks": [
-        "Escalation of tensions in the region",
-        "Potential for supply chain disruptions",
-        "Uncertainty around US foreign policy"
       ]
     }
   }
