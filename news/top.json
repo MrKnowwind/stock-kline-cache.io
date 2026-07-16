@@ -1,5 +1,51 @@
 [
   {
+    "id": "8224926",
+    "headline": "'Not a junk rally:' How to trade the strongest small-cap stock market in three decades",
+    "summary": "The Russell 2000 small-cap stock index is up almost 20% this year, its best first half since 1991, and investing experts say the rally can keep running.",
+    "url": "https://www.cnbc.com/2026/07/16/best-stock-market-trades-small-caps.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108334782-17840416682026-07-14t145833z_184930879_rc2pdmahxdle_rtrmadp_0_usa-stocks.jpeg?v=1784056309&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1784211654,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784215299,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The small-cap stock market is experiencing its best first half since 1991, with the Russell 2000 index up almost 20%. This rally is driven by higher earnings per share estimates, stronger relative momentum, and the 'depth and breadth' of the small-cap market. The trend is also characterized by all 11 small-cap GICS sectors outperforming their large-cap counterparts, a sign of a sustainable rally. State Street's research suggests that this rally is not a 'junk rally' driven by a short squeeze, but rather a fundamental momentum-driven increase. This trend is expected to continue, with over 20% EPS growth predicted for this quarter.",
+      "impact": "The small-cap rally is expected to have a positive impact on related stocks, particularly those in the small-cap space. This could lead to increased investor interest and higher valuations for small-cap stocks, which may be overlooked by investors focused on large-cap stocks. The rally may also drive earnings growth and liquidity for these stocks, making them more attractive to investors. Additionally, the trend may spill over to other asset classes, such as emerging markets and mid-caps, which are also recommended by analysts.",
+      "risks": [
+        "valuation risk: small-cap stocks may be overvalued if the rally continues",
+        "earnings disappointment risk: if earnings growth fails to meet expectations",
+        "macroeconomic risk: a slowdown in economic growth could negatively impact small-cap stocks"
+      ]
+    }
+  },
+  {
+    "id": "8223663",
+    "headline": "Iran, US step up attacks, though release of American may signal path to climbdown - Reuters",
+    "summary": "Iran, US step up attacks, though release of American may signal path to climbdown  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbGxQSEpXZmFYRldBSGhRcTZWZlBvbUFOZFJDeVoxdXVZczVtY2w1TlhqSnhFaGxsSWlINnBKbDZhNi1mT0Q1anJRTjM0Z0toaVg3QXhMcmkyZlBQRTZ1cVZvbmhZSmU4WDU4NGdnN3FJZGRzbnYzdm0zQUVxWjNUZ1dTZHlwMTA0VTNhbUg0UHVxZmFLUlVtSmVfeHZCb0tfWEE?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784211329,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784195408,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Iran's warning that the Strait of Hormuz is a 'red line' implies a heightened risk of military conflict in the region, which could disrupt global oil supplies. The Strait of Hormuz is a critical waterway for oil exports from the Middle East, and any disruption could lead to a spike in oil prices. This, in turn, could negatively impact the earnings outlook for companies with significant exposure to the oil industry, such as oil majors and energy trading companies.",
+      "impact": "The potential impact on related stocks could be significant, with a short-term increase in oil prices leading to a boost in earnings for oil majors and energy trading companies. However, the medium-term impact could be bearish if the conflict escalates and disrupts global oil supplies for an extended period. This could lead to a decline in earnings and a decrease in stock prices for companies with significant exposure to the oil industry.",
+      "risks": [
+        "oil price volatility risk",
+        "supply chain disruption risk",
+        "geopolitical risk"
+      ]
+    }
+  },
+  {
     "id": "8224587",
     "headline": "Jim Cramer's top 10 things to watch in the stock market Thursday",
     "summary": "TSMC's strong quarter isn't helping chip stocks. Plus, strong results from GE Aerospace and UnitedHealth.",
@@ -46,48 +92,25 @@
     }
   },
   {
-    "id": "8223663",
-    "headline": "Iran, US escalate in Gulf but release of American signals path to climb down - Reuters",
-    "summary": "Iran, US escalate in Gulf but release of American signals path to climb down  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbGxQSEpXZmFYRldBSGhRcTZWZlBvbUFOZFJDeVoxdXVZczVtY2w1TlhqSnhFaGxsSWlINnBKbDZhNi1mT0Q1anJRTjM0Z0toaVg3QXhMcmkyZlBQRTZ1cVZvbmhZSmU4WDU4NGdnN3FJZGRzbnYzdm0zQUVxWjNUZ1dTZHlwMTA0VTNhbUg0UHVxZmFLUlVtSmVfeHZCb0tfWEE?oc=5",
+    "id": "8224933",
+    "headline": "Syria foils attempt to smuggle weapons to Hezbollah from Iraq, state news agency says - Reuters",
+    "summary": "Syria foils attempt to smuggle weapons to Hezbollah from Iraq, state news agency says  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVmZhOHVoVVJqdS05SFJFSUUycXRSVkl5dG95d1dLRVZPTkZzS2psTDNTZ3pOMm9qejZWYUtnb0hBX3dxVWxFOFVoZFVZNHgtQ1pJOU1Mc0pZRkRFamhhZzJKaTRhNGM0eE9mbnhqTlY5dGZlZFJ5Nm42TTBWQjd2d0piTE9rN3FfS1dMdnlLRzV5VzVxV1FyaE85TlkxWk5GOFZBdEZHNEI4SGl4d2JDMHhLNlRFRjg2NElYN0NsX1h2YVBiUGc?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1784204018,
+    "publishedAt": 1784205448,
     "analysis": {
       "version": 2,
-      "generatedAt": 1784195408,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Iran's warning that the Strait of Hormuz is a 'red line' implies a heightened risk of military conflict in the region, which could disrupt global oil supplies. The Strait of Hormuz is a critical waterway for oil exports from the Middle East, and any disruption could lead to a spike in oil prices. This, in turn, could negatively impact the earnings outlook for companies with significant exposure to the oil industry, such as oil majors and energy trading companies.",
-      "impact": "The potential impact on related stocks could be significant, with a short-term increase in oil prices leading to a boost in earnings for oil majors and energy trading companies. However, the medium-term impact could be bearish if the conflict escalates and disrupts global oil supplies for an extended period. This could lead to a decline in earnings and a decrease in stock prices for companies with significant exposure to the oil industry.",
+      "generatedAt": 1784215346,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Syria has foiled an attempt to smuggle weapons to Hezbollah from Iraq, according to the state news agency. This incident highlights the ongoing security concerns in the region, particularly the ongoing conflict between Israel and Hezbollah. The news does not directly impact the business fundamentals of any specific company, but it does reflect the broader geopolitical tensions in the Middle East. This region is home to several major oil-producing countries, and the conflict could potentially disrupt global oil supplies. The incident also underscores the ongoing threat posed by terrorist groups like Hezbollah.",
+      "impact": "The news is unlikely to have a significant impact on the stock market in the short term, but it may lead to increased volatility in the medium term. Investors may become more risk-averse, leading to a decrease in oil prices and a potential increase in the value of oil-related stocks. The news may also lead to increased tensions between Israel and Iran, which could have a broader impact on the global economy.",
       "risks": [
-        "oil price volatility risk",
-        "supply chain disruption risk",
-        "geopolitical risk"
-      ]
-    }
-  },
-  {
-    "id": "8222305",
-    "headline": "Oil eases as traders weigh US-Iran conflict risks - Reuters",
-    "summary": "Oil eases as traders weigh US-Iran conflict risks  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ09hT2dSaHFGQjJ2ckhSbUVfdGhGdVZYLXA4SGZ2ZWJCNTlkQU1LN2pYdURFX2F1QTFhNnVCMzZjMklKRXowdnF1YjdXSDR2TGVHMjBSb21pT1JmT3ZuNTNEWktLd3FZNlFHV29fVDhmTElfVXUxOWs0RDdWUHg2Qkt0QXJpMTgxUm02a08yOVBxRTJTOUhiSkVtQXBKclFWQUppMThudWFvV3dXejYyN3BBMzhiM2JKUXc?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784197070,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784177140,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "US strikes on Iran have raised fears of a wider conflict, leading to a 4th consecutive day of oil price increases. This development is a significant escalation of tensions in the region, which could disrupt global oil supplies and drive up prices further. The oil price increase is a direct result of the heightened geopolitical risk, as investors become more cautious and seek safe-haven assets. This, in turn, may lead to increased demand for oil, further driving up prices.",
-      "impact": "The oil price increase is likely to have a positive impact on energy-related stocks, particularly those with significant oil reserves or production capabilities. Companies such as ExxonMobil (XOM) and Chevron (CVX) may benefit from the increased oil prices, as they are major players in the oil industry. Additionally, the increased demand for oil may lead to higher earnings for these companies in the short to medium term. However, investors should be cautious of the potential risks associated with the escalating conflict in the region, which could lead to supply disruptions and further price volatility.",
-      "risks": [
-        "Supply disruption risk",
-        "Price volatility risk",
-        "Escalating conflict risk"
+        "Geopolitical risk",
+        "Oil supply disruption risk",
+        "Increased volatility risk"
       ]
     }
   },
@@ -138,6 +161,29 @@
     }
   },
   {
+    "id": "8222609",
+    "headline": "Fewer vessels travel through Hormuz after US resumes blockade - Reuters",
+    "summary": "Fewer vessels travel through Hormuz after US resumes blockade  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa0VSSEhJSHhNNVl6b2dXTWNoa0FjeV9KQkZOMUs5aUtvM0Rwc1FPYk9pd3NlSDgxcy1oVDZqWjQ0c1dFb3NXLUdBOTFpWlJwUld6ZXkwN1lENTREaFpVZ0lDWFY5Y0UzVjdGbHVjQVRsc0FIXzZMSVJfdkVaamtnVnNmZ2lPQm9jV0pCMjdlajFhMmRFVERaLXVvNG1JSi1yYlRxU0NUaGZIUlFhXzJteHhvcTA?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784190133,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784177091,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The ongoing US-Iran conflict has led to a decrease in the number of vessels traveling through the Strait of Hormuz, a critical waterway for global oil trade. The situation has been exacerbated by recent strikes by the US and Iran, which has increased tensions in the region. The Strait of Hormuz is a key chokepoint for oil exports, and disruptions to this route can have significant economic implications. The decrease in vessel traffic is likely to impact oil prices and the global economy. The situation is fluid and may escalate further, leading to increased uncertainty and volatility.",
+      "impact": "The decrease in vessel traffic through the Strait of Hormuz is likely to have a negative impact on oil prices, which could be beneficial for oil producers such as ExxonMobil and Chevron. However, the increased tensions in the region may also lead to a decrease in investor sentiment, potentially impacting the stock prices of these companies. In the short term, the situation may lead to increased volatility in the oil market, making it challenging for investors to make informed decisions. In the medium term, the impact on the global economy and oil demand may become more apparent, potentially leading to changes in earnings outlook for oil-related companies.",
+      "risks": [
+        "Escalation of conflict risk",
+        "Oil price volatility risk",
+        "Global economic slowdown risk"
+      ]
+    }
+  },
+  {
     "id": "8223337",
     "headline": "Iran war leaves crisis-weary European airlines ready for a shakeout - Reuters",
     "summary": "Iran war leaves crisis-weary European airlines ready for a shakeout  Reuters",
@@ -158,29 +204,6 @@
         "Disrupted supply chain risk",
         "Overcapacity risk",
         "Declining demand risk"
-      ]
-    }
-  },
-  {
-    "id": "8221890",
-    "headline": "Explainer: Who are the Houthis, Iran’s allies in Yemen? - Reuters",
-    "summary": "Explainer: Who are the Houthis, Iran’s allies in Yemen?  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUlNacW1UNG02N1NsaVBTOTItamQweS1QSk1uRGdYZXNsOERtOXJubEYtMEF6Yk9FcEZEeDFTWXQzdDkxUENUck05ZjJqLXVJRklDQS1jcEd5dXNObFhkUmQtTTNZRU1DTU5CUExram84anBsTGhvVVJnSVZuaGlmMUNPWmt5NTloVXhWOS1fZ1JfQkRsdmpqWUVQR1prbHdoak9qQ2pyLXRtSUZY?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784182380,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784164152,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The article explains the background and context of the Houthi movement in Yemen, highlighting their alliance with Iran. The Houthi rebels have been fighting against the Yemeni government and a Saudi-led coalition since 2015, with Iran providing them with military and financial support. The conflict has led to a humanitarian crisis and a significant impact on the Yemeni economy. The article provides a neutral and informative overview of the situation, without taking a stance or making predictions about the outcome. The Houthi movement's relationship with Iran is a key aspect of the article, as it has implications for regional politics and international relations.",
-      "impact": "The article's information on the Houthi movement's alliance with Iran may have a medium-term impact on the stock market, particularly for companies involved in the defense and aerospace industries. Companies such as Lockheed Martin (LMT) and Boeing (BA) may see increased demand for their products due to the ongoing conflict in Yemen. However, the article does not provide any specific information on the earnings outlook or valuation of these companies, and the impact on their stock prices is uncertain. The article's focus on the geopolitical implications of the Houthi movement may also lead to increased volatility in the market, potentially affecting liquidity and sentiment for companies involved in the region.",
-      "risks": [
-        "geopolitical risk",
-        "economic instability risk",
-        "humanitarian crisis risk"
       ]
     }
   },
@@ -208,9 +231,32 @@
     }
   },
   {
+    "id": "8221890",
+    "headline": "Explainer: Who are the Houthis, Iran’s allies in Yemen? - Reuters",
+    "summary": "Explainer: Who are the Houthis, Iran’s allies in Yemen?  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUlNacW1UNG02N1NsaVBTOTItamQweS1QSk1uRGdYZXNsOERtOXJubEYtMEF6Yk9FcEZEeDFTWXQzdDkxUENUck05ZjJqLXVJRklDQS1jcEd5dXNObFhkUmQtTTNZRU1DTU5CUExram84anBsTGhvVVJnSVZuaGlmMUNPWmt5NTloVXhWOS1fZ1JfQkRsdmpqWUVQR1prbHdoak9qQ2pyLXRtSUZY?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784179859,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784164152,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The article explains the background and context of the Houthi movement in Yemen, highlighting their alliance with Iran. The Houthi rebels have been fighting against the Yemeni government and a Saudi-led coalition since 2015, with Iran providing them with military and financial support. The conflict has led to a humanitarian crisis and a significant impact on the Yemeni economy. The article provides a neutral and informative overview of the situation, without taking a stance or making predictions about the outcome. The Houthi movement's relationship with Iran is a key aspect of the article, as it has implications for regional politics and international relations.",
+      "impact": "The article's information on the Houthi movement's alliance with Iran may have a medium-term impact on the stock market, particularly for companies involved in the defense and aerospace industries. Companies such as Lockheed Martin (LMT) and Boeing (BA) may see increased demand for their products due to the ongoing conflict in Yemen. However, the article does not provide any specific information on the earnings outlook or valuation of these companies, and the impact on their stock prices is uncertain. The article's focus on the geopolitical implications of the Houthi movement may also lead to increased volatility in the market, potentially affecting liquidity and sentiment for companies involved in the region.",
+      "risks": [
+        "geopolitical risk",
+        "economic instability risk",
+        "humanitarian crisis risk"
+      ]
+    }
+  },
+  {
     "id": "8223442",
-    "headline": "Gold eases as Middle East tensions revive inflation concerns - Reuters",
-    "summary": "Gold eases as Middle East tensions revive inflation concerns  Reuters",
+    "headline": "Gold falls 2% as escalating Middle East tensions reinforce US rate-hike bets - Reuters",
+    "summary": "Gold falls 2% as escalating Middle East tensions reinforce US rate-hike bets  Reuters",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZVRHTF9hUEdzeEVCU1g0SGhqcERsYWw1YnlkNUZ3X3hEbmpqN0RMLWM0YjlhSHpKSll3akpfaU5UMHctSERsNmxMMW1nLUgwd1NhSjhvN3kyNklCbGhhLUtyWnZLV1FCMlluTE9uT25wdS04akQxQWQ0VnhSZnFaSk14Tmt1MHRSZXNlZkRMcmJjT3k1LTVpaURWTFNQQlF3YmdDeA?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -238,7 +284,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1784169463,
+    "publishedAt": 1784168280,
     "analysis": {
       "version": 2,
       "generatedAt": 1784195554,
@@ -254,25 +300,25 @@
     }
   },
   {
-    "id": "8222609",
-    "headline": "Fewer vessels travel through Hormuz after US resumes blockade - Reuters",
-    "summary": "Fewer vessels travel through Hormuz after US resumes blockade  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa0VSSEhJSHhNNVl6b2dXTWNoa0FjeV9KQkZOMUs5aUtvM0Rwc1FPYk9pd3NlSDgxcy1oVDZqWjQ0c1dFb3NXLUdBOTFpWlJwUld6ZXkwN1lENTREaFpVZ0lDWFY5Y0UzVjdGbHVjQVRsc0FIXzZMSVJfdkVaamtnVnNmZ2lPQm9jV0pCMjdlajFhMmRFVERaLXVvNG1JSi1yYlRxU0NUaGZIUlFhXzJteHhvcTA?oc=5",
+    "id": "8222305",
+    "headline": "Oil rises over 1% as Iran threat puts Red Sea route at risk - Reuters",
+    "summary": "Oil rises over 1% as Iran threat puts Red Sea route at risk  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ09hT2dSaHFGQjJ2ckhSbUVfdGhGdVZYLXA4SGZ2ZWJCNTlkQU1LN2pYdURFX2F1QTFhNnVCMzZjMklKRXowdnF1YjdXSDR2TGVHMjBSb21pT1JmT3ZuNTNEWktLd3FZNlFHV29fVDhmTElfVXUxOWs0RDdWUHg2Qkt0QXJpMTgxUm02a08yOVBxRTJTOUhiSkVtQXBKclFWQUppMThudWFvV3dXejYyN3BBMzhiM2JKUXc?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1784168760,
+    "publishedAt": 1784162580,
     "analysis": {
       "version": 2,
-      "generatedAt": 1784177091,
-      "sentiment": "bearish",
+      "generatedAt": 1784177140,
+      "sentiment": "bullish",
       "confidence": 0.8,
-      "summary": "The ongoing US-Iran conflict has led to a decrease in the number of vessels traveling through the Strait of Hormuz, a critical waterway for global oil trade. The situation has been exacerbated by recent strikes by the US and Iran, which has increased tensions in the region. The Strait of Hormuz is a key chokepoint for oil exports, and disruptions to this route can have significant economic implications. The decrease in vessel traffic is likely to impact oil prices and the global economy. The situation is fluid and may escalate further, leading to increased uncertainty and volatility.",
-      "impact": "The decrease in vessel traffic through the Strait of Hormuz is likely to have a negative impact on oil prices, which could be beneficial for oil producers such as ExxonMobil and Chevron. However, the increased tensions in the region may also lead to a decrease in investor sentiment, potentially impacting the stock prices of these companies. In the short term, the situation may lead to increased volatility in the oil market, making it challenging for investors to make informed decisions. In the medium term, the impact on the global economy and oil demand may become more apparent, potentially leading to changes in earnings outlook for oil-related companies.",
+      "summary": "US strikes on Iran have raised fears of a wider conflict, leading to a 4th consecutive day of oil price increases. This development is a significant escalation of tensions in the region, which could disrupt global oil supplies and drive up prices further. The oil price increase is a direct result of the heightened geopolitical risk, as investors become more cautious and seek safe-haven assets. This, in turn, may lead to increased demand for oil, further driving up prices.",
+      "impact": "The oil price increase is likely to have a positive impact on energy-related stocks, particularly those with significant oil reserves or production capabilities. Companies such as ExxonMobil (XOM) and Chevron (CVX) may benefit from the increased oil prices, as they are major players in the oil industry. Additionally, the increased demand for oil may lead to higher earnings for these companies in the short to medium term. However, investors should be cautious of the potential risks associated with the escalating conflict in the region, which could lead to supply disruptions and further price volatility.",
       "risks": [
-        "Escalation of conflict risk",
-        "Oil price volatility risk",
-        "Global economic slowdown risk"
+        "Supply disruption risk",
+        "Price volatility risk",
+        "Escalating conflict risk"
       ]
     }
   },
@@ -772,6 +818,29 @@
     }
   },
   {
+    "id": "8213300",
+    "headline": "Trump resumes Iran port blockade and threatens strikes on energy targets - Reuters",
+    "summary": "Trump resumes Iran port blockade and threatens strikes on energy targets  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV1NVbmwxanV3R25iWTRkMnNoY3hRblJYYVdDTU9FSGVrbDJkRDlNazBlbGV2MjBUYlNDX09Mcng5Vk9BdGJRSEIyNGdXdzlZOFV4aTh5N0xBSlB4WklnZ2VvUFc2WENOalA4Z1p0djZXVmFzV3RpMklJekp2U1JYbmxVREk4bTFtR19jQ2pJVzJkQU0xWmtsZzhBOHc5UkYtMGtld1RYUE91ZE9nNFQ5MTdvT2xxY2xoVjdzX2JqMG1uYy1IRTJz?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784098442,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784019725,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Iran's attack on a US air base in Jordan has escalated tensions between the two countries, leading to a five-hour US military response. This development increases the risk of further military action, which could have significant implications for the global economy and oil markets. The US military's response suggests a heightened sense of urgency and a willingness to engage in military action, which could lead to increased defense spending and a boost to defense contractors. However, the long-term implications of this conflict are uncertain and could have a negative impact on the global economy.",
+      "impact": "The potential impact on the US defense industry could be significant, with a boost to defense contractors such as Lockheed Martin (LMT) and Boeing (BA). However, the uncertainty surrounding the conflict and its long-term implications could lead to a decline in investor sentiment and a decrease in stock prices. In the short-term, the US dollar could strengthen as investors seek safe-haven assets, which could have a negative impact on US multinational corporations with significant foreign revenue exposure.",
+      "risks": [
+        "escalation of conflict risk",
+        "economic sanctions risk",
+        "global economic downturn risk"
+      ]
+    }
+  },
+  {
     "id": "8223333",
     "headline": "Tata eyes ₹10,000 cr shipbuilding investment in Kerala, says CM V.D. Satheesan",
     "summary": "The investment will add a new line of business for the $180-billion conglomerate that already makes coffee to luxury cars and steel products to smartphones",
@@ -1121,7 +1190,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1784056374,
+    "publishedAt": 1784057739,
     "analysis": {
       "version": 2,
       "generatedAt": 1784003705,
@@ -1359,6 +1428,29 @@
         "Escalation of US-Iran tensions leading to military conflict",
         "Increased economic sanctions on Iran and Hezbollah",
         "Volatility in the oil market"
+      ]
+    }
+  },
+  {
+    "id": "8209168",
+    "headline": "Wall Street ends lower as Iran tensions dampen risk appetite; chipmakers drop - Reuters",
+    "summary": "Wall Street ends lower as Iran tensions dampen risk appetite; chipmakers drop  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSUxJelN2M2lFYXd0QzZIdkhQVGdKTFl2clAtSllTMzIxZ0xudk9CeFpNNVV5MVNVSTdhb251ZjZYbWZ3UFQxWGl0ZWRBRXc3NFVvbXpRT1pPUjZxWUw5VDhtZ2s0bDZVT2VrWEp6M01qeTgwcWFtdmxOcFBYdmQxU1J6anlGbURld1ZmdnloOFBOaTJYbUFxNGo0dTFvbEl1bFdZTXIwcjMtRldFd1BMTw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784046010,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1783959356,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The S&P 500 and Nasdaq opened lower due to increased tensions with Iran, which has jolted market sentiment. This news has led to a decline in chip stocks, likely due to concerns over potential supply chain disruptions and reduced demand. The escalating situation with Iran has created uncertainty and volatility in the market, contributing to the negative sentiment. The chip industry is particularly sensitive to geopolitical events, as they can impact global demand and supply chains.",
+      "impact": "The short-term impact on chip stocks may be significant, with a potential decline in earnings due to reduced demand and supply chain disruptions. The medium-term impact may be more pronounced, as the uncertainty surrounding the situation in Iran could lead to a decline in investor sentiment and a subsequent decrease in stock prices. The potential for supply chain disruptions and reduced demand may also lead to a re-evaluation of valuations in the industry.",
+      "risks": [
+        "supply chain disruption risk",
+        "demand slowdown risk",
+        "geopolitical risk"
       ]
     }
   },
@@ -1970,29 +2062,6 @@
     }
   },
   {
-    "id": "8213300",
-    "headline": "Trump resumes Iran port blockade and threatens strikes on energy targets - Reuters",
-    "summary": "Trump resumes Iran port blockade and threatens strikes on energy targets  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV1NVbmwxanV3R25iWTRkMnNoY3hRblJYYVdDTU9FSGVrbDJkRDlNazBlbGV2MjBUYlNDX09Mcng5Vk9BdGJRSEIyNGdXdzlZOFV4aTh5N0xBSlB4WklnZ2VvUFc2WENOalA4Z1p0djZXVmFzV3RpMklJekp2U1JYbmxVREk4bTFtR19jQ2pJVzJkQU0xWmtsZzhBOHc5UkYtMGtld1RYUE91ZE9nNFQ5MTdvT2xxY2xoVjdzX2JqMG1uYy1IRTJz?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784010960,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784019725,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Iran's attack on a US air base in Jordan has escalated tensions between the two countries, leading to a five-hour US military response. This development increases the risk of further military action, which could have significant implications for the global economy and oil markets. The US military's response suggests a heightened sense of urgency and a willingness to engage in military action, which could lead to increased defense spending and a boost to defense contractors. However, the long-term implications of this conflict are uncertain and could have a negative impact on the global economy.",
-      "impact": "The potential impact on the US defense industry could be significant, with a boost to defense contractors such as Lockheed Martin (LMT) and Boeing (BA). However, the uncertainty surrounding the conflict and its long-term implications could lead to a decline in investor sentiment and a decrease in stock prices. In the short-term, the US dollar could strengthen as investors seek safe-haven assets, which could have a negative impact on US multinational corporations with significant foreign revenue exposure.",
-      "risks": [
-        "escalation of conflict risk",
-        "economic sanctions risk",
-        "global economic downturn risk"
-      ]
-    }
-  },
-  {
     "id": "8218124",
     "headline": "CCI fines HP India ₹127 crore for bid rigging in government tenders",
     "summary": "HP India dictated bid prices to resellers on the Government e-Marketplace, or GeM, platform and manipulated participation by withholding authorization",
@@ -2092,7 +2161,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1783999065,
+    "publishedAt": 1783999020,
     "analysis": {
       "version": 2,
       "generatedAt": 1784012351,
@@ -2787,29 +2856,6 @@
         "increased costs and insurance premiums",
         "geopolitical risks in the region",
         "disruptions to global trade"
-      ]
-    }
-  },
-  {
-    "id": "8209168",
-    "headline": "Wall Street ends lower as Iran tensions dampen risk appetite; chipmakers drop - Reuters",
-    "summary": "Wall Street ends lower as Iran tensions dampen risk appetite; chipmakers drop  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSUxJelN2M2lFYXd0QzZIdkhQVGdKTFl2clAtSllTMzIxZ0xudk9CeFpNNVV5MVNVSTdhb251ZjZYbWZ3UFQxWGl0ZWRBRXc3NFVvbXpRT1pPUjZxWUw5VDhtZ2s0bDZVT2VrWEp6M01qeTgwcWFtdmxOcFBYdmQxU1J6anlGbURld1ZmdnloOFBOaTJYbUFxNGo0dTFvbEl1bFdZTXIwcjMtRldFd1BMTw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1783936440,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1783959356,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The S&P 500 and Nasdaq opened lower due to increased tensions with Iran, which has jolted market sentiment. This news has led to a decline in chip stocks, likely due to concerns over potential supply chain disruptions and reduced demand. The escalating situation with Iran has created uncertainty and volatility in the market, contributing to the negative sentiment. The chip industry is particularly sensitive to geopolitical events, as they can impact global demand and supply chains.",
-      "impact": "The short-term impact on chip stocks may be significant, with a potential decline in earnings due to reduced demand and supply chain disruptions. The medium-term impact may be more pronounced, as the uncertainty surrounding the situation in Iran could lead to a decline in investor sentiment and a subsequent decrease in stock prices. The potential for supply chain disruptions and reduced demand may also lead to a re-evaluation of valuations in the industry.",
-      "risks": [
-        "supply chain disruption risk",
-        "demand slowdown risk",
-        "geopolitical risk"
       ]
     }
   },
@@ -22682,52 +22728,6 @@
         "geopolitical risk",
         "macroeconomic uncertainty",
         "event risk"
-      ]
-    }
-  },
-  {
-    "id": "8111470",
-    "headline": "Hezbollah chief says would respond to any violation from Israel - Reuters",
-    "summary": "Hezbollah chief says would respond to any violation from Israel  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPckpIcjVidTlabWY4bl9YNXNpNEF6Z3VnTFBuc3ZqYmozMkp1cHNvTlpxcFlXV1NtczdReGhlMVZMYWRiUE15bTZnVzJKcHZFMDBUVXRqWjFkdmROZ3E1V2pqTEFoVWxmYmtoM3JxRHcxYzdNeUp4UURxTW0zWkRyYW5BdXRwTVY5V0pCaXF3SzByTWc5bGlwdkxCblU2MndRYlFvRnBiQUJBaWVucEE?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782058543,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782255285,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "Hezbollah's leader has stated that the group would respond to any violation from Israel, escalating tensions between the two nations. This statement is a continuation of the long-standing conflict between Hezbollah and Israel. The situation remains volatile, with both sides maintaining a military presence in the region. The conflict has the potential to impact regional stability and global security. The news does not directly relate to any specific company or industry, but it may influence the broader market sentiment and geopolitical landscape.",
-      "impact": "The news may lead to increased tensions and volatility in the Middle East, potentially affecting the stock prices of companies with exposure to the region, such as defense contractors or companies with operations in Israel or Lebanon. The situation may also impact the earnings outlook for companies with significant operations in the region, particularly those in the defense and aerospace industries. However, the short-term impact on the broader market is likely to be limited, and investors should focus on the medium-term implications of the escalating tensions.",
-      "risks": [
-        "Increased military conflict risk",
-        "Regional instability risk",
-        "Global security risk"
-      ]
-    }
-  },
-  {
-    "id": "8103046",
-    "headline": "Raising the minimum wage has been a big political winner. Now it's running into resistance",
-    "summary": "Raising the minimum wage has been a progressive policy winner at the ballot box, but recent losses suggest an economic mood slowing its political momentum.",
-    "url": "https://www.cnbc.com/2026/06/21/raise-minimum-wage-inflation-politics.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/107235739-16832190752023-05-04t163255z_864185726_rc2sr0a3fc7j_rtrmadp_0_usa-wages-congress.jpeg?v=1683219131&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1782050849,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782054234,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Oklahoma voters rejected a ballot measure to raise the state's minimum wage to $15 an hour by 2029, marking a rare loss for the issue on a statewide level. The measure, which would have increased the minimum wage from $7.25 to $12 in 2027, was opposed by 55% of voters, citing concerns that it would destroy small businesses and rural economies. The rejection of the measure reflects a shift in public opinion, with voters prioritizing affordability and economic momentum over wage increases. This outcome may signal a slowdown in the momentum behind raising the minimum wage, which has been a popular policy among progressives.",
-      "impact": "The rejection of the minimum wage increase may have a negative impact on the earnings outlook for companies in the retail and hospitality industries, which often have high labor costs. In the short term, the news may lead to a decline in investor sentiment for companies that have been benefiting from the momentum behind minimum wage increases. However, the medium-term impact may be limited, as the minimum wage is already relatively high in Oklahoma, and the state's low cost of living may mitigate the effects of a higher minimum wage.",
-      "risks": [
-        "decline in investor sentiment for labor-intensive industries",
-        "negative impact on earnings outlook for retail and hospitality companies",
-        "potential for increased inflationary pressures"
       ]
     }
   }
