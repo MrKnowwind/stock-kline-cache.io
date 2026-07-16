@@ -1,5 +1,70 @@
 [
   {
+    "id": "8225467",
+    "headline": "Booms heard in UAE's downtown Dubai, witnesses say - Reuters",
+    "summary": "Booms heard in UAE's downtown Dubai, witnesses say  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSF95OG9ET3BDTFJ1NGZZTlROWmJoNk90YVlsc2pPdzVTMG1PQm1DZzFNZWdZQUQ0aDlEUTFiaElRcGdpQWJkRGFXb0lPQ3ZiYkJwM3RxYmFoeElPblRfc2VqeFE5TFZaVVhtWUIxMF9LdUpoWFkzbk5nci0wcXFwV09DTWwzZnp5TEpIczdNMG1CMVpRX3JZT0ExdjUzaTZZ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784221058,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784224741,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "A series of booms were heard in downtown Dubai, sparking concern among witnesses. The cause of the booms is currently unknown. The incident occurred in the UAE, a country with a diverse economy and a strong tourism industry. The UAE is also home to several major companies listed on international stock exchanges, including companies in the construction, finance, and energy sectors. The booms may have been caused by a construction accident, a natural gas leak, or another incident. The investigation is ongoing, and the authorities have not yet released any information about the cause of the booms.",
+      "impact": "The incident may have a short-term impact on the sentiment of investors towards companies listed in the UAE, particularly those with operations in Dubai. However, the medium-term impact is likely to be minimal, as the incident is not directly related to the fundamentals of the companies. The construction and tourism industries may be affected in the short term, but the impact is expected to be limited. The incident may also have a positive impact on the UAE's authorities, as they respond to the incident and demonstrate their ability to handle emergencies.",
+      "risks": [
+        "Short-term market volatility risk",
+        "Potential impact on tourism industry",
+        "Uncertainty about the cause of the booms"
+      ]
+    }
+  },
+  {
+    "id": "8225465",
+    "headline": "42% of adults rely on their parents for financial support—there are no 'bad guys' here, says financial therapist",
+    "summary": "Parents can maximize the impact of their support by ensuring their gifts alleviate financial stress or help their kids move closer to their long-term goals.",
+    "url": "https://www.cnbc.com/2026/07/16/42percent-of-adults-rely-on-their-parents-for-financial-supportthere-are-no-bad-guys-here-says-financial-therapist.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/106877435-1620063592262-gettyimages-1160943786-2018_09_17_best_ager_j13_1828.jpeg?v=1620063622&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1784219401,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784224786,
+      "sentiment": "neutral",
+      "confidence": 0.8,
+      "summary": "A recent study found that 42% of US adults rely on their parents for financial support, with 72% of Gen Zers and over half of millennials receiving help. Financial therapist Megan McCoy suggests that this is not a negative phenomenon, but rather a natural part of intergenerational support. She recommends that parents use financial assistance to alleviate financial stress or help their children achieve long-term goals, and emphasizes the importance of open communication to avoid hurt feelings and resentment.",
+      "impact": "This news may have a neutral impact on the financial services industry, as it highlights the importance of financial planning and support for young adults. However, it may also lead to increased demand for financial services such as student loan refinancing and home buying assistance, potentially benefiting companies like SoFi Technologies (SOFI) and Rocket Companies (RKT).",
+      "risks": []
+    }
+  },
+  {
+    "id": "8223663",
+    "headline": "Iran, US step up attacks, though release of American may signal path to climbdown - Reuters",
+    "summary": "Iran, US step up attacks, though release of American may signal path to climbdown  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbGxQSEpXZmFYRldBSGhRcTZWZlBvbUFOZFJDeVoxdXVZczVtY2w1TlhqSnhFaGxsSWlINnBKbDZhNi1mT0Q1anJRTjM0Z0toaVg3QXhMcmkyZlBQRTZ1cVZvbmhZSmU4WDU4NGdnN3FJZGRzbnYzdm0zQUVxWjNUZ1dTZHlwMTA0VTNhbUg0UHVxZmFLUlVtSmVfeHZCb0tfWEE?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784218990,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784195408,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Iran's warning that the Strait of Hormuz is a 'red line' implies a heightened risk of military conflict in the region, which could disrupt global oil supplies. The Strait of Hormuz is a critical waterway for oil exports from the Middle East, and any disruption could lead to a spike in oil prices. This, in turn, could negatively impact the earnings outlook for companies with significant exposure to the oil industry, such as oil majors and energy trading companies.",
+      "impact": "The potential impact on related stocks could be significant, with a short-term increase in oil prices leading to a boost in earnings for oil majors and energy trading companies. However, the medium-term impact could be bearish if the conflict escalates and disrupts global oil supplies for an extended period. This could lead to a decline in earnings and a decrease in stock prices for companies with significant exposure to the oil industry.",
+      "risks": [
+        "oil price volatility risk",
+        "supply chain disruption risk",
+        "geopolitical risk"
+      ]
+    }
+  },
+  {
     "id": "8225252",
     "headline": "Here's what to expect when Netflix reports earnings after the bell",
     "summary": "Investors will be looking for updates on Netflix's ad-supported business, engagement metrics and how the streaming giant continues to consider potential M&A.",
@@ -65,29 +130,6 @@
         "valuation risk: small-cap stocks may be overvalued if the rally continues",
         "earnings disappointment risk: if earnings growth fails to meet expectations",
         "macroeconomic risk: a slowdown in economic growth could negatively impact small-cap stocks"
-      ]
-    }
-  },
-  {
-    "id": "8223663",
-    "headline": "Iran, US step up attacks, though release of American may signal path to climbdown - Reuters",
-    "summary": "Iran, US step up attacks, though release of American may signal path to climbdown  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbGxQSEpXZmFYRldBSGhRcTZWZlBvbUFOZFJDeVoxdXVZczVtY2w1TlhqSnhFaGxsSWlINnBKbDZhNi1mT0Q1anJRTjM0Z0toaVg3QXhMcmkyZlBQRTZ1cVZvbmhZSmU4WDU4NGdnN3FJZGRzbnYzdm0zQUVxWjNUZ1dTZHlwMTA0VTNhbUg0UHVxZmFLUlVtSmVfeHZCb0tfWEE?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784211329,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784195408,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Iran's warning that the Strait of Hormuz is a 'red line' implies a heightened risk of military conflict in the region, which could disrupt global oil supplies. The Strait of Hormuz is a critical waterway for oil exports from the Middle East, and any disruption could lead to a spike in oil prices. This, in turn, could negatively impact the earnings outlook for companies with significant exposure to the oil industry, such as oil majors and energy trading companies.",
-      "impact": "The potential impact on related stocks could be significant, with a short-term increase in oil prices leading to a boost in earnings for oil majors and energy trading companies. However, the medium-term impact could be bearish if the conflict escalates and disrupts global oil supplies for an extended period. This could lead to a decline in earnings and a decrease in stock prices for companies with significant exposure to the oil industry.",
-      "risks": [
-        "oil price volatility risk",
-        "supply chain disruption risk",
-        "geopolitical risk"
       ]
     }
   },
@@ -864,29 +906,6 @@
     }
   },
   {
-    "id": "8213300",
-    "headline": "Trump resumes Iran port blockade and threatens strikes on energy targets - Reuters",
-    "summary": "Trump resumes Iran port blockade and threatens strikes on energy targets  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV1NVbmwxanV3R25iWTRkMnNoY3hRblJYYVdDTU9FSGVrbDJkRDlNazBlbGV2MjBUYlNDX09Mcng5Vk9BdGJRSEIyNGdXdzlZOFV4aTh5N0xBSlB4WklnZ2VvUFc2WENOalA4Z1p0djZXVmFzV3RpMklJekp2U1JYbmxVREk4bTFtR19jQ2pJVzJkQU0xWmtsZzhBOHc5UkYtMGtld1RYUE91ZE9nNFQ5MTdvT2xxY2xoVjdzX2JqMG1uYy1IRTJz?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784098442,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784019725,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Iran's attack on a US air base in Jordan has escalated tensions between the two countries, leading to a five-hour US military response. This development increases the risk of further military action, which could have significant implications for the global economy and oil markets. The US military's response suggests a heightened sense of urgency and a willingness to engage in military action, which could lead to increased defense spending and a boost to defense contractors. However, the long-term implications of this conflict are uncertain and could have a negative impact on the global economy.",
-      "impact": "The potential impact on the US defense industry could be significant, with a boost to defense contractors such as Lockheed Martin (LMT) and Boeing (BA). However, the uncertainty surrounding the conflict and its long-term implications could lead to a decline in investor sentiment and a decrease in stock prices. In the short-term, the US dollar could strengthen as investors seek safe-haven assets, which could have a negative impact on US multinational corporations with significant foreign revenue exposure.",
-      "risks": [
-        "escalation of conflict risk",
-        "economic sanctions risk",
-        "global economic downturn risk"
-      ]
-    }
-  },
-  {
     "id": "8223333",
     "headline": "Tata eyes ₹10,000 cr shipbuilding investment in Kerala, says CM V.D. Satheesan",
     "summary": "The investment will add a new line of business for the $180-billion conglomerate that already makes coffee to luxury cars and steel products to smartphones",
@@ -1236,7 +1255,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1784057739,
+    "publishedAt": 1784056374,
     "analysis": {
       "version": 2,
       "generatedAt": 1784003705,
@@ -2104,6 +2123,29 @@
         "Increased interest rates risk",
         "Decreased consumer spending risk",
         "Economic growth slowdown risk"
+      ]
+    }
+  },
+  {
+    "id": "8213300",
+    "headline": "Trump resumes Iran port blockade and threatens strikes on energy targets - Reuters",
+    "summary": "Trump resumes Iran port blockade and threatens strikes on energy targets  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV1NVbmwxanV3R25iWTRkMnNoY3hRblJYYVdDTU9FSGVrbDJkRDlNazBlbGV2MjBUYlNDX09Mcng5Vk9BdGJRSEIyNGdXdzlZOFV4aTh5N0xBSlB4WklnZ2VvUFc2WENOalA4Z1p0djZXVmFzV3RpMklJekp2U1JYbmxVREk4bTFtR19jQ2pJVzJkQU0xWmtsZzhBOHc5UkYtMGtld1RYUE91ZE9nNFQ5MTdvT2xxY2xoVjdzX2JqMG1uYy1IRTJz?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784010960,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784019725,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Iran's attack on a US air base in Jordan has escalated tensions between the two countries, leading to a five-hour US military response. This development increases the risk of further military action, which could have significant implications for the global economy and oil markets. The US military's response suggests a heightened sense of urgency and a willingness to engage in military action, which could lead to increased defense spending and a boost to defense contractors. However, the long-term implications of this conflict are uncertain and could have a negative impact on the global economy.",
+      "impact": "The potential impact on the US defense industry could be significant, with a boost to defense contractors such as Lockheed Martin (LMT) and Boeing (BA). However, the uncertainty surrounding the conflict and its long-term implications could lead to a decline in investor sentiment and a decrease in stock prices. In the short-term, the US dollar could strengthen as investors seek safe-haven assets, which could have a negative impact on US multinational corporations with significant foreign revenue exposure.",
+      "risks": [
+        "escalation of conflict risk",
+        "economic sanctions risk",
+        "global economic downturn risk"
       ]
     }
   },
@@ -22682,52 +22724,6 @@
         "Unrelated to specific companies or industries, making it difficult to assess direct impact",
         "Sentiment shift may be short-lived and influenced by various factors",
         "No clear connection to business fundamentals or industry context"
-      ]
-    }
-  },
-  {
-    "id": "8104761",
-    "headline": "Beiranvand heroics help Iran hold 10-man Belgium to goalless draw - Reuters",
-    "summary": "Beiranvand heroics help Iran hold 10-man Belgium to goalless draw  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR01ibEVGdmNYc0l0VFlWQzI0SUVoSXZzb1RsSVlXckhQNnZyV2ZfZXZpbTk1U21GN1FqeDJNUTRkQ1prWFR6ZDA3TEpJNkNrVUJwc05MNTU2eUQ0NHhZTXduT3NLd2lZZVM5QkdUeEdycExqZUt3eEdycGlaeFZ5QUlvNHFjckR3VV9qN3ZobkxEQjdEbmpHdA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782082468,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782086342,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Iran and Belgium played a goalless draw in a friendly football match in Los Angeles. The match was part of the preparation for the upcoming World Cup. The event has no direct connection to the business world, but it can have an indirect impact on the sports equipment and apparel industry. The news is likely to have a neutral sentiment as it does not affect the financial performance of any specific company.",
-      "impact": "The news is unlikely to have a significant impact on the stocks related to the sports equipment and apparel industry in the short term. However, it may have a medium-term impact on companies that sponsor football teams or events. The event could increase the visibility and demand for sports-related products, potentially benefiting companies like Nike or Adidas. The impact will depend on how the companies leverage the event to promote their products.",
-      "risks": [
-        "event-related marketing risk (companies may overinvest in event-related marketing and fail to generate returns)",
-        "brand reputation risk (companies may be associated with a team or event that experiences a negative outcome)",
-        "supply chain risk (companies may face supply chain disruptions due to increased demand)"
-      ]
-    }
-  },
-  {
-    "id": "8103856",
-    "headline": "The AI trade has left the hyperscalers in the dust. What will it take for that to change?",
-    "summary": "In his Sunday column for Investing Club subscribers, Jim Cramer examines the market's love affair with memory and semi-cap equipment stocks.",
-    "url": "https://www.cnbc.com/2026/06/21/the-ai-trade-has-left-the-hyperscalers-in-the-dust-what-will-it-take-for-that-to-change-.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108314424-1780313034276-gettyimages-2278507630-VIRGINIA_DATA_CENTERS.jpeg?v=1780313062&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1782067392,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782068777,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The article discusses how the hyperscalers (Amazon, Alphabet, Microsoft, and Meta) are struggling with the shortage of high-bandwidth memory (HBM) chips, which is a bottleneck in AI computing. This shortage has led to a surge in prices of memory chip stocks, including SK Hynix, Samsung, and Micron. The hyperscalers have been unable to overcome this shortage despite investing heavily in capital expenditures. The article suggests that the real intellectual property in this supply chain lies with the capital equipment companies (Applied Materials, Lam Research, and KLA Corp), which are not producing enough equipment to alleviate the shortage.",
-      "impact": "The shortage of HBM chips and the subsequent price surge in memory chip stocks is likely to have a negative impact on the hyperscalers' earnings outlook in the short term. This could lead to a decline in their stock prices, particularly for Amazon, Alphabet, and Microsoft, which are heavily reliant on these chips for their AI computing needs. In the medium term, the hyperscalers may need to diversify their business models to reduce their dependence on these chips, which could lead to a revaluation of their stocks. The article also suggests that Meta, which is heavily reliant on advertising, may benefit from developing a cloud business to offset its exposure to the shortage.",
-      "risks": [
-        "Short-term earnings decline risk for hyperscalers",
-        "Medium-term revaluation risk for hyperscalers",
-        "Increased competition from emerging chipmakers"
       ]
     }
   }
