@@ -1,5 +1,74 @@
 [
   {
+    "id": "8229344",
+    "headline": "Obscure volatility measure points to a 'Magnificent Seven’ earnings breakout",
+    "summary": "If the S&P 500 is to make a new record, it may require the \"Magnificent Seven\" to get back into gear.",
+    "url": "https://www.cnbc.com/2026/07/17/obscure-volatility-measure-points-to-a-magnificent-seven-earnings-breakout-.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108225750-1763069160018-gettyimages-2245970413-CBOE_MARKETS.jpeg?v=1763069191&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1784288208,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784292551,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "A recent analysis of options positioning in the S&P 500 suggests that the 'Magnificent Seven' stocks - Meta, Microsoft, Amazon, Tesla, and Advanced Micro Devices - may be due for a correction. The analysis, based on the RiskDex metric, shows that these stocks have unusually high call skew, indicating that investors are overly bullish. This could set them up for disappointment if their earnings do not meet expectations. The stocks have not made records in almost a year, and Amazon has trailed the Nasdaq 100 year-to-date.",
+      "impact": "The potential correction in these stocks could lead to a rotation in market leadership, with other stocks potentially benefiting from the shift. In the short term, this could lead to a decrease in the S&P 500, while in the medium term, it could result in a re-evaluation of the stocks' valuations. The earnings outlook and sentiment of these stocks are key drivers of this potential impact.",
+      "risks": [
+        "earnings disappointment risk",
+        "valuation re-evaluation risk",
+        "sentiment shift risk"
+      ]
+    }
+  },
+  {
+    "id": "8229337",
+    "headline": "Inside the Chinese fraud rings stealing billions from banks and retailers",
+    "summary": "Chinese organized crime groups are making as much as $1 billion annually in tap-to-pay fraud schemes targeting retailers and banks.",
+    "url": "https://www.cnbc.com/2026/07/17/tap-pay-fraud-retail-crime.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108335360-1784124495199-TAP_AND_PAY_3.jpg?v=1784124629&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1784287217,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784292598,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Chinese organized crime groups are using tap-to-pay fraud schemes to steal billions of dollars from retailers and banks. The schemes involve using stolen credit cards to purchase gift cards, which can then be returned for cash. This type of fraud is becoming increasingly prevalent due to the proliferation of tap-to-pay and retail apps. Retailers, such as Lowe's and Home Depot, are being targeted because their platforms carry sensitive information but lack robust security measures. This type of crime is difficult to detect and can be carried out with low risk for the perpetrators.",
+      "impact": "The potential impact on retailers is significant, with losses estimated to be as much as $1 billion annually. This could lead to decreased earnings for companies in the retail sector, particularly those with weak security measures. The increased risk of digital theft may also lead to higher security costs for retailers, which could negatively impact their profit margins. In the short-term, this could lead to a decline in stock prices for retailers, particularly those with high exposure to tap-to-pay and retail apps.",
+      "risks": [
+        "Increased security costs and decreased earnings",
+        "Negative impact on profit margins",
+        "Potential decline in stock prices"
+      ]
+    }
+  },
+  {
+    "id": "8229236",
+    "headline": "Suspected pirates seize tanker off Yemen coast in Gulf of Aden, sources say - Reuters",
+    "summary": "Suspected pirates seize tanker off Yemen coast in Gulf of Aden, sources say  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeVFJX2dfYlJkR3pBRlZVa2Z2cUN5eWJYd251LWZCTml6QVZhU0ZGT2RnNVQ3RVkwVkpaS1dYa2ZZXzF3eG9XQURfWXpuZ0FuRTBxMVZfU1NZZk5MUlpFRDlnakpSb1BRRUc0U1ZhMktSdTNROE1NVEowMGhDTnVQRU1fOHlVMTYtblJHRFZxdXhtUjF1clZTRm9qRVItRWowVTJzOHZrY3lKeEJ4ZmlYQUQydUd0aVF0NVRZRFVBQU1WZGtROE95bzF2dFI?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784283155,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784292649,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Suspected pirates have seized a tanker off the coast of Yemen in the Gulf of Aden, according to sources. This incident highlights the ongoing security risks in the region, particularly for shipping companies operating in the area. The seizure of a tanker can disrupt global oil supplies and impact the global economy. The incident also raises concerns about the safety of crew members and the potential for increased insurance costs for shipping companies. The security risks in the region are a concern for oil and gas companies operating in the area, particularly those with significant operations in the Middle East.",
+      "impact": "The seizure of the tanker is likely to have a negative impact on the stocks of oil and gas companies with significant operations in the Middle East, particularly those with exposure to the Gulf of Aden region. The incident may also lead to increased insurance costs for shipping companies, which could negatively impact their earnings. In the short-term, the incident may lead to a decline in oil prices as global supplies are disrupted. The medium-term impact may be a re-evaluation of the security risks in the region and potential changes to shipping routes or operations.",
+      "risks": [
+        "disruption to global oil supplies",
+        "increased insurance costs for shipping companies",
+        "re-evaluation of security risks in the region"
+      ]
+    }
+  },
+  {
     "id": "8228279",
     "headline": "Iran strikes eastern Syria, in first such attack during current war - Reuters",
     "summary": "Iran strikes eastern Syria, in first such attack during current war  Reuters",
@@ -116,8 +185,8 @@
   },
   {
     "id": "8227966",
-    "headline": "Iran launches fresh attacks after sixth day of US strikes - Reuters",
-    "summary": "Iran launches fresh attacks after sixth day of US strikes  Reuters",
+    "headline": "US extends strikes on Iran to bridges and airport in escalation of campaign - Reuters",
+    "summary": "US extends strikes on Iran to bridges and airport in escalation of campaign  Reuters",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRW1QZlpEY3pwOHJJaDF2S2JVZG81S2xuakhndThpb1lLREpreFBCRW1TWTlZeFBGTFRaUER1dWRUU2FlaDlYTU9Yc0hzY3Juby0xSlRxN24yMGZvQ0ktN1NYcjVtZHc5a3F6UXQ5Qnc3aWNDNV84MV8ybWkxemptWEtlS1plM0kxQVNoM3A5RkpkUlZGSEtYbVVTN2RtNkhwc3VWZThNazhDTGpt?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -208,8 +277,8 @@
   },
   {
     "id": "8227350",
-    "headline": "Oil rises on intensifying US-Iran hostilities, threat of Red Sea closure - Reuters",
-    "summary": "Oil rises on intensifying US-Iran hostilities, threat of Red Sea closure  Reuters",
+    "headline": "Oil rises on renewed US-Iran hostilities and threat of Red Sea closure - Reuters",
+    "summary": "Oil rises on renewed US-Iran hostilities and threat of Red Sea closure  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYnAzc0RfelUyaHNBcU5ERWVndUwxNkhxOC1sREo3M2xoeGp0Vko0MTREMXludzBTcG52UVpvSmpRdlpLV2FFU0VNT2cybFU2b3NjTkhUMkZKWlNZMmo0RWFDV0pfSEU1RDFtVURxQjAtRVBXeTB6VWZCNUpFUVRJRFRSRDA0NzJlN1d2bjl5T3VLZ2lxQndYZ29SUFB0Y05YUkxzd1pOSktyME9XMTFMVWRsVnhRV2RG?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -365,6 +434,29 @@
         "Execution risk: the successful implementation of the deal depends on various factors, including regulatory approvals and the ability of the parties to negotiate and agree on the terms of the partnership.",
         "Geopolitical risk: the Iraqi oil market is subject to geopolitical risks, including potential conflicts and changes in government policies.",
         "Commodity price risk: the deal is sensitive to oil price fluctuations, which could impact Chevron's revenue and profitability."
+      ]
+    }
+  },
+  {
+    "id": "8222305",
+    "headline": "Oil settles lower, but remains near one-month high on U.S.-Iran tension - Reuters",
+    "summary": "Oil settles lower, but remains near one-month high on U.S.-Iran tension  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ09hT2dSaHFGQjJ2ckhSbUVfdGhGdVZYLXA4SGZ2ZWJCNTlkQU1LN2pYdURFX2F1QTFhNnVCMzZjMklKRXowdnF1YjdXSDR2TGVHMjBSb21pT1JmT3ZuNTNEWktLd3FZNlFHV29fVDhmTElfVXUxOWs0RDdWUHg2Qkt0QXJpMTgxUm02a08yOVBxRTJTOUhiSkVtQXBKclFWQUppMThudWFvV3dXejYyN3BBMzhiM2JKUXc?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784233724,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784177140,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "US strikes on Iran have raised fears of a wider conflict, leading to a 4th consecutive day of oil price increases. This development is a significant escalation of tensions in the region, which could disrupt global oil supplies and drive up prices further. The oil price increase is a direct result of the heightened geopolitical risk, as investors become more cautious and seek safe-haven assets. This, in turn, may lead to increased demand for oil, further driving up prices.",
+      "impact": "The oil price increase is likely to have a positive impact on energy-related stocks, particularly those with significant oil reserves or production capabilities. Companies such as ExxonMobil (XOM) and Chevron (CVX) may benefit from the increased oil prices, as they are major players in the oil industry. Additionally, the increased demand for oil may lead to higher earnings for these companies in the short to medium term. However, investors should be cautious of the potential risks associated with the escalating conflict in the region, which could lead to supply disruptions and further price volatility.",
+      "risks": [
+        "Supply disruption risk",
+        "Price volatility risk",
+        "Escalating conflict risk"
       ]
     }
   },
@@ -802,6 +894,29 @@
     }
   },
   {
+    "id": "8222609",
+    "headline": "Fewer vessels travel through Hormuz after US resumes blockade - Reuters",
+    "summary": "Fewer vessels travel through Hormuz after US resumes blockade  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa0VSSEhJSHhNNVl6b2dXTWNoa0FjeV9KQkZOMUs5aUtvM0Rwc1FPYk9pd3NlSDgxcy1oVDZqWjQ0c1dFb3NXLUdBOTFpWlJwUld6ZXkwN1lENTREaFpVZ0lDWFY5Y0UzVjdGbHVjQVRsc0FIXzZMSVJfdkVaamtnVnNmZ2lPQm9jV0pCMjdlajFhMmRFVERaLXVvNG1JSi1yYlRxU0NUaGZIUlFhXzJteHhvcTA?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784195794,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784177091,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The ongoing US-Iran conflict has led to a decrease in the number of vessels traveling through the Strait of Hormuz, a critical waterway for global oil trade. The situation has been exacerbated by recent strikes by the US and Iran, which has increased tensions in the region. The Strait of Hormuz is a key chokepoint for oil exports, and disruptions to this route can have significant economic implications. The decrease in vessel traffic is likely to impact oil prices and the global economy. The situation is fluid and may escalate further, leading to increased uncertainty and volatility.",
+      "impact": "The decrease in vessel traffic through the Strait of Hormuz is likely to have a negative impact on oil prices, which could be beneficial for oil producers such as ExxonMobil and Chevron. However, the increased tensions in the region may also lead to a decrease in investor sentiment, potentially impacting the stock prices of these companies. In the short term, the situation may lead to increased volatility in the oil market, making it challenging for investors to make informed decisions. In the medium term, the impact on the global economy and oil demand may become more apparent, potentially leading to changes in earnings outlook for oil-related companies.",
+      "risks": [
+        "Escalation of conflict risk",
+        "Oil price volatility risk",
+        "Global economic slowdown risk"
+      ]
+    }
+  },
+  {
     "id": "8228909",
     "headline": "Citigroup’s Indian clients shift focus to Rupee volatility",
     "summary": "Citigroup reports Indian clients are adapting strategies to profit from ongoing rupee volatility amid significant depreciation against the dollar.",
@@ -855,7 +970,20 @@
     "source": "Bloomberg",
     "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
     "relatedSymbols": [],
-    "publishedAt": 1784184564
+    "publishedAt": 1784184564,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784292700,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Microsoft is positioning itself as a platform for corporations to fine-tune, deploy, and monitor AI in their businesses, countering the growing influence of Anthropic and OpenAI. This move highlights Microsoft's efforts to expand its AI capabilities and increase its presence in the burgeoning AI market. The company is providing salespeople with tips to sell its AI solutions to corporate clients, indicating a strategic push to capitalize on the growing demand for AI adoption. Microsoft's move is likely a response to the increasing competition in the AI space, where Anthropic and OpenAI have been gaining traction.",
+      "impact": "The news is likely to have a positive impact on Microsoft's stock price in the short term, as investors may view this move as a strategic step to expand its AI capabilities and increase its market share. However, the medium-term impact may be more nuanced, as the success of Microsoft's AI solutions will depend on their adoption by corporate clients and the company's ability to execute on its strategy. The increased competition in the AI space may also lead to a decrease in valuation multiples for Microsoft, as investors reassess the company's growth prospects.",
+      "risks": [
+        "execution risk: Microsoft's ability to execute on its AI strategy and deliver successful solutions to corporate clients",
+        "valuation risk: increased competition in the AI space may lead to a decrease in valuation multiples for Microsoft",
+        "adoption risk: the success of Microsoft's AI solutions depends on their adoption by corporate clients"
+      ]
+    }
   },
   {
     "id": "8228276",
@@ -865,7 +993,21 @@
     "source": "Bloomberg",
     "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
     "relatedSymbols": [],
-    "publishedAt": 1784182868
+    "publishedAt": 1784182868,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784292747,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The International Energy Agency (IEA) has warned that China's potential rare earth export curbs could put $6.5 trillion of downstream production outside the country at risk each year. This is due to China's dominance in the rare earth market, with the country accounting for over 60% of global production. The IEA's report highlights the critical role of rare earths in various industries, including renewable energy technologies, electric vehicles, and electronics. The potential export curbs could have far-reaching implications for companies reliant on Chinese rare earth imports.",
+      "impact": "The news is likely to have a negative impact on companies that rely heavily on Chinese rare earth imports, particularly those in the renewable energy and electronics sectors. This could lead to increased costs, supply chain disruptions, and potential earnings pressure in the short to medium term. Companies with significant exposure to rare earths may see their valuations come under pressure as investors reassess their exposure to this risk. The news may also exacerbate existing concerns about supply chain resilience and diversification.",
+      "risks": [
+        "Supply chain disruption risk",
+        "Increased costs risk",
+        "Earnings pressure risk",
+        "Valuation risk"
+      ]
+    }
   },
   {
     "id": "8223337",
@@ -991,29 +1133,6 @@
     }
   },
   {
-    "id": "8222609",
-    "headline": "Fewer vessels travel through Hormuz after US resumes blockade - Reuters",
-    "summary": "Fewer vessels travel through Hormuz after US resumes blockade  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa0VSSEhJSHhNNVl6b2dXTWNoa0FjeV9KQkZOMUs5aUtvM0Rwc1FPYk9pd3NlSDgxcy1oVDZqWjQ0c1dFb3NXLUdBOTFpWlJwUld6ZXkwN1lENTREaFpVZ0lDWFY5Y0UzVjdGbHVjQVRsc0FIXzZMSVJfdkVaamtnVnNmZ2lPQm9jV0pCMjdlajFhMmRFVERaLXVvNG1JSi1yYlRxU0NUaGZIUlFhXzJteHhvcTA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784168760,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784177091,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The ongoing US-Iran conflict has led to a decrease in the number of vessels traveling through the Strait of Hormuz, a critical waterway for global oil trade. The situation has been exacerbated by recent strikes by the US and Iran, which has increased tensions in the region. The Strait of Hormuz is a key chokepoint for oil exports, and disruptions to this route can have significant economic implications. The decrease in vessel traffic is likely to impact oil prices and the global economy. The situation is fluid and may escalate further, leading to increased uncertainty and volatility.",
-      "impact": "The decrease in vessel traffic through the Strait of Hormuz is likely to have a negative impact on oil prices, which could be beneficial for oil producers such as ExxonMobil and Chevron. However, the increased tensions in the region may also lead to a decrease in investor sentiment, potentially impacting the stock prices of these companies. In the short term, the situation may lead to increased volatility in the oil market, making it challenging for investors to make informed decisions. In the medium term, the impact on the global economy and oil demand may become more apparent, potentially leading to changes in earnings outlook for oil-related companies.",
-      "risks": [
-        "Escalation of conflict risk",
-        "Oil price volatility risk",
-        "Global economic slowdown risk"
-      ]
-    }
-  },
-  {
     "id": "8223441",
     "headline": "US launches new wave of strikes against Iran, military says - Reuters",
     "summary": "US launches new wave of strikes against Iran, military says  Reuters",
@@ -1056,29 +1175,6 @@
         "Increased import costs risk",
         "Higher inflation risk",
         "Potential interest rate hike risk"
-      ]
-    }
-  },
-  {
-    "id": "8222305",
-    "headline": "Oil settles lower, but remains near one-month high on U.S.-Iran tension - Reuters",
-    "summary": "Oil settles lower, but remains near one-month high on U.S.-Iran tension  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ09hT2dSaHFGQjJ2ckhSbUVfdGhGdVZYLXA4SGZ2ZWJCNTlkQU1LN2pYdURFX2F1QTFhNnVCMzZjMklKRXowdnF1YjdXSDR2TGVHMjBSb21pT1JmT3ZuNTNEWktLd3FZNlFHV29fVDhmTElfVXUxOWs0RDdWUHg2Qkt0QXJpMTgxUm02a08yOVBxRTJTOUhiSkVtQXBKclFWQUppMThudWFvV3dXejYyN3BBMzhiM2JKUXc?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784162580,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784177140,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "US strikes on Iran have raised fears of a wider conflict, leading to a 4th consecutive day of oil price increases. This development is a significant escalation of tensions in the region, which could disrupt global oil supplies and drive up prices further. The oil price increase is a direct result of the heightened geopolitical risk, as investors become more cautious and seek safe-haven assets. This, in turn, may lead to increased demand for oil, further driving up prices.",
-      "impact": "The oil price increase is likely to have a positive impact on energy-related stocks, particularly those with significant oil reserves or production capabilities. Companies such as ExxonMobil (XOM) and Chevron (CVX) may benefit from the increased oil prices, as they are major players in the oil industry. Additionally, the increased demand for oil may lead to higher earnings for these companies in the short to medium term. However, investors should be cautious of the potential risks associated with the escalating conflict in the region, which could lead to supply disruptions and further price volatility.",
-      "risks": [
-        "Supply disruption risk",
-        "Price volatility risk",
-        "Escalating conflict risk"
       ]
     }
   },
@@ -1167,29 +1263,6 @@
         "Increased insurance costs and reduced shipping volumes",
         "Uncertainty and risk of future attacks",
         "Potential shift towards more expensive and secure transportation methods"
-      ]
-    }
-  },
-  {
-    "id": "8217198",
-    "headline": "Oil prices make small gain on smaller US inventory draw - Reuters",
-    "summary": "Oil prices make small gain on smaller US inventory draw  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUFh4aWhsMnJmRnlKQkFsZXUxTWd4cjVvU0pKZG1TemNJTzZHWF9qZUFMZkFCR1Vic05WN2dqVk03RU1JWkxfOG1nQ3lzT3hmeVF6SDZkcVpiZFpTNGtBaUZyRUFxNmg0b0ZqMFJXSlRobGFqRmZwSE1ycy1TaEF2UTdQZU1WbGctVkNtTm8xaUdyMkpvZGlvMm4wOTBRVXZjVWhtYURYSHU5alBWREx6ZGF0YkYyalFkb0ZBLUd0LTVGdXdWZGc?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784145866,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784090085,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The recent US-Iran hostilities have led to strikes on energy targets, causing oil prices to rise. This escalation in tensions between the two countries has increased concerns about the stability of global oil supplies. The conflict has resulted in a surge in oil prices, which is expected to have a positive impact on oil-producing companies. The US-Iran tensions have been ongoing for some time, but the recent strikes have rekindled concerns about the potential disruption to oil supplies.",
-      "impact": "The potential impact on oil-producing companies such as ExxonMobil and Chevron is likely to be positive in the short-term, with higher oil prices leading to increased earnings. The medium-term impact may be more significant, as the ongoing tensions could lead to a sustained increase in oil prices, benefiting these companies. However, investors should be cautious of the potential risks associated with geopolitical tensions and the impact on global economic growth.",
-      "risks": [
-        "geopolitical tensions risk",
-        "global economic growth slowdown risk",
-        "supply chain disruption risk"
       ]
     }
   },
@@ -1815,6 +1888,29 @@
         "Geopolitical tensions in the Middle East could escalate and impact the region's economic stability",
         "A sudden increase in oil prices could offset the positive impact of the soft inflation reading",
         "The US Federal Reserve may still raise interest rates, which could negatively impact the economy and the stocks of companies with exposure to the Middle East"
+      ]
+    }
+  },
+  {
+    "id": "8217198",
+    "headline": "Oil prices make small gain on smaller US inventory draw - Reuters",
+    "summary": "Oil prices make small gain on smaller US inventory draw  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUFh4aWhsMnJmRnlKQkFsZXUxTWd4cjVvU0pKZG1TemNJTzZHWF9qZUFMZkFCR1Vic05WN2dqVk03RU1JWkxfOG1nQ3lzT3hmeVF6SDZkcVpiZFpTNGtBaUZyRUFxNmg0b0ZqMFJXSlRobGFqRmZwSE1ycy1TaEF2UTdQZU1WbGctVkNtTm8xaUdyMkpvZGlvMm4wOTBRVXZjVWhtYURYSHU5alBWREx6ZGF0YkYyalFkb0ZBLUd0LTVGdXdWZGc?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784077749,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784090085,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The recent US-Iran hostilities have led to strikes on energy targets, causing oil prices to rise. This escalation in tensions between the two countries has increased concerns about the stability of global oil supplies. The conflict has resulted in a surge in oil prices, which is expected to have a positive impact on oil-producing companies. The US-Iran tensions have been ongoing for some time, but the recent strikes have rekindled concerns about the potential disruption to oil supplies.",
+      "impact": "The potential impact on oil-producing companies such as ExxonMobil and Chevron is likely to be positive in the short-term, with higher oil prices leading to increased earnings. The medium-term impact may be more significant, as the ongoing tensions could lead to a sustained increase in oil prices, benefiting these companies. However, investors should be cautious of the potential risks associated with geopolitical tensions and the impact on global economic growth.",
+      "risks": [
+        "geopolitical tensions risk",
+        "global economic growth slowdown risk",
+        "supply chain disruption risk"
       ]
     }
   },
@@ -22590,75 +22686,6 @@
         "valuation risk",
         "earnings outlook risk",
         "sentiment risk"
-      ]
-    }
-  },
-  {
-    "id": "8110943",
-    "headline": "India pivots to Russian crude and coal to mitigate Iran war fallout - Reuters",
-    "summary": "India pivots to Russian crude and coal to mitigate Iran war fallout  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMmg5eThzVGtyeGJTQkhoNVhXOFo2bDBfMEluWUlHaWlBUE9vSi1KcFFySFB5aGg5V3lIT1d3LS1Oa0Q4a09aOTFiRGM2c0FrVmFNVWJRaUJBaU9teGRmYkVKSHRRU2xsRGE1cGpOVHMyUUpVNGRZSEtXRXRNWEJ5X2JLSnp3cDU4OGN5aG5uQzdFRWg3QUMxcjhpNEhYdkhxYVBVNmdzdGgySkhXcXNyYzFoVl8zRURXc2paRVowWUNNUXh0?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782184150,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782215649,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "India has shifted its energy imports to include Russian crude and coal in response to the Iran war fallout. This move aims to ensure a stable energy supply and mitigate the impact of potential sanctions on Iranian oil imports. India has traditionally been a significant importer of Iranian oil, but the Iran-US conflict has raised concerns about the reliability of this supply chain. The shift to Russian energy sources is seen as a pragmatic decision to secure a stable energy supply. This move is likely to have implications for the global energy market, particularly for countries that rely on Iranian oil imports.",
-      "impact": "The shift to Russian energy sources is likely to benefit Indian oil companies such as IOC and HPCL, which may see an increase in crude imports. However, this may also lead to a decrease in demand for Iranian oil, potentially impacting companies that have invested in Iranian energy projects. In the short-term, the impact on oil prices may be minimal, but in the medium-term, a shift in global energy supply dynamics could lead to changes in oil price volatility. The move is also likely to have implications for the global energy market, particularly for countries that rely on Iranian oil imports.",
-      "risks": [
-        "sanctions risk for Indian companies investing in Iranian energy projects",
-        "potential backlash from the US or other countries over the shift to Russian energy sources",
-        "impact on global oil price volatility"
-      ]
-    }
-  },
-  {
-    "id": "8107077",
-    "headline": "S&P 500, Nasdaq close lower, dragged by Alphabet and megacap tech; focus on Iran - Reuters",
-    "summary": "S&P 500, Nasdaq close lower, dragged by Alphabet and megacap tech; focus on Iran  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTDQxcFBhNUJhWlNpLXhmbHBEcUMxSG00alpWU2t3bGpwWU82RUFLZmVFWklDZWpJSjg0a2dYdm14bkoxN3BYanhxUTMyZGprZ25rVlpCXzNQV3NaQmlUcVMydlp5eEdUQ1FMWU92ckNXWjhzTWt5R3NvNTV0UmFtbkhjTExKRm1hWlNPWThBemtwMExrWm9jcFFac2VHZVpmMmFYRGx1dWc?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782171064,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782140997,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "US-Iran negotiations have led to a subdued start on Wall Street as investors weigh the potential implications of a possible deal. The news has created uncertainty in the market, with investors waiting for clarity on the outcome. The US-Iran conflict has had a significant impact on global oil prices and the energy sector, which could be affected by any developments in the negotiations. The market is also watching for any signs of a potential escalation in tensions, which could impact investor sentiment.",
-      "impact": "The potential impact on the market is uncertain, but a successful US-Iran deal could lead to increased investor confidence and a boost to the energy sector. This could be positive for companies such as ExxonMobil and Chevron, which have significant operations in the Middle East. However, a failure to reach a deal could lead to increased tensions and a decline in investor sentiment, potentially impacting the broader market. In the short-term, the market may experience volatility as investors wait for clarity on the outcome of the negotiations.",
-      "risks": [
-        "escalation of US-Iran tensions",
-        "impact on energy sector",
-        "market volatility"
-      ]
-    }
-  },
-  {
-    "id": "8109607",
-    "headline": "Ro Khanna challenges Elon Musk to televised debate after online DOGE battle",
-    "summary": "Rep. Ro Khanna, D-Calif., has been a critic of the Elon-Musk-led Department of Government Efficiency cuts.",
-    "url": "https://www.cnbc.com/2026/06/22/ro-khanna-challenges-elon-musk-to-televised-debate-after-doge-battle.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108311222-1779461401333-gettyimages-2273757699-wmr57254_tvvzfawl.jpeg?v=1779461434&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1782170542,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782178510,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Rep. Ro Khanna has challenged Elon Musk to a televised debate over the impact of DOGE's cuts to the U.S. Agency for International Development (USAID), which Khanna claims led to potential deaths of 4.5 million children. Musk has responded with aggressive language, accusing Khanna of being a 'liar' and suggesting he should be sued or jailed. This online spat is a continuation of Khanna's criticism of DOGE and Musk's leadership. The challenge comes as the Democratic Party pushes for new taxes on the wealthy and railing against billionaires.",
-      "impact": "The debate challenge is unlikely to have a direct impact on the stock prices of companies directly related to DOGE or USAID. However, the ongoing controversy may affect the public perception of Musk and DOGE, potentially influencing the sentiment towards the company and its leadership. This could lead to a short-term increase in volatility in the stock price of Tesla, which is closely tied to Musk's reputation and leadership. In the medium term, the debate may also influence the public discourse on wealth taxes and the role of billionaires in society, which could have implications for the broader market and the companies that benefit from government policies.",
-      "risks": [
-        "Reputation risk: the ongoing controversy may damage Musk's reputation and the reputation of DOGE, potentially affecting investor sentiment and the stock price.",
-        "Regulatory risk: the debate may lead to increased scrutiny of DOGE's actions and policies, potentially resulting in new regulations or investigations.",
-        "Sentiment risk: the controversy may influence public perception of Musk and DOGE, potentially leading to a shift in investor sentiment and market trends."
       ]
     }
   }
