@@ -1,5 +1,28 @@
 [
   {
+    "id": "8230728",
+    "headline": "FAA lets Boeing sign off on 737 Max, 787 airworthiness certificates again",
+    "summary": "The move is a vote of confidence in Boeing from the U.S. government.",
+    "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108250215-1767906239901-gettyimages-2249102626-BOEING_737_MAX.jpeg?v=1768321273&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1784310914,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784313747,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The FAA has reinstated Boeing's authority to issue airworthiness certificates for the 737 Max and 787 Dreamliners, citing comparable production quality findings. This decision marks a vote of confidence in Boeing from the US government after years of safety crises. The move suggests that Boeing has made significant improvements in its production processes and quality control. This development is a positive signal for the company's ability to regain trust with regulators and customers.",
+      "impact": "The reinstatement of Boeing's authority to issue airworthiness certificates is likely to boost investor sentiment and confidence in the company's ability to deliver safe and reliable products. This could lead to a short-term increase in the stock price as investors reassess the company's prospects. In the medium term, this development could also lead to improved earnings outlook and valuation multiple expansion as Boeing's reputation and trust with customers and regulators improve.",
+      "risks": [
+        "Regulatory scrutiny and potential future setbacks",
+        "Risk of further production quality issues",
+        "Uncertainty around the pace of industry recovery"
+      ]
+    }
+  },
+  {
     "id": "8230624",
     "headline": "Meta's latest move in the AI talent war — plus Cramer's 4 quick hits on the market",
     "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
@@ -369,29 +392,6 @@
     }
   },
   {
-    "id": "8227860",
-    "headline": "Qatar says Iranian missile attack thwarted, child injured - Reuters",
-    "summary": "Qatar says Iranian missile attack thwarted, child injured  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSHZqQ2FSa1E2ZG9XdzN0QklxdDlUN0hBLWd0aTVJRUV5YUxlcTVEU1BKbGtRZDhOWjVDeWVFdFo5b1JpdlhUekJIT2FWZjhORlB3REFJUXN0a2s1N2tSejg3QW1SYlE4MHp4WUlXZmMxaHVJM2hoNVJJRkpmejFycWlsOW1JQ2hOYUxMUXpOc1hMX2FJQ1lOSTkyb3l5cHhOcktzaHZNTnJHRm14cXRhVlJB?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784256028,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784272084,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "Qatar has thwarted an Iranian missile attack, resulting in a child being injured. The incident highlights the escalating tensions between Qatar and Iran. This development may have implications for regional stability and security, potentially affecting the business environment in the Middle East. The news may also impact the global oil market, as Qatar is a significant oil producer. The situation remains uncertain, with the potential for further escalation.",
-      "impact": "The news may lead to a short-term increase in oil prices, negatively impacting oil-related stocks. In the medium term, the escalating tensions could lead to a decrease in investor confidence, potentially affecting the valuation of companies operating in the region. The impact on the global economy is uncertain, but it may lead to a decrease in economic activity in the region, affecting companies with exposure to the Middle East market.",
-      "risks": [
-        "Escalating tensions between Qatar and Iran",
-        "Potential increase in oil prices",
-        "Decrease in investor confidence"
-      ]
-    }
-  },
-  {
     "id": "8227758",
     "headline": "US military says it completed latest strikes on Iran, marking 6th consecutive night of attacks - Reuters",
     "summary": "US military says it completed latest strikes on Iran, marking 6th consecutive night of attacks  Reuters",
@@ -415,6 +415,29 @@
     }
   },
   {
+    "id": "8227860",
+    "headline": "Qatar says Iranian missile attack thwarted, child injured - Reuters",
+    "summary": "Qatar says Iranian missile attack thwarted, child injured  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSHZqQ2FSa1E2ZG9XdzN0QklxdDlUN0hBLWd0aTVJRUV5YUxlcTVEU1BKbGtRZDhOWjVDeWVFdFo5b1JpdlhUekJIT2FWZjhORlB3REFJUXN0a2s1N2tSejg3QW1SYlE4MHp4WUlXZmMxaHVJM2hoNVJJRkpmejFycWlsOW1JQ2hOYUxMUXpOc1hMX2FJQ1lOSTkyb3l5cHhOcktzaHZNTnJHRm14cXRhVlJB?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784252580,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784272084,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Qatar has thwarted an Iranian missile attack, resulting in a child being injured. The incident highlights the escalating tensions between Qatar and Iran. This development may have implications for regional stability and security, potentially affecting the business environment in the Middle East. The news may also impact the global oil market, as Qatar is a significant oil producer. The situation remains uncertain, with the potential for further escalation.",
+      "impact": "The news may lead to a short-term increase in oil prices, negatively impacting oil-related stocks. In the medium term, the escalating tensions could lead to a decrease in investor confidence, potentially affecting the valuation of companies operating in the region. The impact on the global economy is uncertain, but it may lead to a decrease in economic activity in the region, affecting companies with exposure to the Middle East market.",
+      "risks": [
+        "Escalating tensions between Qatar and Iran",
+        "Potential increase in oil prices",
+        "Decrease in investor confidence"
+      ]
+    }
+  },
+  {
     "id": "8227350",
     "headline": "Oil heads for weekly gain on renewed US-Iran hostilities and threat of Red Sea closure - Reuters",
     "summary": "Oil heads for weekly gain on renewed US-Iran hostilities and threat of Red Sea closure  Reuters",
@@ -434,29 +457,6 @@
         "Escalation of conflict risk",
         "Supply chain disruption risk",
         "Geopolitical risk"
-      ]
-    }
-  },
-  {
-    "id": "8218022",
-    "headline": "US launches multiple strikes on Iran, which retaliates against US targets in region - Reuters",
-    "summary": "US launches multiple strikes on Iran, which retaliates against US targets in region  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUFEyN1NxTHNCaG5RT2lOTWY4WWxWd1JQUGpLdV8wY3J0RVp3RmZaN21hcm9YX1A1TWdYc3RMU3BKNV9rd0tqdnM4SEpmamFRLXJIU1NvdnhUYlo5WDFnb2dPY2JfZU5HXzBMR184ei1kSS1zeUthWmltb1VzZWhOR0lCX2FlR0NXSGUxY0gxbVJTVkw2RFo5NnZSVXFhcGYxOUhOS1BJU2gza3VYY3VHT2JEWVV2VHdCdDdmeTRyOElucVF4Mk9r?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784251326,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784098892,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Iran has threatened to block more vital seaways in response to a renewed US blockade, escalating tensions in the region. The move could disrupt global oil supplies, particularly for countries that rely heavily on Middle Eastern oil. The US has imposed sanctions on Iran, and the country has responded by increasing its military presence in the region. This has led to a heightened sense of uncertainty and instability in the global energy market.",
-      "impact": "The renewed tensions between the US and Iran are likely to have a negative impact on oil prices, which could lead to a decline in the earnings of oil-related companies. This could result in a decrease in stock prices for companies such as ExxonMobil (XOM) and Chevron (CVX). The increased uncertainty and instability in the region may also lead to a decrease in investor sentiment, making it more challenging for companies to raise capital and execute their business plans.",
-      "risks": [
-        "Oil price volatility risk",
-        "Global economic slowdown risk due to higher oil prices",
-        "Decreased investor sentiment risk"
       ]
     }
   },
@@ -688,6 +688,29 @@
         "AI spending outpacing profitability",
         "Market sentiment shift towards value stocks",
         "Potential for AI adoption slowdown"
+      ]
+    }
+  },
+  {
+    "id": "8223441",
+    "headline": "US launches new wave of strikes against Iran, military says - Reuters",
+    "summary": "US launches new wave of strikes against Iran, military says  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcm1DZ002b2p4eXVXWGJheThfVE05elZjcGw2MUZ0WWNPZ0JudzZ3dkRXTlF1elByVnpiSy15V1JvOUhuTEVVcXBOVlRCTzZWbUJfdVhWRXE1dUs1MVN0UC1PemhmUEhOQWVMcVpJUXgyLUJCNEYta3FhNFBEN1RxeWczV2VHRV8yd24tbWE1cW1vQU45cmJ6Nzg0b3ctc0xuWFBzU1oxTlBlM2l1cE5oTHFXa2ZobXhzRUppUTFDblB3aE1vVDFzUUlCU3MxQQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784226473,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784195554,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The US military has conducted a series of strikes on Iran, including targets in the port city of Bandar Abbas. This development escalates tensions between the US and Iran, which could lead to a destabilization of the region. The strikes may have been in response to Iran's alleged attacks on US interests in the Middle East. The situation is fluid and unpredictable, with potential implications for global oil markets and regional security. The US military's actions may also lead to a strengthening of the US dollar, potentially benefiting US-based companies with significant dollar-denominated debt.",
+      "impact": "The strikes on Iran are likely to have a negative impact on the global oil market, potentially leading to higher oil prices and increased costs for energy companies. This could negatively affect the earnings of companies with significant exposure to the oil industry, such as ExxonMobil (XOM) and Chevron (CVX). The situation may also lead to increased volatility in the stock market, potentially affecting investor sentiment and liquidity. In the short term, investors may be cautious and reduce their exposure to stocks with high oil price sensitivity.",
+      "risks": [
+        "Oil price volatility risk",
+        "Regional conflict risk",
+        "Global economic instability risk"
       ]
     }
   },
@@ -1353,29 +1376,6 @@
         "Escalation of conflict risk",
         "Oil price volatility risk",
         "Global economic slowdown risk"
-      ]
-    }
-  },
-  {
-    "id": "8223441",
-    "headline": "US launches new wave of strikes against Iran, military says - Reuters",
-    "summary": "US launches new wave of strikes against Iran, military says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcm1DZ002b2p4eXVXWGJheThfVE05elZjcGw2MUZ0WWNPZ0JudzZ3dkRXTlF1elByVnpiSy15V1JvOUhuTEVVcXBOVlRCTzZWbUJfdVhWRXE1dUs1MVN0UC1PemhmUEhOQWVMcVpJUXgyLUJCNEYta3FhNFBEN1RxeWczV2VHRV8yd24tbWE1cW1vQU45cmJ6Nzg0b3ctc0xuWFBzU1oxTlBlM2l1cE5oTHFXa2ZobXhzRUppUTFDblB3aE1vVDFzUUlCU3MxQQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784168280,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784195554,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The US military has conducted a series of strikes on Iran, including targets in the port city of Bandar Abbas. This development escalates tensions between the US and Iran, which could lead to a destabilization of the region. The strikes may have been in response to Iran's alleged attacks on US interests in the Middle East. The situation is fluid and unpredictable, with potential implications for global oil markets and regional security. The US military's actions may also lead to a strengthening of the US dollar, potentially benefiting US-based companies with significant dollar-denominated debt.",
-      "impact": "The strikes on Iran are likely to have a negative impact on the global oil market, potentially leading to higher oil prices and increased costs for energy companies. This could negatively affect the earnings of companies with significant exposure to the oil industry, such as ExxonMobil (XOM) and Chevron (CVX). The situation may also lead to increased volatility in the stock market, potentially affecting investor sentiment and liquidity. In the short term, investors may be cautious and reduce their exposure to stocks with high oil price sensitivity.",
-      "risks": [
-        "Oil price volatility risk",
-        "Regional conflict risk",
-        "Global economic instability risk"
       ]
     }
   },
@@ -2080,6 +2080,29 @@
         "investor sentiment risk",
         "macroeconomic risk",
         "event risk"
+      ]
+    }
+  },
+  {
+    "id": "8218022",
+    "headline": "US launches multiple strikes on Iran, which retaliates against US targets in region - Reuters",
+    "summary": "US launches multiple strikes on Iran, which retaliates against US targets in region  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUFEyN1NxTHNCaG5RT2lOTWY4WWxWd1JQUGpLdV8wY3J0RVp3RmZaN21hcm9YX1A1TWdYc3RMU3BKNV9rd0tqdnM4SEpmamFRLXJIU1NvdnhUYlo5WDFnb2dPY2JfZU5HXzBMR184ei1kSS1zeUthWmltb1VzZWhOR0lCX2FlR0NXSGUxY0gxbVJTVkw2RFo5NnZSVXFhcGYxOUhOS1BJU2gza3VYY3VHT2JEWVV2VHdCdDdmeTRyOElucVF4Mk9r?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784091420,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784098892,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Iran has threatened to block more vital seaways in response to a renewed US blockade, escalating tensions in the region. The move could disrupt global oil supplies, particularly for countries that rely heavily on Middle Eastern oil. The US has imposed sanctions on Iran, and the country has responded by increasing its military presence in the region. This has led to a heightened sense of uncertainty and instability in the global energy market.",
+      "impact": "The renewed tensions between the US and Iran are likely to have a negative impact on oil prices, which could lead to a decline in the earnings of oil-related companies. This could result in a decrease in stock prices for companies such as ExxonMobil (XOM) and Chevron (CVX). The increased uncertainty and instability in the region may also lead to a decrease in investor sentiment, making it more challenging for companies to raise capital and execute their business plans.",
+      "risks": [
+        "Oil price volatility risk",
+        "Global economic slowdown risk due to higher oil prices",
+        "Decreased investor sentiment risk"
       ]
     }
   },
@@ -22717,29 +22740,6 @@
         "Election outcome uncertainty risk",
         "Market volatility risk",
         "Sector-specific economic downturn risk"
-      ]
-    }
-  },
-  {
-    "id": "8112791",
-    "headline": "Russia, Iran lead surge in gas flaring, dimming global hopes to end the practice - Reuters",
-    "summary": "Russia, Iran lead surge in gas flaring, dimming global hopes to end the practice  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWnljSmJxalJpSkViWlVJempwT3V4b1N3N0MwdC1MWU1ieDNjcFBxVFZrZmNORWZhNnpTeF9sTTFGMFNYekpFUkpIV09yYlRnQ21La2ZBV1hGcUh4RlFpUlhQc3paN1hXOE5ORkh6T3NEcElUQkotMVp6ZU42ZkotWlZLMWdrTmhJTnEwczM0QWc5SktsUURSbkNoUHl4bHJtTG9sRkFTbFpSZ21pYWtzLUJjby02S1JWODI4Rw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782208626,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782234528,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Russia and Iran are leading a surge in gas flaring, a practice that involves burning off excess natural gas, which is a significant contributor to greenhouse gas emissions. The increase in gas flaring is a setback for global efforts to reduce emissions and transition to cleaner energy sources. The practice is often associated with oil production and is seen as a sign of inefficiency in the energy sector. The surge in gas flaring is driven by increased oil production in Russia and Iran, which are among the world's largest oil producers. This trend is likely to have implications for the energy sector and the broader market.",
-      "impact": "The surge in gas flaring is likely to have a negative impact on the energy sector, particularly for companies involved in the production and extraction of oil and gas. The increased emissions from gas flaring may lead to increased regulatory scrutiny and potential penalties, which could negatively impact earnings outlook for companies in the sector. The trend may also lead to a decline in investor sentiment towards the energy sector, potentially affecting stock prices and liquidity. In the medium term, the increased focus on energy efficiency and sustainability may lead to a shift towards cleaner energy sources, potentially benefiting companies involved in renewable energy and energy efficiency solutions.",
-      "risks": [
-        "Regulatory risk: Increased scrutiny and potential penalties for companies involved in gas flaring",
-        "Earnings risk: Negative impact on earnings outlook due to increased costs and potential penalties",
-        "Sentiment risk: Decline in investor sentiment towards the energy sector"
       ]
     }
   }
