@@ -347,6 +347,30 @@
     }
   },
   {
+    "id": "8233462",
+    "headline": "Manipal Hospitals said to cut valuation to $8.3 billion in IPO",
+    "summary": "The Temasek Holdings-backed company is planning to raise as much as ₹11,000 crore through a share sale that’s likely to be launched in the week starting July 27",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-17/manipal-hospitals-said-to-cut-valuation-to-8-3-billion-in-ipo",
+    "source": "Bloomberg",
+    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+    "relatedSymbols": [],
+    "publishedAt": 1784275383,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784363297,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Manipal Hospitals, backed by Temasek Holdings, is planning to raise up to ₹11,000 crore through an initial public offering (IPO) with a reduced valuation of $8.3 billion. The IPO is expected to be launched in the week starting July 27. This development suggests that the company is taking a cautious approach to its valuation, potentially due to market conditions or investor sentiment. The IPO will provide an opportunity for investors to participate in the company's growth story, but the reduced valuation may indicate a more conservative outlook.",
+      "impact": "The reduced valuation of Manipal Hospitals may lead to a short-term impact on the stock price, potentially resulting in a lower-than-expected IPO price. In the medium term, this could affect the company's earnings outlook, as a lower valuation may limit its ability to raise funds for growth initiatives. The IPO's success will also depend on investor sentiment and market conditions, which may be influenced by the reduced valuation.",
+      "risks": [
+        "valuation risk",
+        "earnings outlook risk",
+        "investor sentiment risk",
+        "market conditions risk"
+      ]
+    }
+  },
+  {
     "id": "8229022",
     "headline": "Strait of Hormuz transits drop as US and Iran escalate attacks across Gulf - Reuters",
     "summary": "Strait of Hormuz transits drop as US and Iran escalate attacks across Gulf  Reuters",
@@ -723,7 +747,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1784250960
+    "publishedAt": 1784250960,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784363346,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Global stock markets are experiencing a downturn due to a semiconductor industry rout, which is causing concerns about the overall health of the tech sector. The semiconductor industry is a critical component of the global economy, and its decline is affecting various sectors, including technology and manufacturing. The Middle East escalation is also contributing to the rise in oil prices, which may further exacerbate the economic uncertainty. The combination of these factors is leading to a decline in investor confidence and a sell-off in the markets. The semiconductor industry's decline is particularly concerning, as it is a key driver of innovation and growth in the tech sector.",
+      "impact": "The semiconductor industry's decline may lead to a short-term decrease in earnings for companies that rely heavily on semiconductor sales, such as technology hardware manufacturers. In the medium term, the industry's decline may also impact the overall growth prospects of these companies, leading to a decrease in their stock prices. The rise in oil prices due to the Middle East escalation may also lead to increased costs for companies that rely on oil, further exacerbating the economic uncertainty. This may lead to a decrease in investor sentiment and a further sell-off in the markets.",
+      "risks": [
+        "Semiconductor industry decline risk",
+        "Economic uncertainty risk",
+        "Increased costs risk due to oil price rise"
+      ]
+    }
   },
   {
     "id": "8228484",
@@ -1458,29 +1495,6 @@
     }
   },
   {
-    "id": "8224423",
-    "headline": "China’s oil fortress will reshape the global order - Reuters",
-    "summary": "China’s oil fortress will reshape the global order  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYlNEU0xzdGZaZ3lmRjRlZEFUaUJ0QnQxdEMxT25VYTdxS180T25XN3NhdlB2Tm50V1lqVzEtaGVOWFRJb3ZqeHd1LUNpZHkzdHpYUmRfZ0Z1YUxoTjBTaDFvSzhpVXYwUjB5dmYtUWExZG9sQnJsbmowY2dHeWlMcDlvX0NQN3pTRExIQkNuMjVrYWs3eDhmbnA2WmJPLU5HcUZMVXVKNFVFa1EyR1ROTTZaRUM?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784193402,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784207402,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "China's oil fortress, a massive infrastructure project aimed at securing its energy supply, is set to reshape the global oil market. The project involves the construction of a 1,100-kilometer pipeline to transport oil from the Middle East to China, reducing reliance on the Strait of Malacca, a chokepoint vulnerable to disruption. This move is expected to increase China's oil security and reduce its dependence on foreign suppliers. The project is a strategic initiative to ensure China's energy independence and is a key component of its Belt and Road Initiative. The project's completion will likely have a significant impact on the global oil market, with potential implications for oil prices and trade routes.",
-      "impact": "The completion of China's oil fortress is likely to have a positive impact on the oil majors operating in the region, such as CNOOC and Sinopec, as they will benefit from increased demand for their services. The project may also lead to increased oil prices in the short term due to reduced supply, benefiting oil producers. However, the medium-term impact on oil prices is uncertain and may be mitigated by increased competition from alternative energy sources. The project's completion may also lead to increased trade tensions with countries that rely on the Strait of Malacca, such as Indonesia and Malaysia.",
-      "risks": [
-        "Increased competition from alternative energy sources",
-        "Trade tensions with countries that rely on the Strait of Malacca",
-        "Uncertainty around the project's timeline and cost"
-      ]
-    }
-  },
-  {
     "id": "8229670",
     "headline": "Trump hails release of US citizen held in Iran as 'goodwill' gesture - Reuters",
     "summary": "Trump hails release of US citizen held in Iran as 'goodwill' gesture  Reuters",
@@ -1594,6 +1608,29 @@
         "Disrupted supply chain risk",
         "Overcapacity risk",
         "Declining demand risk"
+      ]
+    }
+  },
+  {
+    "id": "8224423",
+    "headline": "China’s oil fortress will reshape the global order - Reuters",
+    "summary": "China’s oil fortress will reshape the global order  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYlNEU0xzdGZaZ3lmRjRlZEFUaUJ0QnQxdEMxT25VYTdxS180T25XN3NhdlB2Tm50V1lqVzEtaGVOWFRJb3ZqeHd1LUNpZHkzdHpYUmRfZ0Z1YUxoTjBTaDFvSzhpVXYwUjB5dmYtUWExZG9sQnJsbmowY2dHeWlMcDlvX0NQN3pTRExIQkNuMjVrYWs3eDhmbnA2WmJPLU5HcUZMVXVKNFVFa1EyR1ROTTZaRUM?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784181600,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784207402,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "China's oil fortress, a massive infrastructure project aimed at securing its energy supply, is set to reshape the global oil market. The project involves the construction of a 1,100-kilometer pipeline to transport oil from the Middle East to China, reducing reliance on the Strait of Malacca, a chokepoint vulnerable to disruption. This move is expected to increase China's oil security and reduce its dependence on foreign suppliers. The project is a strategic initiative to ensure China's energy independence and is a key component of its Belt and Road Initiative. The project's completion will likely have a significant impact on the global oil market, with potential implications for oil prices and trade routes.",
+      "impact": "The completion of China's oil fortress is likely to have a positive impact on the oil majors operating in the region, such as CNOOC and Sinopec, as they will benefit from increased demand for their services. The project may also lead to increased oil prices in the short term due to reduced supply, benefiting oil producers. However, the medium-term impact on oil prices is uncertain and may be mitigated by increased competition from alternative energy sources. The project's completion may also lead to increased trade tensions with countries that rely on the Strait of Malacca, such as Indonesia and Malaysia.",
+      "risks": [
+        "Increased competition from alternative energy sources",
+        "Trade tensions with countries that rely on the Strait of Malacca",
+        "Uncertainty around the project's timeline and cost"
       ]
     }
   },
@@ -22713,29 +22750,6 @@
         "semiconductor industry challenges",
         "artificial intelligence cohort performance",
         "inflationary pressures"
-      ]
-    }
-  },
-  {
-    "id": "8117082",
-    "headline": "Iran says card-based banking hit by cyberattack on three lenders - Reuters",
-    "summary": "Iran says card-based banking hit by cyberattack on three lenders  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRHhTemlqM2FLbkZLRG9tYmpfMVBxREt3dGF3QUNuOE9xLWF5U1A4bXYyVmc1OW1VbmtvZld3d21VNG5wYkRXYzAtRVl5QkN3eDBuc3NDRE54RVpFNUlfRW5lWWYxTWhDRDYtMUtYR1FYYURuclhRZndvMlRlRkl3M0EzYXpjS1c3SVhrcHZaNzdqNjVvUktlUkFKV3d3czRTcWFuZ2VtLWQ0SV9OYUdMMmdMdnpVdw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782229303,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782332718,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "Iran's announcement of a cyberattack on three lenders' card-based banking systems suggests a potential vulnerability in the country's financial infrastructure. This incident may lead to a loss of trust among citizens, impacting the overall banking sector in Iran. The attack could also have a ripple effect on the country's economy, particularly if it disrupts international transactions and trade. The cyberattack is a concern for the Iranian government, which has been struggling to maintain stability in the financial sector.",
-      "impact": "The news is likely to have a negative impact on Iranian banks' stocks in the short term, as investors may reassess the risk of investing in the sector. The medium-term impact could be a decrease in the country's economic growth, as a stable financial system is crucial for attracting foreign investment and stimulating economic activity. The incident may also lead to increased costs for banks to upgrade their security systems, potentially affecting their profitability.",
-      "risks": [
-        "Loss of trust among citizens in the banking system",
-        "Disruption to international transactions and trade",
-        "Increased costs for banks to upgrade security systems"
       ]
     }
   }
