@@ -7,7 +7,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1784522025,
+    "publishedAt": 1784532867,
     "analysis": {
       "version": 2,
       "generatedAt": 1784524981,
@@ -93,23 +93,36 @@
   },
   {
     "id": "8241686",
-    "headline": "Brent oil tops $90 as US, Iran expand strikes in the Middle East - Reuters",
-    "summary": "Brent oil tops $90 as US, Iran expand strikes in the Middle East  Reuters",
+    "headline": "Oil jumps 3% as US, Iran expand strikes in the Middle East - Reuters",
+    "summary": "Oil jumps 3% as US, Iran expand strikes in the Middle East  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbDB0dzIyZzhDNXdvemNBWHdxR3dnWXcwVk4xM082SDRRTm9xel9yX3hJeFBDN1hyQXZpRlVWcElHNi13amFSaXFZLUEtYWpva20xcmFjLWt2TEc0QjFlMDJRMHFPZ3dpb0hZNlBib1ZMNk4xNXdPcmNfUHRpRzNzVDRtdmZlY2MydWVLdS1uVnZXSkdHZjlYelZOZ1M0SXlnVzlBSGFUUU43YlE?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1784506560
+    "publishedAt": 1784506560,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784536151,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The recent escalation of US-Iran tensions in the Middle East has led to a 3% increase in oil prices. The situation has been exacerbated by the expansion of strikes in the region, which has resulted in a surge in oil demand. This development is a positive for oil-producing companies, particularly those with significant operations in the region. The increased demand for oil is expected to boost earnings for these companies, leading to a potential increase in stock prices.",
+      "impact": "The short-term impact of this news is a potential increase in oil prices, which could lead to higher earnings for oil-producing companies. This, in turn, could drive up stock prices, making them more attractive to investors. In the medium term, the increased demand for oil could lead to a re-rating of these companies, as their earnings potential is reevaluated by the market. This could lead to a surge in investor interest and a subsequent increase in stock prices.",
+      "risks": [
+        "geopolitical risk",
+        "supply chain disruption risk",
+        "valuation risk"
+      ]
+    }
   },
   {
     "id": "8242004",
-    "headline": "Dollar firmer as US-Iran conflict intensifies, Brent hits $90 - Reuters",
-    "summary": "Dollar firmer as US-Iran conflict intensifies, Brent hits $90  Reuters",
+    "headline": "Dollar drifts as US-Iran conflict intensifies, Brent hits $90 - Reuters",
+    "summary": "Dollar drifts as US-Iran conflict intensifies, Brent hits $90  Reuters",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQUF3N3hrQll1dVJIZlhUcFFScG1rdm5iTEFqU28yVVZKOVdDN29mZFpTVjhQWE1qdVo1emx6WEk1Z0drMFNLLXp4X0pLSUtDZ1pWdHlPR0Q3b29TVlFnQXpncklqbDBHc3pDQW9SNXdlOFMzU2xKTXhQNnhMS05KaTlDSDl6Sk9DNXBIMnJsMWlydGpFLTBUbzVZbWt3US1sVWE5Y0docnJfMEtQdElvaQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1784504863,
+    "publishedAt": 1784504760,
     "analysis": {
       "version": 2,
       "generatedAt": 1784525144,
@@ -132,7 +145,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1784502960
+    "publishedAt": 1784502960,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784536203,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The Strait of Hormuz, a critical waterway for oil and liquefied natural gas (LNG) exports, is experiencing a decline in tanker traffic, with fewer vessels entering the area to load oil. This trend is reflected in data showing a rise in floating storage levels, indicating that oil producers are storing excess crude on tankers rather than selling it. The Strait of Hormuz is a key chokepoint for global oil exports, and disruptions or reduced capacity can impact global oil supplies. The decrease in tanker traffic and increase in floating storage levels may signal a reduction in oil demand or supply chain disruptions.",
+      "impact": "The news may have a bearish impact on oil-related stocks, particularly those with high exposure to global oil exports. In the short term, the decrease in tanker traffic and rise in floating storage levels may lead to increased inventory levels and downward pressure on oil prices. However, in the medium term, the impact on earnings outlook and valuation of oil-related stocks may be more significant, as reduced demand or supply chain disruptions can lead to lower revenue and profit margins. Oil producers and related companies may see their stock prices decline as investors reevaluate their exposure to the sector.",
+      "risks": [
+        "Reduced demand risk",
+        "Supply chain disruption risk",
+        "Inventory buildup risk"
+      ]
+    }
   },
   {
     "id": "8240667",
@@ -321,7 +347,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1784459023,
+    "publishedAt": 1784458980,
     "analysis": {
       "version": 2,
       "generatedAt": 1784467059,
@@ -713,6 +739,29 @@
         "Inflation risk",
         "US dollar appreciation risk",
         "Investor sentiment risk"
+      ]
+    }
+  },
+  {
+    "id": "8242834",
+    "headline": "Dollar holds steady on safe-haven demand, ends down on the week - Reuters",
+    "summary": "Dollar holds steady on safe-haven demand, ends down on the week  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTzlGV29IaFlLeXlncnYxUzVfZ25nVGhxSjU0aGtZTjRlODMxa2hMWk5zSUVhZzFCMS1vLUhxTE5oTHpZazA1eDdjQ1dkYzUyZHBNeFN3WGtEODlIbHFHNWRuYW54S1Naa0Qyd2hXYV9taWY1aHZJYnhBSk1QT3Q0TWZqd2dRWGZkeEZjRnJHaUlRRUV5Y0pPZ1lVMlF6VFlERXRYWWxZYkNiQ1E?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784320411,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784536251,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The US dollar held steady on safe-haven demand, but ultimately ended the week down due to a decline in risk appetite. The dollar's stability was driven by investors seeking refuge from global economic uncertainty. However, as risk appetite returned, the dollar's value decreased. This movement is a reflection of the ongoing global economic uncertainty and the dollar's role as a safe-haven asset.",
+      "impact": "The dollar's performance may have a neutral impact on US multinational corporations with significant international exposure, as a weaker dollar can make their foreign earnings more valuable. However, a weaker dollar may also lead to higher import costs, potentially impacting their profit margins. In the short-term, the dollar's movement may not significantly affect earnings outlook, but it could impact valuation and sentiment in the medium-term. Liquidity in the currency market may be affected by the dollar's volatility.",
+      "risks": [
+        "Global economic uncertainty risk",
+        "Risk appetite changes risk",
+        "Currency volatility risk"
       ]
     }
   },
@@ -1153,6 +1202,16 @@
         "liquidity risk"
       ]
     }
+  },
+  {
+    "id": "8242625",
+    "headline": "Rupee logs sharpest weekly drop in nine as oil price jump stings - Reuters",
+    "summary": "Rupee logs sharpest weekly drop in nine as oil price jump stings  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUEdYNzMtWHE0TXlHR3pCejZWSDVLR01aQzRIU2tmdXlwaEdpcnNfXzhOSF9VNktRNmM5NW84NE1XeEpYaHVLd1VmWWJnLVNyWDA3RHRJQXQtVkJXQTMwQzVYQU4ySXVuU0xNazNnb3Z4Vmo3b1pIZkZuUzd5aUtVODBMczlEcXN1dFNERjBPclZaeUI0cEFhNDdJWU0zTnZHYzJmNmk0MUY3Z1ZSMkE?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784282829
   },
   {
     "id": "8233663",
@@ -22661,52 +22720,6 @@
       "summary": "Treasury Secretary Scott Bessent predicts a 3% GDP growth for this year, but Kalshi traders disagree, giving only 14.2% odds of 2.6-3.0% growth. This discrepancy suggests a potential disconnect between the government's optimism and market expectations. The consumer price index rose 0.5% from April to May, and the annual inflation rate is 4.2%, which may support Bessent's growth forecast. However, Kalshi traders see little chance of the deficit-to-GDP rate falling below 5% this year, which could indicate skepticism about the government's ability to achieve its goals.",
       "impact": "The news may have a negative impact on the market's overall sentiment and potentially lead to a decrease in stock prices of companies that are sensitive to economic growth, such as those in the industrials and materials sectors. Investors may reassess their earnings outlook and valuation multiples for these companies, leading to a short-term decline in stock prices. Medium-term, if the government's growth forecast is not met, it could lead to a decrease in investor confidence and a subsequent decline in stock prices.",
       "risks": []
-    }
-  },
-  {
-    "id": "8118522",
-    "headline": "US airline stocks rise as oil retreats to pre-Iran war levels - Reuters",
-    "summary": "US airline stocks rise as oil retreats to pre-Iran war levels  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcWlMZ1R5R3kwcFZ5aU1SNnlnYm0wNThQTXFLU2c4U0c2WFNWLVJXZVhJRVp4VTJHaW9OT184bWI5a3ozY3NPeVVSWW9sQlEwQ1pBNWEwYlk4cUhUY1hSVXZOdUJ5U2F1eTRyZEZlYXJRM2JkdUJTUXRacDNYTWNwUXJjOV9JTU9GN0g4NEQ5TlBXR0FNdEZ5ekZBVk5YejJ6cDdTOEFBdzQ5ekk?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782320174,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782325445,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "US airline stocks have risen as oil prices have retreated to pre-Iran war levels, a significant development for the industry. The Iran-US conflict had led to a surge in oil prices, increasing the cost of fuel for airlines, which are heavily reliant on oil. The decrease in oil prices is expected to reduce the operating costs for airlines, thus positively impacting their profitability. This news is a positive development for the airline industry, particularly for US-based carriers.",
-      "impact": "The decrease in oil prices is expected to have a positive impact on the earnings outlook for US airlines in the short term, as lower fuel costs will reduce their operating expenses. This could lead to higher profit margins and potentially drive stock prices higher. In the medium term, the reduced fuel costs will also improve the competitiveness of US airlines, allowing them to offer lower fares and potentially gain market share. The sentiment in the airline sector is likely to remain positive as investors anticipate the benefits of lower oil prices.",
-      "risks": [
-        "macroeconomic downturn risk",
-        "trade war risk",
-        "supply chain disruption risk"
-      ]
-    }
-  },
-  {
-    "id": "8116240",
-    "headline": "Brent settles at lowest since before start of Iran war as more tankers exit Hormuz - Reuters",
-    "summary": "Brent settles at lowest since before start of Iran war as more tankers exit Hormuz  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSjlBc1JxN0hPX3MwaDU1UDMyeEE1SG1tRS1ma1FpSENKVVdpVzY3eUNoeUJvdGtVVDZtRm84UG1jTjBwV0s0RTExRHZCczB3TnBYN05CSlJueGNLSU1zeUstS0U0NTBBa0NhUU00VE0wQWFWU0ZfWGtiT2tfeVBpdWV1NmZ3UlBvTmxwRXU3WlVPNGdDU3VWNXJMOWJfNWM1ZEtyNS1YV3JlY2xEeTZmczZsRmdrd1AzMVhZTEFVdw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782319483,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782290861,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Oil prices have extended their decline due to expectations of smoother crude flows through the Strait of Hormuz. The Strait is a critical waterway for global oil shipments, and any disruptions can impact oil prices. The news suggests that the situation in the region has stabilized, allowing for smoother oil flows. This development is likely to lead to increased supply and downward pressure on oil prices. The Organization of the Petroleum Exporting Countries (OPEC) and other major oil producers have been working to increase oil production to meet growing demand, which has also contributed to the decline in oil prices.",
-      "impact": "The potential impact of this news on oil-related stocks is likely to be negative in the short term. Oil stocks that have benefited from higher oil prices may see their valuations decline as prices fall. In the medium term, the increased supply and downward pressure on oil prices may lead to lower earnings for oil companies, potentially affecting their stock prices. The news may also lead to a decrease in investor sentiment towards oil stocks, making them less attractive to investors.",
-      "risks": [
-        "Decrease in investor sentiment towards oil stocks",
-        "Lower earnings for oil companies due to downward pressure on oil prices",
-        "Potential increase in supply and downward pressure on oil prices"
-      ]
     }
   }
 ]
