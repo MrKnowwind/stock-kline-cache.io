@@ -1,5 +1,107 @@
 [
   {
+    "id": "8244128",
+    "headline": "Jim Cramer's top 10 things to watch in the stock market Monday",
+    "summary": "Semiconductor stocks are higher, and Bristol Myers is buying new Nvidia chips for AI drug discovery.",
+    "url": "https://www.cnbc.com/2026/07/20/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108333414-1783694232032-gettyimages-2284861226-SK_HYNIX_IPO.jpeg?v=1783694251&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1784552035,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784554223,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Semiconductor stocks are performing well, with SK Hynix leading the gains. Bristol Myers Squibb is investing in Nvidia's new AI computing system for drug discovery and development, which could drive growth for Nvidia and other AI-related stocks. This is a positive sign for the tech sector, which has been cooling off in recent times. Meanwhile, companies like Astera Labs and Nvidia are benefiting from growing demand for AI compute technology.",
+      "impact": "The semiconductor sector is expected to benefit from the growing demand for AI compute technology, which could drive growth for stocks like SK Hynix, Nvidia, and Astera Labs. Bristol Myers Squibb's investment in Nvidia's AI computing system could also boost Nvidia's earnings outlook. Additionally, the upgrade of Astera Labs by Barclays and the positive channel checks by Goldman Sachs on Yeti could lead to increased investor interest and higher stock prices for these companies. In the short-term, the positive sentiment in the semiconductor sector could lead to a rally in related stocks.",
+      "risks": [
+        "Regulatory risks associated with the use of Chinese AI models in the US",
+        "Integration risks for Bristol Myers Squibb as it adopts new AI technology",
+        "Short-selling pressure on SpaceX could continue to weigh on its stock price"
+      ]
+    }
+  },
+  {
+    "id": "8244024",
+    "headline": "Yemen's Houthis say they will impose naval blockade against Saudi Arabia - Reuters",
+    "summary": "Yemen's Houthis say they will impose naval blockade against Saudi Arabia  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcUowRTU0M2hEUzRtdXAxY1FENjh0OWdXcEJlb2h4VlpBOVdGM2YzZ1BQSVhLMFQwOXhRN01aQ1poMVd5TTNRUHBZbV9jNWZRaGFaejU2ckpkNW5HUlZSdlJXWU5GNTlFU0NFUU9DYkJ1LXVFNHZBanlSemdrb3M1Vm80azBhNlRmTGRWbjQ2dEtkQVNfbTVNMUVReDIwYXB6aDNjN0pReHQ5S1BBUFl1NUc4Z1VyVHB4MWNnQ09JZw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784550847,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784554273,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "The Houthi rebels in Yemen have announced plans to impose a naval blockade against Saudi Arabia, which could lead to increased tensions in the region and potentially disrupt oil shipments. The background is the ongoing conflict between the Houthis and the Saudi-led coalition in Yemen. The blockade could impact oil prices and the global economy, which in turn could affect the earnings outlook for companies in the energy sector. The impact of the blockade on oil prices is uncertain, but it could lead to higher prices and increased costs for companies that rely on oil imports.",
+      "impact": "The potential impact on stocks related to the energy sector could be significant, with higher oil prices potentially leading to increased costs and reduced profitability. In the short term, oil prices may surge as traders and investors react to the news, potentially benefiting oil producers such as Saudi Aramco. However, in the medium term, the impact on earnings and valuation could be negative if the blockade leads to a sustained increase in oil prices. The blockade could also lead to increased volatility in the oil market, making it difficult for investors to predict future price movements.",
+      "risks": [
+        "Oil price volatility risk",
+        "Disruption to global oil supply risk",
+        "Increased costs for oil-importing companies risk"
+      ]
+    }
+  },
+  {
+    "id": "8243792",
+    "headline": "Why oil prices haven't gone crazy despite 5 months of US-Iran war - Reuters",
+    "summary": "Why oil prices haven't gone crazy despite 5 months of US-Iran war  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRWljTmhtaTVPdmZTRkZFLVFDSkpiYlhTWkZidlprdlZhQW1KOW9aY3daeWkxdm5RaVgxX0k1aVY2N3ZWQk9Hald6X29aeE5jdHFuT0RxWXpCbkJCWkJHaHJqZWVXb09aYmFrWHhKZGNfa2pzeTY5RHJkR0lYUTZQbGZXRm50dXVyQjJBbS1ETVFEOUlVR2lwcGk4dWFJTlpyeFUxeVNRNHdCcEVKdWVXLVRJQQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784549711
+  },
+  {
+    "id": "8243364",
+    "headline": "US pump prices cross $4 again on renewed Middle East fighting - Reuters",
+    "summary": "US pump prices cross $4 again on renewed Middle East fighting  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdXhIclJnQVdaRk83S1liRGJRNEVxbGEwR1RUSEZoN1BsLUV2X3hvelVGNGtESkZNbFoybUhaQmYyRmlzWTNZdzhQVVNrdEhoU2NDdjBNOGpaU0ZsSU51cGtOV0laN280T3Z0T1NtTjdWeUV5UGN1RTQ0dDBLcXNET3lZOVljX1RPUDBGanZkQjY3cDFra01jbk9WeVBsX0RvQWhHbEEtZ1ZqNGtVckE?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784549278,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784547043,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Renewed fighting in the Middle East has led to a surge in US pump prices, with prices crossing the $4 threshold for the second time this year. The increase is attributed to concerns over supply disruptions and potential oil price hikes. The Middle East is a significant oil-producing region, and any instability in the area can impact global oil supplies. This, in turn, can lead to higher oil prices, which can negatively affect companies in the energy sector. The news is a reminder of the ongoing geopolitical risks that can impact the energy market.",
+      "impact": "The renewed fighting in the Middle East is likely to have a bearish impact on energy-related stocks, particularly those with high exposure to oil prices. Companies such as ExxonMobil (XOM) and Chevron (CVX) may see their earnings outlook come under pressure as higher oil prices reduce their profitability. In the short term, we expect a decline in these stocks as investors react to the news. In the medium term, the impact will depend on the duration and intensity of the conflict, as well as the effectiveness of OPEC's efforts to stabilize oil prices.",
+      "risks": [
+        "Geopolitical risk",
+        "Oil price volatility risk",
+        "Earnings outlook risk"
+      ]
+    }
+  },
+  {
+    "id": "8243903",
+    "headline": "Mediators propose 10-day ceasefire to revive Iran-U.S. interim deal, senior Iranian official tells Reuters - Reuters",
+    "summary": "Mediators propose 10-day ceasefire to revive Iran-U.S. interim deal, senior Iranian official tells Reuters  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSE4zQ25lM2VIMGM1RkYteUt5YW1tMXNWanVyRV9jX1NzUHlFU213Ry1BaTVzZ0xoc2ZzZ01IVmR2eW1BWTNMT04tci1Ual9WeDN6b1VJbjNKeFBHUlFVZi1zOEZNZ3NfckhfMkRSSjJuSU5KOGxpUG54WFdPT19YNUxCTzlrSVlXWmZZTmNZTHBpSEtVd0Zya2VqOUZpbjFMUlFiU1FJdl9MN0V0VWd0d1JnYkhhUnRoLWdFZ0ZpNDhmSW5yeVVlXy04NA?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784548094,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784554339,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "Mediators have proposed a 10-day ceasefire to revive the Iran-U.S. interim deal. This development comes as a response to the recent escalation of tensions between the two nations. The ceasefire proposal aims to create a window for negotiations to resume. The Iran-U.S. relationship has been strained due to disagreements over the nuclear deal, with the U.S. withdrawing from the agreement in 2018. The proposed ceasefire is a step towards de-escalation, but its success is uncertain. The outcome of these negotiations will have significant implications for global oil markets and the energy sector.",
+      "impact": "The proposed ceasefire could have a positive impact on oil prices, potentially leading to a short-term increase in crude oil prices as tensions ease. However, the medium-term effect on the energy sector remains uncertain, as the outcome of the negotiations is far from clear. If the ceasefire holds, it could lead to increased investor confidence in the region, potentially benefiting companies with operations in the Middle East, such as oil and gas producers. Conversely, a breakdown in negotiations could lead to increased tensions and a rise in oil prices, benefiting energy companies.",
+      "risks": [
+        "uncertainty around the outcome of the negotiations",
+        "potential for increased tensions and oil price volatility",
+        "impact on investor confidence in the region"
+      ]
+    }
+  },
+  {
     "id": "8241800",
     "headline": "Spain beat Argentina to win World Cup - Reuters",
     "summary": "Spain beat Argentina to win World Cup  Reuters",
@@ -7,7 +109,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1784543598,
+    "publishedAt": 1784547496,
     "analysis": {
       "version": 2,
       "generatedAt": 1784524981,
@@ -19,6 +121,29 @@
         "Limited duration of the positive effect on consumer spending",
         "Potential for increased competition from other countries in the tourism and retail sectors",
         "Uncertainty around the long-term impact on the global economy"
+      ]
+    }
+  },
+  {
+    "id": "8243904",
+    "headline": "Hamas names Khalil Al-Hayya as new leader, statement says - Reuters",
+    "summary": "Hamas names Khalil Al-Hayya as new leader, statement says  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOHJqTDlBbG5vM09JMm5YLUVPLW5CbHFpbDhWREhJQk41NW1iMWhxMURadktJVklMWEMxVld1WmhzUDlNQkoxQmVQTHdibnhkbTVzODNhb3BCNkV3Y3NCSTZtZ0pOOV9nV2J1Nnl4ajFqOHhiZ2pJY3JqbUdhU0dJdWRZWklaRkV5U3FKa1EySU5jbUxDa0gyM0VsNkZ5Sk5QZ2dHR0VGRjhNc0E?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784547122,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784554389,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Hamas has named Khalil Al-Hayya as its new leader, according to a statement. Al-Hayya has been a senior member of the group for many years and has played a key role in its military wing. The move comes after the death of the previous leader, Ismail Haniyeh. The change in leadership is unlikely to have a direct impact on the Israeli-Palestinian conflict, which is a major driver of regional instability. The conflict has a significant impact on the Israeli economy, particularly the defense and security sectors.",
+      "impact": "The change in leadership is unlikely to have a direct impact on the Israeli economy in the short term. However, it may lead to increased tensions in the region, which could negatively impact the Israeli defense and security sectors in the medium term. This could lead to increased spending on defense, which could be positive for companies such as Elbit Systems and Israel Aerospace Industries. However, the impact on these companies will depend on the specific policies of the new leader and the response of the Israeli government.",
+      "risks": [
+        "Increased regional instability and conflict",
+        "Potential for increased defense spending",
+        "Uncertainty around the new leader's policies and their impact on the region"
       ]
     }
   },
@@ -69,29 +194,6 @@
     }
   },
   {
-    "id": "8243364",
-    "headline": "US pump prices cross $4 again on renewed fighting in the Middle East - Reuters",
-    "summary": "US pump prices cross $4 again on renewed fighting in the Middle East  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdXhIclJnQVdaRk83S1liRGJRNEVxbGEwR1RUSEZoN1BsLUV2X3hvelVGNGtESkZNbFoybUhaQmYyRmlzWTNZdzhQVVNrdEhoU2NDdjBNOGpaU0ZsSU51cGtOV0laN280T3Z0T1NtTjdWeUV5UGN1RTQ0dDBLcXNET3lZOVljX1RPUDBGanZkQjY3cDFra01jbk9WeVBsX0RvQWhHbEEtZ1ZqNGtVckE?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784535489,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784547043,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Renewed fighting in the Middle East has led to a surge in US pump prices, with prices crossing the $4 threshold for the second time this year. The increase is attributed to concerns over supply disruptions and potential oil price hikes. The Middle East is a significant oil-producing region, and any instability in the area can impact global oil supplies. This, in turn, can lead to higher oil prices, which can negatively affect companies in the energy sector. The news is a reminder of the ongoing geopolitical risks that can impact the energy market.",
-      "impact": "The renewed fighting in the Middle East is likely to have a bearish impact on energy-related stocks, particularly those with high exposure to oil prices. Companies such as ExxonMobil (XOM) and Chevron (CVX) may see their earnings outlook come under pressure as higher oil prices reduce their profitability. In the short term, we expect a decline in these stocks as investors react to the news. In the medium term, the impact will depend on the duration and intensity of the conflict, as well as the effectiveness of OPEC's efforts to stabilize oil prices.",
-      "risks": [
-        "Geopolitical risk",
-        "Oil price volatility risk",
-        "Earnings outlook risk"
-      ]
-    }
-  },
-  {
     "id": "8243256",
     "headline": "Iranian Sunni cleric killed by unknown gunmen in country's southeast, state media - Reuters",
     "summary": "Iranian Sunni cleric killed by unknown gunmen in country's southeast, state media  Reuters",
@@ -134,6 +236,16 @@
     }
   },
   {
+    "id": "8243793",
+    "headline": "South African rand steady as investors await central bank guidance - Reuters",
+    "summary": "South African rand steady as investors await central bank guidance  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNlRHa0RlaDJUU0F4eG5Hb3V6T3BUOThRLVJkeUsxek5BUzJFRDVPWHFzMGxIMjRrdEhQUVJTaEV3OWlwWnlnREUxUEV4cVVKYXhQVFNuTnlZOWFya1RINDdxX3Buc2RWUkN2LUdia0I5LVF5THZYWmZyRHZZOVlDY3BkOUFGUExhb1B0ZUQxdXpqN0p3N1A4SHZwUXVqWGFMeTVmd21QdndPdzV4Q1hUVEFR?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784531623
+  },
+  {
     "id": "8243470",
     "headline": "Forget crude. War pushes refiners to the brink - Reuters",
     "summary": "Forget crude. War pushes refiners to the brink  Reuters",
@@ -145,13 +257,23 @@
   },
   {
     "id": "8243257",
-    "headline": "Ryanair profits slump by a third on fuel cost spike, lower fares - Reuters",
-    "summary": "Ryanair profits slump by a third on fuel cost spike, lower fares  Reuters",
+    "headline": "Ryanair profits slump as Iran war dampens fares, hikes fuel costs - Reuters",
+    "summary": "Ryanair profits slump as Iran war dampens fares, hikes fuel costs  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON2ZFNEtHOEljcTJIRU92dnl3amtEbTR2WERmcHNOYi1RbW9scFh3MzU5Q0NiU0xQZEJDSy11ZVpVNlFESm9DdWkyY29YeFVYSnVoY1JyZG8wTF9zRkFkTGc0ZnFEWG1rSGJWUVV3ZzZQNmJJd2tvdGRBclRKdi0xQ2pudnBwbkNWM1I0X0llRF9iRk81MXppcGpPYzRWckhIcERkN3RqX0xHUGxKQmMtWFhTTVJOZmJUeVE?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
     "publishedAt": 1784523660
+  },
+  {
+    "id": "8243682",
+    "headline": "Rupee hits two-month low, oil prices remain focal point - Reuters",
+    "summary": "Rupee hits two-month low, oil prices remain focal point  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdE9hclRrbmlMZEJLT3FfQWFhRi12VTVIdmM3N2sxcVBKTmVFd0N2NjhZazM1MXdleTlNNVpXampnWWZLNk9KakxlQ1JFcXhkLTJQVkdjdzQ0TnN4aU9QOUFVeXo3RThCWjFuNDFsVDRrZjRtcDdYVGVpR0d6a0tVT0s2ZndxNlJIcTQ5WFBVck9mckZs?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784515800
   },
   {
     "id": "8241904",
@@ -234,8 +356,8 @@
   },
   {
     "id": "8241686",
-    "headline": "Oil reverses as Iranian comments interpreted as chance for fresh negotiations - Reuters",
-    "summary": "Oil reverses as Iranian comments interpreted as chance for fresh negotiations  Reuters",
+    "headline": "Oil steadies as hopes of renewed US-Iran negotiations offset Houthi threat - Reuters",
+    "summary": "Oil steadies as hopes of renewed US-Iran negotiations offset Houthi threat  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbDB0dzIyZzhDNXdvemNBWHdxR3dnWXcwVk4xM082SDRRTm9xel9yX3hJeFBDN1hyQXZpRlVWcElHNi13amFSaXFZLUEtYWpva20xcmFjLWt2TEc0QjFlMDJRMHFPZ3dpb0hZNlBib1ZMNk4xNXdPcmNfUHRpRzNzVDRtdmZlY2MydWVLdS1uVnZXSkdHZjlYelZOZ1M0SXlnVzlBSGFUUU43YlE?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -257,8 +379,8 @@
   },
   {
     "id": "8242004",
-    "headline": "Dollar drifts as US-Iran conflict intensifies; sterling edges higher - Reuters",
-    "summary": "Dollar drifts as US-Iran conflict intensifies; sterling edges higher  Reuters",
+    "headline": "Dollar drifts as US-Iran conflict intensifies; sterling inches higher - Reuters",
+    "summary": "Dollar drifts as US-Iran conflict intensifies; sterling inches higher  Reuters",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQUF3N3hrQll1dVJIZlhUcFFScG1rdm5iTEFqU28yVVZKOVdDN29mZFpTVjhQWE1qdVo1emx6WEk1Z0drMFNLLXp4X0pLSUtDZ1pWdHlPR0Q3b29TVlFnQXpncklqbDBHc3pDQW9SNXdlOFMzU2xKTXhQNnhMS05KaTlDSDl6Sk9DNXBIMnJsMWlydGpFLTBUbzVZbWt3US1sVWE5Y0docnJfMEtQdElvaQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -393,6 +515,29 @@
     }
   },
   {
+    "id": "8238714",
+    "headline": "Lebanon's Aoun to meet Trump at White House, hoping to generate pressure on Israel - Reuters",
+    "summary": "Lebanon's Aoun to meet Trump at White House, hoping to generate pressure on Israel  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOU4yVVlYeXdhdDFTY0pNZUZjSzRvWE1mWi1NcF9MVUI5Y3N3aTRrRzU2RnpCc2tzVV9LS21EQ1RPdUFDN0VnVURKZ0V5RTFScVUtTElSUlp3VU1xZE45UWY3ZmV6cnFmeEVFSE4yMEZ5UVFmVEFwczBtRzdoS3dyUGszV2V3anJEOTBOQ3l0bS16aU0zeU8tYUdwSzRBenlEZmVVT2oxNjZCU21mbkRzN1JIakN4UnoxRlpJWjVCNA?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784463751,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784462399,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Lebanese President Michel Aoun is set to meet with US President Donald Trump at the White House, with the aim of generating pressure on Israel. This development comes as tensions between Lebanon and Israel have been escalating over recent weeks. The meeting is seen as an attempt by Aoun to garner international support for Lebanon's stance on the issue. The situation is complex, with multiple regional players involved, including Iran and Saudi Arabia. The meeting may have implications for regional politics and potentially affect the business environment in the region.",
+      "impact": "The meeting may have a short-term positive impact on the sentiment towards regional stocks, particularly those with exposure to Lebanon, such as banks and energy companies. However, the medium-term impact is uncertain, as the situation is highly volatile and subject to change. The meeting may also affect the valuation of stocks with exposure to the region, as investors reassess the risks and opportunities. The liquidity of these stocks may also be affected, as investors adjust their positions in response to the changing situation.",
+      "risks": [
+        "escalation of regional tensions",
+        "impact on regional trade and commerce",
+        "uncertainty about the outcome of the meeting"
+      ]
+    }
+  },
+  {
     "id": "8239226",
     "headline": "Trump says Republicans should add Iran to Russian bill - Reuters",
     "summary": "Trump says Republicans should add Iran to Russian bill  Reuters",
@@ -523,29 +668,6 @@
         "policy uncertainty risk",
         "government instability risk",
         "economic policy risk"
-      ]
-    }
-  },
-  {
-    "id": "8238714",
-    "headline": "Lebanon's Aoun to meet Trump at White House, hoping to generate pressure on Israel - Reuters",
-    "summary": "Lebanon's Aoun to meet Trump at White House, hoping to generate pressure on Israel  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOU4yVVlYeXdhdDFTY0pNZUZjSzRvWE1mWi1NcF9MVUI5Y3N3aTRrRzU2RnpCc2tzVV9LS21EQ1RPdUFDN0VnVURKZ0V5RTFScVUtTElSUlp3VU1xZE45UWY3ZmV6cnFmeEVFSE4yMEZ5UVFmVEFwczBtRzdoS3dyUGszV2V3anJEOTBOQ3l0bS16aU0zeU8tYUdwSzRBenlEZmVVT2oxNjZCU21mbkRzN1JIakN4UnoxRlpJWjVCNA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784440980,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784462399,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Lebanese President Michel Aoun is set to meet with US President Donald Trump at the White House, with the aim of generating pressure on Israel. This development comes as tensions between Lebanon and Israel have been escalating over recent weeks. The meeting is seen as an attempt by Aoun to garner international support for Lebanon's stance on the issue. The situation is complex, with multiple regional players involved, including Iran and Saudi Arabia. The meeting may have implications for regional politics and potentially affect the business environment in the region.",
-      "impact": "The meeting may have a short-term positive impact on the sentiment towards regional stocks, particularly those with exposure to Lebanon, such as banks and energy companies. However, the medium-term impact is uncertain, as the situation is highly volatile and subject to change. The meeting may also affect the valuation of stocks with exposure to the region, as investors reassess the risks and opportunities. The liquidity of these stocks may also be affected, as investors adjust their positions in response to the changing situation.",
-      "risks": [
-        "escalation of regional tensions",
-        "impact on regional trade and commerce",
-        "uncertainty about the outcome of the meeting"
       ]
     }
   },
@@ -22523,167 +22645,6 @@
         "supply chain disruptions",
         "price competition from generic or biosimilar vaccines",
         "regulatory changes affecting vaccine production or distribution"
-      ]
-    }
-  },
-  {
-    "id": "8130576",
-    "headline": "Trump seeks additional $11 billion in farm aid - Reuters",
-    "summary": "Trump seeks additional $11 billion in farm aid  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSzNFZGJ2VXdPdHpFOFdnN1JTc2FBNjJndUZmeDdpY1hHZ3VvOVJCeWlMNlpic2Q2UWJLZmY1RDYyR2g4dVlqQUNOZUZJMDhmNTBZMXF3eFBwLTF6N0UxVEhqbUY5MzZ0N014eEQ0WUpGRWlkSkF1T0M5RFFUNllyaVdseTlUdk1IOWVGUmk3NlE?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782338049,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782551942,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "US President Trump has requested an additional $11 billion in farm aid, which could benefit agricultural companies and related industries. The move is aimed at supporting farmers affected by the ongoing trade tensions and weather-related crop damage. This aid would likely be allocated through the Commodity Credit Corporation, which has a history of providing financial assistance to farmers. The additional funding could provide a boost to the agricultural sector, which has been impacted by the trade war and other external factors.",
-      "impact": "The potential impact on related stocks could be positive, particularly for companies involved in agriculture and farm equipment, as the additional aid could lead to increased demand for their products and services. This could result in higher earnings for these companies in the medium term. However, the short-term impact may be limited, as the aid would need to be approved and allocated before it can have a significant effect on the industry. The increased government spending could also lead to concerns about inflation and interest rates, which could impact the overall market.",
-      "risks": [
-        "inflation risk",
-        "interest rate risk",
-        "market volatility risk"
-      ]
-    }
-  },
-  {
-    "id": "8116862",
-    "headline": "Using flattery, Rutte tries to ease NATO tensions with Trump over Iran - Reuters",
-    "summary": "Using flattery, Rutte tries to ease NATO tensions with Trump over Iran  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ1p6ekh2XzQzSTRWWndpRlRjbVpQRzZ5MmkwaTBwM19XM0pSLVJxVjBhNzREOW1BWU4yNFNjazZQVkJoLXJQZjlRS1hTVXVTR0tqX0dwQUltOVVwUlVBOFQ1bmtKQjJpYTdnQXJIZE5janZ6d0Vua3ZhelM0dzR5UmdPTWtwTngxM0xEUjcxU1FsM1JCOFRoRFppQ2xDd3l6ak1mNWh1ZGs1cjZJOVlZOF9pRjFVUlRoem4yeHZ0SU41dw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782337673,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782300753,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "NATO Secretary-General Jens Stoltenberg has announced that Dutch Prime Minister Mark Rutte will meet US President Donald Trump ahead of the July NATO summit. The meeting aims to ease tensions between the two leaders, which have been heightened due to disagreements over defense spending and trade policies. The summit is scheduled to take place in July, and the meeting between Rutte and Trump is seen as a key opportunity to address these issues. The meeting is expected to focus on finding common ground and avoiding a repeat of the tensions seen at the G7 summit in June.",
-      "impact": "The meeting between Rutte and Trump is unlikely to have a significant impact on the global economy in the short term. However, a successful meeting could lead to improved sentiment towards the US and European markets, potentially boosting stocks in the defense and aerospace industries. In the medium term, a reduction in tensions could lead to increased defense spending and trade agreements, benefiting companies such as Lockheed Martin and Boeing.",
-      "risks": [
-        "trade war escalation risk",
-        "defense spending uncertainty risk",
-        "geopolitical tensions risk"
-      ]
-    }
-  },
-  {
-    "id": "8119474",
-    "headline": "Vance says review underway to see how Turkey can get F-35 fighter jets - Reuters",
-    "summary": "Vance says review underway to see how Turkey can get F-35 fighter jets  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa3dUYTdScGtsb05LZVB3dVFuY1ZUX0Fjcl9iY0hmOTFkZVhRYXZXRWRiMWtxVFlZY0lQOWVhaXI3MFBwWHp0LXRQaUNwc0hRTWVfYlNVMk8wcWRIT044VzZFSXRRVFdNeEY1eEEzMzJQcWZKOGUwUXg1S2NKN1lGcUxINWN3YUxTYWF0SFl1LWhPaU5md2VoRGxDcGRIRjR2anY4U2ZPYmtMRkhQY0R5bmVaY0syaHlEX2ZyMmFR?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782335528,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782345072,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "US Secretary of State Antony Blinken's spokesperson, Ned Price, stated that a review is underway to determine how Turkey can obtain F-35 fighter jets, following the US Senate's recent decision to halt F-35 deliveries to Turkey. The review aims to assess potential ways for Turkey to comply with US laws and regulations, which are currently blocking the delivery of the jets. The F-35 program is a significant project for Lockheed Martin, a major US defense contractor. Turkey's exclusion from the F-35 program has already had a negative impact on the country's defense industry, leading to a decline in sales for Turkish defense companies.",
-      "impact": "This news may have a neutral impact on Lockheed Martin's stock in the short term, as the review's outcome is uncertain and may not directly affect the company's earnings in the near future. However, a positive outcome could lead to a medium-term increase in Lockheed Martin's sales and revenue, as Turkey would be able to participate in the F-35 program. The news may also have a positive impact on US defense stocks, as a resolution to the F-35 issue could lead to increased demand for US defense exports.",
-      "risks": [
-        "Regulatory approval risk",
-        "Integration risk for Turkish defense companies",
-        "Uncertainty around the review's outcome"
-      ]
-    }
-  },
-  {
-    "id": "8119262",
-    "headline": "JPMorgan Chase unveils $50 billion buyback, Goldman Sachs raises dividend after Fed stress test",
-    "summary": "The announcements followed the release of the Federal Reserve's annual stress test, which found that all 32 large banks weathered a hypothetical recession.",
-    "url": "https://www.cnbc.com/2026/06/24/jpmorgan-goldman-sachs-fed-stress-test.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108222464-1762447654577-gettyimages-2244833738-AMERICAN_BUSINESS_FORUM.jpeg?v=1768398902&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1782334725,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782338523,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "JPMorgan Chase and Goldman Sachs announced significant moves in response to the Federal Reserve's annual stress test. JPMorgan unveiled a $50 billion buyback program and increased its quarterly dividend by 10% to $1.65 per share. Goldman Sachs also raised its quarterly dividend by 11% to $5 per share. The announcements demonstrate confidence in the banks' financial health and ability to weather a hypothetical recession. The stress test found that all 32 large banks remained above their minimum capital requirements, which may have contributed to the banks' willingness to increase payouts. The industry's strong capital position and stable regulatory environment are positive for the sector.",
-      "impact": "The announcements are likely to have a positive impact on JPMorgan and Goldman Sachs' stocks in the short term, driven by increased confidence in their financial health and ability to return capital to shareholders. The buyback program and dividend increases may also boost sentiment and attract investors. However, the medium-term impact will depend on the banks' ability to execute their business plans and maintain their market leadership. The stable regulatory environment and strong capital position of the industry may also support the sector's valuation and liquidity.",
-      "risks": [
-        "Regulatory changes under the Basel III Endgame proposal may impact the industry's capital requirements and affect the banks' ability to return capital to shareholders.",
-        "The banks' ability to execute their business plans and maintain their market leadership may be impacted by various factors, including competition, macroeconomic conditions, and changes in regulatory requirements.",
-        "The sector's valuation and liquidity may be affected by changes in investor sentiment and market conditions."
-      ]
-    }
-  },
-  {
-    "id": "8119680",
-    "headline": "Trump asks Congress for more funds to fight Iran, defying rebuke on war powers - Reuters",
-    "summary": "Trump asks Congress for more funds to fight Iran, defying rebuke on war powers  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaldwT2FHdExCakJadVBWOWNDMmppclg5Ri1mX2hoUkNibnFGbER2bVlES2wwRjBYbEQtM21SQmFxTVNiSVpCcDdlbXNHT0xXLXhQbGtCR0s4M0Rrdm0xRGY4dVlndl8yblFNNXNlQjMtOWV6ck5lMlpxMS1xUWo5QlJPZ3MtXzRsNXEtUTB1eFdGWmNsdndybS1YRnhhMGZCdUZpNWoxZEVDcjhVaWkyc1FNVXVkVnZScUlvdQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782334260,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782345023,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The Trump administration has requested $87.6 billion from Congress to fund military operations, primarily for the war in Iran. This development suggests a heightened military presence in the region, which may lead to increased defense spending and a potential escalation of hostilities. The request comes as tensions between the US and Iran remain high, following the US withdrawal from the Iran nuclear deal in 2018. The increased military spending may have a positive impact on defense contractors, but the overall economic impact is uncertain and may be negative due to the potential for increased instability in the region.",
-      "impact": "The potential impact on the market is mixed, with defense contractors such as Lockheed Martin and Boeing potentially benefiting from increased military spending. However, the overall economic impact is uncertain and may be negative due to the potential for increased instability in the region, which could lead to a decline in investor sentiment and a decrease in stock prices. In the short-term, we expect the market to react negatively to the news, with a potential decline in stock prices of companies with exposure to the defense industry.",
-      "risks": [
-        "Increased instability in the region leading to a decline in investor sentiment",
-        "Potential escalation of hostilities between the US and Iran",
-        "Uncertainty surrounding the economic impact of increased military spending"
-      ]
-    }
-  },
-  {
-    "id": "8119261",
-    "headline": "Identity theft victims face 'unconscionable' IRS delays, report says",
-    "summary": "Victims currently face wait times of almost two years to resolve their cases, according to the National Taxpayer Advocate.",
-    "url": "https://www.cnbc.com/2026/06/24/identity-theft-victims-face-unconscionable-irs-delays-report-says.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108226251-17631437432025-11-14t180524z_1034732684_rc2hwhacqqv4_rtrmadp_0_usa-shutdown.jpeg?v=1763143792&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1782334228,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782338572,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The IRS is experiencing significant delays in resolving tax-related identity theft cases, with victims waiting nearly two years for resolution. This backlog is attributed to staffing cuts at the agency, which has reduced its workforce by 27% in the past year. The National Taxpayer Advocate has warned of the severe consequences of these delays, including financial hardship for low- and middle-income taxpayers. The issue is expected to persist due to an uptick in identity theft cases and a lack of resources at the IRS.",
-      "impact": "The news is likely to have a negative impact on the sentiment towards the US government and its agencies, potentially leading to a decrease in investor confidence. This could result in a decrease in government-related stocks, including those involved in the tax preparation and collection industries. The delays and inefficiencies at the IRS may also lead to a decrease in tax revenue, which could have a medium-term impact on the overall economy.",
-      "risks": [
-        "Decrease in government-related stocks",
-        "Decrease in tax revenue",
-        "Potential increase in identity theft cases"
-      ]
-    }
-  },
-  {
-    "id": "8122770",
-    "headline": "Under a scorching sun: Europe’s heatwave in pictures - Reuters",
-    "summary": "Under a scorching sun: Europe’s heatwave in pictures  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQX0lYcXZmc0ZPbmdoMGtqSUJaWHBxYVFrUEdlckd6RGtneUtRNVZZREZyNVpmb3VwZlppNjVPc3Y3cjZrN2ROa2d1bGtQdHJ4RndfajBIelNVUmU3SFpraTllUkt5VzNEcnRObGNjS25hVHd5dkVQRXlQaDZ4a3pqYmhwWWxuY3RoWlYzZUMtVHFZMGFk?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782334200,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782414055,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "A severe heatwave is affecting Europe, causing widespread disruptions and heat-related illnesses. The extreme weather conditions are being captured in various photographs and videos shared on social media. The heatwave is expected to continue for several days, with temperatures reaching record highs in some areas. The impact on daily life and economic activities is significant, with many outdoor events and festivals being canceled or postponed. The heatwave is a natural disaster, and its effects on the economy and businesses will depend on the duration and severity of the event.",
-      "impact": "The heatwave may have a short-term negative impact on the European economy, particularly on industries such as tourism, agriculture, and construction. Companies operating in these sectors may experience reduced sales and profits due to the disruptions caused by the heatwave. However, the medium-term impact is likely to be limited, as the European economy is resilient and has a strong track record of recovering from natural disasters. The heatwave may also have a positive impact on companies that provide air conditioning and cooling solutions, such as manufacturers of air conditioners and refrigeration equipment.",
-      "risks": [
-        "reduced sales and profits for companies in affected industries",
-        "supply chain disruptions",
-        "increased costs for companies providing cooling solutions"
       ]
     }
   }
