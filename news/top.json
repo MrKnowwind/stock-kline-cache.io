@@ -1,5 +1,51 @@
 [
   {
+    "id": "8245191",
+    "headline": "Could ‘The Odyssey’ lead the 'apes' back home to AMC shares?",
+    "summary": "AMC options surged out of the gate this morning with over 300,000 contracts traded as of writing.",
+    "url": "https://www.cnbc.com/2026/07/20/could-the-odyssey-lead-the-apes-back-home-to-amc-shares.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108234335-1764594651992-gettyimages-2248651681-AFP_86MN2H6.jpeg?v=1764594670&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1784570706,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784575044,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "AMC's stock and options surged after the company's earnings beat expectations and reported double-digit revenue growth. The strong earnings were accompanied by the success of the film 'The Odyssey', which broke box office records and attracted 4.3 million guests to AMC theaters globally. This news has led to a significant increase in call buying, with almost 100,000 calls purchased, compared to 62,000 calls sold and under 10,000 puts bought. The options market is indicating a bullish sentiment, with over $6 million in options premium exchanged hands, and the 2 and 2.5-strike calls expiring Aug. 21 being the most popular contracts.",
+      "impact": "The strong earnings and box office success of 'The Odyssey' could lead to a short-term rally in AMC's stock price, potentially driven by the increase in call buying and the positive sentiment in the options market. In the medium term, the company's revenue growth and the trend of people returning to movie theaters could support the stock's valuation. However, it's worth noting that AMC's stock is still down 99% from its all-time high, indicating that there is still significant upside potential for the stock.",
+      "risks": [
+        "valuation risk",
+        "sentiment reversal risk",
+        "macroeconomic downturn risk"
+      ]
+    }
+  },
+  {
+    "id": "8245079",
+    "headline": "The bar for Tesla earnings is sky-high. Here's why and how options traders can capitalize",
+    "summary": "Michael Khouw breaks down how he's trading Tesla into earnings.",
+    "url": "https://www.cnbc.com/2026/07/20/the-bar-for-tesla-earnings-is-sky-high-heres-why-and-how-options-traders-can-capitalize.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108313753-1780058057806-gettyimages-2278014626-20090101260529-99-569038.jpeg?v=1780058107&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1784567782,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784575093,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Tesla's earnings are expected to be impacted by fundamental headwinds, competitive pressure, and lofty valuation expectations. The company's recent delivery figures beat expectations, but the stock retreated, indicating that market expectations are extremely high. The EV market has cooled down, and competitors like Rivian are targeting Tesla's core mass-market SUV segment with improved economics and fresh design appeal. This could lead to mounting margin pressure for Tesla in its core automotive business.",
+      "impact": "The potential impact on Tesla's stock is a short-term decline following the earnings release, as meeting or slightly beating earnings expectations will likely be greeted glumly by Wall Street. The medium-term effect will be a re-evaluation of Tesla's valuation, which is heavily reliant on non-automotive catalysts like robotics and autonomy. The cooling of the EV market and increasing competition could lead to a re-rating of Tesla's stock, potentially resulting in a decline in the stock price.",
+      "risks": [
+        "mounting margin pressure in core automotive business",
+        "increased competition from Rivian and other EV manufacturers",
+        "valuation re-rating due to decreased enthusiasm for AI and robotics"
+      ]
+    }
+  },
+  {
     "id": "8244024",
     "headline": "Yemen's Houthis declare naval blockade against Saudi Arabia - Reuters",
     "summary": "Yemen's Houthis declare naval blockade against Saudi Arabia  Reuters",
@@ -7,7 +53,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1784565440,
+    "publishedAt": 1784566708,
     "analysis": {
       "version": 2,
       "generatedAt": 1784554273,
@@ -134,29 +180,6 @@
         "Increased regional instability and conflict",
         "Potential for increased defense spending",
         "Uncertainty around the new leader's policies and their impact on the region"
-      ]
-    }
-  },
-  {
-    "id": "8241904",
-    "headline": "Houthis impose Saudi naval blockade, opening new front in US-Iran war - Reuters",
-    "summary": "Houthis impose Saudi naval blockade, opening new front in US-Iran war  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbmtOemhMR1UtaVNoMENBMHltNEpKTWJNekRXUEtSa3hidndTM0VZVnRoTEJlV2ZENWtkYVFCUkJtSk8zdFhPeEJQSXRNMS1vWC03N2NJek14WklXdzhNZWkzMnZRUFpGcHg2OXotaHpyVW9jblFTYUM4U2lGcXFWa1NFbnZSQnpreVF6OXVhMW1oeHdIdkFNMjBJa09UZGgycjRkMjZ6Z1dxNC10enJIVDZJdlVSQjRxQlBZc05Tdw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784556137,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784525036,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The US has launched a military strike against Iran for the ninth consecutive day, escalating tensions in the region. Iran has reported that two oil tankers in the Strait of Hormuz have exploded and been immobilized. The Strait of Hormuz is a critical waterway for global oil trade, with approximately 20% of the world's oil passing through it. The recent escalation of tensions between the US and Iran has increased the risk of supply disruptions and price volatility in the oil market. This could have a negative impact on oil-producing companies and related industries.",
-      "impact": "The recent developments are likely to have a short-term negative impact on oil prices, which could lead to a decline in earnings for oil-producing companies. This could also lead to a decline in the valuation of companies with high exposure to the oil industry. The increased tensions and risk of supply disruptions could also lead to a decline in investor sentiment towards oil-related stocks, making them less attractive to investors. In the medium term, the increased uncertainty and risk could lead to a decline in investment in the oil industry, further exacerbating the negative impact on oil prices and related companies.",
-      "risks": [
-        "Supply disruption risk",
-        "Price volatility risk",
-        "Investor sentiment risk"
       ]
     }
   },
@@ -341,6 +364,29 @@
     }
   },
   {
+    "id": "8245195",
+    "headline": "Riyadh Air orders 34 Boeing, Airbus widebody jets in expansion push - Reuters",
+    "summary": "Riyadh Air orders 34 Boeing, Airbus widebody jets in expansion push  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSS03aS1mSENaMlFjTDdQUmlLS0hlQmRSVHdtcGxGODNQekF3U0o3dlpvRGpQRDN0eXR0ZWhLNUVoTWhJMDNfd2QzMHRyQVJCOXpZQjFzbklNMnc0aXVvekFrbFVWUERkSm53NE93R091VkowT2poX1o2ZWdNN2l2R3dsVWZzWEhockx1N2t1VzdGcGU2cGpHNkdqbm9WYUtON1c2bmQ0OVZhWWZvWDNkV3JXUEJVaHVX?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784538745,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784575144,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Riyadh Air has placed a significant order for 34 widebody jets from Boeing and Airbus, marking a major expansion push for the new Saudi Arabian airline. The order is a testament to the growing demand for air travel in the Middle East and the region's increasing importance in the global aviation industry. This development is likely to benefit both Boeing and Airbus, as it represents a substantial order for their widebody jets. The expansion of Riyadh Air is also expected to drive growth in the aviation sector, potentially benefiting related stocks such as aircraft manufacturers, airlines, and travel-related companies.",
+      "impact": "The order is likely to have a positive impact on the stocks of Boeing and Airbus, potentially leading to a short-term increase in their share prices. Boeing's order book has been a major concern in recent times, and this order will help alleviate some of those concerns. The medium-term impact will be driven by the increased demand for air travel and the growth of the aviation sector, which may lead to an increase in earnings for related companies. The sentiment towards the aviation sector is likely to be positive, driven by the growing demand and the expansion of airlines like Riyadh Air.",
+      "risks": [
+        "Delivery risks: The timely delivery of the aircraft is crucial, and any delays could impact the growth prospects of Riyadh Air and the related stocks.",
+        "Competition risk: The Middle East aviation market is highly competitive, and Riyadh Air will face competition from established players such as Emirates and Qatar Airways.",
+        "Economic downturn risk: A global economic downturn could impact the demand for air travel and the growth prospects of the aviation sector."
+      ]
+    }
+  },
+  {
     "id": "8243256",
     "headline": "Iranian Sunni cleric killed by unknown gunmen in country's southeast, state media - Reuters",
     "summary": "Iranian Sunni cleric killed by unknown gunmen in country's southeast, state media  Reuters",
@@ -360,6 +406,29 @@
         "geopolitical risk",
         "sentiment risk",
         "macroeconomic risk"
+      ]
+    }
+  },
+  {
+    "id": "8245296",
+    "headline": "Major Gulf bourses mixed as markets assess US-Iran escalation - Reuters",
+    "summary": "Major Gulf bourses mixed as markets assess US-Iran escalation  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa0JISWdUZmd3ZnVZWTZKVnlsVDZKYzEwTjk5ZXJybjhWUnJQUFBxRUpLcjFqOG9zdzhKaUdCODNvV196Yy1UNU04TDlZT0syT0VvNHNoX0h0MFduOXA3M05ZV21MdHFya055bDRDMjc2S05aUkx3RlAyZUVqVElYOTRYRl9xaTloVUplSnJBSG0zSGJkNFpfM0Q1bDhLOEdIUDF1VWRnM0lfX3FaQl9NMnhn?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784531874,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784575193,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The article reports on the mixed performance of major Gulf bourses in response to the escalation of tensions between the US and Iran. The escalation has led to a volatile market environment, with some stocks experiencing losses while others remain stable. The background of the situation is the ongoing conflict between the US and Iran, which has been escalating in recent days. The article does not provide specific details on the stocks affected by the market volatility, but it suggests that investors are reassessing their positions in the region. The logical chain from the news to the business fundamentals is that geopolitical tensions can impact investor sentiment and market volatility, which in turn can affect stock prices.",
+      "impact": "The potential impact on related stocks is mixed, with some stocks experiencing losses due to the heightened uncertainty and volatility. In the short-term, investors may be cautious and reduce their exposure to the region, leading to a decline in stock prices. However, in the medium-term, a resolution to the conflict could lead to a rebound in the market, benefiting stocks that were previously undervalued due to the uncertainty. The drivers of this impact are investor sentiment and market volatility.",
+      "risks": [
+        "geopolitical risk",
+        "market volatility risk",
+        "uncertainty risk"
       ]
     }
   },
@@ -394,7 +463,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1784527200
+    "publishedAt": 1784527200,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784575241,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The ongoing war is pushing refiners to the brink due to supply chain disruptions and logistical challenges. The conflict has resulted in a sharp increase in transportation costs, making it difficult for refiners to operate profitably. This has led to a decline in refining margins, which are already under pressure from the global oversupply of crude oil. As a result, refiners are struggling to stay afloat, with some even considering shutting down operations. The war has also disrupted the supply of refined products, leading to a shortage of gasoline and diesel in some regions.",
+      "impact": "The ongoing war is expected to have a negative impact on the refining industry, particularly on refiners with high exposure to the affected regions. This could lead to a decline in earnings for these companies, potentially resulting in lower stock prices. In the short-term, investors may experience reduced liquidity and increased volatility in the market. In the medium-term, the war could lead to a re-evaluation of the refining industry's business model, with a focus on more resilient and diversified operations.",
+      "risks": [
+        "decline in refining margins",
+        "supply chain disruptions",
+        "logistical challenges"
+      ]
+    }
   },
   {
     "id": "8243257",
@@ -443,6 +525,29 @@
     }
   },
   {
+    "id": "8241904",
+    "headline": "Houthis impose Saudi naval blockade, opening new front in US-Iran war - Reuters",
+    "summary": "Houthis impose Saudi naval blockade, opening new front in US-Iran war  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbmtOemhMR1UtaVNoMENBMHltNEpKTWJNekRXUEtSa3hidndTM0VZVnRoTEJlV2ZENWtkYVFCUkJtSk8zdFhPeEJQSXRNMS1vWC03N2NJek14WklXdzhNZWkzMnZRUFpGcHg2OXotaHpyVW9jblFTYUM4U2lGcXFWa1NFbnZSQnpreVF6OXVhMW1oeHdIdkFNMjBJa09UZGgycjRkMjZ6Z1dxNC10enJIVDZJdlVSQjRxQlBZc05Tdw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784512140,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784525036,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The US has launched a military strike against Iran for the ninth consecutive day, escalating tensions in the region. Iran has reported that two oil tankers in the Strait of Hormuz have exploded and been immobilized. The Strait of Hormuz is a critical waterway for global oil trade, with approximately 20% of the world's oil passing through it. The recent escalation of tensions between the US and Iran has increased the risk of supply disruptions and price volatility in the oil market. This could have a negative impact on oil-producing companies and related industries.",
+      "impact": "The recent developments are likely to have a short-term negative impact on oil prices, which could lead to a decline in earnings for oil-producing companies. This could also lead to a decline in the valuation of companies with high exposure to the oil industry. The increased tensions and risk of supply disruptions could also lead to a decline in investor sentiment towards oil-related stocks, making them less attractive to investors. In the medium term, the increased uncertainty and risk could lead to a decline in investment in the oil industry, further exacerbating the negative impact on oil prices and related companies.",
+      "risks": [
+        "Supply disruption risk",
+        "Price volatility risk",
+        "Investor sentiment risk"
+      ]
+    }
+  },
+  {
     "id": "8243035",
     "headline": "Gold little changed as investors weigh US-Iran developments, Fed signals - Reuters",
     "summary": "Gold little changed as investors weigh US-Iran developments, Fed signals  Reuters",
@@ -453,9 +558,19 @@
     "publishedAt": 1784511600
   },
   {
+    "id": "8244978",
+    "headline": "What is China's next surprise for oil markets? Lower imports, higher fuel exports? - Reuters",
+    "summary": "What is China's next surprise for oil markets? Lower imports, higher fuel exports?  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNkVNby0tbVgtVUxCWFJyNVVXM2V4VUVOb0tDdlFLOUc4djJnRi1jTTBTNnY4T2doUVlYaWVyZkhHbU9CLTV2cDcwQzJTTGttdWIzZHpidkFiQ2RlSV9fbEFmcE9nVHlfQXRoUTFvOUFvUFJQQURsUkxFMUFWaXV6QnBYdmtrRTY2YlhYWk41clc4WlNTdUswYlZLNFBXeGlBQ0VvS0xWZ181cEdvdVF3djNLeUtwQ3VVMllwemJZNkRJTHc4cU9mXzAycGFWdUxkSy13MU1zTmZRdWc?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784510820
+  },
+  {
     "id": "8241801",
-    "headline": "Shares unsettled as oil climbs, earnings loom for AI - Reuters",
-    "summary": "Shares unsettled as oil climbs, earnings loom for AI  Reuters",
+    "headline": "Equities inch higher with semi stocks, oil up amid further Iran tensions - Reuters",
+    "summary": "Equities inch higher with semi stocks, oil up amid further Iran tensions  Reuters",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLXNOVkRxS1o3Q3pZUnR2TzZIVmRBbUs5MGZRYV9xRXJmVl8wUklWb0RfRjNETm5HR3Q3OEd1R3NZS0Nrc3Q0OGdQMDlVX041OGMybkpoZ0VWTFZ0Mlp4bGJmeXFUMzQ2NEpTdEFXbWh6eUNUQ1BXbkRRcHFUWnhLa3Fhdw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -659,29 +774,6 @@
     }
   },
   {
-    "id": "8238714",
-    "headline": "Lebanon's Aoun to meet Trump at White House, hoping to generate pressure on Israel - Reuters",
-    "summary": "Lebanon's Aoun to meet Trump at White House, hoping to generate pressure on Israel  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOU4yVVlYeXdhdDFTY0pNZUZjSzRvWE1mWi1NcF9MVUI5Y3N3aTRrRzU2RnpCc2tzVV9LS21EQ1RPdUFDN0VnVURKZ0V5RTFScVUtTElSUlp3VU1xZE45UWY3ZmV6cnFmeEVFSE4yMEZ5UVFmVEFwczBtRzdoS3dyUGszV2V3anJEOTBOQ3l0bS16aU0zeU8tYUdwSzRBenlEZmVVT2oxNjZCU21mbkRzN1JIakN4UnoxRlpJWjVCNA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784463751,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784462399,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Lebanese President Michel Aoun is set to meet with US President Donald Trump at the White House, with the aim of generating pressure on Israel. This development comes as tensions between Lebanon and Israel have been escalating over recent weeks. The meeting is seen as an attempt by Aoun to garner international support for Lebanon's stance on the issue. The situation is complex, with multiple regional players involved, including Iran and Saudi Arabia. The meeting may have implications for regional politics and potentially affect the business environment in the region.",
-      "impact": "The meeting may have a short-term positive impact on the sentiment towards regional stocks, particularly those with exposure to Lebanon, such as banks and energy companies. However, the medium-term impact is uncertain, as the situation is highly volatile and subject to change. The meeting may also affect the valuation of stocks with exposure to the region, as investors reassess the risks and opportunities. The liquidity of these stocks may also be affected, as investors adjust their positions in response to the changing situation.",
-      "risks": [
-        "escalation of regional tensions",
-        "impact on regional trade and commerce",
-        "uncertainty about the outcome of the meeting"
-      ]
-    }
-  },
-  {
     "id": "8239226",
     "headline": "Trump says Republicans should add Iran to Russian bill - Reuters",
     "summary": "Trump says Republicans should add Iran to Russian bill  Reuters",
@@ -812,6 +904,29 @@
         "policy uncertainty risk",
         "government instability risk",
         "economic policy risk"
+      ]
+    }
+  },
+  {
+    "id": "8238714",
+    "headline": "Lebanon's Aoun to meet Trump at White House, hoping to generate pressure on Israel - Reuters",
+    "summary": "Lebanon's Aoun to meet Trump at White House, hoping to generate pressure on Israel  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOU4yVVlYeXdhdDFTY0pNZUZjSzRvWE1mWi1NcF9MVUI5Y3N3aTRrRzU2RnpCc2tzVV9LS21EQ1RPdUFDN0VnVURKZ0V5RTFScVUtTElSUlp3VU1xZE45UWY3ZmV6cnFmeEVFSE4yMEZ5UVFmVEFwczBtRzdoS3dyUGszV2V3anJEOTBOQ3l0bS16aU0zeU8tYUdwSzRBenlEZmVVT2oxNjZCU21mbkRzN1JIakN4UnoxRlpJWjVCNA?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784440980,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784462399,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Lebanese President Michel Aoun is set to meet with US President Donald Trump at the White House, with the aim of generating pressure on Israel. This development comes as tensions between Lebanon and Israel have been escalating over recent weeks. The meeting is seen as an attempt by Aoun to garner international support for Lebanon's stance on the issue. The situation is complex, with multiple regional players involved, including Iran and Saudi Arabia. The meeting may have implications for regional politics and potentially affect the business environment in the region.",
+      "impact": "The meeting may have a short-term positive impact on the sentiment towards regional stocks, particularly those with exposure to Lebanon, such as banks and energy companies. However, the medium-term impact is uncertain, as the situation is highly volatile and subject to change. The meeting may also affect the valuation of stocks with exposure to the region, as investors reassess the risks and opportunities. The liquidity of these stocks may also be affected, as investors adjust their positions in response to the changing situation.",
+      "risks": [
+        "escalation of regional tensions",
+        "impact on regional trade and commerce",
+        "uncertainty about the outcome of the meeting"
       ]
     }
   },
@@ -22587,121 +22702,6 @@
       "summary": "The RBI's Monetary Policy Committee (MPC) member, Nagesh Kumar, has expressed optimism about India's economic growth, citing easing geopolitical tensions in West Asia as a positive factor. This development is expected to reduce the risk to both inflation and growth. The MPC member's statement suggests that the RBI may revise its growth forecast for the current year to above 7%. This implies an improvement in the overall economic outlook for India.",
       "impact": "The news is likely to boost investor sentiment towards Indian equities, particularly those with exposure to the domestic economy. This could lead to a short-term rally in stocks such as HDFC Bank, ICICI Bank, and other large-cap financials. In the medium term, the improved growth outlook could lead to higher earnings expectations for companies in the consumer staples, automotive, and infrastructure sectors. This could result in a re-rating of these stocks as investors become more optimistic about their growth prospects.",
       "risks": []
-    }
-  },
-  {
-    "id": "8118311",
-    "headline": "US-Iran deal may leave Netanyahu as biggest casualty - Reuters",
-    "summary": "US-Iran deal may leave Netanyahu as biggest casualty  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORzZCak1rSmduaE1FYXJIWFVlNFlLRHFhb2c0RW9vMUp4elF1N0tTa1lHVkR1NTdDZmdacE91TDlKcEcwYW8xeDUwQkFlV0ZJaXJwc0E2OG9hTHlWMVlZSHhmRnlHanczSnlBREtZM3pKYVR4V2ZLWXFkakh6akdmT3JBcW90VGttWG11N2cyaDZIdndneEJDWTU0SlNXamFhTmZEWHNn?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782365441,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782325496,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The US-Iran deal may have significant implications for Israeli Prime Minister Benjamin Netanyahu, potentially weakening his position. The deal's success could reduce tensions in the region, which may negatively impact Netanyahu's hawkish stance. Netanyahu's popularity has been linked to his strong stance on Iran, and a reduction in tensions could erode his support. This could lead to a shift in Israeli politics, potentially affecting Netanyahu's tenure as Prime Minister.",
-      "impact": "The news may have a negative impact on Israeli defense stocks, particularly those with ties to Netanyahu's government. Companies like Elbit Systems (ESLT) and Israel Aerospace Industries (ARSOF) may see a decline in government contracts and orders if Netanyahu's influence wanes. This could lead to a short-term decline in earnings and a medium-term impact on valuation. The deal's success may also lead to a decline in the Israeli shekel, making exports more expensive and potentially affecting the country's economy.",
-      "risks": [
-        "Netanyahu's response to the deal and its impact on his popularity",
-        "Erosion of support for hawkish policies in Israel",
-        "Potential decline in government contracts for defense stocks"
-      ]
-    }
-  },
-  {
-    "id": "8126020",
-    "headline": "India’s $55 billion green energy pipeline faces climate damage",
-    "summary": "239 gigawatts of proposed solar, wind and hydropower capacity across 10 states — about 90% of the total — highly vulnerable to weather events such as tornadoes, wildfires and extreme floods: Report",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-25/india-s-55-billion-green-energy-pipeline-faces-climate-damage",
-    "source": "Bloomberg",
-    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
-    "relatedSymbols": [],
-    "publishedAt": 1782364432,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782459718,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "India's ambitious green energy pipeline, worth $55 billion, is facing significant climate-related risks. A report highlights that 90% of the proposed 239 gigawatts of solar, wind, and hydropower capacity is vulnerable to extreme weather events such as tornadoes, wildfires, and floods. This poses a substantial threat to the projects' feasibility and timelines. The report's findings may lead to increased uncertainty and potential delays in the implementation of these projects.",
-      "impact": "The news is likely to have a negative impact on the earnings outlook of companies involved in the green energy sector in India, particularly those with significant exposure to solar and wind power projects. This may lead to a decline in investor sentiment, affecting stock prices and liquidity in the short term. In the medium term, the increased uncertainty may also lead to a re-evaluation of project valuations, potentially resulting in write-downs or reduced investment in the sector.",
-      "risks": [
-        "project delay risk",
-        "valuation risk",
-        "earnings slowdown risk"
-      ]
-    }
-  },
-  {
-    "id": "8125919",
-    "headline": "Sony Pictures invests $100 million in giant screen start-up Cosm",
-    "summary": "Sony Pictures invests $100 million in Cosm, enhancing large-screen theatre experiences for films and sports events.",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-24/sony-pictures-invests-100-million-in-giant-screen-startup-cosm",
-    "source": "Bloomberg",
-    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
-    "relatedSymbols": [],
-    "publishedAt": 1782360925,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782470421,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Sony Pictures has invested $100 million in Cosm, a start-up that enhances large-screen theatre experiences for films and sports events. This investment is a strategic move by Sony to expand its presence in the entertainment industry and improve its offerings to consumers. Cosm's technology is expected to enhance the viewer experience, potentially leading to increased ticket sales and revenue for Sony Pictures. The investment is also a vote of confidence in the growth potential of the start-up.",
-      "impact": "The investment is likely to have a positive impact on Sony Pictures' earnings outlook in the medium term, as the enhanced theatre experiences could lead to increased ticket sales and revenue. The investment may also boost sentiment towards the stock, particularly among investors who value innovation and strategic moves. However, the short-term impact may be limited, as the investment is a one-time event and may not have a significant effect on the company's quarterly earnings. The partnership may also lead to increased competition in the entertainment industry, potentially affecting other players in the market.",
-      "risks": [
-        "integration risk",
-        "competition risk from other entertainment companies",
-        "market saturation risk"
-      ]
-    }
-  },
-  {
-    "id": "8125610",
-    "headline": "Hormuz fees branded ‘unacceptable’ by Trump in warning to Iran",
-    "summary": "“It would be unacceptable to me, because we have numerous strengths, and if you did that for them, you’d have to do it for other people,” the president told reporters at the White House on Wednesday",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-24/hormuz-fees-branded-unacceptable-by-trump-in-warning-to-iran",
-    "source": "Bloomberg",
-    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
-    "relatedSymbols": [],
-    "publishedAt": 1782355798,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782444919,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "US President Trump has publicly criticized Iran's plan to impose fees on ships passing through the Strait of Hormuz, calling it 'unacceptable'. This statement comes as a warning to Iran, implying potential escalation in the region. The Strait of Hormuz is a critical waterway for global oil trade, with approximately 20% of the world's oil passing through it. The tensions between the US and Iran have been escalating in recent months, with the US imposing sanctions on Iran and Iran retaliating by seizing oil tankers.",
-      "impact": "The news is unlikely to have a significant impact on the oil majors such as ExxonMobil (XOM) and Chevron (CVX) in the short term, as they have diversified operations and are less exposed to the Strait of Hormuz. However, the escalating tensions in the region may lead to increased volatility in oil prices, which could benefit oil producers such as Occidental Petroleum (OXY) and ConocoPhillips (COP) in the medium term. The news may also have a negative impact on tanker operators such as Frontline (FRO) and Ship Finance International (SFL) if the tensions lead to a decrease in oil trade through the Strait of Hormuz.",
-      "risks": [
-        "Escalating tensions in the Middle East leading to a decrease in oil trade",
-        "Increased volatility in oil prices",
-        "Potential for further sanctions on Iran"
-      ]
-    }
-  },
-  {
-    "id": "8125509",
-    "headline": "Japan unveils $2.3 trillion investment plan for next 14 years",
-    "summary": "Prime Minister Sanae Takaichi unveiled a long-term vision for Japan’s economic development featuring massive investment in artificial intelligence and semiconductors as well as other key sectors including defense, space and shipbuilding.",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-24/japan-unveils-2-3-trillion-investment-plan-for-next-14-years",
-    "source": "Bloomberg",
-    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
-    "relatedSymbols": [],
-    "publishedAt": 1782355365,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782444968,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Japan's $2.3 trillion investment plan over the next 14 years is a significant development for the country's economic growth. The plan focuses on key sectors such as artificial intelligence, semiconductors, defense, space, and shipbuilding. This investment is expected to drive innovation, create jobs, and boost economic output. The plan's emphasis on strategic industries suggests a long-term commitment to growth and development. The Japanese government's willingness to invest in these sectors is likely to attract foreign investment and talent, further driving growth.",
-      "impact": "The investment plan is likely to have a positive impact on Japanese semiconductor stocks, particularly those involved in the development and production of AI and related technologies. Companies such as Tokyo Electron and Advantest may benefit from the increased demand for semiconductor manufacturing equipment and related services. The plan's focus on defense and space industries may also boost stocks such as Mitsubishi Heavy Industries and Japan Aerospace Exploration Agency. The increased investment in these sectors is likely to drive earnings growth and improve valuations in the medium term.",
-      "risks": [
-        "Implementation risk: the successful execution of the investment plan depends on various factors, including government bureaucracy and coordination.",
-        "Dependence on foreign investment: the plan's success may be contingent on attracting foreign investment, which can be subject to various risks, including regulatory hurdles and market volatility.",
-        "Technological risks: the development and adoption of AI and related technologies are subject to rapid technological advancements, which can make it challenging for companies to stay competitive."
-      ]
     }
   }
 ]
