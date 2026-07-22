@@ -1,5 +1,51 @@
 [
   {
+    "id": "8254052",
+    "headline": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
+    "summary": "The rise in oil prices cannot be ignored today.",
+    "url": "https://www.cnbc.com/2026/07/22/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108327267-1782463256377-gettyimages-2283273999-06232026omanships-2_1xkocaoi.jpeg?v=1782892995&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1784725100,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784731682,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The stock market is expected to be impacted by several key events today, including the rise in oil prices, which may weigh on stocks. GE Vernova reported a noisy quarter with a big miss on EPS, but showed strong order growth and increased revenue guidance. Capital One beat earnings expectations, but its stock is flat after a long period of patience from investors. AT&T had a strong quarter, with customer additions and earnings beats, and is stepping up buybacks. Super Micro is surging after strong preliminary fiscal fourth-quarter results, while Nike is cleaning up its digital presence in China.",
+      "impact": "The rise in oil prices may weigh on stocks, particularly those with high exposure to energy, such as SK Hynix. GE Vernova's strong order growth and revenue guidance may lead to increased demand for its gas turbines and electric-grid equipment. Capital One's earnings beat may lead to a short-term bounce, but its stock has been flat after a long period of patience from investors. AT&T's strong quarter and buyback announcement may lead to a medium-term increase in its stock price. Super Micro's strong results may lead to a short-term surge in its stock price, and may also have a positive impact on rival Dell's stock price.",
+      "risks": [
+        "oil price volatility risk",
+        "earnings guidance risk",
+        "valuation risk"
+      ]
+    }
+  },
+  {
+    "id": "8253724",
+    "headline": "Bulgaria approves stationing of US tanker aircraft despite Iran warning - Reuters",
+    "summary": "Bulgaria approves stationing of US tanker aircraft despite Iran warning  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWnpvQ2JXM0N2U19UTndHNGVlc05wU0Y4dEoyZkZtWG82NUhNTmM4dVl5dVRRQ0gySnJidVdHVk9iUlhFdWdMRWlBbnZ0TXJvMkM2Slg0U2IzQ0RqclFKWHNzWnZ6SVN2ZFRSc0lVd1dWNGVZVi1QcU5ibUtIckxWU0FINW0xRDJoblhEVDNmc25wNFZtNFJnTHpvMnJyeFBBVkdlamNHTUJVbXJoeTZWQXpKSWM5WnlPeDkw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784723458,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784722567,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Bulgaria has downplayed a warning from Iran regarding US tanker aircraft, stating that the aircraft are not a threat to regional security. The warning was reportedly made in response to the presence of US military personnel and equipment in Bulgaria. The incident highlights the ongoing tensions between the US and Iran, which have been escalating in recent months. The US has been increasing its military presence in the region, including the deployment of aircraft carriers and troops. This development is unlikely to have a direct impact on the global oil market or the US economy, but it may contribute to ongoing tensions in the region.",
+      "impact": "The news is unlikely to have a significant impact on the US oil majors such as ExxonMobil (XOM) or Chevron (CVX) in the short term, as they are not directly involved in the region. However, the ongoing tensions between the US and Iran may lead to increased volatility in the oil market, which could benefit oil price-sensitive stocks such as Valero Energy (VLO) or Marathon Petroleum (MPC). In the medium term, the increased military presence in the region may lead to increased defense spending, benefiting companies such as Lockheed Martin (LMT) or Raytheon Technologies (RTN).",
+      "risks": [
+        "escalation of tensions in the region",
+        "increased military spending",
+        "volatility in the oil market"
+      ]
+    }
+  },
+  {
     "id": "8253299",
     "headline": "Iranian official denies two French diplomats were mistreated - Reuters",
     "summary": "Iranian official denies two French diplomats were mistreated  Reuters",
@@ -19,29 +65,6 @@
         "Continued tensions between Iran and other countries, including the US, may still pose a risk to the region's stability",
         "The Iranian economy is still subject to international sanctions, which may limit the impact of improved diplomatic relations on the country's economic growth",
         "The news may not be enough to fully alleviate concerns about the treatment of diplomats and other international concerns, which could still impact investor sentiment"
-      ]
-    }
-  },
-  {
-    "id": "8253724",
-    "headline": "Bulgaria plays down Iran warning over US tanker aircraft - Reuters",
-    "summary": "Bulgaria plays down Iran warning over US tanker aircraft  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWnpvQ2JXM0N2U19UTndHNGVlc05wU0Y4dEoyZkZtWG82NUhNTmM4dVl5dVRRQ0gySnJidVdHVk9iUlhFdWdMRWlBbnZ0TXJvMkM2Slg0U2IzQ0RqclFKWHNzWnZ6SVN2ZFRSc0lVd1dWNGVZVi1QcU5ibUtIckxWU0FINW0xRDJoblhEVDNmc25wNFZtNFJnTHpvMnJyeFBBVkdlamNHTUJVbXJoeTZWQXpKSWM5WnlPeDkw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784713183,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784722567,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Bulgaria has downplayed a warning from Iran regarding US tanker aircraft, stating that the aircraft are not a threat to regional security. The warning was reportedly made in response to the presence of US military personnel and equipment in Bulgaria. The incident highlights the ongoing tensions between the US and Iran, which have been escalating in recent months. The US has been increasing its military presence in the region, including the deployment of aircraft carriers and troops. This development is unlikely to have a direct impact on the global oil market or the US economy, but it may contribute to ongoing tensions in the region.",
-      "impact": "The news is unlikely to have a significant impact on the US oil majors such as ExxonMobil (XOM) or Chevron (CVX) in the short term, as they are not directly involved in the region. However, the ongoing tensions between the US and Iran may lead to increased volatility in the oil market, which could benefit oil price-sensitive stocks such as Valero Energy (VLO) or Marathon Petroleum (MPC). In the medium term, the increased military presence in the region may lead to increased defense spending, benefiting companies such as Lockheed Martin (LMT) or Raytheon Technologies (RTN).",
-      "risks": [
-        "escalation of tensions in the region",
-        "increased military spending",
-        "volatility in the oil market"
       ]
     }
   },
@@ -93,8 +116,8 @@
   },
   {
     "id": "8252463",
-    "headline": "Rubio says US still willing to negotiate over Iran crisis - Reuters",
-    "summary": "Rubio says US still willing to negotiate over Iran crisis  Reuters",
+    "headline": "More Red Sea shipments disrupted as Rubio says Iran not serious about talks - Reuters",
+    "summary": "More Red Sea shipments disrupted as Rubio says Iran not serious about talks  Reuters",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONHRSTEdBY3l6NGhsLTFvUDRHeThEZkgzQzdzeDVSOWk1NzJ3R3dCT1JZWkE0VWoycVhEaG0wdmtWTnFyWElMbklkcFRUMW9qTkdqWGFfVHpDaDgyTnFNWGF4clVQSENtY2x5OS14dDBYX3JjYTdXRkV1SUZlcDU3eTduYXp3VndEMzlWZmpvZjY5S3dhVmdMdk5JVFhvNzNCQmJBRjBRX1daQ2ZB?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -185,8 +208,8 @@
   },
   {
     "id": "8252359",
-    "headline": "Gold climbs to two-week high as investors watch Middle East conflict - Reuters",
-    "summary": "Gold climbs to two-week high as investors watch Middle East conflict  Reuters",
+    "headline": "Gold firms to two-week peak on softer dollar; Fed outlook in focus - Reuters",
+    "summary": "Gold firms to two-week peak on softer dollar; Fed outlook in focus  Reuters",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSEhsalF5aHFJNWhKX1N0MFJGc2tUSkUtZnN2Qk43cW5leGhtZkFaenZuWWJ0SDRiZ2xuVDNhMG0teU5JeDZhRGRMV0xNSDFoQlF2akZ5OWlYbmRGRDNIa3VtNElkZlJLVXczWEdLR2ZfRFJCd0kzaDhYU3pMWEhGMnp4S0N5THd0YUZvVkhuNUJJbzgxaTJfRzdSamd3a0gxc2pjUTEyVUZIWGFEdUc4S012RzVaS0U?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -227,8 +250,8 @@
   },
   {
     "id": "8251741",
-    "headline": "Oil climbs over 4% to near six-week high as conflict threatens key oil transit routes - Reuters",
-    "summary": "Oil climbs over 4% to near six-week high as conflict threatens key oil transit routes  Reuters",
+    "headline": "Oil climbs more than 2% to multi-week high as conflict threatens oil transit routes - Reuters",
+    "summary": "Oil climbs more than 2% to multi-week high as conflict threatens oil transit routes  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVktKb0FFdG9HQ0VvZ0dKR2ozZExNVVZ5eU1Wc29kUmhBRHVQclVYNk14WXhfb0MxV2lyaEk2UDJLdGJOdk9sRjE2M3NaNXpmUVBOSTFTLVFHSTV0UnJKTG5fZm95czJacHdDVVU2cE8wd013R1B4M0RHcHF2YURVX3pmbENTbktzRzRfZ0htelRKU1hQNUp4Z3ZFNUV5RkZ1NFE3STNndlFVSVVFT0JHUWVudU1XXzcwQXc?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -314,6 +337,52 @@
         "Dependence on hyperscalers for revenue growth",
         "Risk of increased competition in the fiber-optic networking space",
         "Potential disruption to supply chain due to rapid expansion of production capacity"
+      ]
+    }
+  },
+  {
+    "id": "8253831",
+    "headline": "Trump says US airlines can now fly to Lebanon for first time since 1985 - Reuters",
+    "summary": "Trump says US airlines can now fly to Lebanon for first time since 1985  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQVB0RmR6Y3ZaNkxmejFNSDdudlV2LTRKbWt6cDA1ekNmYV90NGVWVmRNUG9rVTJJM1p5WDlBSHk3SXhTRmllRVUxU3FYc3AybHhPMGhUN2xzSHlIOTVodFR1RElCVWhIRVBlMkpWb2JaOWZ0X1NFanZGWDREbFZTandGRGJuRm8ySEtsSFNUS2pBRkZiNmhldkFhUkpqQTQxTnI3b3pwVEUzamRUMy1WU1NyalA?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784674357,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784731728,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "US airlines can now fly to Lebanon for the first time since 1985, following a statement by President Trump. This development is a result of improved diplomatic relations between the US and Lebanon. The opening of this new route is expected to boost US airlines' revenue and increase competition in the Middle East market. This news is a positive indicator for the US airline industry, which has been facing challenges in recent years.",
+      "impact": "This news is likely to have a positive impact on US airlines, particularly those with a strong presence in the Middle East market. The new route is expected to increase revenue and competitiveness, potentially leading to higher earnings for these airlines in the short to medium term. This could also lead to an increase in stock prices for US airlines, particularly those with a strong brand presence in the region.",
+      "risks": [
+        "geopolitical tensions between the US and Lebanon",
+        "increased competition in the Middle East market",
+        "potential for reduced demand due to regional instability"
+      ]
+    }
+  },
+  {
+    "id": "8241904",
+    "headline": "Houthis announce Saudi naval blockade, threatening new front in US-Iran war - Reuters",
+    "summary": "Houthis announce Saudi naval blockade, threatening new front in US-Iran war  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbmtOemhMR1UtaVNoMENBMHltNEpKTWJNekRXUEtSa3hidndTM0VZVnRoTEJlV2ZENWtkYVFCUkJtSk8zdFhPeEJQSXRNMS1vWC03N2NJek14WklXdzhNZWkzMnZRUFpGcHg2OXotaHpyVW9jblFTYUM4U2lGcXFWa1NFbnZSQnpreVF6OXVhMW1oeHdIdkFNMjBJa09UZGgycjRkMjZ6Z1dxNC10enJIVDZJdlVSQjRxQlBZc05Tdw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784670931,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784525036,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The US has launched a military strike against Iran for the ninth consecutive day, escalating tensions in the region. Iran has reported that two oil tankers in the Strait of Hormuz have exploded and been immobilized. The Strait of Hormuz is a critical waterway for global oil trade, with approximately 20% of the world's oil passing through it. The recent escalation of tensions between the US and Iran has increased the risk of supply disruptions and price volatility in the oil market. This could have a negative impact on oil-producing companies and related industries.",
+      "impact": "The recent developments are likely to have a short-term negative impact on oil prices, which could lead to a decline in earnings for oil-producing companies. This could also lead to a decline in the valuation of companies with high exposure to the oil industry. The increased tensions and risk of supply disruptions could also lead to a decline in investor sentiment towards oil-related stocks, making them less attractive to investors. In the medium term, the increased uncertainty and risk could lead to a decline in investment in the oil industry, further exacerbating the negative impact on oil prices and related companies.",
+      "risks": [
+        "Supply disruption risk",
+        "Price volatility risk",
+        "Investor sentiment risk"
       ]
     }
   },
@@ -1354,6 +1423,29 @@
     }
   },
   {
+    "id": "8241801",
+    "headline": "Stocks fall as oil gains; Iran tensions, earnings in focus - Reuters",
+    "summary": "Stocks fall as oil gains; Iran tensions, earnings in focus  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLXNOVkRxS1o3Q3pZUnR2TzZIVmRBbUs5MGZRYV9xRXJmVl8wUklWb0RfRjNETm5HR3Q3OEd1R3NZS0Nrc3Q0OGdQMDlVX041OGMybkpoZ0VWTFZ0Mlp4bGJmeXFUMzQ2NEpTdEFXbWh6eUNUQ1BXbkRRcHFUWnhLa3Fhdw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784590059,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784525083,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Asian shares are hesitant as oil prices continue to climb, with investors awaiting earnings reports from major companies. The oil price surge is a concern for energy companies, while also benefiting them in the short term. The market is also cautious ahead of the release of earnings reports, which can significantly impact stock prices. This uncertainty is causing a hesitation in the market, with investors waiting for more clarity on the earnings outlook and oil prices.",
+      "impact": "The oil price surge may have a short-term positive impact on energy companies, but it also increases costs for other industries, potentially leading to a decrease in their earnings. The upcoming earnings reports will be crucial in determining the direction of the market, with a strong performance potentially boosting investor sentiment and driving stock prices up. However, a disappointing earnings season could lead to a decline in stock prices, especially for companies with high valuations.",
+      "risks": [
+        "oil price volatility risk",
+        "earnings disappointment risk",
+        "valuation risk"
+      ]
+    }
+  },
+  {
     "id": "8241686",
     "headline": "Oil settles 1% higher as hopes of renewed US-Iran negotiations offset Houthi threat - Reuters",
     "summary": "Oil settles 1% higher as hopes of renewed US-Iran negotiations offset Houthi threat  Reuters",
@@ -1419,6 +1511,29 @@
         "demand slowdown risk",
         "regulatory risk",
         "valuation risk"
+      ]
+    }
+  },
+  {
+    "id": "8242004",
+    "headline": "Dollar gains as US-Iran war gauged; sterling eases as Burnham steps in - Reuters",
+    "summary": "Dollar gains as US-Iran war gauged; sterling eases as Burnham steps in  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQUF3N3hrQll1dVJIZlhUcFFScG1rdm5iTEFqU28yVVZKOVdDN29mZFpTVjhQWE1qdVo1emx6WEk1Z0drMFNLLXp4X0pLSUtDZ1pWdHlPR0Q3b29TVlFnQXpncklqbDBHc3pDQW9SNXdlOFMzU2xKTXhQNnhMS05KaTlDSDl6Sk9DNXBIMnJsMWlydGpFLTBUbzVZbWt3US1sVWE5Y0docnJfMEtQdElvaQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784588142,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784525144,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The US-Iran conflict has intensified, leading to a firmer dollar and a surge in oil prices, with Brent hitting $90. The conflict has increased tensions in the Middle East, which is a major oil-producing region. This has led to concerns about supply disruptions and a potential increase in oil prices. The dollar's strength is also making imports more expensive, which could lead to higher inflation and a stronger US economy. This could have a positive impact on US companies with significant oil reserves or exposure to the energy sector.",
+      "impact": "The potential impact on the market is bearish, particularly for companies with significant exposure to the energy sector. A stronger dollar and higher oil prices could lead to increased costs for companies with significant import exposure, which could negatively impact their earnings. This could also lead to a decrease in consumer spending, which could have a negative impact on the overall economy. In the short-term, oil prices are likely to remain volatile, which could lead to increased uncertainty for companies in the energy sector.",
+      "risks": [
+        "Increased oil prices risk",
+        "Supply chain disruption risk",
+        "Inflation risk"
       ]
     }
   },
@@ -1534,29 +1649,6 @@
         "Oil price volatility risk",
         "Geopolitical risk",
         "Economic slowdown risk"
-      ]
-    }
-  },
-  {
-    "id": "8241904",
-    "headline": "Houthis announce Saudi naval blockade, threatening new front in US-Iran war - Reuters",
-    "summary": "Houthis announce Saudi naval blockade, threatening new front in US-Iran war  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbmtOemhMR1UtaVNoMENBMHltNEpKTWJNekRXUEtSa3hidndTM0VZVnRoTEJlV2ZENWtkYVFCUkJtSk8zdFhPeEJQSXRNMS1vWC03N2NJek14WklXdzhNZWkzMnZRUFpGcHg2OXotaHpyVW9jblFTYUM4U2lGcXFWa1NFbnZSQnpreVF6OXVhMW1oeHdIdkFNMjBJa09UZGgycjRkMjZ6Z1dxNC10enJIVDZJdlVSQjRxQlBZc05Tdw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784576760,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784525036,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The US has launched a military strike against Iran for the ninth consecutive day, escalating tensions in the region. Iran has reported that two oil tankers in the Strait of Hormuz have exploded and been immobilized. The Strait of Hormuz is a critical waterway for global oil trade, with approximately 20% of the world's oil passing through it. The recent escalation of tensions between the US and Iran has increased the risk of supply disruptions and price volatility in the oil market. This could have a negative impact on oil-producing companies and related industries.",
-      "impact": "The recent developments are likely to have a short-term negative impact on oil prices, which could lead to a decline in earnings for oil-producing companies. This could also lead to a decline in the valuation of companies with high exposure to the oil industry. The increased tensions and risk of supply disruptions could also lead to a decline in investor sentiment towards oil-related stocks, making them less attractive to investors. In the medium term, the increased uncertainty and risk could lead to a decline in investment in the oil industry, further exacerbating the negative impact on oil prices and related companies.",
-      "risks": [
-        "Supply disruption risk",
-        "Price volatility risk",
-        "Investor sentiment risk"
       ]
     }
   },
@@ -2562,29 +2654,6 @@
     }
   },
   {
-    "id": "8241801",
-    "headline": "Stocks fall as oil gains; Iran tensions, earnings in focus - Reuters",
-    "summary": "Stocks fall as oil gains; Iran tensions, earnings in focus  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLXNOVkRxS1o3Q3pZUnR2TzZIVmRBbUs5MGZRYV9xRXJmVl8wUklWb0RfRjNETm5HR3Q3OEd1R3NZS0Nrc3Q0OGdQMDlVX041OGMybkpoZ0VWTFZ0Mlp4bGJmeXFUMzQ2NEpTdEFXbWh6eUNUQ1BXbkRRcHFUWnhLa3Fhdw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784507700,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784525083,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Asian shares are hesitant as oil prices continue to climb, with investors awaiting earnings reports from major companies. The oil price surge is a concern for energy companies, while also benefiting them in the short term. The market is also cautious ahead of the release of earnings reports, which can significantly impact stock prices. This uncertainty is causing a hesitation in the market, with investors waiting for more clarity on the earnings outlook and oil prices.",
-      "impact": "The oil price surge may have a short-term positive impact on energy companies, but it also increases costs for other industries, potentially leading to a decrease in their earnings. The upcoming earnings reports will be crucial in determining the direction of the market, with a strong performance potentially boosting investor sentiment and driving stock prices up. However, a disappointing earnings season could lead to a decline in stock prices, especially for companies with high valuations.",
-      "risks": [
-        "oil price volatility risk",
-        "earnings disappointment risk",
-        "valuation risk"
-      ]
-    }
-  },
-  {
     "id": "8241580",
     "headline": "Plenty of stocks are working in this market — you just have to look beyond tech",
     "summary": "The big unanswered question is how long there can be such terrific opportunities outside tech before it dawns on those overweight the sector.",
@@ -2604,29 +2673,6 @@
         "execution risk: Scharf's strategy may not be fully executed or may face unexpected challenges",
         "regulatory risk: Wells Fargo may face increased regulatory scrutiny or penalties as it expands its businesses",
         "macroeconomic risk: a downturn in the economy could impact the bank's ability to execute its strategy"
-      ]
-    }
-  },
-  {
-    "id": "8242004",
-    "headline": "Dollar gains as US-Iran war gauged; sterling eases as Burnham steps in - Reuters",
-    "summary": "Dollar gains as US-Iran war gauged; sterling eases as Burnham steps in  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQUF3N3hrQll1dVJIZlhUcFFScG1rdm5iTEFqU28yVVZKOVdDN29mZFpTVjhQWE1qdVo1emx6WEk1Z0drMFNLLXp4X0pLSUtDZ1pWdHlPR0Q3b29TVlFnQXpncklqbDBHc3pDQW9SNXdlOFMzU2xKTXhQNnhMS05KaTlDSDl6Sk9DNXBIMnJsMWlydGpFLTBUbzVZbWt3US1sVWE5Y0docnJfMEtQdElvaQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784504760,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784525144,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The US-Iran conflict has intensified, leading to a firmer dollar and a surge in oil prices, with Brent hitting $90. The conflict has increased tensions in the Middle East, which is a major oil-producing region. This has led to concerns about supply disruptions and a potential increase in oil prices. The dollar's strength is also making imports more expensive, which could lead to higher inflation and a stronger US economy. This could have a positive impact on US companies with significant oil reserves or exposure to the energy sector.",
-      "impact": "The potential impact on the market is bearish, particularly for companies with significant exposure to the energy sector. A stronger dollar and higher oil prices could lead to increased costs for companies with significant import exposure, which could negatively impact their earnings. This could also lead to a decrease in consumer spending, which could have a negative impact on the overall economy. In the short-term, oil prices are likely to remain volatile, which could lead to increased uncertainty for companies in the energy sector.",
-      "risks": [
-        "Increased oil prices risk",
-        "Supply chain disruption risk",
-        "Inflation risk"
       ]
     }
   },
@@ -22687,52 +22733,6 @@
         "Escalating tensions and potential oil price volatility",
         "Disruption to oil production and transportation",
         "Uncertainty and volatility in the Middle East region"
-      ]
-    }
-  },
-  {
-    "id": "8135332",
-    "headline": "ISRO fires up next-gen rocket engine",
-    "summary": "The test, carried out on June 24 at the ISRO Propulsion Complex, demonstrated stable operation of the engine’s power head at a thrust level of 175 tons",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-27/india-s-isro-fires-up-next-gen-rocket-engine",
-    "source": "Bloomberg",
-    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
-    "relatedSymbols": [],
-    "publishedAt": 1782544458,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782640184,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "India's space agency ISRO has successfully tested its next-generation rocket engine, achieving stable operation at a thrust level of 175 tons. This milestone is a significant step forward for ISRO's space program, demonstrating the country's growing capabilities in rocket propulsion technology. The development of advanced rocket engines is crucial for ISRO's future satellite and space exploration missions, which could lead to increased government funding and contracts. This news is positive for the Indian space industry, suggesting a bright future for companies involved in space-related activities.",
-      "impact": "The successful test of ISRO's next-gen rocket engine could lead to increased government funding and contracts for the Indian space industry, potentially benefiting companies like Hindustan Aeronautics Ltd. (HAL) and other space-related businesses. This development could also boost investor sentiment towards these stocks, leading to increased liquidity and potentially higher valuations. In the short-term, the news may not have a significant impact on earnings outlook, but it sets a positive tone for the industry's future growth prospects.",
-      "risks": [
-        "Regulatory approval risk for future space missions",
-        "Technical challenges in scaling up production of the new engine",
-        "Dependence on government funding for the Indian space industry"
-      ]
-    }
-  },
-  {
-    "id": "8139496",
-    "headline": "Latin America's 10 deadliest earthquakes - Reuters",
-    "summary": "Latin America's 10 deadliest earthquakes  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUVlSc0NBYnMyYzdWeGlxNnB6U0lVTUx3T3NLT3lGckROUWNlWjRoMWRmSVRyR1FzTHQ3dDBHTUJNMUFoUi1USVgwbnlOWXhyVlM0V0ZyWmd4cVBxTlpIMXFlV0RBYUNmam1QWlRsVm8zNEdHRkN5Q3NWd3ZLci1GODk3U0xrRW0wblhXeklRRU5PRDhKcENkcUFrUkk?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782543600,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782714756,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Latin America's deadliest earthquakes have had a significant impact on the region's infrastructure, causing widespread destruction and loss of life. The article highlights the top 10 deadliest earthquakes in the region, with the most recent one occurring in 2010. The earthquakes have resulted in significant economic losses, with estimates suggesting billions of dollars in damages. The article also notes that the region's seismic activity is a major concern, with many countries vulnerable to earthquakes.",
-      "impact": "The news is unlikely to have a direct impact on the stocks of construction or infrastructure companies in Latin America, as the article is a historical summary and does not provide any new information on current or future projects. However, the article may have a medium-term impact on the region's economic growth, which could potentially affect the earnings outlook of companies operating in the region. The article may also increase investor sentiment towards companies with exposure to Latin America, as investors may become more cautious about the region's economic and infrastructure risks.",
-      "risks": [
-        "economic growth slowdown risk",
-        "infrastructure risk",
-        "regional instability risk"
       ]
     }
   }
