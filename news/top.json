@@ -1,5 +1,70 @@
 [
   {
+    "id": "8254702",
+    "headline": "Under-the-radar beverage name captures trader's attention",
+    "summary": "Michael Khouw breaks down how he's trading this stock ahead of earnings.",
+    "url": "https://www.cnbc.com/2026/07/22/under-the-radar-beverage-name-captures-traders-attention.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108338586-1784734656687-gettyimages-631887682-INDUSTRIAL_PRODUCTION.jpeg?v=1784734682&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1784735740,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784736535,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Ball Corp is entering an encouraging operational phase driven by improving cash flow and a refreshed management team. The company's debt is not yet investment grade, but management's credit-focused commitments and capital discipline offer a clear roadmap toward improving their balance sheet. This could lead to upgrades from rating agencies, reducing borrowing costs and dampening equity volatility. The stock has a modest forward PE of 14x and a free cash flow yield of over 4%. Historically, Ball's earnings-related moves have been modest, making it an attractive setup for premium sellers.",
+      "impact": "The potential upgrade to investment grade could modestly lower borrowing costs and reduce equity volatility, making the stock more attractive to investors. This could lead to a short-term price increase as investors reevaluate the stock's valuation. In the medium term, the stock's strong cash flow and debt reduction discipline could drive further growth and expansion of the company's operations.",
+      "risks": []
+    }
+  },
+  {
+    "id": "8254392",
+    "headline": "Trump: US will attack Iranian bridge, power plant for every ship targeted in Hormuz - Reuters",
+    "summary": "Trump: US will attack Iranian bridge, power plant for every ship targeted in Hormuz  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZWlVdEVsdmI1TDRsamNjMzc3R1BFcERycV9lQVpZd0E3U08ya044Ql94TEJFMTI0eUIzUkstWU1ucmJhZWZ6bkZCUFlmb1NLVnRxT0M4U0FJN3gtNjhZWjhLSXVDcDVOTGpjNWdSYllSNlVyRWoxejJ5U2oyVnhRYVc4Z2JueDVudDRvYnZGMV9EcnJJakFFZDVlOVd0TG1BOWJoS1FRLWl4QmNQbVROZjZadkJjMEk?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784727609,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784736585,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "US President Trump has threatened to attack Iranian targets, including a bridge and a power plant, in response to any ships being targeted in the Strait of Hormuz. This escalation of tensions between the US and Iran has raised concerns about the stability of the region and the potential for further conflict. The Strait of Hormuz is a critical waterway for global oil exports, with many major oil-producing countries relying on it for transportation. The increased risk of conflict in the region could impact global oil prices and the overall economic outlook.",
+      "impact": "The potential for conflict in the Strait of Hormuz could lead to a short-term increase in oil prices, which could negatively impact the earnings of companies with high oil exposure, such as oil majors like ExxonMobil (XOM) and Chevron (CVX). In the medium term, the increased uncertainty and instability in the region could lead to a decline in investor sentiment and a decrease in stock prices. The US military's actions could also lead to a decrease in liquidity in the oil and gas sector, as investors become more cautious and reduce their exposure to the region.",
+      "risks": [
+        "Increased oil prices risk",
+        "Decreased investor sentiment risk",
+        "Decreased liquidity risk"
+      ]
+    }
+  },
+  {
+    "id": "8254496",
+    "headline": "More ships change course in Red Sea after Houthi threats, data shows - Reuters",
+    "summary": "More ships change course in Red Sea after Houthi threats, data shows  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeVpnSVhMeHp3ZE5RTlFFUEF6OW5PaUZsWGtoM3J2eUh1eGczY0hsVkt5MzRLY2s5YnJqaUxmVU13bG5QYmVrZmZoYzFNbXpRbVhkSHpVWkQtOGJ2UnNNdHh4YnU0V3hvRS1WcTd4UGJ5V0M0c21CRG5CdS1ZenVKNkJ2V2pwSEt5NWNBOEg2UkZmOVJFd3JZSXZOV3hyeW9SQjE2dTZQbzBZOVRBcHVwZ3ZpTWdOeGJoX3JRTkpNTHc5eGhsbUE?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784726465,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784736631,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The article reports that more ships have changed course in the Red Sea due to Houthi threats, indicating a heightened risk of maritime disruptions. The Houthi rebels have been known to target shipping vessels in the region, causing concerns for global trade and commerce. This development is likely to impact the shipping industry, particularly companies that operate in the region. The increased risk of disruptions could lead to higher costs and reduced efficiency for these companies, potentially affecting their earnings and stock performance.",
+      "impact": "The potential impact on related stocks could be negative in the short-term, as investors may become risk-averse and sell their shares in response to the increased uncertainty. This could lead to a decline in stock prices, particularly for companies with significant exposure to the shipping industry. In the medium-term, the impact could be more pronounced if the situation escalates and disrupts global trade, leading to a decline in earnings for companies that rely on the Red Sea for their operations.",
+      "risks": [
+        "maritime disruption risk",
+        "trade war risk",
+        "earnings decline risk"
+      ]
+    }
+  },
+  {
     "id": "8254052",
     "headline": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
     "summary": "The rise in oil prices cannot be ignored today.",
@@ -42,6 +107,29 @@
         "escalation of tensions in the region",
         "increased military spending",
         "volatility in the oil market"
+      ]
+    }
+  },
+  {
+    "id": "8254391",
+    "headline": "Iran executes man over January protests, judiciary's news agency says - Reuters",
+    "summary": "Iran executes man over January protests, judiciary's news agency says  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOHRKUnQzYWU1MVNhYjZiVWtKQ2duVzBVSHQ5NTlURUhvY3hIX1NiNGlxVTYwckQxTDA2QU9ZWmdtN3pneDB0anpieGQtV1RGNTZJcnY0bEkzeUZwRmctRnF2V1ZGREJkN3I4dHJlWVhmZmVZNHpYckVraW9FalFjcGtDQ3NoaWZUUG1CZkUxM3ljR0RCaWtybWFtcWkwTThVRkJxbWpJaTBMaFB2QnN1YTVBbGpXa3lWTVZmTzdn?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784721256,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784736678,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Iran's judiciary has executed a man in connection with the January protests, highlighting the country's ongoing human rights concerns and potential for further unrest. This development is likely to exacerbate the already tense relationship between Iran and the international community, particularly the US. The protests in January were sparked by economic grievances, including high inflation and unemployment, which could further erode investor confidence in the country's economic prospects. The situation may also impact the country's ability to attract foreign investment, which is crucial for its economic growth.",
+      "impact": "The execution is likely to have a short-term negative impact on investor sentiment towards Iranian stocks, as it reinforces concerns about the country's human rights record and potential for social unrest. This may lead to a decline in demand for Iranian assets, including stocks, bonds, and commodities. In the medium term, the situation could also impact the country's economic growth prospects, potentially leading to a decline in earnings for companies with significant exposure to the Iranian market.",
+      "risks": [
+        "Increased social unrest and protests",
+        "Economic sanctions and isolation",
+        "Decline in investor confidence and demand for Iranian assets"
       ]
     }
   },
@@ -116,8 +204,8 @@
   },
   {
     "id": "8252463",
-    "headline": "More Red Sea shipments disrupted as Rubio says Iran not serious about talks - Reuters",
-    "summary": "More Red Sea shipments disrupted as Rubio says Iran not serious about talks  Reuters",
+    "headline": "More Red Sea shipments disrupted, Rubio says Iran not serious about talks - Reuters",
+    "summary": "More Red Sea shipments disrupted, Rubio says Iran not serious about talks  Reuters",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONHRSTEdBY3l6NGhsLTFvUDRHeThEZkgzQzdzeDVSOWk1NzJ3R3dCT1JZWkE0VWoycVhEaG0wdmtWTnFyWElMbklkcFRUMW9qTkdqWGFfVHpDaDgyTnFNWGF4clVQSENtY2x5OS14dDBYX3JjYTdXRkV1SUZlcDU3eTduYXp3VndEMzlWZmpvZjY5S3dhVmdMdk5JVFhvNzNCQmJBRjBRX1daQ2ZB?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -185,8 +273,8 @@
   },
   {
     "id": "8252151",
-    "headline": "Rubio holds talks with China's Wang Yi as regional powers join ASEAN meet - Reuters",
-    "summary": "Rubio holds talks with China's Wang Yi as regional powers join ASEAN meet  Reuters",
+    "headline": "Rubio meets China's Wang at regional gathering where Iran war looms large - Reuters",
+    "summary": "Rubio meets China's Wang at regional gathering where Iran war looms large  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQUU3WElZU3gydzRFZEY1Q1lSR1pQOWM3M2dfM3pQbkFwMlFJbG45LS1MZnFYX2M3dVBpRVlyR3lLWlhGOXpHTGxyVjBsNUY0d0RkVDRfcnV3MGdaQ3dLc0Z5dzNqakR3b0FSNjBNemduOU9jRXNQd2NOZ3BCQmJOdHJPX25mcWhHWWZXOFdBZ0Z6aEJwak1mcWVtZkowU2l6QWgwZ0NnczdZeDJmTS1yS0RFTnNQMTFjWWhv?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -433,6 +521,29 @@
     }
   },
   {
+    "id": "8254601",
+    "headline": "Fuel costs cloud Alaska Air's outlook even as demand remains strong - Reuters",
+    "summary": "Fuel costs cloud Alaska Air's outlook even as demand remains strong  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVXgweUFtZVZBRnl5NGM5YURQMkg2cllfTFIxU0ZuRUZ4OXdSdzVxeGFVY3dYN2xZT1pzdHJKb21LVENTTXhKUVlnZnRra0MyaldCdVFYNDEwd1VHSjBNR2NENnZMZjA3akg5NUZMdEFvRmt6RHZqVk9WTFl0enVVXzF6RU0za2djX3hmNk40UTd1dDFlSjJ4MEdXb01kdmVLWFlzaExJSng2V2REelZQZXA3RW5NQkw4U3ByaTljdGJ1QQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784667540,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784736723,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Alaska Air's outlook is clouded by rising fuel costs, despite strong demand. The airline's fuel costs are increasing due to higher jet fuel prices and a stronger US dollar. This is a concern for the company's profit margins, as fuel costs are a significant expense for airlines. The news is a reminder that the airline industry is heavily exposed to fuel price volatility. The company's strong demand is a positive, but it may not be enough to offset the impact of rising fuel costs.",
+      "impact": "The news is likely to have a negative impact on Alaska Air's stock price in the short term, as investors may worry about the company's profit margins. The increasing fuel costs may also lead to a reevaluation of the airline's valuation, potentially resulting in a lower stock price. In the medium term, the company may need to adjust its pricing strategy or seek cost-cutting measures to mitigate the impact of rising fuel costs.",
+      "risks": [
+        "Fuel price volatility risk",
+        "Profit margin compression risk",
+        "Valuation reevaluation risk"
+      ]
+    }
+  },
+  {
     "id": "8251015",
     "headline": "War in Iran has cost the US $37.5 billion so far, Pentagon says - Reuters",
     "summary": "War in Iran has cost the US $37.5 billion so far, Pentagon says  Reuters",
@@ -526,8 +637,8 @@
   },
   {
     "id": "8251120",
-    "headline": "EXCLUSIVE: Pakistan seeks $10 billion fund from US after mediating Iran talks, source says - Reuters",
-    "summary": "EXCLUSIVE: Pakistan seeks $10 billion fund from US after mediating Iran talks, source says  Reuters",
+    "headline": "EXCLUSIVE: Pakistan seeks $10 billion fund from US after mediating Iran talks, sources say - Reuters",
+    "summary": "EXCLUSIVE: Pakistan seeks $10 billion fund from US after mediating Iran talks, sources say  Reuters",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT190ZlgyOU0tU2VVdFRleldkdkdEZ0JiUEJGVlFiNUFQQ3RPLTdmSi15MTJ5V19tSXZOTWxlQWV3cHBkMU8wU3BxRDFfbVZNMFdpZnNPbmVHd09XZV85YTdCaTFBejFzYXd6WUpkVTI1MUdyLWJDRXNSZVhGWjMwajlEOEQtWlVqVFRyRklQQ0VkTk1pdzRIbjRjS3RQNjVkMGIxRHJEM21IMFdqUS1jWHJCUDUzY093bjg5ZENvU09PYTVTaGc4?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1798,7 +1909,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1784567880,
+    "publishedAt": 1784568202,
     "analysis": {
       "version": 2,
       "generatedAt": 1784584595,
@@ -22618,121 +22729,6 @@
         "Over-reliance on a few successful films may lead to a decline in box office performance if they underperform expectations",
         "The ongoing competition from streaming services may continue to erode traditional box office revenue",
         "Geopolitical tensions or global economic downturns could impact consumer spending on entertainment"
-      ]
-    }
-  },
-  {
-    "id": "8131906",
-    "headline": "Explosive drone targets Iranian Kurdish opposition camp north of Iraq's Erbil, security sources say - Reuters",
-    "summary": "Explosive drone targets Iranian Kurdish opposition camp north of Iraq's Erbil, security sources say  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaW5xT1FoZjhhZUMxZlZNYzF1S2ZkeXYzTWk1d3EwaXE5TTJhd1RfT1pBeXN1aE4weWdWUWlkYkNnV0RXcXFHU2tuTjN2bDBYMDhTeExHSDdOY3hZT2FlcHZOM2RFZ1hVeWc1VmRDaV9mS0U4SWpkenBra1JIb3YtYzFmNHVrVG80d19hTVI0Z3RCcFR2UFFZVGs0bmF0bTBfUkRHZnVfYWxpV0FmbE9CeGV2QXZZdVRUVUhldXh6Sk95OEppV3c?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782549479,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782575651,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "A drone attack on an Iranian Kurdish opposition camp in Iraq's Erbil region has raised tensions in the region. The incident is likely related to the ongoing conflict between Iran and its Kurdish opposition groups. This event may have implications for the security and stability of the region, potentially affecting the operations of companies with interests in Iraq, such as oil and gas producers. The incident may also impact the geopolitical dynamics between Iran and its neighbors, including Turkey and the United States.",
-      "impact": "The attack may lead to a short-term increase in volatility for oil and gas stocks with exposure to the region, such as those listed on the Iraqi Stock Exchange. In the medium term, the incident may affect the earnings outlook for companies operating in Iraq, particularly those in the energy sector, as instability in the region may impact production and transportation costs. The incident may also contribute to a negative sentiment shift towards Iranian stocks, potentially affecting their valuations.",
-      "risks": [
-        "geopolitical instability risk",
-        "security risk",
-        "earnings volatility risk"
-      ]
-    }
-  },
-  {
-    "id": "8142790",
-    "headline": "China industrial profits stay resilient as economy leans on factories, exports - Reuters",
-    "summary": "China industrial profits stay resilient as economy leans on factories, exports  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM0VOakRicmVyWHlPTnhLZi1KbFJpUTJKbE9qWVBYTUNNNTR3dkJUQVZFSFg0ZGc0VFJGZWVuUnFHaXRwZF9vVnVEeVFMTGNZSWNoZms4RDVLU0VkR2lCMXZ0Nmhma2gwMTBJUzdzODZjLWFQT3gtOWZjeVkzaFYzcW50ZzQ0LWIzTnZDTFBiUG5UM180WTlZWEx3WU9sNVB3MC1qWjlLb3ktTEwyUkRpTFVYRmotSWNNNTM0ZkdIaktaczcz?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782547606,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782768488,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "China's industrial profits have remained resilient, driven by the country's reliance on factories and exports. The data suggests that the economy is shifting its focus from consumption to production, with industrial profits increasing by 10.3% year-over-year. This trend is attributed to the government's efforts to boost domestic manufacturing and exports, which has led to a surge in production and sales. As a result, the country's industrial sector has become a key driver of economic growth.",
-      "impact": "This news is likely to have a positive impact on the earnings outlook for companies involved in the industrial sector, particularly those with a significant exposure to exports. The increased production and sales are expected to drive revenue growth and improve profitability in the short-term. However, the medium-term impact may be tempered by concerns over the sustainability of the current growth trajectory and potential risks associated with a slowdown in global demand. The news may also lead to a re-rating of the valuation of companies with a strong export orientation.",
-      "risks": [
-        "Global demand slowdown risk",
-        "Trade war risk",
-        "Over-reliance on exports risk"
-      ]
-    }
-  },
-  {
-    "id": "8132820",
-    "headline": "World Bank approves $1.1 billion emergency financing for Bangladesh - Reuters",
-    "summary": "World Bank approves $1.1 billion emergency financing for Bangladesh  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMjZRMkdVV1Y4WFZ6VXQ3bVRud0Y3NTJsLTdCcU01cEVkVkFLWU5GZ29rSWEtR2Q0NTV1MHJQRnhxS29KdVNld2M2TWF2WWk0QVZvLWVOZ3Vvb1JMa2lwbE00d2RnUFV1X0VDUEVNWG9iYk5jTE96ei1vMzFlT3RDd25XZGFQd3JBVEx6U194eFc3d2NVQ2JSMWdTNm0ydFRLVjJrSWhpSFRYNnM3czdTaHBvTDBhZmc?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782546369,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782593023,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The World Bank has approved $1.1 billion in emergency financing for Bangladesh, providing a significant boost to the country's economy. This financing will help Bangladesh address its balance of payments crisis and support its economic recovery. The country has been facing a severe economic downturn due to the COVID-19 pandemic and the Russia-Ukraine conflict. The World Bank's emergency financing will help stabilize the country's currency and support its fiscal policy. The financing will also help Bangladesh improve its infrastructure and social services.",
-      "impact": "This news is likely to be positive for Bangladesh's economy and its related industries, such as construction and infrastructure. The emergency financing will provide a short-term boost to the country's economic growth, which may lead to an improvement in earnings outlook for companies operating in these sectors. The medium-term impact may be a decrease in interest rates, making borrowing cheaper for companies and households, which could also positively impact the country's overall economic growth. This, in turn, may lead to an increase in investor sentiment and a rise in stock prices.",
-      "risks": [
-        "Currency devaluation risk",
-        "Fiscal policy risk",
-        "Implementation risk"
-      ]
-    }
-  },
-  {
-    "id": "8131181",
-    "headline": "Iran coach criticizes US travel restrictions after Egypt match - Reuters",
-    "summary": "Iran coach criticizes US travel restrictions after Egypt match  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeURqdnpLTlJIUDEzUDJRVFBlcUR0VXVzdVRxODZ4TmZYU3dBM1REeTdMUTZJZ1ZTUFNHTGd1Q0lOZWpoYUppUTd0TE5LSHFUYXpjOWVIaTM2NVlscUxBSjhkQ2hIMnBEc1h6R3F1N0x0bnpvblRjYkVoWHV3ZWktNjMzLThFM1VPR2E1dUs4Q1JTbEV3VFN2bFhTSUE3eXVER0lxN254SkRQMEJCRHl4c1h3?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782545821,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782558987,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Iran's national football team coach has publicly criticized the US travel restrictions, which have affected the team's ability to travel to the US for a scheduled match. This incident is not directly related to any specific company or industry, but it may have broader implications for US-Iran relations and global politics. The coach's statement is a reflection of the ongoing tensions between the two countries, which have been exacerbated by the US travel restrictions. The incident highlights the complexities of international relations and the potential impact on global events.",
-      "impact": "The news is unlikely to have a direct impact on the stocks of companies operating in the US or Iran, as it is a geopolitical event rather than an economic or financial development. However, it may contribute to a negative sentiment towards the US and its policies, which could potentially affect the stocks of companies with significant exposure to the US market or those with ties to Iran. In the short term, this news may lead to increased volatility in the markets, but it is unlikely to have a significant impact on the earnings outlook or valuation of US or Iranian companies.",
-      "risks": [
-        "geopolitical risk",
-        "diplomatic relations risk",
-        "sentiment risk"
-      ]
-    }
-  },
-  {
-    "id": "8130879",
-    "headline": "Iran says it struck US-linked targets in response to US attacks - Reuters",
-    "summary": "Iran says it struck US-linked targets in response to US attacks  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMXpUT2FRX1NCT3hyTF9kaXZmRVFXeDF5dmliRDNpb0R1S2VtYXJOYnMtWUlZNlM2bkRVX2twR2tqVElmeENmQzBnZ3ZyNXRiZGFZT2lpR2tuVU5ISkdTSERPb05BWDdrRHZSVV9UWkZ6S2lxUVM1VHo0dk0yZzJKVlZiTGVuaTJDRHcwdkRFZ1ktT2RHTkFoQmZVeGhuX2wzRjh0MGIyMEZQUmhXVTlhcg?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782545071,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782559033,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Iran's retaliatory strikes against US-linked targets in response to US attacks have heightened tensions in the Middle East. The development comes as a surprise to the market, which was expecting a de-escalation of tensions between the two nations. The strikes are likely to exacerbate the already tense geopolitical situation, with potential implications for oil prices and global trade. The US has previously imposed sanctions on Iran, which has led to a decline in the country's oil exports.",
-      "impact": "The escalating tensions between the US and Iran are likely to have a bearish impact on the oil and energy sector, particularly on companies with significant exposure to the Middle East region. Companies such as ExxonMobil (XOM) and Chevron (CVX) may see their earnings outlook decline due to potential disruptions in oil production and transportation. The increased uncertainty and volatility in the region may also lead to a decline in investor sentiment, making it challenging for these companies to raise capital and execute their growth strategies.",
-      "risks": [
-        "Escalating tensions and potential oil price volatility",
-        "Disruption to oil production and transportation",
-        "Uncertainty and volatility in the Middle East region"
       ]
     }
   }
