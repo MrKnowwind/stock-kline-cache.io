@@ -1,5 +1,61 @@
 [
   {
+    "id": "8258760",
+    "headline": "A tax break for preserving land has drawn IRS scrutiny. Here’s when it still makes sense",
+    "summary": "For wealthy landowners, conservation easements can still make sense if you avoid these IRS red flags.",
+    "url": "https://www.cnbc.com/2026/07/23/conservation-easements-tax-incentives-irs-crackdown.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108336633-1784297555792-gettyimages-588708752-kf010666.jpeg?v=1784297646&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1784806201
+  },
+  {
+    "id": "8258624",
+    "headline": "Moonshot AI accessed Nvidia's chips despite Chinese export ban, White House official says",
+    "summary": "A White House official said Moonshot AI, which released the powerful Kimi K3 model last week, accessed Nvidia's GB300 chips in Thailand.",
+    "url": "https://www.cnbc.com/2026/07/23/moonshot-kimi-nvidia-ai-chips-export-ban.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108280621-1773959104036-gettyimages-2266837944-NVIDIA_GTC.jpeg?v=1773959281&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1784805224,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784808843,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Nvidia's GB300 chips, which are under export restrictions to China, have been accessed by Chinese AI company Moonshot AI, despite the ban. Moonshot's Kimi K3 model, which was released last week, has surpassed some of its competitors in benchmarks. This development highlights the ongoing US-China AI arms race and the efforts of Chinese companies to acquire advanced AI technology. The US is considering new legislation to close export control loopholes and limit access to AI hardware.",
+      "impact": "This news is bearish for Nvidia, as it suggests that the company's advanced chips are being accessed by Chinese companies despite export restrictions. This could lead to a decrease in demand for Nvidia's chips, negatively impacting its earnings outlook and valuation. Additionally, the news may also impact the sentiment towards the US tech sector, as it highlights the challenges in limiting the spread of advanced AI technology. In the short term, this could lead to a decline in Nvidia's stock price and potentially affect the overall market sentiment towards the US tech sector.",
+      "risks": [
+        "regulatory approval risk for new legislation",
+        "demand slowdown risk for Nvidia's chips",
+        "sentiment risk for US tech sector"
+      ]
+    }
+  },
+  {
+    "id": "8258625",
+    "headline": "American Airlines slashes 2026 earnings outlook as fuel costs spike",
+    "summary": "American Airlines further cut its 2026 earnings outlook, citing higher fuel costs/",
+    "url": "https://www.cnbc.com/2026/07/23/american-airlines-aal-2q-2026-earnings.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108310665-1779380007938-IMG_9160_1.jpeg?v=1779383130&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1784805020,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784808893,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "American Airlines has cut its 2026 earnings outlook due to higher fuel costs, citing a spike in fuel prices that is not fully offset by increased fares. This is a concerning sign for the airline industry, as fuel costs are the largest expense for carriers after labor. Despite strong demand and higher fares, American Airlines is expecting an adjusted loss per share of up to 65 cents, down from its previous estimate of a loss of 40 cents per share to earnings of $1.10. The airline's profit in the second quarter fell 88% from a year earlier, to $71 million, or 11 cents a share.",
+      "impact": "The news is likely to have a negative impact on American Airlines' stock price in the short term, as investors may reassess their expectations for the company's earnings. The cut in earnings outlook also raises concerns about the airline's valuation, as it may lead to a reevaluation of the company's growth prospects. Additionally, the increased fuel costs may lead to higher fares, which could impact passenger demand and ultimately affect the airline's revenue. In the medium term, American Airlines' plans to expand flying and add high-yielding premium seats may help to offset the impact of higher fuel costs, but the company's ability to execute on these plans will be crucial.",
+      "risks": [
+        "Fuel price volatility risk",
+        "Higher labor costs risk",
+        "Passenger demand slowdown risk"
+      ]
+    }
+  },
+  {
     "id": "8257978",
     "headline": "EXCLUSIVE: Buyers to press Qatar, UAE for cheaper, more flexible LNG deals after Hormuz shock - Reuters",
     "summary": "EXCLUSIVE: Buyers to press Qatar, UAE for cheaper, more flexible LNG deals after Hormuz shock  Reuters",
@@ -42,9 +98,32 @@
     }
   },
   {
+    "id": "8258519",
+    "headline": "Cutting off Red Sea oil route may be one crisis too many - Reuters",
+    "summary": "Cutting off Red Sea oil route may be one crisis too many  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcDNZVWRlWjdzWnJpZVllWC1GWWNFSlFhNnB2LTJHWUsxaHlJS3dQYXNrSkhFcG5IbS1DeTkwaWxETVRUQnpxSDhDbTNQMUFHUW9FUUwwZUVmcllHbzBsVkM5WWZJclVyb2pkVlRORFJWVERkRjg3eXdSdi13cVV1SDU1RnRmaDBPQUZvb2IwT1ViNG5ZLTFtY0prQ0dGOVNwVks5Q3g2TS1pTnJ1TUkzVzhBcjNtR0NkTkdwZG1pQTNxWkE?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784786400,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784808940,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The article reports on the potential disruption to the Red Sea oil route, a crucial shipping lane for oil exports from the Middle East. The crisis, caused by the conflict in the region, may lead to a shortage of oil supplies and increased prices. This could have a significant impact on oil-producing countries and companies that rely on this route. The article highlights the potential consequences of this crisis, which may be too much for some companies to handle.",
+      "impact": "The potential disruption to the Red Sea oil route may lead to a short-term increase in oil prices, benefiting oil-producing companies such as Saudi Aramco and National Oilwell Varco. However, in the medium term, the crisis may lead to a decline in oil demand, negatively impacting companies that rely heavily on oil exports, such as shipping companies like Frontline and Tanker Pacific. The increased uncertainty and volatility in the oil market may also lead to a decline in investor sentiment, negatively impacting oil-related stocks.",
+      "risks": [
+        "supply chain disruption risk",
+        "price volatility risk",
+        "demand slowdown risk"
+      ]
+    }
+  },
+  {
     "id": "8257454",
-    "headline": "Houthis say they attacked Saudi tankers in the Red Sea, threatening new chokepoint in Iran war - Reuters",
-    "summary": "Houthis say they attacked Saudi tankers in the Red Sea, threatening new chokepoint in Iran war  Reuters",
+    "headline": "Houthis say they attacked Saudi tankers, threatening new chokepoint in Iran war - Reuters",
+    "summary": "Houthis say they attacked Saudi tankers, threatening new chokepoint in Iran war  Reuters",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOck9rMklSSHp1Z0E2UmlqZUJHSWNxRXNSZGtZd1JTOFdSbUE2amI3RHFmaUNuSS1nU1NzaThJdVIwVzZFcXVIaXNjU3lrSVYtaDF5THNwWkpqUHVwTEFsWklsbnp4ZllTMndIYWhRM0RZa09qaTNiVXVCNmh5a2p6MnBidG1kWkJSUVJnb1RuOXdUcU5MRDVxbzJmcDE2UWZsaVZYRDdCdHlYcG1kUTdKT093ZXI4b3VkWjZNRzdDUDIwWEFWMHRia2FIY3dIdw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -112,8 +191,8 @@
   },
   {
     "id": "8258084",
-    "headline": "Southeast Asia hosts security gathering amid Middle East turmoil - Reuters",
-    "summary": "Southeast Asia hosts security gathering amid Middle East turmoil  Reuters",
+    "headline": "Rubio reassures Asian allies they're not being abandoned as top diplomats meet - Reuters",
+    "summary": "Rubio reassures Asian allies they're not being abandoned as top diplomats meet  Reuters",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVlFUbWJmemtXX2xyMlFhb1lZbTRQQXB0aVNsOFlCN3FKTVlQMGlUcnhWdU02WHItdnZGcU1JUDkteHQ4UUJQTVVKUXNDV2czaWF6czZVdmdZYVl3Rzd2VDBnejJmZkFXalQzZG1mRzlBdjJsendCdElteHMtenlIN1VVbTExSVZyaHlweWgyeHJmVGExWkFxem45dEk2Tm8?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -135,8 +214,8 @@
   },
   {
     "id": "8257352",
-    "headline": "Euro heads for one-week high ahead of ECB policy decision - Reuters",
-    "summary": "Euro heads for one-week high ahead of ECB policy decision  Reuters",
+    "headline": "Dollar hits fresh 40-year high versus yen, edges down against euro - Reuters",
+    "summary": "Dollar hits fresh 40-year high versus yen, edges down against euro  Reuters",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcmxmYW0zRFBGQlpfRDY2bXdwMk1FNzJQVDVOZXhHMTY3QlAzeG5DRDRqeHRNQk1ELWpLTEtSSGpkVjJrcHVzb3RNQmxHc3d2b1JEMGJ1TEN1bDJKVGFzcFl0d0FjbUNBRTRRMDJVM3BST2htNmwtRExMNGo2RTlSREhGZXZYa0ZneWUzY0s4RXVlTWxmLXI0cEJBSW1UbVJrWjBPNw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -158,8 +237,8 @@
   },
   {
     "id": "8256727",
-    "headline": "Oil prices rise for a fifth day on supply concerns amid chokepoint threats - Reuters",
-    "summary": "Oil prices rise for a fifth day on supply concerns amid chokepoint threats  Reuters",
+    "headline": "Oil prices rise for a fifth day as US-Iran hostilities threaten supply routes - Reuters",
+    "summary": "Oil prices rise for a fifth day as US-Iran hostilities threaten supply routes  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcEZlQTh2dnVnblEzaVc4eE81SE92UFhTN2VJSXQ4RGdOQVFLU2FuUTB6d19yWWotOFZzQTRaRmlPanZpYkdPZ18waTVpd0lsaWJPRU9aZkd5VU9lZ3RvYi00RGh3TUFsV3JYTGpNc21BOE54N01TbmtCOWh2UWtUTFhZQVlfVHBNS2F1ZDhJS01RT001UDRBQ3MwYTFqM25uaUcxX1E4R3JTX1k?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -268,29 +347,6 @@
         "Increased geopolitical instability",
         "Potential escalation of US-Iran conflict",
         "Impact on global oil prices and demand"
-      ]
-    }
-  },
-  {
-    "id": "8252876",
-    "headline": "Houthi Red Sea threat would challenge a stretched US military - Reuters",
-    "summary": "Houthi Red Sea threat would challenge a stretched US military  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOThodmVRdFZqSlZuSnpSMDJBb1dkX1NUam1GcVJsRWlHcV9qM0x6MUhXRlJtRXd3MWdKMHpYOVFvUGZjcmUtR1pkSTZsUEd2M2xZS1YtUGRqUkhteGw5QzR6a1ZhcG4wR1c4LXUzaXZrN3ctTlI2Vkc4NzlnUlRBb01pY3kxRTlweVFDWGMydnpsLThrUGlXamcxX3RDTnFpVXFwY1FJT01LRU1pVEdxdW1pQQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784744867,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784714925,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The Houthi Red Sea threat poses a significant challenge to the stretched US military, which could lead to increased military spending and a potential shift in defense priorities. The US military is already stretched thin due to ongoing conflicts in various regions, including the Middle East and Afghanistan. The Houthi threat in the Red Sea is a new concern that could further strain US military resources. This development may lead to increased spending on defense and potentially alter the US military's focus on other regions.",
-      "impact": "The potential impact on defense contractors such as Lockheed Martin (LMT) and Boeing (BA) could be significant, as they may see increased demand for their products and services. In the short-term, this could lead to higher earnings and stock prices for these companies. However, in the medium-term, the increased spending on defense could lead to higher valuations and potentially higher interest rates, which could negatively impact these stocks.",
-      "risks": [
-        "Increased defense spending may lead to higher interest rates",
-        "Potential shift in US defense priorities could impact specific defense contractors",
-        "Higher valuations and interest rates could negatively impact defense stocks"
       ]
     }
   },
@@ -770,6 +826,29 @@
     }
   },
   {
+    "id": "8252876",
+    "headline": "Houthi Red Sea threat would challenge a stretched US military - Reuters",
+    "summary": "Houthi Red Sea threat would challenge a stretched US military  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOThodmVRdFZqSlZuSnpSMDJBb1dkX1NUam1GcVJsRWlHcV9qM0x6MUhXRlJtRXd3MWdKMHpYOVFvUGZjcmUtR1pkSTZsUEd2M2xZS1YtUGRqUkhteGw5QzR6a1ZhcG4wR1c4LXUzaXZrN3ctTlI2Vkc4NzlnUlRBb01pY3kxRTlweVFDWGMydnpsLThrUGlXamcxX3RDTnFpVXFwY1FJT01LRU1pVEdxdW1pQQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784696580,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784714925,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The Houthi Red Sea threat poses a significant challenge to the stretched US military, which could lead to increased military spending and a potential shift in defense priorities. The US military is already stretched thin due to ongoing conflicts in various regions, including the Middle East and Afghanistan. The Houthi threat in the Red Sea is a new concern that could further strain US military resources. This development may lead to increased spending on defense and potentially alter the US military's focus on other regions.",
+      "impact": "The potential impact on defense contractors such as Lockheed Martin (LMT) and Boeing (BA) could be significant, as they may see increased demand for their products and services. In the short-term, this could lead to higher earnings and stock prices for these companies. However, in the medium-term, the increased spending on defense could lead to higher valuations and potentially higher interest rates, which could negatively impact these stocks.",
+      "risks": [
+        "Increased defense spending may lead to higher interest rates",
+        "Potential shift in US defense priorities could impact specific defense contractors",
+        "Higher valuations and interest rates could negatively impact defense stocks"
+      ]
+    }
+  },
+  {
     "id": "8257033",
     "headline": "India weighs letting airport owners run airlines to curb duopoly",
     "summary": "India considers allowing airport owners to operate airlines, potentially disrupting the duopoly held by IndiGo and Air India.",
@@ -915,7 +994,20 @@
     "source": "Bloomberg",
     "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
     "relatedSymbols": [],
-    "publishedAt": 1784684199
+    "publishedAt": 1784684199,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784808987,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The Japanese yen has fallen to a 40-year low against the US dollar, driven by a strengthening US currency and rising US Treasury yields. The move is attributed to renewed tensions in the US-Iran conflict, which has pushed oil prices higher. This development has a direct impact on Japanese exporters, making their products more expensive in the US market and potentially affecting their earnings. The yen's depreciation is also a reflection of Japan's economic fundamentals, with a trade deficit and low interest rates contributing to the currency's weakness.",
+      "impact": "The yen's decline is likely to benefit Japanese exporters, particularly those in the technology and automotive sectors, as their products become more competitive in the US market. This could lead to an increase in earnings for companies like Toyota, Honda, and Sony in the short term. However, the medium-term impact may be less clear, as a weaker yen can also lead to higher import costs and inflation, potentially affecting companies' profit margins.",
+      "risks": [
+        "inflation risk",
+        "import cost risk",
+        "currency volatility risk"
+      ]
+    }
   },
   {
     "id": "8254928",
@@ -22615,99 +22707,6 @@
         "Oil price volatility risk",
         "Global economic slowdown risk",
         "Investor sentiment risk"
-      ]
-    }
-  },
-  {
-    "id": "8144560",
-    "headline": "Banks to retire high-cost funds with diaspora money, says Axis Bank chief",
-    "summary": "Infrastructure projects, data centres, real estate and large capital expenditure plans also among investment avenues, he said",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-29/axis-ceo-sees-banks-retiring-high-cost-funds-with-diaspora-money",
-    "source": "Bloomberg",
-    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
-    "relatedSymbols": [],
-    "publishedAt": 1782710064,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782799173,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Axis Bank's CEO has announced plans for the retirement of high-cost funds invested in diaspora money, which will be redirected towards infrastructure projects, data centres, real estate, and large capital expenditure plans. This decision is driven by the bank's efforts to optimize its investments and improve returns. The CEO's statement suggests a shift in the bank's investment strategy, focusing on higher-growth sectors. This move is likely to have a positive impact on the bank's earnings and valuation in the medium term.",
-      "impact": "This news is expected to have a positive impact on Axis Bank's stock price in the medium term, driven by improved earnings and valuation. The bank's focus on high-growth sectors such as infrastructure and data centres may lead to increased investor interest and sentiment. However, the short-term impact may be muted due to the complexity of the fund retirement process and potential market volatility.",
-      "risks": [
-        "execution risk of the fund retirement process",
-        "market volatility risk",
-        "potential disruption to existing investments"
-      ]
-    }
-  },
-  {
-    "id": "8139908",
-    "headline": "Iran cyberattacks on Israel surged in 2026, Israeli cyber chief says - Reuters",
-    "summary": "Iran cyberattacks on Israel surged in 2026, Israeli cyber chief says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdTIwVnlkaTVydWtvSFRWY1hOYjAyQTNJN3ZnZ0hWRm40SnNsRWZ6bXItXzlhajluMi0zZFV0ajZSYmo3dkw3N1lpZE9YMmFUdFpUcGpvYjNEU2xIeHAtSGJVTDY1ZGhhZ3BwVU1pOWZqQ2RyR00takVoMHZNODZuT2ZSZVdqUGlrZEV0TE94TzdoYlBabDRIQmV3QVNJNndMckNBVTl6Wk9hYUZNc3RfNHhYQU5VZw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782709320,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782745702,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "Iran's increased cyberattacks on Israel in 2026 have raised concerns about regional tensions and potential escalations. The Israeli cyber chief's statement highlights the growing threat of cyber warfare in the Middle East. This development is likely to increase military spending and defense budgets in Israel, potentially benefiting companies involved in the defense industry. The news also underscores the importance of cybersecurity measures for Israeli companies and organizations.",
-      "impact": "The surge in cyberattacks may lead to increased demand for cybersecurity solutions and services in Israel, benefiting companies like Check Point Software Technologies (CHKP) and Cyberark Software (CYBR). This could drive short-term growth in their stock prices. However, the medium-term impact may be muted due to the cyclical nature of defense spending and the potential for geopolitical tensions to escalate, leading to increased volatility in the Israeli market.",
-      "risks": [
-        "geopolitical tensions",
-        "defense spending volatility",
-        "cybersecurity market saturation"
-      ]
-    }
-  },
-  {
-    "id": "8149170",
-    "headline": "Toyota sales fall for fourth month in May as declines in China, US and Middle East weigh - Reuters",
-    "summary": "Toyota sales fall for fourth month in May as declines in China, US and Middle East weigh  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObHN4ckJqYlpoVlZ0dHRKX2RybkZtMUloV3ZTWUlLcUlsUEIwMHVIYUczYndYRWRkZHJ4WE5fWnNxcG5wTzRJekR5OVJnei1WT0N4VTZVS2U3RTd4SVZWbkFjZXZONlFub2dnNXhHdVJxVmFTMUZ1NXVmdVdQRGRVMjFoOUxRS1h2bnJIUWRRdFZCbWpfaGNVX2ZjeE9pNHBSemhNV2xBLWVZdExyanlXMWw2dDNHbHc4QncycXlRQUpZdGRCTUtsZ2NDLXkwMk52MEE?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782707760,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1783032749,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Toyota's sales decline for the fourth consecutive month in May, driven by weaker demand in China, the US, and the Middle East. The decline in sales is attributed to various factors, including a global semiconductor shortage and supply chain disruptions. This news is significant as Toyota is one of the largest automakers in the world, and a sustained decline in sales could impact the company's earnings and valuation. The decline in sales in key markets such as China and the US is particularly concerning, as these markets are crucial for Toyota's growth prospects.",
-      "impact": "The decline in sales is likely to negatively impact Toyota's earnings in the short-term, potentially leading to a downward revision in earnings estimates. In the medium-term, the decline in sales could lead to a decrease in Toyota's valuation, as investors become increasingly concerned about the company's growth prospects. The decline in sales in key markets such as China and the US could also lead to a decrease in liquidity, making it more challenging for Toyota to raise capital. Additionally, the decline in sales could lead to a decrease in Toyota's market share, as competitors such as Honda and Volkswagen may capitalize on Toyota's weakness.",
-      "risks": [
-        "Decline in sales risk",
-        "Earnings risk",
-        "Valuation risk",
-        "Market share risk"
-      ]
-    }
-  },
-  {
-    "id": "8144457",
-    "headline": "Shapoorji refinancing delays spur some bondholders to seek exit",
-    "summary": "An investment unit of the infrastructure conglomerate has recently been asking creditors to allow it to delay the repayment of the notes with ₹8,343 crore ($884 million) outstanding that mature this month",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-29/shapoorji-refinancing-delays-spur-some-bondholders-to-seek-exit",
-    "source": "Bloomberg",
-    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
-    "relatedSymbols": [],
-    "publishedAt": 1782706533,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782799217,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Shapoorji's infrastructure unit is facing refinancing delays, prompting some bondholders to seek an exit. The unit has asked creditors to delay repayment of ₹8,343 crore ($884 million) in notes maturing this month. This development highlights the challenges faced by the company in managing its debt. The refinancing delay may lead to a credit rating downgrade, increasing borrowing costs and affecting the company's financial health.",
-      "impact": "The refinancing delay and potential credit rating downgrade may lead to a decline in Shapoorji's stock price in the short term. This could also impact the company's ability to invest in new projects, potentially affecting its earnings outlook. The delay may also increase investor skepticism, leading to a decrease in sentiment and liquidity in the company's shares.",
-      "risks": [
-        "credit rating downgrade risk",
-        "debt management risk",
-        "earnings outlook risk"
       ]
     }
   }
