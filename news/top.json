@@ -1,5 +1,47 @@
 [
   {
+    "id": "8263231",
+    "headline": "Treasury yields retreat, 10-year hovers around January 2025 highs",
+    "summary": "The yield on the 10-year U.S. Treasury note — the key benchmark for mortgage and auto loans and credit card debt — was last seen down one basis point at 4.693%.",
+    "url": "https://www.cnbc.com/2026/07/24/treasury-yields-bonds-us-debt.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/105441701-1536582539351gettyimages-91676247.jpeg?v=1536582578&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1784883631,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784887245,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "US Treasury yields retreated after briefly hitting a 2025 high due to inflationary fears triggered by rising oil prices. The 10-year Treasury note yield, a key benchmark for mortgage and auto loans, decreased by one basis point to 4.693%. The yield had previously risen above 4.7%, the highest level since January 2025, before pulling back. The news comes as the US President Donald Trump threatens to launch a massive attack on Iran, which could further exacerbate inflationary pressures. The economic health of the US manufacturing and services sectors will be closely watched in the coming days.",
+      "impact": "The decrease in Treasury yields may have a positive impact on the mortgage and auto loan industries, as lower interest rates can increase demand for these products. However, the inflationary pressures triggered by rising oil prices and the potential for further conflict in the Middle East could lead to increased uncertainty and volatility in the market. This may negatively impact the earnings outlook for companies in the financial sector, particularly those with high exposure to interest rates and inflation.",
+      "risks": [
+        "inflation risk",
+        "interest rate risk",
+        "geopolitical risk"
+      ]
+    }
+  },
+  {
+    "id": "8263023",
+    "headline": "In India, Iran war forces Diet Coke to roll out a bigger can, heftier price tag - Reuters",
+    "summary": "In India, Iran war forces Diet Coke to roll out a bigger can, heftier price tag  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaE1wYlpuSThBV1hnZUNHVy1GTDZLaUliaVozZi1qcXBMNXJFQ3drMW43dmNQdXBlSlVMTVZHMU1Ec1ZLUUw4MzFDMkFoWElhVU9HN253WW9KLVVRS1g1bGNqSDF2WkdOdzRLNG96NFQteG5MbjNqeTlWZ2VGdHlWNzNjbWVKaXItdGszUmR5bXpCTVpQYW5UZ2dhYmdTN2ZEQldBMFFURDd1WmJVVFBWYU5yRFZxbzJ5?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784877535,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784887291,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "The article reports that due to the Iran war, Coca-Cola, the manufacturer of Diet Coke, has increased the size of its cans and raised the price in India. This decision is likely driven by increased production costs due to the war, which has led to a shortage of aluminum, a key ingredient in can production. The company's move is aimed at maintaining profit margins despite the rising costs. The article does not provide specific details on the impact on sales or revenue.",
+      "impact": "The price increase and can size change may lead to a short-term decline in sales volume in India, potentially affecting Coca-Cola's revenue growth. In the medium term, the company may experience higher production costs, which could negatively impact its earnings per share. The increased price may also lead to a decrease in consumer demand, particularly in a price-sensitive market like India. The company's ability to maintain its market share and pricing power in the face of rising costs will be closely watched by investors.",
+      "risks": []
+    }
+  },
+  {
     "id": "8262396",
     "headline": "Morning Bid: Oil batters bonds as AI burns cash - Reuters",
     "summary": "Morning Bid: Oil batters bonds as AI burns cash  Reuters",
@@ -70,8 +112,8 @@
   },
   {
     "id": "8262711",
-    "headline": "Brent hovers above $100/bbl, set for weekly rise on Middle East escalation - Reuters",
-    "summary": "Brent hovers above $100/bbl, set for weekly rise on Middle East escalation  Reuters",
+    "headline": "Oil prices head for weekly rise on Middle East escalation - Reuters",
+    "summary": "Oil prices head for weekly rise on Middle East escalation  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaFZBdXJmU1lITHlha1NMc0hvVjhaOVVFbjEya0Z1ZXZzNGFjTC1lV21nR1MwcjNERmJydnhvc0xNRzc0ODRPRlpScU9UZ0M3U3hYaEFveXdsbDYwQ01zZlk0WTZWSWJZZHhBUHAtMHNNSG1MRHB0RGRzSUVLNGdJV1VNeW54TWw5cERFekMwdmxDNVdWdVp1VGN0c0xqbnRSS0Fyejh3eXVDZ1J1elFER1doSjdPeU1CMTIwZmlvOWM2dw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -93,8 +135,8 @@
   },
   {
     "id": "8261779",
-    "headline": "Asian stocks skid as oil spike revives inflation fears, bonds take a hit - Reuters",
-    "summary": "Asian stocks skid as oil spike revives inflation fears, bonds take a hit  Reuters",
+    "headline": "Asian stocks sink, bonds struggle as oil spike stokes rate risks - Reuters",
+    "summary": "Asian stocks sink, bonds struggle as oil spike stokes rate risks  Reuters",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORzVSb2tZRUVrYzhLQ0hCcVk1clVDQ1hjaGFPVElvd0JKZ0RVeGFTQ2JBVlVwRFNLbUxHOGZKTnl3WGEyeU5PQzEtTnBmVjBRdVVVUHBaSzJXY1pRT2ZFenczR0d2emszLWpGZDItNEcxd29RSGdWSDhVOEM5RjZRRXc0VQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -158,29 +200,6 @@
         "Ongoing fuel price volatility",
         "Reliance on imports on the West Coast",
         "Potential for future supply shortages"
-      ]
-    }
-  },
-  {
-    "id": "8259557",
-    "headline": "US says Saudi nuclear deal off without Israel recognition - Reuters",
-    "summary": "US says Saudi nuclear deal off without Israel recognition  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaFEtb2pVRzJFQThOZGROZ0hBV0pQUHNWSE1kZkFIdG9nV3d4eHBHUXlaTW1jQlpKVmNmV2twYmQ4VjJ1WDNPeW4tOXYtamtJeXk4STFCWk5CS09yUDBoRENzakZmR1FXbXdTcy0zbGdneURkUWphR1p0bTZxOUszS3Z5TXkxQnBwYjlBYVpXSEJCR3cyR3dZZTYwQktlTDJ1ejNpYklIQmlESXJCempEYUR4UWJXX2QyR1lwVGdiUmtMYU5NdzE2UDBn?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784836542,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784823628,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Former US President Donald Trump has tied a potential nuclear deal with Saudi Arabia to the kingdom's participation in the Abraham Accords, a group of normalization agreements between Israel and several Arab states. The Abraham Accords have been seen as a significant step towards regional stability and economic cooperation. If Saudi Arabia joins the Accords, it could lead to increased economic cooperation and investment between the US, Israel, and Saudi Arabia. This could have a positive impact on the energy and defense sectors, particularly for companies involved in these industries.",
-      "impact": "This news could have a positive impact on energy and defense stocks, particularly those with exposure to Saudi Arabia or the Middle East region. Companies such as General Electric, Boeing, and Lockheed Martin could benefit from increased defense spending and cooperation between the US and Saudi Arabia. In the medium term, this could lead to increased investment and economic growth in the region, driving up earnings and valuations for related companies. However, the impact will depend on the specifics of the deal and the level of Saudi Arabia's participation in the Accords.",
-      "risks": [
-        "Uncertainty around the specifics of the deal and the level of Saudi Arabia's participation",
-        "Potential backlash from Iran or other regional actors",
-        "Dependence on US-Saudi relations and potential changes in the US government's stance on the region"
       ]
     }
   },
@@ -446,6 +465,29 @@
     }
   },
   {
+    "id": "8256099",
+    "headline": "Houthis say they attacked two Saudi tankers; Saudi Arabia says one ablaze in Red Sea - Reuters",
+    "summary": "Houthis say they attacked two Saudi tankers; Saudi Arabia says one ablaze in Red Sea  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZHZGNUJIVDM4b051ZHVfNEJYZmRlSTdLdDY5S0hLUFpCcTJFeU41bW5mMGtSbVNRNGhBdnhta3JpaFVXeGkxc1VwVmZvY19Ibm9DU0VwNWt6cWJDTm02YVJFZzV3UTZmRmpHckNTWkxGV2pCQjBqZHRDdExub2U0OGlraDNlcWFKaS14R3RDdjBRYk5mZDRoYkNfVG1tcmZybXpwZ1I4d0Z1bldT?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784814354,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784763811,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "The Houthi rebels in Yemen have claimed responsibility for targeting two Saudi tankers, with a source stating that one of the tankers, Encelia, was hit by a missile. This incident highlights the ongoing tensions between Saudi Arabia and the Houthi rebels, which have been a major concern for oil prices and global trade. The conflict has already led to disruptions in oil shipments and has contributed to increased volatility in the oil market. The incident may lead to a rise in oil prices, which could have a negative impact on companies with high oil exposure, such as those in the energy sector.",
+      "impact": "The potential impact on related stocks could be significant, with a rise in oil prices leading to increased costs and reduced profitability for companies with high oil exposure. This could result in a decline in earnings for these companies, leading to a decrease in their stock prices. In the short term, oil prices may surge due to the disruption in oil shipments, but in the medium term, the impact on oil prices could be mitigated by increased production from other oil-producing countries. The incident may also lead to increased tensions between Saudi Arabia and other countries, potentially affecting global trade and economic growth.",
+      "risks": [
+        "oil price volatility risk",
+        "disruption to global trade risk",
+        "increased tensions between Saudi Arabia and other countries risk"
+      ]
+    }
+  },
+  {
     "id": "8259225",
     "headline": "Albertsons stock plunges as it says weaker grocery spending will cut into sales and earnings",
     "summary": "Shares of Albertsons sank Thursday after the grocer reported softness in its core business and lowered its full-year outlook as a result.",
@@ -553,6 +595,29 @@
         "Regulatory approval risk",
         "Integration risk",
         "Saudi Arabia's ability to join the Abraham Accords and fulfill its commitments under the deal"
+      ]
+    }
+  },
+  {
+    "id": "8259557",
+    "headline": "US says Saudi nuclear deal off without Israel recognition - Reuters",
+    "summary": "US says Saudi nuclear deal off without Israel recognition  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaFEtb2pVRzJFQThOZGROZ0hBV0pQUHNWSE1kZkFIdG9nV3d4eHBHUXlaTW1jQlpKVmNmV2twYmQ4VjJ1WDNPeW4tOXYtamtJeXk4STFCWk5CS09yUDBoRENzakZmR1FXbXdTcy0zbGdneURkUWphR1p0bTZxOUszS3Z5TXkxQnBwYjlBYVpXSEJCR3cyR3dZZTYwQktlTDJ1ejNpYklIQmlESXJCempEYUR4UWJXX2QyR1lwVGdiUmtMYU5NdzE2UDBn?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784809200,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784823628,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Former US President Donald Trump has tied a potential nuclear deal with Saudi Arabia to the kingdom's participation in the Abraham Accords, a group of normalization agreements between Israel and several Arab states. The Abraham Accords have been seen as a significant step towards regional stability and economic cooperation. If Saudi Arabia joins the Accords, it could lead to increased economic cooperation and investment between the US, Israel, and Saudi Arabia. This could have a positive impact on the energy and defense sectors, particularly for companies involved in these industries.",
+      "impact": "This news could have a positive impact on energy and defense stocks, particularly those with exposure to Saudi Arabia or the Middle East region. Companies such as General Electric, Boeing, and Lockheed Martin could benefit from increased defense spending and cooperation between the US and Saudi Arabia. In the medium term, this could lead to increased investment and economic growth in the region, driving up earnings and valuations for related companies. However, the impact will depend on the specifics of the deal and the level of Saudi Arabia's participation in the Accords.",
+      "risks": [
+        "Uncertainty around the specifics of the deal and the level of Saudi Arabia's participation",
+        "Potential backlash from Iran or other regional actors",
+        "Dependence on US-Saudi relations and potential changes in the US government's stance on the region"
       ]
     }
   },
@@ -1029,29 +1094,6 @@
         "increased costs and reduced profit margins",
         "potential for military conflict in the region",
         "regulatory risks associated with the implementation of the bill"
-      ]
-    }
-  },
-  {
-    "id": "8256099",
-    "headline": "Houthis say they attacked two Saudi tankers; Saudi Arabia says one ablaze in Red Sea - Reuters",
-    "summary": "Houthis say they attacked two Saudi tankers; Saudi Arabia says one ablaze in Red Sea  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZHZGNUJIVDM4b051ZHVfNEJYZmRlSTdLdDY5S0hLUFpCcTJFeU41bW5mMGtSbVNRNGhBdnhta3JpaFVXeGkxc1VwVmZvY19Ibm9DU0VwNWt6cWJDTm02YVJFZzV3UTZmRmpHckNTWkxGV2pCQjBqZHRDdExub2U0OGlraDNlcWFKaS14R3RDdjBRYk5mZDRoYkNfVG1tcmZybXpwZ1I4d0Z1bldT?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784756820,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784763811,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "The Houthi rebels in Yemen have claimed responsibility for targeting two Saudi tankers, with a source stating that one of the tankers, Encelia, was hit by a missile. This incident highlights the ongoing tensions between Saudi Arabia and the Houthi rebels, which have been a major concern for oil prices and global trade. The conflict has already led to disruptions in oil shipments and has contributed to increased volatility in the oil market. The incident may lead to a rise in oil prices, which could have a negative impact on companies with high oil exposure, such as those in the energy sector.",
-      "impact": "The potential impact on related stocks could be significant, with a rise in oil prices leading to increased costs and reduced profitability for companies with high oil exposure. This could result in a decline in earnings for these companies, leading to a decrease in their stock prices. In the short term, oil prices may surge due to the disruption in oil shipments, but in the medium term, the impact on oil prices could be mitigated by increased production from other oil-producing countries. The incident may also lead to increased tensions between Saudi Arabia and other countries, potentially affecting global trade and economic growth.",
-      "risks": [
-        "oil price volatility risk",
-        "disruption to global trade risk",
-        "increased tensions between Saudi Arabia and other countries risk"
       ]
     }
   },
@@ -22656,52 +22698,6 @@
         "geopolitical risk",
         "valuation risk",
         "integration risk"
-      ]
-    }
-  },
-  {
-    "id": "8150801",
-    "headline": "Ukraine's Zelenskiy mocks Russian military drive, says Moscow rejects all peace proposals - Reuters",
-    "summary": "Ukraine's Zelenskiy mocks Russian military drive, says Moscow rejects all peace proposals  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLTc5dTFERnhxMjBhLTc5R1paNVBUcDB2RDFSdWRGMVc4aXYwbGlUQUlLaV80b0VOTkNVWVJkNXFMNE9FZjQxY2xOMXRnampjZVA4aVFnTVlrYUxQc0lmM3JrX3hxUmo2T3Jlb0hubnVTOW92MmpILTN3cVN5ZHNoUmhkSnNFLWVaaGpwMUVkYWZURTRQOFdqUG5ReHVGRHhoX1AtUVJOZ0tyMjY1ZlpVY3RBMDQ4a3JvdG5J?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782769620,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1783032552,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Ukrainian President Volodymyr Zelenskiy mocks Russia's military drive, stating that Moscow rejects all peace proposals. This development suggests a continued escalation of the conflict, with no immediate resolution in sight. The ongoing conflict has already led to significant economic disruption and human suffering. The lack of progress in peace talks raises concerns about the stability of the region and the potential for further economic sanctions. The conflict's impact on the global economy, particularly in Europe, remains a significant concern.",
-      "impact": "The ongoing conflict in Ukraine is likely to have a negative impact on the global economy, particularly in Europe. The continued escalation of the conflict may lead to a further deterioration in investor sentiment, potentially weighing on the stocks of companies with exposure to the region. This may include companies in the energy, aerospace, and defense sectors. Additionally, the potential for further economic sanctions on Russia may also impact the stocks of companies with significant business ties to the country.",
-      "risks": [
-        "Escalation of the conflict and potential for further economic sanctions on Russia",
-        "Negative impact on investor sentiment and potential decline in stock prices",
-        "Disruption to global supply chains and potential impact on European economies"
-      ]
-    }
-  },
-  {
-    "id": "8147174",
-    "headline": "What's in Britain's Defence Investment Plan? - Reuters",
-    "summary": "What's in Britain's Defence Investment Plan?  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcm02TF9OdzdFdndtVEhDZFhWS2Z5Vmp1bVh4RFNQUkZKa2VwMEpENXNMWWJjcDRQTlFkMjlGU3lDZ0hnR2tid2tUd0tzaW5IQllVSkxaeTRvMVdoUHFST0JydE1tR3c0OWVIdS1zYWdYRkw5M2theXdfRXI4Sl9DMWx6UmJWSDlmNmpfamZ3RVFfeEpCZmZ4cS1RdEhBWEpzcXFr?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782768960,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782864198,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The UK government has announced its Defence Investment Plan, which outlines a significant increase in defence spending over the next decade. The plan aims to boost the country's military capabilities and strengthen its global influence. The increased spending is expected to benefit defence contractors and suppliers, potentially leading to increased demand for their products and services. The plan also highlights the UK's commitment to NATO and its role in global security.",
-      "impact": "The Defence Investment Plan is likely to have a positive impact on defence contractors and suppliers, particularly those with a significant presence in the UK. Companies such as BAE Systems and Rolls-Royce may benefit from the increased spending, potentially leading to an increase in their share prices. However, the plan's implementation and the timing of the spending increases may lead to short-term volatility in the market. In the medium term, the increased demand for defence products and services could lead to improved earnings outlook for these companies.",
-      "risks": [
-        "Implementation risk: The successful execution of the Defence Investment Plan is crucial for its success, and any delays or setbacks could impact the benefits for defence contractors and suppliers.",
-        "Funding risk: The UK government's ability to fund the increased defence spending is uncertain, and any changes in the country's economic situation could impact the plan's implementation.",
-        "Global security risks: The Defence Investment Plan is heavily influenced by global security dynamics, and any changes in the geopolitical landscape could impact the plan's objectives and the demand for defence products and services."
       ]
     }
   }
