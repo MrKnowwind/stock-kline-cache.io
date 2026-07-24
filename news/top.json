@@ -1,5 +1,116 @@
 [
   {
+    "id": "8264988",
+    "headline": "Why we would buy the Intel dip but can't get behind the Dover bounce",
+    "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+    "url": "https://www.cnbc.com/2026/07/24/why-we-would-buy-the-intel-dip-but-cant-get-behind-the-dover-bounce.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108339565-1784842863142-gettyimages-2287372551-_04a8508_pgjryykl.jpeg?v=1784842934&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1784911108,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784913154,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The CNBC Investing Club with Jim Cramer discussed the market's reaction to recent earnings reports and news. Intel's stock price declined despite a strong earnings report due to investors' disappointment with the lack of new foundry clients announced. Dover's shares recovered from a nearly 8% decline, but the Club did not change its stance due to concerns about execution issues. The Club would consider buying Intel on the dip, but not Dover due to its recent performance.",
+      "impact": "Intel's stock price may experience a short-term rebound as investors' expectations are met with the announcement of new foundry clients down the road. The medium-term outlook for Intel remains positive due to its strong manufacturing technology and growing demand for alternative chip sources. In contrast, Dover's stock price may continue to be volatile due to ongoing concerns about execution issues and the Club's decision to sell to strength. The earnings reports of other companies, including Meta Platforms, Amazon, and Microsoft, may also impact the market's sentiment and Intel's stock price.",
+      "risks": []
+    }
+  },
+  {
+    "id": "8264779",
+    "headline": "CDC says massive cyclospora outbreak is now in nine states",
+    "summary": "The four newly linked states – Illinois, Kansas, Oklahoma and Pennsylvania – join Indiana, Kentucky, Ohio, West Virginia and hard-hit Michigan.",
+    "url": "https://www.cnbc.com/2026/07/24/cyclospora-cdc-says-outbreak-is-in-nine-states.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108339473-1784836316181-gettyimages-2287358427-l1110466_pvxolbwk.jpeg?v=1784836360&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1784909587,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784913201,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "A multistate outbreak of cyclosporiasis linked to shredded iceberg lettuce has expanded to nine states, with the CDC reporting 1,947 cases. The outbreak is already the largest of cyclosporiasis reported in the U.S. this year, with thousands of illnesses recorded nationwide. The Food and Drug Administration is investigating a separate cyclosporiasis outbreak linked to an unidentified food product or products. Taylor Farms, a produce giant, has been identified as the likely source of the outbreak and has issued a voluntary recall for all iceberg lettuce sourced from its Guanajuato, Mexico facility.",
+      "impact": "The outbreak and the subsequent recall by Taylor Farms may lead to a short-term decline in sales and earnings for the company, potentially affecting its stock price. The incident may also increase regulatory scrutiny and scrutiny of the food industry, which could have medium-term implications for the company's operations and profitability. The outbreak may also lead to a decrease in consumer confidence in the food industry, potentially affecting demand for produce and related stocks.",
+      "risks": [
+        "reputation risk for Taylor Farms and the food industry",
+        "regulatory scrutiny and potential increased regulations",
+        "decrease in consumer confidence and demand for produce"
+      ]
+    }
+  },
+  {
+    "id": "8264886",
+    "headline": "Trump warns China, Russia against involvement in Iran war - Reuters",
+    "summary": "Trump warns China, Russia against involvement in Iran war  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUFNIbkVHRDFha2pQZ0ZQeGpKUnNPRnJyTGZYVmdRMlpuOW1hXy1kT2UtenhSSVNnd01lLWJXNFZVWVdrWVAtSlFtQmItekowMnFEUUhwbWNzUmh3NE9kMGE4LURxTGtUaF95dlp3T25yQm9FUlY0UUlUczNfNE9vUmIzUm5OUE1Fd2VWSVNud0V1ZVRtZFZxbm12SVBDSDJpMzZn?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784909421,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784913249,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "US President Trump has warned China and Russia against involvement in a potential war with Iran. This news is a continuation of the ongoing tensions between the US and Iran, which have been escalating since the US withdrew from the Iran nuclear deal in 2018. The warning is seen as an attempt by the US to deter potential involvement from other countries in the region. The news does not provide any direct impact on the business fundamentals of any specific company, but it is a reflection of the ongoing geopolitical tensions that could affect the oil and gas industry in the long term.",
+      "impact": "The news is likely to increase tensions in the region, which could lead to a short-term increase in oil prices. This could benefit oil and gas companies with significant operations in the region, such as ExxonMobil and Chevron. However, the medium-term impact is uncertain and could be influenced by the outcome of the US-Iran conflict. The news may also increase the risk of a global economic downturn, which could negatively impact the earnings outlook of companies with significant exposure to the Middle East region.",
+      "risks": [
+        "geopolitical risk",
+        "economic downturn risk",
+        "oil price volatility risk"
+      ]
+    }
+  },
+  {
+    "id": "8264677",
+    "headline": "Pakistan, Iran explore path towards new talks with US in a China-initiated push, sources say - Reuters",
+    "summary": "Pakistan, Iran explore path towards new talks with US in a China-initiated push, sources say  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeElZbVRDTVhmbnotSkZKNEZLT3RiOEZCOW9ISVF3MWNYTTBqaWVKS29GNVJuc0Z2bzVKN2RKbm9mdTREaWx6WWh0UGhDMS1Cb1pRQ0xQOEJSdTlBRGhZVlZPS014X05BcjFDX2x0Q0JSTG45R2c2eEdGMzNiQk1lVG1vSDFnb2xDTkl2dHo0RFJ2eTN4aXRhMmI5RHdjZXdySWFzWlE5TDNQZ2V5bnljUEIyanJyTTZjY2ZUVWZn?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784906197,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784913297,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Pakistan and Iran are exploring a new path towards talks with the US, initiated by China. This development comes after a recent visit by a Chinese delegation to the region. The talks aim to address long-standing issues between the two countries and the US, potentially leading to improved diplomatic relations. This could have implications for regional stability and global politics. The news does not directly relate to any specific company or industry, but it may have broader implications for global trade and geopolitics.",
+      "impact": "The potential for improved US-Pakistan and US-Iran relations could lead to increased trade and investment in the region, benefiting companies involved in global trade and logistics. This may also have a positive impact on the earnings outlook for companies in the defense and security sectors, as improved relations could lead to increased cooperation and reduced tensions. However, the short-term impact on the stock market may be limited, as the news is still in its early stages and the outcome of the talks is uncertain.",
+      "risks": [
+        "geopolitical uncertainty risk",
+        "diplomatic failure risk",
+        "trade war risk"
+      ]
+    }
+  },
+  {
+    "id": "8264678",
+    "headline": "Netanyahu to meet with Trump in Washington on Tuesday, PM's office says - Reuters",
+    "summary": "Netanyahu to meet with Trump in Washington on Tuesday, PM's office says  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLWt6eWtZa3JjTG1yRDZOSVJfdENMUUJPeUJoMDV3VE1Ub1VzUU45ZzdibEpmTkRUcU9BWFd4OWhDeVlhZ2l2am82VmpQam1GNW9LcmJGdWlQS0ZBS0ZUUzdoYVNZQTdyU1I4Unl1dS1wbllWaDhGR3ZxeUZ3WW9GS3ROaEtHUENVemFzWVYtQWpOYThDUnBIc0RZYV9KRlhhYjlCcQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784903870,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784913345,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Israeli Prime Minister Benjamin Netanyahu is scheduled to meet with US President Donald Trump in Washington on Tuesday. The meeting is a routine diplomatic engagement between the two leaders. The meeting's agenda is not specified, but it is likely to cover a range of topics including regional security and economic cooperation. The meeting is not directly related to any specific business or industry, but it may have implications for US-Israel relations and global geopolitics. The meeting is a routine diplomatic engagement between the two leaders.",
+      "impact": "The meeting between Netanyahu and Trump is unlikely to have a direct impact on the stock market in the short term. However, it may have medium-term implications for US-Israel relations, which could influence the earnings outlook for companies involved in defense and aerospace industries. Companies such as Lockheed Martin and Boeing may benefit from increased defense spending and cooperation between the two countries. The meeting may also have implications for the Israeli economy and the Tel Aviv Stock Exchange.",
+      "risks": [
+        "geopolitical risk",
+        "diplomatic uncertainty",
+        "macroeconomic implications"
+      ]
+    }
+  },
+  {
     "id": "8264569",
     "headline": "Why Costco keeps gas prices so low—it's 'straight out of the retail playbook,' expert says",
     "summary": "Higher gas prices are driving record demand for Costco's gas stations as more Americans look to save at the pump.",
@@ -855,6 +966,29 @@
     }
   },
   {
+    "id": "8258519",
+    "headline": "Cutting off Red Sea oil route may be one crisis too many - Reuters",
+    "summary": "Cutting off Red Sea oil route may be one crisis too many  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcDNZVWRlWjdzWnJpZVllWC1GWWNFSlFhNnB2LTJHWUsxaHlJS3dQYXNrSkhFcG5IbS1DeTkwaWxETVRUQnpxSDhDbTNQMUFHUW9FUUwwZUVmcllHbzBsVkM5WWZJclVyb2pkVlRORFJWVERkRjg3eXdSdi13cVV1SDU1RnRmaDBPQUZvb2IwT1ViNG5ZLTFtY0prQ0dGOVNwVks5Q3g2TS1pTnJ1TUkzVzhBcjNtR0NkTkdwZG1pQTNxWkE?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784800855,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784808940,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The article reports on the potential disruption to the Red Sea oil route, a crucial shipping lane for oil exports from the Middle East. The crisis, caused by the conflict in the region, may lead to a shortage of oil supplies and increased prices. This could have a significant impact on oil-producing countries and companies that rely on this route. The article highlights the potential consequences of this crisis, which may be too much for some companies to handle.",
+      "impact": "The potential disruption to the Red Sea oil route may lead to a short-term increase in oil prices, benefiting oil-producing companies such as Saudi Aramco and National Oilwell Varco. However, in the medium term, the crisis may lead to a decline in oil demand, negatively impacting companies that rely heavily on oil exports, such as shipping companies like Frontline and Tanker Pacific. The increased uncertainty and volatility in the oil market may also lead to a decline in investor sentiment, negatively impacting oil-related stocks.",
+      "risks": [
+        "supply chain disruption risk",
+        "price volatility risk",
+        "demand slowdown risk"
+      ]
+    }
+  },
+  {
     "id": "8252359",
     "headline": "Gold firms to two-week peak on softer dollar, Fed outlook in focus - Reuters",
     "summary": "Gold firms to two-week peak on softer dollar, Fed outlook in focus  Reuters",
@@ -943,29 +1077,6 @@
     }
   },
   {
-    "id": "8258519",
-    "headline": "Cutting off Red Sea oil route may be one crisis too many - Reuters",
-    "summary": "Cutting off Red Sea oil route may be one crisis too many  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcDNZVWRlWjdzWnJpZVllWC1GWWNFSlFhNnB2LTJHWUsxaHlJS3dQYXNrSkhFcG5IbS1DeTkwaWxETVRUQnpxSDhDbTNQMUFHUW9FUUwwZUVmcllHbzBsVkM5WWZJclVyb2pkVlRORFJWVERkRjg3eXdSdi13cVV1SDU1RnRmaDBPQUZvb2IwT1ViNG5ZLTFtY0prQ0dGOVNwVks5Q3g2TS1pTnJ1TUkzVzhBcjNtR0NkTkdwZG1pQTNxWkE?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784786400,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784808940,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The article reports on the potential disruption to the Red Sea oil route, a crucial shipping lane for oil exports from the Middle East. The crisis, caused by the conflict in the region, may lead to a shortage of oil supplies and increased prices. This could have a significant impact on oil-producing countries and companies that rely on this route. The article highlights the potential consequences of this crisis, which may be too much for some companies to handle.",
-      "impact": "The potential disruption to the Red Sea oil route may lead to a short-term increase in oil prices, benefiting oil-producing companies such as Saudi Aramco and National Oilwell Varco. However, in the medium term, the crisis may lead to a decline in oil demand, negatively impacting companies that rely heavily on oil exports, such as shipping companies like Frontline and Tanker Pacific. The increased uncertainty and volatility in the oil market may also lead to a decline in investor sentiment, negatively impacting oil-related stocks.",
-      "risks": [
-        "supply chain disruption risk",
-        "price volatility risk",
-        "demand slowdown risk"
-      ]
-    }
-  },
-  {
     "id": "8257454",
     "headline": "Trump vows to punish Iran for Houthi attacks in Red Sea; oil surges over $100 - Reuters",
     "summary": "Trump vows to punish Iran for Houthi attacks in Red Sea; oil surges over $100  Reuters",
@@ -989,29 +1100,6 @@
     }
   },
   {
-    "id": "8257558",
-    "headline": "US military completes 12th straight night of strikes on Iran - Reuters",
-    "summary": "US military completes 12th straight night of strikes on Iran  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSTE4NEl0QlphNDg2Z3VzWFlvd3cxQjBmVzYtOC1HS18tRTNNUWJodlRhUzI4M05DN1lhLWZJWkJCU2wzaXVfVEdqWTBJSmtjeTI1M1BmRkdOclRtOGtCQ3B4bWpxbFVSeXMxRWtwdUtpdFRCOFNLVGFHaFFYRGUtOHZZbFdpRlNScTI5TVZBbi1uMVRvWDlHSWx2RlYxWkFrVGItb1RsdkRpQThH?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784778422,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784791827,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The US military has completed its 12th consecutive night of strikes on Iran, escalating tensions in the region. The strikes are a response to a recent attack on US interests in the Middle East. This development is likely to increase the risk of a broader conflict, potentially disrupting global oil supplies and affecting the global economy. The situation is fluid and uncertain, with the potential for further escalation.",
-      "impact": "The ongoing conflict in the Middle East is likely to have a negative impact on the oil and gas industry, particularly companies with exposure to Iranian oil. This could lead to a short-term increase in oil prices, benefiting oil producers such as ExxonMobil and Chevron. However, the medium-term impact could be negative for these companies if the conflict disrupts global oil supplies and leads to a decline in demand. The situation also increases the risk of a global economic downturn, which could negatively impact companies with high exposure to the global economy, such as technology and consumer goods companies.",
-      "risks": [
-        "global economic downturn risk",
-        "disruption to global oil supplies risk",
-        "geopolitical risk"
-      ]
-    }
-  },
-  {
     "id": "8262093",
     "headline": "Silver imports slump as new licensing disrupts shipments",
     "summary": "In May, the country imposed silver import licensing requirements to preserve foreign-exchange reserves, causing shipments to drop from 747 tons in January to an estimated 29 tons in June, according to Metals Focus",
@@ -1031,6 +1119,29 @@
         "short-term supply chain disruptions",
         "potential price volatility",
         "long-term impact on mining companies' profitability"
+      ]
+    }
+  },
+  {
+    "id": "8257558",
+    "headline": "US military completes 12th straight night of strikes on Iran - Reuters",
+    "summary": "US military completes 12th straight night of strikes on Iran  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSTE4NEl0QlphNDg2Z3VzWFlvd3cxQjBmVzYtOC1HS18tRTNNUWJodlRhUzI4M05DN1lhLWZJWkJCU2wzaXVfVEdqWTBJSmtjeTI1M1BmRkdOclRtOGtCQ3B4bWpxbFVSeXMxRWtwdUtpdFRCOFNLVGFHaFFYRGUtOHZZbFdpRlNScTI5TVZBbi1uMVRvWDlHSWx2RlYxWkFrVGItb1RsdkRpQThH?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784777220,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784791827,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The US military has completed its 12th consecutive night of strikes on Iran, escalating tensions in the region. The strikes are a response to a recent attack on US interests in the Middle East. This development is likely to increase the risk of a broader conflict, potentially disrupting global oil supplies and affecting the global economy. The situation is fluid and uncertain, with the potential for further escalation.",
+      "impact": "The ongoing conflict in the Middle East is likely to have a negative impact on the oil and gas industry, particularly companies with exposure to Iranian oil. This could lead to a short-term increase in oil prices, benefiting oil producers such as ExxonMobil and Chevron. However, the medium-term impact could be negative for these companies if the conflict disrupts global oil supplies and leads to a decline in demand. The situation also increases the risk of a global economic downturn, which could negatively impact companies with high exposure to the global economy, such as technology and consumer goods companies.",
+      "risks": [
+        "global economic downturn risk",
+        "disruption to global oil supplies risk",
+        "geopolitical risk"
       ]
     }
   },
@@ -1242,6 +1353,29 @@
     }
   },
   {
+    "id": "8252151",
+    "headline": "Rubio meets China's Wang at regional gathering where Iran war looms large - Reuters",
+    "summary": "Rubio meets China's Wang at regional gathering where Iran war looms large  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQUU3WElZU3gydzRFZEY1Q1lSR1pQOWM3M2dfM3pQbkFwMlFJbG45LS1MZnFYX2M3dVBpRVlyR3lLWlhGOXpHTGxyVjBsNUY0d0RkVDRfcnV3MGdaQ3dLc0Z5dzNqakR3b0FSNjBNemduOU9jRXNQd2NOZ3BCQmJOdHJPX25mcWhHWWZXOFdBZ0Z6aEJwak1mcWVtZkowU2l6QWgwZ0NnczdZeDJmTS1yS0RFTnNQMTFjWWhv?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784750998,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784695977,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "US Senator Marco Rubio is set to hold talks with Chinese Foreign Minister Wang Yi on the sidelines of the ASEAN meeting, a gathering of regional powers in Southeast Asia. The meeting is seen as a diplomatic effort to address regional tensions and promote cooperation. The talks are a follow-up to a recent meeting between US and Chinese officials, and are expected to focus on issues such as trade and security. The ASEAN meeting brings together leaders from the Association of Southeast Asian Nations, a regional bloc that includes countries such as Indonesia, Malaysia, and the Philippines. The talks are seen as a key opportunity for the US and China to engage in diplomacy and address regional concerns.",
+      "impact": "The news is unlikely to have a direct impact on US or Chinese stocks in the short term, but may have medium-term implications for companies involved in trade and diplomacy. Companies with exposure to the ASEAN region, such as those in the technology or manufacturing sectors, may benefit from increased trade and investment in the region. However, the talks may also increase tensions between the US and China, potentially leading to a decline in investor sentiment and a decrease in stock prices.",
+      "risks": [
+        "Increased tensions between the US and China",
+        "Potential decline in investor sentiment",
+        "Uncertainty around trade policies and agreements"
+      ]
+    }
+  },
+  {
     "id": "8251741",
     "headline": "Oil settles up more than 3% to six-week high as Mideast conflict threatens oil transit routes - Reuters",
     "summary": "Oil settles up more than 3% to six-week high as Mideast conflict threatens oil transit routes  Reuters",
@@ -1441,29 +1575,6 @@
         "regulatory approval risk",
         "construction delays risk",
         "market demand volatility risk"
-      ]
-    }
-  },
-  {
-    "id": "8252151",
-    "headline": "Rubio meets China's Wang at regional gathering where Iran war looms large - Reuters",
-    "summary": "Rubio meets China's Wang at regional gathering where Iran war looms large  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQUU3WElZU3gydzRFZEY1Q1lSR1pQOWM3M2dfM3pQbkFwMlFJbG45LS1MZnFYX2M3dVBpRVlyR3lLWlhGOXpHTGxyVjBsNUY0d0RkVDRfcnV3MGdaQ3dLc0Z5dzNqakR3b0FSNjBNemduOU9jRXNQd2NOZ3BCQmJOdHJPX25mcWhHWWZXOFdBZ0Z6aEJwak1mcWVtZkowU2l6QWgwZ0NnczdZeDJmTS1yS0RFTnNQMTFjWWhv?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784736776,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784695977,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "US Senator Marco Rubio is set to hold talks with Chinese Foreign Minister Wang Yi on the sidelines of the ASEAN meeting, a gathering of regional powers in Southeast Asia. The meeting is seen as a diplomatic effort to address regional tensions and promote cooperation. The talks are a follow-up to a recent meeting between US and Chinese officials, and are expected to focus on issues such as trade and security. The ASEAN meeting brings together leaders from the Association of Southeast Asian Nations, a regional bloc that includes countries such as Indonesia, Malaysia, and the Philippines. The talks are seen as a key opportunity for the US and China to engage in diplomacy and address regional concerns.",
-      "impact": "The news is unlikely to have a direct impact on US or Chinese stocks in the short term, but may have medium-term implications for companies involved in trade and diplomacy. Companies with exposure to the ASEAN region, such as those in the technology or manufacturing sectors, may benefit from increased trade and investment in the region. However, the talks may also increase tensions between the US and China, potentially leading to a decline in investor sentiment and a decrease in stock prices.",
-      "risks": [
-        "Increased tensions between the US and China",
-        "Potential decline in investor sentiment",
-        "Uncertainty around trade policies and agreements"
       ]
     }
   },
@@ -22578,121 +22689,6 @@
         "Regulatory approval risk",
         "Market volatility risk",
         "Competition from existing players in the Indian telecom market"
-      ]
-    }
-  },
-  {
-    "id": "8139807",
-    "headline": "Gold slips as US-Iran tensions spark inflation, rate hike fears - Reuters",
-    "summary": "Gold slips as US-Iran tensions spark inflation, rate hike fears  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSTVKRTRyZTc4cndMX2E0Mzd3UlROU1FJMWFsaWpkbDVuSUFiVldPeE1GRVFLbDVYeTZ5RTFXd08wUkYwU205amR5a1BIOTFTNGE1T01qMjNGSkJ2OXpjQVhWQ1JXSTdOeDBGb3I5czNDQ1VYck9ENEZJNVZMQk5Rc19tTWgzM3hGaC1uSlltSktpNWtyM3AtTTk3RkZJaFNpNjVFRXJUSWhuWEJGcnNUb1ZGVWstUQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782784589,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782714614,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Gold prices slipped as the US-Iran conflict escalated, boosting oil prices due to concerns over supply disruptions. The recent strikes by the US on Iranian targets have increased tensions in the region, leading to a surge in oil prices. This, in turn, has weighed on gold prices as a higher oil price typically reduces the appeal of gold as a safe-haven asset. The Federal Reserve's potential rate hike also contributed to the decline in gold prices, as a higher interest rate environment reduces the attractiveness of non-yielding assets like gold.",
-      "impact": "The recent news may have a bearish impact on gold-related stocks such as miners and gold ETFs in the short term, as their prices may decline in response to the lower gold prices. However, in the medium term, the impact on the gold industry may be neutral, as the current supply and demand dynamics are likely to be affected by the US-Iran conflict and the Fed's rate hike. The oil price surge may also have a positive impact on oil-related stocks, such as energy companies, in the short term.",
-      "risks": [
-        "Oil price volatility risk",
-        "Fed rate hike risk",
-        "Global economic uncertainty risk"
-      ]
-    }
-  },
-  {
-    "id": "8148964",
-    "headline": "Gold set for worst quarterly loss in 13 years on hawkish Fed stance - Reuters",
-    "summary": "Gold set for worst quarterly loss in 13 years on hawkish Fed stance  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcVNmS0QtVml6cTAwSzZpS0xRSzhEUUpyQy1SaEptQy1XdWRoUjRkbGtpbGp4Zm5ZV2U5YVRSLXZsVnllSjZyNDBUTFZVQ1VwQTlaNHdadXFCcGNPdDJjcDQxU0c1UV81MnJtQk5aS0NnMUlmVzJmV19XeWZiUEhMRjFOcGhNZ2U0ZXBNakhDNDJpbzN3MlRHUg?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782782580,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1783029201,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The Federal Reserve's hawkish stance has led to a sharp decline in gold prices, setting the metal up for its worst quarterly loss in 13 years. The Fed's interest rate hike expectations have increased, making gold less attractive as a safe-haven asset. This shift in monetary policy has also strengthened the US dollar, further pressuring gold prices. The gold market is highly sensitive to interest rate changes, and this hawkish turn by the Fed is expected to continue to weigh on gold prices.",
-      "impact": "The potential impact on gold-related stocks, such as gold mining companies, is likely to be negative in the short term. The decline in gold prices could lead to lower earnings for these companies, as their revenue is directly tied to the price of gold. Additionally, the strengthened US dollar could also make it more expensive for these companies to operate internationally, further pressuring their profitability. In the medium term, the impact on gold-related stocks will depend on how long the Fed maintains its hawkish stance and the extent to which gold prices recover.",
-      "risks": [
-        "interest rate hike risk",
-        "currency risk",
-        "earnings decline risk"
-      ]
-    }
-  },
-  {
-    "id": "8143947",
-    "headline": "Israel-Lebanon deal may entrench stalemate rather than end war, analysts say - Reuters",
-    "summary": "Israel-Lebanon deal may entrench stalemate rather than end war, analysts say  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQzVPS3VRVGFsSElBdURJN0sxVEZaalUtNGpETS1FQXJLNkhkeTJ5M1VaR19HcmpoZXpWY3FhX0F2S2RLWjlMNVM1UWJzbllJcGZic3VnLVJYMWMtRk1GcVFGa2RZREpvY3JadXJScDZCVVdwRmYwY0lPVGRiOVQyLWI4MUJnY28zWW43TmJoRUM5dkRaUUpwRGhUNFB5MWVDV3hCY1lDUHJzUVpsSXI3QUlwR0puQkU0R3BMMXFHTm9hUmU0QURWTQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782782042,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782799127,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "A potential Israel-Lebanon deal may not bring an end to the war, according to analysts. The deal aims to establish a ceasefire and ease tensions between the two countries. However, analysts believe that the deal may instead entrench the current stalemate, prolonging the conflict. The situation has been ongoing for decades, with both sides holding firm to their positions. The deal's failure to address the underlying issues may lead to continued violence and instability in the region.",
-      "impact": "The potential failure of the Israel-Lebanon deal to bring a lasting peace may negatively impact the earnings outlook for companies operating in the region, particularly those in the defense and aerospace industries. This could lead to increased costs and uncertainty for these companies, potentially affecting their stock prices in the short term. The deal's failure may also lead to a decline in investor sentiment, further impacting stock prices. The medium-term impact may be a decrease in foreign investment in the region, as investors become increasingly risk-averse.",
-      "risks": [
-        "continued violence and instability in the region",
-        "decline in investor sentiment",
-        "decrease in foreign investment in the region"
-      ]
-    }
-  },
-  {
-    "id": "8140979",
-    "headline": "Rupee slips as tepid stocks dull boost from firmer Asian peers - Reuters",
-    "summary": "Rupee slips as tepid stocks dull boost from firmer Asian peers  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORUdUR3JucTJaV3NGVnp4YnJBTGFxcllEbkhoNUdDOHBqVGpNclQ4QWxNWVI4WTVjRWNoMXpIczJtblJQSGw2a2FQVjBfcTB5cThkUGRlWHFUMnZ5MHNwS2l0azFRaER5RTJwRVVuRm1JUXp4VnAtZWZDUkdwUHlMZUl5VnRFRlozeGtKTHJhaGJ5RHVsbTZtRjV5MkFieGtMS1RCUm9zQ0NScDI3MEJLYlVfbmU?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782781172,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782756196,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "The Indian rupee has depreciated against the US dollar due to weak domestic stocks, despite firmer Asian peers. This decline in the rupee's value may negatively impact Indian exports and import costs. The Indian stock market has been experiencing a slow start to the year, with investors remaining cautious. The rupee's decline is also attributed to a lack of strong economic data and a decrease in foreign investment. The situation is expected to be closely monitored by the Indian central bank.",
-      "impact": "The depreciation of the rupee may lead to higher import costs for Indian companies, potentially negatively impacting their earnings. In the short-term, this could lead to a decrease in investor sentiment and a decline in stock prices. However, in the medium-term, the Indian central bank may intervene to stabilize the rupee, which could have a positive impact on the stock market. Additionally, the decline in the rupee may make Indian exports more competitive, potentially leading to an increase in demand and revenue for companies with a strong export focus.",
-      "risks": [
-        "Currency volatility risk",
-        "Economic data risk",
-        "Investor sentiment risk"
-      ]
-    }
-  },
-  {
-    "id": "8145862",
-    "headline": "IMF reaches staff-level deal with Egypt that could unlock $1.6 billion - Reuters",
-    "summary": "IMF reaches staff-level deal with Egypt that could unlock $1.6 billion  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaHlLMUlid3JDM0lnSU9qOTZLTC1reG5wSTZuV1JVYU54ajlVRHFBT0VXWndNS05wUGFjcWVlR2ltWk82cm1WWFFRbGlrRl9fV2JJSjZSa0pBRGJMVlh2eTNnaURiQWJlbUN6cGw2eFNKNU80NndoMVpOTFdGVHUzdm04b210c255VDRWX0JoNW01YThNRU5FRmVMM3JnV0FocVZ5X0pacWZQYmgtcFE2NV96Q3lZajAy?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782780540,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782860461,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The International Monetary Fund (IMF) has reached a staff-level agreement with Egypt that could unlock $1.6 billion in funding. This deal is a significant development for Egypt's economy, which has been struggling with a currency crisis and high inflation. The IMF's support is expected to help stabilize the Egyptian pound and improve the country's economic outlook. The agreement is subject to approval by the IMF's Executive Board, but if successful, it could have a positive impact on Egypt's economic fundamentals and potentially boost investor sentiment.",
-      "impact": "The news is likely to have a positive impact on Egyptian stocks, particularly those in the banking and finance sector, as the IMF's support is expected to improve the country's economic stability and attract foreign investment. The Egyptian pound may also appreciate against the US dollar, making Egyptian assets more attractive to foreign investors. In the short term, this could lead to a rally in Egyptian stocks, with potential upside for stocks such as Commercial International Bank Egypt (CIB), Banque Misr, and Suez Canal Authority.",
-      "risks": [
-        "IMF approval risk",
-        "Egyptian economic stabilization risk",
-        "Currency volatility risk"
       ]
     }
   }
