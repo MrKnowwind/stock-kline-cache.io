@@ -180,6 +180,29 @@
     }
   },
   {
+    "id": "8272698",
+    "headline": "Trump’s tariffs are likely to stick around despite unpopularity",
+    "summary": "Trump, a proponent of protectionist trade policies, asserts that his approach has driven a US economic boom and that tariffs are effective negotiation tools",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-25/trump-s-tariffs-are-likely-to-stick-around-despite-unpopularity",
+    "source": "Bloomberg",
+    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+    "relatedSymbols": [],
+    "publishedAt": 1784965536,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785059632,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "US President Trump has stated that his tariffs are likely to remain in place, citing their effectiveness in driving a US economic boom. This announcement comes as a response to criticism of the tariffs' unpopularity. Trump's stance on protectionist trade policies has been a key aspect of his presidency, and his assertion that tariffs are effective negotiation tools suggests that the administration is unlikely to back down on this issue. The news does not provide any new information on the specifics of the tariffs, but rather reinforces the administration's commitment to this policy.",
+      "impact": "The potential impact of this news on related stocks is likely to be limited in the short term, as the market has already priced in the uncertainty surrounding the tariffs. However, in the medium term, the persistence of tariffs could lead to higher costs for US companies that import goods, potentially weighing on their earnings outlook and valuations. This could be particularly significant for companies in industries that rely heavily on international trade, such as aerospace and automotive manufacturers.",
+      "risks": [
+        "higher input costs risk",
+        "earnings pressure risk",
+        "valuation risk"
+      ]
+    }
+  },
+  {
     "id": "8272596",
     "headline": "WestBridge said to be considering stake sale in Star Health",
     "summary": "WestBridge is reported to have spoken with financial advisers to evaluate a sale of its 40% stake in the insurance company",
@@ -800,6 +823,29 @@
     }
   },
   {
+    "id": "8261885",
+    "headline": "US military says it completed 13th consecutive night of strikes on Iran - Reuters",
+    "summary": "US military says it completed 13th consecutive night of strikes on Iran  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS2RjdGstOHhBcnk2VmZRa3dlaHA4YlM5M056cW1TcktoUDZMUHlYa3BCTmhQRlJaVnAxdkR1VGhUX180ck1vSVY5UnBjNnJyVjVVN1FzdjRlYlhVcGFHTld6RkFWUVhEVzN0T0ZQd3E2U0pGcHhZM2FlREMtckJVSXJNUERBbXZkbThpQ0U4d0dFQnNjbDRsaU1hNkp6Y19TVkRVbFE5cGk2QXdLVjd0aGJZVUNLbVNnOUpr?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784894401,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784868875,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The US military has completed its 13th consecutive night of strikes on Iran, escalating tensions in the region. The strikes are a response to Iran's alleged attacks on US interests and personnel. This escalation has significant implications for global oil prices and the energy sector, as Iran is a major oil producer. The situation may lead to increased volatility in the markets and potential disruptions to global supply chains.",
+      "impact": "The potential impact on the energy sector is significant, with oil prices likely to rise in the short term due to the increased tensions and potential disruptions to global supply. This could lead to increased costs for companies with high oil exposure, such as oil producers and refiners. In the medium term, the situation may lead to increased investment in alternative energy sources and a shift away from fossil fuels, benefiting companies in the renewable energy sector.",
+      "risks": [
+        "Increased oil prices risk",
+        "Supply chain disruptions risk",
+        "Global economic slowdown risk due to increased energy costs"
+      ]
+    }
+  },
+  {
     "id": "8264039",
     "headline": "Asia LNG hits four-month high on fears of wider Mideast shipping disruption - Reuters",
     "summary": "Asia LNG hits four-month high on fears of wider Mideast shipping disruption  Reuters",
@@ -842,29 +888,6 @@
         "inflation risk",
         "interest rate risk",
         "geopolitical risk"
-      ]
-    }
-  },
-  {
-    "id": "8261885",
-    "headline": "US military says it completed 13th consecutive night of strikes on Iran - Reuters",
-    "summary": "US military says it completed 13th consecutive night of strikes on Iran  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS2RjdGstOHhBcnk2VmZRa3dlaHA4YlM5M056cW1TcktoUDZMUHlYa3BCTmhQRlJaVnAxdkR1VGhUX180ck1vSVY5UnBjNnJyVjVVN1FzdjRlYlhVcGFHTld6RkFWUVhEVzN0T0ZQd3E2U0pGcHhZM2FlREMtckJVSXJNUERBbXZkbThpQ0U4d0dFQnNjbDRsaU1hNkp6Y19TVkRVbFE5cGk2QXdLVjd0aGJZVUNLbVNnOUpr?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784878500,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784868875,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The US military has completed its 13th consecutive night of strikes on Iran, escalating tensions in the region. The strikes are a response to Iran's alleged attacks on US interests and personnel. This escalation has significant implications for global oil prices and the energy sector, as Iran is a major oil producer. The situation may lead to increased volatility in the markets and potential disruptions to global supply chains.",
-      "impact": "The potential impact on the energy sector is significant, with oil prices likely to rise in the short term due to the increased tensions and potential disruptions to global supply. This could lead to increased costs for companies with high oil exposure, such as oil producers and refiners. In the medium term, the situation may lead to increased investment in alternative energy sources and a shift away from fossil fuels, benefiting companies in the renewable energy sector.",
-      "risks": [
-        "Increased oil prices risk",
-        "Supply chain disruptions risk",
-        "Global economic slowdown risk due to increased energy costs"
       ]
     }
   },
@@ -1165,6 +1188,29 @@
     }
   },
   {
+    "id": "8256727",
+    "headline": "Oil settles over $100 as Houthi attacks intensify Middle East supply risks - Reuters",
+    "summary": "Oil settles over $100 as Houthi attacks intensify Middle East supply risks  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcEZlQTh2dnVnblEzaVc4eE81SE92UFhTN2VJSXQ4RGdOQVFLU2FuUTB6d19yWWotOFZzQTRaRmlPanZpYkdPZ18waTVpd0lsaWJPRU9aZkd5VU9lZ3RvYi00RGh3TUFsV3JYTGpNc21BOE54N01TbmtCOWh2UWtUTFhZQVlfVHBNS2F1ZDhJS01RT001UDRBQ3MwYTFqM25uaUcxX1E4R3JTX1k?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784844544,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784782701,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Oil prices have reached a six-week high due to escalating shipping risks in the Middle East. The region's volatile situation has increased the likelihood of supply disruptions, which in turn has driven up oil prices. This development is significant for oil-producing companies, as higher oil prices typically lead to increased revenue and profitability. The escalation of tensions in the Middle East is a major driver of this price increase, and its impact on global oil markets is being closely watched.",
+      "impact": "The increase in oil prices is likely to have a positive impact on oil-producing companies, particularly those with significant exposure to the Middle East. This could lead to higher earnings and revenue for these companies in the short term, as well as a revaluation of their stocks. However, the medium-term impact is uncertain, as the situation in the Middle East remains volatile and could lead to further supply disruptions. The increased oil prices may also have a positive impact on the overall energy sector, leading to a broader rally in energy stocks.",
+      "risks": [
+        "Escalating tensions in the Middle East leading to further supply disruptions",
+        "Uncertainty around the duration and impact of the current price increase",
+        "Potential for a global economic slowdown if oil prices remain high"
+      ]
+    }
+  },
+  {
     "id": "8260621",
     "headline": "Southwest Airlines put Texas jet fuel on a boat to LA for the first time amid supply worries",
     "summary": "Southwest hired a ship this spring to send fuel from Houston to Los Angeles in case of supply shortages.",
@@ -1207,29 +1253,6 @@
         "Regulatory risk: increased compliance costs and potential fines",
         "Innovation risk: potential stifling of AI development due to increased regulatory hurdles",
         "Valuation risk: potential impact on earnings outlook and stock prices"
-      ]
-    }
-  },
-  {
-    "id": "8256727",
-    "headline": "Oil settles over $100 as Houthi attacks intensify Middle East supply risks - Reuters",
-    "summary": "Oil settles over $100 as Houthi attacks intensify Middle East supply risks  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcEZlQTh2dnVnblEzaVc4eE81SE92UFhTN2VJSXQ4RGdOQVFLU2FuUTB6d19yWWotOFZzQTRaRmlPanZpYkdPZ18waTVpd0lsaWJPRU9aZkd5VU9lZ3RvYi00RGh3TUFsV3JYTGpNc21BOE54N01TbmtCOWh2UWtUTFhZQVlfVHBNS2F1ZDhJS01RT001UDRBQ3MwYTFqM25uaUcxX1E4R3JTX1k?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784835493,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784782701,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Oil prices have reached a six-week high due to escalating shipping risks in the Middle East. The region's volatile situation has increased the likelihood of supply disruptions, which in turn has driven up oil prices. This development is significant for oil-producing companies, as higher oil prices typically lead to increased revenue and profitability. The escalation of tensions in the Middle East is a major driver of this price increase, and its impact on global oil markets is being closely watched.",
-      "impact": "The increase in oil prices is likely to have a positive impact on oil-producing companies, particularly those with significant exposure to the Middle East. This could lead to higher earnings and revenue for these companies in the short term, as well as a revaluation of their stocks. However, the medium-term impact is uncertain, as the situation in the Middle East remains volatile and could lead to further supply disruptions. The increased oil prices may also have a positive impact on the overall energy sector, leading to a broader rally in energy stocks.",
-      "risks": [
-        "Escalating tensions in the Middle East leading to further supply disruptions",
-        "Uncertainty around the duration and impact of the current price increase",
-        "Potential for a global economic slowdown if oil prices remain high"
       ]
     }
   },
@@ -2105,29 +2128,6 @@
     }
   },
   {
-    "id": "8254928",
-    "headline": "Oil prices jump on US-Iran strikes, stocks flat ahead of Big Tech results - Reuters",
-    "summary": "Oil prices jump on US-Iran strikes, stocks flat ahead of Big Tech results  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15bndqdmhfTjlVQXVscXkwMHFjU3hXNFR5RTdLSnY3a0trdmEzYlNGbm5LeUhxbVJSd21PR1FmQnJpeWxSdHN1aTEwalByRGZFcGtiRUhXeUZSeVdFMHFBekU3bzRvblRKMms0OW5vZkJPekhNSThGOERjRQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784761152,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784746586,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Oil prices surged following US-Iran strikes, which heightened tensions in the Middle East and increased concerns about global oil supply. This news comes as investors await the release of Big Tech earnings reports, which may influence market sentiment. The current market reaction is relatively muted, with stocks trading flat. The US-Iran conflict has been a recurring theme in the energy sector, and the recent escalation is likely to have a short-term impact on oil prices. Investors are closely watching the situation to gauge its potential long-term effects on the global economy.",
-      "impact": "The short-term impact on the energy sector is likely to be positive for oil producers such as ExxonMobil (XOM) and Chevron (CVX), as higher oil prices can boost their revenue and earnings. However, the medium-term effects of the US-Iran conflict on the global economy and oil prices are uncertain and may lead to increased volatility in the energy sector. Investors should closely monitor the situation and be prepared for potential changes in oil prices and their impact on energy stocks.",
-      "risks": [
-        "Escalation of the US-Iran conflict leading to a significant disruption in global oil supply",
-        "Increased volatility in the energy sector due to uncertainty surrounding the conflict's long-term effects",
-        "Potential impact on the global economy and consumer sentiment"
-      ]
-    }
-  },
-  {
     "id": "8251433",
     "headline": "Saudi, UAE officials use social media to signal unity after months of tension - Reuters",
     "summary": "Saudi, UAE officials use social media to signal unity after months of tension  Reuters",
@@ -2147,6 +2147,29 @@
         "sustainability of improved relations risk",
         "implementation risk of economic cooperation plans",
         "macroeconomic risks in the region"
+      ]
+    }
+  },
+  {
+    "id": "8254928",
+    "headline": "Oil prices jump on US-Iran strikes, stocks flat ahead of Big Tech results - Reuters",
+    "summary": "Oil prices jump on US-Iran strikes, stocks flat ahead of Big Tech results  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15bndqdmhfTjlVQXVscXkwMHFjU3hXNFR5RTdLSnY3a0trdmEzYlNGbm5LeUhxbVJSd21PR1FmQnJpeWxSdHN1aTEwalByRGZFcGtiRUhXeUZSeVdFMHFBekU3bzRvblRKMms0OW5vZkJPekhNSThGOERjRQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1784751603,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1784746586,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Oil prices surged following US-Iran strikes, which heightened tensions in the Middle East and increased concerns about global oil supply. This news comes as investors await the release of Big Tech earnings reports, which may influence market sentiment. The current market reaction is relatively muted, with stocks trading flat. The US-Iran conflict has been a recurring theme in the energy sector, and the recent escalation is likely to have a short-term impact on oil prices. Investors are closely watching the situation to gauge its potential long-term effects on the global economy.",
+      "impact": "The short-term impact on the energy sector is likely to be positive for oil producers such as ExxonMobil (XOM) and Chevron (CVX), as higher oil prices can boost their revenue and earnings. However, the medium-term effects of the US-Iran conflict on the global economy and oil prices are uncertain and may lead to increased volatility in the energy sector. Investors should closely monitor the situation and be prepared for potential changes in oil prices and their impact on energy stocks.",
+      "risks": [
+        "Escalation of the US-Iran conflict leading to a significant disruption in global oil supply",
+        "Increased volatility in the energy sector due to uncertainty surrounding the conflict's long-term effects",
+        "Potential impact on the global economy and consumer sentiment"
       ]
     }
   },
@@ -22682,25 +22705,6 @@
         "reputation risk",
         "increased competition risk"
       ]
-    }
-  },
-  {
-    "id": "8147173",
-    "headline": "Netanyahu visits occupied southern Lebanon, says Israel won't leave yet - Reuters",
-    "summary": "Netanyahu visits occupied southern Lebanon, says Israel won't leave yet  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeVcySlRURGc5VDVrMkFTZk82RTBjUE1zdkNtQW1SVERHQmI3d2xwMFc1VkVnOXRNbDRYU1QteTl4LTZmdDNwa3FTdk1Udk9hR3c5WkVfclVZUEpoNmpzUU5YVGVpOTh2WVhrU1B6b08yaTBBRXlEWTVNWmJ4ajI0QlpoYUNEZWxhbHM2Sm1YclFROXNaRGhxV3ptYzNmRHNfTHNCVlpGSFlKUEZuTWtPN3pOVzdvMC1aajJiZFdUeWo?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782837922,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782847623,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Israeli Prime Minister Benjamin Netanyahu visited occupied southern Lebanon, stating that Israel will not leave the region yet. This visit comes amid ongoing tensions between Israel and Lebanon over border disputes. The statement suggests that Israel's military presence in the region will continue, which may lead to increased military spending and a stronger defense sector. This development may have implications for companies involved in the defense industry, such as defense contractors and military equipment suppliers.",
-      "impact": "The potential impact on related stocks is limited, as the news is more of a political statement rather than a direct economic indicator. However, a prolonged military presence in the region may lead to increased demand for defense-related products and services, benefiting companies in the defense industry. In the short term, this news may lead to a slight increase in defense stocks, but the medium-term impact is uncertain and dependent on various factors, including the duration of the military presence and the response from Lebanon and other regional actors.",
-      "risks": []
     }
   }
 ]
