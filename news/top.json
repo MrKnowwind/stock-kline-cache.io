@@ -1,5 +1,28 @@
 [
   {
+    "id": "8277771",
+    "headline": "Apple ends day as world's most valuable company, passing Nvidia",
+    "summary": "Nvidia had held the top spot as the most valuable company since June 2025, when it took the crown from Microsoft.",
+    "url": "https://www.cnbc.com/2026/07/27/apple-most-valuable-company-nvidia.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108306955-17787656602026-05-14t092019z_1259313703_rc2v8layxpwx_rtrmadp_0_china-usa.jpeg?v=1778765680&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1785186746,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785189372,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Apple has surpassed Nvidia as the world's most valuable company, driven by its reluctance to spend heavily on capital expenditures for AI and its focus on renting capacity instead of building its own. This strategy has led to a 24% increase in Apple's shares this year, outperforming the market and Nvidia's 4% gain. Nvidia's shares fell 5% on Monday as AI chip stocks declined due to concerns about large costs related to the AI buildout. Apple's upcoming earnings report on Thursday is expected to reveal the financial impacts of the AI-driven global memory chip shortage, which may have led to higher prices for Mac and iPad products.",
+      "impact": "Apple's stock is likely to continue its upward trend, driven by its strong earnings outlook and valuation. The company's reluctance to spend on AI capital expenditures has been rewarded by investors, and its focus on renting capacity has allowed it to maintain profitability. Nvidia's shares may continue to decline in the short-term due to the decline in AI chip stocks and the company's high valuation. The AI-driven global memory chip shortage may also have a negative impact on Nvidia's sales and earnings.",
+      "risks": [
+        "AI chip demand slowdown risk",
+        "valuation risk for Nvidia",
+        "memory chip shortage risk"
+      ]
+    }
+  },
+  {
     "id": "8277765",
     "headline": "Nvidia's potential $250B backstop for OpenAI is another strike against the AI trade",
     "summary": "This is yet another sign that investors need to look beyond AI stocks.",
@@ -22660,25 +22683,6 @@
         "economic sanctions could still be imposed",
         "oil price volatility"
       ]
-    }
-  },
-  {
-    "id": "8151142",
-    "headline": "We're exiting a troubled stock after a muted quarter, while considering better options",
-    "summary": "The quarter offered some signs that management's turnaround strategy is gaining traction, but progress remains slow.",
-    "url": "https://www.cnbc.com/2026/07/01/were-exiting-a-troubled-stock-after-a-muted-quarter-while-considering-better-options.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108295609-1776882616323-gettyimages-2271950132-AFP_A8NJ9YH.jpeg?v=1776882638&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1782910069,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782919924,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Nike's muted earnings report and slow progress in its turnaround strategy led to the decision to exit the stock. The company's management is taking steps to tackle inventory and reduce markdowns, but growth is expected to be slow. The Greater China region has been a significant challenge, and competition has had a greater impact than anticipated. The company still expects to see a return to year-over-year sales and earnings growth in two quarters, but the recovery may not be as sharp as expected.",
-      "impact": "The exit from Nike's stock may lead to a short-term impact on the company's share price, potentially causing a decline. In the medium term, the company's earnings outlook and valuation may be affected, as investors reassess their expectations for growth. The decision to exit Nike's stock may also influence investor sentiment, potentially leading to a decline in the stock's liquidity.",
-      "risks": []
     }
   }
 ]
