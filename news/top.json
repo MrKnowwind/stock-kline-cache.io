@@ -1,5 +1,47 @@
 [
   {
+    "id": "8277733",
+    "headline": "JetBlue overhauls fare options, from basic first to flexible economy. Here's what to know",
+    "summary": "JetBlue is doing away with its \"Core\" product and putting economy tickets under a new name.",
+    "url": "https://www.cnbc.com/2026/07/27/jetblue-new-fare-options-basic-economy-first-class.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108224140-1762867114672-gettyimages-2246060080-anotherday143728090_duwywm2f.jpeg?v=1762867211&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1785171601,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785172973,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "JetBlue is overhauling its fare options, introducing a new 'Main' economy category, 'Even More' with extra legroom, and 'BlueFirst' domestic first class. The changes aim to provide more flexibility and customization for customers. The airline will also offer 'Base', 'Standard', and 'Flex' options within each class. The move is part of a broader industry trend to offer more premium products and higher fares.",
+      "impact": "The changes are likely to have a positive impact on JetBlue's revenue and profitability in the medium term, as customers are willing to pay more for premium seats and services. The new fare structure may also lead to increased ticket prices, benefiting the airline's top line. However, the increased competition in the premium economy segment may put pressure on JetBlue's market share and earnings growth. The airline's earnings report on Tuesday will provide more insight into the impact of these changes on its business.",
+      "risks": [
+        "Increased competition from other airlines offering similar premium products",
+        "Higher operating costs due to the introduction of new fare options and services",
+        "Potential negative impact on demand for lower-cost travel options"
+      ]
+    }
+  },
+  {
+    "id": "8277722",
+    "headline": "Why Boeing and Corning are moving in opposite directions and what to expect next",
+    "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+    "url": "https://www.cnbc.com/2026/07/27/why-boeing-corning-are-moving-in-opposite-directions-and-whats-next.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108337968-1784647816150-gettyimages-2287059605-anotherday241789564_dlr68bu0.jpeg?v=1784647890&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1785168549,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785173023,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The CNBC Investing Club with Jim Cramer discussed the divergent performance of Boeing and Corning in their Monday 'Morning Meeting'. Boeing is expected to report strong free cash flow and increasing production, driven by its large order backlog. Corning's earnings are also expected to be strong, but the stock has declined nearly 46% from its June record high, making it a potential buying opportunity. The club has trimmed their Corning position and added to their Intel stake, citing concerns over the tech sector's rally and overspending by big tech companies.",
+      "impact": "Boeing's stock is likely to benefit from its strong order backlog and increasing production, potentially leading to improved free cash flow. Corning's stock may experience a short-term decline due to its recent price drop, but its strong earnings outlook could make it a buying opportunity. Intel's stock is expected to benefit from the club's addition to their stake, driven by the company's strong quarter and relatively low valuation. The tech sector's concerns over overspending by big tech companies may impact the broader market, potentially leading to a decline in tech stocks.",
+      "risks": []
+    }
+  },
+  {
     "id": "8277683",
     "headline": "Sam Altman to meet with Trump administration, Senators this week. Here's what he plans to say",
     "summary": "Altman will preview the capabilities of the company's upcoming family of AI models and answer questions about cybersecurity and open-weight models.",
@@ -26,7 +68,20 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/108339504-1784838021299-gettyimages-2286702744-AFP_C2ZY29G.jpeg?v=1784838050&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1785156823
+    "publishedAt": 1785156823,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785173072,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Jim Cramer's Charitable Trust is buying more shares of Honeywell Aerospace (HONA) and Intel (INTC) due to a temporary break in hostilities between the US and Iran, causing oil prices to fall. This has led to a decline in the broader aerospace trade, with HONA shares falling from $220 to the low $200s. Despite the mixed analyst reaction, Cramer believes the discount is too steep compared to peer RTX, and execution should improve over time. Intel shares fell 7% on Friday despite reporting better-than-expected Q2 results, which Cramer sees as a buying opportunity.",
+      "impact": "The buying of HONA and INTC could lead to a short-term bounce in their shares, as investors become more optimistic about their prospects. In the medium term, improved execution at HONA and Intel's confidence in securing customer wins could drive earnings growth and improve their valuations. The decline in oil prices could also benefit the aerospace industry as a whole, reducing fuel costs and increasing demand for flights.",
+      "risks": [
+        "Mixed analyst reaction to HONA",
+        "Rising oil prices could reverse if tensions with Iran escalate",
+        "Intel's ability to secure customer wins in its foundry business"
+      ]
+    }
   },
   {
     "id": "8277661",
@@ -22627,48 +22682,6 @@
         "Increased competition from alternative energy sources",
         "Geopolitical tensions affecting tanker traffic",
         "Potential disruption to tanker data collection"
-      ]
-    }
-  },
-  {
-    "id": "8151146",
-    "headline": "Iran warns of immediate response to any threat, cites US commitment to restrain Israel - Reuters",
-    "summary": "Iran warns of immediate response to any threat, cites US commitment to restrain Israel  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYWN4MVRUWnFzZkJNVjRneXVXUFlxcG0zekxKbXRqdml6bVhUUmI3ajV0THo0NVRTR1BaUjRXaVJHUjBoRVM3dlViekpfY1FtWERPODNGVEdiQ3BnajJ6YjNiZTZmYjM1ZzZ4NHN1UTRSbU1fdUtxc25MdGMzUjQtNjlKRGEzWFhXTjNHRS1ZX2pOYmtxUm1jSzRaSld6Wk9MSnUwYTJUUDI3bkhBSGprNUMtN0Rabk40d2JKTjV5VTJsV0RnMjVHaU9n?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782904303,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782919973,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "Iran's warning of an immediate response to any threat suggests a heightened risk of conflict in the Middle East. This development is likely a response to the US commitment to restrain Israel, which may be perceived as a threat to Iran's national security. The escalation of tensions in the region could have significant implications for oil prices and the global economy. The news may also impact the earnings outlook for companies with exposure to the energy sector, particularly those with operations in the Middle East.",
-      "impact": "The potential impact on stocks is bearish, particularly for companies with significant exposure to the energy sector. A rise in oil prices could lead to higher production costs and reduced profitability for energy companies. In the short-term, this may lead to a decline in stock prices for companies such as ExxonMobil (XOM) and Chevron (CVX). In the medium-term, the increased uncertainty in the region could lead to a decline in investor sentiment, making it more challenging for energy companies to raise capital and invest in new projects.",
-      "risks": []
-    }
-  },
-  {
-    "id": "8150467",
-    "headline": "The next Iran war may come sooner than you think - Reuters",
-    "summary": "The next Iran war may come sooner than you think  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaGhZVGxYcGxXVFlVSXdiMDkxN0Z1QnJwX1k1Nm1pWTRJX0hBR0c4QW5CUFg2Ukw3dmxJUUstR2EtUDY2TDNuMjBVWmRTNnNNeTR4MkVGU3AwYkV5Wmo4OU9ZYWR1enRRNk9PUlNLcnBpVElzTnNaVTBTOVNkcmtyVE9FSXRVUWpKQ3ZWeDA1QWxVblNaTURUWk92YlR5VF9VRDNJczJTaDhYakQtbk9PVHo5a0R4MldOcW12amV5bVhYRm05VVJOTQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782903717,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782908644,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The article suggests that the possibility of a war between the US and Iran may be higher than previously thought, citing escalating tensions and a recent attack on an Israeli-owned oil tanker. The article references a report by a US think tank that suggests a war could break out within the next few months. The report highlights the increasing threat of Iranian retaliation against US and Israeli targets, and the potential for a wider conflict. The article also mentions the impact of a war on the global economy, including a potential spike in oil prices and a decline in global trade.",
-      "impact": "The potential for a war between the US and Iran could have significant short-term and medium-term impacts on the global economy and related stocks. A war could lead to a spike in oil prices, which could negatively impact companies with high oil costs, such as airlines and trucking companies. Additionally, a war could lead to a decline in global trade, which could negatively impact companies with international supply chains. The potential for a war could also lead to a decline in investor sentiment, which could negatively impact stock prices.",
-      "risks": [
-        "Escalating tensions between the US and Iran",
-        "Potential for a wider conflict",
-        "Impact on global trade and economy"
       ]
     }
   }
