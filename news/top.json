@@ -1,5 +1,28 @@
 [
   {
+    "id": "8277755",
+    "headline": "More tech pain means gains elsewhere. What's winning in Monday's mixed market",
+    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+    "url": "https://www.cnbc.com/2026/07/27/more-tech-pain-means-gains-elsewhere-what-is-winning-in-the-mixed-market.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108340496-1785161547188-gettyimages-2287222043-AFP_C3AX3W8.jpeg?v=1785161570&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1785177609,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785178964,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The market is mixed to start the week, with the cooling of geopolitical tensions leading to a decline in energy prices, which in turn eased inflation concerns and fueled a rally in bond prices. This led to a rally in sectors such as banks, financials, retail, and consumer stocks, while the tech sector, particularly semiconductor and AI-related stocks, struggled due to concerns over the future path of monetary policy and the impact of cheaper AI models from China. The Federal Reserve's interest rate decision on Wednesday will be closely watched, with the market seeing a 60% chance of no change in rates. Johnson & Johnson's rally serves as a reminder that first reactions during earnings season may not always be correct.",
+      "impact": "The decline in energy prices and the rally in bond prices are likely to benefit banks and financials, particularly those with high exposure to interest rates, such as Capital One and Wells Fargo. Retail and consumer stocks, such as TJX Companies, Starbucks, and Costco, may also see continued gains. The tech sector, however, may remain under pressure due to concerns over the future path of monetary policy and the impact of cheaper AI models from China. The upcoming earnings reports from Alphabet, Meta Platforms, Microsoft, and Amazon may provide further insight into the sector's prospects.",
+      "risks": [
+        "interest rate hike risk",
+        "AI adoption risk",
+        "China's AI competition risk"
+      ]
+    }
+  },
+  {
     "id": "8277733",
     "headline": "JetBlue overhauls fare options, from basic first to flexible economy. Here's what to know",
     "summary": "JetBlue is doing away with its \"Core\" product and putting economy tickets under a new name.",
@@ -22659,29 +22682,6 @@
         "regulatory approval risk",
         "integration risk",
         "technical implementation risk"
-      ]
-    }
-  },
-  {
-    "id": "8155177",
-    "headline": "Breakingviews - Tanker data is better Hormuz gauge than oil prices - Reuters",
-    "summary": "Breakingviews - Tanker data is better Hormuz gauge than oil prices  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZExLMmZZZjZSSE9MLXV6WEl6QnVqOWlfOG1NWDZtNUZsclF0YjJuR0k4ZTh1WTUzUGp4S2NyTXdrdVlpYWpTSmxZcjBDTUZ0NlIybjBScXNJVTRCcWotd0pQQkVWMmVXV2xSc1ptV1Zrd19ma0RkbE5rRmpKY0x3STNpZEJ6eGNaTlZDMENTUks2SDFOZFJPRTg5bFh3NmRNT2FRNkpTZ3N5VlZoeUxyQQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782905124,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782988476,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The article suggests that tanker data is a more reliable indicator of global oil demand and supply dynamics than oil prices. This is because oil prices can be influenced by various factors such as geopolitical tensions, speculation, and supply chain disruptions, making them less reliable. In contrast, tanker data provides a more direct measure of oil demand and supply, as it tracks the movement of oil tankers and the volume of oil being transported. This data can provide a more accurate picture of the global oil market, which is essential for investors to make informed decisions. The article highlights the importance of tanker data in understanding the global oil market and its implications for investors.",
-      "impact": "The article's suggestion that tanker data is a more reliable indicator of global oil demand and supply dynamics may lead investors to reevaluate their reliance on oil prices. This could result in a short-term increase in demand for tanker companies and related shipping stocks, as investors seek to capitalize on the potential for more accurate market insights. However, the medium-term impact may be neutral, as the tanker data itself does not directly impact earnings or valuation of oil companies. The article's focus on tanker data may also lead to increased attention on the sector, potentially increasing liquidity and sentiment for related stocks.",
-      "risks": [
-        "Increased competition from alternative energy sources",
-        "Geopolitical tensions affecting tanker traffic",
-        "Potential disruption to tanker data collection"
       ]
     }
   }
