@@ -1,5 +1,28 @@
 [
   {
+    "id": "8278038",
+    "headline": "We're trimming a rallying stock to protect against a potential earnings letdown",
+    "summary": "The sale comes a day before the company reports earnings.",
+    "url": "https://www.cnbc.com/2026/07/28/were-trimming-a-rallying-stock-to-protect-against-a-potential-earnings-letdown-.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108226885-1763397102961-gettyimages-2246608610-US_STOCKS.jpeg?v=1774492750&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1785262624,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785269566,
+      "sentiment": "bearish",
+      "confidence": 0.6,
+      "summary": "Jim Cramer's Charitable Trust is trimming its position in Procter & Gamble (PG) ahead of the company's earnings report, citing the potential for conservative guidance from management. This decision is made after the stock has rallied, driven by the rotation out of data-center stocks and into consumer staples, with Coca-Cola (KO) also reporting an upbeat earnings report. The sale is a hedge against a potential earnings letdown, as the company's fiscal year 2026 is coming to a close and management may issue conservative guidance for fiscal 2027. The trust will own 200 shares of PG after the sale, decreasing its weighting in the portfolio to 0.75% from 1.15%.",
+      "impact": "The sale of PG shares may have a short-term negative impact on the stock price, as it could be perceived as a sign of reduced confidence in the company's earnings potential. However, the decision is also a hedge against a potential earnings letdown, which could mitigate the impact on the stock price. In the medium term, the sale may lead to increased selling pressure on the stock, especially if other investors follow suit. The rotation out of data-center stocks and into consumer staples may also continue, benefiting stocks like KO and other consumer staples companies.",
+      "risks": [
+        "Potential earnings letdown risk",
+        "Conservative guidance risk",
+        "Increased selling pressure risk"
+      ]
+    }
+  },
+  {
     "id": "8278013",
     "headline": "We're buying the dip on one of our stocks for two key reasons",
     "summary": "We don't see signs of a slowdown in the parcel delivery industry, and believe FedEx is stealing share from its rival UPS.",
@@ -22664,29 +22687,6 @@
         "tail risk of short positions being wiped out by a vicious bear market rally",
         "uncertainty around the severity of the current crypto winter",
         "potential for a sharp increase in volatility"
-      ]
-    }
-  },
-  {
-    "id": "8152015",
-    "headline": "Cramer shares next steps for a software stock after a rare bullish analyst call",
-    "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-    "url": "https://www.cnbc.com/2026/07/01/cramer-shares-next-steps-for-a-software-stock-after-a-rare-bullish-call-.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108254282-1768921600210--vPxrYyo.jpg?v=1768921696&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1782923801,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782927253,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Jim Cramer's CNBC Investing Club discussed the current market trends, including the S&P 500's rise and the Nasdaq's decline due to profit-taking in semiconductor stocks. Cramer highlighted Meta's potential growth in its cloud business and exited his position in Nike due to disappointing quarterly results. He also expressed enthusiasm for FedEx Freight, citing a better turnaround potential. Additionally, Cramer discussed Salesforce, which saw a 5% jump after a Guggenheim analyst upgrade, but he remains cautious, preferring to invest in Micron instead.",
-      "impact": "The news may have a positive impact on Meta's stock, potentially driving its cloud business growth. FedEx Freight may experience increased investor interest and demand, leading to a potential price increase. On the other hand, Salesforce may face increased competition from artificial intelligence, which could pressure its growth. In the short term, Micron's stock may benefit from Cramer's bullish call, potentially leading to a price increase.",
-      "risks": [
-        "artificial intelligence pressure on Salesforce",
-        "valuation risks for FedEx Freight",
-        "semiconductor sector volatility"
       ]
     }
   }
