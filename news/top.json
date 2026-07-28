@@ -214,6 +214,52 @@
     }
   },
   {
+    "id": "8277811",
+    "headline": "Bitcoin ETFs end inflow streak as Fed rate concerns mount",
+    "summary": "Amid fluctuating investor sentiment over Fed rate hikes and legislative uncertainties, Bitcoin ETFs face significant withdrawals, highlighting the fragility of recent crypto gains",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-27/bitcoin-etfs-end-inflow-streak-as-fed-rate-concerns-mount",
+    "source": "Bloomberg",
+    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+    "relatedSymbols": [],
+    "publishedAt": 1785130481,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785223644,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Bitcoin ETFs have seen a streak of inflows come to an end due to concerns over Fed rate hikes and legislative uncertainties. This development highlights the fragility of recent crypto gains, which have been driven by a combination of factors including increased institutional investment and speculation. The uncertainty surrounding the Fed's rate hike trajectory and potential regulatory changes has led to a shift in investor sentiment, causing a reversal in the inflows into Bitcoin ETFs. This trend is likely to continue as investors become increasingly cautious and risk-averse in the face of economic uncertainty.",
+      "impact": "The end of the inflow streak into Bitcoin ETFs is likely to have a negative impact on the related stocks in the short term, as it may lead to a decline in trading volumes and liquidity. This, in turn, could put pressure on the valuations of companies that have benefited from the recent surge in crypto-related investments. The medium-term impact may be more significant, as a sustained decline in investor interest in Bitcoin ETFs could lead to a decrease in earnings for companies that rely on these investments.",
+      "risks": [
+        "Increased regulatory scrutiny and potential changes to the regulatory environment",
+        "Uncertainty surrounding the Fed's rate hike trajectory and its impact on the crypto market",
+        "Decline in investor interest and trading volumes in Bitcoin ETFs"
+      ]
+    }
+  },
+  {
+    "id": "8277810",
+    "headline": "Nvidia in talks to back OpenAI lease of $500 billion data center",
+    "summary": "Nvidia is in discussions to help the creator of ChatGPT lease a $500 billion, 10-gigawatt hub that SoftBank Group Corp. is overseeing in Ohio",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-26/nvidia-in-talks-on-250-billion-backing-for-openai-hub-wsj-says",
+    "source": "Bloomberg",
+    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+    "relatedSymbols": [],
+    "publishedAt": 1785128527,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785223695,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Nvidia is in talks to support OpenAI's lease of a $500 billion data center hub in Ohio, which is being overseen by SoftBank Group Corp. This deal would be a significant investment in the AI infrastructure, with the hub expected to have a 10-gigawatt capacity. The talks indicate a growing demand for high-performance computing and AI capabilities, which is a key area of focus for Nvidia. This development is likely driven by the increasing adoption of AI technologies and the need for scalable infrastructure to support it.",
+      "impact": "This news is likely to have a positive impact on Nvidia's stock price, as it demonstrates the company's leadership in the AI infrastructure space and its ability to secure large-scale deals. The deal could also lead to increased demand for Nvidia's high-performance computing products, potentially driving revenue growth and boosting earnings outlook. Additionally, the partnership with OpenAI and SoftBank Group Corp. could enhance Nvidia's reputation and credibility in the industry, leading to improved sentiment and valuation.",
+      "risks": [
+        "Integration risk: The successful integration of the data center hub with Nvidia's existing infrastructure and operations is crucial to the success of the deal.",
+        "Regulatory approval risk: The deal may be subject to regulatory approvals, which could delay or even block the project.",
+        "Dependence on AI adoption: The success of the deal is contingent on the continued adoption of AI technologies, which may be subject to various risks and uncertainties."
+      ]
+    }
+  },
+  {
     "id": "8277073",
     "headline": "Morning Bid: Markets dare to hope as US, Iran put war on hold - Reuters",
     "summary": "Morning Bid: Markets dare to hope as US, Iran put war on hold  Reuters",
@@ -22636,52 +22682,6 @@
         "supply chain disruptions risk",
         "geopolitical tensions risk",
         "over-reliance on AI technology risk"
-      ]
-    }
-  },
-  {
-    "id": "8151248",
-    "headline": "PlayStation will end physical disc production for new games in 2028",
-    "summary": "PlayStation will end physical disc production for new games in 2028, the company announced Wednesday morning.",
-    "url": "https://www.cnbc.com/2026/07/01/sony-playstation-physical-disc-production-2028.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/107379294-1709071161950-gettyimages-2043808563-img_7133_suc8qu8f.jpeg?v=1709071281&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1782912089,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782919829,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "Sony's announcement to end physical disc production for new games in 2028 reflects the industry's shift towards digital media consumption. This move is driven by consumers' preference for digital formats, which is outpacing physical disc sales. The decision will enable Sony to align with consumer behavior, but also raises concerns about the potential impact on console sales and pricing. As consumers increasingly opt for digital, console makers are facing pressure to adapt, leading to price hikes on consoles.",
-      "impact": "The news is likely to have a negative impact on Sony's (potentially through its parent company Sony Group) earnings outlook in the short-term, as the shift to digital formats may lead to lower console sales. In the medium-term, the move could result in increased competition for Sony in the digital gaming market, potentially affecting its market share and valuation. The news may also lead to a decline in demand for physical discs, which could negatively impact related stocks such as Best Buy (BBY) and retailers that rely on physical game sales.",
-      "risks": [
-        "decline in console sales",
-        "increased competition in digital gaming market",
-        "negative impact on related retailers"
-      ]
-    }
-  },
-  {
-    "id": "8152441",
-    "headline": "Petrobras CEO sees oil settling in range of $72 to $75 per barrel - Reuters",
-    "summary": "Petrobras CEO sees oil settling in range of $72 to $75 per barrel  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOGZ6b0drYzFMdTl6V3lRdEo2Z2ZjZ1NST3V5ZmZVd0FhSUdSdEhWTks1MTgxUVlBcHlLUnpIN1Z5OXBWVW9KbzIyN04tNkdaTndzNHhQTEFyNlVBTFUyUXBMZGRwYWU3VU1vOGUyLWZzdGJ3ZU9uVGRybEZwbWVmMVNfWjN4WDNBYzVnUUNYNUltVVh5ZzZzclhMNzVsYnU5b2ZnOTdOZTQ0dw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1782910903,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1782940552,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Petrobras CEO's comments on oil prices suggest a stabilization in the market, with a predicted range of $72 to $75 per barrel. This implies a moderate increase in oil prices, which could have a positive impact on Petrobras' revenue and profitability. The CEO's statement is based on the assumption that the current market conditions will persist, which may be influenced by factors such as global demand, supply chain disruptions, and OPEC production levels. The stabilization of oil prices could also have a positive impact on the broader energy sector, as it may reduce volatility and increase investor confidence.",
-      "impact": "The predicted stabilization of oil prices at $72 to $75 per barrel is likely to have a positive impact on Petrobras' earnings outlook, as higher oil prices will increase revenue and profitability. This could lead to a re-rating of the stock, with potential upside to the share price in the short to medium term. However, investors should be cautious of potential risks, such as changes in global demand or supply chain disruptions, which could impact oil prices and Petrobras' financial performance.",
-      "risks": [
-        "global demand slowdown risk",
-        "supply chain disruption risk",
-        "OPEC production level uncertainty"
       ]
     }
   }
