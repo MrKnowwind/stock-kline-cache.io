@@ -1,5 +1,28 @@
 [
   {
+    "id": "8280818",
+    "headline": "Fed keeps rates steady. The big question now: What will Microsoft and Meta say on AI capex?",
+    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+    "url": "https://www.cnbc.com/2026/07/29/fed-keeps-rates-steady-the-big-question-now-what-will-microsoft-and-meta-say-on-ai-capex-.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108341730-1785334072851-gettyimages-2284736819-20090101260709-99-13491.jpeg?v=1785334098&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1785352318,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785355721,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "The Federal Reserve kept interest rates unchanged, leaving markets uncertain about future rate hikes. The Fed's decision was accompanied by a press conference, where Chairman Kevin Warsh emphasized the importance of price stability and hinted at future rate hikes if inflation persists. Meanwhile, investors are eagerly awaiting earnings reports from Microsoft and Meta Platforms, particularly regarding their capital expenditure (capex) plans for AI infrastructure. Alphabet recently raised its capex outlook, and investors expect similar announcements from the other hyperscalers. The market is closely watching these announcements as they may impact the broader market and semiconductor stocks.",
+      "impact": "The news is likely to have a neutral impact on the broader market, but the earnings reports from Microsoft and Meta Platforms could significantly impact their respective stocks. If Microsoft and Meta Platforms raise their capex forecasts, it could boost the stocks of semiconductor and AI infrastructure companies. On the other hand, if they do not meet expectations, it could lead to a decline in their stocks and potentially weigh on the broader market. The outcome will also influence the narrative around the peak of capex spending in the industry.",
+      "risks": [
+        "capex spending slowdown risk",
+        "inflation risk",
+        "valuation risk"
+      ]
+    }
+  },
+  {
     "id": "8280713",
     "headline": "Hims and Hers shares fall 10% as FTC sues company over data, billing practices",
     "summary": "The FTC sued Hims & Hers over alleged health data sharing with Meta and Snap, billing practices and subscription cancellations.",
@@ -297,6 +320,29 @@
     }
   },
   {
+    "id": "8278117",
+    "headline": "EXCLUSIVE: Iran to get Chinese shoulder-launched missile systems in weeks, sources say - Reuters",
+    "summary": "EXCLUSIVE: Iran to get Chinese shoulder-launched missile systems in weeks, sources say  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR19sNWVrRDdhcXlNdTlxcUdNR0dNWDRBcjZPd21xOEM2bEYtdDJiWTEtYzlweWs5ZmtILVlhQkVUNzdaaENHbnhqTl9SSFNCZjk3eXNMS1o4SXFzT2VBS3VZZ0p6MVlrQldWNjRMUGlTN2tDR2xUOVBUdkdkTndueExrQm9vRGtTLTdBWjNGMDhZRC1qNDZXYVk3TXB0bWZ4ZFhpYUtfZ2JaalVZdjU3emN6LUptbjA?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1785318221,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785310671,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Iran is set to receive Chinese shoulder-launched missile systems in weeks, according to sources. This development is a significant escalation of military cooperation between Iran and China. The deal is expected to enhance Iran's military capabilities, potentially destabilizing the region. The news has implications for the defense industry, particularly companies involved in the production of missile systems. This could lead to increased demand for such systems, benefiting companies like Lockheed Martin and Northrop Grumman.",
+      "impact": "The news is likely to have a bearish impact on US defense companies that rely on sales to countries in the Middle East, as Iran's enhanced military capabilities may reduce their demand for US-made defense systems. In the short term, this could lead to a decline in earnings for these companies. In the medium term, the increased tensions in the region may lead to a decrease in investor sentiment, causing a decline in stock prices. The news may also lead to a reevaluation of the US's military strategy in the region.",
+      "risks": [
+        "Increased military tensions in the region",
+        "Decreased demand for US-made defense systems",
+        "Potential escalation of conflict in the Middle East"
+      ]
+    }
+  },
+  {
     "id": "8278963",
     "headline": "Israeli elections: how they work and who is in the race - Reuters",
     "summary": "Israeli elections: how they work and who is in the race  Reuters",
@@ -413,8 +459,8 @@
   },
   {
     "id": "8278118",
-    "headline": "US, Saudi hit Iran's allies in Iraq; Trump vows to punish Iran for firing at troops - Reuters",
-    "summary": "US, Saudi hit Iran's allies in Iraq; Trump vows to punish Iran for firing at troops  Reuters",
+    "headline": "Drone hits storage tanker at Egyptian port on Mediterranean, security firm Ambrey says - Reuters",
+    "summary": "Drone hits storage tanker at Egyptian port on Mediterranean, security firm Ambrey says  Reuters",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcFJoOXIwZmxCNHBjd05nc3dlYjNXXzd1NzdyQldTOVQ4S3NjZnNDRWdqdG1WUFRUS2tRSkJJTEhQYjJWa1FraklySUtoamVybzBfbUR4aUItanFrRG1hMDZJTzlSQ3lrS25SLUo4QzR0RVQxdmFSVUFaUFpHYWV0cmdnVURNVHJ1QzBzM0pIRTMwUmVFZmxwVVpyTklTallXU2ZLOGl3TDJ1U3VnRzd3bmZnQjVfcUw2a1pWSGdFOTNlUXFa?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -431,29 +477,6 @@
         "Oil price volatility risk",
         "Disruption to global supply chains risk",
         "Decrease in investor sentiment risk"
-      ]
-    }
-  },
-  {
-    "id": "8278117",
-    "headline": "EXCLUSIVE: Iran to get Chinese shoulder-launched missile systems in weeks, sources say - Reuters",
-    "summary": "EXCLUSIVE: Iran to get Chinese shoulder-launched missile systems in weeks, sources say  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR19sNWVrRDdhcXlNdTlxcUdNR0dNWDRBcjZPd21xOEM2bEYtdDJiWTEtYzlweWs5ZmtILVlhQkVUNzdaaENHbnhqTl9SSFNCZjk3eXNMS1o4SXFzT2VBS3VZZ0p6MVlrQldWNjRMUGlTN2tDR2xUOVBUdkdkTndueExrQm9vRGtTLTdBWjNGMDhZRC1qNDZXYVk3TXB0bWZ4ZFhpYUtfZ2JaalVZdjU3emN6LUptbjA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1785294240,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1785310671,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "Iran is set to receive Chinese shoulder-launched missile systems in weeks, according to sources. This development is a significant escalation of military cooperation between Iran and China. The deal is expected to enhance Iran's military capabilities, potentially destabilizing the region. The news has implications for the defense industry, particularly companies involved in the production of missile systems. This could lead to increased demand for such systems, benefiting companies like Lockheed Martin and Northrop Grumman.",
-      "impact": "The news is likely to have a bearish impact on US defense companies that rely on sales to countries in the Middle East, as Iran's enhanced military capabilities may reduce their demand for US-made defense systems. In the short term, this could lead to a decline in earnings for these companies. In the medium term, the increased tensions in the region may lead to a decrease in investor sentiment, causing a decline in stock prices. The news may also lead to a reevaluation of the US's military strategy in the region.",
-      "risks": [
-        "Increased military tensions in the region",
-        "Decreased demand for US-made defense systems",
-        "Potential escalation of conflict in the Middle East"
       ]
     }
   },
@@ -478,8 +501,8 @@
   },
   {
     "id": "8278121",
-    "headline": "Oil jumps nearly 7% on escalating Middle East airstrikes - Reuters",
-    "summary": "Oil jumps nearly 7% on escalating Middle East airstrikes  Reuters",
+    "headline": "Oil jumps 7% on escalating Middle East airstrikes - Reuters",
+    "summary": "Oil jumps 7% on escalating Middle East airstrikes  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd0ctWlZRN0hINkdrNUJmWWxpV0ZGNGw2Y2taRk1DbFBpdzd5bFdXQmJEcW9VRExnRFBtTWlTTHBRTU5tcDN2azF6VmtxdDN6WlVncmJxSVJhYjM4Wlctb3NEcnEzSWt4djdPSWJJX3ItYmpaN0UyZ09pbV85YjlRMkQ4RTV2RDE2c2NhYlRTdEVEUUFoWEVLMVBqUzhhX2xtVlJLUFp0RWFZTFpCSGJwMTRydUQ3NUx6ejJyYWFCdzBMVWpOYWZqbzF3?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -657,29 +680,6 @@
     }
   },
   {
-    "id": "8278637",
-    "headline": "Zendaya, Tom Holland and more at Spider Man: Brand New Day premiere - Reuters",
-    "summary": "Zendaya, Tom Holland and more at Spider Man: Brand New Day premiere  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSGdyZGU4NERmYzlkMjdIYmptUk5GYXRvVUVuT1pPN3NlcjFEYzBaeVA0bmxrY0lNajJDTGoxb0FSWVd1bnJtZGFtRUtCMC1Cby1IV21XMUU1NGxJVThrc1lkR0RFdEozODVvNURqUXJySHpqcUNHR0lxeGFpQkpxYTNNWmNGd0ZkeXRPU0hsYkN6OGcyZGdZNFNNOGdJTnFocG54cVMtdGVxZ0kwTWJ6XzN5ZEUzTG1JX0wwZg?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1785271440,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1785320312,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The article reports on the premiere of the new Spider-Man movie, Spider-Man: Brand New Day, featuring Zendaya and Tom Holland. The event was attended by various celebrities and fans. The movie is a spin-off of the Marvel Cinematic Universe and is expected to perform well at the box office. The article does not provide any specific information about the movie's box office performance or its potential impact on the stock market. However, it does mention the involvement of popular actors and the expected success of the movie, which could positively impact the stock prices of companies associated with the Marvel Cinematic Universe, such as Disney.",
-      "impact": "The success of the Spider-Man: Brand New Day movie could positively impact Disney's stock price in the short term, as it is a spin-off of the Marvel Cinematic Universe. The movie's expected success could also lead to increased demand for Marvel-themed merchandise, benefiting companies such as Disney and Hasbro. However, the impact on the stock market may be limited, as the movie's box office performance is not directly related to the companies' fundamentals.",
-      "risks": [
-        "Limited impact on stock prices due to the movie's indirect connection to the companies' fundamentals",
-        "Uncertainty about the movie's box office performance",
-        "Potential competition from other movies and entertainment options"
-      ]
-    }
-  },
-  {
     "id": "8278126",
     "headline": "Regime change? Inside Reza Pahlavi’s faltering bid to lead Iran - Reuters",
     "summary": "Regime change? Inside Reza Pahlavi’s faltering bid to lead Iran  Reuters",
@@ -802,7 +802,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1785263346
+    "publishedAt": 1785263346,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785355778,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Iran has proposed a temporary plan to take greater control over the Strait of Hormuz, a critical shipping lane for global oil exports. The plan aims to give Iran greater control over the transit lines, which could potentially disrupt global oil supplies and impact oil prices. The Strait of Hormuz is a narrow waterway that connects the Persian Gulf to the Gulf of Oman and is a key route for oil exports from the Middle East. Iran's proposal could lead to increased tensions with other countries in the region, particularly the US and its allies. The plan is seen as a move to assert Iran's control over the region and potentially increase its leverage in future negotiations.",
+      "impact": "The news could lead to increased volatility in the oil markets, potentially driving up oil prices in the short term. This could have a negative impact on companies that are heavily reliant on oil imports, such as airlines, shipping companies, and oil refiners. In the medium term, the increased tensions in the region could lead to a decrease in investor confidence in the region, potentially impacting the stock prices of companies with exposure to the region. The plan could also lead to increased costs for companies that rely on the Strait of Hormuz for their operations.",
+      "risks": [
+        "Increased oil prices risk",
+        "Regional instability risk",
+        "Decreased investor confidence risk"
+      ]
+    }
   },
   {
     "id": "8278038",
@@ -835,7 +848,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1785261600
+    "publishedAt": 1785261600,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785355831,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "US Senate's approval of Russia sanctions championed by Senator Graham may lead to increased tensions between the US and Russia, potentially impacting various industries and companies with ties to Russia. Ukrainian President Zelenskiy's visit to the US underscores the ongoing conflict between Russia and Ukraine. The sanctions are likely to affect Russian companies and individuals, but the article does not specify which companies will be targeted. The sanctions may also have a ripple effect on the global economy, particularly in industries with significant ties to Russia.",
+      "impact": "The sanctions may lead to a short-term decline in the stock prices of companies with significant ties to Russia, such as energy and commodities companies. In the medium term, the increased tensions and potential economic sanctions may lead to a decrease in investor confidence, affecting the overall market sentiment and potentially leading to a decline in stock prices. The sanctions may also lead to a decrease in demand for Russian goods and services, impacting companies with significant exposure to the Russian market.",
+      "risks": [
+        "increased regulatory risk for companies with ties to Russia",
+        "decrease in investor confidence",
+        "decline in demand for Russian goods and services"
+      ]
+    }
   },
   {
     "id": "8278013",
@@ -868,7 +894,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1785259440
+    "publishedAt": 1785259440,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785355881,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "China is in talks with Yemen's Houthi rebels to allow ships to safely pass through the Red Sea. This development is a positive step towards de-escalating tensions in the region, which have disrupted global shipping and trade. The Red Sea is a critical shipping lane, and any resolution to the conflict would be a relief to the global shipping industry. The news is a neutral event for the broader market, but it may have a positive impact on companies that rely on shipping through the Red Sea.",
+      "impact": "The news may have a positive impact on shipping companies that operate in the Red Sea, such as COSCO Shipping Holdings (COSKF) and Evergreen Marine Corp. However, the impact may be short-term, as the conflict is complex and resolution is not guaranteed. The news may also have a positive impact on the global economy, as a resolution to the conflict would reduce the risk of supply chain disruptions and increase trade volumes.",
+      "risks": [
+        "Conflict escalation risk",
+        "Resolution uncertainty risk",
+        "Global economic downturn risk"
+      ]
+    }
   },
   {
     "id": "8278530",
@@ -878,7 +917,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1785258102
+    "publishedAt": 1785258102,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785355932,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Israel's 'yellow line' policy is pushing Gazan residents from their homes, exacerbating the humanitarian crisis in the region. The policy, which marks a 300-meter buffer zone along the Israeli-Gaza border, has led to the displacement of thousands of Palestinians. The situation is further complicated by the ongoing conflict between Israel and Hamas. The humanitarian crisis has significant implications for the global community, with potential long-term effects on regional stability and global security. The situation is also likely to impact the local economy, with a potential decrease in consumer spending and investment in the region.",
+      "impact": "The potential impact on the related stocks is bearish, particularly for companies with exposure to the Israeli defense industry, such as Elbit Systems (ESLT) and Israel Aerospace Industries (ARCT). The conflict and humanitarian crisis may lead to a decrease in defense spending, affecting these companies' earnings outlook. Additionally, the situation may lead to a decrease in investor sentiment and liquidity in the region, further impacting these stocks. In the medium term, the conflict may also lead to a decrease in consumer spending and investment in the region, affecting companies with exposure to the local economy, such as SodaStream (SODA) and Bezeq (BZQI).",
+      "risks": [
+        "Decrease in defense spending risk",
+        "Decrease in investor sentiment and liquidity risk",
+        "Regional instability risk"
+      ]
+    }
   },
   {
     "id": "8278140",
@@ -899,6 +951,16 @@
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
     "publishedAt": 1785251807
+  },
+  {
+    "id": "8278130",
+    "headline": "Oman proposes Hormuz management system with voluntary fees, source says - Reuters",
+    "summary": "Oman proposes Hormuz management system with voluntary fees, source says  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRFRBNlNicGc0ZnNMeVJWaGRJRjhNNEh6eUpSSHBFcXRGcW5iTkZYbV90Skg4VU5rQ0IwZjRkcmc2YVJxTzVIeFVfU2twSXlnQThKdXhmcURGM3FlakJQVHFwQ2hFdHVlN3Fqd1BMNWVTNVUyYktnTlp5aDg4N0NFWVlIVXp2YUg3bjM4V0RnUjNRYnhOT3Nvdmp1T2FlTUYzYzBzcmNQckZWc0hWOXpNag?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1785248740
   },
   {
     "id": "8278129",
@@ -1028,6 +1090,29 @@
     "publishedAt": 1785223903
   },
   {
+    "id": "8278637",
+    "headline": "Zendaya, Tom Holland and more at Spider Man: Brand New Day premiere - Reuters",
+    "summary": "Zendaya, Tom Holland and more at Spider Man: Brand New Day premiere  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSGdyZGU4NERmYzlkMjdIYmptUk5GYXRvVUVuT1pPN3NlcjFEYzBaeVA0bmxrY0lNajJDTGoxb0FSWVd1bnJtZGFtRUtCMC1Cby1IV21XMUU1NGxJVThrc1lkR0RFdEozODVvNURqUXJySHpqcUNHR0lxeGFpQkpxYTNNWmNGd0ZkeXRPU0hsYkN6OGcyZGdZNFNNOGdJTnFocG54cVMtdGVxZ0kwTWJ6XzN5ZEUzTG1JX0wwZg?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1785222000,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785320312,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The article reports on the premiere of the new Spider-Man movie, Spider-Man: Brand New Day, featuring Zendaya and Tom Holland. The event was attended by various celebrities and fans. The movie is a spin-off of the Marvel Cinematic Universe and is expected to perform well at the box office. The article does not provide any specific information about the movie's box office performance or its potential impact on the stock market. However, it does mention the involvement of popular actors and the expected success of the movie, which could positively impact the stock prices of companies associated with the Marvel Cinematic Universe, such as Disney.",
+      "impact": "The success of the Spider-Man: Brand New Day movie could positively impact Disney's stock price in the short term, as it is a spin-off of the Marvel Cinematic Universe. The movie's expected success could also lead to increased demand for Marvel-themed merchandise, benefiting companies such as Disney and Hasbro. However, the impact on the stock market may be limited, as the movie's box office performance is not directly related to the companies' fundamentals.",
+      "risks": [
+        "Limited impact on stock prices due to the movie's indirect connection to the companies' fundamentals",
+        "Uncertainty about the movie's box office performance",
+        "Potential competition from other movies and entertainment options"
+      ]
+    }
+  },
+  {
     "id": "8278154",
     "headline": "LVMH fails to reassure on luxury recovery, shares fall - Reuters",
     "summary": "LVMH fails to reassure on luxury recovery, shares fall  Reuters",
@@ -1036,16 +1121,6 @@
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
     "publishedAt": 1785221760
-  },
-  {
-    "id": "8278130",
-    "headline": "Oman proposes Hormuz management system with voluntary fees, source says - Reuters",
-    "summary": "Oman proposes Hormuz management system with voluntary fees, source says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRFRBNlNicGc0ZnNMeVJWaGRJRjhNNEh6eUpSSHBFcXRGcW5iTkZYbV90Skg4VU5rQ0IwZjRkcmc2YVJxTzVIeFVfU2twSXlnQThKdXhmcURGM3FlakJQVHFwQ2hFdHVlN3Fqd1BMNWVTNVUyYktnTlp5aDg4N0NFWVlIVXp2YUg3bjM4V0RnUjNRYnhOT3Nvdmp1T2FlTUYzYzBzcmNQckZWc0hWOXpNag?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1785221640
   },
   {
     "id": "8279644",
@@ -1588,8 +1663,8 @@
   },
   {
     "id": "8278163",
-    "headline": "Indian shares snap losing run on oil slide, earnings optimism - Reuters",
-    "summary": "Indian shares snap losing run on oil slide, earnings optimism  Reuters",
+    "headline": "Indian shares snap losing run on oil slide, earnings optimism - reuters.com",
+    "summary": "Indian shares snap losing run on oil slide, earnings optimism  reuters.com",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZFFwakwyR09oZVB5bHVkTkkxQXJzVUJzWDhMQlY5dmZnMHFPM1Vfc3lvSnJVek1jUG1kbWoyN3RGdUpwakZETVd2bk1TaVRCa01qaEVtMjc2VWlZRndLYVBpUDJWbi11VW15SFE5NkNJTm0tb01oSlNyM2NLVGRoajR6cElUZUotSHIzYkVuenQ0aTY4NkN6T1BlUDZBU0U2RFctVEFFSnNza0Rt?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -22115,29 +22190,6 @@
         "Increased competition from other credit card issuers may erode market share",
         "Higher annual fees may deter some consumers, impacting revenue growth",
         "Economic downturn may reduce consumer spending and impact demand for luxury lounges"
-      ]
-    }
-  },
-  {
-    "id": "8160919",
-    "headline": "US oil companies see big profit jump, gird for clash over pump prices with Trump - Reuters",
-    "summary": "US oil companies see big profit jump, gird for clash over pump prices with Trump  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYkJORzdZX3BXLVNLSE5DWEFMNkUybVc5U3B1TU1XclIxbEd1YXA4bnNLTkZHQ0c4OUZmOFVSUGtXcHdtMTNSYmkwT3VLZ2VlNWdKM0Q2R0Z2Q1RxZGcxRV82NnpRTzhoR1plNFFNZXhlOGdEVHRKX09vM2FJZ3ZYbFYtYU5iNTE3S3pQV3ZqNThuTFZSdHhjMlFhbkhra2Z5aVI1WU1jYXIxdmZGbUIxUk5oV21uX2NjQWVjSG5GRmNlUUxLUWc?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1783077159,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1783085067,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "US oil companies are expected to report significant profit increases due to higher oil prices, which has set the stage for a potential clash with President Trump over pump prices. The oil price surge has been driven by OPEC's production cuts and geopolitical tensions in the Middle East. This profit jump is expected to boost the earnings outlook for US oil companies, which could lead to increased investor confidence and potentially higher stock prices. The article does not mention specific companies, but the news is generally positive for the oil industry as a whole.",
-      "impact": "The potential profit jump could lead to increased investor confidence in the oil industry, driving up stock prices in the short term. In the medium term, higher earnings expectations could lead to revaluation of oil stocks, making them more attractive to investors. However, the article also mentions the potential for a clash with President Trump, which could lead to increased regulatory scrutiny and potentially negative sentiment towards the industry.",
-      "risks": [
-        "Regulatory scrutiny risk",
-        "Increased competition from renewable energy sources risk",
-        "Geopolitical tensions risk"
       ]
     }
   }
