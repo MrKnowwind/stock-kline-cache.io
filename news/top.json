@@ -7,7 +7,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1785360381,
+    "publishedAt": 1785364159,
     "analysis": {
       "version": 2,
       "generatedAt": 1785347810,
@@ -390,29 +390,6 @@
     }
   },
   {
-    "id": "8278117",
-    "headline": "EXCLUSIVE: Iran to get Chinese shoulder-launched missile systems in weeks, sources say - Reuters",
-    "summary": "EXCLUSIVE: Iran to get Chinese shoulder-launched missile systems in weeks, sources say  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR19sNWVrRDdhcXlNdTlxcUdNR0dNWDRBcjZPd21xOEM2bEYtdDJiWTEtYzlweWs5ZmtILVlhQkVUNzdaaENHbnhqTl9SSFNCZjk3eXNMS1o4SXFzT2VBS3VZZ0p6MVlrQldWNjRMUGlTN2tDR2xUOVBUdkdkTndueExrQm9vRGtTLTdBWjNGMDhZRC1qNDZXYVk3TXB0bWZ4ZFhpYUtfZ2JaalVZdjU3emN6LUptbjA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1785318221,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1785310671,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "Iran is set to receive Chinese shoulder-launched missile systems in weeks, according to sources. This development is a significant escalation of military cooperation between Iran and China. The deal is expected to enhance Iran's military capabilities, potentially destabilizing the region. The news has implications for the defense industry, particularly companies involved in the production of missile systems. This could lead to increased demand for such systems, benefiting companies like Lockheed Martin and Northrop Grumman.",
-      "impact": "The news is likely to have a bearish impact on US defense companies that rely on sales to countries in the Middle East, as Iran's enhanced military capabilities may reduce their demand for US-made defense systems. In the short term, this could lead to a decline in earnings for these companies. In the medium term, the increased tensions in the region may lead to a decrease in investor sentiment, causing a decline in stock prices. The news may also lead to a reevaluation of the US's military strategy in the region.",
-      "risks": [
-        "Increased military tensions in the region",
-        "Decreased demand for US-made defense systems",
-        "Potential escalation of conflict in the Middle East"
-      ]
-    }
-  },
-  {
     "id": "8278963",
     "headline": "Israeli elections: how they work and who is in the race - Reuters",
     "summary": "Israeli elections: how they work and who is in the race  Reuters",
@@ -524,6 +501,29 @@
         "geopolitical tensions",
         "disruption to trade",
         "supply chain risks"
+      ]
+    }
+  },
+  {
+    "id": "8278117",
+    "headline": "EXCLUSIVE: Iran to get Chinese shoulder-launched missile systems in weeks, sources say - Reuters",
+    "summary": "EXCLUSIVE: Iran to get Chinese shoulder-launched missile systems in weeks, sources say  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR19sNWVrRDdhcXlNdTlxcUdNR0dNWDRBcjZPd21xOEM2bEYtdDJiWTEtYzlweWs5ZmtILVlhQkVUNzdaaENHbnhqTl9SSFNCZjk3eXNMS1o4SXFzT2VBS3VZZ0p6MVlrQldWNjRMUGlTN2tDR2xUOVBUdkdkTndueExrQm9vRGtTLTdBWjNGMDhZRC1qNDZXYVk3TXB0bWZ4ZFhpYUtfZ2JaalVZdjU3emN6LUptbjA?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1785294240,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785310671,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Iran is set to receive Chinese shoulder-launched missile systems in weeks, according to sources. This development is a significant escalation of military cooperation between Iran and China. The deal is expected to enhance Iran's military capabilities, potentially destabilizing the region. The news has implications for the defense industry, particularly companies involved in the production of missile systems. This could lead to increased demand for such systems, benefiting companies like Lockheed Martin and Northrop Grumman.",
+      "impact": "The news is likely to have a bearish impact on US defense companies that rely on sales to countries in the Middle East, as Iran's enhanced military capabilities may reduce their demand for US-made defense systems. In the short term, this could lead to a decline in earnings for these companies. In the medium term, the increased tensions in the region may lead to a decrease in investor sentiment, causing a decline in stock prices. The news may also lead to a reevaluation of the US's military strategy in the region.",
+      "risks": [
+        "Increased military tensions in the region",
+        "Decreased demand for US-made defense systems",
+        "Potential escalation of conflict in the Middle East"
       ]
     }
   },
@@ -1219,7 +1219,20 @@
     "source": "Bloomberg",
     "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
     "relatedSymbols": [],
-    "publishedAt": 1785233506
+    "publishedAt": 1785233506,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785368634,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "The US National Vulnerabilities Database reported a record 45,207 digital security flaws in the first half of 2026, more than double the number found in all of 2025. This surge in cyber flaws is attributed to the increasing use of artificial intelligence (AI) in hunting for vulnerabilities. The AI-powered tools are more effective in identifying security holes, leading to a higher number of reported flaws. This development has significant implications for the tech sector, as companies may face increased scrutiny and potential financial losses due to these security breaches.",
+      "impact": "The news is likely to have a negative impact on the tech sector, particularly companies that rely heavily on digital security. Investors may reassess their valuation of these companies, potentially leading to a decrease in stock prices. The increased focus on cybersecurity may also lead to higher costs for companies, negatively affecting their earnings outlook. Furthermore, the heightened awareness of cybersecurity risks may lead to a decrease in investor sentiment, making it more challenging for companies to raise capital.",
+      "risks": [
+        "Increased regulatory scrutiny and potential fines",
+        "Higher cybersecurity costs and decreased earnings outlook",
+        "Decreased investor sentiment and liquidity"
+      ]
+    }
   },
   {
     "id": "8278152",
@@ -1229,7 +1242,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1785232329
+    "publishedAt": 1785232329,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785368685,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "QatarEnergy has extended a force majeure on three LNG cargoes, as reported by Edison. This decision is likely due to ongoing supply chain disruptions and logistical challenges in the global LNG market. The force majeure declaration allows QatarEnergy to temporarily suspend its contractual obligations, citing circumstances beyond its control. This news may impact the global LNG market and potentially affect companies involved in the supply chain. The decision is not directly related to QatarEnergy's financials or operations, but rather a response to external market conditions.",
+      "impact": "The extension of the force majeure may lead to short-term supply chain disruptions and potential price volatility in the LNG market. This could negatively impact companies that rely on QatarEnergy as a supplier, potentially affecting their earnings outlook and valuation. However, the medium-term impact is uncertain, as the global LNG market is subject to various factors, including demand, production levels, and geopolitical events. The news may also influence investor sentiment and liquidity in the related stocks.",
+      "risks": [
+        "supply chain disruptions risk",
+        "price volatility risk",
+        "earnings outlook risk for companies relying on QatarEnergy"
+      ]
+    }
   },
   {
     "id": "8279074",
@@ -1239,7 +1265,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1785227770
+    "publishedAt": 1785227770,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785368739,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "India plans to import up to a quarter of its 2027 LPG (Liquefied Petroleum Gas) requirements from the US, according to sources. This move is part of India's efforts to diversify its energy imports and reduce dependence on traditional suppliers like Saudi Arabia and Iran. The US has been increasing its LPG exports in recent years, driven by the shale gas revolution. This development could lead to increased trade between the two countries, benefiting US energy companies and potentially impacting the global LPG market.",
+      "impact": "The news is likely to have a positive impact on US energy companies that export LPG, such as Cheniere Energy (LNG) and Enterprise Products Partners (EPD), as they may see increased demand and revenue from the US-India trade. In the medium term, this could lead to improved earnings outlook and valuation for these companies. However, the impact on Indian companies that import LPG, such as Hindustan Petroleum Corporation (HINDP.NS), may be neutral or even negative, as they may face increased competition from US suppliers.",
+      "risks": [
+        "Dependence on US LPG exports may lead to supply chain disruptions if US production is affected by geopolitical events or domestic policies.",
+        "Increased competition from US suppliers may lead to price pressure on Indian companies that import LPG.",
+        "The impact of this development on the global LPG market and prices is uncertain and may be influenced by various macro factors."
+      ]
+    }
   },
   {
     "id": "8278128",
@@ -1249,7 +1288,16 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1785223903
+    "publishedAt": 1785223903,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785368790,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Bab el-Mandeb shipping has seen an increase in activity due to hopes of a resolution in the US-Iran conflict. The conflict has led to increased tensions in the region, causing shipping companies to reroute their vessels around the Bab el-Mandeb Strait. A resolution could lead to a decrease in tensions and a return to normal shipping routes, benefiting companies operating in the region. This news has a positive impact on the shipping industry, particularly those companies that operate in the Bab el-Mandeb Strait.",
+      "impact": "This news has a positive impact on shipping companies that operate in the region, particularly those that have been affected by the conflict. A resolution could lead to an increase in demand for shipping services, driving up earnings for these companies. This could also lead to a re-rating of these companies' valuations as investors become more optimistic about their prospects. In the short term, this could lead to a surge in trading activity and a potential increase in stock prices for these companies.",
+      "risks": []
+    }
   },
   {
     "id": "8278637",
@@ -1282,7 +1330,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1785221760
+    "publishedAt": 1785221760,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785368846,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "LVMH, the parent company of Louis Vuitton and Moët Hennessy, failed to reassure investors about the recovery of the luxury goods industry. Despite reporting strong sales growth, the company's guidance for the current year was cautious, citing ongoing uncertainty in the global economy. This lack of confidence in the luxury market has led to a decline in LVMH's share price. The company's reliance on high-end consumers who may be impacted by economic downturns adds to the uncertainty.",
+      "impact": "The news is likely to have a negative impact on LVMH's share price in the short term, as investors become increasingly cautious about the luxury goods sector. The decline in LVMH's share price may also have a ripple effect on other luxury goods companies, potentially leading to a sector-wide sell-off. In the medium term, the company's cautious guidance may lead to a re-rating of its valuation, as investors reassess the company's earnings outlook. The impact on the overall luxury goods sector will depend on the resilience of high-end consumers and the ability of companies to adapt to changing market conditions.",
+      "risks": [
+        "Economic downturn risk",
+        "Consumer spending slowdown risk",
+        "Global economic uncertainty risk"
+      ]
+    }
   },
   {
     "id": "8279644",
