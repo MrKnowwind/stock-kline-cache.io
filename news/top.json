@@ -1,8 +1,50 @@
 [
   {
+    "id": "8283329",
+    "headline": "Treasury sell-off continues after divided Fed holds interest rates steady",
+    "summary": "U.S. Treasury yields continued their upward climb on Thursday as investors weighed the Federal Reserve's decision to hold interest rates steady.",
+    "url": "https://www.cnbc.com/2026/07/30/us-treasury-yields-divided-fed-interest-rates-hold-steady-.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108341983-1785352838443-gettyimages-2287527416-WARSH_FOMC_NYSE.jpeg?v=1785352925&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1785394566,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785396037,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The Federal Reserve's decision to hold interest rates steady has led to a continued Treasury sell-off, with yields rising across the board. The 30-year Treasury bond has risen to its highest level since 2007, with the 10-year and 2-year Treasury yields also increasing. This move suggests that investors are pricing in a potential future rate hike, despite the Fed's current stance. The market is also awaiting key economic data releases, including jobless claims and personal consumption expenditures price index, which could provide further insight into the economy's trajectory.",
+      "impact": "The Treasury sell-off is likely to have a negative impact on the bond market, potentially leading to a decrease in bond prices and an increase in yields. This could have a negative impact on the earnings outlook for companies with high debt levels or those that rely heavily on borrowing. The rising yields may also make the housing market conditions even more challenging, which could negatively impact companies in the real estate sector. Additionally, the uncertainty surrounding future monetary policy decisions may lead to increased volatility in the markets, making it more challenging for investors to make informed decisions.",
+      "risks": [
+        "Increased borrowing costs for companies with high debt levels",
+        "Weakening housing market conditions",
+        "Uncertainty surrounding future monetary policy decisions"
+      ]
+    }
+  },
+  {
+    "id": "8283122",
+    "headline": "EXCLUSIVE: QatarEnergy buys 33 US LNG cargoes to offset Hormuz disruption, sources say - Reuters",
+    "summary": "EXCLUSIVE: QatarEnergy buys 33 US LNG cargoes to offset Hormuz disruption, sources say  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT2RNZllsNDBHUFBXYUM5NGZzNnpoRHQ2bW11cDdJczVhX2NObmdGNTlSZGwxdVJBU1JyNGRqMmxGYkVYckFHUGE1bHBhSnQ3Q0p5RVJlOTE2S0EyWFc5NzgycmF1NjdpZG5YdzY0YUdGZG1WNjdwUmtPUW1PZTd0bVZEN2hoRWhnMjJrSjVDa2JJeUIyZDlKVlFGelhpWlpDOVBSclY3TVJqNmdTaEtSamlqUVNyR2lJaENqLTNOUlA?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1785387780,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785396081,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "QatarEnergy has acquired 33 US LNG cargoes to offset potential disruptions in the Strait of Hormuz, a key shipping route. This move is likely a response to ongoing tensions in the region, which have raised concerns about the security of global oil and gas supplies. The acquisition is a strategic decision by QatarEnergy to secure its energy supplies and maintain its position as a major player in the global LNG market. The news is a positive development for US LNG exporters, as it suggests increased demand for their products.",
+      "impact": "The news is likely to have a positive impact on US LNG exporters, such as Cheniere Energy (LNG) and NextDecade (NEXT), as they are expected to benefit from the increased demand for their products. The acquisition may also boost the earnings outlook for these companies in the short to medium term. However, the impact on the broader energy market and global LNG prices remains to be seen, and investors should monitor developments in the region for further updates.",
+      "risks": []
+    }
+  },
+  {
     "id": "8282605",
-    "headline": "Dollar steadies as Fed holds rates, US strikes Iran - Reuters",
-    "summary": "Dollar steadies as Fed holds rates, US strikes Iran  Reuters",
+    "headline": "Dollar recovers as Fed holds rates, US strikes Iran - Reuters",
+    "summary": "Dollar recovers as Fed holds rates, US strikes Iran  Reuters",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOUFkZlJYUUNoTkxoekFZRWtKQXR4WGFheDhRNjRwdTFTQzQza185ZHRUaFZmTi1Ka0dQSkpjbDVMZS1SZDJaUVhzMW5nQ3gwdkpLcFdtUjJ0NTM3dnpONFdlbmh2bUJkQWhocXp2N3VhRWdxVUhOSWpjbVg0elZyR2JDQ1lCU3FIeVJ5cXUzOTFsNktCZWNKQTFPdFNibmt5aDlBUg?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -24,8 +66,8 @@
   },
   {
     "id": "8282504",
-    "headline": "Oil prices slip as tankers continue to ply Middle East conflict zones - Reuters",
-    "summary": "Oil prices slip as tankers continue to ply Middle East conflict zones  Reuters",
+    "headline": "Oil slips as markets look for cues on Gulf supplies - Reuters",
+    "summary": "Oil slips as markets look for cues on Gulf supplies  Reuters",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTWJteE84X0d0aDA5bVgwcWZrTlJTTXNZVFNlRmduNGc3aWgyMDRjN3BiN1ZaY0NaSGtXa1VlQjdFSE1pRkxOTS1sQXc2WjkwbkY3Qng1N3g3azFoVUltcjVPVGo5aGM0YkZYVG5DLXM0RS1PSFhkeERKaXZVSFk1cGZXX3ZGS3otSU1FRUtPaTFyMUd0TENNeUtaTXNZeEkxTGJrcWdTcDY4UnRUMzg3ZzZ3OGpYdw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -43,6 +85,25 @@
         "Earnings outlook risk",
         "Valuation risk due to market volatility"
       ]
+    }
+  },
+  {
+    "id": "8283121",
+    "headline": "US military says latest strikes on Iran last two hours, hitting dozens of targets - Reuters",
+    "summary": "US military says latest strikes on Iran last two hours, hitting dozens of targets  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYl9qUHF2eEJlVmxqM2ROX0NFVDE3SHVIeExWXzltdnl5dG1HSmprdzFha3lhWUt4dGRLeWFBSlE0ZlYySkhHdmpLcE51S3c3TV90azg5LTVhWWNNd3IydlAwT1djUmV4Ui1BR3pOUl9PcHBPWllxM1NDSmlnZUQ3RnZSeVd2X3BqSFVBR0U3cE1xaGwxVXpYWmtXanlZVHBNUGc?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1785371640,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785396126,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The US military has launched strikes on Iran, targeting dozens of sites in the past two hours. The exact nature and objectives of the strikes are not specified in the article. The strikes are a significant escalation of tensions between the US and Iran, which have been heightened in recent months. The US-Iran conflict has implications for global oil markets, as Iran is a major oil producer. The conflict also raises concerns about regional stability and the potential for further military action.",
+      "impact": "The news is likely to have a short-term positive impact on defense contractors such as Boeing (BA) and Lockheed Martin (LMT), as they may benefit from increased military spending. However, the medium-term impact is uncertain, as the conflict could lead to a decline in global economic growth and a decrease in oil prices, which could negatively impact companies with significant exposure to the energy sector, such as ExxonMobil (XOM) and Chevron (CVX).",
+      "risks": []
     }
   },
   {
@@ -734,7 +795,20 @@
     "source": "Bloomberg",
     "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
     "relatedSymbols": [],
-    "publishedAt": 1785291489
+    "publishedAt": 1785291489,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785396174,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The US intercepted Iranian missiles targeting military bases, causing a surge in crude oil prices. This development is part of a broader escalation of tensions in West Asia. The incident may signal a heightened risk of conflict in the region, which could impact oil supply and prices. The US and Iran have been engaged in a diplomatic effort to de-escalate tensions, with President Trump meeting with Israeli Prime Minister Netanyahu at the White House. The Strait of Hormuz shipping talks are also ongoing.",
+      "impact": "The news is likely to have a positive impact on oil-related stocks in the short-term, as higher oil prices benefit companies with significant oil reserves or production capacity. Companies such as ExxonMobil (XOM) and Chevron (CVX) may see an increase in earnings due to higher oil prices. However, the medium-term impact is uncertain, as a prolonged conflict in the region could lead to supply disruptions and decreased investor confidence.",
+      "risks": [
+        "Supply chain disruptions risk",
+        "Investor sentiment risk",
+        "Economic slowdown risk due to higher oil prices"
+      ]
+    }
   },
   {
     "id": "8278119",
@@ -786,7 +860,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1785282360
+    "publishedAt": 1785282360,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785396221,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "American Airlines was forced to halt flights nationwide due to an IT issue, but the airline has since resumed operations. The incident highlights the importance of reliable IT systems in the airline industry. The brief halt in operations may have caused inconvenience to passengers but did not appear to have a significant impact on the airline's operations. The incident is isolated and does not seem to indicate any broader issues with the airline's business fundamentals.",
+      "impact": "The news is unlikely to have a significant impact on American Airlines' stock price in the short term, but it may lead to a slight increase in volatility. The incident may also lead to a reassessment of the airline's IT infrastructure and potentially increased investment in this area, which could have a positive impact on the company's long-term prospects. However, the incident also highlights the potential risks associated with IT failures in the airline industry, which could impact the company's earnings outlook and valuation.",
+      "risks": [
+        "IT infrastructure failure risk",
+        "reputation risk",
+        "earnings volatility risk"
+      ]
+    }
   },
   {
     "id": "8278164",
@@ -990,6 +1077,16 @@
         "Production cost increase risk"
       ]
     }
+  },
+  {
+    "id": "8278132",
+    "headline": "Oil prices fall 5% to two-week low after several days without US-Iran strikes - Reuters",
+    "summary": "Oil prices fall 5% to two-week low after several days without US-Iran strikes  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSklqTGZRSVh1M0h3RXpnQWVxSFhReTZHdGZtakI4Skh5NGVuZnplUUVYRzRldjVmX2Mzald4bnJFNklGNnZ0QkRTeWhqb29OR2xzb0JVWkFTUEc4QTZBMDV4bU5TOWlMb2RQNE5EeVRuaXJvZE94azM3cnZEd25tTjNTNU9uZ2dVcnZOQnh3eVE4bmIxR0RTZk1Zb3pSNnlrYXdlQWJXOWxJLWs?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1785267560
   },
   {
     "id": "8278123",
@@ -1222,29 +1319,6 @@
     }
   },
   {
-    "id": "8278130",
-    "headline": "Oman proposes Hormuz management system with voluntary fees, source says - Reuters",
-    "summary": "Oman proposes Hormuz management system with voluntary fees, source says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRFRBNlNicGc0ZnNMeVJWaGRJRjhNNEh6eUpSSHBFcXRGcW5iTkZYbV90Skg4VU5rQ0IwZjRkcmc2YVJxTzVIeFVfU2twSXlnQThKdXhmcURGM3FlakJQVHFwQ2hFdHVlN3Fqd1BMNWVTNVUyYktnTlp5aDg4N0NFWVlIVXp2YUg3bjM4V0RnUjNRYnhOT3Nvdmp1T2FlTUYzYzBzcmNQckZWc0hWOXpNag?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1785254265,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1785361421,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Oman has proposed a new management system for the Strait of Hormuz, a critical waterway for global oil trade, with voluntary fees. The proposal aims to improve security and safety in the region. The Strait of Hormuz is a key chokepoint for oil exports, with around 20% of the world's oil passing through it. The proposed system would involve cooperation between Oman and other regional countries to manage the waterway. This development could lead to increased stability and reduced risks for oil traders and shippers.",
-      "impact": "The proposal may have a positive impact on oil majors and shipping companies that operate in the region, as it could lead to reduced risks and increased stability. This, in turn, could lead to improved earnings outlook and valuation for these companies. However, the implementation of the system and the level of cooperation among regional countries remain uncertain, which may impact the short-term effectiveness of the proposal. The medium-term impact will depend on the success of the system in improving security and safety in the region.",
-      "risks": [
-        "Implementation risk: the effectiveness of the proposed system depends on the cooperation and commitment of regional countries.",
-        "Regulatory risk: the system may face regulatory hurdles or changes in the region that could impact its implementation.",
-        "Geopolitical risk: tensions in the region could impact the stability and effectiveness of the system."
-      ]
-    }
-  },
-  {
     "id": "8278127",
     "headline": "VIDEO: Reza Pahlavi speaks to Reuters about Iran’s future - Reuters",
     "summary": "VIDEO: Reza Pahlavi speaks to Reuters about Iran’s future  Reuters",
@@ -1264,6 +1338,29 @@
         "continuation of high inflation",
         "large budget deficit",
         "uncertainty around Iran's economic future"
+      ]
+    }
+  },
+  {
+    "id": "8278130",
+    "headline": "Oman proposes Hormuz management system with voluntary fees, source says - Reuters",
+    "summary": "Oman proposes Hormuz management system with voluntary fees, source says  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRFRBNlNicGc0ZnNMeVJWaGRJRjhNNEh6eUpSSHBFcXRGcW5iTkZYbV90Skg4VU5rQ0IwZjRkcmc2YVJxTzVIeFVfU2twSXlnQThKdXhmcURGM3FlakJQVHFwQ2hFdHVlN3Fqd1BMNWVTNVUyYktnTlp5aDg4N0NFWVlIVXp2YUg3bjM4V0RnUjNRYnhOT3Nvdmp1T2FlTUYzYzBzcmNQckZWc0hWOXpNag?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1785248740,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785361421,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Oman has proposed a new management system for the Strait of Hormuz, a critical waterway for global oil trade, with voluntary fees. The proposal aims to improve security and safety in the region. The Strait of Hormuz is a key chokepoint for oil exports, with around 20% of the world's oil passing through it. The proposed system would involve cooperation between Oman and other regional countries to manage the waterway. This development could lead to increased stability and reduced risks for oil traders and shippers.",
+      "impact": "The proposal may have a positive impact on oil majors and shipping companies that operate in the region, as it could lead to reduced risks and increased stability. This, in turn, could lead to improved earnings outlook and valuation for these companies. However, the implementation of the system and the level of cooperation among regional countries remain uncertain, which may impact the short-term effectiveness of the proposal. The medium-term impact will depend on the success of the system in improving security and safety in the region.",
+      "risks": [
+        "Implementation risk: the effectiveness of the proposed system depends on the cooperation and commitment of regional countries.",
+        "Regulatory risk: the system may face regulatory hurdles or changes in the region that could impact its implementation.",
+        "Geopolitical risk: tensions in the region could impact the stability and effectiveness of the system."
       ]
     }
   },
@@ -1625,16 +1722,6 @@
         "Increased competition risk"
       ]
     }
-  },
-  {
-    "id": "8278132",
-    "headline": "Oil prices fall 5% to two-week low after several days without US-Iran strikes - Reuters",
-    "summary": "Oil prices fall 5% to two-week low after several days without US-Iran strikes  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSklqTGZRSVh1M0h3RXpnQWVxSFhReTZHdGZtakI4Skh5NGVuZnplUUVYRzRldjVmX2Mzald4bnJFNklGNnZ0QkRTeWhqb29OR2xzb0JVWkFTUEc4QTZBMDV4bU5TOWlMb2RQNE5EeVRuaXJvZE94azM3cnZEd25tTjNTNU9uZ2dVcnZOQnh3eVE4bmIxR0RTZk1Zb3pSNnlrYXdlQWJXOWxJLWs?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1785200520
   },
   {
     "id": "8278144",
@@ -22266,76 +22353,6 @@
         "Escalation of conflict risk",
         "Oil price volatility risk",
         "Regional instability risk"
-      ]
-    }
-  },
-  {
-    "id": "8159216",
-    "headline": "Oil prices little changed as US-Iran peace efforts hold - Reuters",
-    "summary": "Oil prices little changed as US-Iran peace efforts hold  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ0NjRDBBT1J0ZC1KY0c5R1huTjYyNzk4NTg4VU1aa2dmMDVGeHNQcl92Tm1vY3FnQks5ZmE4bWU0YUpwdlFBZjYybVgwQ2FlU1U4TkFBWG9SbHZ6ejZiT0lYdTdVM21VR1JOVk05Qm0yb19pcjk2WEhyZUxjbmV2RklXcGNDVmF2ZURTWkQxNERESHBFcE1LN082a1lYc0MwNDJFUEQzM0J3WkNH?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1783105763,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1783057017,
-      "sentiment": "bullish",
-      "confidence": 0.7,
-      "summary": "Oil prices have risen slightly ahead of the long US weekend, driven by ongoing peace efforts. The news suggests that the conflict situation in the region is stabilizing, which is a positive development for the oil market. This stability is expected to lead to increased demand for oil, which in turn will drive up prices. The peace efforts are a key factor in this development, as they reduce the risk of supply disruptions and maintain investor confidence in the market.",
-      "impact": "The slight increase in oil prices is expected to have a positive impact on the earnings outlook for oil-related companies, particularly those with significant exposure to the US market. This could lead to a short-term boost in stock prices for these companies, as investors react to the improved demand outlook. However, the medium-term impact will depend on the sustainability of the peace efforts and the resulting stability in the region.",
-      "risks": [
-        "geopolitical risk",
-        "supply chain disruption risk",
-        "macroeconomic uncertainty"
-      ]
-    }
-  },
-  {
-    "id": "8168196",
-    "headline": "Airbus CEO 'not necessarily optimistic' on European defence cooperation - Reuters",
-    "summary": "Airbus CEO 'not necessarily optimistic' on European defence cooperation  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSW4wZWRGdGpLaGd0bVZxOVl0aXh2SERKcFJPRFFVRF9BclRPUFI2X05kNy1KTFNPZ0oySnplNTRkY3YtQUpvZ1J1WDZDU0tCdUJnTThoX1B5ZTd3eXZpcXducW5hT01hc3U3a3hwNGRxUEV4Y0ZoYWROMXV1YXVDQnVlSEVXc3U1ekhZNVpDMGZRMmpGNHlmNXZjZTdLX2Y4QW5sTXBYeVRrWTMwYlFibHBRdl9FS0dicG1sYnIwV3JHXzhlSTdpcw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1783102904,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1783230544,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "Airbus CEO's comments on European defence cooperation are a negative signal for the company's prospects in the sector. The statement suggests that Airbus may face challenges in its European defence business, which could impact its revenue and earnings growth. This is a concern for investors, as defence contracts are a significant contributor to Airbus' revenue. The company's ability to secure defence contracts is also a key driver of its valuation.",
-      "impact": "The news is likely to have a negative impact on Airbus' stock price in the short term, as investors may reassess their valuation of the company. In the medium term, the lack of optimism on European defence cooperation could lead to a decline in defence-related revenue and earnings, which could be a headwind for the company's growth. This could also lead to a decrease in investor sentiment and liquidity, making it more challenging for Airbus to secure funding for its projects.",
-      "risks": [
-        "Decreased defence revenue risk",
-        "Earnings growth slowdown risk",
-        "Decreased investor sentiment risk"
-      ]
-    }
-  },
-  {
-    "id": "8172023",
-    "headline": "EXCLUSIVE: Inside Taiwan's nightmare scenario: Chinese blockade, earthquake, sabotage and invasion - Reuters",
-    "summary": "EXCLUSIVE: Inside Taiwan's nightmare scenario: Chinese blockade, earthquake, sabotage and invasion  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX2tIVDBRWmhSV3BlZlQ1S1Nub0tyOVNaeDMzLS1ZZEF5UkxxMEVadWhQOUotYndyODdxbXJNcGJrekZaZ0hkcVVBdXZEY0VLRE5hdXdQQ2F3UGNmcWpQdXA5UmVBcjhxM3FkX2dLVGhLXzl2emVPOXBaaGJETTdra2dlbnJ2cm5XUDR2cFZXM2lfZmtodGswU2trRnZ3Qnd1WlRvRVJVWTgzNWFVRzYzb1NPdGttWktwY2RWZkFZZzkwQjRxbnc?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1783100508,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1783287888,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "A recent Reuters exclusive report outlines a potential nightmare scenario for Taiwan, involving a Chinese blockade, earthquake, sabotage, and invasion. The scenario is hypothetical but based on real events and concerns. The report highlights the vulnerability of Taiwan's economy and infrastructure to such an event. Taiwan's reliance on imports and exports, particularly in the tech industry, makes it susceptible to disruptions. The scenario also raises concerns about the potential for a global economic impact, particularly in the tech sector.",
-      "impact": "The potential blockade and invasion could lead to a significant disruption in Taiwan's supply chain, affecting companies such as Taiwan Semiconductor Manufacturing Company (TSMC) and other tech firms. This could result in a short-term decline in earnings for these companies due to reduced production and supply chain disruptions. The scenario also raises concerns about the medium-term impact on the tech industry, including potential delays in 5G and other technology rollouts. The global economic impact could lead to a decline in investor sentiment and a decrease in stock prices for companies with exposure to Taiwan.",
-      "risks": [
-        "Supply chain disruption risk",
-        "Economic disruption risk",
-        "Global economic impact risk",
-        "Investor sentiment risk"
       ]
     }
   }
