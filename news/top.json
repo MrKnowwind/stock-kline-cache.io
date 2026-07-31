@@ -1,8 +1,100 @@
 [
   {
+    "id": "8289592",
+    "headline": "Jim Cramer's top 10 things to watch in the stock market Friday",
+    "summary": "Nasdaq futures are up, driven by an excellent quarter for Amazon.",
+    "url": "https://www.cnbc.com/2026/07/31/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday-.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108254538-1770326418274-108254538-1768938695162-CNBC_Stage_01_062.jpg?v=1771351348&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1785503694,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785504007,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Amazon's strong earnings report has led to a rally in Nasdaq futures, driven by its clear vision for AI-driven growth and improving cash flow. Fellow Club holdings Microsoft and Apple also reported earnings, with Microsoft beating expectations and Apple delivering a beat despite supply constraints. Intel's recent sell-off has created a buying opportunity, while Linde and Eaton reported strong earnings and beat expectations. Boeing's turnaround story is gaining momentum, with improved relations with regulators and free cash flow improvements.",
+      "impact": "Amazon's strong earnings report and improving cash flow should drive its stock price higher, with a potential target of $300. Microsoft's earnings beat and guidance should also boost its stock. Intel's recent sell-off presents a buying opportunity, with a potential upside to $110. Linde and Eaton's strong earnings reports should lead to increased investor interest and potentially higher stock prices. Boeing's turnaround story and improving free cash flow should also drive its stock price higher.",
+      "risks": [
+        "DRAM shortage risk for Apple",
+        "supply chain constraints risk for Intel and Apple",
+        "earnings guidance risk for Linde and Eaton"
+      ]
+    }
+  },
+  {
+    "id": "8289576",
+    "headline": "New York sues Kalshi, says prediction market is running 'illegal gambling operation'",
+    "summary": "It comes after a federal judge earlier this month denied Kalshi's attempts to intervene against the state's Gaming Commission.",
+    "url": "https://www.cnbc.com/2026/07/31/new-york-sues-kalshi-claims-it-is-illegal-gambling-operation.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108241908-1765819608472-gettyimages-2252060021-mms22834_njfknwmp.jpeg?v=1765819630&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1785501694,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785504059,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Kalshi, a prediction market platform, is being sued by the New York state government for allegedly operating an illegal gambling operation. The lawsuit claims that Kalshi is not registered with the New York State Gaming Commission, despite being a federally licensed exchange. A federal judge has already denied Kalshi's attempts to intervene against the state's Gaming Commission, and the Commodity Futures Trading Commission has filed for a temporary restraining order against enforcement actions by New York. The lawsuit is seeking a permanent injunction against Kalshi, restitution to users, and significant penalties.",
+      "impact": "The lawsuit could lead to a significant disruption in Kalshi's operations, potentially impacting its revenue and user base. In the short term, this could lead to a decline in the company's stock price as investors reassess its valuation. The medium-term impact could be more severe, with the company potentially being forced to restructure or even cease operations if the lawsuit is successful. The outcome of the lawsuit will also set a precedent for other prediction market platforms operating in the US, which could have broader implications for the industry.",
+      "risks": [
+        "Regulatory risk: Kalshi's ability to operate in the US could be severely impacted by the lawsuit and subsequent regulatory actions.",
+        "Operational risk: The disruption to Kalshi's operations could lead to a decline in user trust and a loss of revenue.",
+        "Industry risk: The outcome of the lawsuit could set a precedent for other prediction market platforms, potentially leading to increased regulatory scrutiny and challenges for the industry as a whole."
+      ]
+    }
+  },
+  {
+    "id": "8289257",
+    "headline": "The Tech Download: Anduril CEO Brian Schimpf talks AI in warfare and manufacturing push",
+    "summary": "CNBC's Arjun Kharpal sits down on The Tech Download podcast with the defense company chief.",
+    "url": "https://www.cnbc.com/2026/07/31/the-tech-download-anduril-ceo-brian-schimpf.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108343046-1785494703819-anduril-shot-1-professional.png?v=1785496170&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1785496289,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785504109,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Anduril, a defense company, is challenging traditional defense contractors with a tech-industry mindset, leveraging AI and commercial supply chains to produce autonomous systems and missiles. CEO Brian Schimpf emphasizes the importance of human oversight in AI decision-making, ensuring that the technology is used to augment human capabilities, not replace them. Anduril is ramping up production to meet a Pentagon contract for 1,000 missiles, demonstrating its ability to scale quickly. This approach could disrupt the traditional defense industry's slow and expensive procurement processes.",
+      "impact": "The news is likely to have a positive impact on Anduril's stock, as it showcases the company's innovative approach and ability to meet large-scale contracts. The company's focus on AI and commercial supply chains could also lead to increased efficiency and cost savings, potentially benefiting its bottom line. In the short term, the news may drive a surge in investor interest and sentiment, leading to a potential stock price increase. Medium-term, Anduril's success could lead to increased competition in the defense industry, potentially disrupting traditional players and altering the market dynamics.",
+      "risks": [
+        "Regulatory risks associated with the development and deployment of autonomous systems",
+        "Integration risks as Anduril scales up production to meet the Pentagon contract",
+        "Competition from established defense contractors who may adapt to Anduril's approach"
+      ]
+    }
+  },
+  {
+    "id": "8289260",
+    "headline": "Trump convenes Cabinet at Camp David amid simmering Iran war - Reuters",
+    "summary": "Trump convenes Cabinet at Camp David amid simmering Iran war  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZks0akNQUmpqVGdGaE5rakdfRldLS25IaTFzeVF2VzVmVGc5TkF4VTI2NjI1UlVVdXlveTFxRXFMRWlGTEN4STFsYUdySDQzNE9pSGF6SzJ5bk83M3RsWGc3a3N1Q21oQlQtMGZ4QnFjSHd1dlhlbkNsZ3dvVmFhOFpwVVpNaUx0TmxTTEp2bGZzRExacFhmaEdBS3VjQ0l3cGpPWQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1785493463,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785504162,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "US President Trump has convened an emergency meeting with his Cabinet at Camp David to discuss the escalating tensions with Iran. The meeting comes amid reports of a potential US military strike against Iran, which could lead to a significant escalation of the conflict. The situation has been escalating since the US drone strike that killed top Iranian military commander Qassem Soleimani in January. The meeting is expected to discuss possible responses to Iran's retaliatory attacks on US military bases in Iraq.",
+      "impact": "The potential for a US-Iran conflict could have a significant impact on the global oil market, leading to a surge in oil prices. This could benefit oil producers such as ExxonMobil (XOM) and Chevron (CVX), but could also hurt airline stocks such as American Airlines (AAL) and Delta Air Lines (DAL) due to higher fuel costs. In the short-term, the uncertainty and volatility could lead to a decline in investor sentiment and a decrease in stock prices across the board.",
+      "risks": [
+        "Escalation of conflict leading to oil price volatility",
+        "Negative impact on investor sentiment and stock prices",
+        "Potential for economic sanctions on Iran and its allies"
+      ]
+    }
+  },
+  {
     "id": "8289046",
-    "headline": "Illicit Iranian gambling network helped pull off a $4 billion sanctions dodge - reuters.com",
-    "summary": "Illicit Iranian gambling network helped pull off a $4 billion sanctions dodge  reuters.com",
+    "headline": "Illicit Iranian gambling network helped pull off a $4 billion sanctions dodge - Reuters",
+    "summary": "Illicit Iranian gambling network helped pull off a $4 billion sanctions dodge  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM0c1Y3Z1S3JvRDl6YklGRHdRWXJWWDdOMUJYQ0FURHpwLTByV1N0bzBCZ0ZGWGZoc0FwakZlLTI2S3cxWGxOV010X1I1NWlBVGRRbmdJeW9penZraklmQ2dtVERtdVMwM1ljR2t4QTl0OEZicThhNTZnN1ZJb3dlMC05TXBoOG4ybGpka1hRX2hUVGtkYTVjRHhBbk9CZDlMYWluVk03Yl9HeWt6UnhyMXZTMGtBQTE3S2l6NHoxOW96WTg?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -24,8 +116,8 @@
   },
   {
     "id": "8289150",
-    "headline": "Man suspected of spying on UK military base for Iran arrested in Cyprus - reuters.com",
-    "summary": "Man suspected of spying on UK military base for Iran arrested in Cyprus  reuters.com",
+    "headline": "Man suspected of spying on UK military base for Iran arrested in Cyprus - Reuters",
+    "summary": "Man suspected of spying on UK military base for Iran arrested in Cyprus  Reuters",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUERJVzM5MU9rRDVOc3RfUFdneGROMFVWdTlZU2d2RW0yVWtmcDk4cWhodHYtTF9CQlV0dmdIWmhlTUZFQllhWjZxb2RCTk1hTmxpcmxxNV8xM0pNaVh6ZThGZUdtTDVNOFhFSkhtRTdGOGk1RGZybVBQRXBxVVJLbXlfNFRSWUhiRXJfbDV2NUxFY1dlQ1Vsd3pJckNaenpNNVdSaWFn?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -47,8 +139,8 @@
   },
   {
     "id": "8289151",
-    "headline": "British Airways-owner IAG trims capacity outlook; jet fuel bill eases - reuters.com",
-    "summary": "British Airways-owner IAG trims capacity outlook; jet fuel bill eases  reuters.com",
+    "headline": "British Airways-owner IAG trims capacity outlook; jet fuel bill eases - Reuters",
+    "summary": "British Airways-owner IAG trims capacity outlook; jet fuel bill eases  Reuters",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZk5qYUJZMjJGUjlDVnpUSnRleDVfejMwdVpYTTJTT1oxVF90SEVMeklYbEZJd0FEdG8xWU5mcUZVUHVEWFczRmNQYWI0aEE0aGhXNnNwUG9rWGtYU1NrSGtBbC1yd2ZQMC1pLWtXNlp2SnM0RG1rLXgtWjl1V3NCOEVsMThwaEpNZXREVlJ0UFNESjZ3VkxyeHk2Q1A4VkJHN1I5ZjFfOA?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -70,8 +162,8 @@
   },
   {
     "id": "8287798",
-    "headline": "Oil steady as traders assess shipping flows; monthly gains in sight - reuters.com",
-    "summary": "Oil steady as traders assess shipping flows; monthly gains in sight  reuters.com",
+    "headline": "Oil rises over 1% as traders assess shipping flows; monthly gains in sight - Reuters",
+    "summary": "Oil rises over 1% as traders assess shipping flows; monthly gains in sight  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTWtnbUQ2S2JIalNxeXVETFdYcU95VDBtOHpPdlAxWDkzd1B0VVBPNnNpMW8xTGVRbkJ1NTFqbmJ0Ui1ucUUtSVhZeXZwRTQ4eE5FTWRkdzBlZEVJUzZHR0tKdnZTeXFoQlFPSHpGX0pqaEVVU3RhWFJqR2xNZnVJeDdOaG9ONUEtaThtRXhXakladzRkT2JvR1hxSEREVmxkRGRjQWw5ZTNoeTQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -116,8 +208,8 @@
   },
   {
     "id": "8287385",
-    "headline": "US cyber defense agency warns hackers are increasingly targeting water systems - reuters.com",
-    "summary": "US cyber defense agency warns hackers are increasingly targeting water systems  reuters.com",
+    "headline": "US cyber defense agency warns hackers are increasingly targeting water systems - Reuters",
+    "summary": "US cyber defense agency warns hackers are increasingly targeting water systems  Reuters",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdWNJNFA5THZLRlg3TTVYX2tkQmJzOUdQamtWQXZDOU81R1RTdjBtX3E2S3k3RlVfR2p6WE9uZGpfbzNCUHpGN0hhZ3ROY3pmN1FiS1JZa0FjQ2FDMDZuOUFRSjJad0wyX3lZWUFfQ1FjdGs4RGZvRVpnYzBwT1o0UlkyaGVRTkpvdVo0SmpCUkdhWFN3TEVaVHpfTnB1YWUwbzNuMUpoa2VsdHdtM2hNZ2JaRUE?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -139,8 +231,8 @@
   },
   {
     "id": "8280393",
-    "headline": "Egypt confirms drone caused fire on two gas vessels at Damietta - reuters.com",
-    "summary": "Egypt confirms drone caused fire on two gas vessels at Damietta  reuters.com",
+    "headline": "Egypt confirms drone caused fire on two gas vessels at Damietta - Reuters",
+    "summary": "Egypt confirms drone caused fire on two gas vessels at Damietta  Reuters",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM3F5LWg3Mm9rYmlhejJpdzJqQW9SWnU1WHJRVm9iZ1p0TUpmRTR6Mk1JYXVUekU2c1VlTHI5bV9DbzIyejlvYU13Y2cxYU12WExOYzJoVmxsVzVoc2hiWkQ2ZWFUZ0EwZHBZZlZ1UnREZjZGc243TlQtMXVKcDQ5bUpEaDR2Tmo5eTJkdlJhSXMtZ0U2cnk0OWNLLU50YlBjbnZrei1FVm9CYWw5cUE?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -162,8 +254,8 @@
   },
   {
     "id": "8286233",
-    "headline": "Drone strike in Egypt sparks security concerns about Suez oil exports - reuters.com",
-    "summary": "Drone strike in Egypt sparks security concerns about Suez oil exports  reuters.com",
+    "headline": "Drone strike in Egypt sparks security concerns about Suez oil exports - Reuters",
+    "summary": "Drone strike in Egypt sparks security concerns about Suez oil exports  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY19zWlhiQmx4WmRhRHRLMUdTbjhwdEdVcHpaUmMtWndRMlB1MFNiZ2pJMzJZcFJQWEJSTzdfSGl6R0FXV016c2JUODlSV0Y3ZzBEbWRFeUVkRDQxQ2p5S0VPRWoyc0lZS3pobjVGR0l5YTV1V1FEbmE2N1BscGlFZWlLTjl6Qmp4TDJmalFTX1ZYVUJEYkV2NjBCWVhuNmRsdC1UZzBCVm1GQ2djejdiWUo1UnBfT1UzNmc?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -208,8 +300,8 @@
   },
   {
     "id": "8286441",
-    "headline": "Saudi Arabia unveils plans for multinational maritime defence coalition - reuters.com",
-    "summary": "Saudi Arabia unveils plans for multinational maritime defence coalition  reuters.com",
+    "headline": "Saudi Arabia unveils plans for multinational maritime defence coalition - Reuters",
+    "summary": "Saudi Arabia unveils plans for multinational maritime defence coalition  Reuters",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVVV1X2lpNHZQWlFIclZsaER1azctU1NVTk5FcjhEYTVULU9NU1JibElRWUYzWllrZFRKY3NiYVRKdnVhS0hoWkRMeWczMnZXX2Y0UnNrMlVPQzN5QWRnMVFacTBPQkNEZ29BTzh0M2dRSU9BZ1ZZNmN0RHoxaE5GbW5aR3NETW5fREF6UklGUHo5ZkM3NTVDdHpkUXNFY0hWZmxUZHB0aEk1NDBtUEd2VTJqV2RwazVoY0lPYnhR?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -273,8 +365,8 @@
   },
   {
     "id": "8286019",
-    "headline": "US issues sanctions targeting support networks for Iran's Mahan Air - reuters.com",
-    "summary": "US issues sanctions targeting support networks for Iran's Mahan Air  reuters.com",
+    "headline": "US issues sanctions targeting support networks for Iran's Mahan Air - Reuters",
+    "summary": "US issues sanctions targeting support networks for Iran's Mahan Air  Reuters",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYWwwbkpQREZyMHd4cWZMcVdqOXZJZEpWMGpJeFRWcE1CVG53TElTMWdOa1pPSmVvelZXVUVJdkVvSWl2YU5vb1poSVFtR29vdmxtQnE5WW4zZ2Jvck5lSnM0Ykg5Z0dqU2xKa3l3ZVM0QjA2X0w2djluS1o4WUsxZU53bkp5YzY2MFRld3EtajFPS0NUemVuMTJfRGh2bU1VZk5HcjZ5NERoSjhab1RVRDZPZkIyRGs?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -320,8 +412,8 @@
   },
   {
     "id": "8286655",
-    "headline": "Bank of England keeps rates on hold, awaits clearer sign of Iran war inflation hit - reuters.com",
-    "summary": "Bank of England keeps rates on hold, awaits clearer sign of Iran war inflation hit  reuters.com",
+    "headline": "Bank of England keeps rates on hold, awaits clearer sign of Iran war inflation hit - Reuters",
+    "summary": "Bank of England keeps rates on hold, awaits clearer sign of Iran war inflation hit  Reuters",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcXV6ZUFyTnVCZmxRUVdTancteHlMckpydGNUdmYwdDFtaTllNmhNdkh2S0J1NS1CWDE1VG51Y18wcU41VloxRWZ5LWpTVGlGb2NfeDRkZ1RJeUs5aFFxaHIwVzByUk9md01STlJqVlRqLUNaVWdYN0psNXFGUlpuSVJOWGZ2LWtrNnJxbTlxUUNVNWxvOXJKZXM1alBLbzR4QXBUTjIzMXNwOG4zM2ZQVlZ6enJHZw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -454,8 +546,8 @@
   },
   {
     "id": "8285164",
-    "headline": "EXCLUSIVE: Yemen's Houthis are attacking Saudi Arabia from Iraq, sources say - reuters.com",
-    "summary": "EXCLUSIVE: Yemen's Houthis are attacking Saudi Arabia from Iraq, sources say  reuters.com",
+    "headline": "EXCLUSIVE: Yemen's Houthis are attacking Saudi Arabia from Iraq, sources say - Reuters",
+    "summary": "EXCLUSIVE: Yemen's Houthis are attacking Saudi Arabia from Iraq, sources say  Reuters",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOG5nRVpXaFJmYzZnNk1aMDMwdmc4NDdTalNOTWtaWHhzZGFXWE5JanRRM192OC1qZUs4Q0JHUktVR2VEb1lvdWh4ZjFEd0xQWW1aZkczRFY4VmxQTVV1anlGQ2RsSjFPTjB0aW53NGloTU9Na0hhM1V2ZnpTRFAwOTEtQUpIZ085VHZyS05XN241U3EyZmFqa3hGNzZsU0ZjN1Y2cTRaakE0bWU5VmV6ZTVR?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -523,8 +615,8 @@
   },
   {
     "id": "8285384",
-    "headline": "Iran's Araqchi presses European counterparts over use of bases in US operations - reuters.com",
-    "summary": "Iran's Araqchi presses European counterparts over use of bases in US operations  reuters.com",
+    "headline": "Iran's Araqchi presses European counterparts over use of bases in US operations - Reuters",
+    "summary": "Iran's Araqchi presses European counterparts over use of bases in US operations  Reuters",
     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPT1U2RVJiSTk2d0ZGMzVLVlc4MXU2d0drYUotbVg5aEd0bUlQbHlCM2x6eVBIUmFiaE9iRGxBc2E5Q2FaaV9EcW1lcWNGSU90ck5OcU5VU1FMcGgyUkIzV3l2cTNVaXROZl9DcDZocm54TUR6aUxsN0gtQmsweDVNLXEzRVRITThFSlBjdjBxYWpQYjJ3LXZ3SllwOUtkLV9OekRNV2xtMXZCRmhfeHdzdFNZUERBQVFOekdOVS1HcUx0UW16anBYRW52UmhPMFN4?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -661,8 +753,8 @@
   },
   {
     "id": "8284837",
-    "headline": "Egypt confirms drone caused fire on two gas vessels at Damietta - reuters.com",
-    "summary": "Egypt confirms drone caused fire on two gas vessels at Damietta  reuters.com",
+    "headline": "Egypt confirms drone caused fire on two gas vessels at Damietta - Reuters",
+    "summary": "Egypt confirms drone caused fire on two gas vessels at Damietta  Reuters",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYjF1aWhGTmZFRVNLcWFNN2JqX2FUUkZMY3ZLeldiNEJUZE0zLWFqa0xQQXVIdWxIQ3JidXJaS2ltNWF1MU1TVlZzZVFTUVhnTTl2djhtaUxDemp5Rkl1al9ZdHFfSmo0RjgwZGJGYmN0NU04V1ZROEpheFJfX2pzN0tELUVPVVYtVGE5UGJsNUt3ZEtCbFREX1hBNGQ5cTlpTFljQU10X2tTSkhGd09XdQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -684,8 +776,8 @@
   },
   {
     "id": "8284953",
-    "headline": "Can China restrain Iran? Gulf states test Beijing's influence - reuters.com",
-    "summary": "Can China restrain Iran? Gulf states test Beijing's influence  reuters.com",
+    "headline": "Can China restrain Iran? Gulf states test Beijing's influence - Reuters",
+    "summary": "Can China restrain Iran? Gulf states test Beijing's influence  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdklTZHJ1YU1Db09vbVRyR0Z2SHFydjMxZVJLUHZHMDlubnljR21Nd0tIbnBxVk1OYkFmNWE3VldxQ21aSmtaMlNTV1Z5VVZCR1pMSzNIdUpHUnhQdGdZZmk4UnBFSXVQa1FBemhaRnlKSW1QRDdKR3J0Z1E1WnpJcEhNYjlfeDBMN2tSX2p5ZjdwRnZqZnNjdUs0UGk1V3REemI0TGtyUllFc0U?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -777,8 +869,8 @@
   },
   {
     "id": "8288736",
-    "headline": "Prolonged Iran war could keep spot LNG prices high, Tokyo Gas says - reuters.com",
-    "summary": "Prolonged Iran war could keep spot LNG prices high, Tokyo Gas says  reuters.com",
+    "headline": "Prolonged Iran war could keep spot LNG prices high, Tokyo Gas says - Reuters",
+    "summary": "Prolonged Iran war could keep spot LNG prices high, Tokyo Gas says  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaU5PeWZ4OXFUWDgxdmJGM1NoWEJCdjBXQnRVQkxwT1dpWmtwd09UMjFKXzNIWjVjRVo0dWc4NXk4eTVXOEhNOHpqUjc3eVAzSnZyWWtxZEUwOU1lX0xVd0hTQ0tlanBKbUV5allqYlB2TmdjY212Tk9wbko0SmdycTFuZ0ZUYVlOd2N2d1I2SzFDdzRVRFl3MjZpcE5rRFd1T0tEWmpxQ0ttX3pETEt3NFBScjRrSlB1?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -806,7 +898,43 @@
     "source": "Bloomberg",
     "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
     "relatedSymbols": [],
-    "publishedAt": 1785406020
+    "publishedAt": 1785406020,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785504210,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The Reserve Bank of India (RBI) intervened in the foreign exchange market by selling $7 billion to stabilize the rupee, which approached a record low due to rising crude prices. This move aims to mitigate the impact of inflation and maintain economic stability. The RBI's actions are a response to the increasing import costs and the potential effects on the country's trade deficit. The rupee's depreciation is largely driven by the surge in crude oil prices, which has a significant impact on India's import bill.",
+      "impact": "The RBI's intervention may have a short-term positive impact on the Indian rupee, potentially alleviating pressure on import costs and inflation. However, this move may also have a negative impact on the country's foreign exchange reserves. In the medium term, the rising crude prices and the resulting inflation may lead to a decrease in consumer spending and a slowdown in economic growth, which could negatively affect the earnings outlook of companies with high exposure to the oil and gas sector. The RBI's actions may also lead to a decrease in the attractiveness of Indian assets for foreign investors, potentially negatively impacting the stock market and the rupee's value.",
+      "risks": [
+        "Rising crude prices and inflation risk",
+        "Decrease in consumer spending risk",
+        "Negative impact on foreign exchange reserves risk"
+      ]
+    }
+  },
+  {
+    "id": "8283439",
+    "headline": "QatarEnergy-controlled LNG tanker exits Hormuz, first in nearly three weeks - Reuters",
+    "summary": "QatarEnergy-controlled LNG tanker exits Hormuz, first in nearly three weeks  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX1Q3eDhzdHJoSFI2eU82OUU0Rk5ldHpVRy1pQWFMWmZwT3FQb2xJTlA2emJvNXUycE1rZmtHU0paeVFFaW5NTlJmVlF6enhKcEpaQXJrbE83aW53RXlneU1XVzRCUHNoNG9jUEozcEZBSWdHdFgtWkZIekhjZXJaRmE0MEIwbERianVKMmlJdmRZWjdiYjloM25oTENZZVFxTmxUbF9RRlo3QzJBYWxtYndmNjBPdE83b3lPeTlUV1ZaakE?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1785405806,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785406033,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "A QatarEnergy-controlled LNG tanker has exited the Hormuz Strait after nearly three weeks, marking a positive development for the global LNG market. The Hormuz Strait is a critical shipping lane for LNG tankers, and disruptions to this route can significantly impact global energy supplies. The news suggests that the situation in the region is stabilizing, which could lead to increased confidence in the global LNG market. This, in turn, could boost the earnings outlook for companies involved in the LNG industry, such as LNG producers and shipping companies. The news is a positive sign for the global energy market, which has been facing supply chain disruptions and volatility in recent months.",
+      "impact": "The news could lead to a short-term increase in the stock prices of LNG producers and shipping companies, as investors become more optimistic about the global LNG market. The medium-term impact could be a boost to earnings for companies involved in the LNG industry, as the stabilization of the Hormuz Strait reduces the risk of supply chain disruptions. This could also lead to an increase in investor sentiment and liquidity for these stocks, making them more attractive to investors.",
+      "risks": [
+        "Potential for further disruptions in the Hormuz Strait or other critical shipping lanes",
+        "Uncertainty around global energy demand and prices",
+        "Geopolitical tensions in the region could escalate and impact the LNG market"
+      ]
+    }
   },
   {
     "id": "8283329",
@@ -833,8 +961,8 @@
   },
   {
     "id": "8283648",
-    "headline": "Drone strike at Egypt port near Suez Canal ignites new shipping risks - reuters.com",
-    "summary": "Drone strike at Egypt port near Suez Canal ignites new shipping risks  reuters.com",
+    "headline": "Drone strike at Egypt port near Suez Canal ignites new shipping risks - Reuters",
+    "summary": "Drone strike at Egypt port near Suez Canal ignites new shipping risks  Reuters",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUjlxdTM1SnYtZ3Bzei1qLUpRXzlYanVpb1MwNnRuQjY2NmkzZHNTeEl5cGljWGE5VDQ5ZHF0djVzVnV5OEprZWdlWUpPMV9fanYyN1N5cHdhbkxBZC1fZTlHWmpRMG8zdlRZV0hLSW9nTHU0S3JDZU44WWVHbnhWZVhRTVJ1Z0RaM25nR09fTFNTMUR2SVNkVXdlVHpDZHRmMXlJdDN3?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -856,8 +984,8 @@
   },
   {
     "id": "8283541",
-    "headline": "Shell profit more than doubles to $9.8 billion, second-highest on record, as Iran war lifts prices - reuters.com",
-    "summary": "Shell profit more than doubles to $9.8 billion, second-highest on record, as Iran war lifts prices  reuters.com",
+    "headline": "Shell profit more than doubles to $9.8 billion, second-highest on record, as Iran war lifts prices - Reuters",
+    "summary": "Shell profit more than doubles to $9.8 billion, second-highest on record, as Iran war lifts prices  Reuters",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOVlEVkZ5c0ZFc3F3cjhHdllWWFNMNlAzR3VKVGR3cTFGQU11UUFJbWNzemJBLTIwX0lwWHBydVBySkUzS2dQQXJlZGpFRTNEdGljNENnaXNZQmQ0blUzejRLU3dsRlpLeExXZkJHdUlBcGlqZ3EyeFRIS2toSUdsbmpmTzh1eHJyODF4M2VtZi02ZHR3N2F5Sjd6Rk9nbXl1TmVrZWk1UXkwUHAxZjVZ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -902,8 +1030,8 @@
   },
   {
     "id": "8284954",
-    "headline": "Mideast oil faces bleak new order as Iran’s grip on Hormuz tightens - reuters.com",
-    "summary": "Mideast oil faces bleak new order as Iran’s grip on Hormuz tightens  reuters.com",
+    "headline": "Mideast oil faces bleak new order as Iran’s grip on Hormuz tightens - Reuters",
+    "summary": "Mideast oil faces bleak new order as Iran’s grip on Hormuz tightens  Reuters",
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdks1c003LWVheEJ4Tzd5LWdTekZPUEtmallwYloxMWJCQTJvY1ZUQVpPNk0yT3FiQXloSVFGb19WZDBaZ3ZSdzBCU3hDTVZpRzcwLVdsbFpYVmhFVTQ3TUVOSUV4XzdEbG91QnJIZnRlZkNXdGJ5cFVEZmVCdWZwbHM1dmlDaXY5bjNrZDh0d1puOFAwdmxTdVE3aWNtQUI1V2VpYlM2TWdjd215N1BWTnFxQXFFMi1XTDRKU3BPeFduTlRjSm1xdllXZnVfOHpDckE?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -948,8 +1076,8 @@
   },
   {
     "id": "8283122",
-    "headline": "EXCLUSIVE: QatarEnergy buys 33 US LNG cargoes to offset Hormuz disruption, sources say - reuters.com",
-    "summary": "EXCLUSIVE: QatarEnergy buys 33 US LNG cargoes to offset Hormuz disruption, sources say  reuters.com",
+    "headline": "EXCLUSIVE: QatarEnergy buys 33 US LNG cargoes to offset Hormuz disruption, sources say - Reuters",
+    "summary": "EXCLUSIVE: QatarEnergy buys 33 US LNG cargoes to offset Hormuz disruption, sources say  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT2RNZllsNDBHUFBXYUM5NGZzNnpoRHQ2bW11cDdJczVhX2NObmdGNTlSZGwxdVJBU1JyNGRqMmxGYkVYckFHUGE1bHBhSnQ3Q0p5RVJlOTE2S0EyWFc5NzgycmF1NjdpZG5YdzY0YUdGZG1WNjdwUmtPUW1PZTd0bVZEN2hoRWhnMjJrSjVDa2JJeUIyZDlKVlFGelhpWlpDOVBSclY3TVJqNmdTaEtSamlqUVNyR2lJaENqLTNOUlA?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -966,25 +1094,25 @@
     }
   },
   {
-    "id": "8283439",
-    "headline": "QatarEnergy-controlled LNG tanker exits Hormuz, first in nearly three weeks - reuters.com",
-    "summary": "QatarEnergy-controlled LNG tanker exits Hormuz, first in nearly three weeks  reuters.com",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX1Q3eDhzdHJoSFI2eU82OUU0Rk5ldHpVRy1pQWFMWmZwT3FQb2xJTlA2emJvNXUycE1rZmtHU0paeVFFaW5NTlJmVlF6enhKcEpaQXJrbE83aW53RXlneU1XVzRCUHNoNG9jUEozcEZBSWdHdFgtWkZIekhjZXJaRmE0MEIwbERianVKMmlJdmRZWjdiYjloM25oTENZZVFxTmxUbF9RRlo3QzJBYWxtYndmNjBPdE83b3lPeTlUV1ZaakE?oc=5",
+    "id": "8278117",
+    "headline": "EXCLUSIVE: Iran to get Chinese shoulder-launched missile systems in weeks, sources say - Reuters",
+    "summary": "EXCLUSIVE: Iran to get Chinese shoulder-launched missile systems in weeks, sources say  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR19sNWVrRDdhcXlNdTlxcUdNR0dNWDRBcjZPd21xOEM2bEYtdDJiWTEtYzlweWs5ZmtILVlhQkVUNzdaaENHbnhqTl9SSFNCZjk3eXNMS1o4SXFzT2VBS3VZZ0p6MVlrQldWNjRMUGlTN2tDR2xUOVBUdkdkTndueExrQm9vRGtTLTdBWjNGMDhZRC1qNDZXYVk3TXB0bWZ4ZFhpYUtfZ2JaalVZdjU3emN6LUptbjA?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1785382500,
+    "publishedAt": 1785385395,
     "analysis": {
       "version": 2,
-      "generatedAt": 1785406033,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "A QatarEnergy-controlled LNG tanker has exited the Hormuz Strait after nearly three weeks, marking a positive development for the global LNG market. The Hormuz Strait is a critical shipping lane for LNG tankers, and disruptions to this route can significantly impact global energy supplies. The news suggests that the situation in the region is stabilizing, which could lead to increased confidence in the global LNG market. This, in turn, could boost the earnings outlook for companies involved in the LNG industry, such as LNG producers and shipping companies. The news is a positive sign for the global energy market, which has been facing supply chain disruptions and volatility in recent months.",
-      "impact": "The news could lead to a short-term increase in the stock prices of LNG producers and shipping companies, as investors become more optimistic about the global LNG market. The medium-term impact could be a boost to earnings for companies involved in the LNG industry, as the stabilization of the Hormuz Strait reduces the risk of supply chain disruptions. This could also lead to an increase in investor sentiment and liquidity for these stocks, making them more attractive to investors.",
+      "generatedAt": 1785310671,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Iran is set to receive Chinese shoulder-launched missile systems in weeks, according to sources. This development is a significant escalation of military cooperation between Iran and China. The deal is expected to enhance Iran's military capabilities, potentially destabilizing the region. The news has implications for the defense industry, particularly companies involved in the production of missile systems. This could lead to increased demand for such systems, benefiting companies like Lockheed Martin and Northrop Grumman.",
+      "impact": "The news is likely to have a bearish impact on US defense companies that rely on sales to countries in the Middle East, as Iran's enhanced military capabilities may reduce their demand for US-made defense systems. In the short term, this could lead to a decline in earnings for these companies. In the medium term, the increased tensions in the region may lead to a decrease in investor sentiment, causing a decline in stock prices. The news may also lead to a reevaluation of the US's military strategy in the region.",
       "risks": [
-        "Potential for further disruptions in the Hormuz Strait or other critical shipping lanes",
-        "Uncertainty around global energy demand and prices",
-        "Geopolitical tensions in the region could escalate and impact the LNG market"
+        "Increased military tensions in the region",
+        "Decreased demand for US-made defense systems",
+        "Potential escalation of conflict in the Middle East"
       ]
     }
   },
@@ -1065,8 +1193,8 @@
   },
   {
     "id": "8282605",
-    "headline": "Yen soars as analysts suspect official intervention; dollar broadly weaker - reuters.com",
-    "summary": "Yen soars as analysts suspect official intervention; dollar broadly weaker  reuters.com",
+    "headline": "Yen soars as analysts suspect official intervention; dollar broadly weaker - Reuters",
+    "summary": "Yen soars as analysts suspect official intervention; dollar broadly weaker  Reuters",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOUFkZlJYUUNoTkxoekFZRWtKQXR4WGFheDhRNjRwdTFTQzQza185ZHRUaFZmTi1Ka0dQSkpjbDVMZS1SZDJaUVhzMW5nQ3gwdkpLcFdtUjJ0NTM3dnpONFdlbmh2bUJkQWhocXp2N3VhRWdxVUhOSWpjbVg0elZyR2JDQ1lCU3FIeVJ5cXUzOTFsNktCZWNKQTFPdFNibmt5aDlBUg?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1088,8 +1216,8 @@
   },
   {
     "id": "8282504",
-    "headline": "Oil settles down on proposed Saudi-led maritime defence coalition - reuters.com",
-    "summary": "Oil settles down on proposed Saudi-led maritime defence coalition  reuters.com",
+    "headline": "Oil settles down on proposed Saudi-led maritime defence coalition - Reuters",
+    "summary": "Oil settles down on proposed Saudi-led maritime defence coalition  Reuters",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTWJteE84X0d0aDA5bVgwcWZrTlJTTXNZVFNlRmduNGc3aWgyMDRjN3BiN1ZaY0NaSGtXa1VlQjdFSE1pRkxOTS1sQXc2WjkwbkY3Qng1N3g3azFoVUltcjVPVGo5aGM0YkZYVG5DLXM0RS1PSFhkeERKaXZVSFk1cGZXX3ZGS3otSU1FRUtPaTFyMUd0TENNeUtaTXNZeEkxTGJrcWdTcDY4UnRUMzg3ZzZ3OGpYdw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1111,8 +1239,8 @@
   },
   {
     "id": "8283121",
-    "headline": "US military says latest strikes on Iran last two hours, hitting dozens of targets - reuters.com",
-    "summary": "US military says latest strikes on Iran last two hours, hitting dozens of targets  reuters.com",
+    "headline": "US military says latest strikes on Iran last two hours, hitting dozens of targets - Reuters",
+    "summary": "US military says latest strikes on Iran last two hours, hitting dozens of targets  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYl9qUHF2eEJlVmxqM2ROX0NFVDE3SHVIeExWXzltdnl5dG1HSmprdzFha3lhWUt4dGRLeWFBSlE0ZlYySkhHdmpLcE51S3c3TV90azg5LTVhWWNNd3IydlAwT1djUmV4Ui1BR3pOUl9PcHBPWllxM1NDSmlnZUQ3RnZSeVd2X3BqSFVBR0U3cE1xaGwxVXpYWmtXanlZVHBNUGc?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1152,9 +1280,32 @@
     }
   },
   {
+    "id": "8278118",
+    "headline": "US strikes Iran as widening war engulfs more countries - Reuters",
+    "summary": "US strikes Iran as widening war engulfs more countries  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcFJoOXIwZmxCNHBjd05nc3dlYjNXXzd1NzdyQldTOVQ4S3NjZnNDRWdqdG1WUFRUS2tRSkJJTEhQYjJWa1FraklySUtoamVybzBfbUR4aUItanFrRG1hMDZJTzlSQ3lrS25SLUo4QzR0RVQxdmFSVUFaUFpHYWV0cmdnVURNVHJ1QzBzM0pIRTMwUmVFZmxwVVpyTklTallXU2ZLOGl3TDJ1U3VnRzd3bmZnQjVfcUw2a1pWSGdFOTNlUXFa?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1785368041,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785320412,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Tensions in the Middle East have escalated as the US and Saudi Arabia launched airstrikes against Iran's allies in Iraq, leading to a significant increase in conflict in the region. This development is a major escalation of the long-standing tensions between the US, Saudi Arabia, and Iran. The airstrikes are likely to lead to increased instability in the region, potentially disrupting oil production and supply chains. The situation is also likely to lead to a deterioration in relations between the US and Iran, which could have significant implications for global oil markets and the broader economy.",
+      "impact": "The recent escalation of tensions in the Middle East is likely to have a negative impact on oil prices in the short term, potentially leading to a spike in crude oil prices. This could be particularly challenging for companies with significant exposure to the oil and gas industry, such as those in the S&P 500 energy sector. In the medium term, the increased instability in the region could lead to a decline in investor sentiment and a decrease in stock prices for companies with significant exposure to the region or with operations that could be disrupted by the conflict.",
+      "risks": [
+        "Oil price volatility risk",
+        "Disruption to global supply chains risk",
+        "Decrease in investor sentiment risk"
+      ]
+    }
+  },
+  {
     "id": "8281766",
-    "headline": "US strikes $58.6 billion Patriot missile deal amid rising stockpile concerns - reuters.com",
-    "summary": "US strikes $58.6 billion Patriot missile deal amid rising stockpile concerns  reuters.com",
+    "headline": "US strikes $58.6 billion Patriot missile deal amid rising stockpile concerns - Reuters",
+    "summary": "US strikes $58.6 billion Patriot missile deal amid rising stockpile concerns  Reuters",
     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb2Yxa3h6SzNCUGZjOFBOTXBHY2tLc0x4WVhQTks1UF9BWkt3ZlcwSHRYVG9IV0NneDJrdVhtcm54ODVkc3cxcFdVMUZCek5EdHpER0J3d3RMWUNyeXc5LUp0Vl9HRlYzSGlhemNXOHZkc3dLNzRaQlM4QVBrUHktSDhHd1RoOE5pVWxwLXFNVzZEbjRJV2xQRnJKS0lpcTBRYkZqYm1MNGszZlU0eDF2NVI0RVRIOHZ5RGs5a0t0QWRsa0stelBVNzBvblpmSXhWbmgzdEl3cjZVZw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1176,8 +1327,8 @@
   },
   {
     "id": "8278121",
-    "headline": "Oil jumps 7% on escalating Middle East airstrikes - reuters.com",
-    "summary": "Oil jumps 7% on escalating Middle East airstrikes  reuters.com",
+    "headline": "Oil jumps 7% on escalating Middle East airstrikes - Reuters",
+    "summary": "Oil jumps 7% on escalating Middle East airstrikes  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd0ctWlZRN0hINkdrNUJmWWxpV0ZGNGw2Y2taRk1DbFBpdzd5bFdXQmJEcW9VRExnRFBtTWlTTHBRTU5tcDN2azF6VmtxdDN6WlVncmJxSVJhYjM4Wlctb3NEcnEzSWt4djdPSWJJX3ItYmpaN0UyZ09pbV85YjlRMkQ4RTV2RDE2c2NhYlRTdEVEUUFoWEVLMVBqUzhhX2xtVlJLUFp0RWFZTFpCSGJwMTRydUQ3NUx6ejJyYWFCdzBMVWpOYWZqbzF3?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1218,8 +1369,8 @@
   },
   {
     "id": "8283333",
-    "headline": "Canadian oil heads to Japan for the first time in over a year as Iran war tightens Middle East supplies - reuters.com",
-    "summary": "Canadian oil heads to Japan for the first time in over a year as Iran war tightens Middle East supplies  reuters.com",
+    "headline": "Canadian oil heads to Japan for the first time in over a year as Iran war tightens Middle East supplies - Reuters",
+    "summary": "Canadian oil heads to Japan for the first time in over a year as Iran war tightens Middle East supplies  Reuters",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa0lZMmMtdTM4VmpUSmtNU004NzRoZWJjNWZFT1o1Z3d0dzQtNXk3OU9BdUt4QXFSZFNIdnhyX2tLMUpVbVZPSUtyZjU1bmNZYlVEd1NiQWh3cmtiRlpOLWVDTFF0NGRTVzlIa29laklPNWk5dmNsRkhHUG1RQ2hzWTh2Sm5MS004NWh3RE1fSHl6SWQ1enNKR3NxTm5fcTJObENkRV93VHo5Mk5iQ2tXdTIzOTE1d1l3UVc1OFZHaUJuUl9LOVE?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1241,8 +1392,8 @@
   },
   {
     "id": "8281981",
-    "headline": "Trump says will hit Iran hard after attack, was briefed on Egypt tanker - reuters.com",
-    "summary": "Trump says will hit Iran hard after attack, was briefed on Egypt tanker  reuters.com",
+    "headline": "Trump says will hit Iran hard after attack, was briefed on Egypt tanker - Reuters",
+    "summary": "Trump says will hit Iran hard after attack, was briefed on Egypt tanker  Reuters",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS2Nvem1TcnlqcGxxZjc1Xy1RZHFPNDFWOU1HSVUyYk1DVjZuYUhYWV9QN1I1Q0JraUlHcTNyaEY1bUJTZVZZbl9BYi1pdTBXWTU4VXRzcHpRX25KUGtPUG8xM2FGVFpaWGh5M25OVXZpenZPeUMtbHdVdHNwMS1yTkVfNU1pR2N2aGhjcFZqakJjakdKWGNkSHNqWGUxTEZySzV6Ujh1ZVUtTEItSmtKd2lzVXJGamNDakVGT1B3?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1264,8 +1415,8 @@
   },
   {
     "id": "8281456",
-    "headline": "Saudi Arabia seeks international coalition to protect Red Sea shipping from Houthis, sources say - reuters.com",
-    "summary": "Saudi Arabia seeks international coalition to protect Red Sea shipping from Houthis, sources say  reuters.com",
+    "headline": "Saudi Arabia seeks international coalition to protect Red Sea shipping from Houthis, sources say - Reuters",
+    "summary": "Saudi Arabia seeks international coalition to protect Red Sea shipping from Houthis, sources say  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdE5TWUJUaEd4QndCVnFrY2hva1NPZUVIVmZROEcwYkhPWVR0Q3gxdzVIZjFDVFVTZWIyNGwxV1dPb1luWmpveTV0cHl4cmFQbXB5bWgzUHBhenR1UFhYZWVoSGdJVjluZEx5TmYyYllqOEQtLS1UZ3VMemtWSHlHOHlvQjlpams0bGVSRjMxQzBFRmdOUEJBUVROZlZZOU5Dd2JFdldTTnRpWUFYSm5hSWdVWmhETkVTTXhPMFc0OTNCVi1DdXhxTA?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1310,8 +1461,8 @@
   },
   {
     "id": "8280392",
-    "headline": "US issues new Iran-related sanctions targeting insurers, more tankers - reuters.com",
-    "summary": "US issues new Iran-related sanctions targeting insurers, more tankers  reuters.com",
+    "headline": "US issues new Iran-related sanctions targeting insurers, more tankers - Reuters",
+    "summary": "US issues new Iran-related sanctions targeting insurers, more tankers  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUHg0N2g3a2l6LTNFemIxenZFVEI0Unk4dnROM2JfZ3lPYXR4c2IxSFNOMG5ZM1EzdEEzeS1ETTVIbmRRTmRNMzZucTMyQU1xa0ItRWh1N2tDREZ3dDhBVGxITEphNkdlbVd1VWhWQmU4N25QZTE5Qk9vbHFQMkVDc1pqVUFCX0F0cFVqVVBlTjM4R2t2S2xuRDBlcTcxZ1F2ZGE5cDdLNmxNd3FQMDdrazZMbC1JRnlI?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1333,8 +1484,8 @@
   },
   {
     "id": "8286546",
-    "headline": "NEWSLETTER: China's crude calculus in Iran war - reuters.com",
-    "summary": "NEWSLETTER: China's crude calculus in Iran war  reuters.com",
+    "headline": "NEWSLETTER: China's crude calculus in Iran war - Reuters",
+    "summary": "NEWSLETTER: China's crude calculus in Iran war  Reuters",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOajdzdGZ3NnVUd0Y2TkNrLW1IbjBNYXVzaU9kWU1ETUhrclh2dEIweWVqUktXbDZzUG5nTlVPMzFla0Y2bWdobVEyRXUwYXFnbEZsOVM4MHJLcGZYT29PcmJZckZRNG9MbDBfWGl2U09ROG9kb1laWnB2T2NOVnlmYzU4dWtlU2tEdDdaSQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1356,8 +1507,8 @@
   },
   {
     "id": "8281147",
-    "headline": "Trump and Netanyahu explored all Iran options including attack, Israeli official says - reuters.com",
-    "summary": "Trump and Netanyahu explored all Iran options including attack, Israeli official says  reuters.com",
+    "headline": "Trump and Netanyahu explored all Iran options including attack, Israeli official says - Reuters",
+    "summary": "Trump and Netanyahu explored all Iran options including attack, Israeli official says  Reuters",
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNGRMX1g5X0U3ckZtQjhIMHFGMHVjWmZoNlU5bDBydGRabk5LR1dGUUNSaXFHWUQyWnJqd2VJS09KSmU3ZXVtVjBqemVDdTJJNE9JVDkxTm5udWZ1bVRYYmxUdmExbHFsdENjc2N3Yi15R0tEVUxuRXJiQUk4akd2dy1ZU3g5S21wNjhTX29NODVtaUNRU2JoSi04T29pUzNFMGtKR3cyZUN1RF8zZEVTZTFxSkhXZU9ESHphSWhhR1R4ZUlMSnNsVlNQTUxwRTg?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1403,8 +1554,8 @@
   },
   {
     "id": "8278125",
-    "headline": "Oman presents Iran with Gulf-backed plan for voluntary fees to use Hormuz - reuters.com",
-    "summary": "Oman presents Iran with Gulf-backed plan for voluntary fees to use Hormuz  reuters.com",
+    "headline": "Oman presents Iran with Gulf-backed plan for voluntary fees to use Hormuz - Reuters",
+    "summary": "Oman presents Iran with Gulf-backed plan for voluntary fees to use Hormuz  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeWdMSVB3OUxtSmtXNWtjQW9EWHRKb0hKaUFkeXd4ek45MHpkUUhFWnNBNHpIUnJpM2RXYkU5MHJOaHN2c1BJeDdXZ0ZpZDdkVUNfbHczcmt2MExCQ082MUZWbnFxYXd4U0ZidUI4bUhWb3NMMjdNVjFyLXh1c3E2ZEVDY1dHSEpoSGFFVE0xWHRheGhRdXkybnBuTnVZSC0yaTl5U3QtdEJQenhEMThhSGVtQkZVcmRMakdN?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1449,8 +1600,8 @@
   },
   {
     "id": "8278138",
-    "headline": "Trump vows response to surprise Iran attack, according to Fox News interview - reuters.com",
-    "summary": "Trump vows response to surprise Iran attack, according to Fox News interview  reuters.com",
+    "headline": "Trump vows response to surprise Iran attack, according to Fox News interview - Reuters",
+    "summary": "Trump vows response to surprise Iran attack, according to Fox News interview  Reuters",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZzhaOE5EZkZWdTRDZlhoaTUwempUc3g2QnpqSDAxM0hCeVNCZ190UDZTcmJTU2pWSHBXWTAzaFdtclJqR0VyZUN6NTVLakxmTHdSdk5PRXRhalZwNEhQSDlRSXQ3LUoxa003SWVvVEJpMjFGV2IxSGJjVWg0VHROY0pqVUROT0RxNmJRYTdrN1F4bndKa19vd051VzhwTHM?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1653,8 +1804,8 @@
   },
   {
     "id": "8278961",
-    "headline": "EXCLUSIVE: US military may require some troops in Mideast to surrender cell phones, sources say - reuters.com",
-    "summary": "EXCLUSIVE: US military may require some troops in Mideast to surrender cell phones, sources say  reuters.com",
+    "headline": "EXCLUSIVE: US military may require some troops in Mideast to surrender cell phones, sources say - Reuters",
+    "summary": "EXCLUSIVE: US military may require some troops in Mideast to surrender cell phones, sources say  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQnRvd2JkQWxrSjBpdHRBSkU2bnZMZUtQc0g0SVZ3eHhzb2FSRFJ6UF9yZlNlcXVWek9jZkVmWVhnNVRSeFNrdUNBZm1PNEQ0RmxxMDY1SkZOS0NHM04xSk1iQzN5b29UbEdhY21IaGZSQU12WWsxR0VNd2t5LXoya1VoRHVET015cWM5emFfM1lhYWZTbS1BWGlfSFdZeXJGalRYdVZCYWFEM1hzd0l5ekQ5M2hJb19YSkNR?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1676,8 +1827,8 @@
   },
   {
     "id": "8279958",
-    "headline": "Norwegian teen found guilty in UK murder plot tied to Iran-linked group - reuters.com",
-    "summary": "Norwegian teen found guilty in UK murder plot tied to Iran-linked group  reuters.com",
+    "headline": "Norwegian teen found guilty in UK murder plot tied to Iran-linked group - Reuters",
+    "summary": "Norwegian teen found guilty in UK murder plot tied to Iran-linked group  Reuters",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeFBxd2ZDV3NRMFR1V25KMlhtTE5mZU5Ld1NIWVdkZV9COVkwbk9iQ3FXLXI2c3VmWUhyZXBrbWFxTG4wWmR5VWNTSUY5N3hPZ29lVGZSeTNYZGpYMFZld3I3WEg0ZGxBWm52bUItVklfTjBLWGVEbXR3N2V2ZE9QQzFQOVYtSmtnVWVnRFZLZWMtVVY2aDdDT1B5RUdONTh1cTJ2UTRubEpER2pu?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1722,8 +1873,8 @@
   },
   {
     "id": "8278962",
-    "headline": "EXCLUSIVE: Yemen's Houthis considering fees for ships sailing through Red Sea, sources say - reuters.com",
-    "summary": "EXCLUSIVE: Yemen's Houthis considering fees for ships sailing through Red Sea, sources say  reuters.com",
+    "headline": "EXCLUSIVE: Yemen's Houthis considering fees for ships sailing through Red Sea, sources say - Reuters",
+    "summary": "EXCLUSIVE: Yemen's Houthis considering fees for ships sailing through Red Sea, sources say  Reuters",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZzFWSEJjR1NNV3libHZfdlE0dkVfbW9jdG5VX3NpbEg4OGJQSllPQ2RsZmoyNXFjVEFMZkdoME5wRHZMS3NrZlEzT2JUT2hPVXZnQkROOTV0YVJIQk80cEw2ODNKWnlMcmNXYVVFcng4UlVEOVUzYWkzYVhCU19HaHVnQ0JSQzVzSE9OQjdDYzNDRjZiWXZQeDlMandraXA3d1NtRzhHVWRBMlA3NExVblNTY3dYbUpXb2pjVnRkcGhEWWU1U0E?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1788,8 +1939,8 @@
   },
   {
     "id": "8279412",
-    "headline": "UAE's ADNOC sells crude at premiums to Asian refiners in seventh tender, sources say - reuters.com",
-    "summary": "UAE's ADNOC sells crude at premiums to Asian refiners in seventh tender, sources say  reuters.com",
+    "headline": "UAE's ADNOC sells crude at premiums to Asian refiners in seventh tender, sources say - Reuters",
+    "summary": "UAE's ADNOC sells crude at premiums to Asian refiners in seventh tender, sources say  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNamt1Q1VySm5UT2RwV21EVDg4a0wyTmZPa2NpakRiS1JsUVpzdmlkWUxYd2stbnRIcUh0Tnk1bVM1SVhrXzZVWS0zV0NIVVBKUUdOOC1vX3FmZ1JaeFdtcklEWHl1WVYzbGVJd0hicnZFSXp5ZFRtX25DRDZCOVJzREZIbVFiZ01PTm1wbjhFeW9XWDdJWkF1NzBIVk9xdGp2enJTTVVsT0hEaHNjSXUzc2d0ZXl6NjNuRDlBckFZWGwtUGM?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1811,8 +1962,8 @@
   },
   {
     "id": "8279298",
-    "headline": "Explainer: Who are Iraq's Iranian-backed armed groups? - reuters.com",
-    "summary": "Explainer: Who are Iraq's Iranian-backed armed groups?  reuters.com",
+    "headline": "Explainer: Who are Iraq's Iranian-backed armed groups? - Reuters",
+    "summary": "Explainer: Who are Iraq's Iranian-backed armed groups?  Reuters",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU21aV2FRR0FGZ3dFbERoaWF0djA3bmxxbzcyYXQ2azhlZ1pHZlA0cS1pa1dlckF3Z1FsV2FMOHdhVERqcTdXY0o3S1paZVMwRmhTWjVsbVRsdzVkdnhTNFgyc3VvR3ZBU1dMYW1fUjQ3UjZLcFBiSUFCdlFYZS1fZERIQV9hS0J3U0tPX0NWQVlqYURUa1lMMUgzUQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1857,8 +2008,8 @@
   },
   {
     "id": "8278748",
-    "headline": "Iran rules out regional management of Hormuz Strait, hitting hopes for breakthrough - reuters.com",
-    "summary": "Iran rules out regional management of Hormuz Strait, hitting hopes for breakthrough  reuters.com",
+    "headline": "Iran rules out regional management of Hormuz Strait, hitting hopes for breakthrough - Reuters",
+    "summary": "Iran rules out regional management of Hormuz Strait, hitting hopes for breakthrough  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcm9JU2paOWtPTENMY1JfVDZWWTA5MDVrNUQ5b1FndWhaSVk5Q2psS3dhc0lPeFg5cEE0ZktEVXBzb2JZRmFiUWdXZHNBSU1ON1BLZEM2X21FYmd1T3BFd2tjbU4xSGlibVluMm1xY2xMV0plaTlhUExiMWZtYml6aWNhd1d3ZkcxWC1tN2Q4UzdFdE5QOEc1eWxVNEZIaHdmWTNPczRwbXFGNHZjQ3E1dVdyd3ZLYkRISndfOXFrbFhYdVdFWFdIQw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1921,52 +2072,6 @@
     }
   },
   {
-    "id": "8278118",
-    "headline": "US strikes Iran as widening war engulfs more countries - reuters.com",
-    "summary": "US strikes Iran as widening war engulfs more countries  reuters.com",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcFJoOXIwZmxCNHBjd05nc3dlYjNXXzd1NzdyQldTOVQ4S3NjZnNDRWdqdG1WUFRUS2tRSkJJTEhQYjJWa1FraklySUtoamVybzBfbUR4aUItanFrRG1hMDZJTzlSQ3lrS25SLUo4QzR0RVQxdmFSVUFaUFpHYWV0cmdnVURNVHJ1QzBzM0pIRTMwUmVFZmxwVVpyTklTallXU2ZLOGl3TDJ1U3VnRzd3bmZnQjVfcUw2a1pWSGdFOTNlUXFa?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1785295740,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1785320412,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Tensions in the Middle East have escalated as the US and Saudi Arabia launched airstrikes against Iran's allies in Iraq, leading to a significant increase in conflict in the region. This development is a major escalation of the long-standing tensions between the US, Saudi Arabia, and Iran. The airstrikes are likely to lead to increased instability in the region, potentially disrupting oil production and supply chains. The situation is also likely to lead to a deterioration in relations between the US and Iran, which could have significant implications for global oil markets and the broader economy.",
-      "impact": "The recent escalation of tensions in the Middle East is likely to have a negative impact on oil prices in the short term, potentially leading to a spike in crude oil prices. This could be particularly challenging for companies with significant exposure to the oil and gas industry, such as those in the S&P 500 energy sector. In the medium term, the increased instability in the region could lead to a decline in investor sentiment and a decrease in stock prices for companies with significant exposure to the region or with operations that could be disrupted by the conflict.",
-      "risks": [
-        "Oil price volatility risk",
-        "Disruption to global supply chains risk",
-        "Decrease in investor sentiment risk"
-      ]
-    }
-  },
-  {
-    "id": "8278117",
-    "headline": "EXCLUSIVE: Iran to get Chinese shoulder-launched missile systems in weeks, sources say - reuters.com",
-    "summary": "EXCLUSIVE: Iran to get Chinese shoulder-launched missile systems in weeks, sources say  reuters.com",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR19sNWVrRDdhcXlNdTlxcUdNR0dNWDRBcjZPd21xOEM2bEYtdDJiWTEtYzlweWs5ZmtILVlhQkVUNzdaaENHbnhqTl9SSFNCZjk3eXNMS1o4SXFzT2VBS3VZZ0p6MVlrQldWNjRMUGlTN2tDR2xUOVBUdkdkTndueExrQm9vRGtTLTdBWjNGMDhZRC1qNDZXYVk3TXB0bWZ4ZFhpYUtfZ2JaalVZdjU3emN6LUptbjA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1785294240,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1785310671,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "Iran is set to receive Chinese shoulder-launched missile systems in weeks, according to sources. This development is a significant escalation of military cooperation between Iran and China. The deal is expected to enhance Iran's military capabilities, potentially destabilizing the region. The news has implications for the defense industry, particularly companies involved in the production of missile systems. This could lead to increased demand for such systems, benefiting companies like Lockheed Martin and Northrop Grumman.",
-      "impact": "The news is likely to have a bearish impact on US defense companies that rely on sales to countries in the Middle East, as Iran's enhanced military capabilities may reduce their demand for US-made defense systems. In the short term, this could lead to a decline in earnings for these companies. In the medium term, the increased tensions in the region may lead to a decrease in investor sentiment, causing a decline in stock prices. The news may also lead to a reevaluation of the US's military strategy in the region.",
-      "risks": [
-        "Increased military tensions in the region",
-        "Decreased demand for US-made defense systems",
-        "Potential escalation of conflict in the Middle East"
-      ]
-    }
-  },
-  {
     "id": "8282401",
     "headline": "US intercepts Iranian missile attack as West Asia tensions push oil prices higher",
     "summary": "US says it intercepted Iranian missiles targeting military bases as crude oil surged, Trump pursued diplomacy and Strait of Hormuz shipping talks continued",
@@ -2014,8 +2119,8 @@
   },
   {
     "id": "8278119",
-    "headline": "US military says US, Saudi forces struck sites of Iran-backed groups in Iraq - reuters.com",
-    "summary": "US military says US, Saudi forces struck sites of Iran-backed groups in Iraq  reuters.com",
+    "headline": "US military says US, Saudi forces struck sites of Iran-backed groups in Iraq - Reuters",
+    "summary": "US military says US, Saudi forces struck sites of Iran-backed groups in Iraq  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUHJGTGM0cWxxc1lyajNFQ1Y1NXNKUUdnREtjZDk3Z3RaRUFabm41dmF2UE1YVTFfbVJNTHJWZTlRYzJCTEpGbnVRWlg1akk2cGJKamVPRmZQNEZZRFVsSFp1LXFOOWQxYzRObjYyYmQ1U29LWUVyRHAtNHVFcUplWHlZYWZnWVFJeTVxdmktRVdmaTJ2aTh6SkM5R3VJOEtKR254SzdEMFNyZFJHcHJGN3kwaE4ySVdSUngwbTdhZ1M?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -2033,8 +2138,8 @@
   },
   {
     "id": "8278131",
-    "headline": "Trump's irritation with Netanyahu highlights strains as leaders meet - reuters.com",
-    "summary": "Trump's irritation with Netanyahu highlights strains as leaders meet  reuters.com",
+    "headline": "Trump's irritation with Netanyahu highlights strains as leaders meet - Reuters",
+    "summary": "Trump's irritation with Netanyahu highlights strains as leaders meet  Reuters",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU29yMTU1THpKbENSbHlzS1ZVQW9XY0p1d3dZSk1sWFFtRmljaFNwUGl3Q0JqMTV3X1Rib28zQi0xOHdZMDZoOWRiNU40QThuVDhIZ1FZNERlMTYtQk01dnUyYUtnOC03VjhnbndITDNQNzFwdjZpUWsyaGdJLS10d0lKMmJrakh5S1hKS2xWcGZxcFV0WUZTT2Rjay1ZdzQ4cl9Uc25kaEJqMUwxRTMtUGVMU25Hdw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -2056,8 +2161,8 @@
   },
   {
     "id": "8279645",
-    "headline": "Minnesota IT officials disclose 'coordinated cyberattack' at more than 30 local water systems - reuters.com",
-    "summary": "Minnesota IT officials disclose 'coordinated cyberattack' at more than 30 local water systems  reuters.com",
+    "headline": "Minnesota IT officials disclose 'coordinated cyberattack' at more than 30 local water systems - Reuters",
+    "summary": "Minnesota IT officials disclose 'coordinated cyberattack' at more than 30 local water systems  Reuters",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaFdMVHoxTjY4QlIyd0phejJIRTFXTTlUQVFjT1ZCRkMtWFcyU055a1hrMGItMk16SklJWFctSXpJTk1XQmZkbThTd00yLXJfUEVVLTlWRGgyYjJsbTREWk1lTk02RWdjM0FjeDhlRlN0NE1qZU1qX1FYdWJJYXJFMkU3cmFBbkh0Y25MUnpYQm1KZ00xR2tDWFo3cW5tSWlXTi1vZGh2SHowby1oWmJ1cUZWNnJwT2VpSXNtOUNUbE5fVE83b1EtQkxLVTVMQQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -2121,8 +2226,8 @@
   },
   {
     "id": "8278120",
-    "headline": "US says it intercepted Iranian ballistic missiles launched towards US forces in Middle East - reuters.com",
-    "summary": "US says it intercepted Iranian ballistic missiles launched towards US forces in Middle East  reuters.com",
+    "headline": "US says it intercepted Iranian ballistic missiles launched towards US forces in Middle East - Reuters",
+    "summary": "US says it intercepted Iranian ballistic missiles launched towards US forces in Middle East  Reuters",
     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbExYYjdfX1I4Mmt6eFo1Ty1JWjFtdEl5dWxIRnJsbllyODZPd3pmUjc0bzlMX29iV1ZlaUJVSUwwNl8yNkd1dkI5WERxdm1NUXp6Q1RXS1JqLVgzZzZXbFA4ZU9HU2Q0UVNQS2h3N0dtTldHbE5oLUxPek9iem9uMTBiZGU0QUNNeUpwX2Z2ZVF5bkVEZ1FVVjBlVkFoRjBzVkN1ZWU2N1hSbXR0QjgyUVpveXNsT244VDQ1Zm5Nb3BUbFRjR3FNUDhmZTQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -2144,8 +2249,8 @@
   },
   {
     "id": "8278161",
-    "headline": "Top US oil trade group opposes Hormuz tolls after Gulf-backed voluntary fee proposal - reuters.com",
-    "summary": "Top US oil trade group opposes Hormuz tolls after Gulf-backed voluntary fee proposal  reuters.com",
+    "headline": "Top US oil trade group opposes Hormuz tolls after Gulf-backed voluntary fee proposal - Reuters",
+    "summary": "Top US oil trade group opposes Hormuz tolls after Gulf-backed voluntary fee proposal  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQjBCRWJ5ekpMbWF5dm5Yc0c4c0VXTDNZaGlybGZ2OU4xaGx2cEZjMjl1RUZnT3YyQTFhM0ptTHZSbUJiWkZGMDRydFlYZktRVTNPMU9nTzhqUXg2Rzc2V3hjYkczbllfLWszbEJORmVlVDRTYUJBVmhiX19VVVNGVDdjcS1zcmRCLTZnUm1GS0NQOHhXRHlTSThZYVNBT1NlOFR6N0JvODU0YnRhOFNsZTlKWTJiMDFGZE1DQUQ2T0NjbWFpWDRMVw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -22367,98 +22472,6 @@
         "Unclear specifics of potential agreement and its impact on US economy",
         "Potential backlash from hardline US politicians or Cuban opposition",
         "Limited short-term impact on US companies with exposure to Cuba"
-      ]
-    }
-  },
-  {
-    "id": "8174703",
-    "headline": "Record heat, crowds drive offseason boom in international travel",
-    "summary": "Airlines are extending flight schedules to maximize on lucrative international travel.",
-    "url": "https://www.cnbc.com/2026/07/06/travel-off-season-boom-in-flights-airlines-hotels.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108328125-1782744966496-gettyimages-2282913457-AFP_B8FU8G4.jpeg?v=1783016379&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1783332001,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1783336684,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Airlines are extending their flight schedules to capitalize on the growing trend of international travel during the off-season, driven by travelers seeking to avoid heat, crowds, and high prices. This shift is redefining the airline industry's moneymaker months, with international flights generating more premium revenue. Airlines are expanding their international routes and premium seating options to tap into this lucrative market. Delta, United, and American Airlines are among those benefiting from this trend, with their shares reaching record highs.",
-      "impact": "The extension of flight schedules and increased demand for international travel are likely to boost earnings for airlines in the second quarter and third quarter, driven by higher premium revenue. This trend may also lead to increased liquidity and sentiment-driven price appreciation for airline stocks. However, the industry's fuel costs are expected to take a $100 billion hit this year, which may impact profitability and valuation multiples.",
-      "risks": [
-        "Fuel price volatility risk",
-        "Competition from new entrants risk",
-        "Economic downturn risk"
-      ]
-    }
-  },
-  {
-    "id": "8176011",
-    "headline": "QatarEnergy halves 2026 scheduled deliveries of LNG to Bangladesh, Petrobangla says - Reuters",
-    "summary": "QatarEnergy halves 2026 scheduled deliveries of LNG to Bangladesh, Petrobangla says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQ0J5LUxnMjQzQnJzTlB6QTlKM0lvdjVYdXFFLXY2U1Q2NnNxQzlZbTdJMkRod1NnVnMtMFpUSmVrRG03RC1CajVzb01kbnBKOUNrQVV6eVRjMEd1NEMxQVRlRWZiYlVSWFpkRW9HWTJLQ1dwMXYySVd2WmVSR3hFSFhsSllWWUZxdTdDanY1U3o5alhGNERkQmlzZmxxd1ZhLUdPUlpVc2djT0EtOGVCemRrbDJIWUtlcHpEazhtREpuamU2ZS1Z?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1783331971,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1783381789,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "QatarEnergy has announced that it will halve its scheduled deliveries of liquefied natural gas (LNG) to Bangladesh in 2026. This decision is made by Petrobangla, the state-owned oil and gas company of Bangladesh. The reduction in LNG deliveries is expected to impact Bangladesh's energy security and potentially lead to increased imports of alternative energy sources. This news is a negative development for QatarEnergy, as it may impact its revenue and earnings outlook for 2026. The reduction in LNG deliveries is also a concern for Bangladesh's energy sector, which relies heavily on imported LNG to meet its energy demands.",
-      "impact": "The short-term impact of this news is likely to be a decline in QatarEnergy's stock price, as investors react to the potential reduction in revenue and earnings. In the medium term, the reduced LNG deliveries may lead to increased competition for QatarEnergy in the LNG market, potentially impacting its market share and pricing power. The reduced LNG deliveries to Bangladesh may also lead to increased imports of alternative energy sources, such as coal or oil, which could negatively impact the country's energy mix and environmental goals.",
-      "risks": [
-        "Reduced revenue and earnings for QatarEnergy",
-        "Increased competition in the LNG market",
-        "Negative impact on Bangladesh's energy security"
-      ]
-    }
-  },
-  {
-    "id": "8175366",
-    "headline": "Airbus informally aims for 900 deliveries after strong June, sources say - Reuters",
-    "summary": "Airbus informally aims for 900 deliveries after strong June, sources say  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcGFEemxmdi1IUXVGdGFVMWItYllxMXJ1MGJzOFpsUW10YWlxMExfc2JJYW9CaHdoWDA0UFpZWVFXTk1pdXl2ajR5QUYzZ0paV0ExZUVEUXRxMVlfVU5SbFhhSzFBbEgyMEZ6YmROQk5kczBtRV9Fbmp6YU82S3BUaGF0Y2lOX19ac01SVTZvUE9qVkNVamtTaDJJT3hvdVRkZmlTUWNyZG1RWlk1ZlhXNjdITVlabm9Rc1pYWVp5ZjkxTEpVTU5tVHpB?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1783330234,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1783381834,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Airbus has informally set a target of 900 deliveries, a strong indication of the company's confidence in its sales prospects. The news comes after a robust June performance, suggesting that the company's efforts to revamp its product lineup and improve efficiency are paying off. This development is significant as it implies that Airbus is poised to meet or exceed its previous delivery targets, which could lead to improved earnings and revenue growth. The company's ability to achieve this target will depend on factors such as market demand, competition, and production capacity.",
-      "impact": "The news is likely to have a positive impact on Airbus' stock price in the short term, driven by improved sentiment and expectations of strong earnings growth. Medium-term, the company's ability to meet its delivery targets could lead to increased investor confidence and a re-rating of the stock. However, investors should also consider potential risks such as supply chain disruptions, changes in market demand, and increased competition from Boeing.",
-      "risks": [
-        "Supply chain disruptions",
-        "Changes in market demand",
-        "Increased competition from Boeing"
-      ]
-    }
-  },
-  {
-    "id": "8179252",
-    "headline": "Racist commentary about Black players comes under scrutiny at World Cup - Reuters",
-    "summary": "Racist commentary about Black players comes under scrutiny at World Cup  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaVdtQzdXZy1zRndYcDd1MFpyQVFoVm5RR015Qlo5MFVkZHhNWmp0cE9aZjRjTWl0QUxhbDM0bmxJRS1KNHFfLWlYMTZCNndFdlJzaEdsTTBpQVZDZk44UU41UjlhdEhYNGlwZnJNdVQtdEpoMFIwNWZZVmtGa0IzS3VSckcyVnRDblNwQXRvNnN4NUVwNHpOUFMtSTR2TVdFWmZBeXVxZFlyM3FxcmdzYmphRzU3S1FfYXc?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1783325864,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1783795146,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "A recent Reuters article reports on racist commentary about Black players during the World Cup. The incident has sparked scrutiny and outrage among fans and sponsors. The World Cup is a major global sporting event that attracts widespread attention and investment. While the incident is a social and moral issue, it does not have a direct impact on the business fundamentals of companies related to the World Cup. The article does not mention any specific companies or stocks, but the incident may affect the reputation of FIFA and its sponsors.",
-      "impact": "The incident may have a short-term negative impact on the reputation of FIFA and its sponsors, potentially leading to a decline in brand value and advertising revenue. However, this effect is likely to be limited to the sports industry and may not have a significant impact on the broader stock market or the economy. In the medium term, the incident may lead to increased scrutiny and calls for greater diversity and inclusion in the sports industry, potentially driving positive change and growth for companies that prioritize these values.",
-      "risks": [
-        "reputation risk",
-        "brand value risk",
-        "advertising revenue slowdown risk"
       ]
     }
   }
