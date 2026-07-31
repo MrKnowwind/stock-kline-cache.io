@@ -1,5 +1,47 @@
 [
   {
+    "id": "8289640",
+    "headline": "Microsoft shares are surging. Here’s how to still make money, says Mike Khouw",
+    "summary": "Following Microsoft's (MSFT) Q4 earnings and record-setting appreciation, the immediate binary event risk is officially behind us.",
+    "url": "https://www.cnbc.com/2026/07/31/microsoft-shares-are-surging-heres-how-to-still-make-money-says-mike-khouw.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108336282-1784236796440-gettyimages-2262969470-20090101260225-99-646957.jpeg?v=1784237080&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1785511591,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785512966,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Microsoft's Q4 earnings have passed, and the immediate binary event risk is behind us. The company's fundamental engine remains intact, and the author suggests selling the August 21st weekly $412.50/$485 short strangle to capture a $7.30 combined premium. This trade offers a 21-day absolute return/yield of ~1.6% and an annualized rate of return of ~28%. The author believes the worst-case assignment scenarios align with an acceptable position, providing a potential opportunity to acquire shares at a discounted price or initiate a short position at a premium.",
+      "impact": "The potential impact on Microsoft's stock is a short-term gain of ~1.6% in 21 days, driven by accelerated post-earnings IV crush and steepening time decay. The author's trade strategy aims to capture this premium without taking on significant risk. The medium-term effect is a potential reevaluation of Microsoft's valuation, as the company sits at the virtual midpoint of its 20-year valuation range. This could lead to a sustained trading range, making it an attractive investment opportunity for long-term investors.",
+      "risks": []
+    }
+  },
+  {
+    "id": "8289597",
+    "headline": "GM to launch new in-vehicle AI system later this year",
+    "summary": "General Motors plans to launch a proprietary in-vehicle artificial intelligence system that's better tailored for its customers later this year.",
+    "url": "https://www.cnbc.com/2026/07/31/gm-in-vehicle-ai-system.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/107420905-1716922517246-1716305392-dbe401096ad9612fc2427852896d5e5b.jpg?v=1716922614&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1785504052,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785513017,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "General Motors plans to launch a proprietary in-vehicle AI system later this year, which will be more integrated with the vehicle and its capabilities than its existing Gemini AI assistant from Google. The new system will combine conversational AI with GM vehicle knowledge and OnStar intelligence to create capabilities that go beyond what a general-purpose assistant can do. This move is part of GM's broader AI journey, which aims to make everyday ownership simpler for customers. The new system will be more tailored to the vehicle and its owners, with features such as predictive maintenance, vehicle telemetry, and auto-focused commands.",
+      "impact": "The launch of GM's proprietary AI system is likely to have a positive impact on the company's stock in the medium term, as it demonstrates the company's commitment to innovation and customer experience. The new system's capabilities, such as predictive maintenance and vehicle telemetry, may also lead to increased customer satisfaction and loyalty, potentially driving revenue growth. Additionally, the system's focus on auto-focused features may give GM a competitive edge in the market, particularly in the luxury segment where its Cadillac brand operates.",
+      "risks": [
+        "Integration risk: the successful integration of the new AI system with existing vehicle systems and OnStar intelligence may be challenging.",
+        "Competition risk: other automakers may launch similar AI systems, potentially increasing competition in the market.",
+        "Technical risk: the development and deployment of the new AI system may be delayed or encounter technical issues, which could impact customer adoption and satisfaction."
+      ]
+    }
+  },
+  {
     "id": "8289592",
     "headline": "Jim Cramer's top 10 things to watch in the stock market Friday",
     "summary": "Nasdaq futures are up, driven by an excellent quarter for Amazon.",
@@ -19,6 +61,29 @@
         "DRAM shortage risk for Apple",
         "supply chain constraints risk for Intel and Apple",
         "earnings guidance risk for Linde and Eaton"
+      ]
+    }
+  },
+  {
+    "id": "8289631",
+    "headline": "34-year-old CEO bet on AI video 5 years before ChatGPT—convincing Mark Cuban to invest was the easy part",
+    "summary": "Victor Riparbelli launched Synthesia in 2017 to help people 'make a Hollywood film from a laptop.' After four years of middling results, he made a major shift.",
+    "url": "https://www.cnbc.com/2026/07/31/ceo-bet-on-ai-video-years-before-chatgptnow-his-startup-is-worth-billions.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108327721-1782506902971-gettyimages-2222465373-AFP_64HL3MC.jpeg?v=1782506946&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1785503101,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785513066,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Synthesia, an AI video platform, was founded in 2017 by Victor Riparbelli, who predicted the potential of AI video technology before ChatGPT's public debut. Despite initial skepticism from investors, the company received a $1 million investment from Mark Cuban in 2017, valuing the company at $5 million. After a failed initial business model, Synthesia shifted its focus and eventually landed corporate clients like PepsiCo, Mondelez, and Heineken. The company's valuation has skyrocketed to $4 billion, with a recent fundraising round valuing the company at $4 billion.",
+      "impact": "The news is positive for AI-related stocks, particularly those in the video technology and generative AI sectors. The company's success story highlights the growing demand for AI-powered video solutions, which could drive earnings growth and increased valuations for related stocks. The article also mentions the increasing spending on generative AI tools, which could have a positive impact on the industry's sentiment and liquidity.",
+      "risks": [
+        "Regulatory risks associated with AI adoption in the corporate sector",
+        "Competition from other AI video platforms",
+        "Dependence on a few large corporate clients"
       ]
     }
   },
@@ -1124,7 +1189,20 @@
     "source": "Bloomberg",
     "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
     "relatedSymbols": [],
-    "publishedAt": 1785378377
+    "publishedAt": 1785378377,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785513114,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Lockheed Martin has secured a massive $59 billion contract from the Pentagon to triple Patriot missile production by 2030, driven by the US government's efforts to expand defense manufacturing. This deal is a significant win for Lockheed, one of the largest defense contractors in the US, and underscores the company's leading position in the industry. The contract is a multi-year agreement that will provide a steady stream of revenue for Lockheed, with the company expected to benefit from increased production and potential for future growth. The deal also highlights the ongoing demand for defense spending in the US, driven by geopolitical tensions and national security concerns.",
+      "impact": "This news is likely to have a positive impact on Lockheed Martin's stock price in the short-term, driven by the significant revenue boost from the contract. The company's earnings outlook is expected to improve, with the deal contributing to increased profitability and cash flow. In the medium-term, the deal could also lead to increased investor sentiment and liquidity, as the market reacts to the company's growing presence in the defense industry. Additionally, the contract may also lead to increased demand for related stocks in the defense sector, such as Raytheon Technologies and Northrop Grumman.",
+      "risks": [
+        "Regulatory risks associated with defense contracts",
+        "Potential delays in production or delivery",
+        "Competition from other defense contractors"
+      ]
+    }
   },
   {
     "id": "8287383",
@@ -3411,7 +3489,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1785168464
+    "publishedAt": 1785168464,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785513160,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The Houthis have claimed responsibility for targeting Saudi east-west oil transport, which could lead to a disruption in global oil supplies. This incident highlights the ongoing tensions between Saudi Arabia and the Houthi rebels in Yemen. The attack could potentially impact the global oil market, affecting oil prices and the earnings of oil-producing companies. The Saudi government has been involved in a long-standing conflict with the Houthis, and this incident may escalate the situation.",
+      "impact": "The potential disruption in oil supplies could lead to higher oil prices in the short term, benefiting oil-producing companies such as Saudi Aramco. However, this could also increase costs for oil consumers, potentially impacting the earnings of companies in the airline, transportation, and manufacturing sectors. In the medium term, the ongoing conflict and potential escalation could lead to increased volatility in the oil market, affecting the valuation of oil-related stocks.",
+      "risks": [
+        "Escalation of conflict in the Middle East",
+        "Disruption in global oil supplies",
+        "Increased volatility in the oil market"
+      ]
+    }
   },
   {
     "id": "8276353",
@@ -22403,75 +22494,6 @@
         "Regulatory risks associated with the tender process",
         "Geological risks associated with the exploration and production of natural gas",
         "Competition from other energy-producing countries in the region"
-      ]
-    }
-  },
-  {
-    "id": "8181941",
-    "headline": "Rights group says jailed British couple in Iran continue hunger strike - Reuters",
-    "summary": "Rights group says jailed British couple in Iran continue hunger strike  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcUFrOWpYSHVyd1gtN29MRV9seW1wZzBza0FRVVl1RXpQaWFaMVpwWUV1aE42cW9fbTZoWVpibVJ5R2xwMnlCSm8tOC1lY3VnYkgzTXNjbEpQb0RpcTlROGQ3NjJOeEpxZXlaVVFUZ2c1UFVtcHVHTkNBX0NsajBmT0NZMUNYcHFpWms0Nk5fQTYydHVTU204ZUp3MDJjc19UbkhlTkwzQldXamtLb3VvazB3?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1783335438,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1783795051,
-      "sentiment": "neutral",
-      "confidence": 0.5,
-      "summary": "A British couple, Nazanin Zaghari-Ratcliffe and Richard Ratcliffe, are on a hunger strike in an Iranian prison. They were arrested in 2016 and have been detained for various charges. The couple's hunger strike is a humanitarian issue and does not have a direct impact on the business world. However, it may affect the UK-Iran relations, which could have a medium-term impact on the energy and commodity sectors.",
-      "impact": "The news is unlikely to have a significant impact on the stock market in the short term. However, if the situation escalates and affects UK-Iran relations, it could lead to a medium-term increase in oil prices, benefiting oil-producing companies such as BP (BP.L) and Royal Dutch Shell (RDSB.L). Additionally, companies with significant operations in the region, such as HSBC (HSBA.L) and Standard Chartered (STAN.L), may face increased regulatory scrutiny and potential reputational risks.",
-      "risks": [
-        "escalation of tensions between the UK and Iran",
-        "increased regulatory scrutiny for companies with operations in the region",
-        "reputational risk for companies with ties to Iran"
-      ]
-    }
-  },
-  {
-    "id": "8179677",
-    "headline": "Germany says TKMS submarine win would bring Canada closer to Europe - Reuters",
-    "summary": "Germany says TKMS submarine win would bring Canada closer to Europe  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVGRLYVJKR1RnSEVmQmpjTDNMUG04Mjl0c296MXB6V1BrZUM0RDFvUEZER1FsWDhnZGo4b21jQ19HenpjUVNwdHo1cVNHY0RKRklSZ2U1Uy1zV3hVc2Rsb185b0FSRkZvQ3kxSGhQUmh4dGtFempvTk4tZlZuakczdUtPUHNpSE4tM1VVdE1ValFDY2VZYUMzanotd3Buc2l3SXNEYlA2d2NOaGFhM2pR?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1783334362,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1783795099,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Germany's announcement that a TKMS submarine win would bring Canada closer to Europe suggests a strengthening of diplomatic ties between the two regions. This development could lead to increased economic cooperation and trade between Canada and the European Union. The news may also have a positive impact on the defense industry as a whole, as it implies a growing demand for military equipment and services. TKMS, a German defense contractor, is likely to benefit from this development, although the article does not mention a specific contract award.",
-      "impact": "The news is likely to have a positive impact on TKMS's stock price in the short-term, as investors react to the potential increase in demand for defense equipment and services. In the medium-term, the strengthening of diplomatic ties between Canada and Europe could lead to increased trade and economic cooperation, benefiting companies with exposure to the European market. The news may also have a positive impact on other defense contractors, such as ThyssenKrupp or Airbus, as they also supply military equipment and services to European countries.",
-      "risks": [
-        "regulatory approval risk",
-        "integration risk",
-        "geopolitical uncertainty"
-      ]
-    }
-  },
-  {
-    "id": "8176008",
-    "headline": "Raul Castro's grandson open to negotiations with the US, he tells USA Today - Reuters",
-    "summary": "Raul Castro's grandson open to negotiations with the US, he tells USA Today  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb2dfVUxtVDdRSUZVWFFyaVJ6bFRLUEp6X0JfeGhiVndodE9YR3FvOFc0eldYczJOa0RHTnY3WVRtM3FvZ0lUNTF5dlNONXRid1dyT3pYUXBoVUY0Yzk4MjdVdmI2MEJKRmkwWVRZRDVYZHpkUF8wUlVEeURONW80dkpWWjM3ZVlpWXZXVmN1Z1VHN3l2bmFyQUdldDFNU0c3NnI3ZUR0ZG5yZ3pxMHI1VHVpNzlRa2I1?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1783333456,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1783381741,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Raul Castro's grandson, Miguel Diaz-Canel, has expressed openness to negotiations with the US, a potential shift in Cuba's stance towards the US. This development comes after a recent thaw in relations between the two countries. The news is a significant political development that could have implications for US-Cuba trade and economic relations. However, the specifics of any potential agreement or its impact on the US economy are unclear at this time.",
-      "impact": "The news could have a positive impact on US companies with exposure to Cuba, such as those in the tourism or agriculture sectors, as increased trade and economic cooperation could lead to increased demand and revenue. However, the short-term impact is likely to be limited, and the medium-term effects will depend on the specifics of any agreement reached. The news may also increase investor sentiment towards US companies with exposure to emerging markets or those with a strong presence in the region.",
-      "risks": [
-        "Unclear specifics of potential agreement and its impact on US economy",
-        "Potential backlash from hardline US politicians or Cuban opposition",
-        "Limited short-term impact on US companies with exposure to Cuba"
       ]
     }
   }
