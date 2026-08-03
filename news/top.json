@@ -1,5 +1,70 @@
 [
   {
+    "id": "8292881",
+    "headline": "Larry Berg named next Major League Soccer commissioner",
+    "summary": "Larry Berg will take over as MLS commissioner from Don Garber next year. He will sell his stake in Los Angeles FC.",
+    "url": "https://www.cnbc.com/2026/08/03/larry-berg-major-league-soccer-commissioner.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108344121-1785788169171-gettyimages-2174574588-us_open_cup_final__lafc_v_sporting_kc_-_scc_-_9-25-2024_--22.jpeg?v=1785788257&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1785790017,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785793816,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Larry Berg has been named the next commissioner of Major League Soccer, replacing Don Garber in 2027. Berg, a co-owner of Los Angeles FC, will have to sell his stake in the team upon taking the commissioner position. He will face challenges such as negotiating a new collective bargaining agreement with players and overseeing the league's next media rights negotiations. Garber's departure marks the end of his 28-year tenure as commissioner, during which he transformed the league into a multibillion-dollar sports league.",
+      "impact": "The appointment of Larry Berg as the next commissioner of MLS is unlikely to have a direct impact on the stock market in the short term. However, it may lead to increased investor interest in MLS teams, particularly Los Angeles FC, as Berg's leadership may bring new opportunities for growth and expansion. In the medium term, the league's media rights negotiations and collective bargaining agreement may affect the earnings outlook of MLS teams, potentially impacting their stock prices.",
+      "risks": [
+        "uncertainty around collective bargaining agreement negotiations",
+        "potential disruption to Los Angeles FC's operations following Berg's departure as co-owner",
+        "risks associated with media rights negotiations"
+      ]
+    }
+  },
+  {
+    "id": "8291500",
+    "headline": "Wall Street rallies, Dow closes at record on Iran talks optimism - Reuters",
+    "summary": "Wall Street rallies, Dow closes at record on Iran talks optimism  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTC1HdWxXY3dmcFlCNm9FZ3N5VnVhSWg0ZHV4a1RRdUdlUVM5QUhNYUlueDN2akloUFFEUWRIWXNHeFk1VEFHMDhBRTV1XzY5TnBxUXlVQk96NkFMSnNuTURuTzhCOVRBUkVVT2p1VjBOZFBZdk4zM01WQlFDY1ZZTGhqR2NaeXNrVWN0Ym5aQ1VENmZ5aGRKRWRoMHlNRTVxMWxVSFVrOA?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1785788804,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785771155,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The article reports that Wall Street started the month strong due to rising hopes for a Middle Eastern deal. This optimism is driven by expectations of increased economic cooperation and trade between countries in the region. The deal is expected to boost economic growth and stability in the region, which could have a positive impact on global markets. The article does not mention any specific stocks, but the news is likely to have a positive impact on stocks of companies that operate in the region or have exposure to Middle Eastern markets.",
+      "impact": "The positive sentiment and rising hopes for a Middle Eastern deal could lead to a short-term increase in stock prices of companies with exposure to the region. This could be driven by improved sentiment and increased investor confidence. In the medium term, a successful deal could lead to increased economic growth and stability in the region, which could have a positive impact on the earnings outlook of companies operating in the region. This could lead to a re-rating of these stocks as investors become more optimistic about their future prospects.",
+      "risks": [
+        "geopolitical risks",
+        "deal collapse risk",
+        "implementation risk"
+      ]
+    }
+  },
+  {
+    "id": "8292354",
+    "headline": "Trump says Iran faces 'decapitation' if it doesn't strike deal - Reuters",
+    "summary": "Trump says Iran faces 'decapitation' if it doesn't strike deal  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbWpzQ3dqaWdURjZva2hpRmpXbFNWNWFsQnlRTDF5YlpCTlBBVGxEYWZYVEhLMl84aHdvdzBhUUhxeVBqWWVHWTR5dEpleS1XY0wwR0V4N1JaMkNOaUdvWGgwWHZ0d2hubUVNU2MxMUY5dnVaS05fTlhja0JEWGp3SEdMRmswbEVIUmY1clZWdEExNDNQTFpVelhla3o0alFQS2c?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1785786541,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785784251,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "US President Trump has threatened Iran with 'decapitation' if it doesn't strike a deal, escalating tensions between the two nations. This statement comes amid ongoing negotiations between the US and Iran over the latter's nuclear program. The threat of military action and economic sanctions against Iran could lead to a deterioration in the country's economic situation, potentially affecting oil prices and global markets. The situation is complex and involves geopolitical tensions, making it challenging to predict the outcome.",
+      "impact": "The threat of military action and economic sanctions against Iran could lead to a short-term increase in oil prices, benefiting oil producers such as ExxonMobil (XOM) and Chevron (CVX). However, the medium-term impact could be bearish for the oil industry as a whole, as a prolonged conflict could lead to a decline in oil demand and a decrease in prices. The situation also increases the risk of a global economic downturn, which could negatively impact companies with significant exposure to international trade, such as FedEx (FDX) and UPS (UPS).",
+      "risks": []
+    }
+  },
+  {
     "id": "8292558",
     "headline": "Trump sours on Pirro over Reflecting Pool case, won't say her job is safe",
     "summary": "President Donald Trump said Jeanine Pirro, the U.S. attorney for the District of Columbia, \"choked\" and \"folded like an umbrella\" in the Reflecting Pool case.",
@@ -43,48 +108,6 @@
         "Potential delays in the certification of the 737 Max 10",
         "Uncertainty around the impact of lower oil prices on airline profitability"
       ]
-    }
-  },
-  {
-    "id": "8291500",
-    "headline": "Wall Street rallies to kick off August on Iran talks optimism - Reuters",
-    "summary": "Wall Street rallies to kick off August on Iran talks optimism  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTC1HdWxXY3dmcFlCNm9FZ3N5VnVhSWg0ZHV4a1RRdUdlUVM5QUhNYUlueDN2akloUFFEUWRIWXNHeFk1VEFHMDhBRTV1XzY5TnBxUXlVQk96NkFMSnNuTURuTzhCOVRBUkVVT2p1VjBOZFBZdk4zM01WQlFDY1ZZTGhqR2NaeXNrVWN0Ym5aQ1VENmZ5aGRKRWRoMHlNRTVxMWxVSFVrOA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1785782240,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1785771155,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The article reports that Wall Street started the month strong due to rising hopes for a Middle Eastern deal. This optimism is driven by expectations of increased economic cooperation and trade between countries in the region. The deal is expected to boost economic growth and stability in the region, which could have a positive impact on global markets. The article does not mention any specific stocks, but the news is likely to have a positive impact on stocks of companies that operate in the region or have exposure to Middle Eastern markets.",
-      "impact": "The positive sentiment and rising hopes for a Middle Eastern deal could lead to a short-term increase in stock prices of companies with exposure to the region. This could be driven by improved sentiment and increased investor confidence. In the medium term, a successful deal could lead to increased economic growth and stability in the region, which could have a positive impact on the earnings outlook of companies operating in the region. This could lead to a re-rating of these stocks as investors become more optimistic about their future prospects.",
-      "risks": [
-        "geopolitical risks",
-        "deal collapse risk",
-        "implementation risk"
-      ]
-    }
-  },
-  {
-    "id": "8292354",
-    "headline": "Trump says Iran faces 'decapitation' if it doesn't strike deal - Reuters",
-    "summary": "Trump says Iran faces 'decapitation' if it doesn't strike deal  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbWpzQ3dqaWdURjZva2hpRmpXbFNWNWFsQnlRTDF5YlpCTlBBVGxEYWZYVEhLMl84aHdvdzBhUUhxeVBqWWVHWTR5dEpleS1XY0wwR0V4N1JaMkNOaUdvWGgwWHZ0d2hubUVNU2MxMUY5dnVaS05fTlhja0JEWGp3SEdMRmswbEVIUmY1clZWdEExNDNQTFpVelhla3o0alFQS2c?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1785782036,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1785784251,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "US President Trump has threatened Iran with 'decapitation' if it doesn't strike a deal, escalating tensions between the two nations. This statement comes amid ongoing negotiations between the US and Iran over the latter's nuclear program. The threat of military action and economic sanctions against Iran could lead to a deterioration in the country's economic situation, potentially affecting oil prices and global markets. The situation is complex and involves geopolitical tensions, making it challenging to predict the outcome.",
-      "impact": "The threat of military action and economic sanctions against Iran could lead to a short-term increase in oil prices, benefiting oil producers such as ExxonMobil (XOM) and Chevron (CVX). However, the medium-term impact could be bearish for the oil industry as a whole, as a prolonged conflict could lead to a decline in oil demand and a decrease in prices. The situation also increases the risk of a global economic downturn, which could negatively impact companies with significant exposure to international trade, such as FedEx (FDX) and UPS (UPS).",
-      "risks": []
     }
   },
   {
@@ -401,6 +424,30 @@
     }
   },
   {
+    "id": "8292883",
+    "headline": "Factories faced weaker demand, higher costs in July as Iran war grinds on - Reuters",
+    "summary": "Factories faced weaker demand, higher costs in July as Iran war grinds on  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQTNZM3pLQ2FfRnJkQWNoNHN0N1dkTmY1cHN3NjNTbUtVREwzUFVhX1ZXNV9VQXphRG5DWTh3eVRHV0ZzdjQ5a0RaSVEzUkdxbUVSMHBVM2w5dzRmWnYtLWRPYmZtcmJLTEw1V0U5RWJuaDhGVmNfaC1VMXlaM0NJU19ZQy1halJsWEM0YzctWVF4UHhuSmZIQlgyeDBtRjVGTDBBX05VU2JfazZiQ3p1U1hTSkJJeDZ2NlpTVGh5NnY4RnVa?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1785755283,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785793863,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Iran's ongoing war has led to weaker demand and higher costs for factories in July. The conflict has disrupted global supply chains and increased costs for raw materials and transportation. This has a significant impact on companies that rely on international trade, particularly those in the manufacturing and logistics sectors. The weaker demand and higher costs are likely to affect the bottom line of these companies, leading to a potential decline in earnings. The situation is likely to persist in the short term as the conflict continues.",
+      "impact": "The potential impact on related stocks is bearish, particularly for companies with significant exposure to international trade and manufacturing. We expect a short-term decline in earnings and a potential decrease in stock prices. In the medium term, the ongoing conflict could lead to a re-evaluation of the global supply chain and potentially drive companies to diversify their suppliers and reduce their reliance on international trade. This could lead to a medium-term increase in costs and a decrease in profitability for companies that fail to adapt.",
+      "risks": [
+        "decline in earnings risk",
+        "decrease in stock prices risk",
+        "supply chain disruption risk",
+        "cost inflation risk"
+      ]
+    }
+  },
+  {
     "id": "8290476",
     "headline": "How Iran is widening its pressure campaign to force US concessions - Reuters",
     "summary": "How Iran is widening its pressure campaign to force US concessions  Reuters",
@@ -674,13 +721,26 @@
   },
   {
     "id": "8289854",
-    "headline": "Iran says no talks are under way with United States after Trump calls off attacks - Reuters",
-    "summary": "Iran says no talks are under way with United States after Trump calls off attacks  Reuters",
+    "headline": "Trump says talks with Iran being held; Tehran denies any planned - Reuters",
+    "summary": "Trump says talks with Iran being held; Tehran denies any planned  Reuters",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdzJzZHNCZzdLcHhDVWdCSEpLMEpVckJUQXFxcjhrcEdHWmlWQ183T3g0dUtwWldQLTVfQ0FCbGRaXzV3Y2tnS0laLS1LeU1KcGJKRVhvX2xyV1I1Q0cxSDF0dWJ6ZWpaOFZJTWZac045VWduTklfeUl2QUhKcXZtbE9EY1MtR0p0MUNZOXEtbEpFejVqeXFQaHRRcVFBbkNhUU41eGM3ZldtVFg3U09UY205bjRlUFU?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1785712980
+    "publishedAt": 1785712980,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785793910,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "US President Trump announced that talks with Iran are being held, contradicting previous reports that the US was not planning to engage in diplomatic talks with the country. Tehran has denied any planned talks, citing no official communication from the US. This development is a reversal of the previous stance, and its implications are unclear. The news does not provide any specific details about the content or outcome of the talks. The situation remains uncertain, and the lack of clarity may impact investor sentiment in the short term. This news does not have a direct impact on the business fundamentals of any specific industry or company.",
+      "impact": "The news may lead to increased uncertainty in the market, potentially impacting investor sentiment and liquidity in the short term. In the medium term, the outcome of the talks could influence the global oil market and geopolitical tensions, which may impact the energy sector. However, the lack of clarity and conflicting reports make it difficult to assess the potential impact on related stocks.",
+      "risks": [
+        "geopolitical risk",
+        "uncertainty risk",
+        "market volatility risk"
+      ]
+    }
   },
   {
     "id": "8290272",
@@ -690,7 +750,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1785711900
+    "publishedAt": 1785711900,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785793956,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The UK economy is at risk of recession if the Strait of Hormuz remains closed, according to a forecaster. The Strait of Hormuz is a critical waterway for oil exports, and a prolonged closure could disrupt global oil supplies and lead to higher prices. This, in turn, could negatively impact the UK economy, which is heavily reliant on oil imports. The UK's economic growth has already been sluggish, and a recession would likely exacerbate the situation.",
+      "impact": "The potential closure of the Strait of Hormuz could have a significant impact on oil majors such as BP and Royal Dutch Shell, which could lead to a decline in their earnings and stock prices. The UK's oil importers, such as refineries and distributors, may also be affected, potentially leading to a decrease in their stock prices. In the short term, oil prices are likely to surge, which could have a negative impact on the UK's economic growth and consumer spending.",
+      "risks": [
+        "Oil price volatility risk",
+        "Global economic slowdown risk",
+        "UK economic recession risk"
+      ]
+    }
   },
   {
     "id": "8289804",
@@ -723,7 +796,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1785698225
+    "publishedAt": 1785698225,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785794001,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The crew of an Iranian ship hit in a Ukrainian attack has returned home, according to a news agency report. The incident occurred in a region of ongoing conflict between Ukraine and Russia. The news does not directly relate to any specific company or industry, but it may have broader implications for global trade and geopolitics. The incident highlights the ongoing tensions in the region and the potential risks to global shipping and trade. The crew's safe return is a positive development, but the underlying conflict remains a concern.",
+      "impact": "The news is unlikely to have a direct impact on most stocks, but it may contribute to a broader sense of uncertainty and risk in the market. Investors may become more cautious in their investment decisions due to the ongoing tensions in the region, potentially leading to a short-term decrease in stock prices. However, the medium-term impact is unclear and may depend on how the conflict evolves and its effects on global trade and geopolitics.",
+      "risks": [
+        "geopolitical risk",
+        "global trade risk",
+        "shipping disruption risk"
+      ]
+    }
   },
   {
     "id": "8289787",
@@ -757,16 +843,6 @@
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
     "publishedAt": 1785683280
-  },
-  {
-    "id": "8289859",
-    "headline": "Trump says US will hold off on fresh Iran attack in hope of quick deal - Reuters",
-    "summary": "Trump says US will hold off on fresh Iran attack in hope of quick deal  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQnFCZlNtaWNsWjNfQzZYSUltNnlianRRMlRsUmVqWFNEWlEwWERhVmp5dVdSazcwNmo4bTNzQjNwcW1rS1pYSFRzUXZvUkF5dEFRYzY4T3Q4UUF0ZVBFLXlxVzA5YnRXZTliVWN0M2ZlcV9WVEw4ZjZqblVxOFJ6N2JmX1FMSk5HUXdLWWpOM2l1SWI3b0E2NHB5UU5rLUFRbjRXUEZ6ajZ1VUt1N0JIdURWT1VNbkVHX2UxUVU1b1lFTzY4aFNaOEJ5TTJJdw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1785683064
   },
   {
     "id": "8289786",
@@ -887,6 +963,16 @@
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
     "publishedAt": 1785628200
+  },
+  {
+    "id": "8289859",
+    "headline": "Trump says US will hold off on fresh Iran attack in hope of quick deal - Reuters",
+    "summary": "Trump says US will hold off on fresh Iran attack in hope of quick deal  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQnFCZlNtaWNsWjNfQzZYSUltNnlianRRMlRsUmVqWFNEWlEwWERhVmp5dVdSazcwNmo4bTNzQjNwcW1rS1pYSFRzUXZvUkF5dEFRYzY4T3Q4UUF0ZVBFLXlxVzA5YnRXZTliVWN0M2ZlcV9WVEw4ZjZqblVxOFJ6N2JmX1FMSk5HUXdLWWpOM2l1SWI3b0E2NHB5UU5rLUFRbjRXUEZ6ajZ1VUt1N0JIdURWT1VNbkVHX2UxUVU1b1lFTzY4aFNaOEJ5TTJJdw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1785623580
   },
   {
     "id": "8289874",
@@ -22258,52 +22344,6 @@
       "summary": "Diehl Defence, a German defence company, has announced a new version of its IRIS-T system, a surface-to-air missile system. The new version is expected to offer improved capabilities, potentially reducing the need for Patriot missiles. The IRIS-T system is a key product for Diehl Defence, and this development could lead to increased demand and revenue for the company. The news is positive for Diehl Defence, as it could improve its competitive position in the defence industry.",
       "impact": "This news is likely to have a positive impact on Diehl Defence's stock price in the short-term, as investors react to the potential for increased demand and revenue. The medium-term impact could be significant, as the new IRIS-T system could lead to increased market share for Diehl Defence and potentially reduce the need for Patriot missiles, which could benefit companies that produce Patriot missiles, such as Raytheon Technologies and Lockheed Martin. However, the impact on these companies is uncertain and may depend on various factors, including the adoption rate of the new IRIS-T system and the competitive landscape of the defence industry.",
       "risks": []
-    }
-  },
-  {
-    "id": "8181523",
-    "headline": "Canada wants more backers for global defence bank, foreign minister says - Reuters",
-    "summary": "Canada wants more backers for global defence bank, foreign minister says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVnpJNlhMUERJMWZPcEEzN0hyWnF5TnJ2ZFlJQ1k1QjFvejNaYTFUb2RvbUlOOEVoQXRGdTB1MEljeFZpdF9hd01hbk45b05JQVo4UkpCNW05SHQxc0UyR05SbEpHV1FPVEV6OFZNTWRHMEt1RHgyc3k2dzFnMXl5eHd2TG9NYzhDOVZtZlBLRkY1VExVMUFWY2xHVGM3UlVCcFhVQ1BrMkk1SWxzOXc?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1783428455,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1783732262,
-      "sentiment": "bullish",
-      "confidence": 0.7,
-      "summary": "Canada's foreign minister announced that the country wants more backers for a proposed global defence bank. This development suggests that Canada is serious about pursuing the creation of a global defence bank, which could have significant implications for the country's defence industry. The bank would provide financing for defence projects and could attract foreign investment. This move is part of Canada's efforts to increase its influence in the global defence sector and promote its defence industry. The creation of a global defence bank would require cooperation from other countries and international organizations.",
-      "impact": "The potential creation of a global defence bank could have a positive impact on Canadian defence stocks, such as CAE Inc. (CAE.TO) and L3 Technologies Inc. (LLL.N), which could benefit from increased government spending on defence projects. Additionally, the bank could lead to increased foreign investment in the Canadian defence industry, which could drive growth and improve valuations for defence stocks. However, the success of the bank is uncertain and would depend on cooperation from other countries and international organizations.",
-      "risks": [
-        "regulatory approval risk",
-        "cooperation risk with other countries and international organizations",
-        "uncertainty around the bank's funding and operational structure"
-      ]
-    }
-  },
-  {
-    "id": "8181418",
-    "headline": "Italy arrests two over alleged spying for Russia - Reuters",
-    "summary": "Italy arrests two over alleged spying for Russia  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR0J6c0JTOHU1SllRbHU3OHFla0xQclBIZXNvRmxjSHV2RkRWYVEzeUxlME1SZWlaQzlReXhpTS12VUZVYXEyT0d1aVBqSDd6VC1mMUdSeHE4YllReWZFaVNoazBKbGVTUUZhY2wxaTU5VlVqUHZqWGtBSDJwNFVQWkVGdU9rMEtTeS1fSGpyaw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1783426660,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1783732307,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Italian authorities have arrested two individuals on suspicion of spying for Russia. The arrests are related to an ongoing investigation into alleged Russian espionage activities in Italy. The incident is believed to have occurred in the context of broader tensions between Russia and the West. The news does not directly impact any specific companies or industries, but it may contribute to a more tense geopolitical environment, which could have implications for various sectors.",
-      "impact": "The news is unlikely to have a direct impact on the earnings outlook or valuation of most companies. However, it may contribute to a more cautious sentiment in the market, potentially leading to increased volatility and decreased liquidity in the short term. This could have a negative impact on companies with high exposure to European markets or those with significant operations in Italy.",
-      "risks": [
-        "geopolitical risk",
-        "market volatility risk",
-        "sentiment-driven market risk"
-      ]
     }
   }
 ]
