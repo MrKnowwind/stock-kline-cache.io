@@ -1,5 +1,70 @@
 [
   {
+    "id": "8302095",
+    "headline": "SpaceX gives Nvidia a much-needed boost. Plus, Cramer on an 'undervalued' stock",
+    "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+    "url": "https://www.cnbc.com/2026/08/05/spacex-gives-nvidia-a-much-needed-boost-cramers-undervalued-stock-.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108341092-1785248242541-gettyimages-2285710732-JAPAN_NVIDIA.jpeg?v=1785248266&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1785945051,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785949892,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Nvidia's shares rose nearly 4% after SpaceX CEO Elon Musk announced that the company will build its artificial intelligence infrastructure exclusively on Nvidia's Vera Rubin architecture. This endorsement reinforces Nvidia's leadership in AI infrastructure, even as some large cloud providers invest in their own custom chips. Jim Cramer, host of the CNBC Investing Club, is bullish on Nvidia and SpaceX, citing Elon Musk's vision for deploying AI data centers at scale as a compelling growth story. Cramer also highlighted Honeywell Aerospace as an undervalued stock, citing its quality aerospace franchise and recent spin-off.",
+      "impact": "The news is likely to have a positive impact on Nvidia's shares in the short-term, driven by the endorsement from SpaceX and the growth potential of AI infrastructure. In the medium-term, Nvidia's leadership in AI infrastructure and its partnership with SpaceX could drive earnings growth and improve the company's valuation. The news may also have a positive impact on Honeywell Aerospace's shares, as Cramer's endorsement could attract new investors and improve sentiment towards the stock.",
+      "risks": [
+        "Regulatory risks associated with AI infrastructure development",
+        "Dependence on a single customer (SpaceX) for a significant portion of Nvidia's revenue",
+        "Potential disruption from large cloud providers investing in custom chips"
+      ]
+    }
+  },
+  {
+    "id": "8301982",
+    "headline": "We're pocketing gains in two tech stocks that are hitting new record highs",
+    "summary": "Even though the fundamentals look more promising, we want to be disciplined about rallies in the stocks and take profits along the way.",
+    "url": "https://www.cnbc.com/2026/08/05/were-pocketing-gains-in-2-stocks-that-are-hitting-new-record-highs.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108344591-17858573062026-08-04t144617z_1985709503_rc2prma7046i_rtrmadp_0_usa-stocks.jpeg?v=1785857332&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1785943680,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785949937,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "Jim Cramer's Charitable Trust is selling shares of CrowdStrike (CRWD) and Palo Alto Networks (PANW) after realizing significant gains. The stocks have hit new record highs, with CRWD up 82% and PANW almost doubling in value this year. The trust is taking profits, citing a desire to be disciplined about rallies in the stocks. Both companies are expected to report strong earnings in the coming weeks, with CrowdStrike reporting on August 26 and Palo Alto Networks on September 1.",
+      "impact": "The sale of CRWD and PANW shares may lead to a short-term decline in stock prices, as the trust's reduced holdings could impact market sentiment and liquidity. However, the strong earnings outlook and growing demand for cybersecurity services may support medium-term growth for both stocks. The trust's decision to take profits suggests that the market is pricing in significant gains, which could be a sign of a near-term top for the stocks.",
+      "risks": []
+    }
+  },
+  {
+    "id": "8301661",
+    "headline": "Israeli military strikes southern Lebanon after evacuation warning to village - Reuters",
+    "summary": "Israeli military strikes southern Lebanon after evacuation warning to village  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSUNJWWdZUW9teWxlNDE2eWVZWTFmd0JQdmwwYUNvSEpES1BhMjBJNF9LczlwUTZkaTZjMm5MNFhEUFN1RnpZclZHamljVnlGcW5GdkFMclYyUjQ4dEpHRWwtNjJLdjNoNWx5YlU3Q1FIUmhoV1hxMktXNnZXanZLLW9YS1JjRGp6ZkNMbTNGOVlETVRSUGREMnZ5dDVhUjYyWlB1RzBwenhtUDg3dDdIYVpoTXBlN2dFWTkyVnJn?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1785942692,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785942247,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "The Israeli military has issued an evacuation warning to a village in southern Lebanon, indicating a heightened military presence in the region. This development is likely a response to escalating tensions between Israel and Lebanon. The situation has the potential to disrupt regional stability and may lead to increased military spending in the region. This, in turn, could impact defense contractors and companies with exposure to the region. The Israeli military's actions may also increase the risk of conflict, which could have far-reaching consequences for the global economy.",
+      "impact": "The potential for increased military spending in the region may positively impact defense contractors such as Elbit Systems Ltd. (ESLT) and Israel Aerospace Industries Ltd. (ARSPF), which may see an increase in demand for their products and services. However, the heightened tensions and risk of conflict may also lead to a decline in investor sentiment and a decrease in stock prices for companies with exposure to the region. In the short-term, the news may lead to increased volatility in the markets, making it a challenging time for traders. The medium-term impact will depend on the outcome of the situation and the response of the global economy.",
+      "risks": [
+        "Increased conflict risk",
+        "Regional instability",
+        "Decreased investor sentiment"
+      ]
+    }
+  },
+  {
     "id": "8301763",
     "headline": "Disney weighs free ad-supported streaming, says it has sold out Super Bowl ad spots",
     "summary": "Disney is considering a free streaming product as advertising takes a bigger role in making streaming profitable.",
@@ -19,6 +84,75 @@
         "increased competition in the ad-supported streaming market",
         "pricing pressure on ad rates",
         "uncertainty around consumer adoption of free, ad-supported streaming"
+      ]
+    }
+  },
+  {
+    "id": "8301776",
+    "headline": "US removes sanctions from three IRGC-linked entities, Treasury website shows - Reuters",
+    "summary": "US removes sanctions from three IRGC-linked entities, Treasury website shows  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdGd5eGNIbFJTUDl0MlJHQ01RR3F5NVhNaVJuTVpvZ0FJMHlrNnFhQ1hsOUFyNWI0c1cyX0RwbTRwTHNrTE1yQ0NzUmlmMXBPYkM1Q1Vya3hOOFRQXzVHOEhHemQtd1dQcXlrcFVZRUh3T0RoWkRiam9jUWxhNld2MjRPMjNwd3hhaWVlZ2IwN2UzaS05NG04dHVCM0FidUxtQjBNcy1GWThaRE9RT1VmOGFzT2g1MEhiUVludGVGaWhCUQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1785939825,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785949985,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The US Treasury Department has removed sanctions from three entities linked to the Islamic Revolutionary Guard Corps (IRGC). This decision suggests a shift in US foreign policy, potentially easing tensions between the US and Iran. The IRGC is a powerful military force in Iran and has been subject to various US sanctions. The removal of sanctions may have implications for US-Iran relations and potentially affect the global oil market. However, the impact on US companies operating in the region or with ties to the IRGC is unclear.",
+      "impact": "The removal of sanctions may have a positive impact on the global oil market, potentially leading to increased oil production and lower prices. However, the short-term impact on US companies operating in the region or with ties to the IRGC is uncertain. Medium-term, this development may lead to increased investment in the region, benefiting companies with exposure to Iran's economy. The easing of tensions may also improve the overall sentiment towards the US dollar, benefiting US dollar-denominated assets.",
+      "risks": [
+        "Potential escalation of US-Iran tensions",
+        "Uncertainty around the impact on US companies operating in the region",
+        "Risks to global oil prices and supply"
+      ]
+    }
+  },
+  {
+    "id": "8302117",
+    "headline": "Gulf oil exports steady in July, still 40% below pre-war mark - Reuters",
+    "summary": "Gulf oil exports steady in July, still 40% below pre-war mark  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU1c5cDdsaENzVWRTM3JoaUFicGFuczBDdm5GY2tkLWJhN0pSVk81MTlYMm1CQlNmQ1c5ZHZJUUFnLUhFd29CZmRjaEhkR0k3aEZRQW1JR3BKbVZiLVQ5UFJrSFZCTEFIMHpSakZ3TW5IZDctci1sT1piR2VzcGhNU21fN3FDd3ZLaEJ3dFBXdjY2Wjd4aEtwblhlTHJETENxWG5lRDNlWEpCM2ZS?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1785939489,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785950031,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Gulf oil exports remained steady in July, but still lagged 40% behind pre-war levels. This development is a continuation of the trend observed in previous months. The steady exports are a positive sign for the oil industry, but the significant gap from pre-war levels indicates a lasting impact of the war on global oil production. The article does not provide specific details on the reasons behind the steady exports, but it is likely related to ongoing supply chain disruptions and production capacity constraints.",
+      "impact": "The steady oil exports may have a neutral to slightly positive impact on oil-related stocks in the short term, as it suggests that the industry is slowly recovering from the war-related disruptions. However, the 40% gap from pre-war levels may lead to a prolonged period of lower earnings for oil producers, which could weigh on their valuations. The news is unlikely to have a significant impact on the overall market sentiment, but it may influence the valuation of oil-related stocks in the medium term.",
+      "risks": [
+        "prolonged supply chain disruptions risk",
+        "production capacity constraints risk",
+        "lower earnings risk for oil producers"
+      ]
+    }
+  },
+  {
+    "id": "8302220",
+    "headline": "World faces fresh food price surge, FAO warns - Reuters",
+    "summary": "World faces fresh food price surge, FAO warns  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbHJ6aHpOeXBGeVhjdjBkcVVfdF9wSHYzRlpkWDh3eEZENXJPdlU5amwtN2k1OE80VXA2TlBPWGh3VzVnWG5vLTVjanROSjI1Q3hJS2lEQUR5WEFlSy0yM05XZFRLWDJTUkJzbkZnVFdRTHgxbVhMZVQ4VWZ1empGcUY3cDRyS21GUWU2ZkFkaTZRajVkUm9xdGExQWZXeVU?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1785936805,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785950080,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The Food and Agriculture Organization (FAO) has warned of a fresh surge in global food prices due to supply chain disruptions, weather-related events, and increased demand. This comes as the world is still recovering from the COVID-19 pandemic and ongoing conflicts in key agricultural regions. The FAO's warning is based on data showing a 10% increase in global food prices in the past year, with prices for staples like wheat, corn, and soybeans reaching multi-year highs. The organization predicts that the price surge will continue in the coming months, affecting both consumers and producers. The FAO's warning highlights the vulnerability of the global food system to external shocks and the need for sustainable and resilient agricultural practices.",
+      "impact": "The potential impact on related stocks could be significant, with a short-term increase in food prices leading to higher production costs for companies in the agricultural and food processing industries. This could result in lower profit margins and earnings for these companies in the near term. Medium-term, the price surge could lead to increased demand for companies that provide sustainable and resilient agricultural solutions, such as precision agriculture technology and vertical farming. This could drive growth and valuation for these companies.",
+      "risks": [
+        "Supply chain disruptions risk",
+        "Weather-related events risk",
+        "Increased demand risk for companies with high production costs"
       ]
     }
   },
@@ -69,27 +203,24 @@
     }
   },
   {
-    "id": "8301661",
-    "headline": "Israeli military issues evacuation warning to village in southern Lebanon - reuters.com",
-    "summary": "Israeli military issues evacuation warning to village in southern Lebanon  reuters.com",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSUNJWWdZUW9teWxlNDE2eWVZWTFmd0JQdmwwYUNvSEpES1BhMjBJNF9LczlwUTZkaTZjMm5MNFhEUFN1RnpZclZHamljVnlGcW5GdkFMclYyUjQ4dEpHRWwtNjJLdjNoNWx5YlU3Q1FIUmhoV1hxMktXNnZXanZLLW9YS1JjRGp6ZkNMbTNGOVlETVRSUGREMnZ5dDVhUjYyWlB1RzBwenhtUDg3dDdIYVpoTXBlN2dFWTkyVnJn?oc=5",
+    "id": "8301775",
+    "headline": "Iran state oil company's bank accounts frozen over debt, Fars news agency reports - Reuters",
+    "summary": "Iran state oil company's bank accounts frozen over debt, Fars news agency reports  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONE82WTRtSFZNUEJvUG1VQzB3MkxHNVl4RVNJSFgzUUM2dFRsb0xONXp3V0M3LVpGYURQOFc3T01UeUM2Zl9oNFJydzBscXNBMVo3MExTa1ZyZHJlYXYzbTFMeHhXQlktT09pd3BhX1pTSThfMEFiaEJ6Y2NTZGc1SEkwSkJueHpGc0FxN1RYaHhDZWJ0NDI1eXViN3g3N0xmYlA2aGFhZ082dnhqRTJLcURWbDI2aDlLeDVwUURvZ0pKeWFPenJRNjZmTQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1785934768,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1785942247,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "The Israeli military has issued an evacuation warning to a village in southern Lebanon, indicating a heightened military presence in the region. This development is likely a response to escalating tensions between Israel and Lebanon. The situation has the potential to disrupt regional stability and may lead to increased military spending in the region. This, in turn, could impact defense contractors and companies with exposure to the region. The Israeli military's actions may also increase the risk of conflict, which could have far-reaching consequences for the global economy.",
-      "impact": "The potential for increased military spending in the region may positively impact defense contractors such as Elbit Systems Ltd. (ESLT) and Israel Aerospace Industries Ltd. (ARSPF), which may see an increase in demand for their products and services. However, the heightened tensions and risk of conflict may also lead to a decline in investor sentiment and a decrease in stock prices for companies with exposure to the region. In the short-term, the news may lead to increased volatility in the markets, making it a challenging time for traders. The medium-term impact will depend on the outcome of the situation and the response of the global economy.",
-      "risks": [
-        "Increased conflict risk",
-        "Regional instability",
-        "Decreased investor sentiment"
-      ]
-    }
+    "publishedAt": 1785935566
+  },
+  {
+    "id": "8302116",
+    "headline": "Phillips 66 beats quarterly estimates as Iran war boosts US refining margins - Reuters",
+    "summary": "Phillips 66 beats quarterly estimates as Iran war boosts US refining margins  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdFdjb1Q5RzUtcnRaUmV5U2FuN0dBcUZwT3RMa2pqVVVocG8zZmRPV2E1NjhlRTR6TXBsN1NHQ21EUTJvQ0JvV2NtbXhWbHVjMUN3NHFvTzlVR0IxUmxHaTFUbEpNX0xJSFFncjE4UllwaTJ2bm9UVTdHd00xOVBuTmZJVXRCekZPclluTDhFQUF2S3MwcG5rR3VrOE5TdFBHd3piYTRjTW9yVldvZGFVV3lfa1pLNlIzTXloYQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1785933344
   },
   {
     "id": "8301319",
@@ -126,8 +257,8 @@
   },
   {
     "id": "8301103",
-    "headline": "UN rights chief says Iran executed at least 56 people since March - reuters.com",
-    "summary": "UN rights chief says Iran executed at least 56 people since March  reuters.com",
+    "headline": "UN rights chief says Iran executed at least 56 people since March - Reuters",
+    "summary": "UN rights chief says Iran executed at least 56 people since March  Reuters",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeW9QZjd0R3djcFhWMjBZSmhadjhVekQyU0JzYW03NWdpN3VWMVZjelZuX0Rqa0RlbkZBRXF2YkFGcFBBZk93X3U4Y01neXEybmh3QlRrcnp2WEQ2LV9Ldk9DbTlLNThQTUlEOXNrYlZCdkVzeGpGcEdvYmFhYjBEM2YxaFVPY0FWSS1TblRuMFM1TDF3MmlJRFBtWm9oLUhzY0dtQlZmblpRTEpscTdxenEzclJSbG8?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -148,9 +279,19 @@
     }
   },
   {
+    "id": "8302120",
+    "headline": "Trump to promote tax cuts in Nevada visit as Republicans battle for House seats - Reuters",
+    "summary": "Trump to promote tax cuts in Nevada visit as Republicans battle for House seats  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM2twUTlsWms4ZlBCb19sRFp4ZFJ1SGRHY25RMFpUcHA0LXFLeHpoWjlzVzIxWjdmcG5mamNQMExmTXhjaTlQVWo3TWx0Ti1FcG9FWS1MbU84RThyT0ZPVjRMQTQ2UGZlMkJnNDZ6aXoxY1VPU3JRbVlYQ0hWUkdxdWx6SzgzMEtXYXdwVmtqRHVELUY5WVhsUUkwcWdjSTc0MVhNSklhbFhnYU9aVFdRYQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1785925077
+  },
+  {
     "id": "8301660",
-    "headline": "Euro zone services revival drives activity in July but outlook clouded by Iran war - reuters.com",
-    "summary": "Euro zone services revival drives activity in July but outlook clouded by Iran war  reuters.com",
+    "headline": "Euro zone services revival drives activity in July but outlook clouded by Iran war - Reuters",
+    "summary": "Euro zone services revival drives activity in July but outlook clouded by Iran war  Reuters",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbUpBLVkzZ1FST0VMdzh1MmRUdFBYRXFpbmw0Y2swOUU2OGVBWnNYZzBZbGhIV19iYWp2ODVfQm1FTXBqaFRXU1MtRWI0R2VwVzZnNW1iV0hmbk8taEVaT3JNdU10ZmVTbGYzLXB2YW5QYUN2SEFWanNhZXN6YTViN0k1blh0SG9EeTdpaTZYNXlkSVZ3ZExTR2NyMnlfNnJheGFJZVRYOV9VdzRuYW1LbWZOdGhpdnBtYkIyellKTFlCQWpjc0JF?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -158,9 +299,19 @@
     "publishedAt": 1785920538
   },
   {
+    "id": "8302118",
+    "headline": "UK services sector returns to growth, optimism picks up, PMI shows - Reuters",
+    "summary": "UK services sector returns to growth, optimism picks up, PMI shows  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZnB5ZnUzZ2R3TjBjRVY2di1LUGdjMnI4N3FlQjlIemRuR1NNSnVkUWJhVXljUmkteTE1M2ZRVnNQMjg3dGM4dS1pRnlkczhicEVia0I5N3pLUkpiOHNmQnRJT1Nua1dqTEJzUEVRNjdQbk5LZC1nZHk3bzF0ZDBEUUpGZC1wRnlkV3dyUWxNcmptSm43aF9SRG1fa2Zlc1VhQUFjLXhGRTFNUQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1785920492
+  },
+  {
     "id": "8300320",
-    "headline": "Yemen's Houthis say they attacked Saudi oil tanker in Red Sea - reuters.com",
-    "summary": "Yemen's Houthis say they attacked Saudi oil tanker in Red Sea  reuters.com",
+    "headline": "Yemen's Houthis say they attacked Saudi oil tanker in Red Sea - Reuters",
+    "summary": "Yemen's Houthis say they attacked Saudi oil tanker in Red Sea  Reuters",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWEQwU2pxeTRYSXhNQWtrT3hmNFhmOUx6eVUzUUt4aVBtOEpub01Fa3U5S0ZOYXRmU2oyb0t4WEpRRXZ3VmwxWksyYkNRcF9GbFJvbEpkMGxWWVY5alo2NS1LdDFzMWVPdmYtV082T3JOaVpoYW5NTFNncUxHZndSdnUzMXdWWHNXQWQ3NXZXMy02MDloQ3dWTHJhWHBfS2pNVnZoUXBEcVZKQm1HZXl5Ug?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -182,8 +333,8 @@
   },
   {
     "id": "8299784",
-    "headline": "Proposed Hormuz deal would give Iran control of inbound traffic, sources say - reuters.com",
-    "summary": "Proposed Hormuz deal would give Iran control of inbound traffic, sources say  reuters.com",
+    "headline": "Proposed Hormuz deal would give Iran control of inbound traffic, sources say - Reuters",
+    "summary": "Proposed Hormuz deal would give Iran control of inbound traffic, sources say  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUFpfZEh3NVhNLURNVl9ETWp2ak5nZEx4d0JYQ19WZ3Z6bTl3V2wyUzVLQmFnTkJrZTZtVXd1cnp2dkdXUmh0d1FXUmhfbGQ1a3dKY1ZzQ0pXQTdUcS02X1llNkdFbzFLN0k2YXk2X2JEUTVCV1RBeGdUaFA2VGFzSW9LYlRDQm5senFDSzFVRkxHaXdSazRBWUlTT1pjY00yU1Qw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -205,8 +356,8 @@
   },
   {
     "id": "8300423",
-    "headline": "Trump says US held 'all-day negotiation' with Iran on Tuesday - reuters.com",
-    "summary": "Trump says US held 'all-day negotiation' with Iran on Tuesday  reuters.com",
+    "headline": "Trump says US held 'all-day negotiation' with Iran on Tuesday - Reuters",
+    "summary": "Trump says US held 'all-day negotiation' with Iran on Tuesday  Reuters",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdjBkc2xFczRwS1pfZ0VISDd3R0NGc0phaktLZVFaM21pZW1ncF91VF9YSHdHc3hob2Mxc25zRmJxYlYwZFI3QXkwVTBTS0dtT3dDY3V2Nnk1SWQ3ZnF1MmZyLWoteVNENlFKdkc1QkpmTklvc0RaX3EtTndVOFBsZG0tYmJxallWYXFnRmFLQmJfaWJkRWk3TEN1QVBCOVU?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -228,8 +379,8 @@
   },
   {
     "id": "8300211",
-    "headline": "China eases controls on fuel exports for a second month, sources say - reuters.com",
-    "summary": "China eases controls on fuel exports for a second month, sources say  reuters.com",
+    "headline": "China eases controls on fuel exports for a second month, sources say - Reuters",
+    "summary": "China eases controls on fuel exports for a second month, sources say  Reuters",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbHRMR3J2NzJaT2hKV1ZTem4wMWhSQVF4NnNNQ19WNXFLaUNVamQ5Slg4NjB6Y0ZpWkN0SWYxeFZrVnF5QXhGSXl6UnNyMXRFVXRQVUtsaURERFRDM25FaW9DQW9QRDZPdmpuMTNGdHVpSFNPcG1Da0VtMXNpVk1OVXVMVlVFS3RHekhiT19FelYwMFFGMVI5QnNzNkJUY0tQMWxMUk5RR0hIWDVyN293?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -274,8 +425,8 @@
   },
   {
     "id": "8300539",
-    "headline": "Stocks get AI-boost; investors on tenterhooks over Mideast peace talks - Reuters",
-    "summary": "Stocks get AI-boost; investors on tenterhooks over Mideast peace talks  Reuters",
+    "headline": "Stocks get AI boost; investors on tenterhooks over Mideast peace talks - Reuters",
+    "summary": "Stocks get AI boost; investors on tenterhooks over Mideast peace talks  Reuters",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSjNOaFJhdXRJblJMNldJM09LeFJDOXNqY2Y0R3dhcGt3S1ZyNm1peFdvVlBfN2RrNmtCYVhQa3pzenI5VlBld2c2Y0JPLTAzNWRhTWxUYWxjNEpvWGxIYlR3M2NLdGg5RnpRSmtYVVVwamJfYTZ5S1JaQ3J5QjFEQ3B0WQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -297,8 +448,8 @@
   },
   {
     "id": "8300319",
-    "headline": "Yen drifts after intervention whirlwind; Iran optimism dents dollar - reuters.com",
-    "summary": "Yen drifts after intervention whirlwind; Iran optimism dents dollar  reuters.com",
+    "headline": "Yen drifts after intervention whirlwind; Iran optimism dents dollar - Reuters",
+    "summary": "Yen drifts after intervention whirlwind; Iran optimism dents dollar  Reuters",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRFFDTkhtVFJsMkg2YzlLQzd2c0c0aXhwZHl2M3lFZE1vdnNka1ZnbFNwalhDZ0x5Y3ZZQWZ5ZUw4bGwwdzVzU1QxUXNpT3FEMzJhTVVJTEhqTG5KTDZqS2l5Qmc0dUZ1THk5YTFpckwxaE1weFNYUFRtd0xFd2JVc2RvQ1FTQ3FjUkk5REEtTk50cWdwdzVPb3p6Q1lkOVNYTEdaWmE1UkhicVlrY004TkpvOGJSWGxVMmR5bmZEcGpPX09ETWFV?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -320,8 +471,8 @@
   },
   {
     "id": "8299166",
-    "headline": "Oil prices rebound after Houthis say they attacked Saudi tanker - reuters.com",
-    "summary": "Oil prices rebound after Houthis say they attacked Saudi tanker  reuters.com",
+    "headline": "Oil prices ease on Hormuz reopening hopes, despite Houthi threats - Reuters",
+    "summary": "Oil prices ease on Hormuz reopening hopes, despite Houthi threats  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDd2cFJ5Z2dsbTliajVMY1o5eVQ3Q3djdGVaYXA2aVhJQUROSVk5NmVjSkUydkw0YUItOGI1VFl1Wl9uZVY2SWhZLVZZY2hFTTFyaEoxM0otRWQ0Vzk4bjdEV18yYkhQS05GUzQ5dHdsY0wwemg4cG53dnZkVmx0M1pMdzl2cDk2MDBlZlN3ZVY0RVMxU2JNcE5Ta2Nrd3l4OVpvTnlIY0hscHRpOUozRVpDUQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -339,8 +490,8 @@
   },
   {
     "id": "8299682",
-    "headline": "Gold scales one-month peak as US-Iran peace hopes ease inflation worries - reuters.com",
-    "summary": "Gold scales one-month peak as US-Iran peace hopes ease inflation worries  reuters.com",
+    "headline": "Gold scales one-month peak as US-Iran peace hopes ease inflation worries - Reuters",
+    "summary": "Gold scales one-month peak as US-Iran peace hopes ease inflation worries  Reuters",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSmlKVnBzQTlPclFHcWhMcVpJeXB0eVQ1ODYxMTk1bkRLbDVybnI4dXhqQ01HaDR1N1FULU03ZDhZWUlEMkFtV2Z3RmFTWHhpVDFlRi0wRG9ZSkFlWVFTUFhXUFVjN3A5Zm1FSnNUbHlwWHF4OEo0TkxvZVV2OEdJNS1ZdG9OQ3V4ME43NV9QeXpSSnVQUEdIb1Jn?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -359,6 +510,16 @@
         "uncertainty in global economic growth"
       ]
     }
+  },
+  {
+    "id": "8302119",
+    "headline": "SpaceX's first results post IPO beat expectations with boost from Starlink - as it happened - Reuters",
+    "summary": "SpaceX's first results post IPO beat expectations with boost from Starlink - as it happened  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONUdiR09vOE5vXzZ0LXYtUExrNzJrd3JKeGhHeWZHNXpTVWJXZDZtMnZwLXUzekVEU0FBWU1sQnZPYmVsblkzaVVlMUNrc05fVW55dWxoejJVMTVzVjF4elduNFhzOHRDWUZNbDhmeC1NTjl3Q0VEYXVVOUI5WDRMS0t1M1BhR2RRU3BiN2g4UnhEalBCa0NZTVZmbzBya0xwQ0lXeDA2a29qWmZYZmhpVHRVTVdCTHU1RFE?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1785884978
   },
   {
     "id": "8300101",
@@ -385,8 +546,8 @@
   },
   {
     "id": "8295495",
-    "headline": "Stock indexes register records after upbeat company forecasts; oil drops - reuters.com",
-    "summary": "Stock indexes register records after upbeat company forecasts; oil drops  reuters.com",
+    "headline": "Stock indexes register records after upbeat company forecasts; oil drops - Reuters",
+    "summary": "Stock indexes register records after upbeat company forecasts; oil drops  Reuters",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FbUhCcDNQSE1IQ3dnM055RTJNZ0N1WHYtTUswbUtjZmRTS3FwbEtKZkd5Ti1WT0JndWtUSEJJTktud19OQzRELW93em1SMFdjcnphTVBMQ1BPMzBJLTdEYmxMbnJ2bFB4NVN4ZVlKYjIyZUlFZGx3RUljSQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -404,8 +565,8 @@
   },
   {
     "id": "8298434",
-    "headline": "Dow, S&P 500 close at record on AI-linked earnings, Mideast deal hopes - reuters.com",
-    "summary": "Dow, S&P 500 close at record on AI-linked earnings, Mideast deal hopes  reuters.com",
+    "headline": "Dow, S&P 500 close at record on AI-linked earnings, Mideast deal hopes - Reuters",
+    "summary": "Dow, S&P 500 close at record on AI-linked earnings, Mideast deal hopes  Reuters",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMHk5N1NJZXlfQ196NTA1SjFaUUtUaDd0UXNDY2FsLWM2aE1VTElKc1oxaXFMbmd1M2kwcXVmaFBKbEo3TmFmY2lfRVFraDFVcTZpTTNfbGU2VU9iZnQ0Q2xBR0ZCVHFmRUktbVk0VTR1RVVYNzVxNEVUa3dJbmFQXzQ0SldqNzVoSXAtRnF3SDJ0M0UwNEhRLVhsUTd3Yk9jdnhTQUJ0WGdOUEdRTHJfeUpKZUw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -449,32 +610,32 @@
     }
   },
   {
-    "id": "8293926",
-    "headline": "Oil prices settle 5% lower after claims of progress in US-Iran talks - reuters.com",
-    "summary": "Oil prices settle 5% lower after claims of progress in US-Iran talks  reuters.com",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU0VaWUlWWUxJMXVaM1NiVS0yeWUtYWhpTlo4MTh0ZzZkZms3aFVLNVRfR1JISmxrY2d2VmM1UWFKTVFtSlEzYmt0N3ZuRUFLWXd5bzh5QkVXOVRxUVh3VHRnOWkzanJWb2tqUU13cURMRFR3TFphYkFzRVRsbnY5aEpDdTJLLVNLOXpwYzRNckVGQW9TcThhNHdKVlVTZ2Q4SkRraWR5TjlvbmN4VE1rLWViVFNTRUZU?oc=5",
+    "id": "8294343",
+    "headline": "Qatar says mediators make progress in efforts to end US-Iran war - Reuters",
+    "summary": "Qatar says mediators make progress in efforts to end US-Iran war  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaUY3M2pidURfcVlodzZaVEctbGNSYS1rNlJrR21pQm8yVm50U05QSmRlWURQWWh5UklWZUVMVmlRdzhmbVJrN05IdVNXVW83T3l1TUo0ZjJTMzNURzlOdmNMM2YxY2JwVHQtby1aTFVfZmFnSjRFT0hSaHlzeW50XzNPcUZROG13MUxxNVMwdGd3UkR2cTgyeURHNERQWlUxeFJYR1ln?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1785871635,
+    "publishedAt": 1785872133,
     "analysis": {
       "version": 2,
-      "generatedAt": 1785819055,
+      "generatedAt": 1785818956,
       "sentiment": "neutral",
       "confidence": 0.6,
-      "summary": "Oil prices ticked up after a selloff as talks to end the US-Iran conflict remain uncertain. The conflict has been a major driver of oil price volatility in recent weeks. The uncertainty surrounding the talks has led to increased risk aversion among investors, causing oil prices to fall. However, the potential for a resolution to the conflict could lead to a rebound in oil prices.",
-      "impact": "The news is likely to have a positive impact on oil-related stocks in the short-term, as a potential resolution to the conflict could lead to increased demand and higher oil prices. This could be particularly beneficial for companies with high exposure to the oil sector, such as oil majors and drilling companies. However, the uncertainty surrounding the talks also increases the risk of a prolonged conflict, which could lead to a decline in oil prices and a negative impact on these stocks.",
+      "summary": "US-Iran talks are uncertain due to a ship being struck in the Strait of Hormuz. The incident is a reminder of the ongoing tensions between the two countries. The Strait of Hormuz is a critical waterway for global oil trade, and any disruptions can impact oil prices and the energy sector. The incident is likely to increase tensions between the two nations, but its impact on the US-Iran talks is uncertain. The US and Iran have been engaged in a long-standing dispute over Iran's nuclear program and its regional influence.",
+      "impact": "The incident may lead to increased volatility in the oil market, potentially affecting energy stocks in the short term. This could impact companies with significant exposure to oil prices, such as ExxonMobil (XOM) and Chevron (CVX). However, the medium-term impact on the US-Iran talks and subsequent sanctions is uncertain, making it difficult to predict the long-term effects on the energy sector. The incident may also increase investor risk aversion, leading to a flight to safe-haven assets such as US Treasury bonds.",
       "risks": [
-        "Prolonged conflict risk",
-        "Uncertainty surrounding oil demand",
-        "Geopolitical risk"
+        "Oil price volatility risk",
+        "Increased risk of conflict between the US and Iran",
+        "Uncertainty around US-Iran talks and sanctions"
       ]
     }
   },
   {
     "id": "8297689",
-    "headline": "Projectile sinks Indian ship near Yemeni waters but all seafarers safe, Indian minister says - reuters.com",
-    "summary": "Projectile sinks Indian ship near Yemeni waters but all seafarers safe, Indian minister says  reuters.com",
+    "headline": "Projectile sinks Indian ship near Yemeni waters but all seafarers safe, Indian minister says - Reuters",
+    "summary": "Projectile sinks Indian ship near Yemeni waters but all seafarers safe, Indian minister says  Reuters",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNmtBb0gtUVhaWUFKQ2tlakdWSDhOREJnbHM3dVN6ZGRkbEF1Mnp0VXVFYzY0TXRZRDduZDVibW0yaVpkaDg0TjNpY1VCWFlrQnRQam0xN2ZWWG1vZWpZSUlzTU5CWG9rSVM5dDlGQXRFZzVFXzZCcXVsd2ZUUmJaTi0tUDhiSVp3T1M0bGdRcGZuWmgtV01NLW5OTVFCZlQ2VWdEX2dzRUptUFhxSlVXMEI4T1A3UQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -519,8 +680,8 @@
   },
   {
     "id": "8297379",
-    "headline": "Six years on, families of those killed in huge Lebanon port blast hope for justice at last - reuters.com",
-    "summary": "Six years on, families of those killed in huge Lebanon port blast hope for justice at last  reuters.com",
+    "headline": "Six years on, families of those killed in huge Lebanon port blast hope for justice at last - Reuters",
+    "summary": "Six years on, families of those killed in huge Lebanon port blast hope for justice at last  Reuters",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZTBUQWJhNTlGalR6X1BiS0JMLUpfRzRnMnoyQVB5cU1BcEVnc2k3cVpObzZueU8weU0wdm1mYnp3c1FYM25NRUgxbE9tZ1lCckRyYVVlZUlNemhXZl9YOGFJa2lrVTRLS0JGb01yeUd0M205a2hJdVBjRWtZYjhsbXpZWUFmMHNlMkJBZW5YMVE0clN1cEU3d0VEV3FkTTIzaWw2dEJuRExJTDB6ZVBvQW5lRzJ6bXFHS05LdTlZNkt0N0V0d2c?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -588,8 +749,8 @@
   },
   {
     "id": "8297690",
-    "headline": "US-facilitated Israel-Lebanon talks have begun, says State Department - reuters.com",
-    "summary": "US-facilitated Israel-Lebanon talks have begun, says State Department  reuters.com",
+    "headline": "US-facilitated Israel-Lebanon talks have begun, says State Department - Reuters",
+    "summary": "US-facilitated Israel-Lebanon talks have begun, says State Department  Reuters",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLXdzQy15RzJIczBFWU1CVzZITkFHTU84M0NZWFlGajB6bFRITGJ2UEpacm96STR6cFk1WTRiNDBiMzRTakJ5STh0YVE2WXdkdWVzZG5TeldxY3ZDbktzbXJPZVhSX1R0RnAtSlRXVmE1SmZpdVFBVU1tQ1M1ZzFqeWk1TzJDOWtha0Y3czY0RmMxOTFLUHZXZENMZ195NFY3ZGM3TEFSeEt1WTdrOXlWdHhiSHZRTFRSWTZNTlNTVQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -634,8 +795,8 @@
   },
   {
     "id": "8298539",
-    "headline": "Gazans bury nearly a whole clan found in rubble in mass funeral for 112 - reuters.com",
-    "summary": "Gazans bury nearly a whole clan found in rubble in mass funeral for 112  reuters.com",
+    "headline": "Gazans bury nearly a whole clan found in rubble in mass funeral for 112 - Reuters",
+    "summary": "Gazans bury nearly a whole clan found in rubble in mass funeral for 112  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVzdKSkNaWjdlN2xsLTdua0JNdGNsWVI1OVdUZ2gyQk5oQ3YwcW1GNnhmbVQ5MnNjSnRKMmlTaGFHck1Bb01rbUNsOEFDTExqZHJwUTJHYzA4YzVmSUs5NjB1Mi1JNE94RFlrVmJOSzJLZjhPbDM2cm51a0dvUmlhazZhT1QzUFF6XzRVcEhIZ1JrV2EySE5PV2JkaVVhRTYyNXZObm9FcVpRSG96YUN4Ym5PNA?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -675,6 +836,29 @@
         "Deal failure risk",
         "Iran's control of the Strait risk",
         "Uncertainty around oil demand and supply"
+      ]
+    }
+  },
+  {
+    "id": "8294972",
+    "headline": "Toyota lifts annual forecast and unveils $6 billion buyback, but shares fall - Reuters",
+    "summary": "Toyota lifts annual forecast and unveils $6 billion buyback, but shares fall  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSy1kNU1lRXkxX25PQUFPbTQtT2FCaXp3VHNJb0N6czVieVFvZmY1U1lta3NzVEdwRUEzQmd6b2h0dmtOTTVyZmNTTDhiVU1od3dCWFN6U2JRMFRZeTE2cnBwTHpGekxMNzhGRk1CMnZSRllsdG5UZmpmXzRoNTVKeDlQUlBwMWFlUG9KbzJGOGkzZGtUajh4V1R2WmhMdXdiVVNiZlFiLTZHbHhlUExSS05QdnU2RFRUUTRuQ3ZsM2M1M0RSdkxFajVMWU4ycDVGanc?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1785854140,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785838916,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Toyota has lifted its annual forecast, indicating a stronger-than-expected performance, and announced a $6 billion buyback plan. This move suggests the company is confident in its financials and valuation. However, despite these positive announcements, Toyota's shares fell, indicating a disconnect between the market's expectations and the company's actions. The reason for the decline is unclear, but it may be due to concerns about the company's valuation or the market's skepticism about the buyback's effectiveness. The buyback plan is a positive signal for investors, but it may not be enough to offset concerns about the company's valuation.",
+      "impact": "The news is likely to have a negative impact on Toyota's stock price in the short term, as the market may view the buyback as a sign of desperation to boost the stock price. However, in the medium term, the increased buyback could lead to higher earnings per share, which could positively impact the stock price. The lifted forecast and buyback plan may also improve investor sentiment towards Toyota, leading to increased liquidity and trading volume.",
+      "risks": [
+        "valuation risk: the market may view the buyback as a sign of overvaluation",
+        "buyback effectiveness risk: the buyback may not lead to a significant increase in the stock price",
+        "market sentiment risk: investor sentiment towards Toyota may remain negative despite the positive announcements"
       ]
     }
   },
@@ -727,8 +911,8 @@
   },
   {
     "id": "8295827",
-    "headline": "Iran demands inbound control of Hormuz and outbound oversight, source says - reuters.com",
-    "summary": "Iran demands inbound control of Hormuz and outbound oversight, source says  reuters.com",
+    "headline": "Iran demands inbound control of Hormuz and outbound oversight, source says - Reuters",
+    "summary": "Iran demands inbound control of Hormuz and outbound oversight, source says  Reuters",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSjFmUC1OVjJCS05weXNFTmhaZkRab0dwSVV1LXJ5dEp2ZVNxX0l6QVdLQTN3SUdtSS1pOVF4OEYxRzZHbUJNeXk5ZmJnUG5FVVFScEJnOEUyM3FLWWhzQk8yME1VcW42X3dPOURqRi03QlN6RnZLMGFfWW5LWUVmUDctVDR0YXRhWTAwbTJRaUdKYTNJb2NuS2hrNjRpOVdlZjBPRTVzNXhUbjRpdmRFSGdkVHlGUnpJYjRGTQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -745,6 +929,29 @@
         "geopolitical risk",
         "oil price volatility risk",
         "global economic downturn risk"
+      ]
+    }
+  },
+  {
+    "id": "8294970",
+    "headline": "Aramco says US-Iran war has cost the global market 2.6 billion barrels of oil - Reuters",
+    "summary": "Aramco says US-Iran war has cost the global market 2.6 billion barrels of oil  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcXFsci0ySk53THJaUktvbFlJd0ZjTzhFNmJSU0gtY1B5RElscWFhWHJLWTcxdlJ1SDhhV1dJcmQteVdaT0NLekZaMU05V2tockhvaGFtYlgzbk5OdWpDVEM4TmFoX2FpZFMyQWdxTzJ2SkdzYVExYVdRWHBKVlNPcTBzX1hub05WWk45TE1HVDM?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1785850368,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785838866,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Aramco has reported a 44% rise in net profit due to increased oil prices driven by the ongoing Iran war. The conflict has led to a surge in oil prices, benefiting Aramco's revenue and profitability. This development is a positive indicator for the oil and gas industry, as it highlights the company's resilience and ability to capitalize on market volatility. The Iran war has created a favorable market environment for oil producers, and Aramco is well-positioned to benefit from this trend.",
+      "impact": "This news is likely to have a positive impact on Aramco's stock price in the short term, driven by the improved earnings outlook and increased profitability. The medium-term impact may also be significant, as the Iran war is expected to continue, supporting oil prices and benefiting Aramco's revenue. The company's valuation may also be re-evaluated by investors, potentially leading to a upward revision of its stock price. Additionally, the news may boost investor sentiment towards the oil and gas sector as a whole, leading to increased liquidity and trading activity in related stocks.",
+      "risks": [
+        "Dependence on oil prices volatility",
+        "Potential escalation of the Iran war",
+        "Uncertainty around global economic growth"
       ]
     }
   },
@@ -815,8 +1022,8 @@
   },
   {
     "id": "8297925",
-    "headline": "Yemen's Houthis say they hit Saudi target at Najran airport - reuters.com",
-    "summary": "Yemen's Houthis say they hit Saudi target at Najran airport  reuters.com",
+    "headline": "Yemen's Houthis say they hit Saudi target at Najran airport - Reuters",
+    "summary": "Yemen's Houthis say they hit Saudi target at Najran airport  Reuters",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNENTczlOZ3BKWHFnNHpqNnNidHgzQzRpeGh3cHdLTElFUFRZNWpQbWpqTzZTckJpS2hpd1huaXhsa05mbkxLdUV0a3dVVkpWS0dLVUY5S21VU2ZzOXRDSWJkN0FRdG9Xdjh1Sl9fNzRtZ19ROExWT1dNSm4zbFhBZWs5VGgzTGFBNUhMdDlZbXZQT3QzUGYwSXdjcmhJVkZQU1plWEdEa2JPdVZ5OUE?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -838,8 +1045,8 @@
   },
   {
     "id": "8300647",
-    "headline": "EXCLUSIVE: Syria tells US it is willing to drastically drop Russian oil imports, sources say - reuters.com",
-    "summary": "EXCLUSIVE: Syria tells US it is willing to drastically drop Russian oil imports, sources say  reuters.com",
+    "headline": "EXCLUSIVE: Syria tells US it is willing to drastically drop Russian oil imports, sources say - Reuters",
+    "summary": "EXCLUSIVE: Syria tells US it is willing to drastically drop Russian oil imports, sources say  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUllLTEZpVXpPaEQxbG5tWlVyYnlUN3MwUURrck9nWnNXeTVqSG9uQWczMi1FY3dJM1RtSFBBT3RUOFpzaEZKVjZ3LVpfZ01aODFDaFlvTFhLdXJhMzVvQ25qamJ6MDlYVHRuUmZPcW5HamJIbENjeExMUWlsY3UyaWcySjZ6WHJqWE5EZGtIT0N0YXlUZGtHX1FQR2NEemFyUUx1S1hDOGtqYXpvc2l1cFZCMWF3ejAwcnY3Mk5OSWk3Y04wb21FMg?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -907,8 +1114,8 @@
   },
   {
     "id": "8296273",
-    "headline": "PODCAST: US munitions, Max Miller, Ceuta and Infantino's future - reuters.com",
-    "summary": "PODCAST: US munitions, Max Miller, Ceuta and Infantino's future  reuters.com",
+    "headline": "PODCAST: US munitions, Max Miller, Ceuta and Infantino's future - Reuters",
+    "summary": "PODCAST: US munitions, Max Miller, Ceuta and Infantino's future  Reuters",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUEY5UU5rSzJLWl80R1JRekd4T2RpZkUyU2JCeG04V2VTOGJuRDFnTzQ5MWFGQk9UcXJ2UnlnYnFiY3FMSzNvVWtYbGJyUkpaNHRueUpKbDdGeVMtdGhTUmhBbVoxeDdvcVNGa2E1TXZpN0J4TVZWdHVHMVZaSUExTDZhdkZXQVFROG9ncEV4NHgyWk9QR2I4?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -930,8 +1137,8 @@
   },
   {
     "id": "8295716",
-    "headline": "EXCLUSIVE: US has used 'virtually all' of its long-range precision missiles during Iran war, sources say - reuters.com",
-    "summary": "EXCLUSIVE: US has used 'virtually all' of its long-range precision missiles during Iran war, sources say  reuters.com",
+    "headline": "EXCLUSIVE: US has used 'virtually all' of its long-range precision missiles during Iran war, sources say - Reuters",
+    "summary": "EXCLUSIVE: US has used 'virtually all' of its long-range precision missiles during Iran war, sources say  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZjVoa01lTFhQYVMtVjRxRWZKSng1YzFUTTNJOVI1T1pWZVNKc1czOWhJWHB3VDFFWnVrY3lLT1FnSVBfU1M1RFdrU2FsYVlKZXdhVm9VbF9PaEFNeGVMR0ZtNmlEeGhkWG1iang1U0kzb3hmWENGSnNXODRzdnZYaE1LYkY4Vm1hbzJEcEl1ZzZIRVBQLS1nYUYyTWdDdjZjXzN0NmtuZm5IV2FEdlBQby1UUnBqc0FF?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -972,8 +1179,8 @@
   },
   {
     "id": "8295599",
-    "headline": "Goldman sees Brent at $80-$90 until US-Iran deal or major escalation - reuters.com",
-    "summary": "Goldman sees Brent at $80-$90 until US-Iran deal or major escalation  reuters.com",
+    "headline": "Goldman sees Brent at $80-$90 until US-Iran deal or major escalation - Reuters",
+    "summary": "Goldman sees Brent at $80-$90 until US-Iran deal or major escalation  Reuters",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ3RQcExCZTFRck1VT3ZpMWV3YkxZVElmR18wQ3RGa2lpbDFNWU11alJoaVdFM2Z0M0t6V2wtdzkwNThqVHFPSW5HWHVOeHJzM3NJdnRuMEFfUnVwS09TS1hkWUVJZXBQNTVFbEMzbG41ZXdqR0V1TjdpV2pGY1BTV2pmSGwzdjRqZWJkR1VCTlE4aUpkNHk3b25YdG05eHRMdXBzZFhiZTJ4d19zcFBXZmtkYy1LZw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1011,8 +1218,8 @@
   },
   {
     "id": "8290476",
-    "headline": "How Iran is widening its pressure campaign to force US concessions - reuters.com",
-    "summary": "How Iran is widening its pressure campaign to force US concessions  reuters.com",
+    "headline": "How Iran is widening its pressure campaign to force US concessions - Reuters",
+    "summary": "How Iran is widening its pressure campaign to force US concessions  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU2VYbG9DT1JoZWlaZkxlVTc4T01mcjJ0cU9rc2FCWWxuY1dONTVmN0ZTU1RUZzlLUTNGbzgzYURCTFFqZzRWVXZSWXZKZC1Ldm05dFVOdmNZdnlxRVBBUzE2VDVjSU1wMlFXMkFBeDlKeVBuRWQxa2tYV1hPb0hvOHdRd0JvUGREek5HZXhuVXpMR0RBZzdKSE1fNmIyQWVzRVdfUEEzdkt5Zm1XNUVOVnpnbEg3bnNu?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1034,8 +1241,8 @@
   },
   {
     "id": "8289869",
-    "headline": "Two tankers with Saudi oil exit Red Sea over weekend, data shows - reuters.com",
-    "summary": "Two tankers with Saudi oil exit Red Sea over weekend, data shows  reuters.com",
+    "headline": "Two tankers with Saudi oil exit Red Sea over weekend, data shows - Reuters",
+    "summary": "Two tankers with Saudi oil exit Red Sea over weekend, data shows  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdEt0RUhnRlVGV0xuNmhOTDZaaVo3NVI3MWhXdERDQ3BaX19SMkh5bmlONEl5YjlRSEtyc0p0cVZGblYtd3FPdHRtX0V2RldWOVRpdzY1RTV3YnZOSk02X0gzNDhyeEpaclNaVHR1MlJVa1plZUM4a3FqOFVoYXdiY3lBYWU0MW0tcTVoSml1TFhKN0Q2aXhKQVFGNk16TnhYcGhxSXVaQlVISndNWDNyblhPM2xHajhD?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1080,8 +1287,8 @@
   },
   {
     "id": "8295173",
-    "headline": "BP's quarterly profit doubles to over $5 billion after Iran war oil surge - reuters.com",
-    "summary": "BP's quarterly profit doubles to over $5 billion after Iran war oil surge  reuters.com",
+    "headline": "BP's quarterly profit doubles to over $5 billion after Iran war oil surge - Reuters",
+    "summary": "BP's quarterly profit doubles to over $5 billion after Iran war oil surge  Reuters",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdU9hYzNQV1Ezbmd5OXB4Z1d4QTR0QU80Z0MteS03b002RE5yd2hPb2l5Z0NqLWJ4Y21PSTN0Z29UNVBBVEVyRDRGc0VNUnoySWNlcWU4cUlVXy1iNWd0MVA3V3pXLXN1ZHlyQWcyNzRfcmNxYnJKWFBQTWZ1anZtajRzcFRSd3BIQWJhOVlfQXZUaVU2Y1RlTUhqcHBQZ1ItTjhJeEg0NA?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1102,9 +1309,32 @@
     }
   },
   {
+    "id": "8293722",
+    "headline": "Voters prefer Democrats over Republicans on economy for first time in a decade, Reuters/Ipsos poll finds - Reuters",
+    "summary": "Voters prefer Democrats over Republicans on economy for first time in a decade, Reuters/Ipsos poll finds  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWE5YTnBRcFkwQUx5NXBHMGMtaFFHTWh3d1pSRmVodEV1SkRnQmVHbUQ2RDRVZ1U0SUROd2U4YUo4VW95WmFHNWlnQUVkOU1NelRpd0VSVzNTa3o1d1ZqT0JfbjBtTTFTVW9JZVFFbUdsT1Y4U045WElfZFhabjRUZWdKY3BMVVIxWnEwRXlZcjE3bWNTV3UzbGNzdjdOM3FhX2lpckxaR2RJQkhfNlFwc080VEV3RUJUVzNRNFQySkxYQQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1785823652,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785828441,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "A Reuters/Ipsos poll has found that voters prefer Democrats over Republicans on the economy for the first time in a decade. This shift in voter preference could lead to a shift in economic policies, potentially benefiting industries and companies that would benefit from a more liberal economic agenda. The poll results suggest that voters are increasingly concerned about income inequality and the economy's impact on the middle class. This could lead to increased government spending and investment in areas such as infrastructure, education, and social welfare programs.",
+      "impact": "The potential shift in economic policies could lead to increased demand for companies that benefit from government spending and investment, such as construction and infrastructure companies. This could also lead to increased demand for companies that provide services to low-income households, such as healthcare and education providers. In the short-term, this could lead to increased stock prices for these companies as investors become more optimistic about their earnings outlook.",
+      "risks": [
+        "Potential for increased regulatory scrutiny of companies that benefit from government spending and investment",
+        "Risk of increased taxes or fees to fund government programs",
+        "Uncertainty around the timing and scope of policy changes"
+      ]
+    }
+  },
+  {
     "id": "8289854",
-    "headline": "Trump says talks with Iran under way but Tehran denies any planned - reuters.com",
-    "summary": "Trump says talks with Iran under way but Tehran denies any planned  reuters.com",
+    "headline": "Trump says talks with Iran under way but Tehran denies any planned - Reuters",
+    "summary": "Trump says talks with Iran under way but Tehran denies any planned  Reuters",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdzJzZHNCZzdLcHhDVWdCSEpLMEpVckJUQXFxcjhrcEdHWmlWQ183T3g0dUtwWldQLTVfQ0FCbGRaXzV3Y2tnS0laLS1LeU1KcGJKRVhvX2xyV1I1Q0cxSDF0dWJ6ZWpaOFZJTWZac045VWduTklfeUl2QUhKcXZtbE9EY1MtR0p0MUNZOXEtbEpFejVqeXFQaHRRcVFBbkNhUU41eGM3ZldtVFg3U09UY205bjRlUFU?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1126,8 +1356,8 @@
   },
   {
     "id": "8293925",
-    "headline": "Trump blasts Exxon, Chevron for making 'too much money,' demands lower gasoline prices - reuters.com",
-    "summary": "Trump blasts Exxon, Chevron for making 'too much money,' demands lower gasoline prices  reuters.com",
+    "headline": "Trump blasts Exxon, Chevron for making 'too much money,' demands lower gasoline prices - Reuters",
+    "summary": "Trump blasts Exxon, Chevron for making 'too much money,' demands lower gasoline prices  Reuters",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSlhBWjU3Vnk4RkhNa1N0cExPUjhxenRiTGVQbVVzakwxRWdhMU9ieVZvSm5fZU4yYkJaREVJR3ltYUhXZW1JYkx6c1lJS1ZYVkM4WVZZSGQza3ZQMDVTYVg5ZktqbGh6RjhWN2wzRTNZUDg0U0JEU2R3N3U2NkVmYjNlOFhHTHFUYmd1QzFGRlg1V2lzWnhabkVVLUt3YmVQS0dGeUwtUnVKb2xMZjQzOGZvY0NKQQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1148,29 +1378,6 @@
     }
   },
   {
-    "id": "8294970",
-    "headline": "Aramco says US-Iran war has cost the global market 2.6 billion barrels of oil - reuters.com",
-    "summary": "Aramco says US-Iran war has cost the global market 2.6 billion barrels of oil  reuters.com",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcXFsci0ySk53THJaUktvbFlJd0ZjTzhFNmJSU0gtY1B5RElscWFhWHJLWTcxdlJ1SDhhV1dJcmQteVdaT0NLekZaMU05V2tockhvaGFtYlgzbk5OdWpDVEM4TmFoX2FpZFMyQWdxTzJ2SkdzYVExYVdRWHBKVlNPcTBzX1hub05WWk45TE1HVDM?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1785821520,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1785838866,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Aramco has reported a 44% rise in net profit due to increased oil prices driven by the ongoing Iran war. The conflict has led to a surge in oil prices, benefiting Aramco's revenue and profitability. This development is a positive indicator for the oil and gas industry, as it highlights the company's resilience and ability to capitalize on market volatility. The Iran war has created a favorable market environment for oil producers, and Aramco is well-positioned to benefit from this trend.",
-      "impact": "This news is likely to have a positive impact on Aramco's stock price in the short term, driven by the improved earnings outlook and increased profitability. The medium-term impact may also be significant, as the Iran war is expected to continue, supporting oil prices and benefiting Aramco's revenue. The company's valuation may also be re-evaluated by investors, potentially leading to a upward revision of its stock price. Additionally, the news may boost investor sentiment towards the oil and gas sector as a whole, leading to increased liquidity and trading activity in related stocks.",
-      "risks": [
-        "Dependence on oil prices volatility",
-        "Potential escalation of the Iran war",
-        "Uncertainty around global economic growth"
-      ]
-    }
-  },
-  {
     "id": "8299781",
     "headline": "Modi seeks sweeping tax cuts for global funds",
     "summary": "Lawmakers will seek to clear bills that formalise tax cuts for overseas investors buying Indian sovereign debt and insulate offshore funds from tax liability",
@@ -1182,8 +1389,8 @@
   },
   {
     "id": "8289857",
-    "headline": "Oil drops, stocks gain amid Iran peace hopes; yen firms as investors watch for further intervention - reuters.com",
-    "summary": "Oil drops, stocks gain amid Iran peace hopes; yen firms as investors watch for further intervention  reuters.com",
+    "headline": "Oil drops, stocks gain amid Iran peace hopes; yen firms as investors watch for further intervention - Reuters",
+    "summary": "Oil drops, stocks gain amid Iran peace hopes; yen firms as investors watch for further intervention  Reuters",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUjBjdHpEdEdMdVNpbVprQmRvNG9JTzl0ZHB4SkNmWUxqT2hNUG8xcW96U1R2czNKWHVMYXRqY2gxR1pHTzZ4RjlpaDgzUnM3U0dCNURmZDhPUUhVTnRuUFhYcGFmVHdoOWg2a3RJNTNGQktBU3pvZVZGSS1EVUJ1QzlVbw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1204,32 +1411,9 @@
     }
   },
   {
-    "id": "8294972",
-    "headline": "Toyota lifts annual forecast and unveils $6 billion buyback, but shares fall - reuters.com",
-    "summary": "Toyota lifts annual forecast and unveils $6 billion buyback, but shares fall  reuters.com",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSy1kNU1lRXkxX25PQUFPbTQtT2FCaXp3VHNJb0N6czVieVFvZmY1U1lta3NzVEdwRUEzQmd6b2h0dmtOTTVyZmNTTDhiVU1od3dCWFN6U2JRMFRZeTE2cnBwTHpGekxMNzhGRk1CMnZSRllsdG5UZmpmXzRoNTVKeDlQUlBwMWFlUG9KbzJGOGkzZGtUajh4V1R2WmhMdXdiVVNiZlFiLTZHbHhlUExSS05QdnU2RFRUUTRuQ3ZsM2M1M0RSdkxFajVMWU4ycDVGanc?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1785820080,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1785838916,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Toyota has lifted its annual forecast, indicating a stronger-than-expected performance, and announced a $6 billion buyback plan. This move suggests the company is confident in its financials and valuation. However, despite these positive announcements, Toyota's shares fell, indicating a disconnect between the market's expectations and the company's actions. The reason for the decline is unclear, but it may be due to concerns about the company's valuation or the market's skepticism about the buyback's effectiveness. The buyback plan is a positive signal for investors, but it may not be enough to offset concerns about the company's valuation.",
-      "impact": "The news is likely to have a negative impact on Toyota's stock price in the short term, as the market may view the buyback as a sign of desperation to boost the stock price. However, in the medium term, the increased buyback could lead to higher earnings per share, which could positively impact the stock price. The lifted forecast and buyback plan may also improve investor sentiment towards Toyota, leading to increased liquidity and trading volume.",
-      "risks": [
-        "valuation risk: the market may view the buyback as a sign of overvaluation",
-        "buyback effectiveness risk: the buyback may not lead to a significant increase in the stock price",
-        "market sentiment risk: investor sentiment towards Toyota may remain negative despite the positive announcements"
-      ]
-    }
-  },
-  {
     "id": "8296502",
-    "headline": "Lufthansa warns profits could fall as Iran war stokes fuel costs - reuters.com",
-    "summary": "Lufthansa warns profits could fall as Iran war stokes fuel costs  reuters.com",
+    "headline": "Lufthansa warns profits could fall as Iran war stokes fuel costs - Reuters",
+    "summary": "Lufthansa warns profits could fall as Iran war stokes fuel costs  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdE9KT1lZSkVyLUo2VElBbVVGTTN6LVB1aHhFdXB3T09UNWU2c1ItcTBJUkNXU1BoYkNVLUdUM09CUVd5T1lxVnBBdGI3S3g0MXN0YkNpNUYxQUdITHZrTUFyTVhsSmpZTi1MZTRBYldWU3lXbjM5eTItVkdId28zYWZIRXRWWkNWelRya3dhQk5kU3ozME9ZOVZvOTBYNjBiRG5mZ1dMN3gteE9pbVA0Y1M2bG44Q0Zu?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1251,8 +1435,8 @@
   },
   {
     "id": "8295072",
-    "headline": "Oil traders set to wind down UAE exchange positions after ADNOC benchmark change - reuters.com",
-    "summary": "Oil traders set to wind down UAE exchange positions after ADNOC benchmark change  reuters.com",
+    "headline": "Oil traders set to wind down UAE exchange positions after ADNOC benchmark change - Reuters",
+    "summary": "Oil traders set to wind down UAE exchange positions after ADNOC benchmark change  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTTIzRWd4cTNxUHJ2NTJfQTNMVjIyRnJrN0U0NGFMNzNHdVJscGsxQ0tPeHljNVVjd0p0MU1FM3FEcXdfR05zR3c5QVB4czU0V1BfamdIVUtLdWZNa3BCb0ozM2NPZkU2WFNFSGFKbmVkUXZiOGNhbnBZRWQwNkNINWlWTm5QdW1hbXpCZDBDVXhUZmQ1b0ZLZ2dOelRJbkVlN0RjNXozSUdmVXdnSW01VnVBTzIyTVVzY2VmRUNPTlczWGZSNzQ5eQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1319,29 +1503,6 @@
     }
   },
   {
-    "id": "8294343",
-    "headline": "Qatar says mediators make progress in efforts to end US-Iran war - reuters.com",
-    "summary": "Qatar says mediators make progress in efforts to end US-Iran war  reuters.com",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaUY3M2pidURfcVlodzZaVEctbGNSYS1rNlJrR21pQm8yVm50U05QSmRlWURQWWh5UklWZUVMVmlRdzhmbVJrN05IdVNXVW83T3l1TUo0ZjJTMzNURzlOdmNMM2YxY2JwVHQtby1aTFVfZmFnSjRFT0hSaHlzeW50XzNPcUZROG13MUxxNVMwdGd3UkR2cTgyeURHNERQWlUxeFJYR1ln?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1785814860,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1785818956,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "US-Iran talks are uncertain due to a ship being struck in the Strait of Hormuz. The incident is a reminder of the ongoing tensions between the two countries. The Strait of Hormuz is a critical waterway for global oil trade, and any disruptions can impact oil prices and the energy sector. The incident is likely to increase tensions between the two nations, but its impact on the US-Iran talks is uncertain. The US and Iran have been engaged in a long-standing dispute over Iran's nuclear program and its regional influence.",
-      "impact": "The incident may lead to increased volatility in the oil market, potentially affecting energy stocks in the short term. This could impact companies with significant exposure to oil prices, such as ExxonMobil (XOM) and Chevron (CVX). However, the medium-term impact on the US-Iran talks and subsequent sanctions is uncertain, making it difficult to predict the long-term effects on the energy sector. The incident may also increase investor risk aversion, leading to a flight to safe-haven assets such as US Treasury bonds.",
-      "risks": [
-        "Oil price volatility risk",
-        "Increased risk of conflict between the US and Iran",
-        "Uncertainty around US-Iran talks and sanctions"
-      ]
-    }
-  },
-  {
     "id": "8299266",
     "headline": "Tata’s battery unit Agratas turns to in-house tech for making Lithium cells amid China curbs",
     "summary": "The move is a deliberate pivot for Agratas after executives assessed that the chances of a technology deal with a Chinese firm are close to nil, the people said, given Beijing’s stringent restrictions on exports of critical manufacturing know-how.",
@@ -1389,8 +1550,8 @@
   },
   {
     "id": "8295388",
-    "headline": "Shipping traffic at key Gulf waterways little changed on uncertain peace talks - reuters.com",
-    "summary": "Shipping traffic at key Gulf waterways little changed on uncertain peace talks  reuters.com",
+    "headline": "Shipping traffic at key Gulf waterways little changed on uncertain peace talks - Reuters",
+    "summary": "Shipping traffic at key Gulf waterways little changed on uncertain peace talks  Reuters",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX3lXOERWQUVYQV8yeHduRkh1cDJVWjE2eEZja21TbXpqeDJEVHZBS0J5OXExanZmNEpCaVEzT2VRdDFsaXpJWjRXbmVpRFVkelozdXUtYUZEcDdCVjFxQVFfODBRc2dzR1dfWVNyQjVhNHVFckg3OG9XRW01dW5EYlBTNnRFZ1A1OFVRSTJkYkJzcmdsUEpSYU9wa3lpeGxmLUkyNVJHeXBhWkNBNlN0ZUJ1NUdURGl3Y3NkRFRZOTl2d1Zv?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1412,8 +1573,8 @@
   },
   {
     "id": "8294344",
-    "headline": "Gold rises on softer oil prices; US jobs data, Fed rate outlook on tap - reuters.com",
-    "summary": "Gold rises on softer oil prices; US jobs data, Fed rate outlook on tap  reuters.com",
+    "headline": "Gold rises on softer oil prices; US jobs data, Fed rate outlook on tap - Reuters",
+    "summary": "Gold rises on softer oil prices; US jobs data, Fed rate outlook on tap  Reuters",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdzFHZFRoSEVvd0hvWk5nQl9nYVZPdGJSSTRMcWdPMFc5MS1NYnVtNFdvOEpwQVJHbmZtMWJYTzRmcnJCNkt1bmpBb0ZfTUsycW5SZXFDTWdiU0JrOUl1ek9lVC1qZWVMYjJ5bVQwTy11MkNpVDF6RW8xMm9GY0d1YnB0RDJ5REhSZjZ5QXAzOE15QzVWNk5SRERBUjJOM1oxc1VXdHNR?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1429,6 +1590,29 @@
       "risks": [
         "Interest rate hike risk",
         "US economic slowdown risk",
+        "Geopolitical risk"
+      ]
+    }
+  },
+  {
+    "id": "8293926",
+    "headline": "Oil prices settle 5% lower after claims of progress in US-Iran talks - Reuters",
+    "summary": "Oil prices settle 5% lower after claims of progress in US-Iran talks  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU0VaWUlWWUxJMXVaM1NiVS0yeWUtYWhpTlo4MTh0ZzZkZms3aFVLNVRfR1JISmxrY2d2VmM1UWFKTVFtSlEzYmt0N3ZuRUFLWXd5bzh5QkVXOVRxUVh3VHRnOWkzanJWb2tqUU13cURMRFR3TFphYkFzRVRsbnY5aEpDdTJLLVNLOXpwYzRNckVGQW9TcThhNHdKVlVTZ2Q4SkRraWR5TjlvbmN4VE1rLWViVFNTRUZU?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1785805320,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785819055,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Oil prices ticked up after a selloff as talks to end the US-Iran conflict remain uncertain. The conflict has been a major driver of oil price volatility in recent weeks. The uncertainty surrounding the talks has led to increased risk aversion among investors, causing oil prices to fall. However, the potential for a resolution to the conflict could lead to a rebound in oil prices.",
+      "impact": "The news is likely to have a positive impact on oil-related stocks in the short-term, as a potential resolution to the conflict could lead to increased demand and higher oil prices. This could be particularly beneficial for companies with high exposure to the oil sector, such as oil majors and drilling companies. However, the uncertainty surrounding the talks also increases the risk of a prolonged conflict, which could lead to a decline in oil prices and a negative impact on these stocks.",
+      "risks": [
+        "Prolonged conflict risk",
+        "Uncertainty surrounding oil demand",
         "Geopolitical risk"
       ]
     }
@@ -1458,8 +1642,8 @@
   },
   {
     "id": "8291500",
-    "headline": "Wall Street rallies, Dow closes at record on Iran talks optimism - reuters.com",
-    "summary": "Wall Street rallies, Dow closes at record on Iran talks optimism  reuters.com",
+    "headline": "Wall Street rallies, Dow closes at record on Iran talks optimism - Reuters",
+    "summary": "Wall Street rallies, Dow closes at record on Iran talks optimism  Reuters",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTC1HdWxXY3dmcFlCNm9FZ3N5VnVhSWg0ZHV4a1RRdUdlUVM5QUhNYUlueDN2akloUFFEUWRIWXNHeFk1VEFHMDhBRTV1XzY5TnBxUXlVQk96NkFMSnNuTURuTzhCOVRBUkVVT2p1VjBOZFBZdk4zM01WQlFDY1ZZTGhqR2NaeXNrVWN0Ym5aQ1VENmZ5aGRKRWRoMHlNRTVxMWxVSFVrOA?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1550,8 +1734,8 @@
   },
   {
     "id": "8295389",
-    "headline": "US oil exports in July fall to lowest level in eight months, data shows - reuters.com",
-    "summary": "US oil exports in July fall to lowest level in eight months, data shows  reuters.com",
+    "headline": "US oil exports in July fall to lowest level in eight months, data shows - Reuters",
+    "summary": "US oil exports in July fall to lowest level in eight months, data shows  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOczRCbkNPcmZyV3NmTGhPWU03WUw1TDBydTZCTEwwQlZLNWtUME1KaVF1ODhsSmtsT1o3LTdBQVlWS2k0NllnclhzNnhtQTdSZHdUUGRXYXVMQ01ZODF1WFhLYTFBdkVOck1ScHBXWmVwUkNTbUtjWDZleGtzN1JmUFNJR29mNFV5cExJUnZrTFdYN01KbThHT0hBQ0hpNUdrck9LcVJTb2RreTVDd0ZWdVJScw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1596,8 +1780,8 @@
   },
   {
     "id": "8292356",
-    "headline": "After deadly day, Gazans say Trump's touting of plan jars with grim reality - reuters.com",
-    "summary": "After deadly day, Gazans say Trump's touting of plan jars with grim reality  reuters.com",
+    "headline": "After deadly day, Gazans say Trump's touting of plan jars with grim reality - Reuters",
+    "summary": "After deadly day, Gazans say Trump's touting of plan jars with grim reality  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUWg4ei1MaEJJbEJOYl80UkRfZGU4UXhwTUVDSERoUldCTGxERWZXVkxta1h1b1lKbFhpUTBFUWVQRjlibkliajJDMEhEbDZkNWc3cWhWMm1YSEVrdHJ0S1NNNXE1alJhS0M0Z05Hd01hREVmQ25jd015WWZiOTQtSE4yb1JoZ3hlQmNuQTBqbjlFVmFDLTEybkZ4a2FRMUo3X05YOW8zamVOcVdTTjdDR1BnR003X2JMOVEyVFJPUWNTZw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1618,32 +1802,9 @@
     }
   },
   {
-    "id": "8293722",
-    "headline": "Voters prefer Democrats over Republicans on economy for first time in a decade, Reuters/Ipsos poll finds - Reuters",
-    "summary": "Voters prefer Democrats over Republicans on economy for first time in a decade, Reuters/Ipsos poll finds  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWE5YTnBRcFkwQUx5NXBHMGMtaFFHTWh3d1pSRmVodEV1SkRnQmVHbUQ2RDRVZ1U0SUROd2U4YUo4VW95WmFHNWlnQUVkOU1NelRpd0VSVzNTa3o1d1ZqT0JfbjBtTTFTVW9JZVFFbUdsT1Y4U045WElfZFhabjRUZWdKY3BMVVIxWnEwRXlZcjE3bWNTV3UzbGNzdjdOM3FhX2lpckxaR2RJQkhfNlFwc080VEV3RUJUVzNRNFQySkxYQQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1785788280,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1785828441,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "A Reuters/Ipsos poll has found that voters prefer Democrats over Republicans on the economy for the first time in a decade. This shift in voter preference could lead to a shift in economic policies, potentially benefiting industries and companies that would benefit from a more liberal economic agenda. The poll results suggest that voters are increasingly concerned about income inequality and the economy's impact on the middle class. This could lead to increased government spending and investment in areas such as infrastructure, education, and social welfare programs.",
-      "impact": "The potential shift in economic policies could lead to increased demand for companies that benefit from government spending and investment, such as construction and infrastructure companies. This could also lead to increased demand for companies that provide services to low-income households, such as healthcare and education providers. In the short-term, this could lead to increased stock prices for these companies as investors become more optimistic about their earnings outlook.",
-      "risks": [
-        "Potential for increased regulatory scrutiny of companies that benefit from government spending and investment",
-        "Risk of increased taxes or fees to fund government programs",
-        "Uncertainty around the timing and scope of policy changes"
-      ]
-    }
-  },
-  {
     "id": "8292354",
-    "headline": "Trump says Iran faces 'decapitation' if it doesn't strike deal - reuters.com",
-    "summary": "Trump says Iran faces 'decapitation' if it doesn't strike deal  reuters.com",
+    "headline": "Trump says Iran faces 'decapitation' if it doesn't strike deal - Reuters",
+    "summary": "Trump says Iran faces 'decapitation' if it doesn't strike deal  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbWpzQ3dqaWdURjZva2hpRmpXbFNWNWFsQnlRTDF5YlpCTlBBVGxEYWZYVEhLMl84aHdvdzBhUUhxeVBqWWVHWTR5dEpleS1XY0wwR0V4N1JaMkNOaUdvWGgwWHZ0d2hubUVNU2MxMUY5dnVaS05fTlhja0JEWGp3SEdMRmswbEVIUmY1clZWdEExNDNQTFpVelhla3o0alFQS2c?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1706,9 +1867,32 @@
     }
   },
   {
+    "id": "8289855",
+    "headline": "Oil prices drop 7% to three-week low after Trump cancels attack on Iran - Reuters",
+    "summary": "Oil prices drop 7% to three-week low after Trump cancels attack on Iran  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVnBOaGh1VXBaaGQwVmloSzlPcmg5aFdQeENKS3JtNi1wQTZlQTRBUm02ODRrYkNVZkNDREwtTTdMeUhlNV94QjctaFhpMWhTWVVJaF9xeVhWdEdKZXBMbFA4alVQaDBXbnMzczBqRnVBUlVrVUJJTFhLQjdpSU9SV2lHV1FQd0hvOEs0QkZwLVZfUDhtSkVGUU02T2tPeDFXaU5SaWRtUWt3cjhE?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1785782320,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1785747271,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "US President Trump has canceled a planned attack on Iran in an effort to seek a nuclear deal. This development has led to a decline in oil prices as the threat of conflict has subsided. The cancellation of the attack reduces the risk of a supply disruption in the Middle East, which would have negatively impacted oil prices. The news is a positive development for the global economy, as a conflict in the region would have had far-reaching consequences for global trade and economic growth.",
+      "impact": "The cancellation of the attack and the subsequent decline in oil prices are likely to have a positive impact on the earnings outlook for companies that are heavily reliant on oil prices, such as airlines and transportation companies. The reduced risk of a supply disruption in the Middle East will also lead to a decrease in oil prices in the short-term, which will benefit consumers and companies that use oil as a major input. However, the medium-term impact on oil prices will depend on the outcome of the nuclear deal negotiations and the geopolitical situation in the region.",
+      "risks": [
+        "Uncertainty surrounding the outcome of the nuclear deal negotiations",
+        "Potential for increased tensions in the Middle East in the future",
+        "Dependence on oil prices for companies that are heavily reliant on them"
+      ]
+    }
+  },
+  {
     "id": "8289856",
-    "headline": "Gold eases as markets weigh Middle East uncertainty, inflation risks - reuters.com",
-    "summary": "Gold eases as markets weigh Middle East uncertainty, inflation risks  reuters.com",
+    "headline": "Gold eases as markets weigh Middle East uncertainty, inflation risks - Reuters",
+    "summary": "Gold eases as markets weigh Middle East uncertainty, inflation risks  Reuters",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTnkxZDh5TElCa1dZeUtDT2JfblI5ZFJuQkZNQ1pvbHlkcWxHRUVfMk51N2t0ZDUtbEhOYW9aVjg5d3lMSkNXYlFMc0I5Z3o1bjh4c0pkZ3BsWkRYeWhOalNoOUZPN3pvYVRSb1NnT21rZy1TamRFMHN2MUp1WjhoSmZaT0prMExjTVk1aThUbHAwNEo3MmpsbTI2UFdsY2Z2Y0RlT2RB?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1730,8 +1914,8 @@
   },
   {
     "id": "8296953",
-    "headline": "Thousands remain in Spain's Ceuta enclave after border surge - reuters.com",
-    "summary": "Thousands remain in Spain's Ceuta enclave after border surge  reuters.com",
+    "headline": "Thousands remain in Spain's Ceuta enclave after border surge - Reuters",
+    "summary": "Thousands remain in Spain's Ceuta enclave after border surge  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT2hNVVFYeEJCaE5zb2lHWEVDMEtiemlMOFNlN2hRNTNyRnhsLWs0NkNCUkdCOUxqal9TNzNET3lTaERSR0lCTl9nLWRCMjNsaFd2Z2M0VjdHbE9WTEVnNmpYcjlpRFRaR0J5ZWZ4elVfdlV4WGttLWRkLXM2SFFvWlU3Q2JvRGRiQ0tBel94NHF0UTNPVzdzTzhDejZ6NGxodUZB?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1818,8 +2002,8 @@
   },
   {
     "id": "8294971",
-    "headline": "European shares start August higher on US-Iran diplomacy hopes - reuters.com",
-    "summary": "European shares start August higher on US-Iran diplomacy hopes  reuters.com",
+    "headline": "European shares start August higher on US-Iran diplomacy hopes - Reuters",
+    "summary": "European shares start August higher on US-Iran diplomacy hopes  Reuters",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMTFMX3ViRVNlS2F6ZEUtaU9RMHgydW1RREh3MC1iX3puek9aYmN4WHJucExCRXFaa2tNSk9KRGF5bnhMN1hGY0dxYzJxdHJNOVJwQndjSkFCOFRaNEFqRDc1eTFGU1RESk9sVU9UNWVGUDR3RkdTUkQ0ZjJ5anVBT2hmQ2dKRTBhSy1za1psQkZ6bzdrRXNnVUZncDRzT1dnMmVqU0Nvcw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1841,8 +2025,8 @@
   },
   {
     "id": "8292560",
-    "headline": "UBS fined $125 million by US regulators for money laundering violations - reuters.com",
-    "summary": "UBS fined $125 million by US regulators for money laundering violations  reuters.com",
+    "headline": "UBS fined $125 million by US regulators for money laundering violations - Reuters",
+    "summary": "UBS fined $125 million by US regulators for money laundering violations  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS2NEeHdNTkNSVkRlY2RoazlTc1F6U2tjOEd0TkpIZVY4cmZjRS1mMGdYVnRTcXQ4UmFxNENaem5tUGhKcjNDU3Y3RG1NOGEtdU9NQzlIdXhKLVBRVjBXZE9wTGVFQ1dUbmU3MHJ1c1VjbjZVTlZJUGlLaWM5Ym5vYk1feXlzLUE2Vk0tQ01KV2Y2Qk1vMkx2bkFxVHFscXhtSkpXcFJZak9pOXBydjlQbVJsZw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1864,8 +2048,8 @@
   },
   {
     "id": "8291714",
-    "headline": "US signs deal to boost Patriot and THAAD missile parts production - reuters.com",
-    "summary": "US signs deal to boost Patriot and THAAD missile parts production  reuters.com",
+    "headline": "US signs deal to boost Patriot and THAAD missile parts production - Reuters",
+    "summary": "US signs deal to boost Patriot and THAAD missile parts production  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZVpSLU9DNzZlb3plSWpueFdNUFN3ZmxuZkQxN1RhRTlaZlBteHFVVEVXN0p4NnBOY2paYTNwNGlxaGdfWGRCRjVXazlOLVUtUVZnNlB4eFB1RFBKQjBtXzQtbEN6djVNZGs5dWJBTXYtVmxSVEtfU1I1WFdJWmU4dEQ2eU8xX1Z5MVNCV1pjdkJ6dVRaVnNwbm9HbmVSaFFqd3k1aGdmbW44NEUyRENTZmtMZk9iVGxpRklr?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -2447,29 +2631,6 @@
         "Increased supply risk",
         "Price volatility risk",
         "Earnings decline risk"
-      ]
-    }
-  },
-  {
-    "id": "8289855",
-    "headline": "Oil prices drop 7% to three-week low after Trump cancels attack on Iran - Reuters",
-    "summary": "Oil prices drop 7% to three-week low after Trump cancels attack on Iran  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVnBOaGh1VXBaaGQwVmloSzlPcmg5aFdQeENKS3JtNi1wQTZlQTRBUm02ODRrYkNVZkNDREwtTTdMeUhlNV94QjctaFhpMWhTWVVJaF9xeVhWdEdKZXBMbFA4alVQaDBXbnMzczBqRnVBUlVrVUJJTFhLQjdpSU9SV2lHV1FQd0hvOEs0QkZwLVZfUDhtSkVGUU02T2tPeDFXaU5SaWRtUWt3cjhE?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1785715860,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1785747271,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "US President Trump has canceled a planned attack on Iran in an effort to seek a nuclear deal. This development has led to a decline in oil prices as the threat of conflict has subsided. The cancellation of the attack reduces the risk of a supply disruption in the Middle East, which would have negatively impacted oil prices. The news is a positive development for the global economy, as a conflict in the region would have had far-reaching consequences for global trade and economic growth.",
-      "impact": "The cancellation of the attack and the subsequent decline in oil prices are likely to have a positive impact on the earnings outlook for companies that are heavily reliant on oil prices, such as airlines and transportation companies. The reduced risk of a supply disruption in the Middle East will also lead to a decrease in oil prices in the short-term, which will benefit consumers and companies that use oil as a major input. However, the medium-term impact on oil prices will depend on the outcome of the nuclear deal negotiations and the geopolitical situation in the region.",
-      "risks": [
-        "Uncertainty surrounding the outcome of the nuclear deal negotiations",
-        "Potential for increased tensions in the Middle East in the future",
-        "Dependence on oil prices for companies that are heavily reliant on them"
       ]
     }
   },
@@ -22308,228 +22469,6 @@
         "Increased competition among airlines risk",
         "Potential cannibalization of higher-yielding fares risk"
       ]
-    }
-  },
-  {
-    "id": "8185849",
-    "headline": "India battery storage tariffs seen rising as higher costs squeeze low-priced projects - Reuters",
-    "summary": "India battery storage tariffs seen rising as higher costs squeeze low-priced projects  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPc3pRWFBSdXFlU2xqTy1sNXZYZjEwSUlTTDkyR3ZYLVpMV3NwR2I0eXB3SUhXMXk1bVNNNW5QdmJjOTZCazVXR0VZQzR3NW1CQ1ZZUE92RE1rQkJ6ZkRtbEllNllXSDh5Z0xsZDFLV0ZCZzZrTFVpaXpUNXdDVWlLcS1YZ3U1eDdxZDFkVUc1VlYtMmE3eEV6REw0aUxuZDc4MFVCRFAtcnFzWEpiTWZ4MEVpZVNaLW9XZGJoZUVsN19Bc3c?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1783516436,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1783550954,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "India's battery storage tariffs are expected to rise due to higher costs, squeezing low-priced projects. This is attributed to increasing raw material costs, labor expenses, and other operational costs. The impact on the industry is significant, as low-priced projects were a key driver of growth in the renewable energy sector. The rise in tariffs will make these projects less competitive, potentially slowing down the adoption of renewable energy in India. This development is a negative for companies involved in the renewable energy sector, particularly those that rely on low-priced projects for growth.",
-      "impact": "The rise in battery storage tariffs is likely to negatively impact companies such as those in the renewable energy sector, particularly those that rely on low-priced projects for growth. This could lead to a slowdown in the adoption of renewable energy in India, negatively affecting earnings outlook and valuation. The increased costs will also reduce the attractiveness of low-priced projects, making it harder for companies to achieve their growth targets. This could lead to a decline in investor sentiment and liquidity for these companies.",
-      "risks": [
-        "Increased costs and reduced competitiveness of low-priced projects",
-        "Slowing down of renewable energy adoption in India",
-        "Negative impact on earnings outlook and valuation of companies in the renewable energy sector"
-      ]
-    }
-  },
-  {
-    "id": "8185955",
-    "headline": "Deutsche Bank gains new Saudi licence in push to expand - Reuters",
-    "summary": "Deutsche Bank gains new Saudi licence in push to expand  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbUtDczFWY3pobExpTnpST056RUVvdVZpaFF6T01jbnhBX2JNRmtHalluM3RhcnNCLTlfWDRfa3hNNUl6YlpFLVVRUENWTFFxZGp6LTl2bkFMcGxuZFVJd19OV1FSc2NlT21QRmEyckRJUmtOVWNZT0prUUR0ejJJVkdGMGI0eXE1UXdnNmYyeWlXRVBvdUJfbkx4M3pwTHR6eHcyY0x3?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1783516309,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1783550999,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Deutsche Bank has obtained a new Saudi Arabian banking licence, marking a significant expansion move for the German lender. The licence allows Deutsche Bank to offer a wider range of financial services in the country, including retail banking and investment banking. This development is part of Deutsche Bank's broader strategy to increase its presence in the Middle East and North Africa region. The bank has been expanding its operations in the region in recent years, driven by growing demand for financial services and a desire to tap into the region's growing economy.",
-      "impact": "This news is likely to have a positive impact on Deutsche Bank's stock price in the short term, as it reflects the bank's growing presence in a new and potentially lucrative market. The licence will also provide Deutsche Bank with access to a larger pool of clients and investment opportunities, which could boost its earnings outlook in the medium term. However, the bank will need to navigate the challenges of operating in a new market, including regulatory hurdles and cultural differences.",
-      "risks": [
-        "Regulatory approval risk in the Saudi market",
-        "Integration risk as Deutsche Bank expands its operations in the region",
-        "Competition from established players in the Saudi banking market"
-      ]
-    }
-  },
-  {
-    "id": "8185194",
-    "headline": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
-    "summary": "Oil is surging, and Apple announces more investments into U.S. manufacturing.",
-    "url": "https://www.cnbc.com/2026/07/08/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108318292-1780938726288-gettyimages-2279911103-APPLE_WWDC.jpeg?v=1780938753&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1783515413,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1783526280,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "The stock market is experiencing a sell-off due to rising tensions between the US and Iran, leading to a surge in oil prices. This has caused a decline in chip stocks and AI data center plays, as investors book profits on parabolic moves higher. Apple's announcement of a $30 billion investment in US manufacturing with Broadcom is a positive development, but its impact is uncertain. Meanwhile, retail stocks such as Ollie's Bargain Outlet and Kraft Heinz are facing challenges, with Ollie's downgraded to hold and Kraft Heinz's valuation considered full.",
-      "impact": "The sell-off in chip stocks and AI data center plays may continue, potentially leading to short-term losses for investors who have booked profits. Apple's investment in US manufacturing may have a positive medium-term impact on the company's stock, but its effect on Broadcom is uncertain. Retail stocks such as Ollie's Bargain Outlet and Kraft Heinz may face challenges in the near term, with Ollie's sales potentially missing expectations and Kraft Heinz's valuation considered full.",
-      "risks": [
-        "escalating tensions between the US and Iran",
-        "decline in chip stocks and AI data center plays",
-        "valuation risk for retail stocks"
-      ]
-    }
-  },
-  {
-    "id": "8185428",
-    "headline": "Spanish markets hit by Trump's renewed trade threat - Reuters",
-    "summary": "Spanish markets hit by Trump's renewed trade threat  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWndrS0pGb3l1OEtCZ3kxOHF0ZlRPbkNwY2w1R0h1THhfZVl6OFQ1cGpCRXMtRkhiN1UxSVB2QmUyaXBYUXVOemRhdS1tcmJCeVU2bVNyYi1PVWVFZHNxajU3T3N2MS1yRFdBVzNjZ3VXREFNcE1PX2t2N3ZXaUl4VmpTUVNLV1c0dzNadXhucGlwVXlkX2lOenBqczZtTnh1NldrTjFR?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1783513996,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1783554574,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Spanish markets have been negatively impacted by US President Trump's renewed trade threat, which has increased uncertainty and risk for Spanish companies with exposure to the US market. The news comes as the US and EU are engaged in a trade dispute, with the US imposing tariffs on EU goods and the EU retaliating with its own tariffs. This has led to a decline in investor sentiment and a rise in volatility in Spanish markets. The impact of this news is likely to be felt by Spanish companies with significant US exposure, particularly those in the manufacturing and export sectors.",
-      "impact": "The renewed trade threat from the US is likely to have a negative impact on Spanish stocks with US exposure, particularly in the short term. This could lead to a decline in earnings for these companies, as well as a decrease in their share prices. In the medium term, the ongoing trade tensions could lead to a decrease in investor sentiment and a reduction in liquidity, making it more difficult for these companies to raise capital. This could also lead to a revaluation of these companies' valuations, as investors reassess their exposure to the US market.",
-      "risks": [
-        "Decreased earnings for companies with US exposure",
-        "Reduced investor sentiment and liquidity",
-        "Revaluation of company valuations"
-      ]
-    }
-  },
-  {
-    "id": "8187400",
-    "headline": "What are the risks of an LNG tanker explosion? - Reuters",
-    "summary": "What are the risks of an LNG tanker explosion?  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdHJpVXplVjN5OEtYa2VjZWdOTENwb0hONlVUbEpxeUdtNUVVaUJudnRGa2hJVHlDX0NvQl90aG5iR0lRUGdNTkRobU0xLWdJZlVNUU5femJYZHoyaGNWUDdpRkI4OXB3SnJHSXZ4VGFyY1QwY1pVSTlLczNXZTdsalotUzZpUVEyZTROSk1YU25PaGlK?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1783513875,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1783559958,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "A recent Reuters article discusses the risks associated with LNG tanker explosions. The article highlights the potential for catastrophic consequences, including fire, explosion, and environmental damage. The risks are attributed to the high-pressure and flammable nature of liquefied natural gas (LNG). The article mentions that LNG tankers are designed to withstand extreme conditions, but accidents can still occur due to human error, equipment failure, or other factors. The article concludes that the risks are a concern for the shipping industry and the companies that operate LNG tankers.",
-      "impact": "The potential for LNG tanker explosions may lead to increased costs and regulatory scrutiny for companies operating in the LNG shipping industry. This could negatively impact their earnings outlook and valuation in the short term. In the medium term, the risk of accidents could lead to a decrease in investor sentiment and liquidity for these companies. The impact on the broader energy sector may be minimal, but could contribute to a more cautious approach to investing in the industry.",
-      "risks": [
-        "Increased regulatory scrutiny and potential fines",
-        "Decreased investor sentiment and liquidity",
-        "Higher operating costs due to increased safety measures"
-      ]
-    }
-  },
-  {
-    "id": "8185199",
-    "headline": "Trump told NATO leaders he wants to keep US in alliance, source says - Reuters",
-    "summary": "Trump told NATO leaders he wants to keep US in alliance, source says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOU9UVnNYR3lYTnhmMXVERXQzaWs3SE5MLTc2N29ZRjlKRTlSRDJlZl9DcUVBeWxKazN0SE82UlQtblA0UjRxU09vMWpVYmVVTzJ5MFN1dlV0TkE2akxuc0R4TkxNNGZ6WlJPaXJkNERQWHFWUmhmdkN4NlEyNUhXa2xwS0RMTnJWTktVUG51eHN4Q0tGMHAxaTdmNXI1Nm93SVozOHJHYXphQ3pGemc4?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1783513820,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1783554621,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "US President Trump has informed NATO leaders that he intends to maintain the country's membership in the alliance. This statement comes as a relief to NATO allies, as a potential withdrawal would have had significant implications for global security and stability. The news is a positive development for the alliance, which has been a cornerstone of European defense policy. The move is seen as a shift in tone from previous Trump administration statements that had raised concerns about the US commitment to NATO. This news is likely to be welcomed by European markets and could have a positive impact on companies involved in defense and security sectors.",
-      "impact": "The news is likely to have a positive impact on defense and security companies that benefit from US involvement in NATO. This could lead to increased demand for their products and services, potentially driving earnings growth and stock prices. In the short-term, this news may also boost investor sentiment and liquidity in the sector, making it an attractive area for investment. The medium-term impact could be a more stable and predictable defense spending environment, which could lead to increased investment in research and development and improved profitability for defense contractors.",
-      "risks": []
-    }
-  },
-  {
-    "id": "8183895",
-    "headline": "EXCLUSIVE: China lifts fuel export curbs for July, sources say - Reuters",
-    "summary": "EXCLUSIVE: China lifts fuel export curbs for July, sources say  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQczZhYmpBVW0zQnJyY2N1c05Udmt2Vy1BUzhlaGozWlJzbm5rTWlMaFU1YVNOaUgyM282Q3k1OFFVZGYwcklsMXVEeVFPdWZSRDR6NGpkbGJVZEM2TjRIWENsZzdkYVNzSjlHUnQ2Z09CUms0LXlzZ3A3NFpzZkdSUGhBWU1fRHFhWDNZWjFxclJLTm1jN1hPN0pXWERfWjJyTnRxTmgyOWdKUQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1783513531,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1783495400,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "China has lifted fuel export curbs for July, according to sources. This move is likely a response to the global energy crisis, particularly in Europe, where fuel prices have surged due to supply chain disruptions. The decision is expected to increase fuel exports from China, potentially benefiting oil refiners and shipping companies. This development may also alleviate some pressure on global fuel markets, which have been impacted by the ongoing conflict in Ukraine.",
-      "impact": "This news is likely to have a positive impact on Chinese oil refiners and shipping companies, as they will be able to increase their fuel exports. In the short term, this may lead to higher earnings for these companies, driven by increased revenue from fuel exports. In the medium term, this development may also lead to a decrease in global fuel prices, benefiting consumers and potentially boosting economic growth. However, the impact on the global energy market is uncertain and may be influenced by various factors, including changes in global demand and supply dynamics.",
-      "risks": [
-        "Global demand slowdown risk",
-        "Shifts in global supply dynamics risk",
-        "Potential trade tensions risk"
-      ]
-    }
-  },
-  {
-    "id": "8186891",
-    "headline": "Chevron-chartered oil tanker caught in Russia-Ukraine war as Kyiv steps up attacks - Reuters",
-    "summary": "Chevron-chartered oil tanker caught in Russia-Ukraine war as Kyiv steps up attacks  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORkM4Zk5fSVY2LWktUmVWdlFPOFd6cE5vYWJJQXBzTFhjY2FuZXVWbFg3LWFsdjJPRU1ZUU1vZnVDUUxIVlk5VjdmUENyNGFYNjRIWG5Rbm95blBVbzJuWi11YnYwckVrMmVnTkFydkJnRGl5eFpBOVRuZjRNU2lDYzBKRTUzazhmNnlvZk82eC1DV0xCVFJsbEZ6REE2UTA5Q1A3SQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1783513486,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1783560005,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "A Chevron-chartered oil tanker has been caught in the Russia-Ukraine war, highlighting the escalating conflict's impact on the global energy industry. The news comes as Kyiv steps up attacks on Russian targets, increasing the risk of disruptions to oil supplies. The incident is a reminder of the ongoing tensions in the region and the potential for further escalation. The oil tanker's involvement in the conflict raises concerns about the safety of shipping routes and the potential for supply chain disruptions. This development is likely to increase uncertainty and volatility in the energy market, particularly for companies with significant exposure to Russian oil imports.",
-      "impact": "The news may lead to a short-term increase in volatility in the energy sector, particularly for companies with significant exposure to Russian oil imports. Chevron's stock price may be affected as the company's operations and reputation are tied to the incident. In the medium term, the conflict may lead to increased costs and supply chain disruptions, negatively impacting earnings outlook for energy companies. The incident may also lead to a shift in investor sentiment, with some investors reevaluating their exposure to the energy sector.",
-      "risks": [
-        "Supply chain disruption risk",
-        "Increased costs risk",
-        "Investor sentiment risk"
-      ]
-    }
-  },
-  {
-    "id": "8184443",
-    "headline": "Rupee slumps to one-month low as oil soars after Trump says Iran deal is 'over' - Reuters",
-    "summary": "Rupee slumps to one-month low as oil soars after Trump says Iran deal is 'over'  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaW1RbkdDRkpSMEdfLTdfZ3Nod1lISHk1YmM2OE9kYldIYm16ZUFwdldjYUhGUWpyQS1ackFoVEZOeGRGM3hlYld0V09OV09KLTNseHRuOWpXTDZkY1Awb0VNMi1NNmlJczA0NTRBc1hEWnJyUS1jMU9va2t0aHZwVUt2X19SRVRTWnJVTWdKVzFTNUNtQlVZam01RV9STEl3UW1PX2E0QVZOSXNJR0E?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1783513104,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1783511284,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The Indian rupee has slumped to a one-month low due to the surge in global oil prices following US President Trump's statement that the Iran nuclear deal is 'over'. The increase in oil prices is a concern for India, which imports a significant portion of its oil requirements. This development is a negative for the Indian economy, which is heavily reliant on oil imports. The rupee's depreciation will likely lead to higher import costs for India, exacerbating the country's trade deficit.",
-      "impact": "The potential impact on the Indian economy and related stocks is significant. In the short term, the rupee's depreciation will lead to higher import costs, which may negatively impact companies that rely heavily on imported inputs, such as oil and gas companies. Medium-term, the increase in oil prices may lead to higher inflation, which could impact consumer spending and subsequently, the earnings outlook for companies in the consumer staples and discretionary sectors. The rupee's decline may also lead to a decrease in foreign portfolio investment in Indian stocks, further exacerbating the bearish sentiment.",
-      "risks": [
-        "higher import costs risk",
-        "inflation risk",
-        "decrease in foreign portfolio investment risk"
-      ]
-    }
-  },
-  {
-    "id": "8184865",
-    "headline": "Fed meeting minutes to show 'family fight' over rates. The squabble could drag on for a while",
-    "summary": "There have been few instances over the past 35 years or so when the Fed has only made one rate move, be it up or down.",
-    "url": "https://www.cnbc.com/2026/07/08/with-minutes-due-feds-family-fight-over-interest-rates-could-drag-on.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108322709-1781634060886-gettyimages-2277135777-WARSH_SWEAR_IN.jpeg?v=1781634082&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1783510831,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1783511176,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "The Federal Reserve's June meeting minutes are expected to reveal a 'family fight' over interest rates, suggesting a potential rate hike. Historically, the Fed tends to move in rate cycles, making multiple adjustments to achieve its goals. The current inflation rate is above the 2% target, and officials are divided on whether it will ease or persist. This disagreement may lead to a more aggressive rate hike cycle, which could impact the economy and related stocks.",
-      "impact": "The potential for a prolonged rate hike cycle could negatively impact stocks, particularly those sensitive to interest rates, such as financials and real estate. This could lead to a decline in earnings and valuation for these sectors. The uncertainty surrounding the Fed's policy direction may also contribute to market volatility, making it more challenging for investors to make informed decisions.",
-      "risks": []
     }
   }
 ]
