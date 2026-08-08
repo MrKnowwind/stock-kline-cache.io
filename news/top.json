@@ -1,5 +1,28 @@
 [
   {
+    "id": "8317526",
+    "headline": "Hunter Biden says Joe Biden’s cancer has spread further and is ‘very painful’",
+    "summary": "\"The cancer has spread, is metastasized into his bones and further. It's very painful. It's very debilitating in many respects,\" Hunter Biden said.",
+    "url": "https://www.cnbc.com/2026/08/08/hunter-biden-says-joe-bidens-cancer-has-spread-is-very-debilitating.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/107427738-17181927622024-06-11t215507z_1740518469_rc2498a9at1q_rtrmadp_0_usa-biden-hunter.jpeg?v=1753132010&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1786209925,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1786212264,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "President Joe Biden's cancer has spread further, with his son Hunter Biden stating that it's 'very painful' and 'debilitating'. This news is a personal and emotional update on the 83-year-old's health. As the President's health declines, there may be implications for his ability to serve out his term. This could potentially impact his ability to make key decisions and shape policy, affecting the overall economic and regulatory environment.",
+      "impact": "The news may weigh on the market sentiment towards healthcare stocks, particularly those with a focus on cancer treatment and care. Investors may also consider the potential impact on the pharmaceutical industry, as the Biden administration's policies could be influenced by the President's health. In the short-term, the news may not have a direct impact on the stock market, but it could contribute to a more cautious investor sentiment in the medium-term.",
+      "risks": [
+        "market sentiment risk",
+        "policy uncertainty risk",
+        "regulatory risk"
+      ]
+    }
+  },
+  {
     "id": "8316611",
     "headline": "Iran says deal on Strait of Hormuz is close but is not enough to open the waterway - Reuters",
     "summary": "Iran says deal on Strait of Hormuz is close but is not enough to open the waterway  Reuters",
@@ -7,7 +30,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1786202522,
+    "publishedAt": 1786207544,
     "analysis": {
       "version": 2,
       "generatedAt": 1786196004,
@@ -1471,29 +1494,6 @@
     }
   },
   {
-    "id": "8307635",
-    "headline": "Trump's Iran dilemma: He's stuck in war with no exit in sight - Reuters",
-    "summary": "Trump's Iran dilemma: He's stuck in war with no exit in sight  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTElxYUFULUk1M0M2d29aa3BiZGJHZ3BPMEpDaG9vUlRkUDUzTU5MMUYtbTlDVkt6VGpMc2g0VnpsWmRpSWhZMmxjVVIzc2NGb3psRjdCUGNUYXdFRzdHd1N1Ni1oM3BySjNWTUZiQzVSVEJWTEticG9SQUF6OHIzN0NTeWtBUlpNS2FWVWo4OEppcmVxSzlvMXBkWmVKWllteFI2QmlKVUIxUQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1786034916,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1786095814,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The article reports that the US is stuck in a war with Iran with no clear exit strategy, citing President Trump's dilemma. This situation has been ongoing since the US withdrew from the Iran nuclear deal in 2018. The war has led to increased tensions in the Middle East, causing concerns about oil prices and global security. The article highlights the complexities of the situation, with Iran's military capabilities and the US's limited options making it difficult to find a resolution.",
-      "impact": "The ongoing war with Iran is likely to have a negative impact on the oil and gas industry, particularly on companies with exposure to the region. This could lead to increased costs and reduced profitability for these companies. In the short term, oil prices may fluctuate due to supply chain disruptions, while in the medium term, the situation could lead to a re-evaluation of investment in the region. Companies with exposure to the Middle East, such as oil and gas producers, may see their valuations affected as investors reassess their risk profiles.",
-      "risks": [
-        "Increased costs and reduced profitability for oil and gas companies",
-        "Supply chain disruptions and oil price volatility",
-        "Re-evaluation of investment in the region"
-      ]
-    }
-  },
-  {
     "id": "8308185",
     "headline": "US is set to import most Middle East crude since Iran war began - Reuters",
     "summary": "US is set to import most Middle East crude since Iran war began  Reuters",
@@ -1559,6 +1559,29 @@
         "valuation risk",
         "leadership risk",
         "sentiment risk"
+      ]
+    }
+  },
+  {
+    "id": "8307635",
+    "headline": "Trump's Iran dilemma: He's stuck in war with no exit in sight - Reuters",
+    "summary": "Trump's Iran dilemma: He's stuck in war with no exit in sight  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTElxYUFULUk1M0M2d29aa3BiZGJHZ3BPMEpDaG9vUlRkUDUzTU5MMUYtbTlDVkt6VGpMc2g0VnpsWmRpSWhZMmxjVVIzc2NGb3psRjdCUGNUYXdFRzdHd1N1Ni1oM3BySjNWTUZiQzVSVEJWTEticG9SQUF6OHIzN0NTeWtBUlpNS2FWVWo4OEppcmVxSzlvMXBkWmVKWllteFI2QmlKVUIxUQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1786034100,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1786095814,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The article reports that the US is stuck in a war with Iran with no clear exit strategy, citing President Trump's dilemma. This situation has been ongoing since the US withdrew from the Iran nuclear deal in 2018. The war has led to increased tensions in the Middle East, causing concerns about oil prices and global security. The article highlights the complexities of the situation, with Iran's military capabilities and the US's limited options making it difficult to find a resolution.",
+      "impact": "The ongoing war with Iran is likely to have a negative impact on the oil and gas industry, particularly on companies with exposure to the region. This could lead to increased costs and reduced profitability for these companies. In the short term, oil prices may fluctuate due to supply chain disruptions, while in the medium term, the situation could lead to a re-evaluation of investment in the region. Companies with exposure to the Middle East, such as oil and gas producers, may see their valuations affected as investors reassess their risk profiles.",
+      "risks": [
+        "Increased costs and reduced profitability for oil and gas companies",
+        "Supply chain disruptions and oil price volatility",
+        "Re-evaluation of investment in the region"
       ]
     }
   },
@@ -22637,29 +22660,6 @@
         "over-reliance on event-based revenue",
         "potential disruptions from large-scale events",
         "increased competition for event hosting"
-      ]
-    }
-  },
-  {
-    "id": "8207300",
-    "headline": "Former Qatar ruler Sheikh Hamad, a moderniser who seized power, has died - Reuters",
-    "summary": "Former Qatar ruler Sheikh Hamad, a moderniser who seized power, has died  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNi1rc0xhYTFPOVc4UmhSS3NVcWxlZ25meVNQZG5VUE9PYU1KdkItN1dwbnNzcVZtcHFrWTJ0enhEVzF4cG9nQlpCeTRlcmM3UXNrc1V3dmtzQkwycHdFRHY0c2NKSjhsUkZ4ZGIyZXFwR2R4bkxxZHdzbTdBR254eVhDb09BZEJVRU1xUWtYR1BiOGk0RjU3cUZVdFhpWm1WQUsxWnFPQVJjLVNSYWxJeHZROEVYRC1rc2IteXBtYw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1783843980,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1783919994,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Former Qatar ruler Sheikh Hamad bin Khalifa Al Thani, who seized power in a bloodless coup in 1995 and implemented significant modernization reforms, has passed away. Sheikh Hamad is credited with transforming Qatar into a modern, wealthy nation with a strong economy. His death is a significant event in Qatari history, but it is unlikely to have a direct impact on the country's economy or the global market. The news is a reminder of the country's stability and continuity, which could be a positive factor for investors.",
-      "impact": "The news is unlikely to have a significant impact on the stock market, particularly in the short term. However, it may lead to a slight increase in investor confidence in Qatar's economy and stability, which could positively affect the country's stock market in the medium term. The country's economic fundamentals, including its strong GDP growth and low debt levels, remain intact.",
-      "risks": [
-        "market volatility risk",
-        "geopolitical risk",
-        "macroeconomic risk"
       ]
     }
   }
