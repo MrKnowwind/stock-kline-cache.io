@@ -391,7 +391,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1786114980
+    "publishedAt": 1786114980,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1786198716,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "A severe drought in Europe has led to the exposure of various historical artifacts, including medieval buildings, Nazi warships, and mammoth remains. The drought has caused water levels to drop, revealing these previously submerged or hidden structures. This phenomenon is not directly related to any specific company or industry, but it may have a broader impact on the tourism and cultural heritage sectors. The news highlights the importance of preserving historical sites and the potential economic benefits of tourism. The drought's effects on agriculture and water resources may also have indirect implications for companies involved in these sectors.",
+      "impact": "The drought's impact on the tourism and cultural heritage sectors may lead to increased tourism in affected areas, potentially benefiting companies in these industries. However, this may also put pressure on local infrastructure and resources. In the short term, the drought may have a negative impact on companies involved in agriculture and water resources, as crop yields and water availability are affected. In the medium term, companies in these sectors may need to adapt to changing climate conditions and implement new strategies to mitigate the effects of droughts.",
+      "risks": [
+        "drought-related crop failure risk",
+        "water scarcity risk",
+        "tourism infrastructure strain risk"
+      ]
+    }
   },
   {
     "id": "8313171",
@@ -643,29 +656,6 @@
     }
   },
   {
-    "id": "8310190",
-    "headline": "AI demand keeps China's export engine humming, but risks loom - Reuters",
-    "summary": "AI demand keeps China's export engine humming, but risks loom  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcmhJQUR2QVh5SHpuWDZ2ZFk3RWdCbDlINEY1MEZuc0tRbkJQT3FuRmQ1WDdtd2owTmhJeDdIU09EYkFiNEJpTnA3cWhQQ1dnWUpkWDJPVENiZDIzTXlNUlRNenF2VlRXM29EbFFJelBiTUhuU1cycU5EV3RvaVhIbU4yc0pNWDM2aGlCaGtSTG5ySGx3aXhFcTNRTkZ4cFlva3k0cA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1786083276,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1786085623,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "China's export engine is humming due to strong demand for AI, driven by the country's growing tech industry. The demand for AI is fueled by the government's efforts to boost innovation and the increasing adoption of AI in various sectors. This trend is expected to continue, driven by the government's plans to increase investment in AI research and development. As a result, Chinese companies that provide AI-related services and products are likely to benefit from this trend.",
-      "impact": "The news is positive for Chinese tech companies that provide AI-related services and products, such as those in the semiconductor, software, and hardware industries. In the short term, this could lead to increased demand for these companies' products and services, potentially driving up their stock prices. In the medium term, this trend could lead to increased investment in AI research and development, further driving growth for these companies. This could also lead to increased M&A activity in the AI sector, as companies look to expand their capabilities and stay competitive.",
-      "risks": [
-        "regulatory risks related to data privacy and security",
-        "dependency on government support for the AI industry",
-        "potential for a slowdown in AI adoption"
-      ]
-    }
-  },
-  {
     "id": "8310497",
     "headline": "Everybody wants energy security post the Iran war, but how? - Reuters",
     "summary": "Everybody wants energy security post the Iran war, but how?  Reuters",
@@ -800,6 +790,29 @@
         "execution risk: Coal India's ability to successfully execute its diversification strategy and manage the associated risks",
         "regulatory risk: changes in government policies or regulations may impact Coal India's iron ore mining operations",
         "integration risk: Coal India's integration of iron ore mining into its existing operations may be challenging"
+      ]
+    }
+  },
+  {
+    "id": "8310190",
+    "headline": "AI demand keeps China's export engine humming, but risks loom - Reuters",
+    "summary": "AI demand keeps China's export engine humming, but risks loom  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcmhJQUR2QVh5SHpuWDZ2ZFk3RWdCbDlINEY1MEZuc0tRbkJQT3FuRmQ1WDdtd2owTmhJeDdIU09EYkFiNEJpTnA3cWhQQ1dnWUpkWDJPVENiZDIzTXlNUlRNenF2VlRXM29EbFFJelBiTUhuU1cycU5EV3RvaVhIbU4yc0pNWDM2aGlCaGtSTG5ySGx3aXhFcTNRTkZ4cFlva3k0cA?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1786070520,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1786085623,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "China's export engine is humming due to strong demand for AI, driven by the country's growing tech industry. The demand for AI is fueled by the government's efforts to boost innovation and the increasing adoption of AI in various sectors. This trend is expected to continue, driven by the government's plans to increase investment in AI research and development. As a result, Chinese companies that provide AI-related services and products are likely to benefit from this trend.",
+      "impact": "The news is positive for Chinese tech companies that provide AI-related services and products, such as those in the semiconductor, software, and hardware industries. In the short term, this could lead to increased demand for these companies' products and services, potentially driving up their stock prices. In the medium term, this trend could lead to increased investment in AI research and development, further driving growth for these companies. This could also lead to increased M&A activity in the AI sector, as companies look to expand their capabilities and stay competitive.",
+      "risks": [
+        "regulatory risks related to data privacy and security",
+        "dependency on government support for the AI industry",
+        "potential for a slowdown in AI adoption"
       ]
     }
   },
