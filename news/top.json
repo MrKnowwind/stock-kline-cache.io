@@ -1,5 +1,28 @@
 [
   {
+    "id": "8326930",
+    "headline": "We're buying more of an AI stock that's under pressure to start the week",
+    "summary": "The purchase will increase the stock's weighting in our portfolio to 3.3% from 3.1%.",
+    "url": "https://www.cnbc.com/2026/08/10/were-buying-more-of-an-ai-stock-thats-under-pressure-to-start-the-week.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108346681-17861152912026-08-07t145632z_1710338362_rc2ptmahkgl1_rtrmadp_0_usa-stocks.jpeg?v=1786115422&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1786376116,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1786379625,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Intel's decision to sell $15 billion in stock and potentially an additional $2.25 billion is seen as a sign of strength, as it indicates the company is confident in its future prospects and is investing aggressively in its business. This move is not unexpected, as Intel had previously mentioned the need to tap the capital markets to fund its foundry buildout. The company's strong liquidity position and raised capex outlook suggest that it is well-positioned to capitalize on the growing demand for AI compute. Intel's management believes that the current demand environment is strong and sustainable, driven by investment in AI compute and emerging areas such as physical AI and advanced packaging.",
+      "impact": "This news is likely to have a positive impact on Intel's stock price, as it resolves the overhang of the potential stock sale and allows investors to focus on the company's growth prospects. The increased investment in its business and the confidence in the demand environment should support Intel's earnings outlook and valuation. The medium-term effect is likely to be an increase in the stock price, as investors become more optimistic about the company's future prospects.",
+      "risks": [
+        "valuation risk",
+        "execution risk",
+        "macroeconomic downturn risk"
+      ]
+    }
+  },
+  {
     "id": "8326828",
     "headline": "HHS moves to tighten oversight of food ingredients as safety concerns mount",
     "summary": "HHS moves to tighten oversight of food ingredients and define ultra-processed foods as food safety concerns raise questions about FDA visibility.",
@@ -22637,29 +22660,6 @@
         "Increased military spending risk",
         "Global economic uncertainty risk",
         "Decreased investor sentiment risk"
-      ]
-    }
-  },
-  {
-    "id": "8208735",
-    "headline": "Dollar edges higher on escalating US-Iran tension, yen slides on pension doubts - Reuters",
-    "summary": "Dollar edges higher on escalating US-Iran tension, yen slides on pension doubts  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVjVMa3FGTU1NQ1pSWXVaRllPTTBLc0xYR1dlQS1URUdySXZOb1ZaT3RxUFNlUmo4djVDcTNrWVpNOUFsNnpkcW5nWFJyZWlKamtvMlppZkYyTUpLeFBGc1dYUHYtcTNSTjk2aVhDSjI2OUV0MU81eDBsMUNaRGxiZHQ2SzUzRTBsd290RGZRTWl0NUZ0Mi1LVnBsMVMzSWlqNVJUeEJQQVp4cTRUUGhj?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1783959049,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1783943087,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The US dollar has weakened amid renewed tensions with Iran, while the yen has slid due to concerns over Japan's pension system. The yen's decline is attributed to the country's pension fund's potential shift towards stocks, which could lead to increased market volatility. This development has implications for the Japanese economy, as a decline in the yen can make imports more expensive and potentially lead to higher inflation. The yen's weakness also affects Japan's export-oriented companies, which may see their profits decline if the yen continues to depreciate.",
-      "impact": "The yen's weakness could lead to a decline in the stock prices of Japanese export-oriented companies, such as those in the technology and automotive sectors. This could also impact the earnings outlook for these companies, as a weaker yen can make their exports more expensive and reduce their profit margins. In the short term, the yen's decline may lead to increased volatility in the Japanese stock market, which could affect investor sentiment and liquidity. In the medium term, the yen's weakness could lead to higher inflation in Japan, which could impact the country's economic growth and the stock market as a whole.",
-      "risks": [
-        "currency risk",
-        "inflation risk",
-        "economic growth risk"
       ]
     }
   }
