@@ -1,5 +1,51 @@
 [
   {
+    "id": "8331886",
+    "headline": "We're exiting our position in an industrial stock to make room for a new AI play",
+    "summary": "The company's disappointing quarter last month put the stock on the chopping block.",
+    "url": "https://www.cnbc.com/2026/08/11/were-exiting-our-position-in-industrial-stock-to-make-room-for-a-new-ai-play.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108074552-1733934578551-DOV_Image_7.jpg?v=1733934904&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1786460744,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1786462825,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Jim Cramer's Charitable Trust has sold its remaining shares of Dover (DOV) after a disappointing quarter, citing a temporary production issue as the reason. The sale comes after a previous sale last week, with the trust realizing an average gain of 19% on the stock. This decision is consistent with Cramer's previous messaging after the earnings report, where he acknowledged the issue as temporary but fixable. The trust is now making room for a new position in Micron (MU).",
+      "impact": "The sale of DOV shares is likely to have a short-term negative impact on the stock price, as the trust's exit may be seen as a vote of no confidence in the company's ability to resolve the production issue. However, the medium-term impact may be neutral, as the issue is considered temporary and fixable. The trust's new position in MU may also have a positive impact on the semiconductor sector, potentially leading to increased demand and prices for related stocks.",
+      "risks": [
+        "temporary production issue risk",
+        "earnings outlook uncertainty",
+        "valuation risk"
+      ]
+    }
+  },
+  {
+    "id": "8331223",
+    "headline": "S&P 500 muted as industrials counter tech drag; US-Iran peace prospects rise - Reuters",
+    "summary": "S&P 500 muted as industrials counter tech drag; US-Iran peace prospects rise  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjkzU2JZemo3b1RFMlU3SU1qeTE0NEY0eHBaakpscDY4blhsX3c5VFdFUmxkWVk2Yk9ab040Z1dRbEN4SDMwQU9fSnFrWUN2SkZHNzZqOFRJc0FXWUNOZTFRTnRvX0hqRTFfMGdBMnh2S2lPMjlqZ01kSFNyT0dqLVZMNDBZcm13a01lQWdScHVhSUFXQ215cjJGWXg2T180?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1786458596,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1786457249,
+      "sentiment": "bullish",
+      "confidence": 0.7,
+      "summary": "The S&P 500 and Nasdaq indexes opened higher on the news of a potential fresh US-Iran peace deal. This development is seen as a positive catalyst for the markets, as it reduces the risk of a conflict in the Middle East and its potential impact on global trade and economic growth. The news comes as a relief to investors who have been concerned about the escalating tensions between the two nations. The US-Iran conflict has been a major overhang on the markets for several months, and this development could lead to a reduction in volatility and increased investor confidence.",
+      "impact": "The news is likely to have a positive impact on the markets in the short term, with the S&P 500 and Nasdaq indexes potentially continuing their upward trend. This could be driven by increased investor confidence and reduced risk aversion. In the medium term, a US-Iran peace deal could lead to increased economic growth and trade, benefiting industries such as energy, transportation, and logistics. This could also lead to an increase in earnings for companies in these sectors.",
+      "risks": [
+        "Risk of a last-minute breakdown in negotiations",
+        "Uncertainty around the terms of the deal",
+        "Potential for increased inflation due to increased economic growth"
+      ]
+    }
+  },
+  {
     "id": "8331672",
     "headline": "Polymarket makes moves to get house in order before expected boom times for prediction markets this fall",
     "summary": "The marketing changes come amid an investigation by the Commodity Futures Trading Commission into the company's promotional practices.",
@@ -23,25 +69,48 @@
     }
   },
   {
-    "id": "8331223",
-    "headline": "S&P 500, Nasdaq open higher as investors weigh report of fresh U.S.-Iran peace deal - Reuters",
-    "summary": "S&P 500, Nasdaq open higher as investors weigh report of fresh U.S.-Iran peace deal  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjkzU2JZemo3b1RFMlU3SU1qeTE0NEY0eHBaakpscDY4blhsX3c5VFdFUmxkWVk2Yk9ab040Z1dRbEN4SDMwQU9fSnFrWUN2SkZHNzZqOFRJc0FXWUNOZTFRTnRvX0hqRTFfMGdBMnh2S2lPMjlqZ01kSFNyT0dqLVZMNDBZcm13a01lQWdScHVhSUFXQ215cjJGWXg2T180?oc=5",
+    "id": "8331118",
+    "headline": "Gulf stocks fall on fading prospects of US-Iran deal - Reuters",
+    "summary": "Gulf stocks fall on fading prospects of US-Iran deal  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWE51WXltVHpwZ1NDajBwY2hiNmo1N2hocHpnb2VSaHJ4SFoweUJOTkd4Y0h3djdlbVhCSnZnQ2MxUHdNWDN0dGRERlFLcTF4blVQZjFjZ29LWmFGaEthaXEzQnNuQTJHdl9SQ1p1MExiSE9aZWtNbWFBRFR2STlwemZCSndOTEN3UnZESFRoSWlNa1VLVXBnLUlyaENoT3lEQkE?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1786455344,
+    "publishedAt": 1786455404,
     "analysis": {
       "version": 2,
-      "generatedAt": 1786457249,
-      "sentiment": "bullish",
-      "confidence": 0.7,
-      "summary": "The S&P 500 and Nasdaq indexes opened higher on the news of a potential fresh US-Iran peace deal. This development is seen as a positive catalyst for the markets, as it reduces the risk of a conflict in the Middle East and its potential impact on global trade and economic growth. The news comes as a relief to investors who have been concerned about the escalating tensions between the two nations. The US-Iran conflict has been a major overhang on the markets for several months, and this development could lead to a reduction in volatility and increased investor confidence.",
-      "impact": "The news is likely to have a positive impact on the markets in the short term, with the S&P 500 and Nasdaq indexes potentially continuing their upward trend. This could be driven by increased investor confidence and reduced risk aversion. In the medium term, a US-Iran peace deal could lead to increased economic growth and trade, benefiting industries such as energy, transportation, and logistics. This could also lead to an increase in earnings for companies in these sectors.",
+      "generatedAt": 1786451402,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Gulf stocks have declined due to fading prospects of a US-Iran deal. The deal, which aimed to ease tensions between the two nations, has lost momentum, leading to concerns about the potential impact on regional stability and economic growth. This development has led to a sell-off in Gulf stocks, particularly those with significant exposure to the energy sector. The decline in oil prices has also contributed to the market's downturn, as many Gulf countries rely heavily on oil exports. The news has also sparked concerns about the potential impact on the region's economic growth and investor sentiment.",
+      "impact": "The potential impact on Gulf stocks is significant, with a short-term decline in stock prices expected due to the sell-off. In the medium-term, the fading prospects of the US-Iran deal could lead to a decline in investor sentiment and a decrease in economic growth in the region. This could have a negative impact on the earnings outlook for companies with significant exposure to the energy sector. The decline in oil prices could also lead to a decrease in government revenue for Gulf countries, potentially affecting their ability to invest in infrastructure and other projects.",
       "risks": [
-        "Risk of a last-minute breakdown in negotiations",
-        "Uncertainty around the terms of the deal",
-        "Potential for increased inflation due to increased economic growth"
+        "decline in investor sentiment",
+        "economic slowdown in the region",
+        "decrease in government revenue for Gulf countries"
+      ]
+    }
+  },
+  {
+    "id": "8331783",
+    "headline": "Three killed in attacks on ships in Red Sea, Gulf, sources say - Reuters",
+    "summary": "Three killed in attacks on ships in Red Sea, Gulf, sources say  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWXg2TDlnMzVlaTc1d1hoaFVFTG91b29XZzlBMC1hNGZ1REtpdDlTLXZFcGF5Mjg0N1ZvaVpSZlpEYkR6TUM1Mktja1k2TDdIVGlBZHBrMEFGdHNXSFFQV0s0eEY3aHRBcXNxa3FKUkR6Y1RmSVZOS0lwbGVZTVFKX3VUMzU5c2wwZ2VjZ1pqWU1PeDNhb0lOeFlzcDFnN1lS?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1786455128,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1786462883,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Three ships were attacked in the Red Sea and the Gulf, resulting in three fatalities. The attacks are believed to be related to piracy or terrorism. This incident highlights the ongoing security concerns in the region, particularly for maritime trade. The attacks may disrupt global supply chains and have a negative impact on the shipping industry. The incident may also lead to increased security measures and costs for shipping companies.",
+      "impact": "The attacks are likely to have a short-term negative impact on shipping stocks, particularly those with exposure to the Red Sea and Gulf regions. Companies such as Maersk and COSCO may see a decline in their stock prices due to the increased security risks and potential disruptions to their operations. In the medium term, the incident may lead to increased costs for shipping companies, which could negatively impact their earnings outlook and valuation.",
+      "risks": [
+        "security risk",
+        "disruption to global supply chains",
+        "increased costs for shipping companies"
       ]
     }
   },
@@ -132,7 +201,43 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1786447957
+    "publishedAt": 1786447957,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1786462945,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "A Houthi attack on a small cargo ship in the Red Sea has resulted in the deaths of three crew members. The incident highlights the ongoing geopolitical tensions in the region, which may impact global shipping and trade. The Houthi rebels have been involved in several attacks on ships in the Red Sea in recent years, causing concerns about the safety of maritime trade. The incident may lead to increased security measures and costs for shipping companies, potentially affecting their profitability and earnings outlook.",
+      "impact": "The potential impact on related stocks, such as shipping companies or those with exposure to the Middle East region, may be negative in the short-term due to increased security concerns and potential disruptions to trade. This may lead to a decline in earnings and revenue for these companies, particularly if they have significant operations in the region. In the medium-term, the incident may lead to increased investment in security measures and infrastructure, potentially benefiting companies that provide security services or equipment. However, the impact on the broader economy and global trade is still uncertain.",
+      "risks": [
+        "Increased security costs for shipping companies",
+        "Disruptions to trade and supply chains",
+        "Potential escalation of regional tensions"
+      ]
+    }
+  },
+  {
+    "id": "8331224",
+    "headline": "IHG's room revenue growth slows as Iran war offsets US, China growth - Reuters",
+    "summary": "IHG's room revenue growth slows as Iran war offsets US, China growth  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNkx5TVhHeUpxV2lJY0VPcnNCZDd0UmhYSXp2U0d0a2RwZ3BzV1JHR0xodDdBM0NNMTMwLTVqQy1NNFh0RUc0STBpdnlZdVNHQ0RKb2xHdWtuWG5rNExwN3NnMUxRb182Z3B6U25IaGJXWTBacTZPOVM1NjFMd2ZWUFNDLTNPVU9XY0c2VFZ0T0RiQ2NFVWFVWVEwX2RPVV9JOTRrckdyaWs4dw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1786445712,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1786463001,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "InterContinental Hotels Group (IHG) has reported a slowdown in room revenue growth, primarily due to the ongoing conflict in Iran, which has negatively impacted its Middle East operations. The company's US and China businesses have seen growth, but this has not been enough to offset the decline in the Middle East. The Iran war has disrupted travel and tourism in the region, affecting IHG's hotel occupancy rates and room revenue. This development is a concern for IHG's business, particularly given its significant presence in the Middle East.",
+      "impact": "The slowdown in room revenue growth is likely to negatively impact IHG's earnings outlook in the short term. Investors may reassess their valuation of the company, potentially leading to a decline in its stock price. The medium-term impact will depend on the duration of the conflict in Iran and its effects on the global travel industry. IHG's liquidity may also be affected if the conflict persists, leading to a decrease in investor confidence.",
+      "risks": [
+        "Iran conflict risk",
+        "Middle East market volatility risk",
+        "global travel industry slowdown risk"
+      ]
+    }
   },
   {
     "id": "8331011",
@@ -179,39 +284,6 @@
         "Regulatory risk: the new financing model may be subject to regulatory scrutiny, which could impact the availability of funds and the terms of the loans."
       ]
     }
-  },
-  {
-    "id": "8331118",
-    "headline": "Gulf stocks fall on fading prospects of US-Iran deal - Reuters",
-    "summary": "Gulf stocks fall on fading prospects of US-Iran deal  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWE51WXltVHpwZ1NDajBwY2hiNmo1N2hocHpnb2VSaHJ4SFoweUJOTkd4Y0h3djdlbVhCSnZnQ2MxUHdNWDN0dGRERlFLcTF4blVQZjFjZ29LWmFGaEthaXEzQnNuQTJHdl9SQ1p1MExiSE9aZWtNbWFBRFR2STlwemZCSndOTEN3UnZESFRoSWlNa1VLVXBnLUlyaENoT3lEQkE?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1786437955,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1786451402,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Gulf stocks have declined due to fading prospects of a US-Iran deal. The deal, which aimed to ease tensions between the two nations, has lost momentum, leading to concerns about the potential impact on regional stability and economic growth. This development has led to a sell-off in Gulf stocks, particularly those with significant exposure to the energy sector. The decline in oil prices has also contributed to the market's downturn, as many Gulf countries rely heavily on oil exports. The news has also sparked concerns about the potential impact on the region's economic growth and investor sentiment.",
-      "impact": "The potential impact on Gulf stocks is significant, with a short-term decline in stock prices expected due to the sell-off. In the medium-term, the fading prospects of the US-Iran deal could lead to a decline in investor sentiment and a decrease in economic growth in the region. This could have a negative impact on the earnings outlook for companies with significant exposure to the energy sector. The decline in oil prices could also lead to a decrease in government revenue for Gulf countries, potentially affecting their ability to invest in infrastructure and other projects.",
-      "risks": [
-        "decline in investor sentiment",
-        "economic slowdown in the region",
-        "decrease in government revenue for Gulf countries"
-      ]
-    }
-  },
-  {
-    "id": "8331224",
-    "headline": "IHG's room revenue growth slows as Iran war offsets US, China growth - Reuters",
-    "summary": "IHG's room revenue growth slows as Iran war offsets US, China growth  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNkx5TVhHeUpxV2lJY0VPcnNCZDd0UmhYSXp2U0d0a2RwZ3BzV1JHR0xodDdBM0NNMTMwLTVqQy1NNFh0RUc0STBpdnlZdVNHQ0RKb2xHdWtuWG5rNExwN3NnMUxRb182Z3B6U25IaGJXWTBacTZPOVM1NjFMd2ZWUFNDLTNPVU9XY0c2VFZ0T0RiQ2NFVWFVWVEwX2RPVV9JOTRrckdyaWs4dw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1786428360
   },
   {
     "id": "8330157",
@@ -728,6 +800,16 @@
         "sector-specific risk (tech)"
       ]
     }
+  },
+  {
+    "id": "8331676",
+    "headline": "PODCAST: Hormuz concessions, Typhoon Dolphin and Wisconsin's primary - Reuters",
+    "summary": "PODCAST: Hormuz concessions, Typhoon Dolphin and Wisconsin's primary  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObGpZMldIODJzRkEwM19jZ0l5aHZ5aDgtXy1YbG0zZVFBUUdUdkxMVXNSa2tzRXRFRUpmenNOVGFob3Vzak0ySDZHbWk0czhobXBIeFkxbU1xYkJKdE9SWXZQUkxJbENiVzdrVmU4aDF2bXhnY2lDQU1aZy1FY1RidHY4TnNNVTQxRE9DeElaTTZIdFZCUzhDcktFdnBCVGc?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1786357200
   },
   {
     "id": "8330675",
@@ -1704,29 +1786,6 @@
     }
   },
   {
-    "id": "8309676",
-    "headline": "Dollar drops as weak US jobs data pushes out Fed hike expectations - Reuters",
-    "summary": "Dollar drops as weak US jobs data pushes out Fed hike expectations  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOUNvR1pacXVtTWI3eUROeE54TXVYY3JEU1FNSFA4YlBaVFp6MDFXY0tFaFpqSFBfM2R2WTJQVDVtNG5RN3ozQkZLTTZpTGN5aDMzUE9uUVAyanZWN0VWcnVzWlF1aDh6Y0k2dlY4WWpsMFRMdFNoRW81Y1M2WW9qNTlPSWZVZGFnRVh1eEVTTXhWSlhOQkgyRFJfUm5nMGtGaHRUbnlITTRidldKOFg3ZEg5NnRLR3dj?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1786140138,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1786080324,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The US dollar strengthened as traders await the outcome of Iran talks and the upcoming US jobs data. The dollar's rise is attributed to its safe-haven status, as investors seek refuge from market volatility. The Iran talks have created uncertainty in the oil market, driving up the dollar's value. The upcoming jobs data will provide insight into the US economy's health, which could further boost the dollar.",
-      "impact": "The dollar's strength may have a positive impact on US multinational companies with significant international exposure, as a stronger dollar reduces their foreign-denominated expenses. This could lead to improved earnings outlook and valuations for these companies. However, a strong dollar may also negatively impact US exporters, as their products become more expensive in foreign markets, potentially reducing demand and sales.",
-      "risks": [
-        "Risk of a sharp decline in oil prices if Iran talks lead to a breakthrough",
-        "Uncertainty around the US jobs data and its impact on US economic growth",
-        "Potential for a stronger dollar to negatively impact US exporters"
-      ]
-    }
-  },
-  {
     "id": "8312115",
     "headline": "US stocks, bonds rally after soft jobs report; yen bounces back - Reuters",
     "summary": "US stocks, bonds rally after soft jobs report; yen bounces back  Reuters",
@@ -1819,25 +1878,25 @@
     }
   },
   {
-    "id": "8309674",
-    "headline": "Brent climbs $1 on uncertainty over end to Iran war - Reuters",
-    "summary": "Brent climbs $1 on uncertainty over end to Iran war  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN0Z0cU1oY1hpbHZmZ1JoanRWLXVubmFlTDlWbkpqQ3V1d2dYYlV1U18zVEJ1Zkh1QXFFYm51SVJtZ1ctNHRGYnVlZGk3X0xKcVRHdW5MMzlDM2VQWDBYcmlWc25WX2VaWEJITEJCb2lOOFJsNFRiX0NYOVhCcmxEMWVLVGZXSkJfUzJzQXB2ZTFSMlJnZTczRWVJU3ZTUHEyeWNhcFBuSlI?oc=5",
+    "id": "8309676",
+    "headline": "Dollar drops as weak US jobs data pushes out Fed hike expectations - Reuters",
+    "summary": "Dollar drops as weak US jobs data pushes out Fed hike expectations  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOUNvR1pacXVtTWI3eUROeE54TXVYY3JEU1FNSFA4YlBaVFp6MDFXY0tFaFpqSFBfM2R2WTJQVDVtNG5RN3ozQkZLTTZpTGN5aDMzUE9uUVAyanZWN0VWcnVzWlF1aDh6Y0k2dlY4WWpsMFRMdFNoRW81Y1M2WW9qNTlPSWZVZGFnRVh1eEVTTXhWSlhOQkgyRFJfUm5nMGtGaHRUbnlITTRidldKOFg3ZEg5NnRLR3dj?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1786133114,
+    "publishedAt": 1786133791,
     "analysis": {
       "version": 2,
-      "generatedAt": 1786080279,
+      "generatedAt": 1786080324,
       "sentiment": "bullish",
       "confidence": 0.8,
-      "summary": "Oil prices have risen due to concerns over the potential reopening of the Strait of Hormuz, a critical waterway for global oil trade. The Strait of Hormuz is a key chokepoint for oil exports from the Middle East, and any disruptions to its operations can significantly impact global oil supplies. The news has sparked concerns among traders and investors, leading to a surge in oil prices. This development is a reminder of the geopolitical risks associated with oil production and trade in the region.",
-      "impact": "The potential reopening of the Strait of Hormuz is likely to have a positive impact on oil prices in the short term, as it could lead to increased oil exports from the Middle East. This could result in higher earnings for oil producers and refiners, particularly those with significant exposure to Middle Eastern oil. However, the medium-term impact is less clear, as the situation is highly uncertain and subject to geopolitical developments. The news may also boost sentiment in the energy sector, leading to a short-term increase in stock prices of oil-related companies.",
+      "summary": "The US dollar strengthened as traders await the outcome of Iran talks and the upcoming US jobs data. The dollar's rise is attributed to its safe-haven status, as investors seek refuge from market volatility. The Iran talks have created uncertainty in the oil market, driving up the dollar's value. The upcoming jobs data will provide insight into the US economy's health, which could further boost the dollar.",
+      "impact": "The dollar's strength may have a positive impact on US multinational companies with significant international exposure, as a stronger dollar reduces their foreign-denominated expenses. This could lead to improved earnings outlook and valuations for these companies. However, a strong dollar may also negatively impact US exporters, as their products become more expensive in foreign markets, potentially reducing demand and sales.",
       "risks": [
-        "Geopolitical tensions and potential disruptions to oil trade",
-        "Uncertainty around the reopening of the Strait of Hormuz and its impact on oil supplies",
-        "Potential for increased volatility in oil prices"
+        "Risk of a sharp decline in oil prices if Iran talks lead to a breakthrough",
+        "Uncertainty around the US jobs data and its impact on US economic growth",
+        "Potential for a stronger dollar to negatively impact US exporters"
       ]
     }
   },
@@ -1861,6 +1920,29 @@
         "regulatory approval risk",
         "integration risk",
         "geopolitical risk"
+      ]
+    }
+  },
+  {
+    "id": "8309674",
+    "headline": "Brent climbs $1 on uncertainty over end to Iran war - Reuters",
+    "summary": "Brent climbs $1 on uncertainty over end to Iran war  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN0Z0cU1oY1hpbHZmZ1JoanRWLXVubmFlTDlWbkpqQ3V1d2dYYlV1U18zVEJ1Zkh1QXFFYm51SVJtZ1ctNHRGYnVlZGk3X0xKcVRHdW5MMzlDM2VQWDBYcmlWc25WX2VaWEJITEJCb2lOOFJsNFRiX0NYOVhCcmxEMWVLVGZXSkJfUzJzQXB2ZTFSMlJnZTczRWVJU3ZTUHEyeWNhcFBuSlI?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1786132475,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1786080279,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Oil prices have risen due to concerns over the potential reopening of the Strait of Hormuz, a critical waterway for global oil trade. The Strait of Hormuz is a key chokepoint for oil exports from the Middle East, and any disruptions to its operations can significantly impact global oil supplies. The news has sparked concerns among traders and investors, leading to a surge in oil prices. This development is a reminder of the geopolitical risks associated with oil production and trade in the region.",
+      "impact": "The potential reopening of the Strait of Hormuz is likely to have a positive impact on oil prices in the short term, as it could lead to increased oil exports from the Middle East. This could result in higher earnings for oil producers and refiners, particularly those with significant exposure to Middle Eastern oil. However, the medium-term impact is less clear, as the situation is highly uncertain and subject to geopolitical developments. The news may also boost sentiment in the energy sector, leading to a short-term increase in stock prices of oil-related companies.",
+      "risks": [
+        "Geopolitical tensions and potential disruptions to oil trade",
+        "Uncertainty around the reopening of the Strait of Hormuz and its impact on oil supplies",
+        "Potential for increased volatility in oil prices"
       ]
     }
   },
@@ -2019,8 +2101,8 @@
   },
   {
     "id": "8319935",
-    "headline": "Citi revises Q3 2026 Brent forecast to $80/bbl - reuters.com",
-    "summary": "Citi revises Q3 2026 Brent forecast to $80/bbl  reuters.com",
+    "headline": "Citi revises Q3 2026 Brent forecast to $80/bbl - Reuters",
+    "summary": "Citi revises Q3 2026 Brent forecast to $80/bbl  Reuters",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQWdjY0pOMG13ZXVSOERjbUJkT0xkdUVnekRWWW50aE5aNWJHWXk5TmIxbXlOQ1R1b1huUzlLZ1VTTzlqQngzRi12T1BJZy1oSllERGhpUXpGUUt2OGdxZC1raGhST2RjbjdFZUQzZ1NvU3NzeHhIVVg4Mlk1NkQ1VmtzZGYwX05XcmNPV2w5bw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -22541,75 +22623,6 @@
         "reduced air travel demand risk",
         "increased costs and risks for airlines",
         "instability and security concerns"
-      ]
-    }
-  },
-  {
-    "id": "8214604",
-    "headline": "United Airlines' new upsell: Keeping other travelers out of the middle seat",
-    "summary": "United Airlines will allow customers to pay more to keep the middle seat open on its Airbus A321XLRs",
-    "url": "https://www.cnbc.com/2026/07/14/united-airlines-for-empty-middle-seat-is-new-upsell.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108334662-1784032857530-A321XLREconomyPlusInterior.jpg?v=1784032923&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1784035052,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784045013,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "United Airlines is introducing a new upsell option where customers can pay to keep the middle seat empty on its Airbus A321XLRs. This move is part of a broader trend in the airline industry to offer premium services and increase revenue. The new seating arrangement is similar to those found on European airlines, where it's sold as business class for short-haul flights. United's goal is to entice customers to pay more for a more comfortable flying experience. This move is expected to boost revenue and profitability for the airline.",
-      "impact": "The introduction of this new upsell option is likely to have a positive impact on United Airlines' revenue and profitability in the short term. As more customers opt for the premium seating option, the airline can increase its revenue per seat, leading to higher earnings. This move may also put pressure on competitors to follow suit, potentially leading to a competitive pricing environment. In the medium term, this could lead to increased demand for premium services, driving growth in the airline industry.",
-      "risks": [
-        "Regulatory risks associated with changes in airline regulations and industry standards",
-        "Competition from other airlines offering similar premium services",
-        "Uncertainty around consumer demand for premium seating options"
-      ]
-    }
-  },
-  {
-    "id": "8214042",
-    "headline": "Most Gulf bourses retreat on US-Iran hostilities - Reuters",
-    "summary": "Most Gulf bourses retreat on US-Iran hostilities  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSEYxR3pORjFGZWRWaDVLRjFydXg5aURMT3JzOXhPa0JzamlEZFNpSE9uQjFNclAxRkdXRmxiTmJFVFRCYlE1RmxzcnRkV2RIRzI0NzBZUTF2WldGSDE5MmxSQ3YzOXRtSUZFZlVTSVExM2NlU3ROU3FfMGlRUUxfdXBScWxVUFJqS1cyNWpqNWR2dHJVZGkzdGFJTnA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784035032,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784033648,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Tensions between the US and Iran have led to a decline in Gulf markets, with most countries experiencing losses. The situation has been escalating since the US assassination of Iranian General Qassem Soleimani, and recent events have heightened concerns about a potential conflict. The US-Iran hostilities have created uncertainty for investors, leading to a risk-off sentiment in the region. This has resulted in a decline in oil prices, which has negatively impacted energy-related stocks in the Gulf. The situation is expected to continue affecting the region's markets until a resolution is reached.",
-      "impact": "The potential impact on stocks in the Gulf region is significant, with energy-related companies likely to be affected in the short term due to declining oil prices. This could lead to a decline in earnings for these companies, making them less attractive to investors. The medium-term impact could also be felt in the region's economic growth, as a prolonged conflict could lead to decreased investor confidence and reduced economic activity. The decline in oil prices may also have a ripple effect on other industries that rely on oil, such as transportation and manufacturing.",
-      "risks": [
-        "Oil price volatility risk",
-        "Decreased investor confidence risk",
-        "Economic growth slowdown risk"
-      ]
-    }
-  },
-  {
-    "id": "8214743",
-    "headline": "Chemical tanker Stolt Magnesium hit by explosion off Omani coast, manager says - Reuters",
-    "summary": "Chemical tanker Stolt Magnesium hit by explosion off Omani coast, manager says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ0hwdkFXSVNkZmdzUXllTXZ4QnhLajRNV3pJTm43MmFoSGcxUTBxU0xNSWJiVnVpVkNUMGdkYjlHVUtkVzFvT3h1YXd0Y0RLZXBqYjV0bmVnRFpXV2tlUExxejRCTDVFQmxDUzdJc3ZHNUhkbWczZnBTWVB6WEYyWk15MWxHaDVRVWZUZ0JGWC11eERIVExXcTFLd2VZM0FvdVlTT1h5YlZKZlM0QkpaUEFldm9BMFJYS2hBRTgyQQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784034396,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784040183,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "A chemical tanker, Stolt Magnesium, has been hit by an explosion off the Omani coast, according to its manager. The incident occurred on [date] and resulted in damage to the vessel. The cause of the explosion is not yet known. The Stolt Tankers company operates a fleet of chemical tankers, and this incident may impact the company's operations and earnings. The explosion highlights the risks associated with the chemical tanker industry, which involves transporting hazardous materials.",
-      "impact": "The explosion on Stolt Magnesium may lead to a short-term decline in the stock prices of companies operating in the chemical tanker industry, including Stolt Tankers. Investors may reassess the risks associated with the industry, potentially impacting the valuation of these companies. The incident may also lead to increased regulatory scrutiny and safety measures, which could result in additional costs for the industry. In the medium term, the incident may impact the earnings outlook for companies in the industry, particularly if the damage to Stolt Magnesium is extensive and the vessel is out of commission for an extended period.",
-      "risks": [
-        "Regulatory scrutiny and increased safety measures",
-        "Damage to the vessel and potential earnings impact",
-        "Reputation risk for Stolt Tankers and the chemical tanker industry"
       ]
     }
   }
