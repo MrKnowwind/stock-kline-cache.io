@@ -1,5 +1,51 @@
 [
   {
+    "id": "8343064",
+    "headline": "Cramer: How words of wisdom from Gene Hackman help me make peace with investing mistakes",
+    "summary": "This is an excerpt from the CNBC Investing Club's August Monthly Meeting, which was held Thursday.",
+    "url": "https://www.cnbc.com/2026/08/13/cramer-how-words-of-wisdom-from-gene-hackman-help-me-make-peace-with-investing-mistakes.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108349274-1786640959292-108349274-1786640901076-gettyimages-1039964326-0000359743-002.jpg?v=1786640975&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1786649004,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1786652518,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Jim Cramer, a well-known equity analyst and CNBC host, shared his thoughts on two significant investment mistakes, specifically Nike and Honeywell Aerospace. He discussed how he got involved with Nike after the departure of former CEO John Donahoe and the return of Elliott Hill, but realized that the company had changed significantly. Cramer emphasized the importance of managing losses and avoiding mistakes, citing the example of a hedge fund that blew up due to lack of discipline and risk controls. He also highlighted his goal of teaching investors to make money through individual stocks, rather than relying on professional managers.",
+      "impact": "The news may have a neutral impact on Nike's stock price in the short term, as Cramer's comments are more reflective of his personal experience rather than a fundamental change in the company's prospects. However, the discussion may lead to a reevaluation of Nike's valuation, potentially causing a slight decline in the stock price. In the medium term, Cramer's emphasis on individual stocks may encourage investors to take a closer look at Nike's fundamentals and potentially increase trading activity.",
+      "risks": [
+        "valuation risk",
+        "sentiment risk",
+        "liquidity risk"
+      ]
+    }
+  },
+  {
+    "id": "8340605",
+    "headline": "Stocks rise as traders reduce rate hike bets, oil prices drop - Reuters",
+    "summary": "Stocks rise as traders reduce rate hike bets, oil prices drop  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNazlfTWozZlI1am8yV1pmREdVZGswQ1NPWl92dGhIN3lVbWJRaFA2YWhWNDQ4NWwweXZpbmpLOGFmcDlUdDhBSGFyU1piOVBzam1JOEN2RVFDOXdWOFk2LTB1MklsRzRfVmlaR3BTb2ZFNmw2U0hjUnhNLUd3cVV0WElxVQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1786646501,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1786614875,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Global stocks edged up as the oil price remained below $90, with the US dollar reaching a two-week high. The market is also keeping a close eye on Iran, where the nuclear talks are ongoing. The decline in oil prices has been a boon for consumers and businesses, leading to increased spending and economic activity. The dollar's strength, however, may have a negative impact on US multinational corporations with significant foreign revenue exposure. The market is cautiously optimistic about the potential for a resolution to the Iran nuclear issue, which could have a positive impact on global oil prices and the overall economy.",
+      "impact": "The decline in oil prices and the dollar's strength could lead to increased consumer spending and economic activity, benefiting companies with exposure to the consumer sector. The potential resolution of the Iran nuclear issue could also lead to a rise in oil prices, benefiting energy companies. However, the dollar's strength may have a negative impact on US multinational corporations with significant foreign revenue exposure, potentially leading to lower earnings and reduced valuations.",
+      "risks": [
+        "dollar strength risk",
+        "Iran nuclear talks uncertainty risk",
+        "oil price volatility risk"
+      ]
+    }
+  },
+  {
     "id": "8341141",
     "headline": "Iran, US make competing claims over control of Strait of Hormuz - Reuters",
     "summary": "Iran, US make competing claims over control of Strait of Hormuz  Reuters",
@@ -520,8 +566,8 @@
   },
   {
     "id": "8339264",
-    "headline": "Oil falls more than 3% on weaker global demand outlook and US crude buildup - Reuters",
-    "summary": "Oil falls more than 3% on weaker global demand outlook and US crude buildup  Reuters",
+    "headline": "Oil settles down 2% on weak demand outlook, hefty US crude build - Reuters",
+    "summary": "Oil settles down 2% on weak demand outlook, hefty US crude build  Reuters",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRHRqOVFPR196RlJ0WTVZajZ6NHRpdmhmZ0EtSDMwTDVZVk5mX2JnVm9LVnFDQ2M4c08ybExVeldFQk9BdG9HVldTbnJFRDVjdTc3MF8wZmc4ck41bWd6Wng2SFowYjZrNW1UVzJuMDR4cnBUT0c2TXUteFR0cTFiVVY5bm5Da09NSDI4akNIcFY4NHRBRzkzNXNuZ1luQjNGUHFFdnVhT1RCNGlKMWx4MkgzdzhLdw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -538,29 +584,6 @@
         "Decreased revenue and profitability for oil-producing companies",
         "Negative impact on earnings outlook",
         "Potential decline in stock prices"
-      ]
-    }
-  },
-  {
-    "id": "8340605",
-    "headline": "Stocks rise as traders reduce rate hike bets, oil prices drop - Reuters",
-    "summary": "Stocks rise as traders reduce rate hike bets, oil prices drop  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNazlfTWozZlI1am8yV1pmREdVZGswQ1NPWl92dGhIN3lVbWJRaFA2YWhWNDQ4NWwweXZpbmpLOGFmcDlUdDhBSGFyU1piOVBzam1JOEN2RVFDOXdWOFk2LTB1MklsRzRfVmlaR3BTb2ZFNmw2U0hjUnhNLUd3cVV0WElxVQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1786582920,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1786614875,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Global stocks edged up as the oil price remained below $90, with the US dollar reaching a two-week high. The market is also keeping a close eye on Iran, where the nuclear talks are ongoing. The decline in oil prices has been a boon for consumers and businesses, leading to increased spending and economic activity. The dollar's strength, however, may have a negative impact on US multinational corporations with significant foreign revenue exposure. The market is cautiously optimistic about the potential for a resolution to the Iran nuclear issue, which could have a positive impact on global oil prices and the overall economy.",
-      "impact": "The decline in oil prices and the dollar's strength could lead to increased consumer spending and economic activity, benefiting companies with exposure to the consumer sector. The potential resolution of the Iran nuclear issue could also lead to a rise in oil prices, benefiting energy companies. However, the dollar's strength may have a negative impact on US multinational corporations with significant foreign revenue exposure, potentially leading to lower earnings and reduced valuations.",
-      "risks": [
-        "dollar strength risk",
-        "Iran nuclear talks uncertainty risk",
-        "oil price volatility risk"
       ]
     }
   },
@@ -923,6 +946,29 @@
         "regulatory approval risk",
         "integration risk",
         "demand uncertainty"
+      ]
+    }
+  },
+  {
+    "id": "8334699",
+    "headline": "Trump says his plane faced 'greater risk' in secret flight change - Reuters",
+    "summary": "Trump says his plane faced 'greater risk' in secret flight change  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNnFid0QtMU1uWmc0NjVieldJWFFnU1gzMXp6RlA0UldwUkEtaElnOUZMTmtCQlFWUlFRbFlsWndGREllOU8zWjBqZWpYanF4dGdWRWdkQy1ucGd6aGx5YlNrUXZ6TzhkZ2h5alU2VzYxMThmbHdVNjdjTWJSVjhYR2RMRHpXREZ3clRKM2JmM1AxenBFaVMza0p1TXZ0dFFoRGNLR1MtcVRNdUJOY3o0UnFsdnpFc1U?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1786552449,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1786512012,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "US President Trump has made a statement regarding a secret flight change, claiming his plane faced 'greater risk'. The incident is not directly related to any specific company or industry, but it may have implications for the broader aviation and security sectors. The statement is a response to criticism over the secrecy surrounding the flight change. The incident has not been directly linked to any company's business fundamentals or industry context.",
+      "impact": "The news is unlikely to have a significant impact on the stock market, but it may lead to increased scrutiny of the aviation and security sectors. This could result in increased costs for airlines and security companies, potentially affecting their earnings outlook and valuations. The incident may also lead to a short-term increase in investor caution and risk aversion, which could negatively impact liquidity in the short term.",
+      "risks": [
+        "regulatory scrutiny risk",
+        "reputation risk for airlines and security companies",
+        "increased costs risk"
       ]
     }
   },
@@ -1678,29 +1724,6 @@
         "Increased production costs for energy-intensive companies",
         "Potential slowdown in economic growth due to higher oil prices",
         "Uncertainty in global markets due to ongoing conflicts"
-      ]
-    }
-  },
-  {
-    "id": "8334699",
-    "headline": "Trump says his plane faced 'greater risk' in secret flight change - Reuters",
-    "summary": "Trump says his plane faced 'greater risk' in secret flight change  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNnFid0QtMU1uWmc0NjVieldJWFFnU1gzMXp6RlA0UldwUkEtaElnOUZMTmtCQlFWUlFRbFlsWndGREllOU8zWjBqZWpYanF4dGdWRWdkQy1ucGd6aGx5YlNrUXZ6TzhkZ2h5alU2VzYxMThmbHdVNjdjTWJSVjhYR2RMRHpXREZ3clRKM2JmM1AxenBFaVMza0p1TXZ0dFFoRGNLR1MtcVRNdUJOY3o0UnFsdnpFc1U?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1786497600,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1786512012,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "US President Trump has made a statement regarding a secret flight change, claiming his plane faced 'greater risk'. The incident is not directly related to any specific company or industry, but it may have implications for the broader aviation and security sectors. The statement is a response to criticism over the secrecy surrounding the flight change. The incident has not been directly linked to any company's business fundamentals or industry context.",
-      "impact": "The news is unlikely to have a significant impact on the stock market, but it may lead to increased scrutiny of the aviation and security sectors. This could result in increased costs for airlines and security companies, potentially affecting their earnings outlook and valuations. The incident may also lead to a short-term increase in investor caution and risk aversion, which could negatively impact liquidity in the short term.",
-      "risks": [
-        "regulatory scrutiny risk",
-        "reputation risk for airlines and security companies",
-        "increased costs risk"
       ]
     }
   },
@@ -22642,29 +22665,6 @@
         "interest rate risk",
         "economic slowdown risk",
         "regulatory changes risk"
-      ]
-    }
-  },
-  {
-    "id": "8232555",
-    "headline": "Gold is set for weekly fall amid West Asia tensions. What’s ahead?",
-    "summary": "Gold prices face weekly losses amid rising Fed-hike bets, driven by renewed Middle East tensions and inflation concerns.",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-16/gold-heads-for-weekly-fall-as-hormuz-strikes-raise-fed-hike-bets",
-    "source": "Bloomberg",
-    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
-    "relatedSymbols": [],
-    "publishedAt": 1784259247,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784349347,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Gold prices are poised to decline this week due to rising expectations of a Federal Reserve interest rate hike, driven by renewed tensions in the Middle East and concerns about inflation. The Hormuz Strait crisis has heightened geopolitical uncertainty, leading to increased bets on a more aggressive Fed tightening cycle. This, in turn, has diminished the appeal of non-yielding gold as investors seek higher-yielding assets. The resulting decline in gold prices is likely to have a negative impact on gold mining companies, which may see their share prices fall as investors reassess their exposure to the precious metal.",
-      "impact": "The decline in gold prices is expected to negatively impact gold mining companies, such as Newmont Goldcorp (NEM) and Barrick Gold (GOLD), as their share prices may fall due to reduced investor demand. The medium-term impact may be significant, as investors reassess their exposure to the gold mining sector and adjust their portfolios accordingly. The increased expectations of a Fed rate hike may also lead to a strengthening US dollar, which could further reduce the appeal of gold as a safe-haven asset.",
-      "risks": [
-        "reduced investor demand risk",
-        "valuation risk",
-        "macroeconomic uncertainty risk"
       ]
     }
   }
