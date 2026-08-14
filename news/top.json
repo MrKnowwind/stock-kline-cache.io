@@ -1,5 +1,74 @@
 [
   {
+    "id": "8346936",
+    "headline": "Disney CEO Josh D'Amaro to speak with CNBC live from D23 expo",
+    "summary": "New CEO Josh D'Amaro has said his strategy for continued growth at Disney is centered around storytelling, intellectual property and technology.",
+    "url": "https://www.cnbc.com/2026/08/14/disney-ceo-josh-damaro-d23-expo.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108260683-1770126131917-108260683-1770125907979-gettyimages-1869811750-vcg111470591485.jpg?v=1770126142&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1786720436,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1786721653,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Disney CEO Josh D'Amaro expressed confidence in the company's trajectory, citing the success of its theme parks and streaming divisions. He emphasized the importance of storytelling, intellectual property, and technology in driving growth. D'Amaro's comments come after a mixed reception from Wall Street, but the company's recent quarterly results showed strength in its core growth areas. The CEO also hinted at a potential free, ad-supported streaming product to attract more viewers to Disney+. The company has been undergoing cost-cutting measures, including layoffs, and facing increasing political pressure.",
+      "impact": "The news is likely to have a positive impact on Disney's stock in the short-term, as investors may view D'Amaro's confidence as a vote of confidence in the company's growth prospects. The success of the theme parks and streaming divisions may also lead to an increase in earnings expectations, potentially driving the stock price up. However, the company's cost-cutting measures and political pressure may also weigh on the stock in the medium-term, potentially leading to a more cautious investor sentiment.",
+      "risks": [
+        "regulatory pressure risk",
+        "cost-cutting measures risk",
+        "macroeconomic uncertainty risk"
+      ]
+    }
+  },
+  {
+    "id": "8346937",
+    "headline": "Trump asks Supreme Court to let White House ballroom construction continue",
+    "summary": "President Donald Trump tore down the White House East Wing to make way for the ballroom project.",
+    "url": "https://www.cnbc.com/2026/08/14/trump-ballroom-supreme-court-white-house.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108349742-1786714330366-gettyimages-2289313258-ah803417.jpeg?v=1786714379&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1786720301,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1786721708,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The Trump administration has asked the Supreme Court to allow construction of a new White House ballroom to continue, despite a federal appeals court's order to halt the project. The project, which includes a drone port on its roof, is seen as a matter of national security and military readiness. The administration argues that a single district judge should not have the authority to decide what construction is 'strictly necessary' to protect the safety of the President and his staff. This development could potentially delay the project's completion, but it also highlights the importance of national security and military readiness in the Trump administration's agenda.",
+      "impact": "The potential impact of this news on the overall market is likely to be limited, as it is a specific regulatory issue related to a single project. However, if the Supreme Court allows the construction to continue, it could be seen as a positive development for defense contractors and companies involved in the construction industry, potentially leading to increased demand and higher earnings outlook. On the other hand, if the project is delayed or canceled, it could have a negative impact on these companies' earnings and valuations.",
+      "risks": [
+        "Regulatory risk: The project's fate is still uncertain, and a delay or cancellation could negatively impact the involved companies' earnings and valuations.",
+        "Economic uncertainty: The project's cost and timeline are still unclear, and any changes could impact the overall economic outlook and investor sentiment.",
+        "National security risks: The project's focus on national security and military readiness could be seen as a positive development, but it also raises concerns about the potential risks and uncertainties associated with such a project."
+      ]
+    }
+  },
+  {
+    "id": "8346721",
+    "headline": "Housing investors say this is their worst market in at least 3 years",
+    "summary": "Mortgage rates hit a recent low at the end of February but rose sharply at the start of the war with Iran. They are now at their highest level in over a year.",
+    "url": "https://www.cnbc.com/2026/08/14/housing-investors-say-this-is-their-worst-market-in-at-least-3-years.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108316059-1780500480280-gettyimages-2277390163-260523_tohomes_104.jpeg?v=1786660615&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1786716001,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1786721760,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Investors in the single-family housing market are increasingly concerned about interest rates, rising insurance and home costs, and the ongoing war with Iran. This has led to a decline in investor confidence, with the RCN Capital/CJ Patrick Company Investor Sentiment Index falling to an all-time low. The survey found that 45% of investors believe the market has gotten worse, with 28% paying cash in their recent purchases and over half citing the high cost of financing as a major problem. Mortgage rates have risen sharply since the start of the war with Iran, reaching their highest level in over a year.",
+      "impact": "The bearish sentiment and declining investor confidence may lead to a decrease in demand for single-family homes, potentially impacting companies that provide financing, insurance, and home renovation services. This could result in lower earnings for these companies in the short-term. In the medium-term, a decrease in demand may also lead to a decrease in home prices, making it a buyer's market. This could be a positive for homebuyers, but a negative for companies that rely on high home prices, such as homebuilders and real estate investment trusts (REITs).",
+      "risks": [
+        "Decrease in demand for single-family homes",
+        "Rising interest rates",
+        "Increased competition from institutional investors"
+      ]
+    }
+  },
+  {
     "id": "8346619",
     "headline": "Two slicks appear in Gulf as huge oil spill off Oman threatens disaster - Reuters",
     "summary": "Two slicks appear in Gulf as huge oil spill off Oman threatens disaster  Reuters",
@@ -7,7 +76,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1786714588,
+    "publishedAt": 1786715863,
     "analysis": {
       "version": 2,
       "generatedAt": 1786716221,
@@ -19,6 +88,52 @@
         "Decrease in oil production and earnings",
         "Negative impact on investor sentiment",
         "Potential damage to marine ecosystems and infrastructure"
+      ]
+    }
+  },
+  {
+    "id": "8346720",
+    "headline": "The Club's top 10 things to watch in the stock market Friday",
+    "summary": "Stocks are headed for a mixed open following Thursday's record S&P 500 close.",
+    "url": "https://www.cnbc.com/2026/08/14/the-clubs-top-10-things-to-watch-in-the-stock-market-friday.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108348571-1786550238319-Traders-Photo-20260811-KK-PRESS-033.jpg?v=1786550302&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1786713445,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1786721814,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The stock market is expected to open mixed after a record S&P 500 close. Applied Materials posted strong earnings, but missed short-term expectations, causing a 6% drop in its stock price. Sandisk's stock is up 6% after a bullish analyst meeting, while Reddit is surging 11.5% after being invited to the S&P 500. Workday's potential acquisition by Silver Lake has been reported, but its shares are modestly lower. RBC Capital raised price targets for Palo Alto Networks and CrowdStrike, and Capital One is reiterated as TD Cowen's top pick in credit cards. T-Mobile was downgraded due to new pressures from competitors, and Wayfair was upgraded to buy with a raised price target.",
+      "impact": "The strong earnings from Applied Materials and Sandisk's bullish analyst meeting may indicate a positive trend in the semiconductor industry. However, the mixed market open and Workday's modest decline may suggest caution. The upgrade of Wayfair and Palo Alto Networks/CrowdStrike by RBC Capital may lead to short-term gains. T-Mobile's downgrade may lead to a short-term decline. The potential acquisition of Workday by Silver Lake may have a medium-term impact on the company's valuation.",
+      "risks": [
+        "Regulatory approval risk for Workday's potential acquisition",
+        "Integration risk for Workday's acquisition by Silver Lake",
+        "Competitive pressures from AT&T, Verizon, and cable companies on T-Mobile"
+      ]
+    }
+  },
+  {
+    "id": "8346109",
+    "headline": "Drone incursions sow fear, chaos along NATO's Baltic and Finnish borders - Reuters",
+    "summary": "Drone incursions sow fear, chaos along NATO's Baltic and Finnish borders  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSnhVUFlGN1hNN0dsY0Z2cERoTHZwRDBuMUZMWnBnM1RJMnlpWGx5SDE2UHlUcjRBTDlmNzE1Z1dmazllSzVoSU9BYlppN2xlWEFXMUVJb242WlR3aGVrcGZhblBWQzdpTS1qT3dEdGlOZ1o5NHZUWFRKTkVCcWpYa25UbWJLMTI4VnNtZTlpTFhvZjFnS0xPdFpLVkw3bUtEZWFiN3pubkxvaU5LWFRVTWc4dDFFNU1XXzZieURGR01ZZ29odTZhdQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1786712915,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1786721862,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Drone incursions along NATO's Baltic and Finnish borders have created fear and chaos, potentially escalating tensions between Russia and NATO. This development is a significant geopolitical event that could lead to increased military spending and a stronger emphasis on defense capabilities. The incident may also heighten concerns about national security and the potential for future conflicts. The situation is likely to be closely monitored by governments and investors alike, with potential implications for defense contractors and related industries.",
+      "impact": "The news is likely to have a negative impact on the defense industry, particularly companies involved in the production of military drones and related technologies. In the short-term, investors may be cautious about investing in defense stocks, leading to potential short-term volatility. Medium-term, the increased focus on defense spending could benefit companies with strong defense contracts and capabilities, potentially leading to increased earnings and valuation for these companies. However, the overall impact will depend on the specific companies and their exposure to the defense industry.",
+      "risks": [
+        "Increased military spending risk",
+        "Defense industry supply chain disruption risk",
+        "Escalation of tensions between Russia and NATO risk"
       ]
     }
   },
@@ -88,6 +203,26 @@
     }
   },
   {
+    "id": "8346952",
+    "headline": "Morning Bid: Stay of execution? - Reuters",
+    "summary": "Morning Bid: Stay of execution?  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ1ctY1g1cmxWYTR0VzNoR20wQ2lqOVNCczkyUm1CZlo0N2RlX0NpeTNnTWZLbTdlSm9FYnNmc2RPZkhHTEtVdkMwVXkzMjVvQkdQRkdSUEtoekh1Rk1nMDBlQXFXUFRUWG5Md3pwcG5QaGtsTEI3UFp1YzRVdFNPOWlLeXVwRW04MUhib0xyR1RLR1pONkNn?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1786704096
+  },
+  {
+    "id": "8346951",
+    "headline": "Civilian deaths in Ukraine jumped in July as Russia hit cities, UN says - Reuters",
+    "summary": "Civilian deaths in Ukraine jumped in July as Russia hit cities, UN says  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN1hpVmRpOGxsa1J3YjZUNXB4dnBZUDJFRUFoTWlSYTFsLWdnbjNRRjllOFd4eElkdENXYUl6MzN3c1ZYdkI4dkI0VXFhcWY1N2V0dTdxRk9NNld5cGZjc3FsOVMzV1lGY3ZWSG95YWtMSUNlTXgzUVBnNUUyckZ3ck1jTjc1T01NeDMweXBRaVc2ZHNqQkViMTBOb2VENEJXOFBWOEhuQUJ6bldKRHFWcWIwNmU3SUh6enMwOU5VTnQ1QQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1786702545
+  },
+  {
     "id": "8346407",
     "headline": "Siege in Palestinian village draws US criticism as Israeli settlers dig in - Reuters",
     "summary": "Siege in Palestinian village draws US criticism as Israeli settlers dig in  Reuters",
@@ -134,6 +269,16 @@
     }
   },
   {
+    "id": "8346939",
+    "headline": "UK parliamentary standards probe into Reform UK leader Farage listed as active - Reuters",
+    "summary": "UK parliamentary standards probe into Reform UK leader Farage listed as active  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOenBYdmd2ZVVUSGJLWG1NVlRSWnNtS1JjT1hFZjNoNWtDUEQzNk1UbEdSZEV5N1p0SThwd2pITFF3ZFg2UnFSMkRWYTAtek8xODVLSDlVNE1lSTNKc2RVQy13dkVETEFyOHdiS0ljUlVEMVlrY185WnZhenk3RlZnVlpIR3Q3SDlQV0VpVXhOQmphYnplZ2EtalkwYjlmMGtOLVFVSEkzNjZ0QXU0NXlWLWdZTjI4SlAtam16cw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1786695343
+  },
+  {
     "id": "8346114",
     "headline": "China calls Taiwan's annual military drills a 'wasteful charade' - Reuters",
     "summary": "China calls Taiwan's annual military drills a 'wasteful charade'  Reuters",
@@ -162,6 +307,16 @@
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
     "publishedAt": 1786684980
+  },
+  {
+    "id": "8346953",
+    "headline": "Russian share of India's oil imports surges to record high in July - Reuters",
+    "summary": "Russian share of India's oil imports surges to record high in July  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYkxHbTB6WThhNjVWQU5yUmpiMmpHWjV5V29PeHJtamcycVNGdUwwUWhOX3RTby1UZzJfeDZjaHhvSWNtQ0ZkNTNfSTg2a2Q0cWUtb3hhbHJsOU9ZSVlQaFFwMXZHOWNPN0ltbUJnSWVjSWl0SkVSVzVJN3ROd2VQSnRFTzFtQ0w5cFg3SUptVFdBa054RGhoeVdYa01pTmFESEVQeG5FSEJsZEdR?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1786683360
   },
   {
     "id": "8346095",
@@ -330,16 +485,6 @@
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
     "publishedAt": 1786668420
-  },
-  {
-    "id": "8346109",
-    "headline": "Drone incursions sow fear, chaos along NATO's Baltic and Finnish borders - Reuters",
-    "summary": "Drone incursions sow fear, chaos along NATO's Baltic and Finnish borders  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSnhVUFlGN1hNN0dsY0Z2cERoTHZwRDBuMUZMWnBnM1RJMnlpWGx5SDE2UHlUcjRBTDlmNzE1Z1dmazllSzVoSU9BYlppN2xlWEFXMUVJb242WlR3aGVrcGZhblBWQzdpTS1qT3dEdGlOZ1o5NHZUWFRKTkVCcWpYa25UbWJLMTI4VnNtZTlpTFhvZjFnS0xPdFpLVkw3bUtEZWFiN3pubkxvaU5LWFRVTWc4dDFFNU1XXzZieURGR01ZZ29odTZhdQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1786667106
   },
   {
     "id": "8344316",
@@ -556,6 +701,16 @@
     "publishedAt": 1786655427
   },
   {
+    "id": "8346948",
+    "headline": "Trading Day: Hiking pressure eases - Reuters",
+    "summary": "Trading Day: Hiking pressure eases  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTjczSlFoNHBXRmFhVkhHQmNLQWZkMVYxcU9iQXNuMmR4ck4tQXhldUpETHduVDlOb2s3Y3U3UTk0QmtrSlR0dTlLVzh2NWJDRUhtY2d4YUNEYlNwQmt2V1hPZGZnUlBoSGtnTDlqUlJTTkp0NzBqbmxRazA4TWh5Qy1aRERsN1R5QktMTkdNSy11eHFqTkZaME41Q1pGYWxUSGoyMDRn?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1786655108
+  },
+  {
     "id": "8343172",
     "headline": "NEWSLETTER: Trump reckons with a war that won’t leave him alone - Reuters",
     "summary": "NEWSLETTER: Trump reckons with a war that won’t leave him alone  Reuters",
@@ -770,6 +925,16 @@
     "publishedAt": 1786636441
   },
   {
+    "id": "8346956",
+    "headline": "SK Hynix's Korean workers launch unified union amid stalled wage talks - Reuters",
+    "summary": "SK Hynix's Korean workers launch unified union amid stalled wage talks  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNd3pWLU5zdW1mSmdKQ3F0M0FrVG5OMFE4NFFUZURiWTUtQ29wZUJHcG9CN2Q0SUxVcjNra1ZzMmNaenpiSEZTSGFtZ21kbU9BZjRMR0xMRDIyT0hGSmlZeXlsQlNMaFRCMzJrWjQwRWxFQnNPei1SR3RSaGZyckg4S2hkWGVxSkdQczNfVV9ZNWsxb3lpeDN5NnZYYnBfeC01cHhhay1PelVSZ2FhZkZVRVFod25xaXpuTllQNFJobWpJZzNyLXJZ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1786635243
+  },
+  {
     "id": "8342440",
     "headline": "Yemen's Houthis say they attacked Saudi Aramco refinery in Jazan with two drones - Reuters",
     "summary": "Yemen's Houthis say they attacked Saudi Aramco refinery in Jazan with two drones  Reuters",
@@ -815,6 +980,16 @@
     }
   },
   {
+    "id": "8346940",
+    "headline": "Madagascar imports diesel cargo to address energy emergency - Reuters",
+    "summary": "Madagascar imports diesel cargo to address energy emergency  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUTUwQWdfOFJualRxMUoyMjVQbFZsWi1ielIxX0V2Z1BrQ0Y3bk9uQmMyWUVGb04zVTY3dnJSLWMwbHlDaVFxSzhSLTVzMVYyN0NJNXhlVWVVb2VWQVliZTVYQlk5ZmlFUl9OYTZ5RXJmSW9WSnQwR1dkNVlhWVRhbTdvbWZvWE5NUU9oN2Y5ZlFweWI2OHZSYU5vdGJTWk44NkFXc08xcnFRVkxo?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1786631454
+  },
+  {
     "id": "8343797",
     "headline": "Porsche plans to discontinue Taycan production by 2030, WirtschaftsWoche reports - Reuters",
     "summary": "Porsche plans to discontinue Taycan production by 2030, WirtschaftsWoche reports  Reuters",
@@ -836,6 +1011,16 @@
         "Impact on Porsche's earnings outlook"
       ]
     }
+  },
+  {
+    "id": "8346949",
+    "headline": "Hundreds still missing in Colombia as desperation grips earthquake rescue effort - Reuters",
+    "summary": "Hundreds still missing in Colombia as desperation grips earthquake rescue effort  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdTlvYTRPQnZ2b3ZFaHNQeDc1ZWdlaXlmc1AwQTJ4bnFKQ2xHRmpaSGRRa2o0U1ZOR0w3RnhiNDFBMmlicjE1RFpIdXBhUmtqTmhpYzhBUDVjaG5sLVFyZGlpZllnSVpxWlJHRW5GRW5TTjh5YVluangyMGNsR0RJRDNWUmNLazluRUFuUVVIN0JKLTR0NkpvX2pOdkdyOFNEVHA2U2MwVnVoZjhwbTdDcEljd1VTLWllWlh3YUtVX1Z1Mlh5Q1JGZQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1786630980
   },
   {
     "id": "8345977",
@@ -869,6 +1054,26 @@
         "Potential slowdown in consumer spending"
       ]
     }
+  },
+  {
+    "id": "8346955",
+    "headline": "Poland says it arrested Russian hired to kill Ukrainian-American citizen - Reuters",
+    "summary": "Poland says it arrested Russian hired to kill Ukrainian-American citizen  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORGJZV3pwUWlPWWw4V2ttV3dCSE4zMzBRTVhrdm9hcU5nRTJiaTFKSnNGemNlaGhHVjNLdmI4cXZZczQ2cC1PWlpOVGNJT3hxYWhZOWEteFdwbmJQX1dZREM1ZEJJVXpIMEVNTndGblpYb0dWZ280NjIxbHh2VVY4Wjh1VGIySG11bUdEc3VlTWpDSDljMVQxRWhLaXpPS01GbjMzeDg3dkFMcWpEM2M4TQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1786630325
+  },
+  {
+    "id": "8346957",
+    "headline": "Cerebras slumps as mixed quarterly results test AI growth narrative - Reuters",
+    "summary": "Cerebras slumps as mixed quarterly results test AI growth narrative  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaUo1UndBenVpbnhDNXAwazVSelR2aDVlTzI3N1dLWFRRU2h2Wm5YX1ZraDY1VFZ2bS1laVh5MndyZU00c010d0IxTG5jMmk4ODRob3ZrOG5YXy1HYkpmZ2Q0czFiZGxuWnNwYVltXzhFemlwOHg5RVh0VWFNUmtnS3RyRmc2Nml2QnE5Vk9GaGNfcTZ0dlZsaDZ2ckVBTHZISFdWM21MSTgydzFwM1E?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1786628131
   },
   {
     "id": "8341806",
@@ -1204,6 +1409,39 @@
     }
   },
   {
+    "id": "8336747",
+    "headline": "Iran says no progress on reviving interim peace deal with US - Reuters",
+    "summary": "Iran says no progress on reviving interim peace deal with US  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOel9GN09UcjUyQ2FnMF90ZWhiaFFEazlXcDM1aDZLbExtREZQLXFmOFgtTU92YWZxM19udFlOTkNHRjM1aFl1Qk0xcDhTSTB1ZnR0YnBxSW9xLXhRTHRoeXFtbW9nSy1IeGIzQkVOelJrNlRHQUg2dUJPZVM3T085QTFpbmtCT3JzQ29FNlV5bjhrUGdaSG1kRy1VUWR3dmxiU2RsZC0tMDdWNW56ZHFpTWVB?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1786617546,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1786549332,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Iran's statement indicates a lack of progress in reviving the interim peace deal with the US, which may lead to continued tensions and uncertainty in the region. The deal's revival was expected to have a positive impact on the global energy market, particularly for oil prices. The lack of progress may lead to increased volatility in the energy market, affecting companies such as ExxonMobil and Chevron. The situation also raises concerns about the potential for future economic sanctions on Iran, which could impact global trade and commerce.",
+      "impact": "The news may lead to a short-term increase in oil prices, benefiting energy companies like ExxonMobil and Chevron. However, the medium-term impact may be bearish for these companies as the lack of progress in the peace deal could lead to increased tensions and uncertainty, potentially affecting their earnings outlook. The news may also have a negative impact on companies with significant exposure to the Middle East region, such as Schlumberger and Halliburton.",
+      "risks": [
+        "Increased volatility in the energy market",
+        "Potential for future economic sanctions on Iran",
+        "Uncertainty in the region"
+      ]
+    }
+  },
+  {
+    "id": "8346943",
+    "headline": "Cuba marks centenary of Fidel Castro's birth amid deepening economic crisis - Reuters",
+    "summary": "Cuba marks centenary of Fidel Castro's birth amid deepening economic crisis  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdnA1N0RXeUZNa1Uzdnh2WHR6SHZYYVlDbmtiZ09oNFdOMGhJekpFSmRIR01lR3lzSEVHSFkzNDJPUlk4OEYwa2pCTUppbm1zLTZTOUpockJRMDFuRjJXRFVmVjJRejBpTnA0aVVnb3Q1UVVCczdvT0owYjlycmlWS0JwMDNlUlBQMWhWUEh1V3ZNOWVPYWIweGxORmcxdDVJY083MEdmV3JvQUF5bU01MTFsT3l1Y3NFVG43cmhVbw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1786617249
+  },
+  {
     "id": "8346113",
     "headline": "Air India expands drug testing to all pilots after captain tests positive for marijuana - Reuters",
     "summary": "Air India expands drug testing to all pilots after captain tests positive for marijuana  Reuters",
@@ -1288,6 +1526,16 @@
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
     "publishedAt": 1786610342
+  },
+  {
+    "id": "8346950",
+    "headline": "Gaza cancer patients face rising death rate amid Israeli curbs, doctors say - Reuters",
+    "summary": "Gaza cancer patients face rising death rate amid Israeli curbs, doctors say  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNa3JTbGRsa3NpUlNSbFljek5OSnluekowd01NRm5aTUN6ZGxoZ3hsckxpSllfd1JKLW9fRFJtenVLYVVSRW5fQ0otaDNvYU1YcXFaakY5aHhHcG10U2J3NFk5cE05TFNGdXNmZjJQd0tLMVA4QUFOeUVfQ0FwZjdSdkVVRnFaT3NkOWNYTU1vb2E2T1M2b05nalRYT0U4eU8yOUNpWENBdC1Nc2lSWTlzMlJyUjljaEVIYmZrS3dxWHp1end6bG5oMmRhZTVBWGxNWFZNV3BFQ242eDR0TnNv?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1786609360
   },
   {
     "id": "8346192",
@@ -1446,6 +1694,16 @@
         "Uncertainty around oil production and exports in the Middle East"
       ]
     }
+  },
+  {
+    "id": "8346945",
+    "headline": "Morning Bid: Fed bets cool, BOJ wagers heat up - Reuters",
+    "summary": "Morning Bid: Fed bets cool, BOJ wagers heat up  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oM0FFVzBuNGtQVW9IOG1zaU44UGdVei1MVEx3MUY0RVhjOE5zYndQM0tMMDNfZW9lU0wyM1o4eUlnU2RFZGJIdlA1SmREYUtBZk4xdS1RYUhOeFA2T1U4ZV9pZ0ZlaXpqTTEtVFFDSlNUYWhmaFRHclBCMWlkTVE?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1786595460
   },
   {
     "id": "8344723",
@@ -2296,29 +2554,6 @@
         "Increased oil prices risk",
         "Supply chain disruption risk",
         "Geopolitical risk"
-      ]
-    }
-  },
-  {
-    "id": "8336747",
-    "headline": "Iran says no progress on reviving interim peace deal with US - Reuters",
-    "summary": "Iran says no progress on reviving interim peace deal with US  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOel9GN09UcjUyQ2FnMF90ZWhiaFFEazlXcDM1aDZLbExtREZQLXFmOFgtTU92YWZxM19udFlOTkNHRjM1aFl1Qk0xcDhTSTB1ZnR0YnBxSW9xLXhRTHRoeXFtbW9nSy1IeGIzQkVOelJrNlRHQUg2dUJPZVM3T085QTFpbmtCT3JzQ29FNlV5bjhrUGdaSG1kRy1VUWR3dmxiU2RsZC0tMDdWNW56ZHFpTWVB?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1786540800,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1786549332,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Iran's statement indicates a lack of progress in reviving the interim peace deal with the US, which may lead to continued tensions and uncertainty in the region. The deal's revival was expected to have a positive impact on the global energy market, particularly for oil prices. The lack of progress may lead to increased volatility in the energy market, affecting companies such as ExxonMobil and Chevron. The situation also raises concerns about the potential for future economic sanctions on Iran, which could impact global trade and commerce.",
-      "impact": "The news may lead to a short-term increase in oil prices, benefiting energy companies like ExxonMobil and Chevron. However, the medium-term impact may be bearish for these companies as the lack of progress in the peace deal could lead to increased tensions and uncertainty, potentially affecting their earnings outlook. The news may also have a negative impact on companies with significant exposure to the Middle East region, such as Schlumberger and Halliburton.",
-      "risks": [
-        "Increased volatility in the energy market",
-        "Potential for future economic sanctions on Iran",
-        "Uncertainty in the region"
       ]
     }
   },
@@ -21888,398 +22123,6 @@
         "uncertainty around the outcome of the negotiations",
         "potential for increased tensions and oil price volatility",
         "impact on investor confidence in the region"
-      ]
-    }
-  },
-  {
-    "id": "8244561",
-    "headline": "Morning Bid: The most violent ceasefire - Reuters",
-    "summary": "Morning Bid: The most violent ceasefire  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT1I2YWxrU0x6NFY2bGlORXpVb1hURGp1d1YzU3NVdFBBY0FpRERKcUZtUnBlVFh3aHpJVzZ6U2VjQ1NSU2dhcFdaakd6SGxONG5rbkpyU3VmRHk2S1VnbFRXdjJCM0JQSmxzeGFlTlNpNnpnVlZrVnZNVnpCajM5VWl1enc0cDN1d3Q3VURUMWdBWjdfVGNB?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784547036,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784561715,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "A ceasefire has been brokered in a violent conflict, bringing a temporary halt to the fighting. The ceasefire is seen as a positive development, but its sustainability is uncertain. The conflict has had a significant impact on local businesses and the economy, with many companies struggling to operate due to the violence. The ceasefire may provide a brief window of opportunity for these companies to recover and rebuild, but the long-term effects of the conflict are still unclear.",
-      "impact": "The ceasefire may have a short-term positive impact on the local economy and businesses, potentially leading to a slight increase in investor sentiment and a minor boost to earnings outlook. However, the medium-term impact is uncertain due to the risk of the ceasefire being broken and the ongoing instability in the region. Investors should closely monitor the situation and be prepared for potential volatility in the market.",
-      "risks": [
-        "ceasefire sustainability risk",
-        "regional instability risk",
-        "economic recovery risk"
-      ]
-    }
-  },
-  {
-    "id": "8243904",
-    "headline": "Hamas names Khalil Al-Hayya as new overall leader - Reuters",
-    "summary": "Hamas names Khalil Al-Hayya as new overall leader  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOHJqTDlBbG5vM09JMm5YLUVPLW5CbHFpbDhWREhJQk41NW1iMWhxMURadktJVklMWEMxVld1WmhzUDlNQkoxQmVQTHdibnhkbTVzODNhb3BCNkV3Y3NCSTZtZ0pOOV9nV2J1Nnl4ajFqOHhiZ2pJY3JqbUdhU0dJdWRZWklaRkV5U3FKa1EySU5jbUxDa0gyM0VsNkZ5Sk5QZ2dHR0VGRjhNc0E?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784547000,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784554389,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Hamas has named Khalil Al-Hayya as its new leader, according to a statement. Al-Hayya has been a senior member of the group for many years and has played a key role in its military wing. The move comes after the death of the previous leader, Ismail Haniyeh. The change in leadership is unlikely to have a direct impact on the Israeli-Palestinian conflict, which is a major driver of regional instability. The conflict has a significant impact on the Israeli economy, particularly the defense and security sectors.",
-      "impact": "The change in leadership is unlikely to have a direct impact on the Israeli economy in the short term. However, it may lead to increased tensions in the region, which could negatively impact the Israeli defense and security sectors in the medium term. This could lead to increased spending on defense, which could be positive for companies such as Elbit Systems and Israel Aerospace Industries. However, the impact on these companies will depend on the specific policies of the new leader and the response of the Israeli government.",
-      "risks": [
-        "Increased regional instability and conflict",
-        "Potential for increased defense spending",
-        "Uncertainty around the new leader's policies and their impact on the region"
-      ]
-    }
-  },
-  {
-    "id": "8248741",
-    "headline": "Kerala aims to attract $1 billion in shipbuilding from investors",
-    "summary": "The state government has facilitated a joint venture between Malabar Cements Ltd. and Artsun Engineering Ltd., a part of the Tata Projects Group, to set up a shipbuilding unit at Cochin Port, and all the necessary approvals have been received for the project",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-18/kerala-aims-to-attract-1-billion-in-shipbuilding-from-investors",
-    "source": "Bloomberg",
-    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
-    "relatedSymbols": [],
-    "publishedAt": 1784546315,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784670583,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The Kerala state government has facilitated a joint venture between Malabar Cements Ltd. and Artsun Engineering Ltd. to set up a shipbuilding unit at Cochin Port. The project has received all necessary approvals, indicating a clear path forward. This development is a significant step towards attracting $1 billion in investments in the shipbuilding industry. The partnership between Malabar Cements and Artsun Engineering is expected to create a robust shipbuilding facility, leveraging the expertise of the Tata Projects Group.",
-      "impact": "This news is likely to have a positive impact on the stocks of Malabar Cements Ltd. and Artsun Engineering Ltd., potentially leading to a short-term increase in their share prices due to the increased investor interest and optimism around the project. In the medium term, the successful execution of the project could enhance the earnings outlook for both companies, driven by increased revenue from the shipbuilding business. The partnership with the Tata Projects Group is expected to bring in the necessary expertise and resources to drive growth.",
-      "risks": [
-        "regulatory approval risk",
-        "integration risk",
-        "execution risk",
-        "market demand uncertainty"
-      ]
-    }
-  },
-  {
-    "id": "8243257",
-    "headline": "Ryanair profits slump as Iran war dampens fares, hikes fuel costs - Reuters",
-    "summary": "Ryanair profits slump as Iran war dampens fares, hikes fuel costs  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON2ZFNEtHOEljcTJIRU92dnl3amtEbTR2WERmcHNOYi1RbW9scFh3MzU5Q0NiU0xQZEJDSy11ZVpVNlFESm9DdWkyY29YeFVYSnVoY1JyZG8wTF9zRkFkTGc0ZnFEWG1rSGJWUVV3ZzZQNmJJd2tvdGRBclRKdi0xQ2pudnBwbkNWM1I0X0llRF9iRk81MXppcGpPYzRWckhIcERkN3RqX0xHUGxKQmMtWFhTTVJOZmJUeVE?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784545898,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784567424,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Ryanair's profits have slumped due to the ongoing Iran war, which has dampened air travel demand and increased fuel costs. The airline industry is sensitive to global events, and the Iran war has led to a decline in fares. The war has also resulted in higher fuel costs, which has further exacerbated the decline in profits. This development is a setback for Ryanair, which has been struggling with profitability in recent years.",
-      "impact": "The Iran war is expected to have a negative impact on Ryanair's earnings in the short-term, with a potential decline in revenue due to lower fares and increased fuel costs. In the medium-term, the airline may need to adjust its pricing strategy to reflect the new market conditions. The sentiment towards the airline's stock may also be negatively affected, leading to a decline in liquidity. The earnings outlook for Ryanair is now more uncertain due to the Iran war.",
-      "risks": [
-        "decline in air travel demand",
-        "increase in fuel costs",
-        "negative sentiment towards the airline's stock"
-      ]
-    }
-  },
-  {
-    "id": "8246023",
-    "headline": "Bulgaria to ask parliament to allow US tanker aircraft to be stationed at military base - Reuters",
-    "summary": "Bulgaria to ask parliament to allow US tanker aircraft to be stationed at military base  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRFhON3NuczRjTVpKRk5wdnhTSmtHMVpfYnFOcDlqT3JmaF9Qc254V3lEbTk4Y2lhMVN3SENicXFkbHQzU3ktT2FNT3dMRklBWnlybkh3WXNyZXR2ck9HbllvYm9MY0dUdTVHMTZKZ1JrRFBsV25FdFo4WUJJV0stOE5sUXZCYVhzZGxsSEtQaWxRZy04LWFaM0NxLXlpeVltVFktSkZhdVByS1MtZXRWNWNNUlV5OW9SdEUxdk8tTENjN0VLeUZGdU85ZUMxZEtJaWplZw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784542985,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784587539,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Bulgaria plans to ask its parliament to allow US tanker aircraft to be stationed at a military base. This move is likely a response to the country's efforts to strengthen its military ties with the US. The US has been increasing its military presence in Eastern Europe in recent years, and this development is part of that trend. The news does not directly affect any specific stocks, but it may have implications for defense contractors and companies involved in the production of military equipment.",
-      "impact": "The potential impact of this news is limited, but it could lead to increased demand for defense-related stocks in the medium term. This could be driven by the potential for increased military spending and procurement of new equipment. However, the short-term impact is likely to be minimal, and investors should focus on the company's earnings outlook, valuation, and sentiment in the coming quarters.",
-      "risks": [
-        "regulatory approval risk",
-        "integration risk",
-        "geopolitical tensions risk"
-      ]
-    }
-  },
-  {
-    "id": "8243465",
-    "headline": "UK to get a new prime minister as Trump slams Britain as 'Poverty Stricken Disaster'",
-    "summary": "The prospect of Burnham, considered more left-leaning than Starmer, replacing the incumbent prime minister sent jitters through bond markets earlier this year.",
-    "url": "https://www.cnbc.com/2026/07/20/uk-prime-minister-burnham-trump-poverty-stricken-disaster.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108324907-1782141968433-gettyimages-2282767586-3b9a9028_7vj5npod.jpeg?v=1782141991&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1784542452,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784546946,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "Andy Burnham has become the new Prime Minister of the UK, succeeding Keir Starmer. Burnham's more left-leaning policies and commitment to fast-tracking oil and gas exploration in the North Sea have been welcomed by US President Donald Trump. However, investors and market watchers are still uncertain about Burnham's policy agenda, particularly regarding his plans for social care and economic policy. The shift in leadership has sent jitters through bond markets, with some investors concerned about the potential for increased public borrowing and spending. Burnham's selection of Shabana Mahmood as Chancellor has been seen as a more moderate choice, but the market will continue to scrutinize his policies.",
-      "impact": "The change in leadership is likely to have a short-term impact on the pound, which may appreciate as investors reassess the UK's economic outlook. In the medium term, Burnham's policies on oil and gas exploration could boost the energy sector, potentially benefiting companies such as BP and Royal Dutch Shell. However, the increased public spending and borrowing could lead to higher inflation and interest rates, negatively impacting the broader market and companies with high debt levels.",
-      "risks": [
-        "Increased public borrowing and spending risk",
-        "Higher inflation and interest rates risk",
-        "Potential for policy missteps and market volatility risk"
-      ]
-    }
-  },
-  {
-    "id": "8243682",
-    "headline": "Rupee hits two-month low, oil prices remain focal point - Reuters",
-    "summary": "Rupee hits two-month low, oil prices remain focal point  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdE9hclRrbmlMZEJLT3FfQWFhRi12VTVIdmM3N2sxcVBKTmVFd0N2NjhZazM1MXdleTlNNVpXampnWWZLNk9KakxlQ1JFcXhkLTJQVkdjdzQ0TnN4aU9QOUFVeXo3RThCWjFuNDFsVDRrZjRtcDdYVGVpR0d6a0tVT0s2ZndxNlJIcTQ5WFBVck9mckZs?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784542042,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784567469,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "The Indian rupee has hit a two-month low against the US dollar, driven by a surge in oil prices. This development is a concern for the Indian economy, as a weaker rupee makes imports more expensive and can lead to higher inflation. The Reserve Bank of India (RBI) has been intervening in the foreign exchange market to stabilize the currency. The current situation is a result of a combination of factors, including a strong US dollar and a decline in the country's current account deficit.",
-      "impact": "The decline of the rupee is likely to have a negative impact on Indian companies with significant foreign currency debt, such as those in the oil and gas sector. This could lead to a decrease in their earnings and potentially a decline in their stock prices. The rupee's weakness may also lead to higher import costs for companies, which could be passed on to consumers in the form of higher prices. This could negatively impact consumer sentiment and demand for these companies' products.",
-      "risks": [
-        "Currency volatility risk",
-        "Inflation risk",
-        "Earnings decline risk for companies with significant foreign currency debt"
-      ]
-    }
-  },
-  {
-    "id": "8248310",
-    "headline": "Burnham vows unity after lightning ascent to UK premiership",
-    "summary": "Andy Burnham promises unity and tangible improvements as he steps into the UK premiership amid pressing challenges and cabinet uncertainties.",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-19/burnham-vows-unity-after-lightning-ascent-to-uk-premiership",
-    "source": "Bloomberg",
-    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
-    "relatedSymbols": [],
-    "publishedAt": 1784540675,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784628706,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Andy Burnham's ascension to the UK premiership marks a significant shift in the country's political landscape. Burnham has pledged to prioritize unity and tangible improvements, which may indicate a more stable and predictable policy environment. This could have positive implications for the UK economy, potentially boosting investor confidence and sentiment towards UK-based companies. However, the cabinet uncertainties and pressing challenges ahead may hinder Burnham's ability to implement his vision.",
-      "impact": "The news is unlikely to have a direct impact on the UK stock market in the short term, but it may lead to a medium-term improvement in investor sentiment and a subsequent boost in stock prices for companies with exposure to the UK economy. This could be particularly beneficial for sectors such as consumer staples, healthcare, and financials, which tend to perform well in a more stable economic environment.",
-      "risks": [
-        "Implementation risk: Burnham's ability to deliver on his promises and navigate cabinet uncertainties",
-        "Policy reversal risk: A change in government policy could negatively impact companies with significant exposure to the UK economy",
-        "Economic uncertainty risk: The UK economy remains vulnerable to external factors, which could impact the effectiveness of Burnham's policies"
-      ]
-    }
-  },
-  {
-    "id": "8243356",
-    "headline": "U.S. Treasury yields edge higher as Wall Street monitors Middle East tensions",
-    "summary": "The yield on the 10-year U.S. Treasury note — the key benchmark for U.S. government borrowing — rose over 1 basis point to 4.558%.",
-    "url": "https://www.cnbc.com/2026/07/20/treasury-yields-wall-street-iran-war-tensions.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/104705063-trader.jpg?v=1542823681&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1784539554,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784546992,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "US Treasury yields rose as Wall Street monitors escalating tensions in the Middle East, with the 10-year Treasury note yield increasing by nearly 2 basis points to 4.56%. The situation in the Middle East has led to a series of US strikes against Iran, with Tehran retaliating with attacks on neighboring countries. The recent data releases have shown that the US economy is withstanding inflationary pressures, with cooler-than-expected producer and consumer price data, and lower-than-forecasted jobless claims. The upcoming S&P Global Flash US PMI report will provide further insight into the economic health of the American manufacturing and services sectors.",
-      "impact": "The rising tensions in the Middle East and the subsequent US strikes may lead to increased uncertainty and volatility in the market, potentially affecting the earnings outlook for companies with exposure to the region. This may also impact the valuation of these companies, as investors reassess their risk appetite and adjust their portfolios accordingly. The recent data releases suggest that the US economy is resilient, but the ongoing situation in the Middle East may still pose a risk to the economic growth outlook.",
-      "risks": [
-        "geopolitical risk",
-        "economic growth slowdown risk",
-        "valuation risk"
-      ]
-    }
-  },
-  {
-    "id": "8245195",
-    "headline": "Riyadh Air orders 34 Boeing, Airbus widebody jets in expansion push - Reuters",
-    "summary": "Riyadh Air orders 34 Boeing, Airbus widebody jets in expansion push  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSS03aS1mSENaMlFjTDdQUmlLS0hlQmRSVHdtcGxGODNQekF3U0o3dlpvRGpQRDN0eXR0ZWhLNUVoTWhJMDNfd2QzMHRyQVJCOXpZQjFzbklNMnc0aXVvekFrbFVWUERkSm53NE93R091VkowT2poX1o2ZWdNN2l2R3dsVWZzWEhockx1N2t1VzdGcGU2cGpHNkdqbm9WYUtON1c2bmQ0OVZhWWZvWDNkV3JXUEJVaHVX?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784538745,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784575144,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Riyadh Air has placed a significant order for 34 widebody jets from Boeing and Airbus, marking a major expansion push for the new Saudi Arabian airline. The order is a testament to the growing demand for air travel in the Middle East and the region's increasing importance in the global aviation industry. This development is likely to benefit both Boeing and Airbus, as it represents a substantial order for their widebody jets. The expansion of Riyadh Air is also expected to drive growth in the aviation sector, potentially benefiting related stocks such as aircraft manufacturers, airlines, and travel-related companies.",
-      "impact": "The order is likely to have a positive impact on the stocks of Boeing and Airbus, potentially leading to a short-term increase in their share prices. Boeing's order book has been a major concern in recent times, and this order will help alleviate some of those concerns. The medium-term impact will be driven by the increased demand for air travel and the growth of the aviation sector, which may lead to an increase in earnings for related companies. The sentiment towards the aviation sector is likely to be positive, driven by the growing demand and the expansion of airlines like Riyadh Air.",
-      "risks": [
-        "Delivery risks: The timely delivery of the aircraft is crucial, and any delays could impact the growth prospects of Riyadh Air and the related stocks.",
-        "Competition risk: The Middle East aviation market is highly competitive, and Riyadh Air will face competition from established players such as Emirates and Qatar Airways.",
-        "Economic downturn risk: A global economic downturn could impact the demand for air travel and the growth prospects of the aviation sector."
-      ]
-    }
-  },
-  {
-    "id": "8239122",
-    "headline": "RPT Gulf crude exports jump in July but shipments slowing on renewed hostilities, data shows - Reuters",
-    "summary": "RPT Gulf crude exports jump in July but shipments slowing on renewed hostilities, data shows  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON0s2bmk4NkZfVGZ5R2tpZzEwYXo4Ymhxb0lyYUlNQlR4X29mekhzS0RGUndSMllMbnpZTGdRYlRZV3NmT0dBNGFyOTkxSFNTZEJTcE05cWtoNzREYU16TW5IUGJ4Zm9qa0lkbUI5Rmg1X1dldEI4MnZJdjNLcTBjTlkyMnRPSzRaUGdtNG9hWFRkaExsV3B4S3ZTb3ptaGlmM2w1ZWcteU5Jc1RTSGFRVjJncHZZLXoxUFliWTFWdGhHWnlkSkRudQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784536607,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784467059,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Gulf crude exports jumped in July, but the increase is slowing due to renewed hostilities in the region. The conflict has disrupted oil shipments, leading to a decrease in exports. The situation is a concern for oil producers and traders, as it may lead to a shortage of crude oil and higher prices. The impact on the global oil market is expected to be significant, particularly if the hostilities escalate. The conflict also raises concerns about the stability of the region and its impact on global energy security.",
-      "impact": "The renewed hostilities in the Gulf region are likely to have a negative impact on oil stocks in the short-term, as the disruption to crude oil shipments may lead to a shortage and higher prices. This could result in lower earnings for oil producers and traders, particularly those with significant exposure to the region. The medium-term impact will depend on the duration and severity of the conflict, but it may lead to a re-evaluation of the oil market's supply and demand dynamics. The increased volatility in the oil market may also lead to a decline in investor sentiment, potentially affecting oil stocks' valuations.",
-      "risks": [
-        "short-term earnings risk due to disrupted oil shipments",
-        "medium-term supply and demand imbalance risk",
-        "increased volatility risk due to conflict uncertainty"
-      ]
-    }
-  },
-  {
-    "id": "8243256",
-    "headline": "Iranian Sunni cleric killed by unknown gunmen in country's southeast, state media - Reuters",
-    "summary": "Iranian Sunni cleric killed by unknown gunmen in country's southeast, state media  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYjJVZXItX0NfemotUFZyTmhiUVlYTkVwS2ZXeEoteFpnUlBoaGpvM056dkt5OExsNFlKX0s1SjNlVU1rdVpzMkM2TkRIU3ZpUm56aTdnUFdndTdZMlFpMjdlekoxRXlETXJvUko1ekpnYWdRTk4ybWFEd1ZUbmNPaFhHMDc5aXM3alM4YmdPYkpZM0V4Y3NPQ0tYOFBrbzF4VjRsNE1LNUZxWEhxWlVMTEluS0xGa0UzRFE?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784534671,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784547089,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "A Sunni cleric was killed by unknown gunmen in Iran's southeast, according to state media. The incident occurred in the Sistan-Baluchestan province, a region with a significant Sunni minority population. The killing is likely to increase tensions between Sunni and Shia communities in the region. The incident has no direct connection to the business world, but it may affect the overall sentiment towards the Iranian government and its relations with the international community. This could potentially impact the country's economic policies and investor confidence in the market.",
-      "impact": "The killing is unlikely to have a direct impact on the stock market in the short term, but it may lead to increased volatility and uncertainty in the market. In the medium term, the incident could affect investor sentiment towards Iranian stocks, potentially leading to a decline in stock prices. This is due to the increased tensions and uncertainty surrounding the country's relations with the international community.",
-      "risks": [
-        "geopolitical risk",
-        "sentiment risk",
-        "macroeconomic risk"
-      ]
-    }
-  },
-  {
-    "id": "8243793",
-    "headline": "South African rand steady as investors await central bank guidance - Reuters",
-    "summary": "South African rand steady as investors await central bank guidance  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNlRHa0RlaDJUU0F4eG5Hb3V6T3BUOThRLVJkeUsxek5BUzJFRDVPWHFzMGxIMjRrdEhQUVJTaEV3OWlwWnlnREUxUEV4cVVKYXhQVFNuTnlZOWFya1RINDdxX3Buc2RWUkN2LUdia0I5LVF5THZYWmZyRHZZOVlDY3BkOUFGUExhb1B0ZUQxdXpqN0p3N1A4SHZwUXVqWGFMeTVmd21QdndPdzV4Q1hUVEFR?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784531623,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784561766,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The South African rand has stabilized as investors await guidance from the central bank. The currency has been volatile in recent days due to concerns over the country's economic growth and inflation. The central bank's next move is expected to influence the rand's value, with investors seeking clarity on monetary policy. The South African Reserve Bank (SARB) has been under pressure to address the country's economic challenges, including high inflation and a struggling economy. The rand's stability is crucial for the country's economy, as a weak currency can lead to higher import costs and inflation.",
-      "impact": "The stability of the rand is likely to have a positive impact on South African stocks, particularly those with significant exposure to local markets. Companies with a high percentage of revenue generated in South Africa may see an increase in demand and valuation as the rand stabilizes. However, the medium-term impact will depend on the central bank's monetary policy decisions, which could influence interest rates and inflation expectations. The rand's stability may also lead to increased investor confidence in the South African economy, potentially driving up stock prices.",
-      "risks": [
-        "Central bank policy misstep risk",
-        "Inflation risk",
-        "Economic growth slowdown risk"
-      ]
-    }
-  },
-  {
-    "id": "8247675",
-    "headline": "Bitcoin ETFs log second week of inflows, breaking two-month rout",
-    "summary": "The reversal, combined with flows into ETFs tied to Ether, the second-largest cryptocurrency, could signal positive sentiment returning to the market",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-20/bitcoin-etfs-log-second-week-of-inflows-breaking-two-month-rout",
-    "source": "Bloomberg",
-    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
-    "relatedSymbols": [],
-    "publishedAt": 1784528552,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784618999,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Bitcoin ETFs have seen two weeks of inflows, breaking a two-month rout. This reversal, combined with flows into Ether ETFs, suggests a shift in market sentiment towards the cryptocurrency market. The inflows indicate increased investor interest and confidence in the market, which could lead to higher prices. This positive sentiment is a significant departure from the previous two months of outflows.",
-      "impact": "The positive sentiment and inflows into Bitcoin and Ether ETFs could lead to short-term price appreciation, potentially benefiting companies involved in the cryptocurrency space, such as Coinbase Global Inc. (COIN) and MicroStrategy Incorporated (MSTR). In the medium term, this increased investor interest could lead to higher valuations for these companies, making them more attractive to investors. The increased liquidity and trading activity could also benefit the companies' bottom line through higher transaction fees and other revenue streams.",
-      "risks": [
-        "Regulatory risks associated with the increasing adoption of cryptocurrencies",
-        "Volatility risk, as the cryptocurrency market is known for its price fluctuations",
-        "Security risks, as the increased interest in cryptocurrencies could lead to increased hacking attempts and security breaches"
-      ]
-    }
-  },
-  {
-    "id": "8247676",
-    "headline": "Bezos backs AI startup to discover new materials for chipmaking",
-    "summary": "Chad Edwards, CuspAI’s co-founder and chief executive, said much of that funding will go towards supporting labs with foundry partners in Cambridge, Singapore and the San Francisco Bay area",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-20/bezos-backs-startup-focused-on-material-discovery-for-chipmaking",
-    "source": "Bloomberg",
-    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
-    "relatedSymbols": [],
-    "publishedAt": 1784528338,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784619043,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Jeff Bezos has invested in CuspAI, a startup focused on discovering new materials for chipmaking. CuspAI's CEO, Chad Edwards, plans to use the funding to support labs with foundry partners in key locations. This investment suggests growing interest in advanced materials and chipmaking technologies. The partnership may lead to the development of more efficient and cost-effective materials for the semiconductor industry.",
-      "impact": "This news may positively impact semiconductor companies that are actively seeking to improve their manufacturing processes and reduce costs. Companies like Intel, TSMC, and Samsung may benefit from the potential advancements in materials discovery. In the short term, the news may drive sentiment and valuation increases for these companies. However, the medium-term impact will depend on the success of CuspAI's research and its adoption by the industry.",
-      "risks": [
-        "The success of CuspAI's research and technology is uncertain",
-        "The adoption of new materials by the semiconductor industry may be slow",
-        "Intellectual property disputes over the new materials"
-      ]
-    }
-  },
-  {
-    "id": "8243470",
-    "headline": "Forget crude. War pushes refiners to the brink - Reuters",
-    "summary": "Forget crude. War pushes refiners to the brink  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVTdqTE9KRlVTVDlGTWlvRzd6Tml3aXU3ZVdMejV3Z1dsLVNfcVFKMWh5MTJ0THhSdXV3TjIybjVXT3hHYXQ1M29Yc2xFMVg0SnNmOEluU2FrdUNlTG56dTE1ZEVfZnI5NHdvbWQtSzZOZGNRbUtja1NBX1paSmh2Qmk1TGJCOVVjOVc4YVBfdlpIRHM5MWlzaG1rbjZ4dmpkNlNkRkpFeFdXcjQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784527919,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784575241,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The ongoing war is pushing refiners to the brink due to supply chain disruptions and logistical challenges. The conflict has resulted in a sharp increase in transportation costs, making it difficult for refiners to operate profitably. This has led to a decline in refining margins, which are already under pressure from the global oversupply of crude oil. As a result, refiners are struggling to stay afloat, with some even considering shutting down operations. The war has also disrupted the supply of refined products, leading to a shortage of gasoline and diesel in some regions.",
-      "impact": "The ongoing war is expected to have a negative impact on the refining industry, particularly on refiners with high exposure to the affected regions. This could lead to a decline in earnings for these companies, potentially resulting in lower stock prices. In the short-term, investors may experience reduced liquidity and increased volatility in the market. In the medium-term, the war could lead to a re-evaluation of the refining industry's business model, with a focus on more resilient and diversified operations.",
-      "risks": [
-        "decline in refining margins",
-        "supply chain disruptions",
-        "logistical challenges"
-      ]
-    }
-  },
-  {
-    "id": "8247466",
-    "headline": "RBI intervenes to support rupee as currency nears record low",
-    "summary": "RBI intervenes in forex markets to stabilize the rupee as it approaches record lows amid rising crude oil prices.",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-20/rbi-intervenes-to-support-rupee-as-currency-nears-record-low",
-    "source": "Bloomberg",
-    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
-    "relatedSymbols": [],
-    "publishedAt": 1784525846,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784670633,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The Reserve Bank of India (RBI) has intervened in the foreign exchange market to support the rupee, which is nearing a record low due to rising crude oil prices. The RBI's move is aimed at stabilizing the currency and preventing further depreciation. The rupee has been under pressure due to high oil prices, which have increased India's import bill and put downward pressure on the currency. The RBI's intervention is a response to this situation, and its impact on the economy and businesses will be closely watched.",
-      "impact": "The RBI's intervention may have a positive impact on the Indian rupee in the short term, but its medium-term effects on the economy and businesses are uncertain. The move may lead to a stabilization of the currency, which could positively impact companies with significant foreign exchange exposure, such as import-dependent sectors like textiles and chemicals. However, the underlying issues of high oil prices and a widening trade deficit remain, which could continue to put pressure on the rupee and the economy. The RBI's actions may also lead to a temporary reprieve for companies with significant foreign currency debt, but the long-term implications of the move are unclear.",
-      "risks": [
-        "currency volatility risk",
-        "economic slowdown risk",
-        "inflation risk"
       ]
     }
   }
