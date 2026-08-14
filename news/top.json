@@ -1,5 +1,28 @@
 [
   {
+    "id": "8345764",
+    "headline": "Treasury yields rise as U.S. threatens Iran with more economic sanctions",
+    "summary": "The yield on the 10-year U.S. Treasury note — the key benchmark for U.S. government borrowing — rose 2 basis points to 4.661%.",
+    "url": "https://www.cnbc.com/2026/08/14/treasury-yields-us-iran-economic-sanctions.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108112148-1741283419891-gettyimages-2203008664-AFP_36ZG9WQ.jpeg?v=1741284192&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1786697717,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1786704047,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "The US Treasury yields rose following the US threat of more economic sanctions on Iran, with the 10-year Treasury note yield increasing by 2 basis points to 4.661%. The US Treasury Secretary warned of fresh measures to isolate Iran economically, while the Defense Secretary mentioned an indefinite blockade of Iranian ports. This news is likely to increase uncertainty and risk in the market, particularly for companies with exposure to the Middle East or related industries. The producer price index was flat in July, which eased pressure on interest rates, but real yields remain high.",
+      "impact": "The rise in Treasury yields and potential for increased economic sanctions on Iran may lead to a short-term increase in volatility in the market, particularly for companies with exposure to the Middle East or related industries. This could negatively impact earnings outlook and valuation for these companies. In the medium-term, a prolonged blockade of Iranian ports could disrupt global supply chains and impact commodity prices, further weighing on the earnings of companies with exposure to the region.",
+      "risks": [
+        "Increased volatility in the market",
+        "Disruption to global supply chains",
+        "Impact on commodity prices"
+      ]
+    }
+  },
+  {
     "id": "8345035",
     "headline": "Hormuz shipping traffic capped amid competing claims from US and Iran - Reuters",
     "summary": "Hormuz shipping traffic capped amid competing claims from US and Iran  Reuters",
@@ -22635,29 +22658,6 @@
         "Regulatory scrutiny and potential future setbacks",
         "Risk of further production quality issues",
         "Uncertainty around the pace of industry recovery"
-      ]
-    }
-  },
-  {
-    "id": "8230624",
-    "headline": "Meta's latest move in the AI talent war — plus Cramer's 4 quick hits on the market",
-    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-    "url": "https://www.cnbc.com/2026/07/17/metas-latest-move-in-the-ai-talent-war-plus-cramers-4-quick-hits.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108310069-17793063292026-05-20t194305z_1806485342_rc27dla6rwc7_rtrmadp_0_tech-ai-meta-layoffs.jpeg?v=1779306361&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1784310045,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784310448,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Meta Platforms is making a move in the AI talent war by poaching a top Amazon Web Services executive, Dave Brown, who has expertise in AI infrastructure and custom silicon. This news is a positive sign for Meta's ambitions to build out a cloud computing business, which could create a new revenue stream. The company's CEO, Mark Zuckerberg, has mentioned that this strategy is 'definitely on the table'. This move also highlights the increasing importance of AI infrastructure in the tech industry, particularly as AI models become more computationally intensive and power-hungry.",
-      "impact": "The potential impact of this news on Meta's stock is positive, as it could lead to increased investor confidence in the company's ability to innovate and expand its offerings. The company's plans to sell computing power to outside customers could also create a new revenue stream, which could boost earnings and valuation. However, the short-term impact may be limited, as the deal with Anthropic to lease computing power is still in the works and may not be finalized soon.",
-      "risks": [
-        "integration risk of new talent and technology",
-        "market competition in the cloud computing space",
-        "regulatory risks associated with data center expansion"
       ]
     }
   }
