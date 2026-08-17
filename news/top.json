@@ -1,13 +1,59 @@
 [
   {
+    "id": "8360643",
+    "headline": "Santoli: Earnings bonanza that lifted market to record may not be all that it appears to be",
+    "summary": "The S&P 500 is up more than 6% in 12 trading days to record levels.",
+    "url": "https://www.cnbc.com/2026/08/17/santoli-earnings-bonanza-that-lifted-market-to-record-may-not-be-all-that-it-appears-to-be.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108348538-1786548860834-108348538-1786548734348-gettyimages-2289681079-LONDIAN_WASON_IPO.jpg?v=1786548870&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1786962693,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1786964649,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "The market has experienced a strong rebound to record levels, driven by a 'Subtraction of All Fears' rally, where concerns about tech platforms, semiconductors, and interest rates have been alleviated. However, analysts question whether this rally is sustainable, citing the possibility of 'over-earning' due to one-time factors such as AI investments, data-center buildouts, and energy-sector earnings surges. These factors may not be repeatable, and earnings forecasts are still rising, suggesting a potential valuation peak for the indexes.",
+      "impact": "The potential impact on stocks is a short-term correction or a medium-term revaluation, driven by a reassessment of earnings outlook and valuation. The rally may be unsustainable, leading to a decline in stock prices. The market's liquidity and sentiment may also be affected, as investors reassess their positions and expectations. The medium-term impact may be a reevaluation of the market's growth prospects and the potential for a more gradual increase in interest rates.",
+      "risks": [
+        "over-earning risk",
+        "valuation peak risk",
+        "recession risk"
+      ]
+    }
+  },
+  {
+    "id": "8360649",
+    "headline": "Iran says two French embassy employees barred from returning - Reuters",
+    "summary": "Iran says two French embassy employees barred from returning  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWkZkRXBDZ3pPWVFROGdBUVlseGpmSEpONkJ2MEdvQjFjajdMYmtLSVNOc1ZjeHg0WGZwNWZpM3ZjV1A2S2FNeHFrZTlRUFRKZGo4SUdwNDBoMUs3UEhwZTMxMzNXRDJEeEdzd0NTTVRaZF9JZFItWUduXzlsMEptODRYR2hFdVRKaDk1Sm83NFFMaTI0SFo5d3ExOTNIZ1M2TGsxWEdtRHRCdFB0eWc?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1786959713,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1786964705,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Iran has barred two French embassy employees from returning, escalating tensions between Iran and France. This move is likely a response to France's recent criticism of Iran's human rights record. The incident occurred as France's President Emmanuel Macron visited the region, further straining relations. The situation may have implications for French companies operating in Iran, particularly those in the energy and oil sectors, as tensions between the two countries increase. The development may also impact the global energy market, as Iran is a significant oil producer.",
+      "impact": "The news may lead to a short-term increase in volatility for French stocks, particularly those with significant exposure to the Middle East or Iran. Companies like Total and Engie, which have a presence in Iran, may see their shares decline as investors become risk-averse. In the medium term, the situation may lead to a reassessment of the risks associated with operating in the region, potentially impacting the earnings outlook for affected companies.",
+      "risks": [
+        "Escalating tensions between Iran and France",
+        "Potential impact on French companies operating in Iran",
+        "Global energy market volatility"
+      ]
+    }
+  },
+  {
     "id": "8360323",
-    "headline": "Drones attack the Kurdistan Regional Government prime minister's office in Iraq - Reuters",
-    "summary": "Drones attack the Kurdistan Regional Government prime minister's office in Iraq  Reuters",
+    "headline": "Drones target office of Iraqi Kurdistan's PM, no casualties reported - Reuters",
+    "summary": "Drones target office of Iraqi Kurdistan's PM, no casualties reported  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX1RqUHdlLUdxNkQweWdveHJybEs3OWpDaTFNRUhpWDFsSGd1V1hub0QzaTdNSlA3Sm1oX1I3NmEzNDdXRWx6UHZxUTJ0c0dmd1hUSzFfSnBraG5WVUQ5Y0RvLWlXUnY1Wi1OWnRQdFhISExZWWYyN2N0UUhJdWlMZzE3LUZXMTJrTFUtcmhIZkFmaU9YZGJONkN4NG9WSTByREhvVkpheWE1S2REbVBNcVNvNmNNQzhjVG9qcHRheG9NcnM?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1786957460,
+    "publishedAt": 1786957852,
     "analysis": {
       "version": 2,
       "generatedAt": 1786961788,
@@ -24,8 +70,8 @@
   },
   {
     "id": "8360012",
-    "headline": "Kushner to hold talks with Netanyahu after rare meeting with Hamas - Reuters",
-    "summary": "Kushner to hold talks with Netanyahu after rare meeting with Hamas  Reuters",
+    "headline": "Trump envoy discusses Gaza plan with Netanyahu after rare Hamas meeting - Reuters",
+    "summary": "Trump envoy discusses Gaza plan with Netanyahu after rare Hamas meeting  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcEx3MFJPNUM1WXN5SzhvTjJKMjk5aXZHWkxtMlBSaS14RTZpaDZsV3cweGdLdGo3dWJDU1ZCZVlob1NESk1CT0l3OFh6OGRXVFVVLXRtb3d0UGRNMlpkSGFobzk4c1dmZ0dtRUxQcEtVQ0tLVWZZbENQRlRSR0FkNWw4eDNtcTk2bkpRNXEyNDN2OFp6clItN0ZPRWUwbmFVQlZUdEdRVmU2R2NiY2hLTFRTOWJGM1VL?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -66,6 +112,25 @@
         "Weakened US-South Korea alliance",
         "Global economic uncertainty"
       ]
+    }
+  },
+  {
+    "id": "8360545",
+    "headline": "WEEKAHEAD Indian rupee expected to be rangebound, bond traders await policy minutes - Reuters",
+    "summary": "WEEKAHEAD Indian rupee expected to be rangebound, bond traders await policy minutes  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWDFjUnFHUE1WM1psUjhsS0N3R0plSTRER2cyeTVlQl9wSDBLankxeEkyT2w1cGlrZWJNaUxZcktrVU96QU1rd0lkdjh1ZjVmR2dqRDBSNFdNNVdpV1c2MkVqbXFBWjdPTURwVjBnazA4OGdyOXZDMWtlOEo2ajJsQVpRV2kwUHFCRnc5MDBnbS1vdm5xcWpXRHJRNURnRjVpQ3NzNklpVGtUc3RDajdWREVSLXN0cWlGWTlJQmppeENNb0w3RGc?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1786933920,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1786964751,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The Indian rupee is expected to remain rangebound due to a lack of significant economic data releases this week. Bond traders are awaiting the release of policy minutes from the Reserve Bank of India (RBI) for cues on future monetary policy decisions. The RBI's stance on interest rates will impact the rupee's value, as a hike in interest rates would strengthen the currency. The Indian rupee's performance is also influenced by global market trends and the country's trade balance.",
+      "impact": "The neutral sentiment on the Indian rupee may have a limited impact on Indian stocks, as the currency's movement is not directly correlated with the performance of individual companies. However, a stronger rupee could lead to a decrease in export competitiveness for Indian companies, potentially affecting their earnings outlook. In the short term, this may not have a significant impact on stock prices, but it could influence investor sentiment and liquidity in the medium term.",
+      "risks": []
     }
   },
   {
@@ -134,6 +199,29 @@
         "Increased tensions in the Middle East leading to a disruption in oil supplies",
         "Prolonged instability in the region leading to increased volatility in oil prices",
         "Uncertainty around the outcome of the US-Iran peace talks"
+      ]
+    }
+  },
+  {
+    "id": "8360543",
+    "headline": "Japan Q2 growth misses forecasts on weaker spending, investment - Reuters",
+    "summary": "Japan Q2 growth misses forecasts on weaker spending, investment  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU21ldTFQWE1HaTVtdWZqVW5QTllNV3p1ckpqcFNnYXAxUzBZVTVkNGFYWmduXy1UQWJ2ZUJyQmZxTkt1RldUTWNtUTltLTBJb2h2My1zbGltQWp2V0NNRGpBZ0k1dFVOSjlwZkUyZmFVWEJNQTd1S3RITFJ4bzdxRmhNVjlVQUhnX3hKbnRsYWpkQ0wwQWZSZm5XTTNhczlJZlFUZm1tdWppc1E?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1786925940,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1786964804,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Japan's Q2 growth has missed forecasts due to weaker spending and investment. The country's economic growth rate has slowed down, which could have a ripple effect on the overall market. This news is a negative indicator for the economy, as it suggests that consumer and business confidence is waning. The slowdown in investment could also lead to a decrease in corporate earnings, which would further exacerbate the bearish sentiment. The Japanese government may need to reassess its economic policies to stimulate growth.",
+      "impact": "The news is likely to have a short-term negative impact on Japanese stocks, particularly those sensitive to economic indicators. The medium-term effect could be a decrease in investor sentiment and a potential revaluation of the yen. This could lead to a decrease in exports and a slowdown in economic growth. The overall impact is expected to be negative for the Japanese market, with a potential decrease in stock prices and a increase in volatility.",
+      "risks": [
+        "Decrease in consumer and business confidence",
+        "Slowing down of corporate earnings",
+        "Potential revaluation of the yen"
       ]
     }
   },
@@ -345,29 +433,6 @@
     }
   },
   {
-    "id": "8355755",
-    "headline": "Trump wants more economic pressure on Iran. What are his options? - Reuters",
-    "summary": "Trump wants more economic pressure on Iran. What are his options?  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcF9Wa1NYT2dtVW52UTI3RWVFeS1MbVdwY0RvZC1kWDJYd1BEdlUzanc4Z09Gbmd6cG9NMHhWTVJxYVM1N0pqMHZCOUhHdHdRZUdBeWhzZVVhN3VBYnlOZjY5NmJmWE41UWVHeXljWUlkMFloZnh2VUxCajE0dlFTTjFOTk9ZRVVMSVJXd0thR05XbktGWlBPYmJ1S0U0bDdkQlZLWlBxb2VIUlZO?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1786880097,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1786879215,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "US President Trump has expressed a desire to increase economic pressure on Iran, which could lead to a further deterioration of the country's economic situation. This move is likely in response to Iran's recent actions in the Middle East, such as the downing of a US drone. The US has already imposed sanctions on Iran, and further economic pressure could lead to a decline in the country's oil exports, which would have a negative impact on global oil prices. This, in turn, could lead to a decrease in demand for US oil companies, such as ExxonMobil and Chevron, which could negatively impact their earnings.",
-      "impact": "The potential impact on US oil companies, such as ExxonMobil and Chevron, could lead to a decrease in earnings due to lower demand for their products. This could also lead to a decline in their stock prices, making them a less attractive investment opportunity. In the short-term, the increase in economic pressure on Iran could lead to higher oil prices, which could benefit oil producers such as ConocoPhillips and Occidental Petroleum. However, in the medium-term, the decline in Iranian oil exports could lead to a decrease in global oil prices, which could negatively impact these companies.",
-      "risks": [
-        "Decrease in demand for US oil companies",
-        "Decline in oil prices",
-        "Negative impact on global economic growth"
-      ]
-    }
-  },
-  {
     "id": "8355153",
     "headline": "Iran disputes Qatar, Kuwait accounts of captured Iranian personnel - Reuters",
     "summary": "Iran disputes Qatar, Kuwait accounts of captured Iranian personnel  Reuters",
@@ -437,6 +502,29 @@
     }
   },
   {
+    "id": "8355755",
+    "headline": "Trump wants more economic pressure on Iran. What are his options? - Reuters",
+    "summary": "Trump wants more economic pressure on Iran. What are his options?  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcF9Wa1NYT2dtVW52UTI3RWVFeS1MbVdwY0RvZC1kWDJYd1BEdlUzanc4Z09Gbmd6cG9NMHhWTVJxYVM1N0pqMHZCOUhHdHdRZUdBeWhzZVVhN3VBYnlOZjY5NmJmWE41UWVHeXljWUlkMFloZnh2VUxCajE0dlFTTjFOTk9ZRVVMSVJXd0thR05XbktGWlBPYmJ1S0U0bDdkQlZLWlBxb2VIUlZO?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1786874580,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1786879215,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "US President Trump has expressed a desire to increase economic pressure on Iran, which could lead to a further deterioration of the country's economic situation. This move is likely in response to Iran's recent actions in the Middle East, such as the downing of a US drone. The US has already imposed sanctions on Iran, and further economic pressure could lead to a decline in the country's oil exports, which would have a negative impact on global oil prices. This, in turn, could lead to a decrease in demand for US oil companies, such as ExxonMobil and Chevron, which could negatively impact their earnings.",
+      "impact": "The potential impact on US oil companies, such as ExxonMobil and Chevron, could lead to a decrease in earnings due to lower demand for their products. This could also lead to a decline in their stock prices, making them a less attractive investment opportunity. In the short-term, the increase in economic pressure on Iran could lead to higher oil prices, which could benefit oil producers such as ConocoPhillips and Occidental Petroleum. However, in the medium-term, the decline in Iranian oil exports could lead to a decrease in global oil prices, which could negatively impact these companies.",
+      "risks": [
+        "Decrease in demand for US oil companies",
+        "Decline in oil prices",
+        "Negative impact on global economic growth"
+      ]
+    }
+  },
+  {
     "id": "8355856",
     "headline": "India sets targets for oil companies to boost cooking gas output amid Middle East war - Reuters",
     "summary": "India sets targets for oil companies to boost cooking gas output amid Middle East war  Reuters",
@@ -461,8 +549,8 @@
   },
   {
     "id": "8358587",
-    "headline": "Suspected Russian drone shot down in Romanian airspace - reuters.com",
-    "summary": "Suspected Russian drone shot down in Romanian airspace  reuters.com",
+    "headline": "Suspected Russian drone shot down in Romanian airspace - Reuters",
+    "summary": "Suspected Russian drone shot down in Romanian airspace  Reuters",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaEYyM3ZsTmtyUnloWUNXS0V4aUx6elJfWmp5UGlZRjJId3N2bkVSYzBZUHdpRXZudEc3aGJoemhNTGdoQUJ5al95MG9EMFA0OW1FVWlGRHBUeVdiRnBQZ1RsY1JZQ1FBQVAxNHNYRDN3REktaXpWOEFWM2RKQ09NNE4xYVpqc0czcE5jcXpLT0ZRLXM4UFFtSDlfREpxQnAwd3liT1IwaG50bmk1X2VRajRMb1FkbDhabTctR25CM0lBd3d2aHZ3?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1318,6 +1406,29 @@
         "Escalation of tensions between the US and Iran",
         "Decreased investor sentiment and liquidity",
         "Potential impact on earnings of companies with exposure to the Middle East region"
+      ]
+    }
+  },
+  {
+    "id": "8360544",
+    "headline": "Russia's Black Sea's Sheskharis terminal halts loadings after drone attack, sources say - Reuters",
+    "summary": "Russia's Black Sea's Sheskharis terminal halts loadings after drone attack, sources say  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZHZsRGtvX2VwWnpvanZCc3dkWnNqTnlQaVVWZ3Vta2JLdm9aWlYyYkxDSmI3RXhLNlM5OXZxODFIRW9UdUlkWE1YbEt3WmthNGdfbENKdUpzam05NnJCYzROMFotUlhQTDFpNFZpZ3pXdzNnZW1TVzBBc1kwVnMwalZGY2NvNUlDRG1LVTRBTlhHS2d5ZXN2ZGV1MHpVcDd2dUtvRm9WMjBpN1MwOTAxY0M5OGxhUS1IMEZOU3ZmUzU3WUpETXRGXzBSSVA?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1786717303,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1786964853,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Russia's Black Sea Sheskharis terminal has halted loadings after a drone attack, according to sources. The terminal is a key shipping hub, and the disruption could impact global oil and gas trade. The incident highlights the increasing security risks in the region, which could affect the operations of other terminals and shipping companies. The attack may also have implications for the global energy market, particularly if the disruption is prolonged.",
+      "impact": "The incident may lead to short-term supply chain disruptions and increased costs for oil and gas companies. In the medium term, the attack could impact the earnings outlook for companies with exposure to the Black Sea region, such as shipping and logistics firms. The incident may also increase investor concerns about the region's security risks, potentially leading to a decline in sentiment and valuation for related stocks. The attack may also have implications for global energy prices, which could impact the broader market.",
+      "risks": [
+        "supply chain disruption risk",
+        "security risk in the Black Sea region",
+        "impact on global energy prices"
       ]
     }
   },
@@ -22560,121 +22671,6 @@
         "Increased defense spending may lead to a decrease in the US government's budget surplus",
         "Escalation of the conflict in the Middle East may lead to a further increase in defense spending",
         "Negative impact on investor sentiment and overall economic outlook"
-      ]
-    }
-  },
-  {
-    "id": "8243792",
-    "headline": "Why oil prices haven't gone crazy despite 5 months of US-Iran war - Reuters",
-    "summary": "Why oil prices haven't gone crazy despite 5 months of US-Iran war  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRWljTmhtaTVPdmZTRkZFLVFDSkpiYlhTWkZidlprdlZhQW1KOW9aY3daeWkxdm5RaVgxX0k1aVY2N3ZWQk9Hald6X29aeE5jdHFuT0RxWXpCbkJCWkJHaHJqZWVXb09aYmFrWHhKZGNfa2pzeTY5RHJkR0lYUTZQbGZXRm50dXVyQjJBbS1ETVFEOUlVR2lwcGk4dWFJTlpyeFUxeVNRNHdCcEVKdWVXLVRJQQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784666545,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784561668,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "Oil prices have remained relatively stable despite the ongoing US-Iran conflict, which has been ongoing for five months. This is due to a combination of factors, including a decrease in global demand, an increase in US oil production, and a decrease in the number of Iranian oil exports. The US has imposed sanctions on Iran, which has led to a decrease in oil exports, but OPEC has increased production to make up for the shortfall. As a result, the impact on oil prices has been muted.",
-      "impact": "The stability of oil prices is likely to have a neutral impact on oil majors such as ExxonMobil (XOM) and Chevron (CVX), as their earnings are less dependent on short-term price fluctuations. However, the medium-term impact could be positive if the conflict escalates and prices rise, increasing the profitability of these companies. On the other hand, oil prices are a major input cost for airlines and other transportation companies, so a significant increase in oil prices could negatively impact their earnings and valuations.",
-      "risks": [
-        "Escalation of the conflict and a significant increase in oil prices",
-        "Decrease in global demand due to economic uncertainty",
-        "Increase in US oil production and OPEC's ability to meet demand"
-      ]
-    }
-  },
-  {
-    "id": "8250910",
-    "headline": "One of Arizona’s largest reservoirs has nearly disappeared - Reuters",
-    "summary": "One of Arizona’s largest reservoirs has nearly disappeared  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNHgzWHBBeGRFZ3R3UWxqaDdwWlE0Xzd1Z05hV3ViQktnQ2dQdmxHaHZBTE42QVJSZWtCLVRyQ1Qxam9fMFpxTHU5RW0tSmJMWC1LOWpUUG5UaHRVWVpLUXNEdXhkT3VOY0tWb1RDcUZDdnV0ZUZwYWRWcnZDaTdzX3BVVm1rdVJ6Mzd6T3JxdkVjcDdWTWxncEdfbFhIWWtC?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784666280,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784673608,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Arizona's largest reservoir has nearly disappeared due to drought, affecting water supply and potentially impacting agriculture, industry, and local communities. The reservoir's water levels have dropped significantly, with some areas experiencing severe water shortages. The situation is exacerbated by climate change, which is expected to worsen drought conditions in the region. The lack of water may lead to increased costs for water transportation and storage, affecting companies that rely on the reservoir.",
-      "impact": "The drought and water shortage may negatively impact companies in the agriculture, construction, and tourism industries, which rely on the reservoir for water supply. Companies that operate in these sectors may experience increased costs and reduced profitability. The drought may also lead to a decrease in property values and a negative impact on local economies. In the short-term, water transportation and storage companies may see increased demand and potentially higher profits.",
-      "risks": [
-        "Water scarcity risk",
-        "Increased costs for water transportation and storage",
-        "Negative impact on local economies and property values"
-      ]
-    }
-  },
-  {
-    "id": "8250481",
-    "headline": "Apple prepares a new way to buy iPhones. Plus, making sense of Google's new AI models",
-    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-    "url": "https://www.cnbc.com/2026/07/21/apple-prepares-a-new-way-to-buy-iphones-plus-making-sense-of-googles-new-ai-models.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108259458-1769775322895-gettyimages-2258412368-cfoto-applesgr260129_npF96.jpeg?v=1769791085&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1784661631,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784666959,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Apple is launching a new device leasing program, Apple Upgrade, in partnership with Klarna, allowing users to upgrade or keep devices at the end of a leasing term. This move is expected to ease sticker shock from price increases and encourage users to upgrade to newer, more powerful devices that support Apple's Apple Intelligence offering. Alphabet's Google also announced new Gemini models, alleviating concerns about the pace of innovation. The success of these initiatives could reinforce investor confidence in the AI investment cycle.",
-      "impact": "The potential launch of Apple Upgrade could positively impact Apple's stock by increasing sales and reducing the risk of users switching to competing devices. In the short term, the program may attract users who have held onto devices for several years, driving sales and revenue. In the medium term, the program could lead to increased adoption of Apple's newer, more powerful devices, supporting the growth of its Apple Intelligence offering. Google's new Gemini models may also boost investor confidence in the AI sector, potentially driving up the stock price of Alphabet and other AI-related companies.",
-      "risks": [
-        "Competition from other device leasing programs or financing options",
-        "User adoption and retention risks for Apple Upgrade",
-        "Potential delays or issues with the rollout of Apple Upgrade"
-      ]
-    }
-  },
-  {
-    "id": "8250482",
-    "headline": "Investing experts: Why 'just buy the market' doesn't necessarily apply to bonds",
-    "summary": "The flagship index for bond investors has some idiosyncracies bond investors should be aware of, experts say.",
-    "url": "https://www.cnbc.com/2026/07/21/bond-investing-buy-the-market-agg-index.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108040295-1727453392164-gettyimages-1151567705-dsc_9265-1.jpeg?v=1727453475&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1784660691,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784667010,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "Investing experts advise against solely relying on the Bloomberg U.S. Aggregate Bond Index (Agg) as a bond holding, as its characteristics and risks differ from those of the S&P 500 stock market index. The Agg is a diversified mix of debt, including Treasurys and investment-grade corporate bonds, designed to hedge against recession. However, its lower returns and different market forces make it less suitable for long-term growth-oriented investors. Experts recommend considering the Agg as a core bond holding for risk-averse investors or those saving for short- to intermediate-term goals.",
-      "impact": "The news may have a neutral impact on bond-related stocks, as the Agg is a widely-held index fund. However, it may lead to a slight decrease in demand for other bond funds or individual bonds, potentially affecting their prices and yields. In the short term, the Agg's popularity may not be significantly affected, but its characteristics and risks may influence investors' decisions in the medium term, potentially impacting the broader bond market and related stocks.",
-      "risks": [
-        "Investor over-reliance on the Agg may lead to a lack of diversification and increased risk exposure",
-        "Lower returns compared to stocks may lead to decreased investor interest in bonds",
-        "Market forces and economic conditions may affect the Agg's performance and investor sentiment"
-      ]
-    }
-  },
-  {
-    "id": "8250270",
-    "headline": "RFK Jr. says cyclospora outbreak is 'under control'",
-    "summary": "Health and Human Services Secretary Robert F. Kennedy Jr. on Tuesday said that the ongoing outbreak of cyclosporiasis is \"under control\" despite criticism.",
-    "url": "https://www.cnbc.com/2026/07/21/cyclospora-rfk-jr-says-outbreak-is-under-control.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108268737-17718758092026-02-23t193751z_1438571584_rc2srja9yemf_rtrmadp_0_health-usa-fda.jpeg?v=1784655402&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1784659404,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784661735,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The ongoing cyclosporiasis outbreak is reportedly under control, according to Health and Human Services Secretary Robert F. Kennedy Jr. The source of the outbreak, shredded iceberg lettuce from central Mexico supplied by Taylor Farms, has been identified and the company has implemented a recall. The FDA and CDC have faced criticism for their responses, but Kennedy defended the agencies, stating that there were no cuts in the surveillance program. The outbreak has led to over 1,644 reported cases, 94 hospitalizations, and no deaths.",
-      "impact": "The news is likely to have a positive impact on the stock prices of companies involved in the recall, such as Taylor Farms, as the outbreak appears to be under control. The recall and subsequent removal of the contaminated produce from restaurants like Taco Bell may also boost consumer confidence in the food safety measures of these companies. In the short term, the news may lead to a temporary increase in investor sentiment and a subsequent rally in the stock prices of these companies. However, the medium-term impact may be more nuanced, as the cyclospora parasite's lengthy incubation period and the potential for future outbreaks could continue to affect the industry's reputation and earnings outlook.",
-      "risks": [
-        "Future outbreaks of cyclosporiasis or other foodborne illnesses",
-        "Continued scrutiny of the FDA and CDC's responses to outbreaks",
-        "Potential damage to the reputation of companies involved in the recall"
       ]
     }
   }
