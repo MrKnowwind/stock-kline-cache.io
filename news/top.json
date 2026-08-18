@@ -1,5 +1,70 @@
 [
   {
+    "id": "8366764",
+    "headline": "We're adding to our position in a stock that's been hurt by rekindled Middle East tensions",
+    "summary": "The stock has pulled back in recent weeks despite a series of positive updates.",
+    "url": "https://www.cnbc.com/2026/08/18/were-adding-to-our-position-in-a-stock-thats-been-hurt-by-rekindled-middle-east-tensions-.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108126999-17437959902025-04-04t194522z_1966743906_rc27rda17sjy_rtrmadp_0_usa-stocks.jpeg?v=1747687355&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1787066599,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787069017,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Boeing's recent dip due to Middle East tensions has created a buying opportunity for the company's turnaround efforts. The company has shown positive signs of progress, including better-than-expected free cash flow and increased 737 Max production. The FAA has certified the 737 Max 7, a crucial milestone, and the Max 10 certification is expected this year. Boeing's decision to sell noncore subsidiaries to Archer Aviation will help focus on improving quality and ramping up Max jet production.",
+      "impact": "We expect the stock to benefit from Boeing's turnaround efforts, driven by increased 737 Max production and improving free cash flow. This could lead to a short-term increase in the stock price as investors become more optimistic about the company's prospects. In the medium term, we expect the stock to outperform as the 737 Max production ramps up and Boeing's focus on quality and efficiency improves. The certification of the Max 7 and Max 10 will also boost investor confidence.",
+      "risks": []
+    }
+  },
+  {
+    "id": "8366662",
+    "headline": "Millennials and Gen Z are landing fast-growing, high-paying AI jobs, according to LinkedIn study",
+    "summary": "Young workers are holding their own in the AI job market, according to new research from LinkedIn.",
+    "url": "https://www.cnbc.com/2026/08/18/millennials-and-gen-z-are-landing-fast-growing-high-paying-ai-jobs-linkedin-study.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108350628-1786998727283-gettyimages-2233679886-jh_dkgenzonthego_0159.jpeg?v=1786998772&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1787064601,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787069071,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "A LinkedIn study found that millennials and Gen Z workers are thriving in the AI job market, with many landing high-paying and fast-growing AI jobs. This is in contrast to the broader job market, where young workers are struggling with higher unemployment rates. The study identified top 12 fast-growing AI jobs, including forward deployed engineer, AI engineer, and head of AI roles, with median salaries ranging from $166,000 to $236,000. The AI jobs market is growing rapidly, with a 14% increase in job postings between 2023 and 2024 and a 156% increase between 2024 and 2025.",
+      "impact": "The news is likely to have a positive impact on the tech industry, particularly companies that specialize in AI and related fields. The growing demand for AI talent and the high salaries offered may lead to increased earnings for companies in this space, potentially driving up valuations. The trend may also attract more investors to the sector, increasing liquidity and sentiment. Additionally, the rise of AI jobs may lead to an increase in demand for related education and training programs, benefiting companies in the education sector.",
+      "risks": [
+        "Regulatory risks related to AI development and deployment",
+        "Competition for talent in the AI job market",
+        "Potential job displacement risks due to automation"
+      ]
+    }
+  },
+  {
+    "id": "8366561",
+    "headline": "Trump says no talks are taking place with Iran and none are scheduled - Reuters",
+    "summary": "Trump says no talks are taking place with Iran and none are scheduled  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSHhKekZqU0IxWEQwY2JOckhOeTBJd0FraHloM25INUJuQXNnRk5BM1JzU05UTl9RbDVSUnVkbWVzYlpaaV9lRG16bloxZGxRRXQ5dlV2a1plTkpHXzQ5Smg0Nlk0c3VjdFZLSjdkRHIxLVl6Sm5yamhoVWF3SlowaDVYV01QdGE0emdOd3N6cnFOeW5FbDRsdEExSTNNMFFMOUtYQjFDakRUbWdVbVNoWkNCcm02RkhYcjUw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1787063992,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787066160,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "US President Trump has stated that no talks are taking place with Iran and none are scheduled, indicating a heightened sense of tension between the two nations. This news comes amidst ongoing diplomatic efforts to address Iran's nuclear program. The lack of dialogue suggests a continued risk of conflict, which could have significant implications for regional and global stability. The statement has sparked concerns about the potential for increased military action or economic sanctions against Iran.",
+      "impact": "The news is likely to have a bearish impact on companies with exposure to the Middle East region, particularly those involved in oil and gas production. Companies like Saudi Aramco (TADAWUL: 6010.SE) and National Iranian Oil Company (NIOC) may see their shares decline as tensions escalate. In the short term, investors may shy away from investing in the region, leading to a decrease in liquidity and potentially lower stock prices. Medium-term, the continued uncertainty may impact earnings outlook and valuation for companies with significant operations in the region.",
+      "risks": [
+        "escalation of conflict risk",
+        "economic sanctions risk",
+        "decreased investor sentiment risk"
+      ]
+    }
+  },
+  {
     "id": "8366556",
     "headline": "After a long job search, this 45-year-old is ditching corporate for nursing school—she wishes she'd done it earlier",
     "summary": "Kristy Layden spent over a year job searching after losing her job as a senior manager in e-commerce and fulfillment. Now she's going to nursing school instead.",
@@ -69,37 +134,14 @@
     }
   },
   {
-    "id": "8366561",
-    "headline": "Trump says no talks are taking place with Iran and none are scheduled - Reuters",
-    "summary": "Trump says no talks are taking place with Iran and none are scheduled  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSHhKekZqU0IxWEQwY2JOckhOeTBJd0FraHloM25INUJuQXNnRk5BM1JzU05UTl9RbDVSUnVkbWVzYlpaaV9lRG16bloxZGxRRXQ5dlV2a1plTkpHXzQ5Smg0Nlk0c3VjdFZLSjdkRHIxLVl6Sm5yamhoVWF3SlowaDVYV01QdGE0emdOd3N6cnFOeW5FbDRsdEExSTNNMFFMOUtYQjFDakRUbWdVbVNoWkNCcm02RkhYcjUw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1787062316,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1787066160,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "US President Trump has stated that no talks are taking place with Iran and none are scheduled, indicating a heightened sense of tension between the two nations. This news comes amidst ongoing diplomatic efforts to address Iran's nuclear program. The lack of dialogue suggests a continued risk of conflict, which could have significant implications for regional and global stability. The statement has sparked concerns about the potential for increased military action or economic sanctions against Iran.",
-      "impact": "The news is likely to have a bearish impact on companies with exposure to the Middle East region, particularly those involved in oil and gas production. Companies like Saudi Aramco (TADAWUL: 6010.SE) and National Iranian Oil Company (NIOC) may see their shares decline as tensions escalate. In the short term, investors may shy away from investing in the region, leading to a decrease in liquidity and potentially lower stock prices. Medium-term, the continued uncertainty may impact earnings outlook and valuation for companies with significant operations in the region.",
-      "risks": [
-        "escalation of conflict risk",
-        "economic sanctions risk",
-        "decreased investor sentiment risk"
-      ]
-    }
-  },
-  {
     "id": "8365891",
-    "headline": "US stocks open lower as Iran stalemate lifts oil, yields - Reuters",
-    "summary": "US stocks open lower as Iran stalemate lifts oil, yields  Reuters",
+    "headline": "Tech stocks weigh on Wall Street as Iran stalemate lifts oil, yields - Reuters",
+    "summary": "Tech stocks weigh on Wall Street as Iran stalemate lifts oil, yields  Reuters",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUzFvaDFSek1CYmFoSHEzTG9feVA2blNkZE9LMy00ZnpQbnFmVXYwSDJkeDR5OEFNSExNcGdrWWNjdTNLQzlia0V4b0hvV2VaTTcyaXRFdldtaDJUcm9KcDAxQ3NNWV9MaDd2Q2NaVWtHVUEwS0YyU21ia3lJQVpMTjNBMGtlaXp0M0JWaTIxeExpYlpHOEN0b05NN00xRmhHSHc0bERMOG1COGVNYTEzSw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1787060169,
+    "publishedAt": 1787061864,
     "analysis": {
       "version": 2,
       "generatedAt": 1787054631,
@@ -299,6 +341,25 @@
     }
   },
   {
+    "id": "8364417",
+    "headline": "Vessel struck by unknown projectile in Strait of Hormuz, crew casualty reported, UKMTO says - Reuters",
+    "summary": "Vessel struck by unknown projectile in Strait of Hormuz, crew casualty reported, UKMTO says  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdC1DbUtnYVo3NzVqcVBVR3FXcm1WQXBOWHI2b1d0SG5NOG1wS25jdjJJeUx3NFc0Ym13OTlZTzl5Q1hnR3dVWFpuTkF6cVlic0NNdXJDWHBIcGZlRVRLWUtJclYybUxvNTJ5RWFDZjJOaGR2aGFrS21Ibzg3b1FudnZjVkZTQV9ra2ZmMnNZNGZWWGdDZXpxUmpoMXEybC1oMjd2T3RYVjJwZ3NacE9XcERRWEZhcHZtbVE1VmhsaDNiWkhlV2hyei1QZ3c?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1787048543,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787030072,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "A vessel has been struck by an unknown projectile in the Strait of Hormuz, resulting in a reported crew casualty. The incident occurred in a sensitive region with a history of geopolitical tensions. The UK Maritime Trade Operations (UKMTO) has confirmed the incident, but details are limited. The Strait of Hormuz is a critical waterway for global oil trade, and any disruption can have significant implications for oil prices and related industries. The incident may lead to increased tensions in the region and potential supply chain disruptions.",
+      "impact": "The incident may lead to a short-term increase in oil prices, benefiting oil-producing companies such as ExxonMobil (XOM) and Chevron (CVX). However, the medium-term impact may be more nuanced, as increased tensions in the region could lead to supply chain disruptions and decreased investor confidence. This could negatively impact the earnings outlook for companies reliant on the Strait of Hormuz, such as shipping companies like Maersk (MAERSKb.CO) and COSCO (601919.SS).",
+      "risks": []
+    }
+  },
+  {
     "id": "8365570",
     "headline": "European shares slip as oil prices and bond yields surge on Middle East fears - Reuters",
     "summary": "European shares slip as oil prices and bond yields surge on Middle East fears  Reuters",
@@ -387,29 +448,6 @@
         "Regulatory risks associated with increased demand for oil tankers",
         "Potential disruptions to global oil supply chains",
         "Increased competition in the oil tanker market"
-      ]
-    }
-  },
-  {
-    "id": "8361313",
-    "headline": "China surprises oil markets again with a return to stockpiling in July - Reuters",
-    "summary": "China surprises oil markets again with a return to stockpiling in July  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOWM3eVRJMFNmUjRab1RyZFVmQU12ZUVkbDVIUnpRQ2o3WnhSWlJ2RHhFWXE5bDM0WDFydXd1X3haSFQ5WUFVa1lrcFZGVTlUUjREY0NGNHZ3YWxEWDlxQjdIN3F5QTdPVEk5OURMbW9QQ2d2cDJxSVBYZVpoMU9yUU84Y0JkNFZ6anZ1d0FGaHpmek40WUJKTWxpeVZId2tnc0FxNXlLRmZWQmdLZG43SXdHUlBHc2F3MmlSZEpDVnRaRjRUb1hjWnhvOA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1787038123,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1786975614,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "China's surprise return to oil stockpiling in July has sent shockwaves through the global oil market, contradicting expectations of a decrease in inventory levels. The move is seen as a bullish signal for oil prices, as it suggests that China, the world's second-largest oil consumer, is preparing for a potential shortage or increase in demand. This development is significant, as China's oil demand accounts for a substantial portion of global oil consumption. The news may also indicate that China's economy is recovering faster than expected, which could have broader implications for the global economy.",
-      "impact": "The news is likely to be bullish for oil-producing companies, particularly those with significant exposure to the Chinese market. This could lead to a short-term increase in oil prices, benefiting companies such as Sinopec, PetroChina, and CNOOC. In the medium term, a recovering Chinese economy could also boost demand for oil and related services, positively impacting companies such as oilfield services provider Schlumberger and drilling equipment manufacturer National Oilwell Varco.",
-      "risks": [
-        "Potential overstocking risk: If China's oil stockpiling is not matched by corresponding demand, it could lead to a surplus in the market, negatively impacting oil prices.",
-        "Global economic slowdown risk: A global economic downturn could reduce oil demand, offsetting the positive impact of China's stockpiling.",
-        "Geopolitical risk: Tensions in the Middle East or other regions could disrupt oil supply, exacerbating the impact of China's stockpiling on oil prices."
       ]
     }
   },
@@ -506,25 +544,6 @@
     }
   },
   {
-    "id": "8364417",
-    "headline": "Vessel struck by unknown projectile in Strait of Hormuz, crew casualty reported, UKMTO says - Reuters",
-    "summary": "Vessel struck by unknown projectile in Strait of Hormuz, crew casualty reported, UKMTO says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdC1DbUtnYVo3NzVqcVBVR3FXcm1WQXBOWHI2b1d0SG5NOG1wS25jdjJJeUx3NFc0Ym13OTlZTzl5Q1hnR3dVWFpuTkF6cVlic0NNdXJDWHBIcGZlRVRLWUtJclYybUxvNTJ5RWFDZjJOaGR2aGFrS21Ibzg3b1FudnZjVkZTQV9ra2ZmMnNZNGZWWGdDZXpxUmpoMXEybC1oMjd2T3RYVjJwZ3NacE9XcERRWEZhcHZtbVE1VmhsaDNiWkhlV2hyei1QZ3c?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1787023740,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1787030072,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "A vessel has been struck by an unknown projectile in the Strait of Hormuz, resulting in a reported crew casualty. The incident occurred in a sensitive region with a history of geopolitical tensions. The UK Maritime Trade Operations (UKMTO) has confirmed the incident, but details are limited. The Strait of Hormuz is a critical waterway for global oil trade, and any disruption can have significant implications for oil prices and related industries. The incident may lead to increased tensions in the region and potential supply chain disruptions.",
-      "impact": "The incident may lead to a short-term increase in oil prices, benefiting oil-producing companies such as ExxonMobil (XOM) and Chevron (CVX). However, the medium-term impact may be more nuanced, as increased tensions in the region could lead to supply chain disruptions and decreased investor confidence. This could negatively impact the earnings outlook for companies reliant on the Strait of Hormuz, such as shipping companies like Maersk (MAERSKb.CO) and COSCO (601919.SS).",
-      "risks": []
-    }
-  },
-  {
     "id": "8364633",
     "headline": "Hormuz crossings rise slightly from weekend, remain in single digits, data shows - Reuters",
     "summary": "Hormuz crossings rise slightly from weekend, remain in single digits, data shows  Reuters",
@@ -567,6 +586,29 @@
         "Increased production costs and lower profit margins",
         "Decrease in earnings and stock prices",
         "Negative impact on consumer spending and economic growth"
+      ]
+    }
+  },
+  {
+    "id": "8361313",
+    "headline": "China surprises oil markets again with a return to stockpiling in July - Reuters",
+    "summary": "China surprises oil markets again with a return to stockpiling in July  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOWM3eVRJMFNmUjRab1RyZFVmQU12ZUVkbDVIUnpRQ2o3WnhSWlJ2RHhFWXE5bDM0WDFydXd1X3haSFQ5WUFVa1lrcFZGVTlUUjREY0NGNHZ3YWxEWDlxQjdIN3F5QTdPVEk5OURMbW9QQ2d2cDJxSVBYZVpoMU9yUU84Y0JkNFZ6anZ1d0FGaHpmek40WUJKTWxpeVZId2tnc0FxNXlLRmZWQmdLZG43SXdHUlBHc2F3MmlSZEpDVnRaRjRUb1hjWnhvOA?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1787019533,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1786975614,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "China's surprise return to oil stockpiling in July has sent shockwaves through the global oil market, contradicting expectations of a decrease in inventory levels. The move is seen as a bullish signal for oil prices, as it suggests that China, the world's second-largest oil consumer, is preparing for a potential shortage or increase in demand. This development is significant, as China's oil demand accounts for a substantial portion of global oil consumption. The news may also indicate that China's economy is recovering faster than expected, which could have broader implications for the global economy.",
+      "impact": "The news is likely to be bullish for oil-producing companies, particularly those with significant exposure to the Chinese market. This could lead to a short-term increase in oil prices, benefiting companies such as Sinopec, PetroChina, and CNOOC. In the medium term, a recovering Chinese economy could also boost demand for oil and related services, positively impacting companies such as oilfield services provider Schlumberger and drilling equipment manufacturer National Oilwell Varco.",
+      "risks": [
+        "Potential overstocking risk: If China's oil stockpiling is not matched by corresponding demand, it could lead to a surplus in the market, negatively impacting oil prices.",
+        "Global economic slowdown risk: A global economic downturn could reduce oil demand, offsetting the positive impact of China's stockpiling.",
+        "Geopolitical risk: Tensions in the Middle East or other regions could disrupt oil supply, exacerbating the impact of China's stockpiling on oil prices."
       ]
     }
   },
@@ -732,29 +774,6 @@
     }
   },
   {
-    "id": "8363491",
-    "headline": "A Palestinian American's journey to his West Bank home under settler siege - Reuters",
-    "summary": "A Palestinian American's journey to his West Bank home under settler siege  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPemVlSmx3ZkppbzZ6WE9oMzdjekdXOEIzUTBldm5NbG1DY3ZaUkUwSjlwdHFFekRjRDl6elZGdlUxQ1F5YmxTUXlDQTM0RHhKbGNMRlJxN3VsWHI2cGZ6Yjc2V2NaenFxRENiS003SmVYZlhReXEzYW9reUd6UWhyQnJZT1RwZFZyUk1rUFVMTk1ZZVR0MXJxdG1TREs5Sy0xOFdYeFFTemVqejJsN1RmQVZEbGlZY3A4NzJSZW5EWQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1787000626,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1787015230,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "A Palestinian American, Omar Barghouti, recounts his journey to his West Bank home, which has been under siege by Israeli settlers. The article highlights the tensions and restrictions imposed by the Israeli government on Palestinian residents in the West Bank. The situation has been ongoing for years, with little resolution in sight. The article serves as a human-interest piece, shedding light on the daily struggles of Palestinian residents in the region. The news does not have a direct impact on the business fundamentals of any specific company, but it contributes to the broader geopolitical context of the region.",
-      "impact": "The news may have a negative impact on the sentiment towards companies operating in the Israeli defense and security sector, such as Elbit Systems (ESLT) or Israel Aerospace Industries (ARSTY), as the ongoing conflict may lead to increased scrutiny and potential boycotts. In the short term, this may result in a decline in investor sentiment and a decrease in stock prices. However, in the medium term, the conflict may lead to increased government spending on defense and security, potentially benefiting companies in this sector.",
-      "risks": [
-        "geopolitical risk",
-        "sentiment risk",
-        "regulatory risk"
-      ]
-    }
-  },
-  {
     "id": "8360323",
     "headline": "Drone targets office of Iraqi Kurdistan's PM, no casualties reported - Reuters",
     "summary": "Drone targets office of Iraqi Kurdistan's PM, no casualties reported  Reuters",
@@ -908,6 +927,29 @@
         "Regulatory approval risk for Eli Lilly's Foundayo",
         "Competition from Novo Nordisk's Wegovy",
         "Uncertainty around the potential takeover of Workday"
+      ]
+    }
+  },
+  {
+    "id": "8363491",
+    "headline": "A Palestinian American's journey to his West Bank home under settler siege - Reuters",
+    "summary": "A Palestinian American's journey to his West Bank home under settler siege  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPemVlSmx3ZkppbzZ6WE9oMzdjekdXOEIzUTBldm5NbG1DY3ZaUkUwSjlwdHFFekRjRDl6elZGdlUxQ1F5YmxTUXlDQTM0RHhKbGNMRlJxN3VsWHI2cGZ6Yjc2V2NaenFxRENiS003SmVYZlhReXEzYW9reUd6UWhyQnJZT1RwZFZyUk1rUFVMTk1ZZVR0MXJxdG1TREs5Sy0xOFdYeFFTemVqejJsN1RmQVZEbGlZY3A4NzJSZW5EWQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1786989660,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787015230,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "A Palestinian American, Omar Barghouti, recounts his journey to his West Bank home, which has been under siege by Israeli settlers. The article highlights the tensions and restrictions imposed by the Israeli government on Palestinian residents in the West Bank. The situation has been ongoing for years, with little resolution in sight. The article serves as a human-interest piece, shedding light on the daily struggles of Palestinian residents in the region. The news does not have a direct impact on the business fundamentals of any specific company, but it contributes to the broader geopolitical context of the region.",
+      "impact": "The news may have a negative impact on the sentiment towards companies operating in the Israeli defense and security sector, such as Elbit Systems (ESLT) or Israel Aerospace Industries (ARSTY), as the ongoing conflict may lead to increased scrutiny and potential boycotts. In the short term, this may result in a decline in investor sentiment and a decrease in stock prices. However, in the medium term, the conflict may lead to increased government spending on defense and security, potentially benefiting companies in this sector.",
+      "risks": [
+        "geopolitical risk",
+        "sentiment risk",
+        "regulatory risk"
       ]
     }
   },
@@ -1342,6 +1384,29 @@
         "geopolitical risk",
         "regional instability risk",
         "uncertainty in the peace process"
+      ]
+    }
+  },
+  {
+    "id": "8358075",
+    "headline": "Trump orders Pentagon to cut back military exercises with South Korea - Reuters",
+    "summary": "Trump orders Pentagon to cut back military exercises with South Korea  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaGdQYThHbnV2b3NnalEycy1sZGpyNGNLaGNYODl2TmhhUnNma2ZhMk1MTURNQWxMalB3OUswYk10R2RJZGlBNnJoUkZzRGxGcE8xQklBZnlZYUs1d004Q09uUWdDeV96aFlJc0o2Nzh1aHZvRVBhZTV2SGU4RnZremZXWkw0YUp3SENRTDNFNkFyOWNVS2ROSEpCaVhpSmV2QWhMUGI5aVo3aUc3Z2pkWDBIQ2lRdw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1786967838,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1786921130,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "US President Trump has instructed the Pentagon to reduce military exercises with South Korea, a move that could potentially ease tensions on the Korean Peninsula. This decision comes after a series of high-profile summits between Trump and North Korean leader Kim Jong-un. The reduction in military exercises may be seen as a goodwill gesture, but it also raises concerns about the US military's preparedness in the region. The move is likely a result of diplomatic efforts to maintain a peaceful atmosphere ahead of the next US-North Korea summit. This development may have implications for companies involved in defense contracting and military equipment sales.",
+      "impact": "The reduction in military exercises may lead to a short-term increase in the shares of companies involved in defense contracting and military equipment sales, as the reduced need for military preparedness could result in increased demand for these services. However, this may be offset by concerns about the long-term implications of reduced military spending, which could negatively impact the earnings outlook for defense contractors. The medium-term impact on the US defense industry may be more significant, as a prolonged period of reduced military exercises could lead to a decrease in defense spending and a subsequent decline in stock prices.",
+      "risks": [
+        "Reduced defense spending risk",
+        "Decreased earnings outlook risk",
+        "Potential escalation of tensions with North Korea risk"
       ]
     }
   },
@@ -1978,29 +2043,6 @@
         "Increased oil prices risk",
         "Supply chain disruption risk",
         "Decreased investor confidence risk"
-      ]
-    }
-  },
-  {
-    "id": "8358075",
-    "headline": "Trump orders Pentagon to cut back military exercises with South Korea - Reuters",
-    "summary": "Trump orders Pentagon to cut back military exercises with South Korea  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaGdQYThHbnV2b3NnalEycy1sZGpyNGNLaGNYODl2TmhhUnNma2ZhMk1MTURNQWxMalB3OUswYk10R2RJZGlBNnJoUkZzRGxGcE8xQklBZnlZYUs1d004Q09uUWdDeV96aFlJc0o2Nzh1aHZvRVBhZTV2SGU4RnZremZXWkw0YUp3SENRTDNFNkFyOWNVS2ROSEpCaVhpSmV2QWhMUGI5aVo3aUc3Z2pkWDBIQ2lRdw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1786916340,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1786921130,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "US President Trump has instructed the Pentagon to reduce military exercises with South Korea, a move that could potentially ease tensions on the Korean Peninsula. This decision comes after a series of high-profile summits between Trump and North Korean leader Kim Jong-un. The reduction in military exercises may be seen as a goodwill gesture, but it also raises concerns about the US military's preparedness in the region. The move is likely a result of diplomatic efforts to maintain a peaceful atmosphere ahead of the next US-North Korea summit. This development may have implications for companies involved in defense contracting and military equipment sales.",
-      "impact": "The reduction in military exercises may lead to a short-term increase in the shares of companies involved in defense contracting and military equipment sales, as the reduced need for military preparedness could result in increased demand for these services. However, this may be offset by concerns about the long-term implications of reduced military spending, which could negatively impact the earnings outlook for defense contractors. The medium-term impact on the US defense industry may be more significant, as a prolonged period of reduced military exercises could lead to a decrease in defense spending and a subsequent decline in stock prices.",
-      "risks": [
-        "Reduced defense spending risk",
-        "Decreased earnings outlook risk",
-        "Potential escalation of tensions with North Korea risk"
       ]
     }
   },
@@ -22646,52 +22688,6 @@
       "summary": "TotalEnergies has reported its strongest profit in nearly three years due to the recent conflict in Iran, which has led to a surge in oil prices. The company's oil production and sales have benefited from the increased demand and prices. The Iran conflict has disrupted oil exports from the country, further tightening the global oil market and driving up prices. This has resulted in higher revenue and profits for TotalEnergies. The company's ability to capitalize on the situation is a testament to its diversified operations and strategic positioning in the global energy market.",
       "impact": "The news is likely to have a positive impact on TotalEnergies' stock price in the short term, driven by the company's strong earnings and the expectation of sustained high oil prices. The medium-term impact could be a re-evaluation of the company's valuation, potentially leading to a higher stock price. The increased profitability and cash flow may also improve the company's liquidity and ability to invest in future growth initiatives. The Iran conflict may also have a broader impact on the energy sector, potentially benefiting other oil majors with diversified operations.",
       "risks": []
-    }
-  },
-  {
-    "id": "8260200",
-    "headline": "US Senate blocks resolution curbing Trump's Iran war powers - Reuters",
-    "summary": "US Senate blocks resolution curbing Trump's Iran war powers  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaWo0QndtdEk3N3FOVzJKRFM4N1J6MHJmYXBLVDNQVEVpb3Z2dGZlRUV2WlBsUTVtR1dfSzdEdHBTcTRsQlJBdVZ2YXpkcEdCUG9RNXc1Y0RnQ2pUMnY0bEYybmZ2VE10VVh6WkpvVlNpajZBME1qV3dGc1N2TjRlY1Vka2YtdFh3bzJ2aTh1VlpsY3VaZWlMN0VxT1otLUlQM1E?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1784825059,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784837085,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The US Senate blocked a resolution to curb President Trump's war powers regarding Iran, which means the US government can continue to take military action against Iran without congressional approval. This decision is a significant development in the ongoing tensions between the US and Iran. The background of the conflict is rooted in the US withdrawal from the Iran nuclear deal in 2018 and subsequent sanctions imposed on Iran. The Senate's decision is a setback for those who sought to limit the President's authority in foreign policy, but it does not change the underlying economic fundamentals of the defense and aerospace industry. The news is unlikely to have a direct impact on the earnings outlook of defense contractors, but it may influence investor sentiment in the short term.",
-      "impact": "The short-term impact of this news on defense contractors such as Lockheed Martin (LMT) and Boeing (BA) is likely to be minimal, as the Senate's decision does not change the fundamentals of the industry. However, the news may lead to increased volatility in the stock prices of these companies as investors react to the uncertainty surrounding US foreign policy. In the medium term, the continued tensions between the US and Iran may lead to increased defense spending, which could benefit companies like LMT and BA. However, this is highly uncertain and dependent on various factors, including the outcome of future diplomatic efforts.",
-      "risks": [
-        "Increased defense spending risk",
-        "Uncertainty in US foreign policy risk",
-        "Volatility in stock prices risk"
-      ]
-    }
-  },
-  {
-    "id": "8260096",
-    "headline": "Cramer has a problem with Alphabet. Plus, updates on 2 industrials",
-    "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-    "url": "https://www.cnbc.com/2026/07/23/cramer-has-a-problem-with-alphabet-plus-updates-on-2-industrials-.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108144891-1747157455478-Untitled-1.jpg?v=1747157552&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1784823886,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784829776,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Jim Cramer expressed concerns about Alphabet's (GOOGL) balance sheet due to increased capital spending driven by AI adoption, which he believes may not have a clear payback. This led him to reconsider investing in the stock, despite the recent pullback. In contrast, Honeywell (HON) reported a good quarter, with organic revenue growth of 4% and adjusted earnings per share rising 10%, which is a positive sign for the industrial sector. Dover (DOV) shares tumbled nearly 8% after a mixed report, with a disappointing execution issue and a miss on its refrigeration production volume target.",
-      "impact": "The potential impact on Alphabet is a short-term bearish sentiment due to Cramer's concerns about the company's balance sheet. This may lead to a decline in the stock price, making it a less attractive investment opportunity. In contrast, Honeywell's positive report may boost investor sentiment and drive the stock price up. Dover's disappointing report may lead to a short-term decline in its stock price, but Cramer's willingness to move on from the investment may limit the impact.",
-      "risks": [
-        "Increased capital spending risk",
-        "Uncertain payback risk",
-        "Execution risk"
-      ]
     }
   }
 ]
