@@ -69,6 +69,29 @@
     }
   },
   {
+    "id": "8365570",
+    "headline": "European shares slip as oil prices and bond yields surge on Middle East fears - Reuters",
+    "summary": "European shares slip as oil prices and bond yields surge on Middle East fears  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQWJYWndUWEJjOWp1RXhHeWpQOFdFaTVhRFkzY3Rhc2pCYXJKcDRJWUlWeXlUZnhISjNiaXJVN0doZU9CdVZGcGhNRW5aUno1Vzc0U0xFNGpIbnRTV3BoWWtPNkE5ZXNrN0FDSlBOLVFrbHFDYjk5T0RJTGhGR2VtTmNxRzF1RUFNT3hJZnhCazgxdl96UFlJTzFnTE5CNkl1anFmYThZeXhodF9tX1MzbU1wRmZneU1EN3c?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1787037447,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787051005,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "European shares slipped due to rising oil prices and bond yields, fueled by escalating tensions in the Middle East. The surge in oil prices and bond yields is a concern for investors as it can lead to higher production costs and reduced consumer spending. This, in turn, can negatively impact corporate earnings and economic growth. The uncertainty surrounding the Middle East conflict is also weighing on market sentiment, causing investors to become more risk-averse. The situation is expected to continue to impact the market in the short term, with investors closely monitoring the developments in the region.",
+      "impact": "The rising oil prices and bond yields are likely to have a negative impact on energy companies and companies with high debt levels. This could lead to a decline in their stock prices as investors become more cautious. In the short term, we expect a decrease in investor sentiment and a reduction in trading volumes. In the medium term, the impact on corporate earnings and economic growth could lead to a decline in stock prices across various sectors.",
+      "risks": [
+        "Increased production costs due to higher oil prices",
+        "Reduced consumer spending due to higher bond yields",
+        "Uncertainty surrounding the Middle East conflict"
+      ]
+    }
+  },
+  {
     "id": "8365040",
     "headline": "US 30-year yields hit highest level since 2007 as war, oil worries fester - Reuters",
     "summary": "US 30-year yields hit highest level since 2007 as war, oil worries fester  Reuters",
@@ -781,7 +804,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1786976410
+    "publishedAt": 1786976410,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787051052,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "Russia has received a shipment of gasoline from India, alleviating fuel shortages. The shipment is a result of Russia's ongoing efforts to diversify its energy imports. The country has been facing fuel shortages due to reduced domestic production and increased demand. This development is a positive step in addressing the supply chain disruptions. However, the long-term impact on the energy market remains uncertain.",
+      "impact": "The news is likely to have a short-term positive impact on the oil and gas industry, as it alleviates fuel shortages and reduces the pressure on domestic production. In the medium term, this development may lead to increased competition in the energy market, potentially affecting the pricing and profitability of oil and gas companies. The impact on related stocks, such as those of oil majors, may be limited, as the news is more of a supply-side development rather than a demand-side driver. The overall effect on the energy sector's earnings outlook and valuation remains uncertain.",
+      "risks": [
+        "fluctuations in global oil prices",
+        "uncertainty in Russia's energy policy",
+        "potential disruptions to global supply chains"
+      ]
+    }
   },
   {
     "id": "8361414",
@@ -22639,29 +22675,6 @@
         "decline in oil prices",
         "reduced revenue and earnings for oil-producing companies",
         "potential decline in investment in the oil industry"
-      ]
-    }
-  },
-  {
-    "id": "8258997",
-    "headline": "Trump says Saudi nuclear deal does not include enrichment, Riyadh must join Abraham Accords",
-    "summary": "\"There will be no enrichment of material!\" the president said in a Truth Social post.",
-    "url": "https://www.cnbc.com/2026/07/23/trump-saudi-arabia-nuclear-power.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108338791-1784750900959-gettyimages-2286590112-AFP_C2WF98P.jpeg?v=1784750930&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1784809304,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1784818697,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "US President Donald Trump announced that the nuclear deal between the US and Saudi Arabia does not include uranium enrichment, and that the agreement is contingent on Saudi Arabia joining the Abraham Accords. The deal was signed by the US Energy Secretary and Saudi Energy Minister, and will be reviewed by Congress. The agreement aims to establish a multibillion-dollar nuclear partnership between the two countries. This development is significant as it addresses concerns about Saudi Arabia's nuclear ambitions and its potential impact on the Middle East.",
-      "impact": "The news is likely to be positive for US uranium and nuclear power companies, as it suggests that Saudi Arabia's nuclear ambitions will be subject to international oversight and cooperation. This could lead to increased demand for nuclear technology and services from US companies. The deal also reduces the risk of a nuclear arms race in the region, which could have negative implications for the global energy market. However, the deal's success is contingent on Saudi Arabia joining the Abraham Accords, which may be a challenging and uncertain process.",
-      "risks": [
-        "Regulatory approval risk",
-        "Integration risk",
-        "Saudi Arabia's ability to join the Abraham Accords and fulfill its commitments under the deal"
       ]
     }
   }
