@@ -1,5 +1,29 @@
 [
   {
+    "id": "8381071",
+    "headline": "Wall Street's existential crisis over perpetual futures — the 24/7 security on steroids — just got urgent",
+    "summary": "Perpetual futures, or perps, are shaking up exchanges as investors seek continuous access to trading.",
+    "url": "https://www.cnbc.com/2026/08/21/wall-streets-existential-crisis-over-perpetual-futures-the-24/7-security-on-steroids-just-got-urgent.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108341785-17853378942026-07-29t150859z_29779515_rc2pnmaq6tsf_rtrmadp_0_usa-stocks.jpeg?v=1785338016&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1787315552,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787319163,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Perpetual futures, also known as perps, are a type of 24/7-traded, never-expiring futures contract that are disrupting traditional exchanges. The growth of perps, particularly on decentralized platforms like Hyperliquid, has raised concerns among traditional exchanges that their business model may be threatened. The recent comments by President Trump suggesting regulated perp trading may soon be available on traditional asset classes like stocks and commodities have added urgency to the issue. This could lead to a shift in the competitive landscape of the financial industry.",
+      "impact": "The potential disruption to traditional exchanges could lead to a decline in their revenue, particularly from the 'roll' in derivatives. This could negatively impact the earnings outlook for companies like CME Group, Cboe Global Markets, and Intercontinental Exchange. The increased competition from perps could also lead to a decrease in valuation for these companies. Additionally, the shift towards decentralized platforms like Hyperliquid could reduce liquidity for traditional exchanges.",
+      "risks": [
+        "regulatory approval risk",
+        "integration risk",
+        "demand slowdown risk",
+        "disruption to traditional exchange business model risk"
+      ]
+    }
+  },
+  {
     "id": "8380859",
     "headline": "Gold rebounds as bond jitters, debt fears and weaker dollar revive bullion demand",
     "summary": "Gold is rebounding as investors weigh U.S. debt concerns, a weaker dollar and stubbornly high Treasury yields.",
@@ -42,29 +66,6 @@
         "trade disruption risk",
         "inflation risk",
         "consumer sentiment risk"
-      ]
-    }
-  },
-  {
-    "id": "8378961",
-    "headline": "Oil set for second weekly gain as US ramps up pressure on Iran - Reuters",
-    "summary": "Oil set for second weekly gain as US ramps up pressure on Iran  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEh1QVJmcTNtSE1PMURxNmRBT3RIWHhVTmtwZDRiMk5yUzJtc2xuNHFlQXF1a3VJS3FQckxIY3Y2VjhFejlkNDZnLTY0R0prazZHb194Y19sRDdjUVJtNHlMT0lwSHRRcU5UM2VBTFZpVHBDZEl1OGFWbUkxX1pacWhMYUtFQ0pRbGVRYVNYcy1zSUNZVWtxNW4zczc0YVhZVkFWUHJwRWlFQl8zQUR3dFNIU1o?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1787306169,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1787283465,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The ongoing tensions between the US and Iran have led to a decrease in oil supply, which is expected to drive oil prices higher for the second consecutive week. The US-Iran conflict has resulted in a reduction in oil exports from Iran, a major oil-producing country. This supply crunch is expected to continue, leading to higher oil prices. The increase in oil prices is likely to benefit oil-producing companies, such as those in the S&P 500 energy index, which includes companies like ExxonMobil and Chevron.",
-      "impact": "The increase in oil prices due to the supply crunch is expected to have a positive impact on oil-producing companies in the short-term, with potential earnings upgrades and higher stock prices. In the medium-term, the increased oil prices may lead to higher production costs for companies, which could offset some of the benefits. The sentiment in the oil market is likely to remain bullish, with investors seeking to capitalize on the potential for further price increases.",
-      "risks": [
-        "Potential escalation of the US-Iran conflict leading to further supply disruptions",
-        "Global economic slowdown impacting demand for oil",
-        "OPEC's response to the supply crunch, potentially leading to increased production"
       ]
     }
   },
@@ -157,6 +158,29 @@
         "oil price volatility risk",
         "supply chain disruption risk",
         "geopolitical risk"
+      ]
+    }
+  },
+  {
+    "id": "8378961",
+    "headline": "Oil set for second weekly gain as US ramps up pressure on Iran - Reuters",
+    "summary": "Oil set for second weekly gain as US ramps up pressure on Iran  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEh1QVJmcTNtSE1PMURxNmRBT3RIWHhVTmtwZDRiMk5yUzJtc2xuNHFlQXF1a3VJS3FQckxIY3Y2VjhFejlkNDZnLTY0R0prazZHb194Y19sRDdjUVJtNHlMT0lwSHRRcU5UM2VBTFZpVHBDZEl1OGFWbUkxX1pacWhMYUtFQ0pRbGVRYVNYcy1zSUNZVWtxNW4zczc0YVhZVkFWUHJwRWlFQl8zQUR3dFNIU1o?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1787277000,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787283465,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The ongoing tensions between the US and Iran have led to a decrease in oil supply, which is expected to drive oil prices higher for the second consecutive week. The US-Iran conflict has resulted in a reduction in oil exports from Iran, a major oil-producing country. This supply crunch is expected to continue, leading to higher oil prices. The increase in oil prices is likely to benefit oil-producing companies, such as those in the S&P 500 energy index, which includes companies like ExxonMobil and Chevron.",
+      "impact": "The increase in oil prices due to the supply crunch is expected to have a positive impact on oil-producing companies in the short-term, with potential earnings upgrades and higher stock prices. In the medium-term, the increased oil prices may lead to higher production costs for companies, which could offset some of the benefits. The sentiment in the oil market is likely to remain bullish, with investors seeking to capitalize on the potential for further price increases.",
+      "risks": [
+        "Potential escalation of the US-Iran conflict leading to further supply disruptions",
+        "Global economic slowdown impacting demand for oil",
+        "OPEC's response to the supply crunch, potentially leading to increased production"
       ]
     }
   },
@@ -314,29 +338,6 @@
         "valuation multiple risk: the high valuation multiples may make it challenging for investors to justify the prices",
         "market sentiment risk: the news may be subject to market sentiment and investor perception, which can be unpredictable",
         "regulatory approval risk: the sale may still be subject to regulatory approval, which could impact the final valuation"
-      ]
-    }
-  },
-  {
-    "id": "8373904",
-    "headline": "Oil settles up more than 2% after Trump threatens countries supporting Iran - Reuters",
-    "summary": "Oil settles up more than 2% after Trump threatens countries supporting Iran  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJBZnp3cHExVndUYWlrenVEOXI0dVppdw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1787257152,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1787193827,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "Oil prices have stabilized as investors assess the US-Iran war outlook. The news article reports that oil prices have remained steady despite concerns about a potential conflict between the US and Iran. The article cites a Reuters survey of market participants, which shows that investors are cautious but not panicked. The US and Iran have been engaged in a tense standoff over Iran's nuclear program, but a war appears unlikely in the near term. The article notes that oil prices are influenced by a range of factors, including geopolitical tensions, economic indicators, and supply and demand dynamics.",
-      "impact": "The steady oil prices are likely to have a neutral impact on the earnings outlook of oil-related companies in the short term. However, if a war were to break out, oil prices could surge, benefiting oil producers and drillers. In the medium term, a prolonged conflict could lead to a decline in oil demand, negatively impacting oil-related companies. The stability in oil prices is also likely to support the sentiment of oil-related stocks, making them more attractive to investors.",
-      "risks": [
-        "escalation of US-Iran tensions leading to a war",
-        "decline in oil demand due to a prolonged conflict",
-        "volatility in oil prices due to geopolitical uncertainty"
       ]
     }
   },
@@ -683,6 +684,29 @@
     }
   },
   {
+    "id": "8381070",
+    "headline": "NSE said to plan trading of its shares on own platform",
+    "summary": "The proposed arrangement could reshape trading dynamics for the exchange operator while adding a new dimension to its closely watched public offering.",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-20/nse-said-to-plan-allowing-trading-its-shares-on-own-platform",
+    "source": "Bloomberg",
+    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+    "relatedSymbols": [],
+    "publishedAt": 1787228577,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787319218,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "NSE plans to list its shares on its own platform, which could reshape trading dynamics for the exchange operator and add a new dimension to its public offering. This move could increase liquidity and attract more investors, potentially enhancing the company's market value. The proposed arrangement may also allow NSE to tap into its own shares as a source of capital, reducing its reliance on external funding. The development is seen as a strategic move to expand NSE's business and increase its competitiveness in the market.",
+      "impact": "The listing of NSE's shares on its own platform is likely to have a positive impact on the company's stock price in the medium term, driven by increased liquidity and investor interest. This could lead to a re-rating of the stock, potentially pushing up its valuation multiples. However, the short-term impact may be muted as the market digests the news and assesses the implications of this move. The increased competitiveness of NSE may also put pressure on its peers, potentially leading to a re-evaluation of their business strategies.",
+      "risks": [
+        "regulatory approval risk",
+        "integration risk",
+        "market volatility risk"
+      ]
+    }
+  },
+  {
     "id": "8380099",
     "headline": "EU not concerned about gas supply or storage filling, Commission says - Reuters",
     "summary": "EU not concerned about gas supply or storage filling, Commission says  Reuters",
@@ -844,6 +868,29 @@
     }
   },
   {
+    "id": "8375473",
+    "headline": "The Iran war energy crisis is just getting started - Reuters",
+    "summary": "The Iran war energy crisis is just getting started  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOXzN3VmVtUVpMWHBXcnNDdUJXbkNFMFRxRjkxSzJjWEtZMWpnV2V1WWNfWFBNWlNENWhJVFBsUjhrcEtEa1ViaXhwcDRCR3BqeHFTX0JCektpb0dPYjIwTm55eXVGdm5yaDBQSUtjbWxEWllxUWJGVXBTVkVybi12U3pnT1hnQ0g0cW9UbE1jdjFGT3BUVWdKcHJNX1EzMHEybXNOcS1waEZyVk1qaVNFaFpyZHpjQQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1787214379,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787223901,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The Iran war energy crisis is escalating, with tensions between the US and Iran increasing the risk of disruptions to global energy supplies. The crisis has already led to a surge in oil prices, with Brent crude futures reaching a 6-month high. The crisis is centered around a US-Iran conflict, which could lead to a significant disruption in oil exports from the region. This, in turn, could impact the global economy, particularly in countries that rely heavily on imported oil.",
+      "impact": "The Iran war energy crisis is likely to have a bearish impact on energy-related stocks, particularly those with exposure to the Middle East region. In the short-term, oil prices are expected to remain elevated, which could lead to higher costs for energy-intensive companies and a squeeze on profit margins. This could also lead to a decline in consumer confidence and spending, negatively impacting the broader economy. In the medium-term, the crisis could lead to a shift in global energy supply chains, potentially benefiting companies with diversified supply chains or those that can adapt quickly to changing market conditions.",
+      "risks": [
+        "Oil price volatility risk",
+        "Disruption to global energy supplies risk",
+        "Global economic slowdown risk"
+      ]
+    }
+  },
+  {
     "id": "8376558",
     "headline": "German spy agency opens helpline for those exiled from Russia, China - Reuters",
     "summary": "German spy agency opens helpline for those exiled from Russia, China  Reuters",
@@ -886,29 +933,6 @@
         "Increased sanctions and economic pressure",
         "Decline in investor confidence",
         "Decrease in oil prices"
-      ]
-    }
-  },
-  {
-    "id": "8375473",
-    "headline": "The Iran war energy crisis is just getting started - Reuters",
-    "summary": "The Iran war energy crisis is just getting started  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOXzN3VmVtUVpMWHBXcnNDdUJXbkNFMFRxRjkxSzJjWEtZMWpnV2V1WWNfWFBNWlNENWhJVFBsUjhrcEtEa1ViaXhwcDRCR3BqeHFTX0JCektpb0dPYjIwTm55eXVGdm5yaDBQSUtjbWxEWllxUWJGVXBTVkVybi12U3pnT1hnQ0g0cW9UbE1jdjFGT3BUVWdKcHJNX1EzMHEybXNOcS1waEZyVk1qaVNFaFpyZHpjQQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1787205600,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1787223901,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The Iran war energy crisis is escalating, with tensions between the US and Iran increasing the risk of disruptions to global energy supplies. The crisis has already led to a surge in oil prices, with Brent crude futures reaching a 6-month high. The crisis is centered around a US-Iran conflict, which could lead to a significant disruption in oil exports from the region. This, in turn, could impact the global economy, particularly in countries that rely heavily on imported oil.",
-      "impact": "The Iran war energy crisis is likely to have a bearish impact on energy-related stocks, particularly those with exposure to the Middle East region. In the short-term, oil prices are expected to remain elevated, which could lead to higher costs for energy-intensive companies and a squeeze on profit margins. This could also lead to a decline in consumer confidence and spending, negatively impacting the broader economy. In the medium-term, the crisis could lead to a shift in global energy supply chains, potentially benefiting companies with diversified supply chains or those that can adapt quickly to changing market conditions.",
-      "risks": [
-        "Oil price volatility risk",
-        "Disruption to global energy supplies risk",
-        "Global economic slowdown risk"
       ]
     }
   },
@@ -1021,6 +1045,29 @@
       "summary": "OpenAI is enhancing safety processes for its paid tool customers, particularly those using its advanced AI models. This move comes as customers are increasingly relying on AI for complex tasks and sensitive information. The safety enhancements are aimed at mitigating potential risks associated with AI misuse. The development is a response to the growing demand for AI capabilities and the need for responsible AI development. This initiative is likely a proactive measure to maintain customer trust and confidence in OpenAI's technology.",
       "impact": "The announcement is unlikely to have a significant immediate impact on the stock market, as OpenAI is a private company and not directly listed. However, the move may positively influence the sentiment around AI development and adoption, potentially benefiting companies in the AI industry, such as NVIDIA (NVDA) and Alphabet (GOOGL), which provide hardware and cloud infrastructure for AI applications. In the long term, the enhanced safety processes may lead to increased adoption of OpenAI's tools, driving revenue growth and potentially benefiting the company's future valuation.",
       "risks": []
+    }
+  },
+  {
+    "id": "8373904",
+    "headline": "Oil settles up more than 2% after Trump threatens countries supporting Iran - Reuters",
+    "summary": "Oil settles up more than 2% after Trump threatens countries supporting Iran  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJBZnp3cHExVndUYWlrenVEOXI0dVppdw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1787188260,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787193827,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "Oil prices have stabilized as investors assess the US-Iran war outlook. The news article reports that oil prices have remained steady despite concerns about a potential conflict between the US and Iran. The article cites a Reuters survey of market participants, which shows that investors are cautious but not panicked. The US and Iran have been engaged in a tense standoff over Iran's nuclear program, but a war appears unlikely in the near term. The article notes that oil prices are influenced by a range of factors, including geopolitical tensions, economic indicators, and supply and demand dynamics.",
+      "impact": "The steady oil prices are likely to have a neutral impact on the earnings outlook of oil-related companies in the short term. However, if a war were to break out, oil prices could surge, benefiting oil producers and drillers. In the medium term, a prolonged conflict could lead to a decline in oil demand, negatively impacting oil-related companies. The stability in oil prices is also likely to support the sentiment of oil-related stocks, making them more attractive to investors.",
+      "risks": [
+        "escalation of US-Iran tensions leading to a war",
+        "decline in oil demand due to a prolonged conflict",
+        "volatility in oil prices due to geopolitical uncertainty"
+      ]
     }
   },
   {
@@ -1788,6 +1835,29 @@
         "fiscal policy risk",
         "inflation risk",
         "interest rate risk"
+      ]
+    }
+  },
+  {
+    "id": "8365463",
+    "headline": "Israeli airstrikes hit Syrian airbase, drawing Turkish condemnation - Reuters",
+    "summary": "Israeli airstrikes hit Syrian airbase, drawing Turkish condemnation  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdGU5SDV5WlhteEdoT2hlZTBkZzY2N1hnYU5sZHF1N3FqTGc1UEd1Mm9MTjk5V24telp3cWVsc08yU3dqU3lJemxZaGhXb0t4UUNBdkpXTFFUckwzRDZ2cDFOenpsN013aW5RRDVWSUxHRHpkVTBzeTV6NmRRR2NhWGtoeEpjLURMTEY5bjlyck5zLXQ5cU9KVTRwNDFQUjZuWU9lRU1vRnBORm5zdi1zTVpIb3VqY0FLRjZZUzBQYktDOEs3Rl9nOHBOZF9zQQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1787089735,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787047523,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Eight Israeli airstrikes hit Syria's Abu al-Duhur airbase, causing no casualties, according to state TV reports. This incident is an isolated military action and does not directly impact the global economy or the Israeli defense industry. The airstrikes are a continuation of the ongoing conflict in the region, which has been escalating in recent months. The news does not provide any specific information about the target of the airstrikes or the potential consequences for the region. The incident is likely to increase regional tensions, but its impact on the global economy is expected to be minimal.",
+      "impact": "The news is unlikely to have a significant impact on the Israeli defense industry or related stocks in the short term. However, the ongoing conflict in the region may lead to increased military spending and defense contracts, potentially benefiting companies involved in the defense sector. The medium-term impact will depend on the escalation of the conflict and the response of regional players. Investors should monitor the situation closely for any updates on the conflict and its potential consequences for the defense industry.",
+      "risks": [
+        "Escalation of the conflict in the region",
+        "Increased military spending and defense contracts",
+        "Uncertainty about the target and consequences of the airstrikes"
       ]
     }
   },
@@ -2696,29 +2766,6 @@
         "Regulatory approval risk: The success of the exchanges depends on obtaining necessary regulatory approvals, which may be delayed or denied.",
         "Integration risk: The integration of the exchanges with existing market infrastructure and systems may be complex and time-consuming.",
         "Market adoption risk: The adoption of the new exchanges by market participants may be slower than expected, which could limit their impact."
-      ]
-    }
-  },
-  {
-    "id": "8365463",
-    "headline": "Eight Israeli airstrikes hit Syria's Abu al-Duhur airbase, no casualties, state TV reports - Reuters",
-    "summary": "Eight Israeli airstrikes hit Syria's Abu al-Duhur airbase, no casualties, state TV reports  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdGU5SDV5WlhteEdoT2hlZTBkZzY2N1hnYU5sZHF1N3FqTGc1UEd1Mm9MTjk5V24telp3cWVsc08yU3dqU3lJemxZaGhXb0t4UUNBdkpXTFFUckwzRDZ2cDFOenpsN013aW5RRDVWSUxHRHpkVTBzeTV6NmRRR2NhWGtoeEpjLURMTEY5bjlyck5zLXQ5cU9KVTRwNDFQUjZuWU9lRU1vRnBORm5zdi1zTVpIb3VqY0FLRjZZUzBQYktDOEs3Rl9nOHBOZF9zQQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1787041124,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1787047523,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Eight Israeli airstrikes hit Syria's Abu al-Duhur airbase, causing no casualties, according to state TV reports. This incident is an isolated military action and does not directly impact the global economy or the Israeli defense industry. The airstrikes are a continuation of the ongoing conflict in the region, which has been escalating in recent months. The news does not provide any specific information about the target of the airstrikes or the potential consequences for the region. The incident is likely to increase regional tensions, but its impact on the global economy is expected to be minimal.",
-      "impact": "The news is unlikely to have a significant impact on the Israeli defense industry or related stocks in the short term. However, the ongoing conflict in the region may lead to increased military spending and defense contracts, potentially benefiting companies involved in the defense sector. The medium-term impact will depend on the escalation of the conflict and the response of regional players. Investors should monitor the situation closely for any updates on the conflict and its potential consequences for the defense industry.",
-      "risks": [
-        "Escalation of the conflict in the region",
-        "Increased military spending and defense contracts",
-        "Uncertainty about the target and consequences of the airstrikes"
       ]
     }
   },
@@ -22669,48 +22716,6 @@
         "Decrease in economic growth",
         "Decrease in earnings for companies"
       ]
-    }
-  },
-  {
-    "id": "8277684",
-    "headline": "We're buying more of a slumping industrial stock and a hard-hit chipmaker",
-    "summary": "We're putting money to work in Monday's market as oil prices fall.",
-    "url": "https://www.cnbc.com/2026/07/27/were-buying-more-of-a-slumping-industrial-stock-and-a-hard-hit-chipmaker.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108339504-1784838021299-gettyimages-2286702744-AFP_C2ZY29G.jpeg?v=1784838050&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1785156823,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1785173072,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Jim Cramer's Charitable Trust is buying more shares of Honeywell Aerospace (HONA) and Intel (INTC) due to a temporary break in hostilities between the US and Iran, causing oil prices to fall. This has led to a decline in the broader aerospace trade, with HONA shares falling from $220 to the low $200s. Despite the mixed analyst reaction, Cramer believes the discount is too steep compared to peer RTX, and execution should improve over time. Intel shares fell 7% on Friday despite reporting better-than-expected Q2 results, which Cramer sees as a buying opportunity.",
-      "impact": "The buying of HONA and INTC could lead to a short-term bounce in their shares, as investors become more optimistic about their prospects. In the medium term, improved execution at HONA and Intel's confidence in securing customer wins could drive earnings growth and improve their valuations. The decline in oil prices could also benefit the aerospace industry as a whole, reducing fuel costs and increasing demand for flights.",
-      "risks": [
-        "Mixed analyst reaction to HONA",
-        "Rising oil prices could reverse if tensions with Iran escalate",
-        "Intel's ability to secure customer wins in its foundry business"
-      ]
-    }
-  },
-  {
-    "id": "8277661",
-    "headline": "Jim Cramer's top 10 things to watch in the stock market Monday",
-    "summary": "Futures are surging after a pause in fighting in the Middle East. Plus, a bunch of AI infrastructure deals.",
-    "url": "https://www.cnbc.com/2026/07/27/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108314425-1780313099259-gettyimages-2278508029-VIRGINIA_DATA_CENTERS.jpeg?v=1781729768&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1785156765,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1785166361,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Futures are surging after a pause in fighting in the Middle East, with oil prices tumbling. The market is becoming increasingly cautious about AI infrastructure spending, particularly after Alphabet's sell-off despite strong demand for Google Cloud. Nvidia is considering providing a $250 billion backstop for OpenAI, while also inking a $500 billion partnership with SK Group to build AI infrastructure. Meanwhile, memory-chip maker Changxin Technology Group's debut in Shanghai was a success, with its shares soaring 466%.",
-      "impact": "The surge in futures and decline in oil prices could lead to a short-term boost for stocks, particularly in the tech sector. In the medium term, the market's growing unease about AI infrastructure spending could impact Nvidia's valuation, while the company's partnership with SK Group could drive growth. The success of Changxin Technology Group's IPO could also lead to increased demand for memory chips, benefiting companies like Samsung and Broadcom. However, the market's shift in sentiment could also lead to a decline in demand for AI infrastructure, which could negatively impact companies like Alphabet and Meta Platforms.",
-      "risks": []
     }
   }
 ]
