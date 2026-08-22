@@ -30,7 +30,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1787371863,
+    "publishedAt": 1787360700,
     "analysis": {
       "version": 2,
       "generatedAt": 1787372270,
@@ -434,29 +434,6 @@
     }
   },
   {
-    "id": "8379685",
-    "headline": "Ships passing through Hormuz hover in single digits, data shows - Reuters",
-    "summary": "Ships passing through Hormuz hover in single digits, data shows  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSEhZX09yZU9wMFlFN0FUUjM0dUhpZ01zMEVvWFBlVHpoQ25lY0xFckRtVnpXMHZfZVA3TU0zRjNNYlUydy1pelQ1Q3Rmb1dPeWZmU3hDTXF2ZERfY3UyY2tteGpocUNoY0FkdE13dXV5cjV1VUh3MmN1al9MUm5xVlh6RWpwenRzQ2dzR0dxci05c2kwQ1VSUGNDTVBJVkFFd0RjZm9GRnBBdw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1787311321,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1787297370,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "The Strait of Hormuz, a critical waterway for global oil trade, has seen a significant decline in ship traffic, with numbers hovering in single digits. This development is attributed to increased tensions between Iran and the US, as well as ongoing maritime security concerns. The Strait's importance lies in its role as a major oil transit point, with approximately 20% of global oil exports passing through it. The reduced ship traffic is a result of heightened security measures and potential disruptions to global oil supply chains.",
-      "impact": "The reduced ship traffic through the Strait of Hormuz is likely to have a bearish impact on oil tanker and shipping companies, particularly those with significant exposure to the region. In the short term, this may lead to increased costs and reduced profitability for these companies. Medium-term, the ongoing uncertainty and potential disruptions to global oil supply chains may lead to increased volatility in oil prices, affecting the earnings outlook for oil-related companies.",
-      "risks": [
-        "oil price volatility risk",
-        "supply chain disruption risk",
-        "geopolitical risk"
-      ]
-    }
-  },
-  {
     "id": "8381298",
     "headline": "Iraq aims to boost oil output to 8-10 million bpd in six years - Reuters",
     "summary": "Iraq aims to boost oil output to 8-10 million bpd in six years  Reuters",
@@ -524,6 +501,16 @@
         "Uncertainty around global economic growth"
       ]
     }
+  },
+  {
+    "id": "8384980",
+    "headline": "Economic growth may beat RBI’s 6.7% forecast, Gupta says",
+    "summary": "Gupta’s optimistic outlook highlights strong economic resilience, with forecasts of 7.5% growth driven by favorable external accounts and rising foreign investment",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-21/india-economic-growth-may-beat-rbi-s-6-7-forecast-gupta-says",
+    "source": "Bloomberg",
+    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+    "relatedSymbols": [],
+    "publishedAt": 1787296791
   },
   {
     "id": "8384778",
@@ -687,6 +674,29 @@
     }
   },
   {
+    "id": "8379685",
+    "headline": "Ships passing through Hormuz hover in single digits, data shows - Reuters",
+    "summary": "Ships passing through Hormuz hover in single digits, data shows  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSEhZX09yZU9wMFlFN0FUUjM0dUhpZ01zMEVvWFBlVHpoQ25lY0xFckRtVnpXMHZfZVA3TU0zRjNNYlUydy1pelQ1Q3Rmb1dPeWZmU3hDTXF2ZERfY3UyY2tteGpocUNoY0FkdE13dXV5cjV1VUh3MmN1al9MUm5xVlh6RWpwenRzQ2dzR0dxci05c2kwQ1VSUGNDTVBJVkFFd0RjZm9GRnBBdw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1787280180,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787297370,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "The Strait of Hormuz, a critical waterway for global oil trade, has seen a significant decline in ship traffic, with numbers hovering in single digits. This development is attributed to increased tensions between Iran and the US, as well as ongoing maritime security concerns. The Strait's importance lies in its role as a major oil transit point, with approximately 20% of global oil exports passing through it. The reduced ship traffic is a result of heightened security measures and potential disruptions to global oil supply chains.",
+      "impact": "The reduced ship traffic through the Strait of Hormuz is likely to have a bearish impact on oil tanker and shipping companies, particularly those with significant exposure to the region. In the short term, this may lead to increased costs and reduced profitability for these companies. Medium-term, the ongoing uncertainty and potential disruptions to global oil supply chains may lead to increased volatility in oil prices, affecting the earnings outlook for oil-related companies.",
+      "risks": [
+        "oil price volatility risk",
+        "supply chain disruption risk",
+        "geopolitical risk"
+      ]
+    }
+  },
+  {
     "id": "8378961",
     "headline": "Oil rises as Trump threatens sanctions on Iran partners - Reuters",
     "summary": "Oil rises as Trump threatens sanctions on Iran partners  Reuters",
@@ -822,29 +832,6 @@
     }
   },
   {
-    "id": "8373904",
-    "headline": "Oil settles up more than 2% after Trump threatens countries supporting Iran - Reuters",
-    "summary": "Oil settles up more than 2% after Trump threatens countries supporting Iran  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJBZnp3cHExVndUYWlrenVEOXI0dVppdw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1787260331,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1787193827,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "Oil prices have stabilized as investors assess the US-Iran war outlook. The news article reports that oil prices have remained steady despite concerns about a potential conflict between the US and Iran. The article cites a Reuters survey of market participants, which shows that investors are cautious but not panicked. The US and Iran have been engaged in a tense standoff over Iran's nuclear program, but a war appears unlikely in the near term. The article notes that oil prices are influenced by a range of factors, including geopolitical tensions, economic indicators, and supply and demand dynamics.",
-      "impact": "The steady oil prices are likely to have a neutral impact on the earnings outlook of oil-related companies in the short term. However, if a war were to break out, oil prices could surge, benefiting oil producers and drillers. In the medium term, a prolonged conflict could lead to a decline in oil demand, negatively impacting oil-related companies. The stability in oil prices is also likely to support the sentiment of oil-related stocks, making them more attractive to investors.",
-      "risks": [
-        "escalation of US-Iran tensions leading to a war",
-        "decline in oil demand due to a prolonged conflict",
-        "volatility in oil prices due to geopolitical uncertainty"
-      ]
-    }
-  },
-  {
     "id": "8383571",
     "headline": "US firm Powerus wins $22.3 million contract to protect Middle East energy infrastructure from drones - Reuters",
     "summary": "US firm Powerus wins $22.3 million contract to protect Middle East energy infrastructure from drones  Reuters",
@@ -887,6 +874,29 @@
         "valuation multiple risk: the high valuation multiples may make it challenging for investors to justify the prices",
         "market sentiment risk: the news may be subject to market sentiment and investor perception, which can be unpredictable",
         "regulatory approval risk: the sale may still be subject to regulatory approval, which could impact the final valuation"
+      ]
+    }
+  },
+  {
+    "id": "8373904",
+    "headline": "Oil settles up more than 2% after Trump threatens countries supporting Iran - Reuters",
+    "summary": "Oil settles up more than 2% after Trump threatens countries supporting Iran  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJBZnp3cHExVndUYWlrenVEOXI0dVppdw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1787257152,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787193827,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "Oil prices have stabilized as investors assess the US-Iran war outlook. The news article reports that oil prices have remained steady despite concerns about a potential conflict between the US and Iran. The article cites a Reuters survey of market participants, which shows that investors are cautious but not panicked. The US and Iran have been engaged in a tense standoff over Iran's nuclear program, but a war appears unlikely in the near term. The article notes that oil prices are influenced by a range of factors, including geopolitical tensions, economic indicators, and supply and demand dynamics.",
+      "impact": "The steady oil prices are likely to have a neutral impact on the earnings outlook of oil-related companies in the short term. However, if a war were to break out, oil prices could surge, benefiting oil producers and drillers. In the medium term, a prolonged conflict could lead to a decline in oil demand, negatively impacting oil-related companies. The stability in oil prices is also likely to support the sentiment of oil-related stocks, making them more attractive to investors.",
+      "risks": [
+        "escalation of US-Iran tensions leading to a war",
+        "decline in oil demand due to a prolonged conflict",
+        "volatility in oil prices due to geopolitical uncertainty"
       ]
     }
   },
@@ -22703,25 +22713,6 @@
       "confidence": 0.8,
       "summary": "Bab el-Mandeb shipping has seen an increase in activity due to hopes of a resolution in the US-Iran conflict. The conflict has led to increased tensions in the region, causing shipping companies to reroute their vessels around the Bab el-Mandeb Strait. A resolution could lead to a decrease in tensions and a return to normal shipping routes, benefiting companies operating in the region. This news has a positive impact on the shipping industry, particularly those companies that operate in the Bab el-Mandeb Strait.",
       "impact": "This news has a positive impact on shipping companies that operate in the region, particularly those that have been affected by the conflict. A resolution could lead to an increase in demand for shipping services, driving up earnings for these companies. This could also lead to a re-rating of these companies' valuations as investors become more optimistic about their prospects. In the short term, this could lead to a surge in trading activity and a potential increase in stock prices for these companies.",
-      "risks": []
-    }
-  },
-  {
-    "id": "8279644",
-    "headline": "UN chief Guterres sounds out Cyprus sides on prospects for peace talks - Reuters",
-    "summary": "UN chief Guterres sounds out Cyprus sides on prospects for peace talks  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMG5jdl9tWGt6YkFUZ254RmJ3NXpkSnhfWU9kMzJnQlNtZFZoYUVBRjF5RHBUcHlHRXZwT2Y1TW1oRWhweWdLSWdLbGY0OUhhUjZlSldtakp0SjhIWDV2V2tKa3pZZWtWaDI0dXJGcXNEc09XVVktbkw4M0JBRk5GZjRMVDMwSXZMYXd1SG9jM3BWeVdyNUFHTmlLdzEwT0JZU3pNWThBTkh4a1VVZHYzT216b2VHVjhU?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1785220080,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1785373470,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "UN Secretary-General António Guterres has initiated a meeting with the leaders of the Greek and Turkish Cypriot communities to discuss potential peace talks. The talks aim to revive the stalled negotiations for a reunified Cyprus. The meeting is a step towards a potential resolution, but the path to a lasting agreement remains uncertain. The UN has been involved in the Cyprus peace process for decades, and Guterres' efforts are seen as a positive development. However, the complexities of the conflict and the interests of various stakeholders make a breakthrough challenging.",
-      "impact": "The news is unlikely to have a direct impact on the stock market in the short term. However, a successful peace agreement could have positive medium-term implications for the economy of Cyprus, potentially leading to increased investment and economic growth. This could positively affect companies operating in the region, such as banks and tourism-related businesses. On the other hand, a prolonged stalemate or a failed peace process could lead to continued uncertainty and volatility in the region, negatively affecting the stocks of companies with operations in Cyprus.",
       "risks": []
     }
   }
