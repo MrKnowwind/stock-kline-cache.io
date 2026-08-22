@@ -510,7 +510,20 @@
     "source": "Bloomberg",
     "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
     "relatedSymbols": [],
-    "publishedAt": 1787296791
+    "publishedAt": 1787296791,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787389480,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Indian economic growth is expected to exceed the RBI's forecast of 6.7% due to strong economic resilience, driven by favorable external accounts and rising foreign investment. This is according to a statement by Gupta, although no specific source is mentioned. The growth is attributed to a combination of factors, including a favorable trade balance and increased foreign investment. This news suggests that the Indian economy is performing better than expected, which could have a positive impact on the overall business environment.",
+      "impact": "This news is likely to have a positive impact on the Indian stock market, particularly on companies with exposure to the domestic economy. The improved economic growth outlook could lead to higher earnings expectations for companies in the consumer staples, financials, and industrials sectors. This could result in a short-term increase in stock prices for these sectors, driven by improved sentiment and higher valuation multiples. In the medium term, this could lead to increased investment and liquidity in the Indian market, benefiting companies with strong growth prospects.",
+      "risks": [
+        "Monetary policy tightening risk",
+        "Global economic downturn risk",
+        "Dependence on foreign investment risk"
+      ]
+    }
   },
   {
     "id": "8384778",
@@ -832,6 +845,29 @@
     }
   },
   {
+    "id": "8373904",
+    "headline": "Oil settles up more than 2% after Trump threatens countries supporting Iran - Reuters",
+    "summary": "Oil settles up more than 2% after Trump threatens countries supporting Iran  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJBZnp3cHExVndUYWlrenVEOXI0dVppdw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1787260331,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787193827,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "Oil prices have stabilized as investors assess the US-Iran war outlook. The news article reports that oil prices have remained steady despite concerns about a potential conflict between the US and Iran. The article cites a Reuters survey of market participants, which shows that investors are cautious but not panicked. The US and Iran have been engaged in a tense standoff over Iran's nuclear program, but a war appears unlikely in the near term. The article notes that oil prices are influenced by a range of factors, including geopolitical tensions, economic indicators, and supply and demand dynamics.",
+      "impact": "The steady oil prices are likely to have a neutral impact on the earnings outlook of oil-related companies in the short term. However, if a war were to break out, oil prices could surge, benefiting oil producers and drillers. In the medium term, a prolonged conflict could lead to a decline in oil demand, negatively impacting oil-related companies. The stability in oil prices is also likely to support the sentiment of oil-related stocks, making them more attractive to investors.",
+      "risks": [
+        "escalation of US-Iran tensions leading to a war",
+        "decline in oil demand due to a prolonged conflict",
+        "volatility in oil prices due to geopolitical uncertainty"
+      ]
+    }
+  },
+  {
     "id": "8383571",
     "headline": "US firm Powerus wins $22.3 million contract to protect Middle East energy infrastructure from drones - Reuters",
     "summary": "US firm Powerus wins $22.3 million contract to protect Middle East energy infrastructure from drones  Reuters",
@@ -874,29 +910,6 @@
         "valuation multiple risk: the high valuation multiples may make it challenging for investors to justify the prices",
         "market sentiment risk: the news may be subject to market sentiment and investor perception, which can be unpredictable",
         "regulatory approval risk: the sale may still be subject to regulatory approval, which could impact the final valuation"
-      ]
-    }
-  },
-  {
-    "id": "8373904",
-    "headline": "Oil settles up more than 2% after Trump threatens countries supporting Iran - Reuters",
-    "summary": "Oil settles up more than 2% after Trump threatens countries supporting Iran  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJBZnp3cHExVndUYWlrenVEOXI0dVppdw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1787257152,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1787193827,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "Oil prices have stabilized as investors assess the US-Iran war outlook. The news article reports that oil prices have remained steady despite concerns about a potential conflict between the US and Iran. The article cites a Reuters survey of market participants, which shows that investors are cautious but not panicked. The US and Iran have been engaged in a tense standoff over Iran's nuclear program, but a war appears unlikely in the near term. The article notes that oil prices are influenced by a range of factors, including geopolitical tensions, economic indicators, and supply and demand dynamics.",
-      "impact": "The steady oil prices are likely to have a neutral impact on the earnings outlook of oil-related companies in the short term. However, if a war were to break out, oil prices could surge, benefiting oil producers and drillers. In the medium term, a prolonged conflict could lead to a decline in oil demand, negatively impacting oil-related companies. The stability in oil prices is also likely to support the sentiment of oil-related stocks, making them more attractive to investors.",
-      "risks": [
-        "escalation of US-Iran tensions leading to a war",
-        "decline in oil demand due to a prolonged conflict",
-        "volatility in oil prices due to geopolitical uncertainty"
       ]
     }
   },
