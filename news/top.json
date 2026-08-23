@@ -99,7 +99,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1787490825
+    "publishedAt": 1787490825,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787525975,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Gulf markets have risen as a gain in oil prices has lifted sentiment. The oil price increase is a positive development for the region's economies, which are heavily reliant on oil exports. This boost in oil prices is likely due to a combination of factors, including OPEC's decision to cut production and a decline in US shale production. As a result, oil-producing companies in the Gulf region are expected to benefit from the higher oil prices, leading to an increase in their revenue and profitability.",
+      "impact": "The news is likely to have a positive impact on oil-producing companies in the Gulf region, such as Saudi Aramco and Abu Dhabi National Oil Company (ADNOC), as their revenue and profitability are expected to increase. In the short-term, this could lead to an increase in their stock prices, making them more attractive to investors. However, in the medium-term, the impact may be tempered by concerns over the sustainability of the oil price increase and the potential for a decline in demand due to a global economic slowdown.",
+      "risks": [
+        "Sustainability of oil price increase risk",
+        "Global economic slowdown risk",
+        "Decline in demand risk"
+      ]
+    }
   },
   {
     "id": "8390424",
