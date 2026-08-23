@@ -7,7 +7,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1787478586,
+    "publishedAt": 1787483280,
     "analysis": {
       "version": 2,
       "generatedAt": 1787484079,
@@ -222,6 +222,29 @@
     }
   },
   {
+    "id": "8390630",
+    "headline": "EAM Jaishankar to visit Russia amid Trump’s tariff threat",
+    "summary": "Jaishankar’s Russia trip comes at a time when US President Donald Trump has threatened to impose a secondary 100% tariff on countries that buy oil, gas and uranium from Russia",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-22/india-s-foreign-minister-to-visit-russia-amid-us-tariff-threat",
+    "source": "Bloomberg",
+    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+    "relatedSymbols": [],
+    "publishedAt": 1787398531,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787486331,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Indian Foreign Minister S. Jaishankar is set to visit Russia amid escalating tensions between the US and Russia over trade. US President Donald Trump has threatened to impose a 100% tariff on countries that buy oil, gas, and uranium from Russia. This move could potentially impact India's energy imports, which are a significant portion of its overall energy consumption. The visit aims to strengthen India-Russia ties and potentially mitigate the effects of the US tariff threat.",
+      "impact": "The news may have a mixed impact on energy-related stocks in India, as it could lead to increased imports from Russia, potentially benefiting companies involved in the import and distribution of Russian energy resources. However, the uncertainty surrounding the US tariff threat may also lead to increased volatility in the energy sector, potentially affecting the earnings outlook of companies that rely heavily on US trade. In the short term, we expect increased trading activity in energy stocks, driven by the uncertainty and potential changes in trade policies. Medium-term, the impact will depend on the outcome of the US-Russia trade tensions and India's energy import strategies.",
+      "risks": [
+        "US-Russia trade tensions escalation risk",
+        "Energy price volatility risk",
+        "Impact on India's energy import strategies risk"
+      ]
+    }
+  },
+  {
     "id": "8390022",
     "headline": "Nuclear power: Domestic companies to opt for locally-designed reactors to avoid delays",
     "summary": "Indian companies are adopting locally-designed nuclear reactors to expedite approvals and enhance supply chain efficiency in energy projects.",
@@ -356,6 +379,30 @@
         "market volatility risk",
         "macroeconomic uncertainty risk",
         "policy surprise risk"
+      ]
+    }
+  },
+  {
+    "id": "8378960",
+    "headline": "Iran threatens military response to US sanctions - Reuters",
+    "summary": "Iran threatens military response to US sanctions  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN2ZEV0ttbXhQZHVsUVNRYTBoVkczUHp5MVN5ME9vWGo4ajVmWmhMUXBwdkVVaXo3MjZlSEpyTC0wWWtvaGdYZkttakoyazRFMXBCM1ZUVmZ4TldhaUF2WU1QdTgtR3NwaFlMa016ZGJ6UjBaTmZGZjVTN011RXFNWktVcm44QUxMbHE4WVNyOWpNUkJwNzVKLW0wUTdQSUZCdGNrT1NkWXZPMzVJ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1787349839,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787283514,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The US has announced plans to impose the 'toughest sanctions in history' on Iran, which could significantly escalate tensions in the region. This move is a response to Iran's nuclear program and other security concerns. The sanctions will likely target Iran's energy, finance, and transportation sectors, potentially disrupting global oil supplies. The US has been increasing pressure on Iran in recent years, with previous sanctions already affecting the country's economy. This latest move may have far-reaching consequences for global energy markets and the Iranian economy.",
+      "impact": "The sanctions are likely to have a negative impact on oil prices in the short term, as Iran is a major oil producer. This could benefit energy companies that are not exposed to Iranian oil, such as those with operations in the US or other countries. However, the medium-term impact on the energy sector is uncertain, as the sanctions may lead to a supply crunch and higher prices. The sanctions may also have a negative impact on companies with significant operations or investments in Iran, such as those in the energy or finance sectors.",
+      "risks": [
+        "Oil price volatility risk",
+        "Supply chain disruption risk",
+        "Economic instability in Iran risk",
+        "Escalation of regional tensions risk"
       ]
     }
   },
@@ -1112,30 +1159,6 @@
         "regulatory risk",
         "market volatility risk",
         "decrease in investor sentiment risk"
-      ]
-    }
-  },
-  {
-    "id": "8378960",
-    "headline": "Iran threatens military response to US sanctions - Reuters",
-    "summary": "Iran threatens military response to US sanctions  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN2ZEV0ttbXhQZHVsUVNRYTBoVkczUHp5MVN5ME9vWGo4ajVmWmhMUXBwdkVVaXo3MjZlSEpyTC0wWWtvaGdYZkttakoyazRFMXBCM1ZUVmZ4TldhaUF2WU1QdTgtR3NwaFlMa016ZGJ6UjBaTmZGZjVTN011RXFNWktVcm44QUxMbHE4WVNyOWpNUkJwNzVKLW0wUTdQSUZCdGNrT1NkWXZPMzVJ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1787270340,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1787283514,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The US has announced plans to impose the 'toughest sanctions in history' on Iran, which could significantly escalate tensions in the region. This move is a response to Iran's nuclear program and other security concerns. The sanctions will likely target Iran's energy, finance, and transportation sectors, potentially disrupting global oil supplies. The US has been increasing pressure on Iran in recent years, with previous sanctions already affecting the country's economy. This latest move may have far-reaching consequences for global energy markets and the Iranian economy.",
-      "impact": "The sanctions are likely to have a negative impact on oil prices in the short term, as Iran is a major oil producer. This could benefit energy companies that are not exposed to Iranian oil, such as those with operations in the US or other countries. However, the medium-term impact on the energy sector is uncertain, as the sanctions may lead to a supply crunch and higher prices. The sanctions may also have a negative impact on companies with significant operations or investments in Iran, such as those in the energy or finance sectors.",
-      "risks": [
-        "Oil price volatility risk",
-        "Supply chain disruption risk",
-        "Economic instability in Iran risk",
-        "Escalation of regional tensions risk"
       ]
     }
   },
@@ -22701,29 +22724,6 @@
         "Regulatory approval risk for new products",
         "Competition in the pharmaceutical and medical technology sectors",
         "Potential for future litigation or regulatory challenges"
-      ]
-    }
-  },
-  {
-    "id": "8278122",
-    "headline": "Iran proposes temporary Hormuz plan giving itself greater control over transit lines - reuters.com",
-    "summary": "Iran proposes temporary Hormuz plan giving itself greater control over transit lines  reuters.com",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeXBHR2k5aGdkSDFSZkNzUnFwTnRYQldoc3dGSkNfdk84ZUxNMUtPRkxhd0thWDlNOUl1THFjTGNpUi1HVmRSN2EyOFBJaHNfdi1tME1ycWdJT1JEeEVsLW03cGdtQ0NjQkhsVngxOFFwb1dSNzRKcDR1d3pqWmRUQm5PQTE2MEgyLWFUckZWY29BVDY5VFhIdmRIeEI2LW5tYWVmaTRHMF9JY3M4RS1NTzhqWVBSNW9mZXV2c0hNTXFsempOZUFsN2cxSHk?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1785263346,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1785355778,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Iran has proposed a temporary plan to take greater control over the Strait of Hormuz, a critical shipping lane for global oil exports. The plan aims to give Iran greater control over the transit lines, which could potentially disrupt global oil supplies and impact oil prices. The Strait of Hormuz is a narrow waterway that connects the Persian Gulf to the Gulf of Oman and is a key route for oil exports from the Middle East. Iran's proposal could lead to increased tensions with other countries in the region, particularly the US and its allies. The plan is seen as a move to assert Iran's control over the region and potentially increase its leverage in future negotiations.",
-      "impact": "The news could lead to increased volatility in the oil markets, potentially driving up oil prices in the short term. This could have a negative impact on companies that are heavily reliant on oil imports, such as airlines, shipping companies, and oil refiners. In the medium term, the increased tensions in the region could lead to a decrease in investor confidence in the region, potentially impacting the stock prices of companies with exposure to the region. The plan could also lead to increased costs for companies that rely on the Strait of Hormuz for their operations.",
-      "risks": [
-        "Increased oil prices risk",
-        "Regional instability risk",
-        "Decreased investor confidence risk"
       ]
     }
   }
