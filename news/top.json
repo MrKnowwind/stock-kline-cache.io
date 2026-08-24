@@ -1,5 +1,51 @@
 [
   {
+    "id": "8395435",
+    "headline": "UPS is investing $2 billion in international, healthcare and supply chain businesses",
+    "summary": "UPS told CNBC exclusively that the company is investing more than $2 billion into its international, healthcare and supply chain businesses.",
+    "url": "https://www.cnbc.com/2026/08/24/ups-global-logistics-investment.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108296576-1776981838698-gettyimages-2267767857-pxl_120348993_ups01_03172026.jpeg?v=1776981923&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1787569201,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787572979,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "UPS is investing $2 billion in its international, healthcare, and supply chain businesses to enhance its capabilities in complex industries, particularly in Asia. The investments aim to help businesses move faster and adapt to changing macroeconomic pressures and global supply chain disruptions. The company has already launched several projects, including a new hub in the Philippines, a new Canadian facility, and a new air hub at Hong Kong International Airport. UPS is also leveraging automation and robotics to increase supply chain speed and has expanded its flights to meet growing demand.",
+      "impact": "The investment is likely to have a positive impact on UPS's earnings outlook, particularly in the medium term, as the company expands its capabilities and increases its market share. The investment in healthcare initiatives, including temperature-controlled facilities, may also drive growth in this niche area. The company's efforts to differentiate its end-to-end logistics offerings may lead to increased market sentiment and liquidity, potentially driving the stock price up. The investment may also have a positive impact on the overall logistics industry, which could benefit companies like FedEx and DHL.",
+      "risks": [
+        "Integration risk: the successful integration of new investments and projects may be challenging",
+        "Regulatory risk: changes in regulations or trade policies may impact UPS's operations and profitability",
+        "Competition risk: other logistics companies may respond to UPS's investments by increasing their own capabilities and offerings"
+      ]
+    }
+  },
+  {
+    "id": "8395007",
+    "headline": "Iran threatens 45 tankers with fines, confiscation in Hormuz escalation - Reuters",
+    "summary": "Iran threatens 45 tankers with fines, confiscation in Hormuz escalation  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR1A3TzVlaW92SHFPcHNmUjdQZ1hIYi0xZWNCdGVpcmY4VmZBUHNneElLRnE5dDFwZXRRX1FfcHFkMDlFMm5kdGh2aldsWnllaGZSVWJ2SFhzUVRRU3FyNzJNeWJfb3lrQnhqQ2g0d1c0ZUo0dllmTkd4QzAwWTNZV05sNlc2M3c5c3d5Zi1hTF90N0ltX25sUUk4T0RURUE3akZuX2VrMEFGcXFIMV9FRFU5VWI2UE4wREV3?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1787568587,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787567028,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Iran has issued a warning to vessels violating transit rules in the Strait of Hormuz, threatening fines and detention. This development is a result of tensions between Iran and the international community, particularly with regards to the 2015 nuclear deal. The Strait of Hormuz is a critical waterway for global oil trade, and disruptions to its operations can have significant economic implications. The warning is likely a response to the US's decision to extend sanctions on Iran's oil exports. This escalation in tensions may lead to increased uncertainty and volatility in the oil market, which could impact energy-related stocks.",
+      "impact": "The warning may lead to increased costs and uncertainty for oil traders and refiners, potentially impacting the earnings outlook for companies such as oil majors like ExxonMobil (XOM) and Royal Dutch Shell (RDS.A). In the short-term, this may lead to higher oil prices, benefiting companies with significant oil reserves such as Chevron (CVX). However, in the medium-term, the increased tensions and potential disruptions to the Strait of Hormuz may lead to a decline in oil prices, negatively impacting the earnings of oil majors.",
+      "risks": [
+        "Oil price volatility risk",
+        "Disruption to global oil trade risk",
+        "Escalation of tensions with Iran risk"
+      ]
+    }
+  },
+  {
     "id": "8395331",
     "headline": "Looming US sanctions on Iran put China oil buying in spotlight - Reuters",
     "summary": "Looming US sanctions on Iran put China oil buying in spotlight  Reuters",
@@ -7,7 +53,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1787566208
+    "publishedAt": 1787566208,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787573040,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The US government is considering imposing sanctions on Iran, which could impact China's oil imports. China is one of the largest buyers of Iranian oil, and any sanctions could disrupt oil supplies. The US has previously imposed sanctions on Iran, which have had a significant impact on the country's economy. The looming sanctions have put the spotlight on China's oil buying habits and potential alternatives to Iranian oil. This could lead to a shift in global oil markets and impact the prices of oil-producing companies.",
+      "impact": "The potential sanctions on Iran could lead to a short-term increase in oil prices, benefiting oil-producing companies such as ExxonMobil (XOM) and Chevron (CVX). In the medium term, the sanctions could lead to a shift in China's oil imports, potentially benefiting companies with a strong presence in the Middle East, such as Saudi Aramco. The impact on the oil price could also benefit companies with a large exposure to oil prices, such as oil service companies like Schlumberger (SLB).",
+      "risks": [
+        "Disruption to global oil supplies and potential price volatility",
+        "Impact on China's oil imports and potential shift to alternative suppliers",
+        "Uncertainty around the effectiveness of US sanctions on Iran's oil exports"
+      ]
+    }
   },
   {
     "id": "8395122",
@@ -33,29 +92,6 @@
     }
   },
   {
-    "id": "8395007",
-    "headline": "Iran warns vessels violating Hormuz transit rules of fines, detention - Reuters",
-    "summary": "Iran warns vessels violating Hormuz transit rules of fines, detention  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR1A3TzVlaW92SHFPcHNmUjdQZ1hIYi0xZWNCdGVpcmY4VmZBUHNneElLRnE5dDFwZXRRX1FfcHFkMDlFMm5kdGh2aldsWnllaGZSVWJ2SFhzUVRRU3FyNzJNeWJfb3lrQnhqQ2g0d1c0ZUo0dllmTkd4QzAwWTNZV05sNlc2M3c5c3d5Zi1hTF90N0ltX25sUUk4T0RURUE3akZuX2VrMEFGcXFIMV9FRFU5VWI2UE4wREV3?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1787561106,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1787567028,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Iran has issued a warning to vessels violating transit rules in the Strait of Hormuz, threatening fines and detention. This development is a result of tensions between Iran and the international community, particularly with regards to the 2015 nuclear deal. The Strait of Hormuz is a critical waterway for global oil trade, and disruptions to its operations can have significant economic implications. The warning is likely a response to the US's decision to extend sanctions on Iran's oil exports. This escalation in tensions may lead to increased uncertainty and volatility in the oil market, which could impact energy-related stocks.",
-      "impact": "The warning may lead to increased costs and uncertainty for oil traders and refiners, potentially impacting the earnings outlook for companies such as oil majors like ExxonMobil (XOM) and Royal Dutch Shell (RDS.A). In the short-term, this may lead to higher oil prices, benefiting companies with significant oil reserves such as Chevron (CVX). However, in the medium-term, the increased tensions and potential disruptions to the Strait of Hormuz may lead to a decline in oil prices, negatively impacting the earnings of oil majors.",
-      "risks": [
-        "Oil price volatility risk",
-        "Disruption to global oil trade risk",
-        "Escalation of tensions with Iran risk"
-      ]
-    }
-  },
-  {
     "id": "8395121",
     "headline": "UK briefs energy chiefs after Iran-linked cyber attack reports - Reuters",
     "summary": "UK briefs energy chiefs after Iran-linked cyber attack reports  Reuters",
@@ -77,6 +113,16 @@
         "Global energy market volatility risk"
       ]
     }
+  },
+  {
+    "id": "8395444",
+    "headline": "Alibaba launches Wan3.0 AI video model after $10 billion share sale - Reuters",
+    "summary": "Alibaba launches Wan3.0 AI video model after $10 billion share sale  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZmdTM01hcWh5dzAtTzJPbUFQeFRaQjRsc0hUY0pvOGYzeWlQNWFFQUZDaGhoaXZvaVNuMmFSVlBrek9UZWhENW1qNEd4cFNNRHcxa0RJMDYzUzRXVXl5ZzBHTEJoYWRMUnZ3U0lvdFFMTjNxaVNNSWNuWUpJY3ZyZ2FQT0M0UFJvYUhXLTI1a2tKR1ByMzYyb053MVdTSjdjbVFPSlhBRXJhdDZnOGZXN3VULW53amRPQjRRV3lZX0Q4X3Bf?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1787559824
   },
   {
     "id": "8394904",
@@ -355,6 +401,29 @@
     }
   },
   {
+    "id": "8394699",
+    "headline": "The Hormuz crude volume debate masks the real shortage of refined fuels - Reuters",
+    "summary": "The Hormuz crude volume debate masks the real shortage of refined fuels  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdWt2QTd6U25aN2I3V1VZTmhVdVBPNTdYNUx5OXlNQWcxcFo4TEJwUEo3Z2R0MWRBRnVvT3FqMms2NURIQURVdWtZVlEtM1d3YlBEVDh4b0g1SmlFWVVGRDRJYVVvbUI5eFRGWmxDRXF6eWFVVXF5TktKWS11NFZhUkU4eVJNY2ljcThUQi1uZ21Zc0NhekVIMmxDcUhla0xPSFZlV0VlSTJJOTdQU1hXODZwMmxPM043dmV1SFdCSDRlZ3BNMXJLXw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1787536663,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787560083,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The article highlights a discrepancy between the reported high crude oil volumes through the Strait of Hormuz and the actual shortage of refined fuels. This shortage is attributed to a decline in refining capacity, particularly in the US, due to maintenance and upgrades. The refined fuel shortage is expected to persist, leading to increased prices and potential supply chain disruptions. The article suggests that the focus on crude oil volumes is a distraction from the underlying issue of refining capacity.",
+      "impact": "The refined fuel shortage is likely to negatively impact companies in the refining and petrochemical industries, such as ExxonMobil, Chevron, and Valero Energy, in the short to medium term. The shortage may lead to increased earnings pressure, downward revisions to earnings estimates, and potential downward pressure on stock prices. The shortage may also lead to increased costs for companies that rely on refined fuels, such as airlines, trucking companies, and logistics firms. The refining capacity issues may persist for several months, leading to a prolonged impact on the industry.",
+      "risks": [
+        "refining capacity risk",
+        "supply chain disruption risk",
+        "earnings pressure risk"
+      ]
+    }
+  },
+  {
     "id": "8393870",
     "headline": "Dollar pinned at multi-month lows as debt nerves unnerve investors - Reuters",
     "summary": "Dollar pinned at multi-month lows as debt nerves unnerve investors  Reuters",
@@ -374,29 +443,6 @@
         "higher import costs for US companies",
         "higher inflation",
         "potential government shutdown"
-      ]
-    }
-  },
-  {
-    "id": "8394699",
-    "headline": "The Hormuz crude volume debate masks the real shortage of refined fuels - Reuters",
-    "summary": "The Hormuz crude volume debate masks the real shortage of refined fuels  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdWt2QTd6U25aN2I3V1VZTmhVdVBPNTdYNUx5OXlNQWcxcFo4TEJwUEo3Z2R0MWRBRnVvT3FqMms2NURIQURVdWtZVlEtM1d3YlBEVDh4b0g1SmlFWVVGRDRJYVVvbUI5eFRGWmxDRXF6eWFVVXF5TktKWS11NFZhUkU4eVJNY2ljcThUQi1uZ21Zc0NhekVIMmxDcUhla0xPSFZlV0VlSTJJOTdQU1hXODZwMmxPM043dmV1SFdCSDRlZ3BNMXJLXw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1787533907,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1787560083,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The article highlights a discrepancy between the reported high crude oil volumes through the Strait of Hormuz and the actual shortage of refined fuels. This shortage is attributed to a decline in refining capacity, particularly in the US, due to maintenance and upgrades. The refined fuel shortage is expected to persist, leading to increased prices and potential supply chain disruptions. The article suggests that the focus on crude oil volumes is a distraction from the underlying issue of refining capacity.",
-      "impact": "The refined fuel shortage is likely to negatively impact companies in the refining and petrochemical industries, such as ExxonMobil, Chevron, and Valero Energy, in the short to medium term. The shortage may lead to increased earnings pressure, downward revisions to earnings estimates, and potential downward pressure on stock prices. The shortage may also lead to increased costs for companies that rely on refined fuels, such as airlines, trucking companies, and logistics firms. The refining capacity issues may persist for several months, leading to a prolonged impact on the industry.",
-      "risks": [
-        "refining capacity risk",
-        "supply chain disruption risk",
-        "earnings pressure risk"
       ]
     }
   },
@@ -448,8 +494,8 @@
   },
   {
     "id": "8393261",
-    "headline": "Oil falls as US prepares to unveil new Iran sanctions - Reuters",
-    "summary": "Oil falls as US prepares to unveil new Iran sanctions  Reuters",
+    "headline": "Oil falls ahead of US announcement of new sanctions on Iran - Reuters",
+    "summary": "Oil falls ahead of US announcement of new sanctions on Iran  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONkR4RDVXMEFvZ0x5NGhmcVVWVnU0ckNHdF9UZVp4Z05rM2pTRkppNWxTREowb0xEbVVudzlBXzVuc2FkcFQ0TjFoUUduN3hEZlFoVGo0UTVyOG40RHBDNU5FUG1zSFI5MnFlbWEzdDNiMmRoa05GUGFsREZzaWZObUY0T2NGRlNVcVRvZU1xb2I2WFI2bGRlV3lXUWxWZzJILTdaMzk4TTJHVDFaUWZkUmNRdF9CdmJTT0E?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -835,6 +881,29 @@
     }
   },
   {
+    "id": "8384071",
+    "headline": "Iran condemns US plans to announce new sanctions - Reuters",
+    "summary": "Iran condemns US plans to announce new sanctions  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdXVJYmgzQ2hHN1JlVkg0MFl5eU1hVWtYWTN2OFNvUFV3b3NoS053LTdCMDVWNTBZMEdhUDV3ZEQ3QXBBYnpNRDZST0l3amt6V0luVGtJek1aZnlPZVpwMndfY0VjemxrTWxsdUlZQkZxMU03SHA4LXJ2OVdSemltdzJfUGJseElLR3BCUjlFT1JIcXdhUW9CZU1xdVctMEFjN1B5ekl0cmplQQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1787417570,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787372270,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "US President Trump stated that Iran is not ready to make a 'right deal', implying that negotiations with Iran may not yield a favorable agreement. This news is a continuation of the ongoing tensions between the US and Iran. The statement suggests that the situation may escalate further, potentially leading to increased military action or economic sanctions. This development may have implications for energy companies operating in the region, as well as those with exposure to Middle Eastern markets.",
+      "impact": "The potential for increased military action or economic sanctions on Iran may negatively impact energy companies such as ExxonMobil, Chevron, and ConocoPhillips, which have operations in the region. In the short-term, this may lead to increased volatility in oil prices, potentially benefiting energy companies with significant hedging positions or those with a high exposure to Brent crude. However, in the medium-term, the escalation of tensions may lead to a decrease in investor sentiment and a subsequent decline in stock prices for these companies.",
+      "risks": [
+        "Increased military action or economic sanctions on Iran",
+        "Escalation of tensions in the Middle East",
+        "Volatility in oil prices"
+      ]
+    }
+  },
+  {
     "id": "8391541",
     "headline": "Allspring’s Miletti sees Jackson Hole as bigger risk than Nvidia",
     "summary": "Allspring's Ann Miletti warns that Jackson Hole poses a greater risk to investors than Nvidia's earnings.",
@@ -1076,29 +1145,6 @@
         "Decreased investor confidence",
         "Uncertainty in global relationships",
         "Impact on trade agreements and earnings outlook"
-      ]
-    }
-  },
-  {
-    "id": "8384071",
-    "headline": "Iran condemns US plans to announce new sanctions - Reuters",
-    "summary": "Iran condemns US plans to announce new sanctions  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdXVJYmgzQ2hHN1JlVkg0MFl5eU1hVWtYWTN2OFNvUFV3b3NoS053LTdCMDVWNTBZMEdhUDV3ZEQ3QXBBYnpNRDZST0l3amt6V0luVGtJek1aZnlPZVpwMndfY0VjemxrTWxsdUlZQkZxMU03SHA4LXJ2OVdSemltdzJfUGJseElLR3BCUjlFT1JIcXdhUW9CZU1xdVctMEFjN1B5ekl0cmplQQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1787360700,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1787372270,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "US President Trump stated that Iran is not ready to make a 'right deal', implying that negotiations with Iran may not yield a favorable agreement. This news is a continuation of the ongoing tensions between the US and Iran. The statement suggests that the situation may escalate further, potentially leading to increased military action or economic sanctions. This development may have implications for energy companies operating in the region, as well as those with exposure to Middle Eastern markets.",
-      "impact": "The potential for increased military action or economic sanctions on Iran may negatively impact energy companies such as ExxonMobil, Chevron, and ConocoPhillips, which have operations in the region. In the short-term, this may lead to increased volatility in oil prices, potentially benefiting energy companies with significant hedging positions or those with a high exposure to Brent crude. However, in the medium-term, the escalation of tensions may lead to a decrease in investor sentiment and a subsequent decline in stock prices for these companies.",
-      "risks": [
-        "Increased military action or economic sanctions on Iran",
-        "Escalation of tensions in the Middle East",
-        "Volatility in oil prices"
       ]
     }
   },
@@ -22679,52 +22725,6 @@
         "Increased borrowing costs risk",
         "Reduced economic growth risk",
         "Decreased corporate earnings risk"
-      ]
-    }
-  },
-  {
-    "id": "8280392",
-    "headline": "US issues new Iran-related sanctions targeting insurers, more tankers - Reuters",
-    "summary": "US issues new Iran-related sanctions targeting insurers, more tankers  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUHg0N2g3a2l6LTNFemIxenZFVEI0Unk4dnROM2JfZ3lPYXR4c2IxSFNOMG5ZM1EzdEEzeS1ETTVIbmRRTmRNMzZucTMyQU1xa0ItRWh1N2tDREZ3dDhBVGxITEphNkdlbVd1VWhWQmU4N25QZTE5Qk9vbHFQMkVDc1pqVUFCX0F0cFVqVVBlTjM4R2t2S2xuRDBlcTcxZ1F2ZGE5cDdLNmxNd3FQMDdrazZMbC1JRnlI?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1785357522,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1785347924,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "The US has imposed new sanctions on Iranian tankers, which may disrupt global oil supply chains. This move is a response to Iran's nuclear activities and regional tensions. The sanctions target tankers that transport Iranian oil, which could lead to a shortage of Iranian oil on the global market. This, in turn, may increase oil prices, benefiting oil-producing companies and potentially harming oil-consuming companies.",
-      "impact": "The short-term impact on oil-producing companies such as ExxonMobil (XOM) and Chevron (CVX) could be positive due to increased oil prices. However, oil-consuming companies such as airlines like Delta Air Lines (DAL) and retail companies like Costco (COST) may face higher input costs, potentially hurting their earnings. The medium-term impact on the global economy could be significant, with higher oil prices potentially leading to slower economic growth and increased inflation.",
-      "risks": [
-        "Increased oil prices may lead to a slowdown in economic growth",
-        "Higher oil prices may increase inflation",
-        "Disruption to global supply chains may lead to shortages and price volatility"
-      ]
-    }
-  },
-  {
-    "id": "8286546",
-    "headline": "NEWSLETTER: China's crude calculus in Iran war - Reuters",
-    "summary": "NEWSLETTER: China's crude calculus in Iran war  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOajdzdGZ3NnVUd0Y2TkNrLW1IbjBNYXVzaU9kWU1ETUhrclh2dEIweWVqUktXbDZzUG5nTlVPMzFla0Y2bWdobVEyRXUwYXFnbEZsOVM4MHJLcGZYT29PcmJZckZRNG9MbDBfWGl2U09ROG9kb1laWnB2T2NOVnlmYzU4dWtlU2tEdDdaSQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1785352567,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1785451790,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "China's potential involvement in the Iran war could have significant implications for the global energy market. The article highlights China's strategic interest in maintaining stable oil supplies, particularly from Iran, which is a key oil producer. This interest could lead to a more aggressive stance in the region, potentially escalating tensions with the US. The article suggests that China's calculus in the Iran war is driven by its desire to secure energy supplies and maintain its economic growth.",
-      "impact": "The potential escalation of tensions in the Middle East could lead to increased oil prices in the short-term, benefiting oil-producing companies such as Saudi Aramco (TADAWUL: 7010) and ExxonMobil (NYSE: XOM). However, a prolonged conflict could lead to a decline in global economic growth, negatively impacting companies with significant exposure to the energy sector, such as Royal Dutch Shell (LON: RDSB) and Chevron (NYSE: CVX). The article's focus on China's strategic interests in the region suggests that the country's energy demand will continue to grow, supporting the long-term outlook for oil prices and related companies.",
-      "risks": [
-        "Escalation of tensions in the Middle East leading to increased oil prices and economic instability",
-        "Potential decline in global economic growth due to a prolonged conflict",
-        "China's increasing energy demand driving up oil prices and supporting energy companies"
       ]
     }
   }
