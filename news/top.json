@@ -1,5 +1,51 @@
 [
   {
+    "id": "8397967",
+    "headline": "Los Angeles Lakers worth 'every bit' of $12.5 billion price tag: 76ers and Commanders owner Josh Harris",
+    "summary": "The Los Angeles Lakers set a new record for a professional team sale price at $12.5 billion, and sports investor Josh Harris said the team is worth \"every bit.\"",
+    "url": "https://www.cnbc.com/2026/08/24/los-angeles-lakers-worth-every-bit-of-12point5-billion-price-tag-76ers-and-commanders-owner-josh-harris.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108137542-1745865385060-gettyimages-2212423926-wm020612_fbhuh4jd.jpeg?v=1787610366&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1787611876,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787612571,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Josh Harris, owner of the Philadelphia 76ers and Washington Commanders, believes the Los Angeles Lakers are worth the record-breaking $12.5 billion price tag. He attributes the team's value to the growing interest in live content, massive fan bases, and media value across the globe. Harris also notes the increasing investment from private equity in sports, which is evolving the historically illiquid asset class. This perspective suggests that sports team valuations are driven by fundamental growth and scarcity value, rather than a bubble.",
+      "impact": "The news is likely to be positive for the NBA and sports-related stocks in the short term, as it reinforces the notion that sports teams are a valuable and growing asset class. This could lead to increased investor interest and potentially higher valuations for other sports teams. However, investors should be cautious of the risks associated with overvaluation and the potential for a market correction if the growth narrative is disrupted.",
+      "risks": [
+        "overvaluation risk",
+        "market correction risk",
+        "scarcity value erosion risk"
+      ]
+    }
+  },
+  {
+    "id": "8397966",
+    "headline": "Here's what Jim Cramer says stock investors need to know about the bond market",
+    "summary": "Cramer said investors should watch long-term Treasury yields, which have surged amid inflation concerns, government borrowing and AI-related corporate debt issuances.",
+    "url": "https://www.cnbc.com/2026/08/24/jim-cramer-stock-investors-know-bond-market.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108285632-1774986309800-cnbc_versant_share.png?v=1774986411&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1787611201,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787612620,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Jim Cramer warns investors that the bond market is a crucial factor to watch, as stubborn inflation and surging corporate borrowing have led to elevated long-term interest rates. The 10-year Treasury yield has risen to nearly 4.7% and the 30-year yield has topped 5.3%, its highest level in nearly two decades. Cramer attributes the increase to inflation concerns, government borrowing, and AI-related corporate debt issuances. He believes that the Treasury Department's attempts to address the issue have only made investors more nervous.",
+      "impact": "The rise in long-term interest rates may hurt the stock market in the short term, as it offers tougher competition for investors' money and reduces the present value of future profits. This could lead to a decline in the S&P 500, as it has already fallen in five of the past seven sessions. The increased competition from corporate bonds may also pressure Treasury yields, making it harder for the Fed to lower short-term interest rates. In the medium term, the elevated interest rates may lead to a reevaluation of the earnings outlook for companies with high debt levels, potentially affecting their valuations and sentiment.",
+      "risks": [
+        "inflation risk",
+        "corporate debt risk",
+        "interest rate risk"
+      ]
+    }
+  },
+  {
     "id": "8395664",
     "headline": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves - Reuters",
     "summary": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves  Reuters",
@@ -7,7 +53,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1787603776,
+    "publishedAt": 1787610361,
     "analysis": {
       "version": 2,
       "generatedAt": 1787578720,
@@ -19,6 +65,75 @@
         "Decreased investor confidence",
         "Earnings decline due to decreased consumer spending",
         "Valuation reevaluation risk"
+      ]
+    }
+  },
+  {
+    "id": "8397764",
+    "headline": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it",
+    "summary": "An antitrust challenge by a group of state attorneys general has left Paramount CEO David Ellison hunting for avenues to get his deal for WBD done.",
+    "url": "https://www.cnbc.com/2026/08/24/paramount-ceo-david-ellison-wbd-acquisition-final-hurdle.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108238393-1765214232072-108238393-1765211822234-gettyimages-2250111360-PARAMOUNT_NYSE.jpeg?v=1770743687&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1787608585,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787612672,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "Paramount CEO David Ellison's acquisition of Warner Bros. Discovery (WBD) is facing a final hurdle with an antitrust challenge from a group of state attorneys general. The delay in closing the deal could add significant costs to the $110 billion price tag. Despite this, Ellison remains confident that the deal will be completed, citing the company's preparedness to take the matter to the Supreme Court if necessary. The deal has already won approval from all global regulators, including the US Department of Justice.",
+      "impact": "The delay in closing the deal could negatively impact Paramount's earnings outlook in the short term, as the company may incur additional costs. However, the deal's approval from global regulators suggests that the acquisition is likely to be completed, which could lead to a positive sentiment shift in the medium term. The deal's success will also depend on the outcome of the antitrust challenge, which could have a significant impact on the valuation of Paramount and WBD shares.",
+      "risks": [
+        "regulatory approval risk",
+        "integration risk",
+        "delayed earnings impact"
+      ]
+    }
+  },
+  {
+    "id": "8397765",
+    "headline": "Main Street Sports sues Comcast, Charter for underpaid licensing fees",
+    "summary": "Main Street has been in the process of winding down its portfolio of regional sports networks since the the NHL and NBA seasons ended earlier this year.",
+    "url": "https://www.cnbc.com/2026/08/24/main-street-sports-comcast-charter-lawsuit-payments.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108141052-1746462162675-gettyimages-2202369468-2025_nba_0226_pistonsvceltics_19.jpeg?v=1746462341&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1787608405,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787612725,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "Main Street Sports, the owner of regional sports networks, is suing Comcast and Charter for allegedly underpaid licensing fees. The company has been winding down its portfolio since the end of the NHL and NBA seasons. This lawsuit is part of a broader trend of regional sports networks facing financial difficulties due to cord-cutting and changing agreements with pay TV distributors. The company's financial struggles have been ongoing, with liquidity issues and a heavy debt load. The winddown of Main Street Sports' operations will likely have a negative impact on the company's earnings outlook, but the lawsuit itself is unlikely to have a significant short-term effect on the stocks of Comcast and Charter.",
+      "impact": "The lawsuit is unlikely to have a significant short-term impact on the stocks of Comcast and Charter, but it may lead to increased scrutiny of their agreements with regional sports networks. In the medium term, the trend of regional sports networks facing financial difficulties could lead to a decrease in valuation for companies in the industry. The financial struggles of Main Street Sports may also lead to a decrease in earnings for companies that have partnerships with regional sports networks.",
+      "risks": [
+        "Decrease in valuation for companies in the regional sports network industry",
+        "Decrease in earnings for companies with partnerships with regional sports networks",
+        "Continued financial struggles for Main Street Sports and other regional sports networks"
+      ]
+    }
+  },
+  {
+    "id": "8397350",
+    "headline": "Trump's approval holds at record low as US support for Iran war falls, Reuters Ipsos poll finds - Reuters",
+    "summary": "Trump's approval holds at record low as US support for Iran war falls, Reuters Ipsos poll finds  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYkRkNWJWcGl4bFZlUjZrZEpaMGJIMGljWUk3MTU4M2tuc1ZvcnZMMlNOMVM1NFlGUGp6eVRXbTBnSHVFVWV6YjJ1dmNGV1g3ajJJbWUzcGw4U0kyZDkzbjF5LTlxS1R2aUV0RkNKN1Z5QWVqY082ei1lMzFmSFZfVC1QLUUwbFY5SmlDdlZyZnhIRmN6Ul91cVhtbWRrdnl6S2ROc0JRMk9mdjZzaTBvMURfcXNMbE9OWnpkU0tMbw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1787605015,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787605640,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "US President Trump's approval rating has hit a record low, coinciding with a decline in support for a war with Iran. A Reuters Ipsos poll found that 22% of Americans now support a military conflict with Iran, down from 44% in January. This shift in public opinion could potentially impact the defense and aerospace industries, as a reduced likelihood of war may lead to lower demand for military equipment and services. The decline in Trump's approval rating also raises concerns about the stability of the US government and its policies, which could have broader implications for the economy.",
+      "impact": "The decline in support for a war with Iran and Trump's low approval rating may lead to a short-term decline in defense and aerospace stocks, as investors become increasingly risk-averse. In the medium term, a more stable government and reduced likelihood of war could lead to increased investor confidence and a boost to the US economy, potentially benefiting sectors such as consumer staples and industrials. However, the uncertainty surrounding the situation may lead to increased volatility in the markets, making it a challenging time for investors.",
+      "risks": [
+        "Increased volatility in the markets",
+        "Reduced demand for defense and aerospace stocks",
+        "Uncertainty surrounding the US government's policies"
       ]
     }
   },
@@ -65,29 +180,6 @@
         "ongoing conflict risk",
         "human rights concerns risk",
         "economic sanctions risk"
-      ]
-    }
-  },
-  {
-    "id": "8397350",
-    "headline": "Trump's approval holds at record low as US support for Iran war falls, Reuters Ipsos poll finds - Reuters",
-    "summary": "Trump's approval holds at record low as US support for Iran war falls, Reuters Ipsos poll finds  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYkRkNWJWcGl4bFZlUjZrZEpaMGJIMGljWUk3MTU4M2tuc1ZvcnZMMlNOMVM1NFlGUGp6eVRXbTBnSHVFVWV6YjJ1dmNGV1g3ajJJbWUzcGw4U0kyZDkzbjF5LTlxS1R2aUV0RkNKN1Z5QWVqY082ei1lMzFmSFZfVC1QLUUwbFY5SmlDdlZyZnhIRmN6Ul91cVhtbWRrdnl6S2ROc0JRMk9mdjZzaTBvMURfcXNMbE9OWnpkU0tMbw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1787600139,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1787605640,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "US President Trump's approval rating has hit a record low, coinciding with a decline in support for a war with Iran. A Reuters Ipsos poll found that 22% of Americans now support a military conflict with Iran, down from 44% in January. This shift in public opinion could potentially impact the defense and aerospace industries, as a reduced likelihood of war may lead to lower demand for military equipment and services. The decline in Trump's approval rating also raises concerns about the stability of the US government and its policies, which could have broader implications for the economy.",
-      "impact": "The decline in support for a war with Iran and Trump's low approval rating may lead to a short-term decline in defense and aerospace stocks, as investors become increasingly risk-averse. In the medium term, a more stable government and reduced likelihood of war could lead to increased investor confidence and a boost to the US economy, potentially benefiting sectors such as consumer staples and industrials. However, the uncertainty surrounding the situation may lead to increased volatility in the markets, making it a challenging time for investors.",
-      "risks": [
-        "Increased volatility in the markets",
-        "Reduced demand for defense and aerospace stocks",
-        "Uncertainty surrounding the US government's policies"
       ]
     }
   },
@@ -641,29 +733,6 @@
     }
   },
   {
-    "id": "8395223",
-    "headline": "Interventions hold rupee on narrow leash, traders await US sanctions on Iran - Reuters",
-    "summary": "Interventions hold rupee on narrow leash, traders await US sanctions on Iran  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWTRWMGpMTzlmX3RQR0Y5dzctZjZ5LVFqeEMxT1FydzQybE84MjB0aUlqdkZXLTRESXJzZnZwbDR0QndhN3VnaVRIVVIwLVBOVENWNXZ6MlNmTm5qd1dINmY0TlVjdjJSQm8yOVhYelVUb054c0wwWjMxWW1XQUttQ2N0VXU4Y2hqc1dudkdnSGJKVFdaclRUSThRZ1AwTHlpLWtPRmcyRV9XZGUyd2I2RXB3dE5KMGYz?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1787566055,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1787570025,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The Indian rupee is being supported by interventions from the Reserve Bank of India, but traders are cautious due to uncertainty surrounding US sanctions on Iran. The rupee's value has been stable, but the situation remains fragile. The RBI has been intervening in the foreign exchange market to prevent a sharp decline in the rupee. The US is expected to impose sanctions on Iran, which could impact oil prices and the rupee's value. The RBI's actions are aimed at maintaining financial stability and preventing a sharp depreciation of the rupee.",
-      "impact": "The potential imposition of US sanctions on Iran could lead to a short-term increase in oil prices, which could have a negative impact on India's trade deficit and the rupee's value. This could lead to a decline in the Indian stock market, particularly in sectors such as energy and commodities. The RBI's interventions have been successful in stabilizing the rupee, but the situation remains uncertain and could impact the earnings outlook for companies with significant foreign exchange exposure.",
-      "risks": [
-        "US sanctions on Iran could lead to a surge in oil prices",
-        "India's trade deficit could widen due to higher oil prices",
-        "RBI's interventions could be insufficient to prevent a sharp decline in the rupee"
-      ]
-    }
-  },
-  {
     "id": "8396426",
     "headline": "German billionaire Klaus-Michael Kuehne dies at age 89 - Reuters",
     "summary": "German billionaire Klaus-Michael Kuehne dies at age 89  Reuters",
@@ -1028,6 +1097,29 @@
     }
   },
   {
+    "id": "8394180",
+    "headline": "Father of sailor aboard USS Abraham Lincoln taken into US immigration detention - Reuters",
+    "summary": "Father of sailor aboard USS Abraham Lincoln taken into US immigration detention  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZHpyNnV2YVZvT29oWXgzZlZpalBjRnhaSHNWN1hxNVRXZ2tzenZqUmhFYUtJcW51MjR6VExsMWtwenlWOXFRTHFUcVJJZEJNRnVZSjNxZ1VNWk55ODNNTGRLcUp6RDhXcXlYX2tHakNSVEZLYTFEc2ZoeFVyRVhEMWJ4djVxMUJuTnUyeFZ4WGFudVFKZVM4Q1VtVnBobmJuNmIxenVaUHJlMmFGQzJFTXVnWHI1UlA5dlB0QkdfVVlJSVNnUDlKQw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1787544246,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787552795,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The father of a sailor aboard the USS Abraham Lincoln was taken into US immigration detention. This incident is unrelated to the USS Abraham Lincoln's operations or its parent company, General Dynamics. The news does not have any direct impact on the company's business fundamentals or industry context. The incident is a one-off event and does not reflect on the company's overall performance or prospects.",
+      "impact": "The news is unlikely to have a significant impact on General Dynamics' stock price in the short term. However, it may lead to increased scrutiny on the company's relationships with government agencies and its compliance with immigration laws. This could potentially affect the company's reputation and long-term prospects, but it is too early to assess the extent of the impact.",
+      "risks": [
+        "reputation risk",
+        "regulatory scrutiny risk",
+        "potential negative impact on long-term prospects"
+      ]
+    }
+  },
+  {
     "id": "8394699",
     "headline": "The Hormuz crude volume debate masks the real shortage of refined fuels - Reuters",
     "summary": "The Hormuz crude volume debate masks the real shortage of refined fuels  Reuters",
@@ -1047,29 +1139,6 @@
         "refining capacity risk",
         "supply chain disruption risk",
         "earnings pressure risk"
-      ]
-    }
-  },
-  {
-    "id": "8394180",
-    "headline": "Father of sailor aboard USS Abraham Lincoln taken into US immigration detention - Reuters",
-    "summary": "Father of sailor aboard USS Abraham Lincoln taken into US immigration detention  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZHpyNnV2YVZvT29oWXgzZlZpalBjRnhaSHNWN1hxNVRXZ2tzenZqUmhFYUtJcW51MjR6VExsMWtwenlWOXFRTHFUcVJJZEJNRnVZSjNxZ1VNWk55ODNNTGRLcUp6RDhXcXlYX2tHakNSVEZLYTFEc2ZoeFVyRVhEMWJ4djVxMUJuTnUyeFZ4WGFudVFKZVM4Q1VtVnBobmJuNmIxenVaUHJlMmFGQzJFTXVnWHI1UlA5dlB0QkdfVVlJSVNnUDlKQw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1787544000,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1787552795,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The father of a sailor aboard the USS Abraham Lincoln was taken into US immigration detention. This incident is unrelated to the USS Abraham Lincoln's operations or its parent company, General Dynamics. The news does not have any direct impact on the company's business fundamentals or industry context. The incident is a one-off event and does not reflect on the company's overall performance or prospects.",
-      "impact": "The news is unlikely to have a significant impact on General Dynamics' stock price in the short term. However, it may lead to increased scrutiny on the company's relationships with government agencies and its compliance with immigration laws. This could potentially affect the company's reputation and long-term prospects, but it is too early to assess the extent of the impact.",
-      "risks": [
-        "reputation risk",
-        "regulatory scrutiny risk",
-        "potential negative impact on long-term prospects"
       ]
     }
   },
@@ -1116,6 +1185,29 @@
         "Oil price volatility risk",
         "Global economic slowdown risk due to higher oil prices",
         "Increased risk of military conflict in the region"
+      ]
+    }
+  },
+  {
+    "id": "8395223",
+    "headline": "Interventions hold rupee on narrow leash, traders await US sanctions on Iran - Reuters",
+    "summary": "Interventions hold rupee on narrow leash, traders await US sanctions on Iran  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWTRWMGpMTzlmX3RQR0Y5dzctZjZ5LVFqeEMxT1FydzQybE84MjB0aUlqdkZXLTRESXJzZnZwbDR0QndhN3VnaVRIVVIwLVBOVENWNXZ6MlNmTm5qd1dINmY0TlVjdjJSQm8yOVhYelVUb054c0wwWjMxWW1XQUttQ2N0VXU4Y2hqc1dudkdnSGJKVFdaclRUSThRZ1AwTHlpLWtPRmcyRV9XZGUyd2I2RXB3dE5KMGYz?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1787539020,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787570025,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The Indian rupee is being supported by interventions from the Reserve Bank of India, but traders are cautious due to uncertainty surrounding US sanctions on Iran. The rupee's value has been stable, but the situation remains fragile. The RBI has been intervening in the foreign exchange market to prevent a sharp decline in the rupee. The US is expected to impose sanctions on Iran, which could impact oil prices and the rupee's value. The RBI's actions are aimed at maintaining financial stability and preventing a sharp depreciation of the rupee.",
+      "impact": "The potential imposition of US sanctions on Iran could lead to a short-term increase in oil prices, which could have a negative impact on India's trade deficit and the rupee's value. This could lead to a decline in the Indian stock market, particularly in sectors such as energy and commodities. The RBI's interventions have been successful in stabilizing the rupee, but the situation remains uncertain and could impact the earnings outlook for companies with significant foreign exchange exposure.",
+      "risks": [
+        "US sanctions on Iran could lead to a surge in oil prices",
+        "India's trade deficit could widen due to higher oil prices",
+        "RBI's interventions could be insufficient to prevent a sharp decline in the rupee"
       ]
     }
   },
@@ -1190,8 +1282,8 @@
   },
   {
     "id": "8393467",
-    "headline": "Shares dip on pressure from technology; yields and oil fall - Reuters",
-    "summary": "Shares dip on pressure from technology; yields and oil fall  Reuters",
+    "headline": "Shares dip with pressure from technology, yields and oil fall - Reuters",
+    "summary": "Shares dip with pressure from technology, yields and oil fall  Reuters",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMG83ZmMxSkVxZFI2eFdsTkhlblVtbE82OFd5SmxFekFOZmtQZEVLSzZOZU1tckZxd2QyOU9vYmRuWGhXeDIzVDhkQ1RaUF96T1hRZkg1SVRHWHAxcGVMTWxmMXBsSjVONURWaEFhMWp2dWdKM0piSGtyWVF1bkJ0YWFxWQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1416,8 +1508,8 @@
   },
   {
     "id": "8392449",
-    "headline": "US unveils 'economic D-Day' of sanctions to isolate Iran - Reuters",
-    "summary": "US unveils 'economic D-Day' of sanctions to isolate Iran  Reuters",
+    "headline": "US widens sanctions on Iran but withholds more punishing options - Reuters",
+    "summary": "US widens sanctions on Iran but withholds more punishing options  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVR6WDVGa1pXVWw0aFNTbHNTcjZjeEZpS2dUYjZKdjlCcHB2VElmTFU2Vl90RTNPbWg2akxvdF8xcUV2S01JR1N3M0c2T1ZmeHM5V3BrUExMbE16dWRHSWw0QlBoYmFMVUxXUlNzT2lMYXJYNVZ0a1JHUW0xRjc3c1JOVWJlTGxSMGFiLXFVTUgtbWstY1ZHTm02a2N4UklmX0pyaG9uVlFDMVU?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1967,7 +2059,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1787360700,
+    "publishedAt": 1787361293,
     "analysis": {
       "version": 2,
       "generatedAt": 1787372270,
@@ -22658,94 +22750,6 @@
         "Demand slowdown risk due to price hikes",
         "Increased competition from rival tech companies",
         "Supply chain disruptions due to memory shortages"
-      ]
-    }
-  },
-  {
-    "id": "8285267",
-    "headline": "We're buying an AI stock that we recently took profits on and upgrading another",
-    "summary": "If leverage is out of the AI infrastructure stocks, then it's time to get more positive on the theme after their recent decline.",
-    "url": "https://www.cnbc.com/2026/07/30/were-buying-an-ai-stock-that-we-recently-took-profits-on-and-upgrading-another.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108295609-1776882616323-gettyimages-2271950132-AFP_A8NJ9YH.jpeg?v=1776882638&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1785426197,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1785428453,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Jim Cramer's Charitable Trust is buying 90 shares of Qnity Electronics at $131 each, upgrading its rating to a 1, and also upgrading its rating on Corning to a buy-equivalent 1. This move comes after a recent decline in AI infrastructure stocks, but with signs of a robust demand environment, including strong results from Samsung and Lam Research. Qnity's largest customer, Samsung, reported strong earnings, and peers in electronic materials have also reported good quarters. Corning, despite a recent pullback, is still seen as a long-term growth story with sales growing at a 19% CAGR.",
-      "impact": "The upgrade in Qnity's rating and the purchase of additional shares could lead to a short-term price increase, driven by increased demand and a robust earnings outlook. In the medium term, the upgrade in Corning's rating could also lead to a price increase, as the company's long-term growth story remains unchanged. The recent decline in AI infrastructure stocks may have created a buying opportunity for investors looking to get back into the theme. The upgrade in Qnity's rating and the purchase of additional shares may also increase liquidity in the stock, making it more attractive to investors.",
-      "risks": []
-    }
-  },
-  {
-    "id": "8283541",
-    "headline": "Shell profit more than doubles to $9.8 billion, second-highest on record, as Iran war lifts prices - Reuters",
-    "summary": "Shell profit more than doubles to $9.8 billion, second-highest on record, as Iran war lifts prices  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOVlEVkZ5c0ZFc3F3cjhHdllWWFNMNlAzR3VKVGR3cTFGQU11UUFJbWNzemJBLTIwX0lwWHBydVBySkUzS2dQQXJlZGpFRTNEdGljNENnaXNZQmQ0blUzejRLU3dsRlpLeExXZkJHdUlBcGlqZ3EyeFRIS2toSUdsbmpmTzh1eHJyODF4M2VtZi02ZHR3N2F5Sjd6Rk9nbXl1TmVrZWk1UXkwUHAxZjVZ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1785425839,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1785405932,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Royal Dutch Shell's profit more than doubled to $9.8 billion, the second-highest on record, driven by higher oil prices resulting from the ongoing Iran-US conflict. The conflict has led to a reduction in Iranian oil exports, tightening global oil supplies and driving prices up. This surge in oil prices has positively impacted Shell's earnings, as the company is a major oil producer and refiner. The company's strong earnings are a positive indicator for the energy sector, as it suggests that the industry is benefiting from the current geopolitical tensions.",
-      "impact": "The news is likely to have a positive impact on Shell's stock price in the short term, as investors react to the company's strong earnings. The medium-term impact will depend on the duration of the Iran-US conflict and its effects on global oil prices. If the conflict continues, Shell's earnings are likely to remain strong, supporting the stock price. However, if the conflict is resolved quickly, oil prices may decline, negatively impacting Shell's earnings and stock price.",
-      "risks": [
-        "Potential escalation of the Iran-US conflict leading to a decline in oil prices",
-        "Uncertainty around the duration of the conflict and its impact on global oil supplies",
-        "Dependence on volatile oil prices, which can negatively impact earnings and stock price"
-      ]
-    }
-  },
-  {
-    "id": "8288307",
-    "headline": "Across Tehran, billboards threaten Trump, Israel - Reuters",
-    "summary": "Across Tehran, billboards threaten Trump, Israel  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdzZLeW9yMVlqY1o1V1pRMlBMeEUzMTFITmw1ZS0xbXZGMkQ2OVBfbzZUNzktNWR6SjQ3QmctOVBvNi1WeFZqOUEyMWRuaTduVURRZGpRZUhGd0I2bVdKZmFENjRzWmhfUXo5NVlsYXdpc1dITm13TXZoMFlPaE44Rm1STnB0d1k0TjQ5YlBFalhmUGxwRUE?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1785424440,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1785486082,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Tehran billboards display threatening messages towards US President Trump and Israel, escalating tensions in the region. This development is largely a diplomatic and geopolitical event, unrelated to specific business fundamentals or industry trends. However, it may influence investor sentiment and potentially impact US-Israeli relations, which could have broader implications for global politics and trade. The news is unlikely to have a direct impact on the stock market in the short term, but may affect investor confidence and sentiment in the medium term.",
-      "impact": "The news may lead to increased volatility in the short term, particularly in US and Israeli stocks with exposure to the region, such as defense and aerospace companies. In the medium term, a prolonged escalation of tensions could lead to increased military spending and a shift in global trade policies, potentially benefiting defense and aerospace companies. However, this is highly uncertain and dependent on various geopolitical factors.",
-      "risks": [
-        "Escalation of tensions and potential military conflict risk",
-        "Increased military spending and defense sector growth risk",
-        "Global trade policy changes and potential disruptions risk"
-      ]
-    }
-  },
-  {
-    "id": "8285164",
-    "headline": "EXCLUSIVE: Yemen's Houthis are attacking Saudi Arabia from Iraq, sources say - Reuters",
-    "summary": "EXCLUSIVE: Yemen's Houthis are attacking Saudi Arabia from Iraq, sources say  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOG5nRVpXaFJmYzZnNk1aMDMwdmc4NDdTalNOTWtaWHhzZGFXWE5JanRRM192OC1qZUs4Q0JHUktVR2VEb1lvdWh4ZjFEd0xQWW1aZkczRFY4VmxQTVV1anlGQ2RsSjFPTjB0aW53NGloTU9Na0hhM1V2ZnpTRFAwOTEtQUpIZ085VHZyS05XN241U3EyZmFqa3hGNzZsU0ZjN1Y2cTRaakE0bWU5VmV6ZTVR?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1785423496,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1785428506,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Yemen's Houthis are reportedly attacking Saudi Arabia from Iraq, escalating tensions in the region. This development is a significant escalation of the ongoing conflict between the Houthis and Saudi Arabia, which has been ongoing since 2015. The attacks are likely to increase the risk of a broader conflict in the region, potentially involving other countries. The situation is further complicated by the fact that the Houthis are operating from Iraq, which is a key partner of Saudi Arabia in the region.",
-      "impact": "The potential impact on the related stocks is bearish, as the increased tensions in the region are likely to lead to a decline in investor sentiment and a decrease in oil prices. This, in turn, could negatively affect the earnings outlook for oil-related companies, particularly those with significant exposure to the Middle East. The situation may also lead to increased military spending by Saudi Arabia and other countries in the region, which could have a positive impact on defense-related stocks. However, the overall risk of a broader conflict and its associated uncertainties may outweigh these potential benefits.",
-      "risks": [
-        "Escalating conflict risk",
-        "Oil price volatility risk",
-        "Earnings outlook risk for oil-related companies"
       ]
     }
   }
