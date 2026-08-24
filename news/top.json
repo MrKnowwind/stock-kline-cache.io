@@ -1,5 +1,51 @@
 [
   {
+    "id": "8396099",
+    "headline": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates",
+    "summary": "President Donald Trump said the U.S. will raise tariffs on imports of cars, trucks and auto parts from Canada to 50% on Jan. 1, 2027",
+    "url": "https://www.cnbc.com/2026/08/24/trump-canada-auto-tariffs-trade-war.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108352965-1787579279135-108352965-1787345577093-gettyimages-2290821906-AFP_C69G2KC.jpeg?v=1787579300&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1787579966,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787581611,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "US President Donald Trump announced a significant escalation of the trade war with Canada, stating that tariffs on Canadian auto imports will increase to 50% on January 1, 2027. This move is a direct response to a breakdown in trade negotiations, with Trump accusing Canada of 'ripping off' the US. The Canadian auto market is relatively small compared to the US, but major automakers like Toyota and Honda have significant production presence in Canada. The increased tariffs will likely impact the earnings outlook for companies with significant exposure to the Canadian market, particularly those with production facilities in Canada.",
+      "impact": "The increased tariffs will likely lead to higher costs for automakers with production facilities in Canada, such as General Motors, Ford, and Stellantis, which could negatively impact their earnings outlook in the medium term. This could lead to a decrease in stock prices for these companies, particularly if investors reassess their valuations in light of the increased costs. The increased tariffs may also lead to a decrease in demand for Canadian-made vehicles in the US, which could further exacerbate the impact on automakers.",
+      "risks": [
+        "Decreased earnings outlook for automakers with Canadian production facilities",
+        "Increased costs and reduced competitiveness for Canadian automakers",
+        "Potential decrease in demand for Canadian-made vehicles in the US"
+      ]
+    }
+  },
+  {
+    "id": "8395664",
+    "headline": "Wall Street opens lower as high-stakes Iran, inflation tests loom - Reuters",
+    "summary": "Wall Street opens lower as high-stakes Iran, inflation tests loom  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmVCQWYzaWpzTVpmVFJPV0xRdEtUcXg0N2JKZHB5Z2JFZWpWRHFwS0Q3R2NtVHp1c29rem5scXhwa0FZMFZJNGtqM3ZCRlVOa1doNGNtWEcxVVZCYXFDSXlEbmJwODhKbG5Kdk15RDJpbDFleUFpWkdmbWEtMkhGWnF0U1FWWVpmSnp4aXp4UzlPc2hzaFNTWllwSm5UVWlpNWtWQlkzX1dqOHJNbkg5ag?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1787578544,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787578720,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "The article reports that Wall Street is expected to open lower due to concerns over high-stakes Iran tensions and inflation tests. This comes as the US and Iran are engaged in a standoff, with the US imposing new sanctions on Iran. The inflation tests are also a concern, as they may indicate a rise in prices and a decrease in consumer spending. The market is likely to be sensitive to any developments in these areas, which could impact investor confidence and sentiment. The article does not specify any particular stocks, but the overall market trend is expected to be negative.",
+      "impact": "The potential impact on stocks could be significant, with a possible short-term decline in market value due to decreased investor confidence and sentiment. In the medium term, the inflation tests and Iran tensions could lead to a decrease in consumer spending and a subsequent decline in earnings for companies that rely on consumer demand. This could lead to a reevaluation of stock valuations and potentially a decline in stock prices. The market's reaction to these events will be closely watched, and investors should be prepared for potential volatility.",
+      "risks": [
+        "Decreased investor confidence",
+        "Earnings decline due to decreased consumer spending",
+        "Valuation reevaluation risk"
+      ]
+    }
+  },
+  {
     "id": "8394699",
     "headline": "The Hormuz crude volume debate masks the real shortage of refined fuels - Reuters",
     "summary": "The Hormuz crude volume debate masks the real shortage of refined fuels  Reuters",
@@ -23,29 +69,6 @@
     }
   },
   {
-    "id": "8395664",
-    "headline": "Wall Street set to open lower as high-stakes Iran, inflation tests loom - Reuters",
-    "summary": "Wall Street set to open lower as high-stakes Iran, inflation tests loom  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmVCQWYzaWpzTVpmVFJPV0xRdEtUcXg0N2JKZHB5Z2JFZWpWRHFwS0Q3R2NtVHp1c29rem5scXhwa0FZMFZJNGtqM3ZCRlVOa1doNGNtWEcxVVZCYXFDSXlEbmJwODhKbG5Kdk15RDJpbDFleUFpWkdmbWEtMkhGWnF0U1FWWVpmSnp4aXp4UzlPc2hzaFNTWllwSm5UVWlpNWtWQlkzX1dqOHJNbkg5ag?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1787576768,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1787578720,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "The article reports that Wall Street is expected to open lower due to concerns over high-stakes Iran tensions and inflation tests. This comes as the US and Iran are engaged in a standoff, with the US imposing new sanctions on Iran. The inflation tests are also a concern, as they may indicate a rise in prices and a decrease in consumer spending. The market is likely to be sensitive to any developments in these areas, which could impact investor confidence and sentiment. The article does not specify any particular stocks, but the overall market trend is expected to be negative.",
-      "impact": "The potential impact on stocks could be significant, with a possible short-term decline in market value due to decreased investor confidence and sentiment. In the medium term, the inflation tests and Iran tensions could lead to a decrease in consumer spending and a subsequent decline in earnings for companies that rely on consumer demand. This could lead to a reevaluation of stock valuations and potentially a decline in stock prices. The market's reaction to these events will be closely watched, and investors should be prepared for potential volatility.",
-      "risks": [
-        "Decreased investor confidence",
-        "Earnings decline due to decreased consumer spending",
-        "Valuation reevaluation risk"
-      ]
-    }
-  },
-  {
     "id": "8395767",
     "headline": "Jim Cramer's top 10 things to watch in the stock market Monday",
     "summary": "Nvidia reports earnings this week, but it's not the only thing that matters to the AI trade.",
@@ -53,7 +76,20 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/108314510-1780318208233-gettyimages-2278510316-TAIWAN_COMPUTEX.jpeg?v=1780318269&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1787575143
+    "publishedAt": 1787575143,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787581663,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Nvidia's earnings this week will be closely watched as it reports on the AI trade. The company has informed customers of impending price hikes on AI servers due to memory costs, which could impact its earnings. Additionally, the growing political backlash to data centers, particularly in the US, may affect the AI trade. This is a key concern for Nvidia as well as other companies in the AI space, such as CrowdStrike. On a more positive note, Baird has initiated coverage of several restaurant stocks, including Starbucks, with a 'top pick' rating, citing CEO Brian Niccol's turnaround efforts.",
+      "impact": "Nvidia's earnings report and the potential impact of the AI trade on the company's business will likely drive volatility in its stock price. The growing political backlash to data centers may also negatively impact the company's earnings and valuation. In contrast, CrowdStrike's upcoming earnings report may see a positive reaction if the company can meet high expectations. The initiation of coverage of several restaurant stocks by Baird, including Starbucks, may lead to a short-term rally in these stocks as investors become more optimistic about their growth prospects.",
+      "risks": [
+        "regulatory approval risk for data centers",
+        "integration risk for Nvidia's AI server price hikes",
+        "demand slowdown risk for AI-related stocks"
+      ]
+    }
   },
   {
     "id": "8395007",
@@ -247,7 +283,16 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1787561041
+    "publishedAt": 1787561041,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787581710,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Germany's ageing population is driving social spending to a record high, according to the Ifo institute. This is a result of an increasing number of retirees and a shrinking workforce, leading to a higher burden on the country's pension and healthcare systems. The Ifo institute estimates that social spending will continue to rise in the coming years, putting pressure on the German government to increase taxes or reduce benefits. This trend is expected to have a significant impact on the country's economy and budget.",
+      "impact": "The rising social spending in Germany is likely to have a negative impact on the country's fiscal health, which could lead to a decrease in government bond yields and an increase in borrowing costs. This, in turn, could affect the valuation of German banks and other financial institutions that hold a significant portion of government bonds. The medium-term impact on the German economy could be a slowdown in growth due to the increased burden on the pension and healthcare systems. Additionally, the potential increase in taxes could lead to a decrease in consumer spending and investment.",
+      "risks": []
+    }
   },
   {
     "id": "8395121",
@@ -336,7 +381,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1787555489
+    "publishedAt": 1787555489,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787581773,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "GlaxoSmithKline (GSK) has secured regulatory approvals for its chronic hepatitis B drug and cancer therapy, marking significant milestones for the company. These approvals are expected to boost GSK's revenue and strengthen its position in the pharmaceutical industry. The company's pipeline has been a key area of focus, and these approvals demonstrate its ability to develop innovative treatments. The chronic hepatitis B drug has the potential to address a significant unmet medical need, and the cancer therapy offers a new treatment option for patients. These approvals are expected to have a positive impact on GSK's earnings and valuation.",
+      "impact": "The regulatory wins are expected to drive growth in GSK's revenue, particularly in the pharmaceutical segment. This could lead to an increase in earnings per share, making the stock more attractive to investors. The approvals may also boost investor sentiment, leading to a potential short-term rally in the stock price. In the medium term, the increased revenue and earnings growth could lead to a revaluation of the company's stock, making it a more attractive investment opportunity.",
+      "risks": [
+        "Regulatory approval risk for other pipeline products",
+        "Competition from established players in the pharmaceutical industry",
+        "Potential delays in commercialization of the new treatments"
+      ]
+    }
   },
   {
     "id": "8394799",
@@ -392,7 +450,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1787546520,
+    "publishedAt": 1787546584,
     "analysis": {
       "version": 2,
       "generatedAt": 1787557577,
@@ -461,7 +519,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1787544000,
+    "publishedAt": 1787544246,
     "analysis": {
       "version": 2,
       "generatedAt": 1787552795,
@@ -22624,25 +22682,6 @@
         "increased competition from other cloud providers",
         "potential delays or cost overruns in data centre construction"
       ]
-    }
-  },
-  {
-    "id": "8287384",
-    "headline": "Microsoft Azure revenue tops $100 billion as cloud growth hits four-year high",
-    "summary": "Microsoft beat quarterly estimates as Azure grew 43%, annual cloud revenue crossed $100 billion and Microsoft 365 Copilot reached 30 million paid users.",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-29/microsoft-reports-quarterly-cloud-revenue-that-beat-estimates",
-    "source": "Bloomberg",
-    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
-    "relatedSymbols": [],
-    "publishedAt": 1785376434,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1785475280,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Microsoft's Azure revenue surpassed $100 billion in annual cloud revenue, with a 43% growth rate in the quarter. This achievement is a four-year high for the company's cloud business. Microsoft 365 Copilot has reached 30 million paid users, indicating strong adoption of the company's productivity and collaboration tools. The strong cloud growth is a testament to Microsoft's strategic shift towards the cloud and its successful execution.",
-      "impact": "The strong Azure growth and Microsoft 365 Copilot adoption are likely to drive increased earnings per share (EPS) in the coming quarters, potentially leading to a reevaluation of the company's valuation. This could result in a short-term stock price increase, driven by improved sentiment and increased investor confidence. The medium-term impact may be a continued outperformance of the S&P 500 index, as Microsoft's cloud business continues to grow at a faster pace than its peers. The company's strong cash flow generation and ability to invest in research and development will also support its stock price in the medium term.",
-      "risks": []
     }
   }
 ]
