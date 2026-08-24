@@ -1,5 +1,70 @@
 [
   {
+    "id": "8395664",
+    "headline": "Tech drags S&P 500, Nasdaq lower as Iran tensions, Nvidia earnings loom - Reuters",
+    "summary": "Tech drags S&P 500, Nasdaq lower as Iran tensions, Nvidia earnings loom  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmVCQWYzaWpzTVpmVFJPV0xRdEtUcXg0N2JKZHB5Z2JFZWpWRHFwS0Q3R2NtVHp1c29rem5scXhwa0FZMFZJNGtqM3ZCRlVOa1doNGNtWEcxVVZCYXFDSXlEbmJwODhKbG5Kdk15RDJpbDFleUFpWkdmbWEtMkhGWnF0U1FWWVpmSnp4aXp4UzlPc2hzaFNTWllwSm5UVWlpNWtWQlkzX1dqOHJNbkg5ag?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1787589771,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787578720,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "The article reports that Wall Street is expected to open lower due to concerns over high-stakes Iran tensions and inflation tests. This comes as the US and Iran are engaged in a standoff, with the US imposing new sanctions on Iran. The inflation tests are also a concern, as they may indicate a rise in prices and a decrease in consumer spending. The market is likely to be sensitive to any developments in these areas, which could impact investor confidence and sentiment. The article does not specify any particular stocks, but the overall market trend is expected to be negative.",
+      "impact": "The potential impact on stocks could be significant, with a possible short-term decline in market value due to decreased investor confidence and sentiment. In the medium term, the inflation tests and Iran tensions could lead to a decrease in consumer spending and a subsequent decline in earnings for companies that rely on consumer demand. This could lead to a reevaluation of stock valuations and potentially a decline in stock prices. The market's reaction to these events will be closely watched, and investors should be prepared for potential volatility.",
+      "risks": [
+        "Decreased investor confidence",
+        "Earnings decline due to decreased consumer spending",
+        "Valuation reevaluation risk"
+      ]
+    }
+  },
+  {
+    "id": "8396626",
+    "headline": "Cramer says this stock tied to the AI data center trade may be up next for a trim",
+    "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+    "url": "https://www.cnbc.com/2026/08/24/cramer-says-this-stock-tied-to-the-ai-data-center-trade-may-be-up-next-for-a-trim.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108229968-1763739290840-gettyimages-2236733569-STARGATE_DATA_CENTER.jpeg?v=1770838644&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1787587795,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787591842,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "CNBC's Jim Cramer has expressed a bearish sentiment towards AI-related stocks, citing the politicization of the data center buildout as a major concern. This has led to a reduction in his firm's exposure to AI stocks, including a significant cut in Broadcom. GE Vernova, a maker of natural gas turbines for data centers, may be the next stock to be trimmed as Cramer believes it is at the center of the AI trade. Cramer also expressed confidence in CrowdStrike and Salesforce, despite the challenges they face in the AI space.",
+      "impact": "The bearish sentiment from Cramer may lead to a short-term decline in AI-related stocks, including GE Vernova, as investors become more cautious about the sector. Medium-term, the politicization of the data center buildout could lead to increased regulatory uncertainty and reduced demand for AI-related stocks. This may impact the earnings outlook and valuation of these stocks, making them less attractive to investors. Additionally, the increased uncertainty may lead to reduced liquidity in the sector, making it more challenging for investors to trade these stocks.",
+      "risks": []
+    }
+  },
+  {
+    "id": "8393467",
+    "headline": "Shares dip on pressure from technology; yields and oil fall - Reuters",
+    "summary": "Shares dip on pressure from technology; yields and oil fall  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMG83ZmMxSkVxZFI2eFdsTkhlblVtbE82OFd5SmxFekFOZmtQZEVLSzZOZU1tckZxd2QyOU9vYmRuWGhXeDIzVDhkQ1RaUF96T1hRZkg1SVRHWHAxcGVMTWxmMXBsSjVONURWaEFhMWp2dWdKM0piSGtyWVF1bkJ0YWFxWQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1787586583,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787538058,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Asian markets were flat ahead of potential Iran sanctions news and Nvidia's quarterly results. The news of impending sanctions has created uncertainty in global markets, but its direct impact on Asian markets is limited. Nvidia's quarterly results are also anticipated, and the company's performance will be closely watched for any signs of growth in the tech sector. The company's success in the gaming and AI markets will be particularly important for investors.",
+      "impact": "The potential sanctions on Iran may have a short-term impact on oil prices and global trade, which could affect the overall market sentiment. However, the direct impact on Asian markets is limited. Nvidia's quarterly results will be closely watched for any signs of growth in the tech sector, particularly in the gaming and AI markets. A strong performance from Nvidia could boost sentiment in the tech sector and drive up the company's stock price.",
+      "risks": [
+        "geopolitical risk",
+        "market volatility risk",
+        "earnings miss risk"
+      ]
+    }
+  },
+  {
     "id": "8396422",
     "headline": "Ex-Google recruiter: This common mistake makes your resume 'invisible'—you have 'six seconds to prove you can do the work'",
     "summary": "Ex-Google recruiter Farah Sharghi says that to succeed in this job market, emphasize proof you can do the job, rather than your potential on your resume.",
@@ -65,29 +130,6 @@
         "Decreased earnings due to reduced revenue from Iranian trade",
         "Decreased investor sentiment and potential stock price decline",
         "Increased regulatory scrutiny and compliance costs for companies with exposure to Iran"
-      ]
-    }
-  },
-  {
-    "id": "8395664",
-    "headline": "S&P 500, Nasdaq slip as Iran tensions test markets in high-stakes week - Reuters",
-    "summary": "S&P 500, Nasdaq slip as Iran tensions test markets in high-stakes week  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmVCQWYzaWpzTVpmVFJPV0xRdEtUcXg0N2JKZHB5Z2JFZWpWRHFwS0Q3R2NtVHp1c29rem5scXhwa0FZMFZJNGtqM3ZCRlVOa1doNGNtWEcxVVZCYXFDSXlEbmJwODhKbG5Kdk15RDJpbDFleUFpWkdmbWEtMkhGWnF0U1FWWVpmSnp4aXp4UzlPc2hzaFNTWllwSm5UVWlpNWtWQlkzX1dqOHJNbkg5ag?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1787580702,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1787578720,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "The article reports that Wall Street is expected to open lower due to concerns over high-stakes Iran tensions and inflation tests. This comes as the US and Iran are engaged in a standoff, with the US imposing new sanctions on Iran. The inflation tests are also a concern, as they may indicate a rise in prices and a decrease in consumer spending. The market is likely to be sensitive to any developments in these areas, which could impact investor confidence and sentiment. The article does not specify any particular stocks, but the overall market trend is expected to be negative.",
-      "impact": "The potential impact on stocks could be significant, with a possible short-term decline in market value due to decreased investor confidence and sentiment. In the medium term, the inflation tests and Iran tensions could lead to a decrease in consumer spending and a subsequent decline in earnings for companies that rely on consumer demand. This could lead to a reevaluation of stock valuations and potentially a decline in stock prices. The market's reaction to these events will be closely watched, and investors should be prepared for potential volatility.",
-      "risks": [
-        "Decreased investor confidence",
-        "Earnings decline due to decreased consumer spending",
-        "Valuation reevaluation risk"
       ]
     }
   },
@@ -345,6 +387,29 @@
     }
   },
   {
+    "id": "8396527",
+    "headline": "IndyCar races through the nation's capital at Freedom 250 Grand Prix - Reuters",
+    "summary": "IndyCar races through the nation's capital at Freedom 250 Grand Prix  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORUhROE1ObHkweGs3T1hmcTFhQUlpM1RjUDdmbVdETmgyaEd4YUFaRHRwOThlWlJQdXVIVkp6OG5xZS0xd21NbEYybTlaX1VZc2huTEJ1NFF5NVNnUzBKeEFhN19VM1Y1WWZKaDdFRnNGWnk0Uk5QSkN0YjQ4VlFUUzA3SWVtMWdjYVpRVkFObGxRVDFycGdKcUhpQ3Q2akVfMkhxdUZTT00?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1787562720,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787591894,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The IndyCar series held the Freedom 250 Grand Prix in Washington D.C., a non-profit event that promotes motorsports and community engagement. The event featured a 250-lap race with a prize purse of $250,000. The event aims to contribute to the growth of motorsports in the United States. The IndyCar series has a strong following in the US, with a loyal fan base and a growing presence in the country. The event's success may boost the series' visibility and appeal to new fans.",
+      "impact": "The news is unlikely to have a significant impact on the stocks of companies directly related to the IndyCar series, as it is a non-profit event. However, a successful event may lead to increased interest in the series, potentially driving up ticket sales and merchandise revenue in the short-term. This could positively impact companies that provide services or products to the series, such as track operators or equipment suppliers. In the medium-term, a growing fan base could lead to increased sponsorship deals and revenue for the series, benefiting companies that sponsor the series or its events.",
+      "risks": [
+        "Limited direct financial impact on related stocks",
+        "Dependence on event success for long-term growth",
+        "Uncertainty around future event locations and schedules"
+      ]
+    }
+  },
+  {
     "id": "8395555",
     "headline": "Six countries want EU talks in September on taxing windfall profits of oil companies - Reuters",
     "summary": "Six countries want EU talks in September on taxing windfall profits of oil companies  Reuters",
@@ -532,7 +597,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1787551543,
+    "publishedAt": 1787550720,
     "analysis": {
       "version": 2,
       "generatedAt": 1787557526,
@@ -544,6 +609,29 @@
         "Decreased demand for defense-related stocks in the short term",
         "Increased defense spending in the long term",
         "Uncertainty around the duration and scope of the conflict in the Middle East"
+      ]
+    }
+  },
+  {
+    "id": "8396529",
+    "headline": "South Africa's MTN approves $375 million share buyback after profit rise - Reuters",
+    "summary": "South Africa's MTN approves $375 million share buyback after profit rise  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTkU3Mnd1M3RVU1YyTkh2WlJwU3UyRUlUS05RbFpuOFVXT09idEpSLVRKQ1VsZ203bmx0b01rVmdhV016SXFfMUl6ajZVM2EtR3hzeXp6X0ZjZDAzdzIzOTJzcUJ3ci1sVlc1VXRoalVoM1NXejQwNHYwSEJ1X2pZdVExUTlXRmxhV01pY1NJdUxYRk00T1dWR3cwZFE0OUJ0ekhyc1F5VEg3Ti0t?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1787549100,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787591944,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "MTN, a South African telecommunications company, has approved a $375 million share buyback program following a rise in profits. This move suggests that the company is confident in its financial health and growth prospects. The share buyback is a positive signal for investors, indicating that the company is willing to invest in its own shares, which can lead to increased demand and potentially higher stock prices. The company's profit rise is a result of increased revenue from its operations in Africa and the Middle East. This growth in revenue is driven by the increasing demand for mobile services in these regions.",
+      "impact": "The share buyback program is likely to have a positive impact on MTN's stock price in the short term, as it signals confidence in the company's financial health and growth prospects. This could lead to increased investor sentiment and demand for the stock, potentially driving up the price. In the medium term, the company's growth in revenue and profit could lead to increased earnings per share, making the stock more attractive to investors. The share buyback program may also lead to a reduction in the number of outstanding shares, which could result in higher earnings per share and a more attractive valuation multiple.",
+      "risks": [
+        "Market volatility risk",
+        "Economic downturn risk in Africa and the Middle East",
+        "Competition from other telecommunications companies"
       ]
     }
   },
@@ -572,8 +660,8 @@
   },
   {
     "id": "8394283",
-    "headline": "Gold rally gains momentum ahead of US inflation, Jackson Hole event - Reuters",
-    "summary": "Gold rally gains momentum ahead of US inflation, Jackson Hole event  Reuters",
+    "headline": "Gold rally gains momentum ahead of US inflation data, Jackson Hole event - Reuters",
+    "summary": "Gold rally gains momentum ahead of US inflation data, Jackson Hole event  Reuters",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUkZtQVBPdjlyb21JaVBxeFRicDFEeHVNQ21pZzdGQnlSMUpFYV80MEl3RjJUbF9tYWxmdkZqY2NpaXh5S0NPd1lhbFZxUHZMVVFkTHNyNktCX2hrUU5KN3hjcWRUVTlaQ0hwcmVoMV9VZjBmUkFjMGtTUUY5MXBwRDRFWXBwQnhZTzU1dV81LThOaTNZR1BLVDRGU1JtbDczRjVweFByWkVQbWhhX3VwYTlJZ0VYblU?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -636,6 +724,29 @@
         "reputation risk",
         "regulatory scrutiny risk",
         "potential negative impact on long-term prospects"
+      ]
+    }
+  },
+  {
+    "id": "8396528",
+    "headline": "Indian central bank likely intervenes, anchoring rupee in face of global ructions, traders say - Reuters",
+    "summary": "Indian central bank likely intervenes, anchoring rupee in face of global ructions, traders say  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYktHT1AtVS13NThNNDU5M0tTdzJRYUZxUDlnUFhCdlZpckZKSkU1SC1SYXdDVGdEakJZTWVvLUt3TGtBZUcwRUNnQUF2VkJLRTJQRXVQNjQ1WGdEY2lNUlBBdXdDclpxc3VuaWlERUl4ZkFVOEV4UEwyeXoxT0xvUTlQb3BBOC1qUWptTGkyWk40dVY3X29sMkV3cWp0SklmUkV2NUR2NURFTm03ZjRkbWdqOXoyaGVHdGxyMUwwOA?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1787543580,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787591991,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The Indian central bank is likely intervening to stabilize the rupee, which has been affected by global market ructions. This move is a response to concerns about the currency's depreciation. The central bank's actions aim to anchor the rupee's value, which has been volatile in recent times. The global economic uncertainty and market fluctuations have led to the rupee's decline, prompting the central bank's intervention. The move is aimed at maintaining economic stability and investor confidence.",
+      "impact": "The potential impact on Indian stocks is mixed, with some benefiting from the central bank's intervention and others potentially facing headwinds. The rupee's stability could lead to a boost in exports and a more favorable business environment for companies with significant international exposure. However, the medium-term impact may be limited, as the global economic uncertainty persists. The central bank's actions may also lead to increased liquidity in the market, benefiting some stocks with strong fundamentals.",
+      "risks": [
+        "Global economic uncertainty risk",
+        "Dependence on central bank intervention risk",
+        "Inflation risk due to currency fluctuations"
       ]
     }
   },
@@ -728,29 +839,6 @@
         "Oil price volatility risk",
         "Inflation risk",
         "Economic growth slowdown risk"
-      ]
-    }
-  },
-  {
-    "id": "8393467",
-    "headline": "Shares, oil dip as US sanctions on Iran loom - Reuters",
-    "summary": "Shares, oil dip as US sanctions on Iran loom  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMG83ZmMxSkVxZFI2eFdsTkhlblVtbE82OFd5SmxFekFOZmtQZEVLSzZOZU1tckZxd2QyOU9vYmRuWGhXeDIzVDhkQ1RaUF96T1hRZkg1SVRHWHAxcGVMTWxmMXBsSjVONURWaEFhMWp2dWdKM0piSGtyWVF1bkJ0YWFxWQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1787532540,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1787538058,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Asian markets were flat ahead of potential Iran sanctions news and Nvidia's quarterly results. The news of impending sanctions has created uncertainty in global markets, but its direct impact on Asian markets is limited. Nvidia's quarterly results are also anticipated, and the company's performance will be closely watched for any signs of growth in the tech sector. The company's success in the gaming and AI markets will be particularly important for investors.",
-      "impact": "The potential sanctions on Iran may have a short-term impact on oil prices and global trade, which could affect the overall market sentiment. However, the direct impact on Asian markets is limited. Nvidia's quarterly results will be closely watched for any signs of growth in the tech sector, particularly in the gaming and AI markets. A strong performance from Nvidia could boost sentiment in the tech sector and drive up the company's stock price.",
-      "risks": [
-        "geopolitical risk",
-        "market volatility risk",
-        "earnings miss risk"
       ]
     }
   },
@@ -959,8 +1047,8 @@
   },
   {
     "id": "8392449",
-    "headline": "Mediator Pakistan to hold talks in Iran on US 'economic D-Day' - Reuters",
-    "summary": "Mediator Pakistan to hold talks in Iran on US 'economic D-Day'  Reuters",
+    "headline": "US expected to broaden secondary sanctions to isolate Iran on 'economic D-Day' - Reuters",
+    "summary": "US expected to broaden secondary sanctions to isolate Iran on 'economic D-Day'  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVR6WDVGa1pXVWw0aFNTbHNTcjZjeEZpS2dUYjZKdjlCcHB2VElmTFU2Vl90RTNPbWg2akxvdF8xcUV2S01JR1N3M0c2T1ZmeHM5V3BrUExMbE16dWRHSWw0QlBoYmFMVUxXUlNzT2lMYXJYNVZ0a1JHUW0xRjc3c1JOVWJlTGxSMGFiLXFVTUgtbWstY1ZHTm02a2N4UklmX0pyaG9uVlFDMVU?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -22658,98 +22746,6 @@
         "Rising crude prices and inflation risk",
         "Decrease in consumer spending risk",
         "Negative impact on foreign exchange reserves risk"
-      ]
-    }
-  },
-  {
-    "id": "8283439",
-    "headline": "QatarEnergy-controlled LNG tanker exits Hormuz, first in nearly three weeks - Reuters",
-    "summary": "QatarEnergy-controlled LNG tanker exits Hormuz, first in nearly three weeks  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX1Q3eDhzdHJoSFI2eU82OUU0Rk5ldHpVRy1pQWFMWmZwT3FQb2xJTlA2emJvNXUycE1rZmtHU0paeVFFaW5NTlJmVlF6enhKcEpaQXJrbE83aW53RXlneU1XVzRCUHNoNG9jUEozcEZBSWdHdFgtWkZIekhjZXJaRmE0MEIwbERianVKMmlJdmRZWjdiYjloM25oTENZZVFxTmxUbF9RRlo3QzJBYWxtYndmNjBPdE83b3lPeTlUV1ZaakE?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1785405806,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1785406033,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "A QatarEnergy-controlled LNG tanker has exited the Hormuz Strait after nearly three weeks, marking a positive development for the global LNG market. The Hormuz Strait is a critical shipping lane for LNG tankers, and disruptions to this route can significantly impact global energy supplies. The news suggests that the situation in the region is stabilizing, which could lead to increased confidence in the global LNG market. This, in turn, could boost the earnings outlook for companies involved in the LNG industry, such as LNG producers and shipping companies. The news is a positive sign for the global energy market, which has been facing supply chain disruptions and volatility in recent months.",
-      "impact": "The news could lead to a short-term increase in the stock prices of LNG producers and shipping companies, as investors become more optimistic about the global LNG market. The medium-term impact could be a boost to earnings for companies involved in the LNG industry, as the stabilization of the Hormuz Strait reduces the risk of supply chain disruptions. This could also lead to an increase in investor sentiment and liquidity for these stocks, making them more attractive to investors.",
-      "risks": [
-        "Potential for further disruptions in the Hormuz Strait or other critical shipping lanes",
-        "Uncertainty around global energy demand and prices",
-        "Geopolitical tensions in the region could escalate and impact the LNG market"
-      ]
-    }
-  },
-  {
-    "id": "8289863",
-    "headline": "PODCAST: US renews Iran strikes, Fed, Telegram and cyclosporiasis - Reuters",
-    "summary": "PODCAST: US renews Iran strikes, Fed, Telegram and cyclosporiasis  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSnhFcGptOW1xTHpWT0FMOUJrSFRaazU0b21mdThMcjY4ekVOMF9aYzFLYVJGVVc3OHRtMERjbGpWYmlTTWRsWWpNbnlBSFdmR0RxczFpbkItcnNtVVM4UTdoUUpQRXJ2ZHhiYmdBU2FxTUJaRVBpUnJzbG5sMDJxY1RXY0hVYzBoemlCZ0NweC1Md0trb0xkVVJkVQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1785404880,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1786144869,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The US has renewed its military strikes against Iran, which may lead to increased tensions in the Middle East. This development is separate from the Federal Reserve's interest rate decision, which is expected to be announced soon. Additionally, a new case of cyclosporiasis has been reported in the US, which may impact the food industry. The news is largely unrelated to the stocks in the current market, but the increased tensions in the Middle East may have a negative impact on oil prices and related stocks. The Federal Reserve's decision may also have a significant impact on the market, particularly on interest rate-sensitive stocks.",
-      "impact": "The renewed US military strikes against Iran may lead to increased volatility in the oil market, potentially benefiting oil producers such as ExxonMobil (XOM) and Chevron (CVX). The Federal Reserve's interest rate decision may impact interest rate-sensitive stocks such as banks, including JPMorgan Chase (JPM) and Bank of America (BAC). The cyclosporiasis outbreak may lead to increased food safety concerns, potentially benefiting companies that provide food safety solutions, such as 3M (MMM).",
-      "risks": [
-        "Increased tensions in the Middle East leading to a spike in oil prices",
-        "Interest rate hike by the Federal Reserve negatively impacting interest rate-sensitive stocks",
-        "Negative impact on the food industry due to the cyclosporiasis outbreak"
-      ]
-    }
-  },
-  {
-    "id": "8283329",
-    "headline": "Treasury sell-off continues after divided Fed holds interest rates steady",
-    "summary": "U.S. Treasury yields continued their upward climb on Thursday as investors weighed the Federal Reserve's decision to hold interest rates steady.",
-    "url": "https://www.cnbc.com/2026/07/30/us-treasury-yields-divided-fed-interest-rates-hold-steady-.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108341983-1785352838443-gettyimages-2287527416-WARSH_FOMC_NYSE.jpeg?v=1785352925&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1785394566,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1785396037,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The Federal Reserve's decision to hold interest rates steady has led to a continued Treasury sell-off, with yields rising across the board. The 30-year Treasury bond has risen to its highest level since 2007, with the 10-year and 2-year Treasury yields also increasing. This move suggests that investors are pricing in a potential future rate hike, despite the Fed's current stance. The market is also awaiting key economic data releases, including jobless claims and personal consumption expenditures price index, which could provide further insight into the economy's trajectory.",
-      "impact": "The Treasury sell-off is likely to have a negative impact on the bond market, potentially leading to a decrease in bond prices and an increase in yields. This could have a negative impact on the earnings outlook for companies with high debt levels or those that rely heavily on borrowing. The rising yields may also make the housing market conditions even more challenging, which could negatively impact companies in the real estate sector. Additionally, the uncertainty surrounding future monetary policy decisions may lead to increased volatility in the markets, making it more challenging for investors to make informed decisions.",
-      "risks": [
-        "Increased borrowing costs for companies with high debt levels",
-        "Weakening housing market conditions",
-        "Uncertainty surrounding future monetary policy decisions"
-      ]
-    }
-  },
-  {
-    "id": "8285495",
-    "headline": "Britain's BAE Systems lifts 2026 outlook as defence orders soar - reuters.com",
-    "summary": "Britain's BAE Systems lifts 2026 outlook as defence orders soar  reuters.com",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZDlGSFdQdVJaNkpjNjc3Tmp0V2dnaXRSWmxvQVZiN2xlaTI2VUZobjhTTENBRjJxNUppSE9iek5qNFN3MUtpZEVHZndBZlRSSWFlLWwtbVF4Z19LUm83UHVfSXg1Z3EyMFVNMkFCZDU3T040X1ljR29SeUcwbm83Y3h3REo2Q2JOQnpQNFRmVTJqS2xHYWcxTHNTOHNaQVRtM0lJZnZTa1RZcHpvVXFnMG4yZEU5WUE?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1785392040,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1785448254,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "BAE Systems has upgraded its 2026 outlook due to a surge in defence orders. The company's revenue growth is expected to accelerate as it wins more contracts in the defence sector. This news is a positive indicator for the company's financial performance and its ability to execute on its business strategy. The defence sector has been experiencing growth due to increased global tensions and military spending. BAE Systems' strong order book and revenue growth prospects make it an attractive investment opportunity.",
-      "impact": "The news is likely to have a positive impact on BAE Systems' stock price in the short-term, driven by the upgraded earnings outlook and increasing revenue growth prospects. This could lead to a re-rating of the stock by investors, potentially pushing the price higher. In the medium-term, the company's ability to execute on its defence contracts and deliver on its revenue growth targets will be crucial in sustaining the upward trend. The increased defence spending and global tensions provide a supportive macro environment for the company's business.",
-      "risks": [
-        "execution risk",
-        "geopolitical uncertainty risk",
-        "industry cyclicality risk"
       ]
     }
   }
