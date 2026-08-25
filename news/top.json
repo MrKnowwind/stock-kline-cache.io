@@ -1,24 +1,66 @@
 [
   {
-    "id": "8398576",
-    "headline": "Oil falls 4% as investors shrug off US sanctions on Iran - Reuters",
-    "summary": "Oil falls 4% as investors shrug off US sanctions on Iran  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeWVpMEdoenRuUHdzUlpxOG1xdVdSMTItdmhxNk5MUGc3YmdGLXl0S2EwYkNYVDV6LUJtaE96QkVuUFhqQzdORlVFdmRJTDRFaTVtSlNTZlh6OE9rQ0ZqdzJOWmQzbjVtWHJxZjFZNmo0VVlzRDRnYzJ1UklrQ0lNOHNCZWdZRVgtdXFZVnZGNXdlQVd2TlN0UjFhS2NNYjByTHBnZTY1NVpXNExJeGdObFllQ2lSYjNzRGw3aGh1ZFBuNmFnaUE?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "id": "8402417",
+    "headline": "Bond rout ending? Massive bets on bond rally dominate options market",
+    "summary": "There's an old Wall Street adage: Stocks float on a sea of bonds. Options traders are betting the tide is going out.",
+    "url": "https://www.cnbc.com/2026/08/25/bond-rout-ending-massive-bets-on-bond-rally-dominate-options-market-.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108353950-1787671978490-Traders-20260825-AS-PRESS-1.jpg?v=1787672206&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1787681902,
+    "publishedAt": 1787686937,
     "analysis": {
       "version": 2,
-      "generatedAt": 1787625928,
+      "generatedAt": 1787688144,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Options traders are betting on a potential bond rally, with a significant increase in bullish calls on the iShares 20+Year Treasury Bond ETF (TLT). This is a bullish sign for equity investors, as lower rates for long-end treasuries would be a welcome development. The recent rise in yields has been a major concern for bond investors, but the buying of bullish calls suggests a potential reversal in the bond market. This could be driven by the upcoming Fed's preferred gauge of inflation, PCE, and other economic data releases this week.",
+      "impact": "The potential bond rally could have a positive impact on the overall market, particularly for equity investors who have been concerned about rising rates. A decline in bond yields could lead to a decrease in borrowing costs for companies, potentially boosting their earnings outlook and stock prices. This could also lead to a rotation out of bonds and into stocks, increasing liquidity and driving up stock prices.",
+      "risks": [
+        "Inflation concerns could lead to a reversal in the bond market, potentially negating the bullish bets.",
+        "The Fed's actions and economic data releases this week could have a significant impact on the bond market and the overall market.",
+        "A decline in bond yields could lead to a decrease in interest rates, potentially affecting the profitability of banks and other financial institutions."
+      ]
+    }
+  },
+  {
+    "id": "8402208",
+    "headline": "OpenAI says its Broadcom custom chip is a winner. What does that mean for Nvidia?",
+    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+    "url": "https://www.cnbc.com/2026/08/25/openai-says-its-broadcom-chip-is-a-big-advance-what-about-nvidia.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/107337809-1700657784105-gettyimages-1258550475-SKOREA_OPENAI.jpeg?v=1726149889&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1787684515,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787688191,
       "sentiment": "neutral",
       "confidence": 0.7,
-      "summary": "Oil prices have stabilized as investors weigh the impact of expanded US sanctions against Iran. The sanctions aim to limit Iran's oil exports, which could lead to a reduction in global oil supply. This, in turn, could drive up oil prices. However, the impact of the sanctions is still uncertain, and some analysts believe that other oil-producing countries may increase their production to compensate for the loss of Iranian oil.",
-      "impact": "The news is likely to have a mixed impact on oil-related stocks. In the short term, a potential increase in oil prices could boost the earnings of oil producers and refiners. However, the uncertainty surrounding the sanctions and their impact on global oil supply could lead to volatility in the oil market, making it challenging for investors to make informed decisions. In the medium term, the sanctions could lead to a shift in the global oil market, with other countries increasing their production to meet the demand, which could put pressure on oil prices and negatively impact the earnings of oil producers.",
+      "summary": "OpenAI announced its custom chip, Jalapeño, has shown significant performance advances in processing AI workloads, validated by SemiAnalysis. This chip was developed in partnership with Broadcom. The news is seen as a positive for Broadcom's AI revenue outlook, but doesn't change the analyst's view on the company's data center construction concerns. Nvidia is not directly impacted by this news, as it still plans to provide credit support for OpenAI's data center project and expects to widely deploy its accelerators with OpenAI.",
+      "impact": "The news is neutral for Broadcom, as it adds credibility to its AI revenue outlook, but doesn't alleviate concerns about data center construction. Nvidia's earnings call on Wednesday may see questions about competition from custom-designed chips, but the company's partnership with OpenAI remains intact. The development of custom chips like Jalapeño may lead to increased competition in the AI hardware market, potentially affecting Nvidia's market share in the long term.",
+      "risks": []
+    }
+  },
+  {
+    "id": "8402207",
+    "headline": "Are you richer than you think? How to find out—and what experts say to do if you are",
+    "summary": "States are holding billions of dollars in unclaimed property, and some of it may be yours.",
+    "url": "https://www.cnbc.com/2026/08/25/how-to-find-missing-money-and-what-to-do-if-you-get-it.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108330224-1783022123157-gettyimages-2271443231-_32a0224copy.jpeg?v=1787678965&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1787684402,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787688238,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The article discusses the phenomenon of unclaimed property in the US, with $70 billion worth of assets, including uncashed paychecks, forgotten rebates, and inactive brokerage accounts, awaiting their rightful owners. Americans can search for unclaimed property on the MissingMoney.com website, which aggregates data from nearly every state. This news has no direct impact on the stock market, but it may influence individual investors' financial planning and behavior.",
+      "impact": "The news may lead to a short-term increase in searches and claims for unclaimed property, potentially boosting the financial services sector, particularly companies that offer financial planning and wealth management services. However, the overall impact on the stock market is likely to be minimal, as the news does not affect earnings outlook, valuation, or liquidity of specific stocks.",
       "risks": [
-        "Uncertainty surrounding the effectiveness of the sanctions",
-        "Potential increase in oil prices leading to higher production costs",
-        "Volatility in the oil market due to the sanctions"
+        "over-reliance on unclaimed property for financial planning",
+        "temptation to misuse windfalls",
+        "uncertainty in the effectiveness of MissingMoney.com in identifying and returning unclaimed property"
       ]
     }
   },
@@ -46,6 +88,29 @@
     }
   },
   {
+    "id": "8402210",
+    "headline": "US spy chief visits Russia for meetings, media reports - Reuters",
+    "summary": "US spy chief visits Russia for meetings, media reports  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVjQyS1RmdG5WZnRTRFNaQ0o2WXM0MVY4VHdvZzQwZTZjS1hVX2ZTdC1ORzh5U2pfTEZQeG5mWF93aGZsNGxOcXluSGtBRnhiYnNGRXNGaVE1cWhMbmprTXk1ODQxQjFWMlM0czJFa3pqWjhZZVh3bXlBMVVGVTRpTFlBRHQxcGpmOXIyRXN3Tjc1VVFUUVE?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1787675867,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787688288,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "US spy chief William Burns visited Russia for meetings, sparking media reports. The visit is seen as a significant development in the ongoing diplomatic efforts between the two nations. The meetings are believed to be focused on discussing various issues, including security and trade. The visit is a step towards improving relations between the US and Russia, which have been strained in recent years. The development may have implications for the global economy and international relations.",
+      "impact": "The news is unlikely to have a direct impact on the US or Russian stock markets in the short term. However, it may lead to a shift in investor sentiment, potentially benefiting sectors related to defense, security, and trade. In the medium term, improved relations between the two nations could lead to increased trade and investment, benefiting companies operating in these sectors. This could also lead to a positive impact on the global economy, potentially benefiting companies with exposure to emerging markets.",
+      "risks": [
+        "geopolitical tensions may escalate",
+        "sanctions and trade restrictions",
+        "shift in investor sentiment may be short-lived"
+      ]
+    }
+  },
+  {
     "id": "8401445",
     "headline": "We're trimming our position in an AI stock to protect our profits",
     "summary": "This is our second sale in as many days to reduce our exposure to the theme.",
@@ -62,6 +127,29 @@
       "summary": "Jim Cramer's Charitable Trust is trimming its position in Corning (GLW) to protect profits, citing a shift in stance by governors of Texas and Pennsylvania against data center developers. This change in regulatory environment is expected to create a speed bump for the data center buildout. The trust had previously accumulated significant gains in AI-related stocks, including GLW and Broadcom (AVGO). The sale of Corning shares is part of a broader strategy to lock in profits and reduce exposure to the theme.",
       "impact": "The sale of Corning shares is likely to have a negative impact on the stock price in the short term, as it reduces the trust's exposure to the AI infrastructure theme. The shift in regulatory environment in Texas and Pennsylvania may also lead to a slowdown in data center buildout, which could negatively affect companies like Corning and other AI infrastructure players. This could lead to a decline in earnings and valuation for these companies, making them less attractive to investors.",
       "risks": []
+    }
+  },
+  {
+    "id": "8402209",
+    "headline": "Iraq may show how U.S. can squeeze Iran's trade partners - Reuters",
+    "summary": "Iraq may show how U.S. can squeeze Iran's trade partners  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaHZhOEZodlIwT1prS0U3TnlSaVdzcnJwMkcwOElIUXBfOVB6aWljYllncXJCMDhiQlhxRDRCX3pOblVnNWp1Ny1qRTlWZHBzZ3NLNnBzWTVRSnZjamdWTWdONkJ0TFRHZTA2Qmtpaks1N3gtcDhKTzFEYi0wdkFZOFNYVVFCNWtZZWZPd0ZYWFN4OUJFQWFZWVhiR0Y4SVBIcUxudTB6M2JSRVU?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1787671274,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787688337,
+      "sentiment": "bullish",
+      "confidence": 0.7,
+      "summary": "Iraq's potential to squeeze Iran's trade partners may provide a model for the US to follow, potentially limiting Iran's access to international trade. The US has been imposing sanctions on Iran, and Iraq's actions could help amplify these effects. Iraq's decision to reduce oil imports from Iran and increase imports from other countries may signal a shift in trade dynamics. This development could have implications for global oil markets and the economies of countries involved.",
+      "impact": "The potential for the US to squeeze Iran's trade partners may have a positive impact on the stock prices of companies that have exposure to the region, particularly those with significant operations in Iraq. This could lead to an increase in earnings for these companies due to the shift in trade dynamics. The medium-term impact may also be seen in the oil market, with prices potentially increasing due to reduced Iranian oil exports. However, the short-term impact may be uncertain due to the complexity of the situation and the potential for retaliation from Iran.",
+      "risks": [
+        "Iranian retaliation risk",
+        "Global oil market volatility risk",
+        "Economic instability risk in the Middle East"
+      ]
     }
   },
   {
@@ -226,6 +314,29 @@
     }
   },
   {
+    "id": "8399824",
+    "headline": "Bessent's D-Day sanctions are more Anzio, but Iran response is key - Reuters",
+    "summary": "Bessent's D-Day sanctions are more Anzio, but Iran response is key  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMkhfQWZkQ3NjME44ZDJlVHBscXZyUVJFclJBN0Vha2M2Tk9HNjA3R3IwUDhfZUJRcWVKV2ZFZDQzbWpmalNENWZMZFNOZUZfbHNIbktZVmxaelAxMmhvT083NjM4eHhhblJqSU1HQ1JyU2Q1YW9UdkdSZlUzMFAxTDZaa3BzeUUxMjVzTEdZbFA2X0Q5NmFrTEhGMU5HSXNlTU45Rkdoa09jNVdsbGdiQ3hESGJyQVFRdkdNU0dJei1KT21vN2ZlQw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1787659240,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787649667,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The article discusses the recent sanctions imposed by Bessent on Iran, which are seen as a more limited version of the 'Anzio' sanctions. The Anzio sanctions were a failed Allied invasion of Italy during World War II, implying that Bessent's sanctions may not be as effective. The article highlights the importance of Iran's response to these sanctions, as it could determine their overall impact. The sanctions are a response to Iran's nuclear program, and the article notes that the US has been trying to isolate Iran economically. The sanctions are seen as a way to pressure Iran to renegotiate its nuclear deal.",
+      "impact": "The sanctions are likely to have a neutral to slightly negative impact on the global energy market, as they may limit Iran's oil exports. However, the medium-term impact will depend on Iran's response and the effectiveness of the sanctions. If Iran responds aggressively, the sanctions could lead to a short-term increase in oil prices, benefiting oil-producing companies. On the other hand, if Iran complies with the sanctions, the impact on the energy market could be limited.",
+      "risks": [
+        "Iran's response risk",
+        "sanctions effectiveness risk",
+        "global economic instability risk"
+      ]
+    }
+  },
+  {
     "id": "8402000",
     "headline": "Breakingviews - US ‘D-Day’ on Iran barely makes it off the beach - Reuters",
     "summary": "Breakingviews - US ‘D-Day’ on Iran barely makes it off the beach  Reuters",
@@ -383,29 +494,6 @@
     }
   },
   {
-    "id": "8399823",
-    "headline": "United States sanctions oil trader Wellbred over Iran links - Reuters",
-    "summary": "United States sanctions oil trader Wellbred over Iran links  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObkRVSUpZLWl2T2ZNc1FtamVfUzBiRm5lZW43SHdvMHZFbVc0blFJMnFVaDVUM29rcTRURFF2X3R4NE5GYnlxWnNNYS1hS3hGS2RzZUY3MDVqVFFiSkJrRHVkNkpvWjkzOWlRbjllQ2JzYXFabDdYVUtfUURHbHBYb3NPcjFtWUhxMS16ZFppTUN3Q3J3VUdQU1ZoSHhZSk11cmJiV3VULVk3VVBWTzQxdw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1787648121,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1787649619,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The US has imposed sanctions on oil trader Wellbred due to its alleged links to Iran. This move is a result of the ongoing tensions between the US and Iran. The sanctions will likely impact Wellbred's operations and potentially disrupt global oil trade. Wellbred's clients and partners may face difficulties in doing business with the company. The US has been increasing its pressure on Iran, and this move is part of its efforts to limit Iran's access to the global oil market.",
-      "impact": "The sanctions on Wellbred are likely to have a negative impact on oil prices in the short term, as the disruption to global oil trade may lead to supply chain disruptions and increased volatility. The medium-term impact will depend on how Wellbred adapts to the sanctions and whether it can find alternative routes to operate. Companies with significant exposure to the oil industry, such as oil majors and oil services providers, may see their earnings outlook deteriorate as a result of the sanctions. The sanctions may also lead to increased uncertainty and volatility in the oil market, making it more challenging for investors to make informed decisions.",
-      "risks": [
-        "Increased volatility in oil prices",
-        "Disruption to global oil trade",
-        "Negative impact on oil majors and oil services providers"
-      ]
-    }
-  },
-  {
     "id": "8399817",
     "headline": "Treasury yields steady as traders await more economic data",
     "summary": "Treasury yields steadied on Tuesday as investors await more data releases for insights into the U.S. economic picture.",
@@ -436,7 +524,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1787629140,
+    "publishedAt": 1787632168,
     "analysis": {
       "version": 2,
       "generatedAt": 1787646267,
@@ -452,25 +540,25 @@
     }
   },
   {
-    "id": "8399824",
-    "headline": "Bessent's D-Day sanctions are more Anzio, but Iran response is key - Reuters",
-    "summary": "Bessent's D-Day sanctions are more Anzio, but Iran response is key  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMkhfQWZkQ3NjME44ZDJlVHBscXZyUVJFclJBN0Vha2M2Tk9HNjA3R3IwUDhfZUJRcWVKV2ZFZDQzbWpmalNENWZMZFNOZUZfbHNIbktZVmxaelAxMmhvT083NjM4eHhhblJqSU1HQ1JyU2Q1YW9UdkdSZlUzMFAxTDZaa3BzeUUxMjVzTEdZbFA2X0Q5NmFrTEhGMU5HSXNlTU45Rkdoa09jNVdsbGdiQ3hESGJyQVFRdkdNU0dJei1KT21vN2ZlQw?oc=5",
+    "id": "8399823",
+    "headline": "United States sanctions oil trader Wellbred over Iran links - Reuters",
+    "summary": "United States sanctions oil trader Wellbred over Iran links  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObkRVSUpZLWl2T2ZNc1FtamVfUzBiRm5lZW43SHdvMHZFbVc0blFJMnFVaDVUM29rcTRURFF2X3R4NE5GYnlxWnNNYS1hS3hGS2RzZUY3MDVqVFFiSkJrRHVkNkpvWjkzOWlRbjllQ2JzYXFabDdYVUtfUURHbHBYb3NPcjFtWUhxMS16ZFppTUN3Q3J3VUdQU1ZoSHhZSk11cmJiV3VULVk3VVBWTzQxdw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1787627988,
+    "publishedAt": 1787629200,
     "analysis": {
       "version": 2,
-      "generatedAt": 1787649667,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The article discusses the recent sanctions imposed by Bessent on Iran, which are seen as a more limited version of the 'Anzio' sanctions. The Anzio sanctions were a failed Allied invasion of Italy during World War II, implying that Bessent's sanctions may not be as effective. The article highlights the importance of Iran's response to these sanctions, as it could determine their overall impact. The sanctions are a response to Iran's nuclear program, and the article notes that the US has been trying to isolate Iran economically. The sanctions are seen as a way to pressure Iran to renegotiate its nuclear deal.",
-      "impact": "The sanctions are likely to have a neutral to slightly negative impact on the global energy market, as they may limit Iran's oil exports. However, the medium-term impact will depend on Iran's response and the effectiveness of the sanctions. If Iran responds aggressively, the sanctions could lead to a short-term increase in oil prices, benefiting oil-producing companies. On the other hand, if Iran complies with the sanctions, the impact on the energy market could be limited.",
+      "generatedAt": 1787649619,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The US has imposed sanctions on oil trader Wellbred due to its alleged links to Iran. This move is a result of the ongoing tensions between the US and Iran. The sanctions will likely impact Wellbred's operations and potentially disrupt global oil trade. Wellbred's clients and partners may face difficulties in doing business with the company. The US has been increasing its pressure on Iran, and this move is part of its efforts to limit Iran's access to the global oil market.",
+      "impact": "The sanctions on Wellbred are likely to have a negative impact on oil prices in the short term, as the disruption to global oil trade may lead to supply chain disruptions and increased volatility. The medium-term impact will depend on how Wellbred adapts to the sanctions and whether it can find alternative routes to operate. Companies with significant exposure to the oil industry, such as oil majors and oil services providers, may see their earnings outlook deteriorate as a result of the sanctions. The sanctions may also lead to increased uncertainty and volatility in the oil market, making it more challenging for investors to make informed decisions.",
       "risks": [
-        "Iran's response risk",
-        "sanctions effectiveness risk",
-        "global economic instability risk"
+        "Increased volatility in oil prices",
+        "Disruption to global oil trade",
+        "Negative impact on oil majors and oil services providers"
       ]
     }
   },
@@ -564,6 +652,29 @@
         "inflation risk",
         "valuation risk",
         "liquidity risk"
+      ]
+    }
+  },
+  {
+    "id": "8398576",
+    "headline": "Oil settles down more than 3%; investors shrug off US sanctions on Iran - Reuters",
+    "summary": "Oil settles down more than 3%; investors shrug off US sanctions on Iran  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeWVpMEdoenRuUHdzUlpxOG1xdVdSMTItdmhxNk5MUGc3YmdGLXl0S2EwYkNYVDV6LUJtaE96QkVuUFhqQzdORlVFdmRJTDRFaTVtSlNTZlh6OE9rQ0ZqdzJOWmQzbjVtWHJxZjFZNmo0VVlzRDRnYzJ1UklrQ0lNOHNCZWdZRVgtdXFZVnZGNXdlQVd2TlN0UjFhS2NNYjByTHBnZTY1NVpXNExJeGdObFllQ2lSYjNzRGw3aGh1ZFBuNmFnaUE?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1787620560,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787625928,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "Oil prices have stabilized as investors weigh the impact of expanded US sanctions against Iran. The sanctions aim to limit Iran's oil exports, which could lead to a reduction in global oil supply. This, in turn, could drive up oil prices. However, the impact of the sanctions is still uncertain, and some analysts believe that other oil-producing countries may increase their production to compensate for the loss of Iranian oil.",
+      "impact": "The news is likely to have a mixed impact on oil-related stocks. In the short term, a potential increase in oil prices could boost the earnings of oil producers and refiners. However, the uncertainty surrounding the sanctions and their impact on global oil supply could lead to volatility in the oil market, making it challenging for investors to make informed decisions. In the medium term, the sanctions could lead to a shift in the global oil market, with other countries increasing their production to meet the demand, which could put pressure on oil prices and negatively impact the earnings of oil producers.",
+      "risks": [
+        "Uncertainty surrounding the effectiveness of the sanctions",
+        "Potential increase in oil prices leading to higher production costs",
+        "Volatility in the oil market due to the sanctions"
       ]
     }
   },
@@ -909,6 +1020,29 @@
         "regulatory risk due to growing political pushback against data centers",
         "valuation risk as AI stocks experience a sell-off",
         "sentiment risk as investors become increasingly bearish on the sector"
+      ]
+    }
+  },
+  {
+    "id": "8394597",
+    "headline": "US cancels joint marine drills with South Korea over Iran war-related force constraints - Reuters",
+    "summary": "US cancels joint marine drills with South Korea over Iran war-related force constraints  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd3JEYi12MkZSRkRCaEIwR2FaNjhzSUZueTgwQzhWSHlhSnpWRVU3ZkdrMXdrUTMxMjVmdi1NLVBleGFDTXFRRDFVWVA5RUdVV1Y0dXlUWlJTcmJ2eHZuYTR4Nkh1T3k3cXplTmc4MVJUSGl2bGpWMllzRnBMaV9oMXR3T0RGd2dRR0NWaEkyYUpXX0tBUnBTcVAwVlVQQjBvOURvN3RpOVo1b2RRVEFZSFR2dVRlSm9GZTNBUmttWUhibWl5X2JPc1FB?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1787596362,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787557526,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The US has canceled joint marine drills with South Korea due to force constraints related to the Iran conflict. This decision is likely a result of the US military's redeployment of troops and resources to the Middle East. The US and South Korea have been conducting joint military exercises since 1999 to maintain regional security and deter North Korean aggression. The cancellation of these drills may indicate a shift in the US military's priorities, potentially impacting the defense industry and related stocks.",
+      "impact": "The cancellation of joint marine drills with South Korea may lead to a short-term decrease in demand for defense-related stocks, as the US military's redeployment of troops and resources to the Middle East may reduce the need for military equipment and services. However, this impact may be offset by the potential for increased defense spending in the long term, as the US may need to bolster its military presence in the region. The medium-term impact on the defense industry and related stocks will depend on the duration and scope of the conflict in the Middle East.",
+      "risks": [
+        "Decreased demand for defense-related stocks in the short term",
+        "Increased defense spending in the long term",
+        "Uncertainty around the duration and scope of the conflict in the Middle East"
       ]
     }
   },
@@ -1856,7 +1990,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1787552255,
+    "publishedAt": 1787551200,
     "analysis": {
       "version": 2,
       "generatedAt": 1787626121,
@@ -1868,29 +2002,6 @@
         "Decline in refining margins and revenue",
         "Increased costs and debt servicing burden",
         "Potential decline in investor sentiment and stock prices"
-      ]
-    }
-  },
-  {
-    "id": "8394597",
-    "headline": "US cancels joint marine drills with South Korea over Iran war-related force constraints - Reuters",
-    "summary": "US cancels joint marine drills with South Korea over Iran war-related force constraints  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd3JEYi12MkZSRkRCaEIwR2FaNjhzSUZueTgwQzhWSHlhSnpWRVU3ZkdrMXdrUTMxMjVmdi1NLVBleGFDTXFRRDFVWVA5RUdVV1Y0dXlUWlJTcmJ2eHZuYTR4Nkh1T3k3cXplTmc4MVJUSGl2bGpWMllzRnBMaV9oMXR3T0RGd2dRR0NWaEkyYUpXX0tBUnBTcVAwVlVQQjBvOURvN3RpOVo1b2RRVEFZSFR2dVRlSm9GZTNBUmttWUhibWl5X2JPc1FB?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1787550720,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1787557526,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The US has canceled joint marine drills with South Korea due to force constraints related to the Iran conflict. This decision is likely a result of the US military's redeployment of troops and resources to the Middle East. The US and South Korea have been conducting joint military exercises since 1999 to maintain regional security and deter North Korean aggression. The cancellation of these drills may indicate a shift in the US military's priorities, potentially impacting the defense industry and related stocks.",
-      "impact": "The cancellation of joint marine drills with South Korea may lead to a short-term decrease in demand for defense-related stocks, as the US military's redeployment of troops and resources to the Middle East may reduce the need for military equipment and services. However, this impact may be offset by the potential for increased defense spending in the long term, as the US may need to bolster its military presence in the region. The medium-term impact on the defense industry and related stocks will depend on the duration and scope of the conflict in the Middle East.",
-      "risks": [
-        "Decreased demand for defense-related stocks in the short term",
-        "Increased defense spending in the long term",
-        "Uncertainty around the duration and scope of the conflict in the Middle East"
       ]
     }
   },
@@ -22643,121 +22754,6 @@
         "cybersecurity threat risk",
         "increased regulatory scrutiny risk",
         "macroeconomic uncertainty risk"
-      ]
-    }
-  },
-  {
-    "id": "8289958",
-    "headline": "Trump hails Gaza deal, while Hamas and Israeli officials see hurdles - Reuters",
-    "summary": "Trump hails Gaza deal, while Hamas and Israeli officials see hurdles  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNjNyWTNWX1YxTjU0OEJlQjZZRWxGa3dLSDlrTzRma0dNMzczQm1sNldhbVRsT0Q0OVc4OXpSeXMyYXNCM21EX1BhbVd3XzdCeXhFdUktZEVFZjgtYXhiS1pfWEFKS2htMktkZDdyQTBmOGlmOFc0enhNNlFiRWdwVWJYUzBwdXZkTi0wTlRMNWh2d0VIS2tqaWo5WXNxcEl1VFdDRlN5VmdGaXFURG5ralM2RzNBLTFINFMzRzhNYjNWbnRVZTV4c0pzU0F1XzA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1785522909,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1785887137,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "US President Trump has expressed support for a new deal aimed at easing tensions in Gaza, but officials from Hamas and Israel have raised concerns about the agreement's feasibility. The deal is seen as a potential step towards a long-term peace agreement between the two parties. However, the complexities of the conflict and the lack of a clear framework for implementation have raised doubts about the deal's success. The situation remains uncertain, with both sides expressing cautious optimism.",
-      "impact": "The news is unlikely to have a significant impact on the stock market in the short term, as the deal's success is still uncertain and its implications for the broader economy are unclear. However, if the deal is successful, it could lead to increased investor confidence in the region, potentially benefiting companies operating in Israel and the Palestinian territories. This could be a positive for companies such as Teva Pharmaceutical Industries Ltd (TEVA) and Check Point Software Technologies Ltd (CHKP), which have significant operations in the region.",
-      "risks": [
-        "regional instability risk",
-        "deal implementation risk",
-        "valuation risk"
-      ]
-    }
-  },
-  {
-    "id": "8289692",
-    "headline": "Andy Jassy soothed concerns over Amazon's massive AI spending. Here's how he did it",
-    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-    "url": "https://www.cnbc.com/2026/07/31/andy-jassy-soothed-concerns-over-amazons-massive-ai-spending-heres-how-he-did-it-.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108217788-1761657947456-gettyimages-2201505685-ALEXA_AI_UNVEILING.jpeg?v=1770336524&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1785522860,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1785529048,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Amazon's CEO Andy Jassy provided reassurance on the company's massive AI spending by explaining the break-even point and cash flow generation from its investments. The company's AI buildout requires significant upfront cash outlays, but Jassy highlighted that it will generate strong free cash flow in the 2-3 years after breakeven. This gives management confidence in the returns on these investments. The comments reinforced that today's heavy capital investments are not a permanent drain on cash flow.",
-      "impact": "The news is positive for Amazon's stock and the broader AI infrastructure sector, as it alleviates concerns over the company's aggressive AI spending. This could lead to a short-term rally in Amazon's stock and potentially support the AI infrastructure sector, as investors become more comfortable with the company's investment strategy. The improved sentiment could also lead to a revaluation of Amazon's stock, potentially driving up its price in the medium term.",
-      "risks": [
-        "AI demand slowdown risk",
-        "Competition from other cloud infrastructure providers",
-        "Potential overvaluation of Amazon's stock"
-      ]
-    }
-  },
-  {
-    "id": "8289684",
-    "headline": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
-    "summary": "Fintech brokerage Clear Street is launching a private markets platform, beginning with Databricks stakes, to give investors more access to late-stage startups.",
-    "url": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108076709-1734395364002-gettyimages-2157160096-291247final.jpeg?v=1758752392&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1785522001,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1785524340,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Clear Street, a fintech brokerage, is launching a private markets platform that allows accredited investors to buy stakes in late-stage startups, starting with Databricks, a $188 billion AI giant. This move aims to give more people access to private markets, where wealth creation has been concentrated. The platform will offer margin loans against pre-IPO holdings, a rare feature in private markets. Clear Street is also launching private company equity research to bring transparency to traditionally opaque private markets.",
-      "impact": "The launch of Clear Street's private markets platform is likely to increase demand for Databricks' shares, potentially driving up its valuation and price. This, in turn, could positively impact the stock's earnings outlook and sentiment. Additionally, the platform's focus on late-stage startups with a valuation range of $5 billion to $20 billion may create a new investment opportunity for investors seeking exposure to high-growth companies. The increased liquidity and transparency provided by Clear Street's platform may also attract more investors to the private markets, potentially benefiting other late-stage startups in the same valuation range.",
-      "risks": [
-        "Regulatory risk: Clear Street's platform may face regulatory hurdles or scrutiny, which could impact its ability to operate.",
-        "Competition risk: The launch of Clear Street's platform may attract competition from other fintech firms, potentially fragmenting the market and reducing Clear Street's market share.",
-        "Valuation risk: The valuation of Databricks and other late-stage startups on Clear Street's platform may be subject to market volatility and fluctuations."
-      ]
-    }
-  },
-  {
-    "id": "8289683",
-    "headline": "The S&P 500 is stuck at a key battleground level. This obscure index could determine the market’s next move",
-    "summary": "Options traders and market makers in Chicago were quick to buy dips below 7,500 in the benchmark index Friday, but almost as quick to sell rallies above that level.",
-    "url": "https://www.cnbc.com/2026/07/31/the-sp-500-is-stuck-this-obscure-index-could-determine-the-markets-next-move.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108325892-1782269424077-gettyimages-2208582958-TRADERS_CBOE.jpeg?v=1782303324&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1785521256,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1785524387,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "The S&P 500 is stuck at a key technical level of 7,500, with options traders and market makers buying dips and selling rallies. This whipsaw action suggests a fragile market, with a popular volatility-based measure of market breadth leaning bearish. The combination of high open interest in both puts and calls at 750 and dealer hedging activity flipping 'negative gamma' at 745 indicates a potential breakdown below 7,450 could lead to a bigger downside move. A stark division within the stock market's constituents, particularly between AI tech stocks and underperforming sectors, has contributed to the market's seesaw action.",
-      "impact": "The potential breakdown below 7,450 could lead to a bigger downside move in the S&P 500, which could negatively impact stocks in the index, particularly those with high short-dated calls around the 7,520 strike. This could also lead to a decrease in investor sentiment, potentially affecting earnings outlook and valuation for companies in the index. The market's polarization and fragile state could result in increased volatility, making it challenging for investors to make informed decisions.",
-      "risks": [
-        "market volatility risk",
-        "sector rotation risk",
-        "earnings outlook uncertainty"
-      ]
-    }
-  },
-  {
-    "id": "8289677",
-    "headline": "‘Spider-Man: Brand New Day’ sets domestic box office preview record with $72 million",
-    "summary": "Sony and Marvel's \"Spider-Man: Brave New Day\" is expected to haul in around $270 million domestically over its debut weekend.",
-    "url": "https://www.cnbc.com/2026/07/31/spider-man-brand-new-day-box-office-preview-sales.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108343257-1785514864450-spidey_Cropped.png?v=1785514907&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1785520005,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1785524437,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Sony's 'Spider-Man: Brand New Day' has set a domestic box office preview record with $72 million in sales, surpassing the previous record held by 'Avengers: Endgame'. The film is expected to haul in around $270 million domestically over its debut weekend, potentially surpassing the previous Spidey flick 'Spider-Man: No Way Home'. This is a strong indicator of the film's massive enthusiasm among moviegoers and its potential to drive box office success. The film's success will likely provide a momentum boost to the domestic box office, which typically experiences a slowdown in August.",
-      "impact": "The success of 'Spider-Man: Brand New Day' is likely to have a positive impact on the box office performance of other films in the coming months. This could lead to increased investor confidence in the film industry, potentially driving up the stock prices of movie theater chains such as AMC, Regal, and Cinemark. Additionally, the film's success may also have a positive impact on the valuation of Sony's stock, as it demonstrates the company's ability to produce successful films and drive box office revenue.",
-      "risks": [
-        "Competition from other summer blockbusters",
-        "Potential decline in box office revenue in August",
-        "Uncertainty around the film's long-term profitability"
       ]
     }
   }
