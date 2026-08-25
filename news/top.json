@@ -1,5 +1,70 @@
 [
   {
+    "id": "8400566",
+    "headline": "OpenAI bans Russian ChatGPT accounts used in covert misinformation campaign",
+    "summary": "The AI company said the incident \"illustrates how influence actors can use AI as a supporting tool within a broader effort to manufacture authority.\"",
+    "url": "https://www.cnbc.com/2026/08/25/openai-russia-chatgpt-influence-campaign.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108320445-17811980572026-06-11t163738z_1389144593_rc2srlaoa7le_rtrmadp_0_openai-ai.jpeg?v=1781198085&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1787656869,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787659469,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "OpenAI has banned a cluster of ChatGPT accounts originating in Russia that were used to support a covert online influence campaign to spread misinformation. The campaign used AI-generated social media posts to promote a pro-Russia narrative and disguise the operators' Russian origins. The operation was discovered after investigating AI-generated social media posts, which led to a broader influence operation. This incident highlights the potential misuse of AI in spreading misinformation and manufacturing authority.",
+      "impact": "The news is unlikely to have a direct impact on the earnings outlook or valuation of OpenAI, as the company has already taken steps to prevent similar incidents. However, the incident may increase scrutiny on AI companies and their potential role in spreading misinformation, potentially leading to regulatory scrutiny or increased competition. In the short term, the news may lead to a slight increase in trading volume and volatility in AI-related stocks, but the medium-term impact is likely to be minimal.",
+      "risks": []
+    }
+  },
+  {
+    "id": "8399303",
+    "headline": "Six months into Iran war, almost half of global oil flows from war zones - Reuters",
+    "summary": "Six months into Iran war, almost half of global oil flows from war zones  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV0VHRE5tclJ6Z1NRR0l2S3JOMURfLUFMY2hVMkZOUTNSdWJsS2pXejZFbkFOX3YyVE9GTDdscFlpWUVMY3hBRExLS0dVUk1qWEFuZC0yb09zYW5UYVF2NVc0c2Y0OExPMWdXSHVsMzNLcy1sRmEwTW5ON3gxY0h1MXF2MGRtRExBTllHdnF5NncwTzNGXzh1QUtWMjg2MTBCWWFYZHczYWt1R2pKZzF4NFUzRkN1dw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1787656198,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787637878,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The ongoing Iran war has led to a significant increase in global oil flows from war zones, with almost half of global oil supplies coming from conflict-affected areas. This development is a result of supply chain disruptions and increased production in countries such as Iraq, Libya, and Nigeria. The increased oil production in these regions is likely driven by the need to replace lost production from Iran, which has been impacted by the war. This shift in global oil supply dynamics could have significant implications for the oil and gas industry, particularly for companies with exposure to these regions.",
+      "impact": "The increased oil production from war zones could lead to downward pressure on oil prices in the short-term, potentially impacting the earnings outlook of oil majors such as ExxonMobil (XOM) and Chevron (CVX). This could also lead to a decrease in the valuation of these companies, as lower oil prices reduce their revenue streams. Additionally, the increased uncertainty surrounding global oil supplies could lead to a decrease in investor sentiment and liquidity in the oil and gas sector.",
+      "risks": [
+        "downward pressure on oil prices",
+        "decrease in investor sentiment",
+        "reduced valuation of oil majors"
+      ]
+    }
+  },
+  {
+    "id": "8400453",
+    "headline": "United Airlines adds 2027 flights spanning Sardinia to Okinawa. Here's what it says about travel today",
+    "summary": "United is betting big on premium, international travel with a host of new routes.",
+    "url": "https://www.cnbc.com/2026/08/25/united-airlines-2027-international-routes.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108351507-1787145751977-gettyimages-2290225109-_mg_9951.jpeg?v=1787607602&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1787655601,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787659519,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "United Airlines is expanding its international routes, adding 10 new destinations in 2027, including Okinawa, Japan, and several European cities. This move is a continuation of the airline's strategy to capitalize on changing traveler tastes and grow profits. The new routes are expected to be profitable, with United noting that October has become one of its best months of the year. This expansion is also a reflection of the airline's efforts to become a 'one-stop shop' for customers at all stages of life. The airline has noticed a trend of customers taking open-jaw flights, and having multiple destinations in countries will cater to this demand.",
+      "impact": "The expansion of international routes is likely to have a positive impact on United Airlines' earnings outlook, potentially leading to increased revenue and profitability. The airline's valuation may also benefit from this move, as it continues to demonstrate its commitment to growth and expansion. The increased capacity and destinations may also attract more customers, leading to improved liquidity and sentiment for the stock.",
+      "risks": [
+        "Increased competition from other airlines on new routes",
+        "Potential disruptions due to global economic uncertainty",
+        "Risk of over-expansion and increased costs"
+      ]
+    }
+  },
+  {
     "id": "8400240",
     "headline": "US prepares to send diplomats back to Middle East embassies after Iran war evacuations, NYT reports - Reuters",
     "summary": "US prepares to send diplomats back to Middle East embassies after Iran war evacuations, NYT reports  Reuters",
@@ -7,7 +72,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1787651343,
+    "publishedAt": 1787655463,
     "analysis": {
       "version": 2,
       "generatedAt": 1787655941,
@@ -19,29 +84,6 @@
         "Potential for ongoing conflict and increased tensions with Iran",
         "Uncertainty around the durability of the de-escalation",
         "Impact on global oil prices and energy sector earnings"
-      ]
-    }
-  },
-  {
-    "id": "8398474",
-    "headline": "Iran vows to retaliate after US widens sanctions - Reuters",
-    "summary": "Iran vows to retaliate after US widens sanctions  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV2NneVkxY2I3clNhUzloallHZTVKV2h5N2wxbGNwWVZlNEZMRzBwRnJXRGdmYjdHOVl0ZFZHYk1fR08xQmY4VnhEZjAxRURrUHRrLWV2NmlsMndTQ3UzN1VyR3luekZMUmUtUE9ON0FnMGxiektWdG9RUlBJOXVFQjVoa3JnUFp2MGlmamJuTDJEZF81Rkp3NA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1787650404,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1787625974,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Iran has vowed to retaliate after the US widened sanctions, which could lead to increased tensions in the Middle East. The US has imposed additional sanctions on Iran, targeting its energy, finance, and transportation sectors. This move is likely a response to Iran's nuclear activities and regional influence. The escalation of tensions could disrupt global oil markets and impact companies operating in the region, such as energy majors and logistics providers.",
-      "impact": "The widening of sanctions and potential retaliation from Iran could lead to increased volatility in oil prices, negatively impacting energy companies with exposure to the Middle East. This could also lead to a slowdown in economic growth in the region, affecting companies with operations in Iran. The escalation of tensions could also impact global trade, particularly for companies with significant exposure to the Middle East or Iran.",
-      "risks": [
-        "Oil price volatility risk",
-        "Regional economic slowdown risk",
-        "Global trade disruption risk"
       ]
     }
   },
@@ -92,29 +134,6 @@
     }
   },
   {
-    "id": "8399303",
-    "headline": "Six months into Iran war, almost half of global oil flows from war zones - Reuters",
-    "summary": "Six months into Iran war, almost half of global oil flows from war zones  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV0VHRE5tclJ6Z1NRR0l2S3JOMURfLUFMY2hVMkZOUTNSdWJsS2pXejZFbkFOX3YyVE9GTDdscFlpWUVMY3hBRExLS0dVUk1qWEFuZC0yb09zYW5UYVF2NVc0c2Y0OExPMWdXSHVsMzNLcy1sRmEwTW5ON3gxY0h1MXF2MGRtRExBTllHdnF5NncwTzNGXzh1QUtWMjg2MTBCWWFYZHczYWt1R2pKZzF4NFUzRkN1dw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1787644252,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1787637878,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The ongoing Iran war has led to a significant increase in global oil flows from war zones, with almost half of global oil supplies coming from conflict-affected areas. This development is a result of supply chain disruptions and increased production in countries such as Iraq, Libya, and Nigeria. The increased oil production in these regions is likely driven by the need to replace lost production from Iran, which has been impacted by the war. This shift in global oil supply dynamics could have significant implications for the oil and gas industry, particularly for companies with exposure to these regions.",
-      "impact": "The increased oil production from war zones could lead to downward pressure on oil prices in the short-term, potentially impacting the earnings outlook of oil majors such as ExxonMobil (XOM) and Chevron (CVX). This could also lead to a decrease in the valuation of these companies, as lower oil prices reduce their revenue streams. Additionally, the increased uncertainty surrounding global oil supplies could lead to a decrease in investor sentiment and liquidity in the oil and gas sector.",
-      "risks": [
-        "downward pressure on oil prices",
-        "decrease in investor sentiment",
-        "reduced valuation of oil majors"
-      ]
-    }
-  },
-  {
     "id": "8399817",
     "headline": "Treasury yields steady as traders await more economic data",
     "summary": "Treasury yields steadied on Tuesday as investors await more data releases for insights into the U.S. economic picture.",
@@ -157,29 +176,6 @@
         "geopolitical tensions in the region may escalate and impact trade and economic growth",
         "defense spending may not translate to increased demand for specific companies",
         "sanctions relief may be short-lived if tensions with the US or other countries escalate"
-      ]
-    }
-  },
-  {
-    "id": "8399824",
-    "headline": "Bessent's D-Day sanctions are more Anzio, but Iran response is key - Reuters",
-    "summary": "Bessent's D-Day sanctions are more Anzio, but Iran response is key  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMkhfQWZkQ3NjME44ZDJlVHBscXZyUVJFclJBN0Vha2M2Tk9HNjA3R3IwUDhfZUJRcWVKV2ZFZDQzbWpmalNENWZMZFNOZUZfbHNIbktZVmxaelAxMmhvT083NjM4eHhhblJqSU1HQ1JyU2Q1YW9UdkdSZlUzMFAxTDZaa3BzeUUxMjVzTEdZbFA2X0Q5NmFrTEhGMU5HSXNlTU45Rkdoa09jNVdsbGdiQ3hESGJyQVFRdkdNU0dJei1KT21vN2ZlQw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1787629885,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1787649667,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The article discusses the recent sanctions imposed by Bessent on Iran, which are seen as a more limited version of the 'Anzio' sanctions. The Anzio sanctions were a failed Allied invasion of Italy during World War II, implying that Bessent's sanctions may not be as effective. The article highlights the importance of Iran's response to these sanctions, as it could determine their overall impact. The sanctions are a response to Iran's nuclear program, and the article notes that the US has been trying to isolate Iran economically. The sanctions are seen as a way to pressure Iran to renegotiate its nuclear deal.",
-      "impact": "The sanctions are likely to have a neutral to slightly negative impact on the global energy market, as they may limit Iran's oil exports. However, the medium-term impact will depend on Iran's response and the effectiveness of the sanctions. If Iran responds aggressively, the sanctions could lead to a short-term increase in oil prices, benefiting oil-producing companies. On the other hand, if Iran complies with the sanctions, the impact on the energy market could be limited.",
-      "risks": [
-        "Iran's response risk",
-        "sanctions effectiveness risk",
-        "global economic instability risk"
       ]
     }
   },
@@ -231,8 +227,8 @@
   },
   {
     "id": "8400352",
-    "headline": "Gold slips on profit-taking after rally to over three-month peak - Reuters",
-    "summary": "Gold slips on profit-taking after rally to over three-month peak  Reuters",
+    "headline": "Gold slips on profit-taking after rally to over three-month high - Reuters",
+    "summary": "Gold slips on profit-taking after rally to over three-month high  Reuters",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa19NSUEzV2xqY0JpOW5BRUlWc1VQNHNxdFk1cjk2ZldBQnotS0VtRmo4MWRSdjdDMEhya0JXeURjRFVoRkpyeDVLSGxTcExWM0YxaDh4dFl5OGF6MmN3eU4zd0poVXRBMnlQRFFkUy1qQmNwck9nV01hd2RNSXlaR3lJMzFYRWt3TDFGVnJENVZEVXZDR1puXzV0dGtSdW8zZGFmYXFn?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -254,8 +250,8 @@
   },
   {
     "id": "8398677",
-    "headline": "Dollar inches up as markets weigh Iran sanctions, Treasury buybacks - Reuters",
-    "summary": "Dollar inches up as markets weigh Iran sanctions, Treasury buybacks  Reuters",
+    "headline": "Dollar edges higher as investors weigh Iran sanctions, Treasury buybacks - Reuters",
+    "summary": "Dollar edges higher as investors weigh Iran sanctions, Treasury buybacks  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORld4THVaUUFJWlFtRmRFeTI5SlliZ2ladnZNa2htLS1yeXBwcGY2UjFSVE5heHlycC11ay1KR0pLRTJKVGk4bUp2cVVwcXZsUE5kR0JCM0hTRGlRZk5WT1pDWnhfd0JKcjFkbUhlNHVRd3lpWkV4bmtDUG9CSGJCWFhuTFFfY04yb2FIOGtNYkxhS1N0SlJVaXhFTVN1ak51Z1lvaDVSaEVsb2J0UEFjM2w4THk1SzdY?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -319,6 +315,52 @@
         "Uncertainty surrounding the effectiveness of the sanctions",
         "Potential increase in oil prices leading to higher production costs",
         "Volatility in the oil market due to the sanctions"
+      ]
+    }
+  },
+  {
+    "id": "8398474",
+    "headline": "Iran vows to resist widened US sanctions, says Washington seeks talks - Reuters",
+    "summary": "Iran vows to resist widened US sanctions, says Washington seeks talks  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV2NneVkxY2I3clNhUzloallHZTVKV2h5N2wxbGNwWVZlNEZMRzBwRnJXRGdmYjdHOVl0ZFZHYk1fR08xQmY4VnhEZjAxRURrUHRrLWV2NmlsMndTQ3UzN1VyR3luekZMUmUtUE9ON0FnMGxiektWdG9RUlBJOXVFQjVoa3JnUFp2MGlmamJuTDJEZF81Rkp3NA?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1787619420,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787625974,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Iran has vowed to retaliate after the US widened sanctions, which could lead to increased tensions in the Middle East. The US has imposed additional sanctions on Iran, targeting its energy, finance, and transportation sectors. This move is likely a response to Iran's nuclear activities and regional influence. The escalation of tensions could disrupt global oil markets and impact companies operating in the region, such as energy majors and logistics providers.",
+      "impact": "The widening of sanctions and potential retaliation from Iran could lead to increased volatility in oil prices, negatively impacting energy companies with exposure to the Middle East. This could also lead to a slowdown in economic growth in the region, affecting companies with operations in Iran. The escalation of tensions could also impact global trade, particularly for companies with significant exposure to the Middle East or Iran.",
+      "risks": [
+        "Oil price volatility risk",
+        "Regional economic slowdown risk",
+        "Global trade disruption risk"
+      ]
+    }
+  },
+  {
+    "id": "8399824",
+    "headline": "Bessent's D-Day sanctions are more Anzio, but Iran response is key - Reuters",
+    "summary": "Bessent's D-Day sanctions are more Anzio, but Iran response is key  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMkhfQWZkQ3NjME44ZDJlVHBscXZyUVJFclJBN0Vha2M2Tk9HNjA3R3IwUDhfZUJRcWVKV2ZFZDQzbWpmalNENWZMZFNOZUZfbHNIbktZVmxaelAxMmhvT083NjM4eHhhblJqSU1HQ1JyU2Q1YW9UdkdSZlUzMFAxTDZaa3BzeUUxMjVzTEdZbFA2X0Q5NmFrTEhGMU5HSXNlTU45Rkdoa09jNVdsbGdiQ3hESGJyQVFRdkdNU0dJei1KT21vN2ZlQw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1787617342,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787649667,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The article discusses the recent sanctions imposed by Bessent on Iran, which are seen as a more limited version of the 'Anzio' sanctions. The Anzio sanctions were a failed Allied invasion of Italy during World War II, implying that Bessent's sanctions may not be as effective. The article highlights the importance of Iran's response to these sanctions, as it could determine their overall impact. The sanctions are a response to Iran's nuclear program, and the article notes that the US has been trying to isolate Iran economically. The sanctions are seen as a way to pressure Iran to renegotiate its nuclear deal.",
+      "impact": "The sanctions are likely to have a neutral to slightly negative impact on the global energy market, as they may limit Iran's oil exports. However, the medium-term impact will depend on Iran's response and the effectiveness of the sanctions. If Iran responds aggressively, the sanctions could lead to a short-term increase in oil prices, benefiting oil-producing companies. On the other hand, if Iran complies with the sanctions, the impact on the energy market could be limited.",
+      "risks": [
+        "Iran's response risk",
+        "sanctions effectiveness risk",
+        "global economic instability risk"
       ]
     }
   },
@@ -480,6 +522,29 @@
         "decline in demand risk",
         "higher borrowing costs risk",
         "prolonged trade war risk"
+      ]
+    }
+  },
+  {
+    "id": "8398374",
+    "headline": "Gold lifts TSX as trade tensions escalate - Reuters",
+    "summary": "Gold lifts TSX as trade tensions escalate  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSWhnSG1vc1o4c1hYdlRqSWhaRDVHZ09CbHlWTlg1V0FZd1Y4WEFDdGtMY1F3dDliS2IwVGc2anlzdXFUNjVUZXdDczNZYmNVV3B5V3lQaUZIaWRyLTJMWjk3QXBKVmNTbXo5WmhlRl8tLV9hREJSYkFCYlhqX0JwRTdLYXYtSTVZXzYzeUpNSC1JM2ptTVU5dFNtYXNhWXMwcWpIdE9RVnJkQXBXWS1VeG1DX2RKQW9DSEE?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1787605212,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787626022,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The Toronto Stock Exchange (TSX) remained flat as investors weighed the impact of potential US tariffs on Canadian businesses and awaited details on Iran sanctions. The news comes as the US is set to impose new tariffs on Canadian aluminum and steel imports, which could negatively impact Canadian companies with significant US exposure. The uncertainty surrounding the tariffs and sanctions has led to a cautious approach from investors, with many choosing to hold off on making significant trades. The TSX has been volatile in recent weeks, with investors closely monitoring global events and their potential impact on the Canadian economy.",
+      "impact": "The potential imposition of US tariffs on Canadian aluminum and steel imports could have a negative impact on Canadian companies with significant US exposure, particularly those in the manufacturing and industrial sectors. This could lead to a decline in earnings for these companies, potentially affecting their stock prices in the short term. The uncertainty surrounding the tariffs and sanctions may also lead to a decrease in investor sentiment, making it more difficult for companies to raise capital and affecting their medium-term growth prospects.",
+      "risks": [
+        "tariff risk",
+        "sanctions risk",
+        "global trade uncertainty risk"
       ]
     }
   },
@@ -890,29 +955,6 @@
         "Decrease in investor sentiment",
         "Prolonged period of uncertainty",
         "Slowing economic growth"
-      ]
-    }
-  },
-  {
-    "id": "8398374",
-    "headline": "TSX flat as investors weigh US tariffs, await Iran sanctions details - Reuters",
-    "summary": "TSX flat as investors weigh US tariffs, await Iran sanctions details  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSWhnSG1vc1o4c1hYdlRqSWhaRDVHZ09CbHlWTlg1V0FZd1Y4WEFDdGtMY1F3dDliS2IwVGc2anlzdXFUNjVUZXdDczNZYmNVV3B5V3lQaUZIaWRyLTJMWjk3QXBKVmNTbXo5WmhlRl8tLV9hREJSYkFCYlhqX0JwRTdLYXYtSTVZXzYzeUpNSC1JM2ptTVU5dFNtYXNhWXMwcWpIdE9RVnJkQXBXWS1VeG1DX2RKQW9DSEE?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1787581903,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1787626022,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The Toronto Stock Exchange (TSX) remained flat as investors weighed the impact of potential US tariffs on Canadian businesses and awaited details on Iran sanctions. The news comes as the US is set to impose new tariffs on Canadian aluminum and steel imports, which could negatively impact Canadian companies with significant US exposure. The uncertainty surrounding the tariffs and sanctions has led to a cautious approach from investors, with many choosing to hold off on making significant trades. The TSX has been volatile in recent weeks, with investors closely monitoring global events and their potential impact on the Canadian economy.",
-      "impact": "The potential imposition of US tariffs on Canadian aluminum and steel imports could have a negative impact on Canadian companies with significant US exposure, particularly those in the manufacturing and industrial sectors. This could lead to a decline in earnings for these companies, potentially affecting their stock prices in the short term. The uncertainty surrounding the tariffs and sanctions may also lead to a decrease in investor sentiment, making it more difficult for companies to raise capital and affecting their medium-term growth prospects.",
-      "risks": [
-        "tariff risk",
-        "sanctions risk",
-        "global trade uncertainty risk"
       ]
     }
   },
@@ -22713,52 +22755,6 @@
       "summary": "Microsoft's Q4 earnings have passed, and the immediate binary event risk is behind us. The company's fundamental engine remains intact, and the author suggests selling the August 21st weekly $412.50/$485 short strangle to capture a $7.30 combined premium. This trade offers a 21-day absolute return/yield of ~1.6% and an annualized rate of return of ~28%. The author believes the worst-case assignment scenarios align with an acceptable position, providing a potential opportunity to acquire shares at a discounted price or initiate a short position at a premium.",
       "impact": "The potential impact on Microsoft's stock is a short-term gain of ~1.6% in 21 days, driven by accelerated post-earnings IV crush and steepening time decay. The author's trade strategy aims to capture this premium without taking on significant risk. The medium-term effect is a potential reevaluation of Microsoft's valuation, as the company sits at the virtual midpoint of its 20-year valuation range. This could lead to a sustained trading range, making it an attractive investment opportunity for long-term investors.",
       "risks": []
-    }
-  },
-  {
-    "id": "8289150",
-    "headline": "Britain asks Cyprus to extradite man suspected of spying for Iran - Reuters",
-    "summary": "Britain asks Cyprus to extradite man suspected of spying for Iran  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUERJVzM5MU9rRDVOc3RfUFdneGROMFVWdTlZU2d2RW0yVWtmcDk4cWhodHYtTF9CQlV0dmdIWmhlTUZFQllhWjZxb2RCTk1hTmxpcmxxNV8xM0pNaVh6ZThGZUdtTDVNOFhFSkhtRTdGOGk1RGZybVBQRXBxVVJLbXlfNFRSWUhiRXJfbDV2NUxFY1dlQ1Vsd3pJckNaenpNNVdSaWFn?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1785509205,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1785496390,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "A man suspected of spying for Iran was arrested in Cyprus, allegedly for gathering information on a UK military base. This incident is unrelated to any specific company or industry, but it may have broader implications for global security and geopolitics. The UK government has not commented on the incident, and the individual's identity has not been released. The arrest is likely to be a one-off event with no direct impact on the business fundamentals of any specific company.",
-      "impact": "This news is unlikely to have a significant impact on the stocks of defense contractors or companies with significant UK military contracts. However, it may lead to increased scrutiny and potential changes in government contracts and regulations, which could affect companies in the defense industry in the medium term. The incident may also contribute to a more cautious sentiment in the market, potentially impacting stock prices of companies with high exposure to global security and geopolitics.",
-      "risks": [
-        "regulatory risk",
-        "geopolitical risk",
-        "security risk"
-      ]
-    }
-  },
-  {
-    "id": "8289880",
-    "headline": "Russian court confiscates 123 real estate assets belonging to Jehovah's Witnesses - Reuters",
-    "summary": "Russian court confiscates 123 real estate assets belonging to Jehovah's Witnesses  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMk1jY1RoT3VZakNwanQxdTA1eDY1ZmtSdlFvNFVySkFGUTFpOEdncTMxZlU3VEJpbVlCNzFHZzFvbkttYW9uR2dtTE9JQi1rNGh6OElsX3NCWU52c21GMWVSRE1DN0NrOUl4TlZsMHBrVVotb00xZXdTRExxVUkxQXhiRGlqZkMyNFktMDMtOVdUSk04YnBEOGJNOWZPdVhGVTdNellCWnNwTHE1R1RuSVc1NzBMRFV4QUJv?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1785506843,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1785892149,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "A Russian court has confiscated 123 real estate assets belonging to Jehovah's Witnesses, which could lead to a significant financial burden for the organization. The Jehovah's Witnesses have been subject to persecution in Russia since 2017, with the Russian government designating them as an 'extremist organization'. This move is likely to further exacerbate the tensions between Russia and the international community, potentially leading to increased economic sanctions. The confiscated assets are likely to be sold off to cover the costs of the confiscation, which could lead to a decline in the organization's financial resources.",
-      "impact": "The confiscation of assets could lead to a short-term decline in the stocks of companies that are exposed to the Russian real estate market, such as property developers and REITs. The medium-term impact could be a decline in investor sentiment towards Russia, leading to a decrease in foreign investment and a subsequent decline in the Russian stock market. This could also lead to a re-evaluation of the risks associated with investing in Russia, potentially making it more expensive for companies to access capital.",
-      "risks": [
-        "Russian economic sanctions risk",
-        "Decrease in foreign investment risk",
-        "Re-evaluation of investment risks in Russia"
-      ]
     }
   }
 ]
