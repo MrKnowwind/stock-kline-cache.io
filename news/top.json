@@ -743,6 +743,29 @@
     }
   },
   {
+    "id": "8404074",
+    "headline": "Iran fuel shortages spark lines at pumps as US pressure bites",
+    "summary": "The state-run newspaper reported long queues at Tehran petrol stations on Sunday as drivers rushed to fill up tanks due to fears of price hikes",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-24/iran-fuel-shortages-spark-lines-at-pumps-as-us-pressure-bites",
+    "source": "Bloomberg",
+    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+    "relatedSymbols": [],
+    "publishedAt": 1787629850,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787718298,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Iran's fuel shortages and long queues at petrol stations are a result of US pressure on the country's economy. The US has imposed sanctions on Iran, affecting its oil exports and leading to a shortage of fuel. This development is a negative indicator for the country's economy and could have a ripple effect on the global oil market. The situation is likely to lead to higher fuel prices in the region, affecting consumers and businesses alike.",
+      "impact": "The fuel shortages in Iran are likely to have a short-term negative impact on oil prices, which could benefit oil-producing companies such as Saudi Aramco (TADAWUL: 7010.SR) and ExxonMobil (NYSE: XOM). However, in the medium term, the increased tensions between the US and Iran could lead to a rise in oil prices, benefiting oil majors such as Chevron (NYSE: CVX) and BP (NYSE: BP). The situation may also lead to increased volatility in the oil market, affecting the earnings outlook of energy companies.",
+      "risks": [
+        "Increased oil prices risk",
+        "Global economic slowdown risk",
+        "US-Iran tensions escalation risk"
+      ]
+    }
+  },
+  {
     "id": "8399823",
     "headline": "United States sanctions oil trader Wellbred over Iran links - Reuters",
     "summary": "United States sanctions oil trader Wellbred over Iran links  Reuters",
@@ -785,6 +808,29 @@
         "Geopolitical tensions can flare up at any time, potentially undoing the progress made in talks.",
         "The success of the talks is dependent on various factors, including the willingness of both countries to cooperate and the ability to implement agreements.",
         "The impact of the news on specific stocks may be limited if the companies do not have significant exposure to the region."
+      ]
+    }
+  },
+  {
+    "id": "8403972",
+    "headline": "Apple gears up to launch its first new Mac Mini in two years",
+    "summary": "The new desktop will debut as soon as the coming days, potentially putting the unveiling ahead of a September event to introduce the next iPhones",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-25/apple-to-launch-new-mac-mini-airpods-5-and-oled-ipad-mini-timing-details",
+    "source": "Bloomberg",
+    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+    "relatedSymbols": [],
+    "publishedAt": 1787629133,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787718347,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Apple is set to launch its first new Mac Mini in two years, potentially ahead of a September event for the next iPhones. This news is a positive sign for Apple's hardware business, indicating a continued focus on innovation and product refreshes. The Mac Mini is a niche but profitable product line, and a successful launch could boost sales and profitability for Apple. The event could also provide a preview of Apple's upcoming product pipeline, potentially influencing investor sentiment and expectations for the company's future growth.",
+      "impact": "The launch of the new Mac Mini is likely to have a positive impact on Apple's hardware sales and profitability, potentially driving an increase in earnings per share in the near term. This could also lead to a short-term boost in Apple's stock price, as investors react to the news and update their expectations for the company's future growth. However, the impact may be limited by the niche nature of the Mac Mini product line and the fact that the launch is not a major product category for Apple.",
+      "risks": [
+        "Limited market penetration for the Mac Mini product line",
+        "Competition from PC manufacturers",
+        "Potential delays or quality issues with the new product"
       ]
     }
   },
@@ -22703,53 +22749,6 @@
         "Geopolitical risk",
         "Supply chain disruption risk",
         "Regulatory risk"
-      ]
-    }
-  },
-  {
-    "id": "8289733",
-    "headline": "Looking at just the odds isn’t enough. How traders gain an edge on prediction markets",
-    "summary": "Gaining an edge on prediction markets requires speed and skills beyond just reading the odds on platforms like Kalshi and Polymarket.",
-    "url": "https://www.cnbc.com/2026/08/01/traders-go-full-time-on-prediction-markets-using-ai-bots-and-antennas.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108270194-1772061798995-gettyimages-2263571474-l1049595_copy_qr8q5yqa.jpeg?v=1776174259&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1785591844,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1785593711,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The article discusses how traders on prediction markets, such as Kalshi and Polymarket, use various tools and methods to gain an edge in trading. These tools include AI bots, antennas for real-time access to events, and databases for research. Traders like Logan Sudeith and Kenneth Deneau have successfully used these tools to make significant profits, with Sudeith earning $250,000 in a single month. The article highlights the importance of staying informed through news and using technology to analyze and act on that information.",
-      "impact": "The article does not mention any specific stocks, but the growth of prediction markets and the increasing use of tools and technology by traders could have a positive impact on the broader fintech industry. This could lead to increased adoption and investment in related companies, potentially driving up valuations. However, the article also notes that the effectiveness of these new tools and products is unclear, which could be a risk for companies in the space.",
-      "risks": [
-        "uncertainty around the effectiveness of new tools and products",
-        "increased competition in the prediction market space",
-        "regulatory risks associated with the growing use of prediction markets"
-      ]
-    }
-  },
-  {
-    "id": "8289728",
-    "headline": "OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open'",
-    "summary": "The wake-up call to the cyber industry comes as industry experts descend on Black Hat, a major cybersecurity conference.",
-    "url": "https://www.cnbc.com/2026/08/01/open-ai-hugging-face-hack-cyber-warnings.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108328441-1782780337378-gettyimages-527099783-20141125034845_1245_IMG_4146JPG_149607.jpeg?v=1782781855&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1785585601,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1785588023,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The recent OpenAI hack on Hugging Face has confirmed the warnings of cybersecurity experts that AI-powered attacks are becoming increasingly sophisticated and unpredictable. This incident highlights the growing threat of AI-driven exploits, which could lead to unforeseen consequences. The rollout of Anthropic's powerful Mythos model has raised concerns that hackers could use these models to exploit vulnerabilities, and the Hugging Face hack demonstrates this risk. The cyber industry is now grappling with the reality that AI systems designed to safeguard networks could also turn against them.",
-      "impact": "The news may lead to a short-term increase in cybersecurity spending by companies, potentially benefiting stocks like Palo Alto Networks and Zscaler. However, the medium-term impact could be bearish for the broader tech sector as the increased use of AI raises concerns about data security and potential vulnerabilities. This may lead to a reevaluation of the earnings outlook for companies that rely heavily on AI, such as OpenAI and Anthropic. The incident may also lead to increased regulatory scrutiny and potential legislation aimed at mitigating the risks associated with AI-powered attacks.",
-      "risks": [
-        "Increased cybersecurity spending risk",
-        "Regulatory scrutiny risk",
-        "Potential legislation risk",
-        "Vulnerability to AI-powered attacks risk"
       ]
     }
   }
