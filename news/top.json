@@ -31,7 +31,20 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/108176392-1753366011605-gettyimages-94822102-pdir0505Hi_j0094JPG.jpeg?v=1753366045&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1787745389
+    "publishedAt": 1787745389,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787754447,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Boston Scientific, a medical device maker, has been hit by a cyberattack that is disrupting its operations, including its ability to ship products. The company's shares have fallen 4.5% in response. The attack is the latest challenge for the company, which has already seen its sales growth slow and its shares decline nearly 50% this year. The company's ability to restore its operations is uncertain, with analysts suggesting it may take weeks.",
+      "impact": "The cyberattack is likely to have a negative impact on Boston Scientific's sales in the short term, as the company is unable to process and ship orders. This could lead to a decline in earnings, which may further pressure the stock. In the medium term, the company's valuation may also be affected, as investors reassess their expectations for the company's growth prospects. The stock's liquidity may also be impacted, as investors become more cautious.",
+      "risks": [
+        "Disruption to operations risk",
+        "Earnings decline risk",
+        "Valuation risk"
+      ]
+    }
   },
   {
     "id": "8405456",
