@@ -1,5 +1,74 @@
 [
   {
+    "id": "8420637",
+    "headline": "We're in the midst of an 'Imax awakening,' CEO says. How the company makes millions",
+    "summary": "Christopher Nolan's \"The Odyssey\" has movie and history buffs flocking to theaters this summer. That's been great news for Imax.",
+    "url": "https://www.cnbc.com/2026/08/29/imax-revenue-odyssey-box-office.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/103100235-GettyImages-462799944.jpg?v=1667936217&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1788012471,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1788014564,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Imax has experienced a surge in revenue due to the success of 'The Odyssey' and upcoming releases like 'Dune: Part Three'. The company's unique business model, which involves receiving a percentage of box office earnings from studios, has enabled it to generate significant revenue without owning theaters. This model has been bolstered by the growing demand for Imax's high-quality viewing experience, driven by blockbuster films and enthusiastic fans. Imax's CEO attributes the recent 'awakening' to the company's ability to offer a unique experience and the success of recent releases.",
+      "impact": "The success of Imax's business model and the upcoming releases are likely to drive short-term revenue growth, potentially leading to an increase in earnings per share. This could also lead to a revaluation of the company's stock, as investors become more optimistic about its growth prospects. In the medium term, Imax's ability to maintain its market share and continue to attract high-quality content will be crucial to sustaining its growth momentum.",
+      "risks": [
+        "Dependence on a small number of blockbuster releases",
+        "Competition from alternative premium formats",
+        "Potential disruption to Imax's business model if studios shift to alternative distribution channels"
+      ]
+    }
+  },
+  {
+    "id": "8420535",
+    "headline": "The big lesson from this week's earnings: The AI buildout is not a zero-sum game",
+    "summary": "Salesforce, CrowdStrike, and Nvidia all faced major tests with investors and crushed expectations.",
+    "url": "https://www.cnbc.com/2026/08/29/big-lesson-from-this-weeks-earnings-ai-buildout-is-not-a-zero-sum-game.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108351580-1787228224887-108351580-17871510862026-08-19t144330z_988560389_rc2p1naecyjy_rtrmadp_0_usa-stocks.jpeg?v=1787228240&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1788009955,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1788014617,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Salesforce, CrowdStrike, and Nvidia's earnings reports provided a significant boost to the market's perception of the AI buildout, as all three companies exceeded expectations. This suggests that the AI buildout is not a zero-sum game, where one company's gain comes at the expense of another. Instead, the collective success of these companies indicates a growing demand for AI solutions and a positive industry trend. The strong earnings reports were driven by the increasing adoption of AI technologies across various industries, which bodes well for the long-term prospects of these companies.",
+      "impact": "The strong earnings reports from Salesforce, CrowdStrike, and Nvidia are likely to have a positive impact on their respective stocks, with potential short-term gains driven by the improved earnings outlook and medium-term benefits from increased investor confidence. The collective success of these companies may also lead to a re-rating of their valuations, as investors reassess the growth potential of the AI industry. Additionally, the increased adoption of AI technologies may lead to a surge in liquidity for these stocks, as more investors become interested in the sector.",
+      "risks": [
+        "Overvaluation risk: the strong earnings reports may lead to overvaluation of these stocks, making them vulnerable to a correction if the market becomes concerned about their valuations.",
+        "Competition risk: the increasing adoption of AI technologies may lead to increased competition in the market, which could erode the competitive advantage of these companies.",
+        "Regulatory risk: the AI industry is heavily regulated, and changes in regulations could impact the growth prospects of these companies."
+      ]
+    }
+  },
+  {
+    "id": "8420534",
+    "headline": "Gen Zers quit their jobs to start a pickle company—now it’s valued at $8.5 million",
+    "summary": "Good Girl Snacks founders Leah Marcus and Yasaman Bakhitar built their startup's multimillion-dollar valuation with pickle jars and Gen Z branding strategies.",
+    "url": "https://www.cnbc.com/2026/08/29/how-two-gen-z-founders-made-hot-girl-pickles-stand-out.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108355350-1787855698533-DSCF9533.JPEG?v=1787859686&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1788008701,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1788014668,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Good Girl Snacks, a startup founded by Leah Marcus and Yasaman Bakhitar, has achieved an $8.5 million valuation after a $3 million seed fundraising round. The company's success is attributed to its Gen Z branding strategy, which includes vibrant packaging and a tone of dryness, self-deprecation, and sarcasm on social media. This approach has helped the company stand out in the pickle industry, which is currently experiencing a trend with pickle-flavored snacks generating $518 million in sales between February 2025 and February 2026, a 40% increase from the previous year. The company's products are sold nationwide online and in grocery stores, including Whole Foods Market and Erewhon.",
+      "impact": "The news is likely to have a positive impact on the stock market, particularly for companies in the food and beverage industry. The trend of pickle-flavored snacks is expected to continue, driving demand and potentially increasing revenue for related companies. The success of Good Girl Snacks may also inspire other startups to adopt similar branding strategies, leading to increased competition in the market. However, the impact may be short-term, as the company's valuation is still relatively low and may not be sustainable in the long term.",
+      "risks": [
+        "Competition from established pickle brands and new entrants in the market",
+        "Dependence on social media trends and the company's ability to maintain its unique branding",
+        "Potential slowdown in the pickle trend or changes in consumer preferences"
+      ]
+    }
+  },
+  {
     "id": "8418307",
     "headline": "War weighs on Iran's economy as US intensifies sanctions - Reuters",
     "summary": "War weighs on Iran's economy as US intensifies sanctions  Reuters",
@@ -279,7 +348,20 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/108297139-1777061266263-techceos.jpg?v=1784924900&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1787932258
+    "publishedAt": 1787932258,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1788014720,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Big Tech companies have been investing heavily in artificial intelligence, which is putting their longtime strength of innovation and R&D at risk. This massive spending is causing concerns about the companies' ability to generate returns on investment and maintain their competitive edge. The article highlights the challenges Big Tech faces in integrating AI into their businesses and making it profitable. This could impact their earnings outlook and valuation.",
+      "impact": "The potential impact on Big Tech stocks could be negative in the short-term as investors re-evaluate their earnings outlook and valuation. The increased spending on AI may lead to reduced profitability and lower stock prices. Medium-term, the integration of AI into their businesses could create new opportunities for growth, but this is uncertain and dependent on successful execution.",
+      "risks": [
+        "Integration risk: Big Tech's ability to successfully integrate AI into their businesses and make it profitable is uncertain.",
+        "Valuation risk: The increased spending on AI may lead to reduced profitability and lower stock prices, making the valuation of Big Tech stocks less attractive.",
+        "Earnings risk: The challenges of integrating AI into their businesses could negatively impact earnings and lead to reduced stock prices."
+      ]
+    }
   },
   {
     "id": "8415633",
@@ -336,7 +418,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1787919028
+    "publishedAt": 1787919028,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1788014768,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Syrian President Bashar al-Assad has appointed Mazloum Abdi, the former commander of the Kurdish-led Syrian Democratic Forces (SDF), as an adviser. This move is seen as a significant development in the ongoing conflict in Syria. The SDF has been a key player in the fight against ISIS and has received support from the US and other Western countries. The appointment of Abdi as an adviser may indicate a shift in Assad's strategy or a desire to consolidate power. The news does not appear to have any direct implications for the global economy or specific companies, but it may have implications for regional politics and geopolitics.",
+      "impact": "The appointment of Abdi as an adviser may lead to increased tensions between the US and Syria, potentially affecting US defense contractors such as Lockheed Martin (LMT) or Raytheon Technologies (RTN). In the short term, this may lead to increased volatility in the stock prices of these companies. However, the medium-term impact is uncertain and will depend on the specific policies and actions taken by the Syrian government.",
+      "risks": [
+        "escalation of conflict risk",
+        "geopolitical instability risk",
+        "US-Syria relations risk"
+      ]
+    }
   },
   {
     "id": "8415849",
@@ -397,6 +492,16 @@
     "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
     "relatedSymbols": [],
     "publishedAt": 1787908109
+  },
+  {
+    "id": "8415107",
+    "headline": "Iran's disfigured supreme leader remains invisible six months into an existential war - Reuters",
+    "summary": "Iran's disfigured supreme leader remains invisible six months into an existential war  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQW14UEoyWExDbUdTdVpKekV0R2F3VGJnZV9hTnpSTW1FeUNWQ1pxV0c4WmFzX0cxbWhyNFJmekItWkVHSmlHQ1ZBTFRvRFlYbVZMQVdiVUw2RlNlZTlXZVBUMXJydUp3RlM0RVBCR056c0IzYUZlQmM2dVV0bVdkMVdXejFkSjhKZ2FWbzZDNDRVSzg1cEhjU3dSUTgwNWdPUnkxelhmWkpLNkhLb2Fibkp0OUZUa25BNVJzRGQxREFnMWFrcmE5ZDIwSnRKR2c?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1787904147
   },
   {
     "id": "8419419",
@@ -469,16 +574,6 @@
     "publishedAt": 1787894333
   },
   {
-    "id": "8415107",
-    "headline": "Iran's disfigured supreme leader remains invisible six months into an existential war - Reuters",
-    "summary": "Iran's disfigured supreme leader remains invisible six months into an existential war  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQW14UEoyWExDbUdTdVpKekV0R2F3VGJnZV9hTnpSTW1FeUNWQ1pxV0c4WmFzX0cxbWhyNFJmekItWkVHSmlHQ1ZBTFRvRFlYbVZMQVdiVUw2RlNlZTlXZVBUMXJydUp3RlM0RVBCR056c0IzYUZlQmM2dVV0bVdkMVdXejFkSjhKZ2FWbzZDNDRVSzg1cEhjU3dSUTgwNWdPUnkxelhmWkpLNkhLb2Fibkp0OUZUa25BNVJzRGQxREFnMWFrcmE5ZDIwSnRKR2c?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1787893260
-  },
-  {
     "id": "8418807",
     "headline": "Closing auction scrutiny deepens as wild Sensex swing worries traders",
     "summary": "A sudden 3% plunge in the BSE Sensex during a closing auction raises concerns over liquidity and potential market manipulation.",
@@ -487,6 +582,16 @@
     "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
     "relatedSymbols": [],
     "publishedAt": 1787892506
+  },
+  {
+    "id": "8420333",
+    "headline": "Shipping traffic via Strait of Hormuz slips below 10-day average, data shows - Reuters",
+    "summary": "Shipping traffic via Strait of Hormuz slips below 10-day average, data shows  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdkIyNkNoek04XzdWM0U0Vm9vNjlPeWcteDJiSmFuMGUtQ2h3Ukl3aUdMSnVtUXRQZlVmYmFTdl9vUXNkWDUyWG5sLU1Eb2FLWDJ1ZTlZQjEtNlotUTRxOXZ0ZFpOcDBWUDJNVWhJN0NuTW9XY3ByRnRWOW1XOHhsSW93Q2hSNl85RXE0ZVBtUHVUQVd4WF8ySE5COE15QlNKVjc1dS1IdTBqUWFNVU1acDVPNF9FbUxFT3MzR3AxblhVdw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1787889360
   },
   {
     "id": "8413825",
@@ -799,6 +904,16 @@
     "publishedAt": 1787843838
   },
   {
+    "id": "8411850",
+    "headline": "Visa, Mastercard launch international card payments in Syria after US lifts terrorism designation - Reuters",
+    "summary": "Visa, Mastercard launch international card payments in Syria after US lifts terrorism designation  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZi1lT1VCQkw2VXZWdVpNN2QtRzh3RllkOG9zcC1qUWpzRW1lenhSbm5fVU5nQVFVNFRyZ1VnYkstZTNhYUVlNDVWVFpzMnVlZUN1MFdPOTc4UWpjVXRkakg0dHlMelZYWGpJaDF3dE11SU50OVBqc2pPVER2THMwRkQxeDBhZHRnNjFmWHY1V0JRcnhDcjZYSDg0NFZvQjJVR3d2U1Y0NEYzRnR4dlZjSGNjTTduNkRueXhhWDNrenhDbHM?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1787840949
+  },
+  {
     "id": "8410670",
     "headline": "Family offices are making a bullish bet on the stock market, according to CNBC Family Office Portfolio Tracker",
     "summary": "The data includes the portfolios of hundreds of family offices, representing a total of $1.4 trillion in assets.",
@@ -817,16 +932,6 @@
     "image": "https://image.cnbcfm.com/api/v1/image/108354592-1787760205400-gettyimages-1397789972-fs20220312_p12_2a8a4963_r30.jpeg?v=1787760239&w=1920&h=1080",
     "relatedSymbols": [],
     "publishedAt": 1787835602
-  },
-  {
-    "id": "8411850",
-    "headline": "Visa, Mastercard launch international card payments in Syria after US lifts terrorism designation - Reuters",
-    "summary": "Visa, Mastercard launch international card payments in Syria after US lifts terrorism designation  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZi1lT1VCQkw2VXZWdVpNN2QtRzh3RllkOG9zcC1qUWpzRW1lenhSbm5fVU5nQVFVNFRyZ1VnYkstZTNhYUVlNDVWVFpzMnVlZUN1MFdPOTc4UWpjVXRkakg0dHlMelZYWGpJaDF3dE11SU50OVBqc2pPVER2THMwRkQxeDBhZHRnNjFmWHY1V0JRcnhDcjZYSDg0NFZvQjJVR3d2U1Y0NEYzRnR4dlZjSGNjTTduNkRueXhhWDNrenhDbHM?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1787835540
   },
   {
     "id": "8412056",
@@ -961,6 +1066,16 @@
     "publishedAt": 1787824605
   },
   {
+    "id": "8417907",
+    "headline": "COMMENTARY: Asia's crude oil imports stay soft in August, challenging US Hormuz claims - Reuters",
+    "summary": "COMMENTARY: Asia's crude oil imports stay soft in August, challenging US Hormuz claims  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdkpUQUN3ODRuTTJNOC1nTEFMT0lPdTNEOFloWThuRGU4MkRLMmZkWXhxM3hVZUotVXgxRzZmUTZVUFhQWFJ1UEhleHpNYm1JNjk4ak96RmVjamFYcFV3V2hkQUM1MW1hX1lkZ0k2cGZ0SkdUakt5azdvRy1lMUpReW1iR0VoU0lYbnBlcXdZc2FLV3hwc2N4bXdLeGJFTU1zQlhFQ3dYX09GNDFfOWlOZDUwZUI1MXNJaHZKN3pvRTFhY0FESk1fRThLQUtTQ29QcjR1aA?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1787822275
+  },
+  {
     "id": "8410782",
     "headline": "Canada excludes US seafood from retaliatory tariffs - Reuters",
     "summary": "Canada excludes US seafood from retaliatory tariffs  Reuters",
@@ -1033,16 +1148,6 @@
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
     "publishedAt": 1787808900
-  },
-  {
-    "id": "8417907",
-    "headline": "COMMENTARY: Asia's crude oil imports stay soft in August, challenging US Hormuz claims - Reuters",
-    "summary": "COMMENTARY: Asia's crude oil imports stay soft in August, challenging US Hormuz claims  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdkpUQUN3ODRuTTJNOC1nTEFMT0lPdTNEOFloWThuRGU4MkRLMmZkWXhxM3hVZUotVXgxRzZmUTZVUFhQWFJ1UEhleHpNYm1JNjk4ak96RmVjamFYcFV3V2hkQUM1MW1hX1lkZ0k2cGZ0SkdUakt5azdvRy1lMUpReW1iR0VoU0lYbnBlcXdZc2FLV3hwc2N4bXdLeGJFTU1zQlhFQ3dYX09GNDFfOWlOZDUwZUI1MXNJaHZKN3pvRTFhY0FESk1fRThLQUtTQ29QcjR1aA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1787807880
   },
   {
     "id": "8409596",
@@ -21814,98 +21919,6 @@
         "Regulatory scrutiny and potential changes to safety protocols",
         "Increased costs and disruption to operations",
         "Negative impact on investor sentiment and share price"
-      ]
-    }
-  },
-  {
-    "id": "8304307",
-    "headline": "Gulf stock markets end higher as investors await signs of progress in US-Iran talks - Reuters",
-    "summary": "Gulf stock markets end higher as investors await signs of progress in US-Iran talks  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVlg2dTVGaDVhTlhYajZWZE5NY0JvdjV1Z1dObmNORUlydXFoSnFTcGxjbnFGeUpHUUJ1TDhsenpGWkhYLV80Sm9zYktER29tcWNiTEg5c2o1WVgzQzEtMS1UZlRpZmJRTGdZWHVIY0VuNmZ0TlEyUjlDSHMyYUdYOG5JMXlidUhCN2xyeFF2RVpFUWJFU1RDODNqWmJvWTA4V29sRnNsNWNrbHVKYkVyMVcwMUJsckE?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1785935065,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1786019633,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Gulf stock markets ended higher on hopes of progress in US-Iran talks, a positive development for the region's economy. The talks aim to revive the 2015 nuclear deal, which has been a major point of contention between the two countries. A resolution could lead to increased economic cooperation and investment in the region, benefiting companies operating in the area. The news has boosted investor sentiment, with stocks in the region experiencing a surge in trading.",
-      "impact": "The positive sentiment in the region may lead to a short-term increase in stock prices of companies with exposure to the Gulf region, such as energy and commodities traders. In the medium term, a resolution to the US-Iran talks could lead to increased investment and economic growth in the region, benefiting companies with operations in the area. However, the outcome of the talks remains uncertain, and investors should be cautious of potential risks and uncertainties.",
-      "risks": [
-        "Uncertainty around the outcome of the US-Iran talks",
-        "Potential for increased tensions in the region if talks fail",
-        "Dependence on external factors for economic growth"
-      ]
-    }
-  },
-  {
-    "id": "8303994",
-    "headline": "France's drone production shifts from policy ambition to factory floor - Reuters",
-    "summary": "France's drone production shifts from policy ambition to factory floor  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLXlqbkNzSTlPNDZUU2VTOWc4czNCM2ZvN0s4WnBDTTlCcGZsX1p1VlRrYUg2VEJIMW1LZS1xclhvbXpQN29sUFFrVlFFcG5pa2VzM2VWa1Q2d0dTMHVmYVdJc201NE9wWi1iVXQwMFdpOHZYR3FvNlZFckU1V2w5ZTFZUFJQeFR2WXhFSHhhUlY1TnhBV2VsWHkyM19NTE1RYnBlUlN6dlJPVG1KODdkUHhlOUY4TmNpSERSMW03SUhZdw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1785932744,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1786134393,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "France's drone production is shifting from policy ambition to actual factory floor production, driven by the government's investment in the sector. The French government has allocated €1 billion to support the development of the drone industry, leading to increased investment in research and development. Several companies, including Thales and Safran, are already working on drone projects. This shift from policy to production is a positive step for the industry, but it remains to be seen how successful these efforts will be.",
-      "impact": "The shift from policy to production is likely to have a positive impact on the drone industry, potentially leading to increased demand for drone-related stocks. However, the success of these efforts will depend on the ability of companies to translate policy ambitions into actual production and sales. In the short-term, this news may lead to increased investor interest in drone-related stocks, potentially driving up valuations. Medium-term, the success of French drone production could lead to increased exports and revenue growth for companies involved in the sector.",
-      "risks": [
-        "regulatory risks",
-        "integration risks",
-        "market competition risks"
-      ]
-    }
-  },
-  {
-    "id": "8301319",
-    "headline": "Stock bears obliterated as Nasdaq 100 logs top 10 bullish stat of past decade",
-    "summary": "\"Pessimists threw in the towel and optimism was running amok today,\" said Nations Indexes president Scott Nations.",
-    "url": "https://www.cnbc.com/2026/08/05/stock-bears-obliterated-as-nasdaq-logs-top-10-bullish-stat-of-past-decade.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108344532-1785853710277-Traders-Photo-20260803-KK-PRESS-007.jpg?v=1785853829&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1785932566,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1785942297,
-      "sentiment": "bullish",
-      "confidence": 0.85,
-      "summary": "The Nasdaq 100 index experienced a significant rally, with a 3.3% gain, driven by a surge in bullish options bets and a rush to cover shorts. This marked the top 10 most bullish day for the Nasdaq 100 over the past decade, according to Nations Indexes. The rally was fueled by strong earnings and post-FOMC stabilization, as well as the stabilization of the Treasury market and a decline in crude oil prices. Investor sentiment shifted from pessimism to optimism, with options volumes tracking 18% above July's pace this month.",
-      "impact": "The rally is likely to have a positive impact on the related stocks, with the Nasdaq 100 index nearing its June 3 record. The surge in bullish options bets and the rush to cover shorts may lead to increased buying pressure and higher stock prices in the short term. However, the medium-term impact may be tempered by the potential for a correction if the market becomes overbought or if interest rates rise, which could lead to a decrease in investor enthusiasm and a subsequent decline in stock prices.",
-      "risks": [
-        "overbought market risk",
-        "interest rate risk",
-        "valuation risk"
-      ]
-    }
-  },
-  {
-    "id": "8301555",
-    "headline": "The box office is on pace for its best year since the pandemic. But fewer people are going to the movies. - Reuters",
-    "summary": "The box office is on pace for its best year since the pandemic. But fewer people are going to the movies.  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd0dNLTBvc0hvdmxqZ1pJdDIydHRvYUVHYWUzV21ETFhFVXU1U1ZZRTFXTVRka2J1WGRIN3hRN2RPTXFacXpoYWMwSHBLV3kzOGtFVGhNU1pITmpldFlaalEyQ2dOMVVubWp4Z09VUmRLOVZsSGlnMlRQdDFJVFg2RHdnd1Rmc0d0bEVxMWJMaFItY0F6QXpidHZqc0xydzRHZm1OSDVuOG83cTNud0l5azJUTQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1785930902,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1785956968,
-      "sentiment": "bullish",
-      "confidence": 0.7,
-      "summary": "The global box office is on track to achieve its best year since the pandemic, driven by a strong performance in the first half of 2023. However, this growth is accompanied by a decline in movie theater attendance, indicating a shift in consumer behavior. This trend suggests that the traditional movie-going experience is evolving, with more people opting for streaming services or alternative forms of entertainment. As a result, movie theater chains may need to adapt their business models to remain competitive.",
-      "impact": "The news is likely to have a positive impact on the stock prices of movie theater chains in the short term, as investors anticipate a strong earnings season. However, the decline in attendance raises concerns about the long-term sustainability of the industry's growth. The shift towards streaming services may also lead to increased competition for movie theater chains, potentially putting pressure on their valuations. In the medium term, movie theater chains may need to invest in digital transformation to remain relevant.",
-      "risks": [
-        "Decline in movie attendance risk",
-        "Increased competition from streaming services risk",
-        "Over-reliance on a few blockbuster films risk"
       ]
     }
   }
