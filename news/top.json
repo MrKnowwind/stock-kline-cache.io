@@ -7,7 +7,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1788086422,
+    "publishedAt": 1788111552,
     "analysis": {
       "version": 2,
       "generatedAt": 1788087156,
@@ -30,7 +30,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1788085940,
+    "publishedAt": 1788110187,
     "analysis": {
       "version": 2,
       "generatedAt": 1788102415,
@@ -42,6 +42,75 @@
         "Escalating trade tensions and potential economic slowdown",
         "Increased volatility in bond markets and rising yields",
         "Uncertainty over US Treasury's ability to manage debt and maintain economic stability"
+      ]
+    }
+  },
+  {
+    "id": "8426078",
+    "headline": "Trump criticizes NBC over election comment as Treasury denies some NYT, WSJ and Bloomberg reporters G20 credentials",
+    "summary": "Trump's attack on NBC comes after the Treasury barred journalists from The New York Times, The Wall Street Journal and Bloomberg from attending the G20.",
+    "url": "https://www.cnbc.com/2026/08/30/trump-nbc-election-comment-treasury-g20-reporter-access.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/107302174-1695037986447-gettyimages-1672364210-NUP_202218_00370JPG.jpeg?v=1695038154&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1788108914,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1788115774,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "Former President Donald Trump criticized NBC's Meet the Press host Kristen Welker for her comments on his election endorsement record, suggesting she would be reported to the Federal Communications Commission. This comes after the Treasury Department barred journalists from The New York Times, The Wall Street Journal, and Bloomberg from attending the G20 meetings. The exclusions are the latest example of the Trump administration restricting press access, following a strict new press policy imposed by the Pentagon last year. Trump's attack on Welker and the Treasury's decision to bar journalists may be seen as a continuation of his efforts to limit media scrutiny.",
+      "impact": "The news is unlikely to have a direct impact on the stocks of NBCUniversal, The New York Times, The Wall Street Journal, or Bloomberg, as they are not directly related to the Trump administration's actions. However, the continued tensions between the Trump administration and the media may lead to a short-term increase in negative sentiment towards these companies, potentially affecting their stock prices. In the medium term, the restrictions on press access may have a negative impact on the companies' ability to report on important economic and political developments, potentially affecting their reputation and revenue.",
+      "risks": [
+        "negative sentiment risk",
+        "reputation risk",
+        "regulatory risk"
+      ]
+    }
+  },
+  {
+    "id": "8425675",
+    "headline": "Here are the 3 big things we're watching in the stock market in the week ahead",
+    "summary": "Broadcom and Palo Alto Networks report. Plus, it's jobs week.",
+    "url": "https://www.cnbc.com/2026/08/30/here-are-the-3-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108272992-1772565871862-gettyimages-1243214774-tang-notitle220913_npgjE.jpeg?v=1776201301&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1788101689,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1788115821,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "This week, investors are watching the earnings reports of Broadcom and Palo Alto Networks, two significant players in the tech industry. Broadcom's report is expected to provide insight into the semiconductor sector's performance, while Palo Alto Networks' report will shed light on the cybersecurity market. The jobs report will also be closely watched, as it could influence the Fed's decision on interest rates. The earnings reports and jobs data will likely impact investor sentiment and market direction, particularly for tech and growth stocks.",
+      "impact": "The earnings reports of Broadcom and Palo Alto Networks may lead to short-term stock price movements, driven by the companies' ability to meet or beat expectations. A strong report from Broadcom could boost the semiconductor sector, while a weak report from Palo Alto Networks may weigh on the cybersecurity space. The jobs report may also impact the overall market direction, with a strong jobs number potentially supporting the Fed's decision to keep interest rates steady. This, in turn, could lead to a short-term rally in growth stocks.",
+      "risks": [
+        "earnings miss risk",
+        "guidance reduction risk",
+        "interest rate hike risk"
+      ]
+    }
+  },
+  {
+    "id": "8426079",
+    "headline": "Gulf stocks fall as Fed rate-hike bets rise after Warsh remarks - Reuters",
+    "summary": "Gulf stocks fall as Fed rate-hike bets rise after Warsh remarks  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMUp0Y2RpUlUyc1ZQakFhRXB4TjZwTlIzb1FUTVFCdEVMNHp6LWdkdXc2ZkdCUVo0TmZyb25XWUYzS0dkLTJuVzAzcldNWnhRZTJLREotVi1pQUlOeS1QMmM3ZWhVeTZIOTg2UGMtNzhZQ1EzM3BydUVGMC0xdzdOMzNBZ2VxOTNncUJOT2ZQa0FGU2FrR1YxYUNNcU9va2VRTXJ6ZGFscUdSRmc3V3JtRDJHaXE?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1788095745,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1788115871,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The article reports that Gulf stocks have fallen due to increased bets on a potential US Federal Reserve rate hike following remarks by former Fed Governor Kevin Warsh. Warsh's comments suggested that the Fed may raise interest rates sooner than expected, leading to a sell-off in Gulf stocks. The Gulf region's economies are heavily reliant on oil exports, and a rate hike in the US could lead to a stronger US dollar, making oil exports more expensive and reducing demand. This could have a negative impact on the region's economies and the stocks of companies operating in the region.",
+      "impact": "The potential rate hike could lead to a short-term sell-off in Gulf stocks, particularly those with high exposure to oil exports. In the medium term, a stronger US dollar could reduce demand for oil exports, leading to lower earnings for companies in the region. This could also lead to a decline in investor sentiment and liquidity in the region's stock markets.",
+      "risks": [
+        "interest rate risk",
+        "currency risk",
+        "earnings slowdown risk"
       ]
     }
   },
@@ -230,6 +299,29 @@
     }
   },
   {
+    "id": "8418307",
+    "headline": "War weighs on Iran's economy as US intensifies sanctions - Reuters",
+    "summary": "War weighs on Iran's economy as US intensifies sanctions  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQmtVbEg3UlB1QzhqQTZJLTRJY1ZfZWJTZjVrVjVPWDFDT3dGd0RxTEQ3M19hVEFHcldMaEpxcncwNGxlQ1ZDMzA3T09ScHFKdjFEYVQ4Yi1BdFNHdmNuVlpmN3MtWUVOSlVVTEZoRjlxRDZQQ3VpejdGRGg4bEh1NzRyMjJuYU15c2t1V0V3ckJxeDBLdUs4WFNkeEhnSWl3dW9keE5YMA?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1788012065,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1787995448,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The US has intensified sanctions on Iran, weighing heavily on the country's economy. The sanctions are expected to limit Iran's oil exports, a crucial revenue source for the government. This move is a continuation of the ongoing tensions between the US and Iran, which have been escalating since the US withdrew from the Iran nuclear deal in 2018. The sanctions are likely to exacerbate Iran's economic struggles, which have been compounded by high inflation and a weak currency.",
+      "impact": "The intensified sanctions are likely to negatively impact oil-related stocks, particularly those with exposure to the Middle East region. In the short term, the sanctions may lead to a decline in oil prices, which could benefit US oil companies. However, in the medium term, the sanctions could lead to a decline in oil production and exports from Iran, potentially impacting global oil supplies and prices. This could have a negative impact on global oil companies with significant exposure to the region.",
+      "risks": [
+        "decline in oil prices",
+        "reduced oil production and exports from Iran",
+        "negative impact on global oil supplies and prices"
+      ]
+    }
+  },
+  {
     "id": "8420535",
     "headline": "The big lesson from this week's earnings: The AI buildout is not a zero-sum game",
     "summary": "Salesforce, CrowdStrike, and Nvidia all faced major tests with investors and crushed expectations.",
@@ -414,29 +506,6 @@
     }
   },
   {
-    "id": "8418307",
-    "headline": "War weighs on Iran's economy as US intensifies sanctions - Reuters",
-    "summary": "War weighs on Iran's economy as US intensifies sanctions  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQmtVbEg3UlB1QzhqQTZJLTRJY1ZfZWJTZjVrVjVPWDFDT3dGd0RxTEQ3M19hVEFHcldMaEpxcncwNGxlQ1ZDMzA3T09ScHFKdjFEYVQ4Yi1BdFNHdmNuVlpmN3MtWUVOSlVVTEZoRjlxRDZQQ3VpejdGRGg4bEh1NzRyMjJuYU15c2t1V0V3ckJxeDBLdUs4WFNkeEhnSWl3dW9keE5YMA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1787969040,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1787995448,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The US has intensified sanctions on Iran, weighing heavily on the country's economy. The sanctions are expected to limit Iran's oil exports, a crucial revenue source for the government. This move is a continuation of the ongoing tensions between the US and Iran, which have been escalating since the US withdrew from the Iran nuclear deal in 2018. The sanctions are likely to exacerbate Iran's economic struggles, which have been compounded by high inflation and a weak currency.",
-      "impact": "The intensified sanctions are likely to negatively impact oil-related stocks, particularly those with exposure to the Middle East region. In the short term, the sanctions may lead to a decline in oil prices, which could benefit US oil companies. However, in the medium term, the sanctions could lead to a decline in oil production and exports from Iran, potentially impacting global oil supplies and prices. This could have a negative impact on global oil companies with significant exposure to the region.",
-      "risks": [
-        "decline in oil prices",
-        "reduced oil production and exports from Iran",
-        "negative impact on global oil supplies and prices"
-      ]
-    }
-  },
-  {
     "id": "8417906",
     "headline": "Iran's navy says it has 'full control' over Strait of Hormuz - Reuters",
     "summary": "Iran's navy says it has 'full control' over Strait of Hormuz  Reuters",
@@ -479,6 +548,29 @@
         "inflation risk",
         "interest-rate hike timing risk",
         "macroeconomic uncertainty risk"
+      ]
+    }
+  },
+  {
+    "id": "8425776",
+    "headline": "Trump signs order to create a US Space Academy - Reuters",
+    "summary": "Trump signs order to create a US Space Academy  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWklmRzYtdUxEaWNGamhqcHNQSnI1NEVYOTNVVHdQaFlTYzBNbFZ0M01xUlkwU1lCTzJObU1aa3dfZVdkMEpLZGhyQUFCVTQ3UVptVngtNWl6UXBzS0xhUTM3bi1xZEg3SjdyckZ3M0k5c0FSQy0zTnpMMWEzVmhjVW5ENXoyWjMzeUlFSmZjX3p4SGE3eUVVT05SQ0I1elF5OW9KT0pGX1NLaHlO?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1787945179,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1788115922,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "US President Trump has signed an order to create a US Space Academy, a move that aims to boost the country's space exploration capabilities. The academy will focus on training astronauts, engineers, and scientists to work on space-related projects. This initiative is a significant step towards the US government's goal of establishing a human presence on the moon and Mars by 2024. The creation of the academy is expected to stimulate the growth of the US space industry, which is already seeing significant investments from private companies like SpaceX and Blue Origin. The US government's commitment to space exploration is likely to create new opportunities for companies involved in the space sector.",
+      "impact": "The creation of the US Space Academy is likely to have a positive impact on the stocks of companies involved in the space industry, such as aerospace manufacturers and satellite operators. Companies like Boeing, Lockheed Martin, and Northrop Grumman may benefit from increased government spending on space-related projects. The academy's focus on training and education may also lead to an increase in demand for space-related services and products, benefiting companies like SpaceX and Blue Origin. In the short-term, the news may lead to a surge in investor interest and sentiment in the space industry, potentially driving up stock prices.",
+      "risks": [
+        "regulatory approval risk",
+        "integration risk",
+        "dependence on government funding risk"
       ]
     }
   },
@@ -1170,7 +1262,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1787895584,
+    "publishedAt": 1787895480,
     "analysis": {
       "version": 2,
       "generatedAt": 1788069386,
@@ -1309,7 +1401,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1787879880
+    "publishedAt": 1787879880,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1788115970,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The US military has successfully used a laser to down three Mexican cartel drones near the border. This event is not directly related to any specific company or industry, but it highlights the ongoing security concerns and tensions along the US-Mexico border. The use of advanced technology, such as lasers, to counter drone threats is a growing trend in the defense sector. This news may have implications for defense contractors and companies involved in the development of counter-drone technologies.",
+      "impact": "The short-term impact on related stocks is likely to be minimal, as this news is not directly related to any specific company. However, in the medium term, this development may lead to increased demand for defense contractors and companies involved in counter-drone technologies, potentially boosting their earnings outlook and valuation. Companies such as Northrop Grumman (NOC) and Lockheed Martin (LMT) may benefit from this trend.",
+      "risks": [
+        "Regulatory risks associated with the development and deployment of advanced defense technologies",
+        "Uncertainty around the effectiveness of counter-drone technologies in real-world scenarios",
+        "Potential backlash from civil liberties groups and human rights organizations"
+      ]
+    }
   },
   {
     "id": "8413618",
@@ -1319,7 +1424,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1787877463,
+    "publishedAt": 1787876940,
     "analysis": {
       "version": 2,
       "generatedAt": 1787900872,
@@ -22024,98 +22129,6 @@
       "summary": "Alphabet's shares slumped midday after the company announced a leadership change and the departure of some of its top AI talent, including Demis Hassabis stepping down as CEO of Google DeepMind and Jeff Dean leaving to co-found Discovery Loop. This news adds to the narrative that Alphabet may lose its edge in AI, despite Demis Hassabis remaining involved in a leadership role. The company has been battling this perception for months, with a reported delay in the release of its most powerful Gemini model also contributing to concerns. Alphabet's foundation for long-term success remains in place with Thomas Kurian running Google Cloud.",
       "impact": "The news is likely to have a short-term negative impact on Alphabet's stock price due to the perception that the company is losing its edge in AI. However, the company's strong foundation and leadership in AI, including Demis Hassabis' continued involvement, suggests that the impact may be limited in the medium term. The departure of top talent may also lead to increased competition for Alphabet in the AI space, potentially driving up costs and reducing profit margins.",
       "risks": []
-    }
-  },
-  {
-    "id": "8307653",
-    "headline": "US unveils charges against five leaders of Mexico's CJNG cartel - Reuters",
-    "summary": "US unveils charges against five leaders of Mexico's CJNG cartel  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeUJ1NzFZNjZQZFFHWWcyajkxeEJtbjJGOWtmWm9uX1B5Z2ZFRHZ0b2Z0bnhqSjBsUm1fZTBPTTZoZjhCU3JYV3N5N2xqeUNJbWc2TE9jc0lkRjl0T0FUMFRtamhZQThUdFY1RDdJTklqYTl2ZXhRVnpTZnVzY3RZRUcwdDdKSTRBWlFubVgwUkE2eVdlY1NxRjhzWGJiQjNsZHZQa3dhMjZUYjRkQldDUml3?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1785955157,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1786131745,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The US government has charged five leaders of Mexico's CJNG cartel, a significant development in the ongoing fight against organized crime. The CJNG cartel is known for its involvement in the production and trafficking of illicit substances, including fentanyl and cocaine. This news may lead to increased scrutiny of Mexican cartels' activities in the US, potentially affecting companies involved in the supply chain of these substances, such as pharmaceutical companies or logistics providers. The US government's efforts to combat organized crime may also lead to increased security measures, which could impact businesses operating in the region.",
-      "impact": "The short-term impact on related stocks may be minimal, but the medium-term effects could be significant. Companies involved in the supply chain of illicit substances may face increased scrutiny, potentially leading to higher costs and decreased demand. This could negatively impact their earnings outlook and valuation. Additionally, the increased security measures may lead to higher costs for businesses operating in the region, further impacting their profitability.",
-      "risks": [
-        "regulatory risk",
-        "supply chain disruption risk",
-        "security risk"
-      ]
-    }
-  },
-  {
-    "id": "8302116",
-    "headline": "Phillips 66 beats quarterly estimates as Iran war boosts US refining margins - Reuters",
-    "summary": "Phillips 66 beats quarterly estimates as Iran war boosts US refining margins  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdFdjb1Q5RzUtcnRaUmV5U2FuN0dBcUZwT3RMa2pqVVVocG8zZmRPV2E1NjhlRTR6TXBsN1NHQ21EUTJvQ0JvV2NtbXhWbHVjMUN3NHFvTzlVR0IxUmxHaTFUbEpNX0xJSFFncjE4UllwaTJ2bm9UVTdHd00xOVBuTmZJVXRCekZPclluTDhFQUF2S3MwcG5rR3VrOE5TdFBHd3piYTRjTW9yVldvZGFVV3lfa1pLNlIzTXloYQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1785955127,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1785956778,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Phillips 66 has reported better-than-expected quarterly earnings, driven by higher US refining margins due to the ongoing Iran-US conflict. The conflict has led to increased tensions in the Middle East, resulting in reduced oil exports from Iran. This, in turn, has boosted US refining margins as domestic demand remains strong. The company's refining business has benefited from this situation, with increased profitability. The news is positive for Phillips 66 as it indicates a favorable environment for its refining operations.",
-      "impact": "The news is expected to have a positive impact on Phillips 66's stock price in the short term, driven by the improved earnings outlook. The company's refining business is likely to continue benefiting from the current environment, leading to increased profitability. This could lead to a re-rating of the stock, with investors reassessing its valuation. The news may also boost sentiment towards the energy sector as a whole, with other refining and energy companies potentially benefiting from the same factors.",
-      "risks": [
-        "Escalation of the Iran-US conflict could lead to a decrease in US refining margins if Iran's oil exports are not significantly impacted.",
-        "A decrease in global demand for oil or a shift in global supply dynamics could reduce US refining margins and negatively impact Phillips 66's earnings.",
-        "Geopolitical tensions in the Middle East could lead to increased volatility in the oil market, affecting Phillips 66's refining business."
-      ]
-    }
-  },
-  {
-    "id": "8300320",
-    "headline": "Yemen's Houthis say they attacked Saudi oil tankers in Red Sea, Gulf of Aden - Reuters",
-    "summary": "Yemen's Houthis say they attacked Saudi oil tankers in Red Sea, Gulf of Aden  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWEQwU2pxeTRYSXhNQWtrT3hmNFhmOUx6eVUzUUt4aVBtOEpub01Fa3U5S0ZOYXRmU2oyb0t4WEpRRXZ3VmwxWksyYkNRcF9GbFJvbEpkMGxWWVY5alo2NS1LdDFzMWVPdmYtV082T3JOaVpoYW5NTFNncUxHZndSdnUzMXdWWHNXQWQ3NXZXMy02MDloQ3dWTHJhWHBfS2pNVnZoUXBEcVZKQm1HZXl5Ug?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1785954855,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1785925025,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Yemen's Houthi rebels have claimed responsibility for an attack on a Saudi oil tanker in the Red Sea. The incident occurred on the same day that the US and Saudi Arabia announced a new security agreement to enhance maritime security in the region. The attack highlights the ongoing tensions between Saudi Arabia and Yemen, which have been at odds since the Houthi rebellion began in 2015. The attack also underscores the risks of oil supply disruptions in the region, which could impact global oil prices and the profitability of oil producers. The incident may also raise concerns about the safety of shipping routes in the Red Sea.",
-      "impact": "The attack on the Saudi oil tanker could lead to a short-term increase in oil prices, benefiting oil producers such as Aramco (TADAWUL: 7010) and other major oil companies. However, the medium-term impact could be negative for the Saudi economy and the oil market if the conflict escalates and disrupts oil supplies. The incident may also raise concerns about the safety of shipping routes in the Red Sea, potentially affecting the shipping industry and companies that operate in the region. The attack may also increase tensions between Saudi Arabia and the US, potentially impacting the US-Saudi relationship and the stability of the region.",
-      "risks": [
-        "Escalation of conflict and oil supply disruptions",
-        "Increased tensions between Saudi Arabia and the US",
-        "Impact on global oil prices and the profitability of oil producers"
-      ]
-    }
-  },
-  {
-    "id": "8304210",
-    "headline": "India eyes Venezuela blocks operatorship; regains Russia's Sakhalin-1 stake - Reuters",
-    "summary": "India eyes Venezuela blocks operatorship; regains Russia's Sakhalin-1 stake  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeHJQR2VJMFIybHdNckgwMEh4WjNmSHFpbkhNcDQ4c2U3eUlObzltVHU0WXh5OTl0Y3FPWXpNQ1czd2NGZ2pkSmwyQnBucHNYV3pTeUZOUU9fa1owcmNrRFNWZm1wOGRuU1BGRXVfQXFLOUU3RFJoT2FTc04tUVFBYnBWS0tqZTdKRm0zRFY3Ty1lRjlaLVRQdksxQXlSc3NCUFhBWXMyWWQ0bzBWUmYtbUJ2N0U0UGdObUhROF9RMzljR2c?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1785954604,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1786001435,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "India has regained operatorship of the Sakhalin-1 oil field in Russia and is eyeing operatorship of Venezuela's oil blocks. This move is a significant shift in the global energy landscape, as India seeks to diversify its energy sources and reduce dependence on imports. The Sakhalin-1 field is a major oil producer, and regaining control will increase India's oil production and reduce costs. The move also signals India's growing influence in the global energy market.",
-      "impact": "The regaining of operatorship of Sakhalin-1 and potential operatorship of Venezuela's oil blocks is likely to have a positive impact on Indian oil companies, such as ONGC (Oil and Natural Gas Corporation) and IOC (Indian Oil Corporation), as they will benefit from increased oil production and reduced costs. In the short-term, this could lead to improved earnings and increased liquidity for these companies. In the medium-term, this could lead to increased market share and competitiveness for Indian oil companies in the global market.",
-      "risks": [
-        "regulatory approval risk for the Venezuela blocks",
-        "integration risk for the Sakhalin-1 field",
-        "geopolitical risk in Venezuela and Russia"
-      ]
     }
   }
 ]
