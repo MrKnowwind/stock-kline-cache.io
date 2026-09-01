@@ -1,5 +1,75 @@
 [
   {
+    "id": "8431838",
+    "headline": "U.S. House aims to avoid government shutdown amid GOP hardliner resistance",
+    "summary": "The U.S. House on Tuesday is expected to vote on a short-term spending measure that would avoid a government shutdown until after November's midterm election.",
+    "url": "https://www.cnbc.com/2026/09/01/congress-government-shutdown-vote.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108148762-1747842798708-gettyimages-2215650104-hfc_BC_222_052125JPG.jpeg?v=1747842821&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1788270718,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1788275585,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "The US House is expected to vote on a short-term spending measure to avoid a government shutdown. The bill, which has already passed the Senate, would keep the government funded through December 11. However, GOP hardliners in the House Freedom Caucus are objecting to the bill due to concerns over funding for Planned Parenthood and the absence of a ban on hemp products containing THC. House Speaker Mike Johnson plans to bring the bill to the floor using a process that requires a two-thirds vote, which may be complicated by the opposition from the Freedom Caucus.",
+      "impact": "The potential passage of the spending measure is unlikely to have a significant impact on the overall market, but it may lead to increased volatility in the short term due to the uncertainty surrounding the vote. If the bill passes, it could provide a temporary boost to the economy, but the medium-term effects are likely to be minimal. The opposition from the Freedom Caucus may also lead to a delay in the vote, which could have a negative impact on the overall market sentiment and potentially lead to a sell-off.",
+      "risks": [
+        "Government shutdown risk",
+        "Increased market volatility risk",
+        "Uncertainty surrounding the vote risk"
+      ]
+    }
+  },
+  {
+    "id": "8431807",
+    "headline": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+    "summary": "Robinhood lands an upgrades. And is there a path for rates to go lower?",
+    "url": "https://www.cnbc.com/2026/09/01/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108274880-17728173772026-03-06t171207z_803448419_rc22zjavxzeg_rtrmadp_0_robinhood-fund-ipo.jpeg?v=1772820327&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1788267577,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1788275634,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Jim Cramer's top 10 things to watch in the stock market on Tuesday highlights Robinhood's upgrade, which may indicate a positive sentiment shift towards the fintech sector. The upgrade could lead to a short-term rally in Robinhood's stock, potentially benefiting other fintech companies. Additionally, the article mentions the possibility of lower interest rates, which could have a positive impact on the overall market and specific sectors such as housing and consumer discretionary. However, the article does not provide specific details about the path for rates to go lower.",
+      "impact": "The upgrade of Robinhood could lead to a short-term rally in the stock, potentially benefiting other fintech companies. The possibility of lower interest rates could have a positive impact on the overall market, particularly on housing and consumer discretionary sectors. This could lead to increased investor sentiment and liquidity in these sectors. In the medium term, a decrease in interest rates could also lead to increased demand for consumer discretionary products and services.",
+      "risks": [
+        "Regulatory risk for fintech companies",
+        "Interest rate volatility risk",
+        "Market sentiment shift risk"
+      ]
+    }
+  },
+  {
+    "id": "8431757",
+    "headline": "10-year yield hits highest since January 2025 as Middle East tensions return to focus",
+    "summary": "Treasury yields increased on Tuesday as investors monitored a reignition of tensions in the Middle East.",
+    "url": "https://www.cnbc.com/2026/09/01/bonds-treasury-yields-middle-east-tensions.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108260252-1770053255438-108260252-1770053182859-gettyimages-2259052267-US_STOCKS.jpg?v=1770223959&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1788259672,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1788275686,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The recent escalation of tensions in the Middle East has driven global government borrowing costs to their highest point since January 2025, with the 10-year Treasury note yield reaching 4.766%. This increase in yields is largely driven by the uncertainty surrounding the geopolitical situation and its potential impact on oil prices, which have risen by 3% and 2% for West Texas Intermediate and Brent crude, respectively. The heightened uncertainty is also expected to persist in the near term due to the ongoing conflict and the upcoming G20 finance ministers' meeting. The increased borrowing costs are also being driven by inflation worries and uncertainty over the Federal Reserve's policy outlook.",
+      "impact": "The potential impact on the market is likely to be negative, particularly for sectors that are sensitive to interest rates and oil prices. The increased borrowing costs may lead to a decrease in consumer spending and a slowdown in economic growth, which could negatively impact companies with high debt levels or those that are heavily reliant on consumer spending. The oil price increase may also have a positive impact on energy companies, but this may be offset by the negative impact on the broader market. In the short term, the increased volatility may lead to a decrease in investor sentiment and a decline in stock prices.",
+      "risks": [
+        "inflation risk",
+        "interest rate risk",
+        "geopolitical risk",
+        "oil price volatility risk"
+      ]
+    }
+  },
+  {
     "id": "8431508",
     "headline": "Risk-reward outlook for stocks is getting worse as historically tough month kicks off, says Citadel",
     "summary": "The risk-reward of buying protection in the equity market looks compelling.",
@@ -570,7 +640,20 @@
     "source": "Bloomberg",
     "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
     "relatedSymbols": [],
-    "publishedAt": 1788161524
+    "publishedAt": 1788161524,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1788275735,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Lithium miners are experiencing significant profits due to the surge in demand for battery storage, driven by the growth of data centers and renewable power. The China's globally-watched spot price for lithium has increased by 22% in the first half of the year. This growth is attributed to the increasing adoption of energy storage solutions, which is expected to continue as the world transitions towards cleaner energy sources. The demand for lithium is expected to remain strong in the medium term, driven by the growth of renewable energy and the need for energy storage solutions.",
+      "impact": "The surge in lithium demand is likely to have a positive impact on the earnings outlook for lithium miners, leading to higher profits and potentially higher stock prices. The increased demand for lithium is also expected to drive up the valuation of related stocks, making them more attractive to investors. The sentiment towards the sector is likely to be positive, with investors becoming more optimistic about the growth prospects of lithium miners.",
+      "risks": [
+        "Supply chain disruptions risk",
+        "Price volatility risk",
+        "Dependence on renewable energy growth risk"
+      ]
+    }
   },
   {
     "id": "8429576",
@@ -580,7 +663,16 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1788160654
+    "publishedAt": 1788160654,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1788275784,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Greece is set to sign a $3.5 billion deal with Israel for an air defence system, marking a significant development in the country's military modernization efforts. The deal is expected to strengthen Greece's national security and defense capabilities. The agreement is a result of Greece's efforts to enhance its military presence in the Eastern Mediterranean, particularly in the context of the ongoing tensions with Turkey. The deal is expected to have a positive impact on the Greek economy, particularly in the defense sector. The air defence system is expected to be supplied by Israel's Rafael Advanced Defence Systems.",
+      "impact": "The news is likely to have a positive impact on Israel Aerospace Industries (IAI) and Rafael Advanced Defence Systems, as they are expected to be the primary beneficiaries of the deal. The deal is expected to boost their earnings in the short term, driven by the significant revenue from the contract. In the medium term, the deal is expected to improve the companies' valuation multiples, driven by the increased demand for their products and services. The deal is also likely to have a positive impact on the overall defense sector, which could lead to increased investor interest and sentiment.",
+      "risks": []
+    }
   },
   {
     "id": "8429577",
@@ -21603,75 +21695,6 @@
         "Decreased sales and earnings due to consumer fear of fresh produce",
         "Broader industry impact on salad chains and related stocks",
         "Uncertainty around the pace and timing of recovery"
-      ]
-    }
-  },
-  {
-    "id": "8307740",
-    "headline": "Stocks close lower as investors eye Mideast talks, earnings - Reuters",
-    "summary": "Stocks close lower as investors eye Mideast talks, earnings  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa2poa2tBUFVOZFo0R0Q4T2lKVF9aWk5CWGd1Y1A0aXlTOFE1c1JBNlF3bk9qLVlnSUFmMTZoT05MVExKZk9oQzVhUmg4SnBLZ29vLUFDMU1Qb1lOZmd5ZVZHRGVuaTJHWWJyUjFRV19pU3U4NmItdkd0d2JaNWVUSmJZcFBSVEtPVDQyd1RySlA0Q2VCT3RZSzlsSUFPY2FsLUtNMWlubFpQbkZiVmt6TjBZdmRZeXlPMFBZ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1786047757,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1786074099,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "Global stock markets closed lower as investors remained cautious ahead of Middle East peace talks and upcoming earnings reports. The news article highlights the uncertainty surrounding the talks and their potential impact on global markets. Investors are also focusing on upcoming earnings reports, which may influence market sentiment. The article does not provide specific details on the stocks affected, but the general market downturn suggests a negative sentiment towards the overall market. The uncertainty and caution among investors are likely to continue in the short term.",
-      "impact": "The potential impact on stocks is expected to be negative in the short term due to the uncertainty surrounding the Middle East peace talks and the upcoming earnings reports. Investors may become more risk-averse, leading to a decrease in stock prices. The market downturn may also lead to a decrease in investor confidence, which could have a medium-term impact on the overall market. The earnings reports may provide some clarity on the companies' performance, but the current uncertainty may lead to a cautious approach from investors.",
-      "risks": [
-        "market volatility risk",
-        "earnings disappointment risk",
-        "geopolitical uncertainty risk"
-      ]
-    }
-  },
-  {
-    "id": "8309572",
-    "headline": "Pakistan broadens foreign media curbs to local staff, drawing backlash - Reuters",
-    "summary": "Pakistan broadens foreign media curbs to local staff, drawing backlash  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX0d1dkk0cXAwVmZ3VkdFSjNMMVdfbk1PSS1VYmdMSzhkSFNaeXFfamx0Y05yazRnQ1BQd3lYRlF2bnJSRDJ0Q0Nxd3JIbDdhaEJDay00MHlrODNUai1jY000OV8weFgxVHMwQVE4akJkOVNLVFFHSzVaaDVuQXhZcVB3SjdVdkl4b2JUcVdLV2JpYU5FcURhNkowTG4xNW85aFByQTZhUmRjZDZoT1NPVlQ3bGpla0tRRXZ3UjNJZU56VVU?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1786047584,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1786074144,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "Pakistan has broadened its foreign media curbs to include local staff, drawing backlash from the international community. The government has restricted access to social media and online platforms for local journalists and media outlets, citing national security concerns. This move is part of a larger effort to control the narrative and suppress dissenting voices. The restrictions are likely to impact the country's already fragile media landscape and further restrict the flow of information. This could have broader implications for the country's economy and investment climate.",
-      "impact": "The potential impact on stocks related to Pakistan's media and telecom industries could be negative, as the restrictions may limit their growth prospects and increase regulatory risks. The short-term impact may be limited, but the medium-term effects could be more significant, particularly if the restrictions lead to a decline in investor confidence and a decrease in foreign investment. The restrictions may also lead to a decrease in advertising revenue for media outlets, further exacerbating the challenges they face.",
-      "risks": [
-        "regulatory risk",
-        "revenue decline risk",
-        "investor sentiment risk"
-      ]
-    }
-  },
-  {
-    "id": "8308054",
-    "headline": "American Airlines will stop upgrading elite flyers to business from coach on long domestic flights",
-    "summary": "American Airlines will no longer give elite frequent flyers free upgrades from economy class to business on some of its longest domestic routes",
-    "url": "https://www.cnbc.com/2026/08/06/american-airlines-flight-upgrades-become-harder-to-get.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108025032-1724437349260-gettyimages-2167250314-AFP_36EN87H.jpeg?v=1724437432&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1786046217,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1786080417,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "American Airlines will stop upgrading elite frequent flyers to business class on long domestic flights, instead offering them a complimentary upgrade to premium economy. This change is part of the airline's strategy to increase revenue and profits by reducing the number of high-fare seats given away. The routes affected include several transcontinental and Hawaii routes. Elite flyers who purchase a premium economy ticket or upgrade from coach will still be eligible for a complimentary upgrade. This change is a sign of the airline's focus on maximizing revenue and profits.",
-      "impact": "This change is likely to have a negative impact on the airline's customer loyalty and satisfaction, potentially leading to a decline in bookings and revenue. In the short-term, this may not have a significant impact on the stock price, but in the medium-term, it could lead to a decline in American Airlines' market share and earnings. The airline's focus on revenue growth may also lead to increased competition from other airlines, potentially affecting the stock's valuation.",
-      "risks": [
-        "decline in customer loyalty and satisfaction risk",
-        "increased competition risk",
-        "revenue growth risk"
       ]
     }
   }
