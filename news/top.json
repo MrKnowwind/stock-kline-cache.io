@@ -455,7 +455,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1788172303
+    "publishedAt": 1788172303,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1788258548,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Qatar's first-quarter GDP fell 7% due to the ongoing Iran war, which has weighed heavily on the country's energy production. The war has disrupted oil and gas exports, a crucial component of Qatar's economy. This decline in energy production has led to a decrease in GDP, affecting the country's overall economic performance. The impact of the war on Qatar's energy sector is a significant concern for investors.",
+      "impact": "The news is likely to have a negative impact on energy-related stocks in the region, particularly those with exposure to Qatar's oil and gas sector. Investors may reassess their earnings outlook for companies with significant operations in Qatar, potentially leading to a decline in stock prices. The medium-term impact may be a decrease in investor sentiment towards the region's energy sector, making it a less attractive investment opportunity. This could lead to a decrease in liquidity and a subsequent decline in stock prices.",
+      "risks": [
+        "decline in energy production risk",
+        "disruption to oil and gas exports risk",
+        "decrease in investor sentiment risk"
+      ]
+    }
   },
   {
     "id": "8430232",
@@ -465,7 +478,66 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1788171828
+    "publishedAt": 1788171828,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1788258596,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The article discusses various news topics, including US-Iran strikes, Meta's AI layoff plan, and bear break-ins. The US-Iran strikes are a geopolitical event that may have implications for the global economy, but the article does not provide specific details on how this may affect the stock market. Meta's AI layoff plan is a significant event for the tech industry, as it may indicate a shift in the company's priorities and potentially impact its earnings outlook. The bear break-ins are a local event that may not have a significant impact on the stock market.",
+      "impact": "The US-Iran strikes may lead to increased volatility in the global economy, potentially affecting the earnings outlook of companies with exposure to the Middle East. Meta's AI layoff plan may lead to a short-term increase in the stock's volatility due to concerns about the company's future earnings and valuation. The bear break-ins are unlikely to have a significant impact on the stock market.",
+      "risks": [
+        "geopolitical risk",
+        "earnings volatility risk",
+        "valuation risk"
+      ]
+    }
+  },
+  {
+    "id": "8431737",
+    "headline": "NIIF eyes Japan, Europe to reach $3.2 billion goal",
+    "summary": "NIIF targets $3.2 billion by attracting investors from Japan and Europe, having secured $2 billion in its latest infrastructure fund.",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-31/india-s-niif-eyes-japan-europe-capital-for-3-2-billion-fund",
+    "source": "Bloomberg",
+    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+    "relatedSymbols": [],
+    "publishedAt": 1788169973,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1788258647,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "NIIF, India's sovereign wealth fund, aims to reach $3.2 billion by tapping into Japanese and European investors. The fund has already secured $2 billion in its latest infrastructure fund, indicating strong interest from foreign investors. This development is a positive sign for India's infrastructure sector, which is expected to drive economic growth. The fund's expansion plans demonstrate the country's ability to attract foreign capital, boosting investor confidence.",
+      "impact": "The news is likely to have a positive impact on Indian infrastructure stocks, potentially leading to an increase in their valuations. This could be driven by the expected influx of foreign capital, which may lead to improved earnings outlook and liquidity for these companies. In the short-term, investors may react positively to the news, driving up stock prices of companies involved in infrastructure development. However, the medium-term impact will depend on the successful execution of NIIF's expansion plans and the actual investment inflows.",
+      "risks": [
+        "execution risk of NIIF's expansion plans",
+        "geopolitical tensions affecting foreign investment flows",
+        "market volatility impacting investor sentiment"
+      ]
+    }
+  },
+  {
+    "id": "8431738",
+    "headline": "HDFC Bank CEO search: Lender looks to hire headhunter",
+    "summary": "New CEO is likely to be tasked with shoring up investor confidence at HDFC Bank, whose shares have fallen 28% this year",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-31/hdfc-bank-to-hire-headhunter-after-ceo-s-surprise-exit",
+    "source": "Bloomberg",
+    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+    "relatedSymbols": [],
+    "publishedAt": 1788169902,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1788258702,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "HDFC Bank is searching for a new CEO after the surprise exit of its current CEO, which has led to a 28% decline in shares this year. The new CEO will be tasked with restoring investor confidence, which has been eroded by recent events. The bank's shares have been under pressure due to concerns over governance and leadership, which may impact its ability to attract deposits and loans. The search for a new CEO is a step towards addressing these concerns, but the process may take time and could lead to further volatility in the stock price.",
+      "impact": "The appointment of a new CEO may lead to a short-term rally in HDFC Bank's shares as investors become more confident in the bank's leadership. However, the medium-term impact is uncertain, as the new CEO will need to address the underlying issues that led to the current CEO's exit. This may involve cost-cutting measures, changes to the bank's business strategy, or other initiatives that could impact earnings and valuation.",
+      "risks": [
+        "Uncertainty around the new CEO's leadership style and ability to restore investor confidence",
+        "Potential for further share price volatility during the CEO search and transition process",
+        "Risk of increased competition for deposits and loans in a highly competitive banking industry"
+      ]
+    }
   },
   {
     "id": "8431082",
@@ -475,7 +547,30 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1788167713
+    "publishedAt": 1788167713,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1788258753,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The United Arab Emirates (UAE) has condemned an attack by a drone coming from Iran as a dangerous escalation. The incident occurred when UAE forces dealt with the drone, indicating a heightened state of alertness in the region. This event is likely a response to the ongoing tensions between the UAE and Iran, which have been escalating in recent months. The situation is a concern for regional stability and may lead to further military action. The incident may also affect the global oil market, as the UAE is a significant oil producer.",
+      "impact": "The incident is likely to have a negative impact on the oil and gas sector in the UAE, potentially leading to a short-term increase in oil prices. This, in turn, may affect the earnings outlook of companies in the sector, such as those listed on the Abu Dhabi Securities Exchange. The medium-term impact may be a decrease in investor sentiment and a decrease in stock prices for companies with exposure to the region. Additionally, the incident may lead to increased military spending and a rise in defense stocks.",
+      "risks": [
+        "Escalation of conflict risk",
+        "Oil price volatility risk",
+        "Regional instability risk"
+      ]
+    }
+  },
+  {
+    "id": "8431708",
+    "headline": "Lithium miners post big profits as battery storage demand surges",
+    "summary": "China’s globally-watched spot price for lithium surged 22% over the first half as energy storage emerged as a meaningful demand source due to the growth of data centers and renewable power",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-31/lithium-miners-post-big-profits-as-battery-storage-demand-surges",
+    "source": "Bloomberg",
+    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+    "relatedSymbols": [],
+    "publishedAt": 1788161524
   },
   {
     "id": "8429576",
@@ -21577,73 +21672,6 @@
         "decline in customer loyalty and satisfaction risk",
         "increased competition risk",
         "revenue growth risk"
-      ]
-    }
-  },
-  {
-    "id": "8304105",
-    "headline": "Gold pares gains to trade steady as oil rises on Iran proposal to bar 'hostile' vessels in Hormuz - Reuters",
-    "summary": "Gold pares gains to trade steady as oil rises on Iran proposal to bar 'hostile' vessels in Hormuz  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVWd6ZjFIZXZHQ2JsNi1UdXBvS1JIUm0xYWtjaDQ1UXVOczhzTzZLNEY0ZTRtb1l5N2lrY09ERHFySlMyakJJNndhRUx5M0FabFZ5TllJZWZPU05na2VqMkRVckJ2VndLdUlFUGd1NklHQlN6V1VJUzRxS09jUmtVVWhMTGRuVlN3YzctZjhBWVI2UUZkQkJqZ0NvdF9uQ1I0RGtCNVNORThqQQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1786044642,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1785991868,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Gold prices have risen to a seven-week high due to hopes of the Strait of Hormuz reopening, which would ease tensions in the Middle East and reduce concerns about global oil supply disruptions. The Strait of Hormuz is a critical waterway for oil exports, and its closure would have significant implications for the global economy. The reopening of the Strait is seen as a positive development for the global economy, which has been impacted by the ongoing tensions in the region. This news is likely to have a positive impact on gold prices, as investors seek safe-haven assets during times of uncertainty.",
-      "impact": "The potential reopening of the Strait of Hormuz is likely to have a positive impact on gold prices in the short term, as investors seek safe-haven assets during times of uncertainty. This could lead to increased demand for gold, which could drive up prices. In the medium term, a stable global oil supply could also lead to a decrease in inflation expectations, which could negatively impact the price of gold. However, the overall impact on gold prices is likely to be positive in the short term.",
-      "risks": [
-        "Increased demand for gold could lead to a surge in prices, which could be a risk for investors who have short positions in gold. A sudden increase in gold prices could also lead to a decrease in investor confidence in the global economy, which could have broader market implications."
-      ]
-    }
-  },
-  {
-    "id": "8304207",
-    "headline": "Oil settles up $3 as Iran reviews bill to ban US, Israeli vessels from Hormuz - Reuters",
-    "summary": "Oil settles up $3 as Iran reviews bill to ban US, Israeli vessels from Hormuz  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTmw0WV9PeEJVU0pBczd6UzhWSjdUMlQ2aDhwUGxDbWdvc3hMakw5d3h3Q2wxMXNRakctZjRlTW8wNi1PNnU2eDY0anYxakZYSkZBSVN6SUhJOEF4aW1HSTVnUWREc3k2dFBvUEl0azM4TXFoV1I1S1pJRVlVUm1SakpIeVFqM0wxS2gtMDFvc3ktZ05QYjc3VXRtSHdsNk9hLWUwb3VxTzBFcVhBeUx3Zm82Zw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1786044232,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1785991915,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Oil prices have slipped due to hopes of a US-Iran peace deal, which could lead to a potential increase in oil supply. The talks between Iran and Oman have sparked optimism about a possible agreement, which could ease tensions in the Middle East and potentially reduce the risk of a conflict that could disrupt oil production. This development has contributed to a decline in oil prices, as the market has priced in a potential increase in supply. The news is a positive sign for oil-consuming companies and a negative sign for oil-producing companies.",
-      "impact": "The potential US-Iran peace deal could lead to a short-term decline in oil prices, benefiting oil-consuming companies such as airlines, shipping companies, and retail businesses. In the medium term, a reduced risk of conflict in the Middle East could lead to increased investment in the region, benefiting oil-producing companies. The decline in oil prices could also improve the earnings outlook for oil-consuming companies, as they would face lower input costs. However, oil-producing companies may face a decline in revenue if oil prices remain low.",
-      "risks": [
-        "Potential escalation of tensions in the Middle East",
-        "Uncertainty around the success of the US-Iran peace talks",
-        "Impact of reduced oil prices on oil-producing companies' revenue"
-      ]
-    }
-  },
-  {
-    "id": "8311142",
-    "headline": "NEWSLETTER: High seas drama: Hormuz and Black Sea roil global trade - reuters.com",
-    "summary": "NEWSLETTER: High seas drama: Hormuz and Black Sea roil global trade  reuters.com",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQclZOSG1LVjNJS3d6NTFkdURobkxyV2tEZl9rNm8xNllOTVU4RDFYNGVtZmRzbFZncGM3WUJTN2UyWjBjbGc3c3FMQXk3emZkTzU4d0o0UHptN09ueVZ0amtLMHZJSDFWbGllR2hiNVBhcnplZUNVVzlWQzN4Q2t3bUJGSG5UNllLUGo3SEtQWENxS1k3dU4wY3FTbC1wT0JwV0p6aDVUaTA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1786042800,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1786102389,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The recent tensions in the Hormuz Strait and the Black Sea have disrupted global trade, leading to increased shipping costs and supply chain risks. The Hormuz Strait is a critical waterway for oil exports, and any disruptions can impact global oil prices. The Black Sea, on the other hand, is a key route for grain and other commodity exports. The increased tensions in these regions are expected to lead to higher costs and reduced supply chain efficiency, affecting various industries, including energy, agriculture, and shipping.",
-      "impact": "The potential impact on the related stocks is bearish, particularly for companies involved in the energy and shipping sectors. The increased costs and supply chain risks may lead to reduced earnings for these companies in the short term. In the medium term, the impact may be more pronounced, with potential changes in global trade patterns and increased competition for resources. This may lead to a decrease in stock prices for companies that are heavily reliant on these supply chains.",
-      "risks": [
-        "Supply chain disruption risk",
-        "Increased shipping costs risk",
-        "Global trade slowdown risk"
       ]
     }
   }
