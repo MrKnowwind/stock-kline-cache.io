@@ -123,7 +123,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1788383172
+    "publishedAt": 1788383172,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1788398917,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The recent US-Iran strikes have raised concerns about a potential escalation of tensions in the Middle East, which could lead to a renewed war. The region is already plagued by conflicts and instability, and the current situation could exacerbate the situation. The US-Iran conflict has significant implications for the global energy market, as Iran is a major oil producer and any disruption to its oil exports could lead to higher prices. The conflict could also impact the US economy, particularly the aerospace and defense industries, which could see increased demand for their products.",
+      "impact": "The potential for a renewed war in the Middle East could lead to increased volatility in the energy market, which could negatively impact the stocks of companies such as ExxonMobil (XOM) and Chevron (CVX), which have significant exposure to the region. In the short-term, the conflict could lead to higher oil prices, which could benefit energy producers such as Occidental Petroleum (OXY) and ConocoPhillips (COP). However, the medium-term impact could be more negative, as the conflict could lead to a decline in demand for energy products, which could negatively impact the earnings outlook for energy companies.",
+      "risks": [
+        "Increased volatility in the energy market",
+        "Potential decline in demand for energy products",
+        "Negative impact on the US economy"
+      ]
+    }
   },
   {
     "id": "8432235",
@@ -203,7 +216,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1788379861
+    "publishedAt": 1788379861,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1788398967,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "US President Trump's statement that the renewed US campaign against Iran won't last long may alleviate tensions in the region, potentially reducing the risk of a conflict that could disrupt oil supplies and impact global markets. The US has imposed sanctions on Iran in the past, which have affected oil prices and the country's economy. However, the duration and intensity of the campaign are unclear, and the situation remains volatile. The news may have a limited impact on the global economy, as the US has a diverse range of oil suppliers and the impact of any disruption would be mitigated by global oil reserves.",
+      "impact": "The news may lead to a short-term increase in oil prices, benefiting oil producers such as ExxonMobil (XOM) and Chevron (CVX), but the impact may be limited due to the uncertainty surrounding the campaign's duration and intensity. In the medium term, a prolonged conflict could lead to a slowdown in economic growth, negatively impacting companies with exposure to the Middle East, such as airlines and logistics firms. The news may also have a positive impact on defense contractors, such as Lockheed Martin (LMT) and Northrop Grumman (NOC), if the US increases military spending in response to the situation.",
+      "risks": [
+        "escalation of the conflict and disruption to oil supplies",
+        "uncertainty surrounding the duration and intensity of the US campaign",
+        "potential for a slowdown in economic growth"
+      ]
+    }
   },
   {
     "id": "8432215",
@@ -236,7 +262,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1788377446
+    "publishedAt": 1788377446,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1788399014,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The recent US-Iran strikes have led to a 1% increase in oil prices. The tension between the US and Iran has raised concerns about potential disruptions to oil supplies, which has contributed to the price increase. This development is significant for the energy sector, particularly for oil-producing companies, as it could impact their earnings and valuation. The news has also sparked concerns about the potential for a wider conflict in the region, which could further disrupt oil supplies.",
+      "impact": "The potential for increased oil prices due to supply disruptions could have a positive impact on oil-producing companies, such as ExxonMobil (XOM) and Chevron (CVX), as their earnings are closely tied to oil prices. However, this could also lead to higher production costs and reduced profit margins for these companies in the medium term. In the short term, the increased volatility in oil prices may lead to increased trading activity and liquidity in the energy sector, benefiting companies such as oil traders and brokers.",
+      "risks": [
+        "Supply chain disruptions risk",
+        "Geopolitical risk",
+        "Increased production costs risk"
+      ]
+    }
   },
   {
     "id": "8432183",
@@ -315,7 +354,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1788363129
+    "publishedAt": 1788363129,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1788399067,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Iran's decision to blacklist more ships attempting to sail through the Strait of Hormuz is a geopolitical development with potential implications for the global energy market. The Strait of Hormuz is a critical waterway for oil exports, and disruptions to its shipping lanes can impact oil prices. This escalation in tensions between Iran and the international community may lead to increased volatility in the oil market, benefiting oil producers and potentially weighing on the earnings outlook of companies with significant exposure to the energy sector. The move also highlights the ongoing risks associated with shipping and logistics in the region.",
+      "impact": "This news is likely to have a bearish impact on tanker and shipping stocks, as increased tensions in the region may lead to higher insurance costs, increased piracy risks, and potential disruptions to shipping lanes. In the short term, this may lead to a decrease in share prices of companies such as Frontline (FRO) and DHT Holdings (DHT), which have significant exposure to the tanker market. In the medium term, this development may also weigh on the earnings outlook of oil majors such as ExxonMobil (XOM) and Chevron (CVX), as increased oil prices may reduce demand and profitability.",
+      "risks": [
+        "shipping disruption risk",
+        "oil price volatility risk",
+        "regional instability risk"
+      ]
+    }
   },
   {
     "id": "8432346",
@@ -325,7 +377,30 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1788363018
+    "publishedAt": 1788363018,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1788399115,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The UK bond yields have reached a 19-year high, putting additional pressure on the UK government, particularly Chancellor Jeremy Healey. This development is a result of rising inflation expectations and a strong economy. The high bond yields indicate that investors are demanding higher returns to compensate for the increased inflation risk, which may lead to higher borrowing costs for the government. This could have implications for the government's fiscal policy and spending plans.",
+      "impact": "The rising bond yields could lead to a decrease in the value of UK government bonds, potentially affecting the overall market sentiment and investor confidence. This may also impact the UK's credit rating and increase the cost of borrowing for the government, which could have a negative impact on the economy in the medium term. The increased borrowing costs may also lead to a decrease in government spending, which could have a negative impact on the economy and the related stocks.",
+      "risks": [
+        "Increased borrowing costs risk",
+        "Decreased government spending risk",
+        "Economic slowdown risk"
+      ]
+    }
+  },
+  {
+    "id": "8432274",
+    "headline": "South African rand firms on softer dollar, US jobs data - Reuters",
+    "summary": "South African rand firms on softer dollar, US jobs data  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdlNvbUsyaFlLdVQ4ZktHZzJ6a3BuM2hzX294VTVLYUVpOWdlOF9KT2NtMEYzS3V1ajE4UE9fUWNEVXNHeUExR1hKNTZlamZKa21UQm03SDVaOVlycDJQdTdkSjVtR1BLSjhZS1Q5WXFXeWZ4ZVhyeWlnRW5ISDJaR1QyOC1keElUaUh6QllfNmlPVnZwaG1WcVEzS1ZVdTViTGR3WUwtcGhTcVZVcTBoR0tB?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1788359826
   },
   {
     "id": "8432151",
@@ -450,16 +525,6 @@
     }
   },
   {
-    "id": "8432274",
-    "headline": "South African rand firms on softer dollar, US jobs data - Reuters",
-    "summary": "South African rand firms on softer dollar, US jobs data  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdlNvbUsyaFlLdVQ4ZktHZzJ6a3BuM2hzX294VTVLYUVpOWdlOF9KT2NtMEYzS3V1ajE4UE9fUWNEVXNHeUExR1hKNTZlamZKa21UQm03SDVaOVlycDJQdTdkSjVtR1BLSjhZS1Q5WXFXeWZ4ZVhyeWlnRW5ISDJaR1QyOC1keElUaUh6QllfNmlPVnZwaG1WcVEzS1ZVdTViTGR3WUwtcGhTcVZVcTBoR0tB?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1788330240
-  },
-  {
     "id": "8432289",
     "headline": "Qatari, UAE LNG cargoes transferred via ship-to-ship outside Strait of Hormuz - Reuters",
     "summary": "Qatari, UAE LNG cargoes transferred via ship-to-ship outside Strait of Hormuz  Reuters",
@@ -480,6 +545,16 @@
     "publishedAt": 1788326460
   },
   {
+    "id": "8432248",
+    "headline": "US military says it completed latest wave of strikes on Iran - Reuters",
+    "summary": "US military says it completed latest wave of strikes on Iran  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPekNsWEt4cEh2RVhBNk5nQXJSczQ2QjJlU2hONHpGLXRBSVg1bi1wdWljNXZOd0lvS0toX0ZiZmpaNUVpaG9QbmMtTHBkdzRBUXZMVjU0al9iQUFVQWRvZzFTek5MOGhyME9Ea3Y4a0ZiUVNOUXR1VDRZQi1Td09pT1ZpanoxQ1BKVVp2NWc5WlZPT3hVSDJ2aWZZMExHU1J4aUhKSjFEZ3JWdmo3?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1788322409
+  },
+  {
     "id": "8432261",
     "headline": "Indian shares join global slide as Mideast woes mount - Reuters",
     "summary": "Indian shares join global slide as Mideast woes mount  Reuters",
@@ -488,16 +563,6 @@
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
     "publishedAt": 1788315780
-  },
-  {
-    "id": "8432248",
-    "headline": "US military says it completed latest wave of strikes on Iran - Reuters",
-    "summary": "US military says it completed latest wave of strikes on Iran  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPekNsWEt4cEh2RVhBNk5nQXJSczQ2QjJlU2hONHpGLXRBSVg1bi1wdWljNXZOd0lvS0toX0ZiZmpaNUVpaG9QbmMtTHBkdzRBUXZMVjU0al9iQUFVQWRvZzFTek5MOGhyME9Ea3Y4a0ZiUVNOUXR1VDRZQi1Td09pT1ZpanoxQ1BKVVp2NWc5WlZPT3hVSDJ2aWZZMExHU1J4aUhKSjFEZ3JWdmo3?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1788314160
   },
   {
     "id": "8432281",
@@ -528,6 +593,16 @@
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
     "publishedAt": 1788310020
+  },
+  {
+    "id": "8432264",
+    "headline": "Global bonds extend selloff, oil prices surge on renewed US-Iran strikes - Reuters",
+    "summary": "Global bonds extend selloff, oil prices surge on renewed US-Iran strikes  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUzRjcDczTGxqaGRleWZNeUwtZnpOTjRjNWhmSEt2YkQtY1ZwaDdhZ2RxX0hCWEZZdXpPSmlWZW45ZVBHM2lsMU9XalYtNEl1cGxpWjVhVTR2cDU1ajlNMzRJb3FZaGZ4akprMWhPNmd4cmJFOFI1Q29iWlI0ZnFXNXljcw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1788305786
   },
   {
     "id": "8432251",
@@ -1128,16 +1203,6 @@
     }
   },
   {
-    "id": "8432264",
-    "headline": "Global bonds extend selloff, oil prices surge on renewed US-Iran strikes - Reuters",
-    "summary": "Global bonds extend selloff, oil prices surge on renewed US-Iran strikes  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUzRjcDczTGxqaGRleWZNeUwtZnpOTjRjNWhmSEt2YkQtY1ZwaDdhZ2RxX0hCWEZZdXpPSmlWZW45ZVBHM2lsMU9XalYtNEl1cGxpWjVhVTR2cDU1ajlNMzRJb3FZaGZ4akprMWhPNmd4cmJFOFI1Q29iWlI0ZnFXNXljcw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1788227160
-  },
-  {
     "id": "8431974",
     "headline": "Oil extends advance as US-Iran escalation revives Hormuz risks",
     "summary": "Several current and former US and Iranian officials have said they expect the conflict to drag on for months",
@@ -1704,6 +1769,16 @@
         "Decreased investor sentiment and market volatility"
       ]
     }
+  },
+  {
+    "id": "8432285",
+    "headline": "Pentagon signs 7-year deals to increase missile production - Reuters",
+    "summary": "Pentagon signs 7-year deals to increase missile production  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdDc4OWlaU3ZmSEFtTUlaTW5xRktLQXhhd29rUEtsQzJncWdXRXpBS2dkUWxrSFdCMTc4SEhRN1dzVmd2VE12MnZsZUhyaFhZbUVCT2NQd0w1ZERWNXBfTVE4UDJzY2Zyc3Z4RWxETXZPc0p5b1lUc3lpcVpkRzR3X1NWX0JwSzRmTXZQUjludWsyb0xzeTJmelFEUm04TjktZllBcjdWZDZ2OXE0S3R3X2NYYThmX3lYYkE?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1788180177
   },
   {
     "id": "8430661",
@@ -21332,29 +21407,6 @@
         "regulatory scrutiny risk",
         "reputation risk",
         "potential changes in business practices risk"
-      ]
-    }
-  },
-  {
-    "id": "8323874",
-    "headline": "Oil climbs 5% as Iran, US both demand compensation and Hormuz hopes fade - Reuters",
-    "summary": "Oil climbs 5% as Iran, US both demand compensation and Hormuz hopes fade  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaXpSdTFpV0NCUnZ4ZmZ3bXhmR3QxR1VVbGthTXNFSmZDNU03WWxGTDQ2eE9SeVZPYVE1aHl3NWZuS3FxcW1WSnBBb3J1SXJLY1F6RnFkTy1wdVZHaXdMZkhpclJjM09BU0k1RmMyaFNHQmtnZzA5elZZbUpHVUFEZHFNbnJaek93UlM4cUZJTlU5ZzRUckVJVXdTVVd3amluLWRDb1ljZkY?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1786314072,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1786330923,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Oil prices rose due to uncertainty over the reopening of the Strait of Hormuz, a critical shipping route for global oil supplies. The Strait has been a focal point of tensions between the US and Iran, with the US imposing sanctions on Iran's oil exports. The uncertainty surrounding the Strait's reopening has led to increased concerns about potential disruptions to oil supplies, driving up prices. This development has a significant impact on the global oil market, particularly for countries reliant on imported oil.",
-      "impact": "The potential reopening of the Strait of Hormuz could lead to a short-term spike in oil prices, benefiting oil producers such as ExxonMobil (XOM) and Chevron (CVX). In the medium term, a prolonged closure of the Strait could lead to a shortage of oil supplies, driving up prices and boosting earnings for oil producers. However, a prolonged closure could also lead to a decline in oil demand, negatively impacting oil producers' earnings. The uncertainty surrounding the Strait's reopening has increased volatility in the oil market, making it a high-risk investment opportunity.",
-      "risks": [
-        "Supply chain disruption risk",
-        "Geopolitical risk",
-        "Demand slowdown risk"
       ]
     }
   }
