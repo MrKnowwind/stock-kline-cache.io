@@ -1,8 +1,54 @@
 [
   {
+    "id": "8439875",
+    "headline": "The wealth of the world's billionaires reached $15.1 trillion last year, per a new report",
+    "summary": "The global billionaire count hit a record of 3,795 people last year, with the biggest wealth gains for the richest of the rich, per a recent Altrata report.",
+    "url": "https://www.cnbc.com/2026/09/04/billionaire-wealth-altrata-report.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108357992-1788375690734-gettyimages-519234496-g_dsc5455_6_7_8_9_tonemapped.jpeg?v=1788375859&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1788519601,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1788522354,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The global billionaire population reached a record 3,795 people in 2025, with a combined wealth of $15.1 trillion, driven by the AI boom. The report by Altrata highlights the significant growth in wealth creation, particularly in the tech sector. The study found that firms investing in AI outperformed those that did not by 23% in market capitalization growth. This trend is expected to continue, with the billionaire population in North America growing at a faster rate than any other region.",
+      "impact": "The news is likely to have a positive impact on tech stocks, particularly those with significant exposure to AI, as investors seek to capitalize on the trend. The report's findings may also lead to increased investment in AI-related sectors, driving further growth. However, the volatility of AI-exposed tech stocks may lead to short-term market fluctuations, making it essential for investors to be cautious.",
+      "risks": [
+        "Volatility in AI-exposed tech stocks",
+        "Concentration risk in the tech sector",
+        "Potential market correction due to overvaluation"
+      ]
+    }
+  },
+  {
+    "id": "8439669",
+    "headline": "Gulf shipping traffic via Hormuz keeps below 10-day average, data shows - Reuters",
+    "summary": "Gulf shipping traffic via Hormuz keeps below 10-day average, data shows  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSmJxV2JuVVpNSWV4QTRZZktncFBvaUQtcXZVaDZHdkJfV1JkZFhoeU0ybFRIU19qYmZKUkt1VXZZaFlaR2FKY2dxZFN0U2NkRjZYZWt1dlh2N21aN092aEpVdmZ2MmlvMVNDeThDZ1p4aHJpR0x6NV9MREtJb3dFeXY3ZktVbTFJZVZXNzd1ZkFaTWg0TWtQM1dzRlVVeHlUcTYtSFA3UEFPTEQ4ckc0TFRTcEUtQUpzTUFRWWVHd09ZUQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1788502140,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1788522405,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "Shipping traffic through the Strait of Hormuz has remained below its 10-day average, according to recent data. This development is significant as the Strait of Hormuz is a critical waterway for global oil exports, with many major oil-producing countries relying on it for transportation. The reduced shipping traffic may be attributed to ongoing tensions in the region, which have led to increased security concerns and potential disruptions to oil exports. The situation remains uncertain, with no clear indication of when normal shipping traffic will resume.",
+      "impact": "The reduced shipping traffic through the Strait of Hormuz may have a short-term impact on oil prices, potentially leading to increased costs for oil-producing companies. This, in turn, may affect the earnings outlook for companies involved in the oil industry, such as those in the S&P 500's energy sector. However, the medium-term impact is less clear, as the situation is highly dependent on the resolution of regional tensions and the resumption of normal shipping traffic.",
+      "risks": [
+        "Regional tensions and security concerns",
+        "Disruptions to oil exports and supply chain",
+        "Uncertainty surrounding the duration of reduced shipping traffic"
+      ]
+    }
+  },
+  {
     "id": "8438120",
-    "headline": "Oil set for steepest weekly gain since mid-July, fuelled by US-Iran clashes - Reuters",
-    "summary": "Oil set for steepest weekly gain since mid-July, fuelled by US-Iran clashes  Reuters",
+    "headline": "Oil rallies for the week as U.S.-Iran fighting resumes; diesel hits record high - Reuters",
+    "summary": "Oil rallies for the week as U.S.-Iran fighting resumes; diesel hits record high  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQVZJdUE0TzFvS2xtSUJLOVUxZUVRZVRpMi1aUlNuSFZzX3h5TW4zSGJya0w3SjFlSno4QUlvdU90cHBBOS1xRllCZjR2aVRnUW16ZmQyN3M1SlRVSl9BYlk2Z2dvWGIzdEo3cXdTZjdWZkIzYXRNRzk3ZkM2cWMwN2ZWMVh1T09pNnRKVVAwRDhNSnJnSTFwVi1MZXdMNUNwOFJTU215REpkR1V0X1pVa09vNkVHeG9oX2lpVjdoTVl1ajI5MzU0dUN3?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -115,29 +161,6 @@
     }
   },
   {
-    "id": "8437106",
-    "headline": "US diesel prices hit record high as conflicts intensify supply crunch - Reuters",
-    "summary": "US diesel prices hit record high as conflicts intensify supply crunch  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZHF2Z29UenJROHZ5YlJpTFBHM1pmWmdNaWROSnhyNlhDVVZmVGVXTkRaT1k4N1NBY1B1YUhDbmE2SGQ2TllTNExHWk9JT1JCWHRKQnVpZEx5SVVNZHdhc2tsbEEtWG01Ty1QUXpMSWdWR3NuQTVQaWNhLUViMXkzRl9WNk81bDdiVk5tb1hPeVBMczFGaWVmaTNzWEdYZ29P?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1788470483,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1788478500,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "US diesel prices have reached a record high due to intensified supply chain disruptions caused by ongoing conflicts. This surge in diesel prices is expected to have a ripple effect on various industries, including transportation and logistics. The supply crunch is attributed to a combination of factors, including geopolitical tensions and production constraints. The current situation is likely to lead to increased costs for companies reliant on diesel fuel, potentially impacting their profitability and earnings outlook.",
-      "impact": "The record diesel prices are expected to have a negative impact on companies with high diesel fuel consumption, such as trucking and logistics firms, potentially leading to reduced earnings and lower stock prices in the short-term. In the medium-term, the increased costs may prompt these companies to pass on the costs to consumers, which could further exacerbate the economic impact. The situation may also have a broader impact on the overall economy, potentially affecting consumer spending and economic growth.",
-      "risks": [
-        "Increased costs and reduced profitability for companies reliant on diesel fuel",
-        "Potential pass-through of costs to consumers, leading to reduced demand",
-        "Broader economic impact on consumer spending and economic growth"
-      ]
-    }
-  },
-  {
     "id": "8436787",
     "headline": "Vance: US probing airstrike that Iran says hit a wedding party - Reuters",
     "summary": "Vance: US probing airstrike that Iran says hit a wedding party  Reuters",
@@ -199,6 +222,52 @@
         "Increased costs of production for energy companies",
         "Potential disruptions to supply chains",
         "Increased inflation and interest rates"
+      ]
+    }
+  },
+  {
+    "id": "8437106",
+    "headline": "US diesel prices hit record high as conflicts intensify supply crunch - Reuters",
+    "summary": "US diesel prices hit record high as conflicts intensify supply crunch  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZHF2Z29UenJROHZ5YlJpTFBHM1pmWmdNaWROSnhyNlhDVVZmVGVXTkRaT1k4N1NBY1B1YUhDbmE2SGQ2TllTNExHWk9JT1JCWHRKQnVpZEx5SVVNZHdhc2tsbEEtWG01Ty1QUXpMSWdWR3NuQTVQaWNhLUViMXkzRl9WNk81bDdiVk5tb1hPeVBMczFGaWVmaTNzWEdYZ29P?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1788464820,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1788478500,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "US diesel prices have reached a record high due to intensified supply chain disruptions caused by ongoing conflicts. This surge in diesel prices is expected to have a ripple effect on various industries, including transportation and logistics. The supply crunch is attributed to a combination of factors, including geopolitical tensions and production constraints. The current situation is likely to lead to increased costs for companies reliant on diesel fuel, potentially impacting their profitability and earnings outlook.",
+      "impact": "The record diesel prices are expected to have a negative impact on companies with high diesel fuel consumption, such as trucking and logistics firms, potentially leading to reduced earnings and lower stock prices in the short-term. In the medium-term, the increased costs may prompt these companies to pass on the costs to consumers, which could further exacerbate the economic impact. The situation may also have a broader impact on the overall economy, potentially affecting consumer spending and economic growth.",
+      "risks": [
+        "Increased costs and reduced profitability for companies reliant on diesel fuel",
+        "Potential pass-through of costs to consumers, leading to reduced demand",
+        "Broader economic impact on consumer spending and economic growth"
+      ]
+    }
+  },
+  {
+    "id": "8439566",
+    "headline": "PODCAST: UPDATE: Gloria Steinem, Iran's economy and the Pentagon's testosterone pullback - Reuters",
+    "summary": "PODCAST: UPDATE: Gloria Steinem, Iran's economy and the Pentagon's testosterone pullback  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPekU0N1hPQ2VTdzFCQ1lEd0szT1RSd0pDRkktUWN1Y0IxaGJRWkVHeDlKYXJScHBHMDk4SUJvY2ltMnJmZEItdlNhcHVhS0x5WXhsVkMyZ3lJMGFGV29LQi0zQ2pOWkMxbVh6TjRaNnNQWThkMTliamhrTER1aWF3NG9UV2tGZ0pKU3dqRVQwc1FDdFBCV2dIdVJ3bDVMMGhRMnExUTk2MA?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1788463311,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1788522451,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The article discusses a podcast that mentions Gloria Steinem, Iran's economy, and the Pentagon's testosterone pullback. However, there is no direct connection between these topics and the stock market. The article appears to be a collection of unrelated news items. The podcast mentions Iran's economy, which has been affected by US sanctions and global economic trends. The Pentagon's testosterone pullback is also mentioned, but its relevance to the stock market is unclear.",
+      "impact": "The potential impact on the stock market is minimal, as the article does not provide any concrete information about specific companies or industries. However, the discussion about Iran's economy may have a negative impact on companies with exposure to the region, such as those in the energy or aerospace sectors. In the short term, investors may be cautious and reduce their exposure to these sectors. In the medium term, the situation in Iran may lead to a decrease in oil prices, which could have a positive impact on companies with high oil consumption or production costs.",
+      "risks": [
+        "Iran's economic instability risk",
+        "Global economic uncertainty risk",
+        "Oil price volatility risk"
       ]
     }
   },
@@ -295,29 +364,6 @@
     }
   },
   {
-    "id": "8436049",
-    "headline": "US to seek back payment from Europe for Ukraine aid, Trump says - Reuters",
-    "summary": "US to seek back payment from Europe for Ukraine aid, Trump says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcVJMTlRnNjZsN3VYWVl3N2NQYl9EMjBhcHR6Qzl0WDk4QTBSRnFPZFFBWnFMOW0zRE9uX1BJVmhGbnlPLUZkRG5UOXZ1LWhOdXctWFFGbmF2ZVVMcEZ4SVVtYnoweU0wa3lNMWI2Sm1iME9YcnpOYVlvSmh3OUUzYUZDUUpHN0NFVWNrNXVRVkNiS0E1amRfeXI0SXoxTEw3eWtTTXM2ZTJqMVdnaXVHelNtRQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1788451140,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1788461814,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "US President Trump has announced that the US will seek back payment from Europe for aid provided to Ukraine. This move is likely a response to the ongoing trade tensions between the US and Europe. The US has been providing financial aid to Ukraine to support its economic development and military efforts. The European Union has been a key partner in this effort, and the US is now seeking reimbursement for its contributions. This development may lead to a reevaluation of the US-Europe relationship and its implications for global trade.",
-      "impact": "The potential impact on the US defense and aerospace industry is significant, as the US may seek reimbursement from European companies that have benefited from the aid. This could lead to a short-term increase in costs for these companies, potentially affecting their earnings outlook. In the medium term, the development may also lead to a reevaluation of the US-Europe trade relationship, potentially impacting the valuation of companies with significant exposure to European markets.",
-      "risks": [
-        "trade war escalation risk",
-        "reimbursement risk for European companies",
-        "impact on US-Europe trade relationship"
-      ]
-    }
-  },
-  {
     "id": "8436030",
     "headline": "Big lessons from 12 stock exits, including Cramer's biggest-ever disappointment",
     "summary": "For stock investors, 2026 has meant constantly adjusting to geopolitical and economic pressures — and most importantly, protecting profits.",
@@ -341,6 +387,29 @@
     }
   },
   {
+    "id": "8436049",
+    "headline": "US to seek back payment from Europe for Ukraine aid, Trump says - Reuters",
+    "summary": "US to seek back payment from Europe for Ukraine aid, Trump says  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcVJMTlRnNjZsN3VYWVl3N2NQYl9EMjBhcHR6Qzl0WDk4QTBSRnFPZFFBWnFMOW0zRE9uX1BJVmhGbnlPLUZkRG5UOXZ1LWhOdXctWFFGbmF2ZVVMcEZ4SVVtYnoweU0wa3lNMWI2Sm1iME9YcnpOYVlvSmh3OUUzYUZDUUpHN0NFVWNrNXVRVkNiS0E1amRfeXI0SXoxTEw3eWtTTXM2ZTJqMVdnaXVHelNtRQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1788448740,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1788461814,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "US President Trump has announced that the US will seek back payment from Europe for aid provided to Ukraine. This move is likely a response to the ongoing trade tensions between the US and Europe. The US has been providing financial aid to Ukraine to support its economic development and military efforts. The European Union has been a key partner in this effort, and the US is now seeking reimbursement for its contributions. This development may lead to a reevaluation of the US-Europe relationship and its implications for global trade.",
+      "impact": "The potential impact on the US defense and aerospace industry is significant, as the US may seek reimbursement from European companies that have benefited from the aid. This could lead to a short-term increase in costs for these companies, potentially affecting their earnings outlook. In the medium term, the development may also lead to a reevaluation of the US-Europe trade relationship, potentially impacting the valuation of companies with significant exposure to European markets.",
+      "risks": [
+        "trade war escalation risk",
+        "reimbursement risk for European companies",
+        "impact on US-Europe trade relationship"
+      ]
+    }
+  },
+  {
     "id": "8436047",
     "headline": "US pressure on Iran starting to tell, as sanctions and blockade bite - Reuters",
     "summary": "US pressure on Iran starting to tell, as sanctions and blockade bite  Reuters",
@@ -348,7 +417,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1788447855,
+    "publishedAt": 1788447540,
     "analysis": {
       "version": 2,
       "generatedAt": 1788471151,
@@ -563,6 +632,52 @@
         "uncertainty around the outcome of trade agreements",
         "potential risks associated with increased competition in the UK market",
         "macroeconomic factors affecting global trade and investment"
+      ]
+    }
+  },
+  {
+    "id": "8439666",
+    "headline": "Air India closes in on $1.1 billion financial aid from owners",
+    "summary": "Air India nears $1.1 billion in conditional financial aid from Tata Sons and Singapore Airlines to overcome recent challenges.",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-03/air-india-closes-in-on-1-1-billion-financial-aid-from-owners",
+    "source": "Bloomberg",
+    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+    "relatedSymbols": [],
+    "publishedAt": 1788429903,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1788522502,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Air India is on the verge of receiving $1.1 billion in financial aid from its owners, Tata Sons and Singapore Airlines, to address recent challenges. This development is a positive signal for the airline's financial health, as it will help alleviate some of the pressure on its balance sheet. The aid is conditional, implying that the company must meet certain performance targets to receive the funds. This support from its owners underscores their commitment to Air India's long-term success.",
+      "impact": "The potential impact of this news is positive for Air India's stock, as it could lead to improved liquidity and reduced debt burden. In the short-term, this could result in a boost to the stock price as investors become more optimistic about the company's prospects. However, the medium-term impact will depend on Air India's ability to meet the performance targets set by its owners, which could be a key driver of future stock performance.",
+      "risks": [
+        "Integration risk: The success of Air India's turnaround plan depends on its ability to integrate the financial aid into its operations and meet the performance targets.",
+        "Earnings risk: The airline's earnings outlook may be impacted by the COVID-19 pandemic and other external factors, which could affect its ability to meet the targets.",
+        "Valuation risk: The stock price may be overvalued if investors become overly optimistic about the company's prospects, leading to a potential correction in the future."
+      ]
+    }
+  },
+  {
+    "id": "8439667",
+    "headline": "Banks commit ₹24,000 crore to Aditya Birla Group for Shell renewables acquisition",
+    "summary": "Aditya Birla Group has received ₹24,000 crore in bank commitments for a ₹14,000 crore loan to acquire Shell’s renewable energy assets in India.",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-03/billionaire-birla-unit-s-buyout-loan-draws-2-5-billion-in-bids",
+    "source": "Bloomberg",
+    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+    "relatedSymbols": [],
+    "publishedAt": 1788429846,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1788522555,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Aditya Birla Group has secured ₹24,000 crore in bank commitments to acquire Shell's renewable energy assets in India for ₹14,000 crore. This deal is a significant expansion of Aditya Birla Group's renewable energy portfolio, which is expected to drive growth and improve its sustainability profile. The acquisition is a strategic move by Aditya Birla Group to tap into the growing demand for renewable energy in India. The deal is also a vote of confidence in the Indian renewable energy market, which is expected to continue growing in the coming years.",
+      "impact": "The acquisition is likely to have a positive impact on Aditya Birla Group's earnings outlook, as the renewable energy assets are expected to generate significant cash flows. The deal may also lead to an increase in the company's valuation, as investors become more optimistic about its growth prospects. Additionally, the acquisition may improve the company's sentiment, as it demonstrates its commitment to sustainability and growth. In the short term, the deal may lead to an increase in liquidity for Aditya Birla Group, as it raises funds for the acquisition.",
+      "risks": [
+        "Integration risk: Aditya Birla Group may face challenges in integrating the acquired assets into its existing operations.",
+        "Regulatory approval risk: The deal may be subject to regulatory approvals, which could delay or even block the acquisition.",
+        "Competition risk: The Indian renewable energy market is highly competitive, and Aditya Birla Group may face increased competition from other players in the market."
       ]
     }
   },
@@ -844,8 +959,8 @@
   },
   {
     "id": "8434296",
-    "headline": "Two Palestinian teens killed in West Bank raid by Israeli settlers and army - reuters.com",
-    "summary": "Two Palestinian teens killed in West Bank raid by Israeli settlers and army  reuters.com",
+    "headline": "Two Palestinian teens killed in West Bank raid by Israeli settlers and army - Reuters",
+    "summary": "Two Palestinian teens killed in West Bank raid by Israeli settlers and army  Reuters",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaE1UMTF0TzBvMXRDNldTN0dPczFXRFVQZEVGNjY4cmFxT2VOQ0V4R1p1LU5aY3R4YnFLSHVvS29aNmRiQWpGS1pjU09WdHFyUHZZYVU5eG4wYzZFdzVZNTdYeXdfTHlrWjZkOW5LVnQzOGx1NVJ4cGFLNlNaS2Y4S2hIeURRdVdXLUNkN3JxNUFZWkM1UExRZy01VDJkZ2NmdkhQTDcyVmJHcng1S2dQTm1wWklPbURwTHgzS0w4Zw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1461,6 +1576,16 @@
     }
   },
   {
+    "id": "8432250",
+    "headline": "What are Iran's options to retaliate as open warfare resumes with the US? - Reuters",
+    "summary": "What are Iran's options to retaliate as open warfare resumes with the US?  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTk9YN25xOWNBQ0wzZVJWcnFzRC1UUUNobEQ2ZVBGMU9zVFFXSXZROS1ST2hSanRqVUs5YWFYalRkZUZFa2wwalFqUURTUm1fYUEzdG1BemZ0WHA5RDhCaDk1akdvNWxqc1lSMTRvcS1BSVQ4cm1mQk9sNnJibnAzZnpZMzhvc0RfaXRPVmlGdnRFbUlHc3c0MTVFSFpCcWY1Mm5LZS1SVHgzcE95bEt5TXphUklJTXRxa2c?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1788332400
+  },
+  {
     "id": "8432289",
     "headline": "Qatari, UAE LNG cargoes transferred via ship-to-ship outside Strait of Hormuz - Reuters",
     "summary": "Qatari, UAE LNG cargoes transferred via ship-to-ship outside Strait of Hormuz  Reuters",
@@ -1468,7 +1593,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1788329400
+    "publishedAt": 1788330122
   },
   {
     "id": "8433988",
@@ -1598,6 +1723,16 @@
     "publishedAt": 1788310020
   },
   {
+    "id": "8432264",
+    "headline": "Global bonds extend selloff, oil prices surge on renewed US-Iran strikes - Reuters",
+    "summary": "Global bonds extend selloff, oil prices surge on renewed US-Iran strikes  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUzRjcDczTGxqaGRleWZNeUwtZnpOTjRjNWhmSEt2YkQtY1ZwaDdhZ2RxX0hCWEZZdXpPSmlWZW45ZVBHM2lsMU9XalYtNEl1cGxpWjVhVTR2cDU1ajlNMzRJb3FZaGZ4akprMWhPNmd4cmJFOFI1Q29iWlI0ZnFXNXljcw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1788305786
+  },
+  {
     "id": "8432251",
     "headline": "UN faces contentious Iran nuclear vote ahead of General Assembly - Reuters",
     "summary": "UN faces contentious Iran nuclear vote ahead of General Assembly  Reuters",
@@ -1616,16 +1751,6 @@
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
     "publishedAt": 1788301615
-  },
-  {
-    "id": "8432264",
-    "headline": "Global bonds extend selloff, oil prices surge on renewed US-Iran strikes - Reuters",
-    "summary": "Global bonds extend selloff, oil prices surge on renewed US-Iran strikes  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUzRjcDczTGxqaGRleWZNeUwtZnpOTjRjNWhmSEt2YkQtY1ZwaDdhZ2RxX0hCWEZZdXpPSmlWZW45ZVBHM2lsMU9XalYtNEl1cGxpWjVhVTR2cDU1ajlNMzRJb3FZaGZ4akprMWhPNmd4cmJFOFI1Q29iWlI0ZnFXNXljcw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1788301340
   },
   {
     "id": "8433886",
@@ -21100,140 +21225,6 @@
         "short-term increase in insurance claims risk",
         "medium-term earnings impact risk",
         "market sentiment risk"
-      ]
-    }
-  },
-  {
-    "id": "8331446",
-    "headline": "We're starting a position in a memory maker that was just put in the Bullpen",
-    "summary": "This stock is one of the more volatile names in the market, prone to big swings.",
-    "url": "https://www.cnbc.com/2026/08/11/were-starting-a-position-in-a-memory-maker-that-was-just-put-in-the-bullpen.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/107408934-17145831162024-04-26t174726z_47404345_rc2de7arvc16_rtrmadp_0_usa-stocks.jpeg?v=1714583173&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1786453406,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1786457297,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Micron Technology, a memory chip maker, has been added to Jim Cramer's Charitable Trust portfolio with a 25-share position at $872 per share. The company's strong fundamentals, including elevated margins and growing demand, are driven by the artificial intelligence boom and resulting shortage of DRAM and NAND. Micron has signed strategic customer agreements to change its business model and mitigate concerns about the cyclical nature of the memory industry. The stock trades at a low price-to-earnings multiple, making it an attractive entry point.",
-      "impact": "The addition of Micron to the portfolio is likely to have a positive impact on the stock's price, potentially leading to a short-term increase in value. The strong earnings outlook and growing demand for Micron's products are expected to drive the stock's price higher, with a target price of $1,100 per share. The increased focus on Micron by Jim Cramer's Charitable Trust may also boost sentiment and attract more investors to the stock, leading to improved liquidity and a more favorable trading environment.",
-      "risks": [
-        "cyclical nature of the memory industry risk",
-        "dependency on AI-driven demand risk",
-        "supply chain disruptions risk"
-      ]
-    }
-  },
-  {
-    "id": "8331445",
-    "headline": "My 401(k) fully vests this month—why my latest work anniversary is worth thousands",
-    "summary": "Many companies contribute to employee retirement accounts, but depending on your firm's rules you may forfeit some or all of it if you leave.",
-    "url": "https://www.cnbc.com/2026/08/11/why-knowing-a-401k-vesting-schedule-could-be-worth-thousands.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108048666-1729106178223-gettyimages-1465289648-dsc09949-edit-edit.jpeg?v=1729547459&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1786453201,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1786483795,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "Employees who have been with their company for a certain period may be eligible for fully vested 401(k) contributions, which can be worth thousands of dollars. This is because company contributions to 401(k) plans often come with vesting schedules, where employees may forfeit some or all of the employer's contributions if they leave the company before a certain period. The vesting schedule varies by company, but common models include cliff vesting, where employees receive 100% of their company contribution after a certain period, and graded vesting, where the vesting percentage increases with each year of service. Understanding the vesting schedule is crucial for employees to make informed decisions about their retirement savings.",
-      "impact": "The news is unlikely to have a significant impact on the overall stock market or the companies that offer 401(k) plans, as it is a personnel-related issue. However, it may lead to increased employee retention, as employees may be more likely to stay with their current company to maximize their vested 401(k) contributions. This could potentially lead to a decrease in employee turnover costs for companies, which could have a positive impact on their bottom line. In the short term, this may not have a direct impact on stock prices, but it could lead to a more stable and loyal workforce, which could be a positive long-term driver for companies with high employee turnover rates.",
-      "risks": []
-    }
-  },
-  {
-    "id": "8331567",
-    "headline": "US fired on Panama-flagged ship that tried to break blockade of Iranian ports, WSJ reports citing US official - Reuters",
-    "summary": "US fired on Panama-flagged ship that tried to break blockade of Iranian ports, WSJ reports citing US official  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTElqUlBOZlk3YzNMRzFoNEV6S1MxOXFhTXRaRF83Rjdzc1FxYUZZV3ZOZnJibWdPNmN5TWtrQnVRYzFyTWkwbjRVRjRqUWxhbExsdUxRN2ZOcDlwYV93U1ltaWRJdy0xYlBvSzhFLXM3TmV4VG1oOHRDWEdGTW44UEo1RkJDY2tqUG1zbjd5U3JSd1pDNVlpOTlxckxSYV93VXVVM2lpT1JGeVo5TmVUOEVZTEVsaVpLNk9BYnFqOWRTMHRoMElia2Nodw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1786452184,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1786457361,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The US military has fired on a Panama-flagged ship attempting to break the blockade of Iranian ports, according to a report by the Wall Street Journal. The incident highlights the ongoing tensions between the US and Iran, which have been escalating since the US withdrew from the Iran nuclear deal. This development increases the risk of further conflict and potential disruptions to global oil supplies. The blockade has already led to a rise in oil prices, and this incident may exacerbate the situation. The US military's action suggests a more aggressive approach to enforcing the blockade, which could lead to increased tensions with Iran and its allies.",
-      "impact": "The news is likely to have a bearish impact on the oil and energy sector, particularly on companies with significant exposure to the Middle East region. The increased risk of conflict and potential disruptions to oil supplies may lead to higher oil prices, which could negatively impact earnings for energy companies. In the short-term, this may lead to a decline in stock prices for energy companies, particularly those with high debt levels or limited financial flexibility. Medium-term, the increased tensions may lead to a re-evaluation of investment in the region, potentially benefiting companies with diversified operations or those with a strong presence in other regions.",
-      "risks": [
-        "disruption to oil supplies risk",
-        "increased oil prices risk",
-        "escalation of US-Iran tensions risk"
-      ]
-    }
-  },
-  {
-    "id": "8336642",
-    "headline": "Diageo challenges India rum ban, arguing lack of due process - Reuters",
-    "summary": "Diageo challenges India rum ban, arguing lack of due process  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRWp0NDZSaEcyOGd3NVIzSWFMejhvS3BEaHFmbVpla2lTclFiYUFfM2Z1d2lWR29EbFdQbm5vNjU2WVV1X01ManJsS1huSHBHS0FEYmhLb1cyY1lYMG9zLWVMVWZfNzRtcFhBSVMzQ1R2OFM2anc1NEkyUFRQdmhKdnRpWG9WVlZfR0xXOU5yZmhSNXlmNV9JSndJeTJTTWF6NGlVMEpDWQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1786450765,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1786552822,
-      "sentiment": "bullish",
-      "confidence": 0.7,
-      "summary": "Diageo, a leading spirits company, has challenged the Indian government's ban on rum imports, arguing that the ban was not carried out in accordance with due process. The company has been impacted by the ban, which has disrupted its supply chain and affected sales. The Indian government had imposed the ban on rum imports in 2019, citing concerns over the quality of imported rums. Diageo claims that the ban was not properly communicated and that the company was not given adequate notice. This move by Diageo is a significant development in the ongoing dispute between the company and the Indian government.",
-      "impact": "The potential impact of this news on Diageo's stock is likely to be positive in the short term, as the company's challenge to the ban may lead to a relaxation of the regulations. This could result in an increase in the company's sales and revenue in the Indian market, potentially boosting its earnings outlook. However, the outcome of the challenge is uncertain, and if the ban is upheld, it could have a negative impact on the company's sales and profitability.",
-      "risks": [
-        "Regulatory risk: the Indian government may uphold the ban, which could negatively impact Diageo's sales and profitability.",
-        "Supply chain disruption risk: the ban has already disrupted Diageo's supply chain, and if the ban is upheld, it could continue to affect the company's ability to meet demand.",
-        "Uncertainty around the outcome: the outcome of Diageo's challenge to the ban is uncertain, which adds to the risk for investors."
-      ]
-    }
-  },
-  {
-    "id": "8331345",
-    "headline": "Houthi attack on small cargo ship in Red Sea kills three crew members, sources say - Reuters",
-    "summary": "Houthi attack on small cargo ship in Red Sea kills three crew members, sources say  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSURtU0FxazNSZWRITkpUbGp3SDRFemExTERkeHk0c3B6c0hoT3Vaa2lJNGxqZ3pjdmIxX1k0Y0M2cWlxOTRlSGE1WF9WT1V0eUdWd1poSEZObm1kdHpyS24xVU9jNUdubXpTQUpjOURBTERkYTFUNjF0aFAwYXZ0cTN0bVZadW5ub0JBWElFa1lMNlpvZWFYQ1lB?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1786447957,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1786462945,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "A Houthi attack on a small cargo ship in the Red Sea has resulted in the deaths of three crew members. The incident highlights the ongoing geopolitical tensions in the region, which may impact global shipping and trade. The Houthi rebels have been involved in several attacks on ships in the Red Sea in recent years, causing concerns about the safety of maritime trade. The incident may lead to increased security measures and costs for shipping companies, potentially affecting their profitability and earnings outlook.",
-      "impact": "The potential impact on related stocks, such as shipping companies or those with exposure to the Middle East region, may be negative in the short-term due to increased security concerns and potential disruptions to trade. This may lead to a decline in earnings and revenue for these companies, particularly if they have significant operations in the region. In the medium-term, the incident may lead to increased investment in security measures and infrastructure, potentially benefiting companies that provide security services or equipment. However, the impact on the broader economy and global trade is still uncertain.",
-      "risks": [
-        "Increased security costs for shipping companies",
-        "Disruptions to trade and supply chains",
-        "Potential escalation of regional tensions"
-      ]
-    }
-  },
-  {
-    "id": "8331011",
-    "headline": "UKMTO reports incident involving container ship and military forces in Gulf of Oman - Reuters",
-    "summary": "UKMTO reports incident involving container ship and military forces in Gulf of Oman  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdjRhcUpmUml0dmpfNkN5U2IxYjZTa3ZVcTNlNzdTV3ZZb0ZWWGFpSjFFb0ppdmNYNkVpUThTUTlmRHpIVFhOMjdEV2FkcUZkTHpKcDE5SWVYLVhwVm9Pb0k4Y1pMSjJycW54TG5rOUl5QUt1cldselUwSnNsZnRCY0JMZ2ZhUlZabS1ucUc3bjRIR0UwVGRfcldJTXVDSHgtMHRWdnZESThGRzBjMWdmbkhmSjQwckwzb285VmRXRUpGcktLLXc?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1786444234,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1786451354,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "A container ship incident involving military forces in the Gulf of Oman has been reported by UKMTO. The incident's details are unclear, but it may indicate heightened tensions in the region. The Gulf of Oman is a strategic waterway for international trade, particularly for container shipping. The incident may have implications for global trade and maritime security. It is unclear if the incident will have a direct impact on the container shipping industry or related stocks.",
-      "impact": "The incident may lead to increased volatility in the shipping and logistics sector, potentially affecting stocks such as COSCO Shipping Holdings (601919.SS) and Maersk (MAERSKb.CO). In the short-term, investors may reassess their exposure to the sector, leading to a potential decline in stock prices. However, the medium-term impact may be limited, as the incident is isolated and not directly related to the companies' fundamentals.",
-      "risks": [
-        "Geopolitical risk: heightened tensions in the region may lead to increased military activity and disruptions to trade",
-        "Supply chain risk: the incident may disrupt global trade and logistics, affecting companies with significant exposure to the container shipping industry",
-        "Sentiment risk: investors may become risk-averse, leading to a decline in stock prices and reduced demand for shipping and logistics services"
       ]
     }
   }
