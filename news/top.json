@@ -7,7 +7,21 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1789226571
+    "publishedAt": 1789226571,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1789241948,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The Houthi advance in Yemen has put the US in a new bind, as it escalates tensions in the region. The conflict has been ongoing for years, but recent gains by the Houthi rebels have raised concerns about the stability of the region. The US has been involved in the conflict through its support for the Yemeni government, and the escalation of the conflict could lead to increased military spending and a heightened risk of terrorist attacks. This could have implications for US defense contractors and oil companies operating in the region.",
+      "impact": "The potential impact of this news on related stocks is bearish, particularly for defense contractors such as Lockheed Martin (LMT) and Boeing (BA), as increased military spending could boost their sales and earnings. However, the escalation of the conflict could also lead to increased costs and risks for these companies. Additionally, oil companies such as Chevron (CVX) and ExxonMobil (XOM) operating in the region may face increased risks and costs due to the conflict. In the short-term, the news could lead to a decline in investor sentiment and a decrease in stock prices for these companies.",
+      "risks": [
+        "Increased military spending risk",
+        "Terrorist attack risk",
+        "Escalating conflict risk",
+        "Oil price volatility risk"
+      ]
+    }
   },
   {
     "id": "8478604",
@@ -234,6 +248,29 @@
         "Trade disruption risk",
         "Economic slowdown risk",
         "Currency volatility risk"
+      ]
+    }
+  },
+  {
+    "id": "8480235",
+    "headline": "Israel-Lebanon talks in Rome next week postponed, Axios reports - Reuters",
+    "summary": "Israel-Lebanon talks in Rome next week postponed, Axios reports  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOWxwaVd5WkNsV2JrM0E0UkxiTlYzNG1vTWk4ejNXdWNhYllCbXZiUUd3RkF3RlZsX3JycmJtWlpoMnpqMkZXVVI4UDY5eTlZOHZYNEdLMDRaNDVOTl82NUs1RHZyVzRDOVlZWHJkRlVfOXhIQVNPTlRGdUpoQkhVR3ktV2g4emdQWGF5WFhIX3pERVNVcXlQMkxHSlhaRkJrWWQ3c0RWRXFFaDNodDEyLWJGMA?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1789170218,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1789241995,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Israel-Lebanon talks in Rome next week have been postponed, according to Axios. The talks were set to take place in Rome next week, but no new date has been announced. The talks aim to resolve long-standing issues between the two countries. The postponement of the talks may indicate a lack of progress or agreement on key issues. This development may have implications for regional stability and security.",
+      "impact": "The postponement of the talks may have a neutral impact on the global economy, as it is unlikely to have a direct impact on earnings or valuation of companies. However, it may lead to increased volatility in the Middle East region, which could affect oil prices and global trade. In the short term, this news may not have a significant impact on stocks, but it may lead to a shift in investor sentiment towards riskier assets or away from companies with exposure to the region.",
+      "risks": [
+        "Regional instability risk",
+        "Oil price volatility risk",
+        "Shift in investor sentiment risk"
       ]
     }
   },
@@ -590,6 +627,29 @@
         "Increased operating costs due to higher oil prices",
         "Potential decline in investor sentiment due to reduced profitability",
         "Uncertainty in the oil price environment"
+      ]
+    }
+  },
+  {
+    "id": "8470413",
+    "headline": "Explainer: Why is the Bab el-Mandeb Strait so important? - Reuters",
+    "summary": "Explainer: Why is the Bab el-Mandeb Strait so important?  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWDdhUHRWTzdDb3pHSHlPa3phYjNsWVc4V1FaUmprbUZIeFZsN1M5SEE1bGRUbHhCU0xYcDdtVWdvOGd6bE9xVE05ek5FbzQ2RDAyUzBCdWV4VHNsUVllWWpMOW84WmYyc0g1UUVQNVJPSXZTeHcxNlNzSzFheVRlV29qX1hYUTkxYkNzYnhiNTFFeGFHc3FMam5R?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1789141268,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1789090264,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The Bab el-Mandeb Strait is a critical waterway connecting the Red Sea to the Gulf of Aden, playing a vital role in global trade, particularly for oil and natural gas shipments. The strait's importance stems from its strategic location, allowing for the passage of approximately 4.5 million barrels of oil per day. The strait's significance is not limited to oil trade, as it also serves as a key passage for international shipping, with over 30% of global container traffic passing through it. The strait's importance has led to increased security concerns, with several incidents of piracy and terrorism in the region.",
+      "impact": "The news about the Bab el-Mandeb Strait's importance may have a neutral impact on related stocks in the short term, as it is more of a geopolitical and strategic issue rather than a direct business concern. However, in the medium term, increased security concerns and potential disruptions to trade may lead to increased costs and risks for companies operating in the region, potentially affecting their earnings outlook and valuation.",
+      "risks": [
+        "increased security risks and potential disruptions to trade",
+        "higher costs and risks for companies operating in the region",
+        "potential impact on earnings outlook and valuation of companies involved in international trade"
       ]
     }
   },
@@ -1298,7 +1358,43 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1789085735
+    "publishedAt": 1789085735,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1789242053,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The Houthi advance along the Yemeni coast threatens to disrupt Saudi oil exports, which could have significant implications for the global energy market. Saudi Arabia is a major oil producer and exporter, and any disruption to its exports could lead to a shortage in the global market, driving up oil prices. The Houthi rebels have been making gains in recent weeks, capturing key ports and territories along the coast. This development could lead to a reduction in Saudi oil production and exports, potentially impacting the country's economy and the global energy market.",
+      "impact": "The potential disruption to Saudi oil exports could have a negative impact on oil prices, which could benefit energy companies such as ExxonMobil (XOM) and Chevron (CVX) that have significant exposure to the oil price. In the short-term, investors may see an increase in oil prices, leading to higher earnings for these companies. However, in the medium-term, a sustained disruption to Saudi oil exports could lead to a decrease in oil prices, making these companies' earnings more vulnerable. Additionally, a disruption to Saudi oil exports could also impact the global economy, potentially leading to a slowdown in economic growth and a decrease in demand for oil, which could negatively impact the earnings of oil companies.",
+      "risks": [
+        "disruption to global oil supply",
+        "increase in oil prices",
+        "negative impact on global economic growth"
+      ]
+    }
+  },
+  {
+    "id": "8471568",
+    "headline": "US average diesel price passes $6 a gallon for the first time, GasBuddy says - Reuters",
+    "summary": "US average diesel price passes $6 a gallon for the first time, GasBuddy says  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS3FTSU5adzBIaU92QmVKNkt0UUVCV1FtbTZiN0Vqd0tseU1QeUxPal9NU1NLVVE4VnJDS1NkQUR6Y1NBaFp6RGVLSWg3Y0RjdFlHRnMzdFVFM0F6R2ZCSGdNZ0pLcExYYXh0dHdZRGl2Wkkwb2l4WWFiYUtxU2FnRjJ2OUh0QXlPcXlGcFhDRUEtdzNRRnZ4eS1hV3dRZlRHMGxhU09lZWZJU3RkX0Npei1xLWpkRFU?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1789083578,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1789082790,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The US average diesel price has crossed $6 a gallon for the first time, according to GasBuddy. This significant increase in diesel prices is attributed to various factors, including supply chain disruptions, strong demand, and geopolitical tensions. The rising diesel prices are expected to have a ripple effect on the transportation and logistics sectors, which are heavily reliant on diesel fuel. This development is likely to increase costs for companies that rely on diesel fuel, potentially impacting their profitability and earnings outlook.",
+      "impact": "The rising diesel prices are expected to negatively impact the earnings of companies in the transportation and logistics sectors, including trucking and airline companies. This could lead to a decrease in their stock prices, particularly in the short term. In the medium term, companies may try to pass on the increased costs to consumers through higher shipping rates, which could affect demand and ultimately impact their stock prices. The increased costs may also lead to a decrease in consumer spending, potentially impacting the broader economy.",
+      "risks": [
+        "Increased costs for transportation and logistics companies",
+        "Decrease in consumer spending due to higher shipping rates",
+        "Potential impact on the broader economy"
+      ]
+    }
   },
   {
     "id": "8468239",
@@ -1373,29 +1469,15 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1789074480
-  },
-  {
-    "id": "8471568",
-    "headline": "US average diesel price passes $6 a gallon for the first time, GasBuddy says - Reuters",
-    "summary": "US average diesel price passes $6 a gallon for the first time, GasBuddy says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS3FTSU5adzBIaU92QmVKNkt0UUVCV1FtbTZiN0Vqd0tseU1QeUxPal9NU1NLVVE4VnJDS1NkQUR6Y1NBaFp6RGVLSWg3Y0RjdFlHRnMzdFVFM0F6R2ZCSGdNZ0pLcExYYXh0dHdZRGl2Wkkwb2l4WWFiYUtxU2FnRjJ2OUh0QXlPcXlGcFhDRUEtdzNRRnZ4eS1hV3dRZlRHMGxhU09lZWZJU3RkX0Npei1xLWpkRFU?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1789072620,
+    "publishedAt": 1789074480,
     "analysis": {
       "version": 2,
-      "generatedAt": 1789082790,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The US average diesel price has crossed $6 a gallon for the first time, according to GasBuddy. This significant increase in diesel prices is attributed to various factors, including supply chain disruptions, strong demand, and geopolitical tensions. The rising diesel prices are expected to have a ripple effect on the transportation and logistics sectors, which are heavily reliant on diesel fuel. This development is likely to increase costs for companies that rely on diesel fuel, potentially impacting their profitability and earnings outlook.",
-      "impact": "The rising diesel prices are expected to negatively impact the earnings of companies in the transportation and logistics sectors, including trucking and airline companies. This could lead to a decrease in their stock prices, particularly in the short term. In the medium term, companies may try to pass on the increased costs to consumers through higher shipping rates, which could affect demand and ultimately impact their stock prices. The increased costs may also lead to a decrease in consumer spending, potentially impacting the broader economy.",
-      "risks": [
-        "Increased costs for transportation and logistics companies",
-        "Decrease in consumer spending due to higher shipping rates",
-        "Potential impact on the broader economy"
-      ]
+      "generatedAt": 1789242106,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The article is a collection of photos from around the world, showcasing various events and activities. The photos do not provide any specific information about a particular company or industry. The article is a general news piece without any direct connection to the stock market or business fundamentals. The photos are meant to be visually engaging and do not convey any specific message or trend. The article is not related to any specific company or industry, so it does not provide any relevant information for stock traders.",
+      "impact": "This news article has no direct impact on the stock market or related stocks. The article does not provide any information about earnings outlook, valuation, sentiment, liquidity, or macro factors that would affect the stock prices. The article is a general news piece without any specific relevance to the stock market.",
+      "risks": []
     }
   },
   {
@@ -1429,7 +1511,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1789071660
+    "publishedAt": 1789071660,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1789242154,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Israel's destruction of a Hezbollah underground complex at Lebanon's Ali al-Taher is a significant escalation in the ongoing conflict between Israel and Hezbollah. This development increases tensions in the region, potentially leading to further military actions and retaliations. The conflict may impact regional stability and global oil prices, which could have a ripple effect on the global economy. Hezbollah's military capabilities and influence in Lebanon are likely to be weakened, but the group's ability to adapt and respond to the destruction is uncertain.",
+      "impact": "The potential impact on the related stocks is bearish, particularly for companies with exposure to the Middle East region or those with ties to the conflict. The escalation of tensions may lead to a short-term increase in volatility and a decline in stock prices. In the medium term, the conflict may affect global oil prices, which could negatively impact energy companies and related industries. The impact on the Israeli defense industry, on the other hand, may be positive due to increased demand for military equipment and services.",
+      "risks": [
+        "Escalation of conflict and regional instability",
+        "Impact on global oil prices and energy markets",
+        "Uncertainty surrounding Hezbollah's response and potential retaliations"
+      ]
+    }
   },
   {
     "id": "8471046",
@@ -1905,29 +2000,6 @@
       "summary": "Oracle's options market is pricing in a significant 11% move ahead of earnings, which is elevated but not unprecedented. This is driven by a recent history of sharp post-earnings moves, including a 35% jump in September 2025. Notably, call-side activity is outpacing put-side activity, with richer premiums for calls within the expected range. This suggests investors are betting on a potential upside, possibly due to momentum, optimism about the company's trajectory, or a desire to capture the potential for a repeat of the 2025 blowout.",
       "impact": "Oracle's stock could see a significant short-term move, potentially upwards, driven by the elevated options activity. This could be driven by investors' optimism about the company's AI investments and their potential to pay off, as seen in Microsoft and Amazon's recent earnings reports. The increased call-side activity may also lead to a tighter bid-ask spread, making it more challenging for traders to sell the stock short. This could, in turn, contribute to a short squeeze and further upward pressure on the stock price.",
       "risks": []
-    }
-  },
-  {
-    "id": "8470413",
-    "headline": "Explainer: Why is the Bab el-Mandeb Strait so important? - Reuters",
-    "summary": "Explainer: Why is the Bab el-Mandeb Strait so important?  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWDdhUHRWTzdDb3pHSHlPa3phYjNsWVc4V1FaUmprbUZIeFZsN1M5SEE1bGRUbHhCU0xYcDdtVWdvOGd6bE9xVE05ek5FbzQ2RDAyUzBCdWV4VHNsUVllWWpMOW84WmYyc0g1UUVQNVJPSXZTeHcxNlNzSzFheVRlV29qX1hYUTkxYkNzYnhiNTFFeGFHc3FMam5R?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1789040760,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1789090264,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The Bab el-Mandeb Strait is a critical waterway connecting the Red Sea to the Gulf of Aden, playing a vital role in global trade, particularly for oil and natural gas shipments. The strait's importance stems from its strategic location, allowing for the passage of approximately 4.5 million barrels of oil per day. The strait's significance is not limited to oil trade, as it also serves as a key passage for international shipping, with over 30% of global container traffic passing through it. The strait's importance has led to increased security concerns, with several incidents of piracy and terrorism in the region.",
-      "impact": "The news about the Bab el-Mandeb Strait's importance may have a neutral impact on related stocks in the short term, as it is more of a geopolitical and strategic issue rather than a direct business concern. However, in the medium term, increased security concerns and potential disruptions to trade may lead to increased costs and risks for companies operating in the region, potentially affecting their earnings outlook and valuation.",
-      "risks": [
-        "increased security risks and potential disruptions to trade",
-        "higher costs and risks for companies operating in the region",
-        "potential impact on earnings outlook and valuation of companies involved in international trade"
-      ]
     }
   },
   {
@@ -20275,29 +20347,6 @@
         "Escalation of conflict risk",
         "Supply chain disruption risk",
         "Inflation risk"
-      ]
-    }
-  },
-  {
-    "id": "8361631",
-    "headline": "Trump says Iran won't make deal he thinks is needed, threatens to bomb Oman - Reuters",
-    "summary": "Trump says Iran won't make deal he thinks is needed, threatens to bomb Oman  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ3Rmc3puMlE0OGNHd3RFY2dEM3EzbkdKR3pxal9tVm1lWFliOE9Yc1NlVXN6aEx3SXJCSkVWVENjbjBJMWlXLThJdDE3NzF5aTRMbXJYdDNqRkRtYmlRUVhDcW02My04NWR1MXVianVOdDIwZXdsNGJ5a21walB1UjMxV2YyTGpfMFMzdHNZLW1YRjRaZENWZDE5akdRcFVibWlYcV9aTTM4UQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1787110587,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1786982438,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "US-Iran tensions escalated as Trump threatened to bomb Oman in response to Iran's actions. This aggressive rhetoric increases the likelihood of a military conflict in the region, which could disrupt global oil supplies. Oman is a key player in the region's energy trade, and any instability could impact oil prices. The situation is a concern for energy companies and investors with exposure to the Middle East.",
-      "impact": "The potential for a military conflict in the region could lead to a short-term spike in oil prices, benefiting oil producers such as Saudi Aramco and other regional energy companies. However, the increased tensions and potential for supply disruptions could also lead to a medium-term decline in investor sentiment and potentially impact earnings for energy companies. The situation may also lead to increased military spending, benefiting defense contractors such as Lockheed Martin and Boeing.",
-      "risks": [
-        "Supply disruption risk",
-        "Oil price volatility risk",
-        "Increased military spending risk"
       ]
     }
   }
