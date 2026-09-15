@@ -280,7 +280,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1789386547
+    "publishedAt": 1789386547,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1789433795,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Iran's nuclear chief was prevented from attending an International Atomic Energy Agency (IAEA) meeting due to US sanctions. This development has sparked protests in Iran, highlighting the ongoing tensions between the US and Iran. The US has imposed sanctions on Iran's nuclear program, which has led to a deterioration in relations between the two countries. The IAEA meeting was expected to discuss Iran's nuclear program, and the US's actions have further strained the situation. This escalation in tensions is likely to have a negative impact on the global energy market and the oil prices.",
+      "impact": "The potential impact of this news on the energy sector is significant, particularly for companies with exposure to the Middle East region. Short-term, oil prices may rise due to the increased tensions, which could lead to higher production costs for energy companies. Medium-term, the escalation of tensions could lead to a decrease in investor confidence, potentially affecting the stock prices of energy companies. Additionally, the sanctions imposed by the US on Iran's nuclear program may lead to a decrease in oil exports from Iran, further impacting the global energy market.",
+      "risks": [
+        "Escalation of tensions between the US and Iran leading to a global conflict",
+        "Increase in oil prices due to reduced Iranian oil exports",
+        "Decrease in investor confidence in energy sector stocks"
+      ]
+    }
   },
   {
     "id": "8490488",
@@ -290,7 +303,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1789386022
+    "publishedAt": 1789386022,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1789433849,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "An ammonia gas leak occurred at Jordan's Aqaba industrial complex, injuring eleven people. The incident is currently under investigation. The Aqaba industrial complex is a significant industrial hub in Jordan, hosting various chemical and manufacturing facilities. The leak is not directly related to any specific company or stock, but it may have implications for the broader industry and regional economic stability. The incident highlights the importance of workplace safety and environmental regulations in the industrial sector.",
+      "impact": "The news may lead to a short-term increase in investor caution and risk aversion, potentially impacting the Jordanian stock market and regional industrial companies. However, the incident is not directly related to any specific company's earnings outlook, valuation, or sentiment. In the medium term, the incident may lead to increased regulatory scrutiny and potential changes in safety protocols, which could have a positive impact on companies that prioritize workplace safety and environmental responsibility. This may lead to increased investor interest in such companies.",
+      "risks": [
+        "regulatory scrutiny risk",
+        "reputation risk for companies with similar industrial operations",
+        "potential economic impact on the regional industrial sector"
+      ]
+    }
   },
   {
     "id": "8489542",
@@ -300,7 +326,21 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1789384265
+    "publishedAt": 1789384265,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1789433897,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Syria is experiencing its largest protests since the fall of Assad due to fuel price hikes. The protests are a result of rising fuel prices, which have increased by up to 20% in recent weeks. The government's decision to raise fuel prices has led to widespread discontent among the population, with many calling for the government to reverse the decision. The protests are likely to continue, potentially leading to further instability in the region.",
+      "impact": "The protests and potential instability in Syria are likely to have a negative impact on oil and gas companies operating in the region, particularly those with significant investments in Syria. This could lead to a decline in earnings for these companies in the short-term. In the medium-term, the situation could lead to a re-evaluation of investment in the region, potentially affecting oil and gas stocks. The protests could also lead to a decline in investor sentiment in the region, making it more challenging for companies to raise capital.",
+      "risks": [
+        "Regional instability risk",
+        "Earnings decline risk",
+        "Investor sentiment risk",
+        "Valuation risk"
+      ]
+    }
   },
   {
     "id": "8488563",
@@ -333,7 +373,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1789382770
+    "publishedAt": 1789382770,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1789433949,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Asia's oil traders are maintaining a bullish outlook on oil prices due to the ongoing Middle East conflict, which they believe will lead to a prolonged supply shortage. The conflict has already disrupted oil production and exports from the region, and traders expect this to continue. This supply shortage is expected to drive up oil prices, with some traders predicting a price increase of up to 20%. The conflict has also led to a surge in oil prices, with Brent crude rising to a seven-year high. The prolonged conflict is expected to continue, with no quick end in sight.",
+      "impact": "The bullish sentiment on oil prices is likely to have a positive impact on oil-related stocks, particularly those with exposure to Brent crude. This could lead to an increase in earnings for these companies, driven by higher oil prices. In the short-term, oil stocks may see a surge in price, driven by the current supply shortage and high demand. However, in the medium-term, the impact may be tempered by concerns over the sustainability of high oil prices and the potential for a supply glut if the conflict is resolved quickly.",
+      "risks": [
+        "Risk of supply glut if conflict is resolved quickly",
+        "Potential for oil prices to decline if demand slows down",
+        "Uncertainty over the duration and impact of the conflict"
+      ]
+    }
   },
   {
     "id": "8488898",
@@ -410,6 +463,16 @@
         "geopolitical risk"
       ]
     }
+  },
+  {
+    "id": "8491012",
+    "headline": "Saudi Civil Defense lifts warnings of potential danger in four cities - Reuters",
+    "summary": "Saudi Civil Defense lifts warnings of potential danger in four cities  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLWRfcGNib2loTk5pSkNKLTJtWTRoTFlPWmdpcWNteE0teUdNNkptN0JNbnlzX3llTVA3MXRJM2preVp1Y1BHWmt6OGYzc25mSHBxNG45bjBxUEVmcWxkR3JZdlFmRzBxR19XR2EwU0F3UjM3QnpiQ0RQX3NUTy1oQ1JPME5Uck4xQzBBMVBfNE9Hb0xNRV9NTWZnYUlaWEpHUVAtWE1LOTJqV3dCUlA3akVWblVBT3Q0?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1789345020
   },
   {
     "id": "8487102",
@@ -688,30 +751,6 @@
     "publishedAt": 1789287901
   },
   {
-    "id": "8479623",
-    "headline": "Houthi advance in Yemen puts U.S. in a new bind - Reuters",
-    "summary": "Houthi advance in Yemen puts U.S. in a new bind  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNkd2T3JFYkQtX1BpRFMwdUY5V0tXY0xuX1JpY3cwa2hEZmxKRWVSdGtNQkR5dFBIT2JPanlxM0N3WjA5YVVpZExUOFJIWG1MZTNLUXNrTXZaZDRLRnFac2Vkclp3eWhkaTFUNEZrdGk4RzBYTmVVV1kwMHRJWHdXbGs3Z3U5VlZ1eldGOGJXLTU5d3B2NUE?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1789272044,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1789241948,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The Houthi advance in Yemen has put the US in a new bind, as it escalates tensions in the region. The conflict has been ongoing for years, but recent gains by the Houthi rebels have raised concerns about the stability of the region. The US has been involved in the conflict through its support for the Yemeni government, and the escalation of the conflict could lead to increased military spending and a heightened risk of terrorist attacks. This could have implications for US defense contractors and oil companies operating in the region.",
-      "impact": "The potential impact of this news on related stocks is bearish, particularly for defense contractors such as Lockheed Martin (LMT) and Boeing (BA), as increased military spending could boost their sales and earnings. However, the escalation of the conflict could also lead to increased costs and risks for these companies. Additionally, oil companies such as Chevron (CVX) and ExxonMobil (XOM) operating in the region may face increased risks and costs due to the conflict. In the short-term, the news could lead to a decline in investor sentiment and a decrease in stock prices for these companies.",
-      "risks": [
-        "Increased military spending risk",
-        "Terrorist attack risk",
-        "Escalating conflict risk",
-        "Oil price volatility risk"
-      ]
-    }
-  },
-  {
     "id": "8482443",
     "headline": "New attacks in Hormuz and Saudi test nerves as war's spread worsens oil disruption - Reuters",
     "summary": "New attacks in Hormuz and Saudi test nerves as war's spread worsens oil disruption  Reuters",
@@ -846,6 +885,30 @@
         "Oil price volatility risk",
         "Escalation of tensions in the Middle East risk",
         "Uncertainty in global oil supply risk"
+      ]
+    }
+  },
+  {
+    "id": "8479623",
+    "headline": "Houthi advance in Yemen puts U.S. in a new bind - Reuters",
+    "summary": "Houthi advance in Yemen puts U.S. in a new bind  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNkd2T3JFYkQtX1BpRFMwdUY5V0tXY0xuX1JpY3cwa2hEZmxKRWVSdGtNQkR5dFBIT2JPanlxM0N3WjA5YVVpZExUOFJIWG1MZTNLUXNrTXZaZDRLRnFac2Vkclp3eWhkaTFUNEZrdGk4RzBYTmVVV1kwMHRJWHdXbGs3Z3U5VlZ1eldGOGJXLTU5d3B2NUE?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1789218900,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1789241948,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The Houthi advance in Yemen has put the US in a new bind, as it escalates tensions in the region. The conflict has been ongoing for years, but recent gains by the Houthi rebels have raised concerns about the stability of the region. The US has been involved in the conflict through its support for the Yemeni government, and the escalation of the conflict could lead to increased military spending and a heightened risk of terrorist attacks. This could have implications for US defense contractors and oil companies operating in the region.",
+      "impact": "The potential impact of this news on related stocks is bearish, particularly for defense contractors such as Lockheed Martin (LMT) and Boeing (BA), as increased military spending could boost their sales and earnings. However, the escalation of the conflict could also lead to increased costs and risks for these companies. Additionally, oil companies such as Chevron (CVX) and ExxonMobil (XOM) operating in the region may face increased risks and costs due to the conflict. In the short-term, the news could lead to a decline in investor sentiment and a decrease in stock prices for these companies.",
+      "risks": [
+        "Increased military spending risk",
+        "Terrorist attack risk",
+        "Escalating conflict risk",
+        "Oil price volatility risk"
       ]
     }
   },
@@ -20648,29 +20711,6 @@
         "regulatory approval risk",
         "integration risk",
         "market saturation risk"
-      ]
-    }
-  },
-  {
-    "id": "8376456",
-    "headline": "Tajikistan says it has asked to import 2.5 million tons of oil and fuel from Iran - Reuters",
-    "summary": "Tajikistan says it has asked to import 2.5 million tons of oil and fuel from Iran  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdEdaSFl0WHdDRFdhX3hTRDJVSG5jaGVOVmZmZGdmOGliSGp0TGs3WEpDYlpaX1EtUG84LUdaem4wckhKN2lTTldqTURsZmstUC1MT0pZTlBVLUhfU2tpSXdRWWE1clBhUi12VW5zTVU3aTlFcU5neElwbXdvZ3MwUTZuSkY3al9EMWhSYXdtZHR6ZzhLSkt3NjdxT3poS3NKRUQtUGdPM3RQVXNqMGhOVVI5TTdHX1hy?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1787216576,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1787239193,
-      "sentiment": "bullish",
-      "confidence": 0.7,
-      "summary": "Tajikistan has requested to import 2.5 million tons of oil and fuel from Iran, which could lead to increased demand for Iranian oil exports. This development is significant given the current geopolitical tensions between Iran and the West. The import request is a vote of confidence in Iran's oil sector, which has been struggling to find buyers due to US sanctions. The increased demand could lead to higher oil prices, benefiting oil-producing companies, including those in the Middle East.",
-      "impact": "This news is likely to have a positive impact on oil-producing companies, particularly those in the Middle East, as increased demand for Iranian oil could lead to higher oil prices. In the short-term, this could boost earnings for oil majors such as Saudi Aramco and National Iranian Oil Company. However, the medium-term impact will depend on the geopolitical developments and the ability of Iran to maintain its oil exports.",
-      "risks": [
-        "Geopolitical risks associated with US sanctions on Iran",
-        "Potential disruption to oil supplies due to sanctions or other factors",
-        "Uncertainty around Iran's ability to maintain oil exports"
       ]
     }
   }
