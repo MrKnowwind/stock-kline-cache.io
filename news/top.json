@@ -1,8 +1,77 @@
 [
   {
+    "id": "8498373",
+    "headline": "Flyers are happier with U.S. airports, despite near record travel levels, J.D. Power report shows",
+    "summary": "Travelers gave higher ratings in part because of the newer gates and terminals many airports have opened in recent years, according to the study.",
+    "url": "https://www.cnbc.com/2026/09/16/airport-satisfaction.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108363281-1789501762570-gettyimages-2267580485-_sm36620.jpeg?v=1789511834&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1789552801,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1789553982,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The J.D. Power North America Airport Satisfaction Study reported a significant increase in airport satisfaction among travelers, driven by the opening of newer gates and terminals in various airports. This is the third consecutive year of increased satisfaction, with Minneapolis-Saint Paul International Airport ranking highest among large airports, Tampa International ranking first among medium-sized airports, and Charleston International ranking best among smaller airports. The study is based on responses from over 24,000 travelers, indicating a positive trend in airport infrastructure development. The improved airport experience is likely to boost traveler confidence and potentially drive demand for air travel, benefiting airlines and airport operators.",
+      "impact": "The positive airport satisfaction trend is likely to have a short-term positive impact on airline stocks, as improved passenger experience can lead to increased demand and higher ticket prices. In the medium term, this trend may also benefit airport operators, such as airport concessionaires and terminal operators. However, the impact on the broader economy and macro factors, such as travel demand and oil prices, will also be important to monitor.",
+      "risks": [
+        "Regulatory changes affecting airport operations or infrastructure development",
+        "Potential for increased competition from alternative modes of transportation",
+        "Uncertainty around future travel demand and its impact on airline and airport operators"
+      ]
+    }
+  },
+  {
+    "id": "8498166",
+    "headline": "Yield on 10-year Treasury hovers above 5% as investors await Fed decision",
+    "summary": "The Federal Reserve is widely expected to hike interest rates on Wednesday.",
+    "url": "https://www.cnbc.com/2026/09/16/treasury-yield-bond-market-fed-decision.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108363128-17894885332026-09-15t160320z_883427878_rc2pjnai9xue_rtrmadp_0_usa-stocks.jpeg?v=1789488721&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1789549096,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1789554031,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The 10-year Treasury yield is hovering above 5% as investors await the Federal Reserve's decision on interest rates. The Fed is widely expected to hike rates, with a 92.5% chance of a quarter-point increase. The hot inflation data and rising oil prices have put pressure on the long end of the Treasury curve, pushing the 10-year Treasury yield to a post-2007 high. The Fed's decision will have significant implications for the market, and a hold from the Fed could surprise stocks and damage the central bank's credibility.",
+      "impact": "The potential interest rate hike is likely to lead to a short-term increase in borrowing costs for companies, which could negatively impact their earnings outlook and valuation. This could be particularly challenging for companies with high debt levels or those operating in industries with thin profit margins. The rising interest rates could also lead to a decrease in consumer spending and economic growth, further weighing on the earnings of companies in the consumer discretionary and industrials sectors.",
+      "risks": [
+        "Higher interest rates increasing borrowing costs for companies",
+        "Decrease in consumer spending and economic growth",
+        "Damage to the Fed's credibility and potential loss of market trust"
+      ]
+    }
+  },
+  {
+    "id": "8497746",
+    "headline": "Strait of Hormuz ship crossings remain in single digits, data shows - Reuters",
+    "summary": "Strait of Hormuz ship crossings remain in single digits, data shows  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQelJ4cHN6djhZQmdNUTcyTmwyNjRycVF0NVZrSkwtRFJwUUVLMVRidVJzODlKME1ITFJiQ1RWNzVxWThEWWlJY1A4LVNUWkVucU9oMlp5ZDZCVUlVeDRGYnQ2blhNb2dKSUdMUjZGVzhPc1dNTnJnaERnS1VpQ3dNcHB1d2wyOHgxaEh1clRwenliU00zWWgzVS1MVnRCTTJMT3Q3d1VFTFF2a2JjYkVhTUdKdDA?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1789529580,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1789554084,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The Strait of Hormuz, a critical waterway for global oil trade, has seen a significant decrease in ship crossings, with data showing single-digit numbers. This is a continuation of the trend observed in recent months. The Strait's importance lies in its role as a chokepoint for oil exports from the Middle East, with approximately 20% of global oil passing through it. The reduced traffic is likely due to ongoing tensions in the region and potential safety concerns. The impact on global oil prices remains to be seen, but a sustained decrease in ship crossings could lead to increased prices.",
+      "impact": "The news may have a neutral to slightly positive impact on oil-related stocks in the short term, as reduced tensions and safety concerns could lead to increased investor confidence. However, the medium-term impact is uncertain, as the situation in the Strait of Hormuz remains volatile. The reduced traffic may also lead to increased costs for oil producers and traders, potentially affecting their earnings outlook. The overall effect on the oil industry's valuation and sentiment remains to be seen.",
+      "risks": [
+        "Ongoing tensions in the region leading to further disruptions",
+        "Increased costs for oil producers and traders due to reduced traffic",
+        "Uncertainty in global oil prices"
+      ]
+    }
+  },
+  {
     "id": "8497012",
-    "headline": "Boeing, Korean Air finalize order for 103 aircraft - reuters.com",
-    "summary": "Boeing, Korean Air finalize order for 103 aircraft  reuters.com",
+    "headline": "Boeing, Korean Air finalize order for 103 aircraft - Reuters",
+    "summary": "Boeing, Korean Air finalize order for 103 aircraft  Reuters",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObWZwd2lERklzamhHY3NBNWVVQlY1N1ZrdDc3X1poWmJPZ3dYX19UOG5wTGtLT2NyVlRnNXNQWWZadWlnVDBDZ3d2SjNUSlZxczFYWVlJVDFBWmRhV3NlVENzcUdtei1GX0tZXzZpYnB5Q3hRalYtRFlYR0FxTERES1J3bnhnSm1yRUh3WWtWT3dRS2tTanN5SElfX05xRFVRYzJYU0FtTVVGNmFl?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -24,8 +93,8 @@
   },
   {
     "id": "8497010",
-    "headline": "Saudi coalition says Houthi drone destroyed near Mecca - reuters.com",
-    "summary": "Saudi coalition says Houthi drone destroyed near Mecca  reuters.com",
+    "headline": "Saudi coalition says Houthi drone destroyed near Mecca - Reuters",
+    "summary": "Saudi coalition says Houthi drone destroyed near Mecca  Reuters",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNWlDb0szQnNKQUdZZUJXWVN1LW1XODNJeEpLc1F3RFhEZ2pwc085M2NvRWNhMEV4MFhVa1BNWVZUQ3FpTE5pc0EwdVNrcXFMS0tWMF9kVXJfdlZKSFNfQjhkNjAteWVMVHVXR0lnV2hNbkNJX2g3RlJxYmphZDFOZTNQWWpHa2VycGo3VnQ5anhucVpNTmxkZ0hjWC1mNVVxTVZQNV9EUlh6TVlC?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -47,8 +116,8 @@
   },
   {
     "id": "8497011",
-    "headline": "Saudi-led coalition says it destroys Houthi drone south of Mecca - reuters.com",
-    "summary": "Saudi-led coalition says it destroys Houthi drone south of Mecca  reuters.com",
+    "headline": "Saudi-led coalition says it destroys Houthi drone south of Mecca - Reuters",
+    "summary": "Saudi-led coalition says it destroys Houthi drone south of Mecca  Reuters",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc0RnLXFoalRsa1JfTnROMHoxOXNjRzNINFVfZDNDUjhycmVmak1OVjdaOTYzdW9HZGlSVTRnZFhoRWFTUFljV1BEUVpLRGVJcTZ4QVN2bmtqc1U4dlJGbVM0LWJvNnE2VkRFWk8wVWJyMUVPZDhaSmNWb2xVUThzbHozUVlweXFRMVJFbk9vWE1Jd3FGVFE5VTRTNmZNNU5oYlp0dDJ2ZEJ2dVNnM040elpUM0ZpQQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -70,8 +139,8 @@
   },
   {
     "id": "8495572",
-    "headline": "Best of the Emmy Awards - reuters.com",
-    "summary": "Best of the Emmy Awards  reuters.com",
+    "headline": "Best of the Emmy Awards - Reuters",
+    "summary": "Best of the Emmy Awards  Reuters",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yNlkzNUF6QXZ2YjkzclJJdWhjUUNoSTVGY1A2SV9QNzI2R3MzUHBfemhjTnRRRHFRcDZzc21hYThRem4wTW1OQ09udGZVaG5HVHNYaDV4TEVFYnpkT2s2Uk5fdzF4c3pDRHpOZWFn?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -93,8 +162,8 @@
   },
   {
     "id": "8496087",
-    "headline": "Several explosions heard on Iran's Qeshm island, IRNA says citing local sources - reuters.com",
-    "summary": "Several explosions heard on Iran's Qeshm island, IRNA says citing local sources  reuters.com",
+    "headline": "Several explosions heard on Iran's Qeshm island, IRNA says citing local sources - Reuters",
+    "summary": "Several explosions heard on Iran's Qeshm island, IRNA says citing local sources  Reuters",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcWZBeGJLZWJoMXpTcmhaVVhRdm10Tm1UMWZJbUNna2VTb0todzRORVpBOElYdmVHdjlzRnVvWFZFOXM2emd3bXp5Q0NQeVRDeTNLQldWWU5oVS1mOHQtVjZ2YkQ5ZVBLM0NMTk5UZ19ZaFZJM241dWtoUEhsWVdsbE1zaFJEMk1NZjNRVkhXRlBMSUV3UHFDYU1aTTQyQUtnZ2hLaVplVGNWdUtyR3FjZm9yUVR0dmlMQ3Z1aVd3ME5VY0tUYkU0?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -139,8 +208,8 @@
   },
   {
     "id": "8495358",
-    "headline": "Iran war cost hits $38 billion, forecast to rise $3 billion a month, CBO says - reuters.com",
-    "summary": "Iran war cost hits $38 billion, forecast to rise $3 billion a month, CBO says  reuters.com",
+    "headline": "Iran war cost hits $38 billion, forecast to rise $3 billion a month, CBO says - Reuters",
+    "summary": "Iran war cost hits $38 billion, forecast to rise $3 billion a month, CBO says  Reuters",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNEs4SmV2UTYzblAwenVTemk5SWQtMTRPbkpoLTVxaEVrYzBYNDJfX0RrSmVVZVZadlFBVnF0WkJNeGc5czMxVWREeDFtS0dZeGJ2V2tqSVg5VWM5UUFtN1hsMXlPX3g4d1RMbk5BR1oxcVdyYjBIaHg0bFl1SXY1dDMzazVEZlNBOHdCWm8zRno2Vjc1TEJ6ekdnQ25COEVkS3FVNHJmeWEyRVZJd2p3aF80RFlhZmVtREhQbkpIdw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -162,8 +231,8 @@
   },
   {
     "id": "8495253",
-    "headline": "US Republican lawmaker seeks Hegseth's impeachment over Iran - reuters.com",
-    "summary": "US Republican lawmaker seeks Hegseth's impeachment over Iran  reuters.com",
+    "headline": "US Republican lawmaker seeks Hegseth's impeachment over Iran - Reuters",
+    "summary": "US Republican lawmaker seeks Hegseth's impeachment over Iran  Reuters",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRkdVNklYVkNGY3dIRmFVaWVhU2tpR0I2cG9XcVNZRmVSQ0h0VklFdGlMRVZ3VXVHMzA2RjJkWDBBdUY5bXRKU1MtQmlSWmpXcm54M3R3UkR2WS16VE9HRVM3Z2dndlVkMnNxd0E4TUFwS3JRREFETmxtaC05Vy1Zb0o1Rk5kMTVWLTRGSmxzbVBrMnNEQldDdVpXS1VpR3NNTzVNSlAyaw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -185,8 +254,8 @@
   },
   {
     "id": "8495141",
-    "headline": "US energy chief says Saudi Arabia oil pipeline should be back online within days - reuters.com",
-    "summary": "US energy chief says Saudi Arabia oil pipeline should be back online within days  reuters.com",
+    "headline": "US energy chief says Saudi Arabia oil pipeline should be back online within days - Reuters",
+    "summary": "US energy chief says Saudi Arabia oil pipeline should be back online within days  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWjVqU3FIVkpudnZrWWI3ZndxaldTN2FtV0lXR0JuSnIweGhPRDFYS0FPUWxxVG5YS1Rmb3J0QlBRZ0hucFgxX3hWc3JBWllZbDZLWkJ4STd6X1lUekNXeUd6OXNRZTJ5dEFQRmwzY2M4bUlLSmlHTkZzUWFFRkJCWTZSRlJ1TGtQNnNydFdGZ01uQmVtNWplOG9yLTFidlV6aG5jaE51SXRSSGVMUmdJTGh2M3pVdG5sWWM4SzBQcFlOdzA?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -208,8 +277,8 @@
   },
   {
     "id": "8496806",
-    "headline": "US Treasury's Bessent will meet with China's He Lifeng this weekend - reuters.com",
-    "summary": "US Treasury's Bessent will meet with China's He Lifeng this weekend  reuters.com",
+    "headline": "US Treasury's Bessent will meet with China's He Lifeng this weekend - Reuters",
+    "summary": "US Treasury's Bessent will meet with China's He Lifeng this weekend  Reuters",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb2MzcWFBOFZsSHhmdHo4dVJnckkxSHJTUGh1QXMyUlNZVTJhbWhVQWlsRXZpYUJQLVhNT1BhU1VUOGNKWno3ZERFMHV3QW5PVUppWGcxRmNXYnlpWnlkOUFYZjJWTXVjVHJRMUpZb2JtUWFTQ29tMFlZa3R0ZWhPRHZTS2l5SENMMXNZVXdsc3ZVMjVscXpGZFJwaGdIU0ZqUmNzdTExcENiQWhZQ29mVlhqSktwZnAtamJDUw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -231,8 +300,8 @@
   },
   {
     "id": "8495038",
-    "headline": "UK, US and Netherlands issue advisory on Iran-linked spyware - reuters.com",
-    "summary": "UK, US and Netherlands issue advisory on Iran-linked spyware  reuters.com",
+    "headline": "UK, US and Netherlands issue advisory on Iran-linked spyware - Reuters",
+    "summary": "UK, US and Netherlands issue advisory on Iran-linked spyware  Reuters",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWk93UklibjZvS0JuVFBwX2RiTFVTM3BEOExqM1dFYnM4cDZ0TFZsV3JjMkR5WThrN2ZJZkdoQ1R5amNsZF84ZFh6RzBjcmpjSmtma0VxbHBreVBNMDJZVXc2REhYVHVUWlQwVEVLX3ZYN1NFUkE0Y3A0VkFTSEIyY0h2RGNMbE1KRFBnM05YT1E?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -300,8 +369,8 @@
   },
   {
     "id": "8495039",
-    "headline": "Bessent defends Trump economic policies, reveals plans to meet Chinese official - reuters.com",
-    "summary": "Bessent defends Trump economic policies, reveals plans to meet Chinese official  reuters.com",
+    "headline": "Bessent defends Trump economic policies, reveals plans to meet Chinese official - Reuters",
+    "summary": "Bessent defends Trump economic policies, reveals plans to meet Chinese official  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORTlaeHpnSkMzSU5ieGJqNEpUTFdaYU8yTzc2OExDcElaWFVFclZyNkVNcThWaFRiM29ZNGhaY3dpWS1RbVh0NUhZczdVLUhLVFNjN3RCRFhZMlVmeU5ibVhCXy14VnItdkpzVHNJZXlxWmhxbzRLX3BjOTFzcE9yRVFteHcwS0Jaa19QaTVPdnh5WDFLcXdvTXBrNldnNVJDd0RvN1NRYllyRWM?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -323,8 +392,8 @@
   },
   {
     "id": "8496498",
-    "headline": "Alarmed Yemenis flee south as Houthis keep up attacks - reuters.com",
-    "summary": "Alarmed Yemenis flee south as Houthis keep up attacks  reuters.com",
+    "headline": "Alarmed Yemenis flee south as Houthis keep up attacks - Reuters",
+    "summary": "Alarmed Yemenis flee south as Houthis keep up attacks  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcFYwcDlsVXJEZ0xaNDhtaGNtV1JHSTRyZ0RHckpiZVhYa1ozbHVkNHRUeS1wNVBqaWJJWE5xZ0Z1MlotSUlnX3JxcC1ZQi0xUDRnSUpabjJraWtzM3NCWk12UkJyVzBqRk12WGU3RnJUSzlWU2hzYzVLN3dzNE9FSlFYNjdDT29TdmNwTTV4THZFNEtUZEhxMlZ4TG0wTTFQbHB5X2d6NlNNRUU?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -415,8 +484,8 @@
   },
   {
     "id": "8494299",
-    "headline": "Most Gulf bourses in red on Houthi attack and Hormuz shipping slump - reuters.com",
-    "summary": "Most Gulf bourses in red on Houthi attack and Hormuz shipping slump  reuters.com",
+    "headline": "Most Gulf bourses in red on Houthi attack and Hormuz shipping slump - Reuters",
+    "summary": "Most Gulf bourses in red on Houthi attack and Hormuz shipping slump  Reuters",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSExSUVU1Q05HQlpsVG5mSngtVTZFUkYtV1dhYVNqZDdFTTVvWWsxU0d5SUZWV1luUXJXMG9Hb1JKeU9MSTdzb3I5MDZEWVlzZWMzN3dQRHNMZk5nSzIxSW1KWGFvMkVHSlYxdnowc2x3c2xPamVScEhCYXhBS0VheDd6VFR6SkZ4SkROR1UwQi1BR0dCdUd3T1FZYnhrc2ZqTTdvMkRJZzhGZUluRHRJ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -530,8 +599,8 @@
   },
   {
     "id": "8493747",
-    "headline": "Amazon's AWS is unable to restore access to Bahrain, one UAE cloud data zone after war damage - reuters.com",
-    "summary": "Amazon's AWS is unable to restore access to Bahrain, one UAE cloud data zone after war damage  reuters.com",
+    "headline": "Amazon's AWS is unable to restore access to Bahrain, one UAE cloud data zone after war damage - Reuters",
+    "summary": "Amazon's AWS is unable to restore access to Bahrain, one UAE cloud data zone after war damage  Reuters",
     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcGhFMHZVNGthdVl1bjYza3ZOWVpRY3ZMS1JmZkgxVnJTWGRhZFdFS3JfYk1nX2Y1Nzl3RlZDN21lWFA3b0xUU1E3UkdZR0hPQXNXdG5seEhsQ0hUR1gxVnZCWHFpTXdQdGhGQkFKTFd0cW80QUNBdnpXYzdOX25zZEJpN2lkOW1IWVlnc0RZNDk0cGgzSTlNYXFaMS1EcUJTM0ZUUjlhS0FLV0NrbGtsM3BKOVlFOWdFUi1sbGQtWmRqX3ZsODdPczRYRUw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -559,7 +628,21 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/108356340-1788181285402-gettyimages-2292128100-FED_SYMPOSIUM.jpeg?v=1788181306&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1789470605
+    "publishedAt": 1789470605,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1789554133,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The CNBC Fed Survey indicates a significant shift in market expectations, with a majority of respondents now forecasting at least two rate hikes over the next year. This change is driven by concerns over inflation, which is seen as a broader issue beyond just energy prices. The survey also suggests that oil prices will remain elevated for longer than six months, potentially spilling over to other goods and services. This development is likely to lead to a more aggressive Fed stance, which could slow down economic growth.",
+      "impact": "The potential impact on the market is likely to be negative, with a higher probability of recession concerns and a slowdown in economic growth. This could lead to a decrease in earnings expectations and a revaluation of stocks, particularly those with high exposure to interest rates and inflation. The S&P 500 is forecast to rise 8% next year, but this may not materialize if the economy slows down. The Fed's decision on rates on Wednesday will be closely watched, and a hawkish stance could lead to a sell-off in stocks.",
+      "risks": [
+        "recession risk",
+        "inflation risk",
+        "interest rate risk",
+        "valuation risk"
+      ]
+    }
   },
   {
     "id": "8493632",
@@ -569,7 +652,16 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/108318068-1784661914756-108318068-1780921564776-gettyimages-2280481266-jr_11057_ghbfkref.jpeg?v=1784666744&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1789470393
+    "publishedAt": 1789470393,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1789554182,
+      "sentiment": "bullish",
+      "confidence": 0.7,
+      "summary": "The US Air Force has confirmed the deployment of on-orbit space control weapons, a significant development in the space industry. This move comes as part of a broader effort to modernize the Air Force and Space Force in response to advancements by US adversaries. The deployment of space-based weapons could be a deterrent to potential threats and solidify the Space Force as a warfighting branch. The US has been developing and testing counterspace capabilities for years, and this disclosure marks a shift towards greater transparency. The implications of this development are far-reaching and could have significant effects on the space industry and related defense contractors.",
+      "impact": "The confirmation of space-based weapons could lead to increased demand for defense contractors that specialize in space technology, such as Northrop Grumman (NOC) and Lockheed Martin (LMT). This could drive earnings growth and boost valuations for these companies in the short to medium term. The development could also increase tensions with Russia and China, potentially leading to a surge in defense spending and benefiting companies like Boeing (BA) and Raytheon Technologies (RTN).",
+      "risks": []
+    }
   },
   {
     "id": "8493298",
@@ -595,6 +687,16 @@
     }
   },
   {
+    "id": "8497846",
+    "headline": "Obama calls for AI safety measures, rebuking Trump approach",
+    "summary": "Former US president says voluntary tech standards are not enough; contrasts with Trump’s resistance to regulation",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-15/obama-calls-for-ai-safety-measures-rebuking-trump-approach",
+    "source": "Bloomberg",
+    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+    "relatedSymbols": [],
+    "publishedAt": 1789457948
+  },
+  {
     "id": "8494521",
     "headline": "UK jobs market stays soft before BoE rate call - Reuters",
     "summary": "UK jobs market stays soft before BoE rate call  Reuters",
@@ -606,8 +708,8 @@
   },
   {
     "id": "8494937",
-    "headline": "Hong Kong-based crypto exchange CoinEx says it will shut down - reuters.com",
-    "summary": "Hong Kong-based crypto exchange CoinEx says it will shut down  reuters.com",
+    "headline": "Hong Kong-based crypto exchange CoinEx says it will shut down - Reuters",
+    "summary": "Hong Kong-based crypto exchange CoinEx says it will shut down  Reuters",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT3duUmNfM29VVkJIZXQ3VW5MV1RERWJhM3E0SWp6TldfaW1vOFhNVjVjdlBGdTIyVFRjaU1vTHZfUzN6SHh4SFROM1RtS2cyRWM3NFhpRGRQUEZtcDJYWnMzb0RrMU1DZ2hZb052UmRLQ1ItcGRBM0dCV2k4R01oeXJTc2tLMlZ5OU9fUkNULTB4M3NMMFk1SVYyY1h2ZXBJeUQ1c1RMazdqSzJlM29j?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -616,8 +718,8 @@
   },
   {
     "id": "8492675",
-    "headline": "China's August oil throughput rises as fuel exports rebound amid Iran war - reuters.com",
-    "summary": "China's August oil throughput rises as fuel exports rebound amid Iran war  reuters.com",
+    "headline": "China's August oil throughput rises as fuel exports rebound amid Iran war - Reuters",
+    "summary": "China's August oil throughput rises as fuel exports rebound amid Iran war  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY3JiM0k1cEJ2SDhnVmNCbHJpeWlQWTJyWjVTUDlSX0dhM0I4MHAwOHltcFl6WW5RazFEWE0yYk1ja0hJcnE1cWpJYVZDZFp0cW1XeVpMeXFEc01veFFRRmNZeFhkSXBIeFphV0pYU3NGZjJNbzhfRlFrUk5Gc3puWVo2SllOZm5CM19xZ2dSWGV3aGpzdkdOTFpRVHVMNDRyMTB1WWJRSVFKbVV6YXRJNG9JZU1iMk9XRF9KMlFXUHdNZw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -685,8 +787,8 @@
   },
   {
     "id": "8492363",
-    "headline": "Hormuz traffic dwindles after Middle East attacks intensify - reuters.com",
-    "summary": "Hormuz traffic dwindles after Middle East attacks intensify  reuters.com",
+    "headline": "Hormuz traffic dwindles after Middle East attacks intensify - Reuters",
+    "summary": "Hormuz traffic dwindles after Middle East attacks intensify  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUTFPRnZDMlUxdmU3RmpseHVGS2laWk4tZU0ySUhOSUdDMGlfQ3loQTBQZktUdW96ck0yNlctUWxVV2NYSHpDclc2YnI4cVFISWZXbjdlM1BDSC1vejJmR2Qtc0NjTTlxLVpxRmZXck5nQU9US1JUalB2cTNZd1Z4Y1Q1QkVQUkEySXNqZUxYV1VWLV8wbVJYTU85X3U0bmk3SXFnNm1uMDQ4TkYwMjV3a3ItZw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -718,8 +820,8 @@
   },
   {
     "id": "8492254",
-    "headline": "Saudi civil defence says danger has passed in six cities including Yanbu - reuters.com",
-    "summary": "Saudi civil defence says danger has passed in six cities including Yanbu  reuters.com",
+    "headline": "Saudi civil defence says danger has passed in six cities including Yanbu - Reuters",
+    "summary": "Saudi civil defence says danger has passed in six cities including Yanbu  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTW44Q2VNT0ZLUS1feUlvTE90dTdwZ0NCVVhZY0RQeHBCRlItRGcwVldPaF9jTTdlcXJjSG1hdHNuN2FzdjZUMEtITnExdHZzYk5hR0RLdmZnRHZtRG1ubXdvZllyQXRzRjlpallqZlNJdWYzWHRLNXVtdk5lZDVMY3dnYWNaakJscW5fTVVzMkdrZEk4X253SFlwM05HblB5d21BSnh2UmpyMGxXeGRfbS0wRGZwN2Z0VXFvZTdTeHc?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -741,8 +843,8 @@
   },
   {
     "id": "8493532",
-    "headline": "LNG demand in China, India and Pakistan expected to rebound after US-Iran war ends - reuters.com",
-    "summary": "LNG demand in China, India and Pakistan expected to rebound after US-Iran war ends  reuters.com",
+    "headline": "LNG demand in China, India and Pakistan expected to rebound after US-Iran war ends - Reuters",
+    "summary": "LNG demand in China, India and Pakistan expected to rebound after US-Iran war ends  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb19XZTBOamlRdWRZa2xJc2F1b0g2ZmlzU1BObHJlSXpldVdQVHR3T2JSWFVvUDEyWTk1Zm9RU3dCUmVmQXIyWjVBTkVpam8xVndOTTNjS3k3c0R1LVlDN09taHZHNDVTUU84TF9fZmNKWTZhQVVpeFJpVXBqb0w3TjB0V0ZDM3Q5aWFpZ1R3WVdaUl9hZURqcG5tOVhiaXIwQ3c4S2I2Q1lCMmZ6OGtqSzhVOA?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -784,8 +886,8 @@
   },
   {
     "id": "8491530",
-    "headline": "Saudi Arabia issues wide-ranging security alerts after week of strikes - reuters.com",
-    "summary": "Saudi Arabia issues wide-ranging security alerts after week of strikes  reuters.com",
+    "headline": "Saudi Arabia issues wide-ranging security alerts after week of strikes - Reuters",
+    "summary": "Saudi Arabia issues wide-ranging security alerts after week of strikes  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYjU2YnlvRExQZkwtRGlRN2ljVC10RTVQRGI4NUhLSEladjEzeGltZlcxWXByODRyZDlyM3pvWGdSYVBIZXctNVZvQ2ZOX09PZ2ZsN0pWU216ZFUwUDRRS0RjQXV2QVpMWkVXRFJiZGRaVVZENkFMN3hmUlBSWWxWVENnWnFYVEFHMGVMeWYyX2V0b09TMU9Bb2M4ZmZDWTU2YVVpYUFFOUJCcmVTeHhtdEVla2hMbGR1UGc?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -806,9 +908,32 @@
     }
   },
   {
+    "id": "8487000",
+    "headline": "Houthis attack Saudi Arabia as Gulf-Iran talks are postponed - Reuters",
+    "summary": "Houthis attack Saudi Arabia as Gulf-Iran talks are postponed  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUmxSZmUzZzdYUkJrQ2l3RzRTQklHdjFOWmVYZ2NDcmZmOW9UUVBoZkk0bC0wcHhveWNHNldiU2E0WV9PYkFtWGVaUUdMVUlieFBZMVRjVHFkTTZ6YjVWXzVLUlA2QXE2LURQczRJN010RGR1Y3Jkb0JpS1lhdF9fZVdJT0hMV3A5QXNNcllfalNoem0wS3VMNUlNQUgwbG9sUU1XN2R1aUpkaXZDekZ6bnlqN2RiN0t3X3d3?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1789428821,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1789369821,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "The postponement of a meeting to discuss the Strait of Hormuz proposal has caused a setback in diplomatic efforts to resolve the ongoing tensions in the region. The proposal, aimed at ensuring safe passage through the Strait, has been a key point of contention between the US and Iran. The delay is seen as a sign of the difficulties in reaching a consensus, which may lead to continued uncertainty and volatility in the region. The Strait of Hormuz is a critical waterway for global oil exports, and any disruptions could have significant economic implications. The delay in the meeting is likely to exacerbate concerns about the potential for a conflict in the region.",
+      "impact": "The postponement of the meeting is likely to have a negative impact on energy-related stocks, particularly those with exposure to the Middle East region. The increased tensions and uncertainty may lead to a decline in investor sentiment, causing a short-term sell-off in stocks such as oil majors and shipping companies. In the medium term, the prolonged uncertainty may lead to a re-evaluation of the earnings outlook for companies with significant operations in the region, potentially resulting in a decrease in stock prices.",
+      "risks": [
+        "Increased tensions and conflict risk",
+        "Disruption to global oil supplies risk",
+        "Uncertainty and volatility risk"
+      ]
+    }
+  },
+  {
     "id": "8490486",
-    "headline": "US imposes fresh sanctions on Russia's VTB Bank over alleged Iran ties - reuters.com",
-    "summary": "US imposes fresh sanctions on Russia's VTB Bank over alleged Iran ties  reuters.com",
+    "headline": "US imposes fresh sanctions on Russia's VTB Bank over alleged Iran ties - Reuters",
+    "summary": "US imposes fresh sanctions on Russia's VTB Bank over alleged Iran ties  Reuters",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUV9iZ1hvNXptVGtUeEZ2X3Q1bkxtdm93Zm1neUNFdjlKM3Y2eElENzhEbHNpMFRRUXlGaWtUakU1al9wM3gtanR4R05saV9fWXVmNXlOWFUtQkpvRnJBbDdybE5CdVJtUmFRVDdLazdXRGljQUVVa0xpcUEzWHNpUEd5ZEhjOUlQMVMzY2hnamY1endIa0RZbFRlM3pKOUUx?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -922,8 +1047,8 @@
   },
   {
     "id": "8486383",
-    "headline": "Oil settles higher after Saudi strikes stoke supply worries - reuters.com",
-    "summary": "Oil settles higher after Saudi strikes stoke supply worries  reuters.com",
+    "headline": "Oil settles higher after Saudi strikes stoke supply worries - Reuters",
+    "summary": "Oil settles higher after Saudi strikes stoke supply worries  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcXNvWlpHUEh2bzNITUYtX04zUG1vclFCeDZ1NVdQTkNXUk5OTmRESElsUXUyQjNsYVU1d2tEMFlNRjB1VXVnenR4UHZzd3F3dEZWR2tWSVZMREFiZXF6NjR5SlB5VmdaNXpTWHQ3UF9POFRGanpoR0NxZUV3ZUU4alAycW9mcGdLak5lQ2NXdlpHQ3I3eDVRM3JDWmI3SGdYUjZsbnJSaUVySHk3UFl4Y3AxVGFZbmg5?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -941,8 +1066,8 @@
   },
   {
     "id": "8488028",
-    "headline": "AirBaltic files for Chapter 11 bankruptcy as Iran war costs bite - reuters.com",
-    "summary": "AirBaltic files for Chapter 11 bankruptcy as Iran war costs bite  reuters.com",
+    "headline": "AirBaltic files for Chapter 11 bankruptcy as Iran war costs bite - Reuters",
+    "summary": "AirBaltic files for Chapter 11 bankruptcy as Iran war costs bite  Reuters",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSTBsQlVVMThMRmZ6a3gxOE5lRG1fbENPRnEwUmlWN3pXNUdGT1ZhMDZOQnFMbGZWZUk5ZTQzYUd0VVByOXdZVy01ZE85UTJ2dVBIZW1EX0ZzZjVaRjRyc09PTkpGQlJQc0JGQmh3b1J0NkllWFItWHhaNTVIRUxrbEJVaWQyVkpfcm0zcks0X1ZZdw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1016,8 +1141,8 @@
   },
   {
     "id": "8489648",
-    "headline": "Senior Sunni cleric shot dead by unidentified gunmen in southeast Iran - Iranian state media - reuters.com",
-    "summary": "Senior Sunni cleric shot dead by unidentified gunmen in southeast Iran - Iranian state media  reuters.com",
+    "headline": "Senior Sunni cleric shot dead by unidentified gunmen in southeast Iran - Iranian state media - Reuters",
+    "summary": "Senior Sunni cleric shot dead by unidentified gunmen in southeast Iran - Iranian state media  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSXc0MkRtdlNRQUxNbjlDN3pHenA5cnEwdFBLU2ZPS3FBZDlpdXI4UDZ1WEZFQnZaemdZUVd6Q1JMOWNyc2s1QWZMU0YzWWVuSjl3V0hGS3BLTzFQWFZtalViVUZEcmduVElMUm0zU19oenVaUkdlRHAyUUF5TW9GelVoNlZyUktjV1FpQWNDbVRiOGdzNHg1X3JBNFRwZ0dDbGIyeWs2dWhVbERSVWJFYlhwLWtSSm00Z0ZIcDJtMXJ2U3dlY3pvZA?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1039,8 +1164,8 @@
   },
   {
     "id": "8490487",
-    "headline": "Etihad Airways says passenger numbers have rebounded from Iran war impact - reuters.com",
-    "summary": "Etihad Airways says passenger numbers have rebounded from Iran war impact  reuters.com",
+    "headline": "Etihad Airways says passenger numbers have rebounded from Iran war impact - Reuters",
+    "summary": "Etihad Airways says passenger numbers have rebounded from Iran war impact  Reuters",
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYzdYYUtHSkVTSDY0dUZQVUZzdkY3WDVCZmgteEFHcXhrNGxmVmY5X1k4dGR3Z3o4ek9CdTNycWw3Z01jcHlRUFhJYllYLUd0V3JpRF9JVzY5eDh4WEFOVVBOSDd6RXhGa3lrSFFKVlBjV2cwMDhCdG5jcE1zN180Q0J1Y3lyVXNsWE9CaHBZWHlJZGtxdXNRWFlTWmVSR3RNV2dtR2RYV1JoU3VQcllHaUhIUEhMS2UwNzY4QzQxc2dwZjRQRFhtMkExRHI1Ukk?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1081,6 +1206,16 @@
     "publishedAt": 1789394359
   },
   {
+    "id": "8494520",
+    "headline": "Celebrities spotted at the U.S. Open - Reuters",
+    "summary": "Celebrities spotted at the U.S. Open  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBCd1pveHI0YzZIZ3VwTjNJVVA0WmU3OTVERGozejk4TXd6QVFINFp5azV1Sk1sNjJIalVyRFBRVDc4eUJCUVo2SDNINlIwWXJISEJCUE9EdVBENlF6V2psSzZZQWxkS0Rac055YVcxaDRZNGdNSWZLQTZ5UVk?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1789394220
+  },
+  {
     "id": "8489004",
     "headline": "Here are our top 10 things to watch in the stock market Monday",
     "summary": "AI semiconductor and infrastructure stocks are under heavy pressure ahead of Monday's open on Wall Street.",
@@ -1106,8 +1241,8 @@
   },
   {
     "id": "8489116",
-    "headline": "Yemen's displaced long for loved ones, stability as Houthis advance - reuters.com",
-    "summary": "Yemen's displaced long for loved ones, stability as Houthis advance  reuters.com",
+    "headline": "Yemen's displaced long for loved ones, stability as Houthis advance - Reuters",
+    "summary": "Yemen's displaced long for loved ones, stability as Houthis advance  Reuters",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONDRXdHd5bkV2YlhUcGtEVzN3UE1oRnBXa0RKYkNUeDZtTFBWZThSaFRydWYwUUI0S0M1QThnbG9yZDF1OERhN2pFNVViSXRMTE9fa2VnQTNLeDhNS1BkMHJoZHgtTnVHOHlTcVVSRVZYR1NsWmpGbUlsekUzVk9zZGRvTGI2al9xNkRPUGtfZFhXWS1DeHJ5a3RjbEFxZ0doOGZjV0ZoNnQzOTR6SGZGalFB?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1152,8 +1287,8 @@
   },
   {
     "id": "8489858",
-    "headline": "Iran protests as US prevents its nuclear chief attending IAEA meeting - reuters.com",
-    "summary": "Iran protests as US prevents its nuclear chief attending IAEA meeting  reuters.com",
+    "headline": "Iran protests as US prevents its nuclear chief attending IAEA meeting - Reuters",
+    "summary": "Iran protests as US prevents its nuclear chief attending IAEA meeting  Reuters",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQmFYd0hqU3pUXzRwRklUdC1WMkl4N2xFZHZkdnJndndRRTlITmctYlhjOWFQc013NWdoRUxuMFRzRWcwZWF2Q203aF84cE8zVF9ZZ0h6YnVNUk9wRjdnMFlFTW9YSWdVOWppMUJFOHNDTllGVTZlMHd6eFpERTlVbzB4c2t1amtmMldEYWZGZXBZWHZ5RThHS2dMWkJEUnBibm5WTFRCaGVQNGQtRUpBWDZMZ3F1dm9td25qXw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1198,8 +1333,8 @@
   },
   {
     "id": "8489542",
-    "headline": "Syria fuel price hikes trigger widest protests since Assad fall - reuters.com",
-    "summary": "Syria fuel price hikes trigger widest protests since Assad fall  reuters.com",
+    "headline": "Syria fuel price hikes trigger widest protests since Assad fall - Reuters",
+    "summary": "Syria fuel price hikes trigger widest protests since Assad fall  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdVRQSVoxOWU2azRFeC0zZmpXWDktNzRrTjhvQzgyRWtFVmtOb3doanREbmdpRldIWWlDSE1CeTVNWnpMZlVkQlZycmNSaHZXLWliYjVHekxXa2RrSVdwYU5ucExKbTU2aTQ4c01TV3ctU2JWWFJUR2hPb21INWZiZHYtb3JYa2lNS04yMUdENk51YVY1RHl5VTVhalNKWmFfUS0tUUlZYkhULVZ4OTZHT2g4bVcxb3ND?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1245,8 +1380,8 @@
   },
   {
     "id": "8490384",
-    "headline": "Asia's oil traders, seeing no quick end to Middle East war, stay bullish on prices - reuters.com",
-    "summary": "Asia's oil traders, seeing no quick end to Middle East war, stay bullish on prices  reuters.com",
+    "headline": "Asia's oil traders, seeing no quick end to Middle East war, stay bullish on prices - Reuters",
+    "summary": "Asia's oil traders, seeing no quick end to Middle East war, stay bullish on prices  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQjlwYUFLdF9Cc3lZbHQxSHlwT2Y4T3Yzd2ZfZUNwdmNWM1Y5d2M4azA3SUEyLUkzTWo1NEJVeVJSSFROXzJHM0tjdlBfWGpJUkY0MlJpSFFxSmlPcDgydF81R1BYekZyQklaNjNGRDFfUkZ2UVo4MmNKOUJkUDBSbEY3ZkUtM0FJajE4NWVDejk4XzFHb2F3ZzhiOEVRUHRxeElFWmlvOC1pc29LZXFEX25XZ3pHN3FhaUFjWnR1b21zb0E?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1268,8 +1403,8 @@
   },
   {
     "id": "8488898",
-    "headline": "Iranian strait authority issues updated list of sanctioned vessels - reuters.com",
-    "summary": "Iranian strait authority issues updated list of sanctioned vessels  reuters.com",
+    "headline": "Iranian strait authority issues updated list of sanctioned vessels - Reuters",
+    "summary": "Iranian strait authority issues updated list of sanctioned vessels  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNlpSYVI4N0JvRURKVkljaGZfMkFaSGtxcElEVVpTc0xfOW9YdjN0b2xRaFlFTmFYekc4YnRFRFdIS0RraS04bWxyaE81WlktZ0VIblFZd09uNGtYeEJCUXpCdW4xOWV4dTVudTBSV3hUVW9ITGpKalZLNGxFVHJMYjhGY3FjUWxzaEhQUTZvSDA3MXhra0xOblhtd2NGdE1UN1VoUVMxcnlEWWt6OWY0MWE3bnlQN3lO?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1291,8 +1426,8 @@
   },
   {
     "id": "8489649",
-    "headline": "Saudi crown prince, US CENTCOM chief discuss developments after Houthi escalation - reuters.com",
-    "summary": "Saudi crown prince, US CENTCOM chief discuss developments after Houthi escalation  reuters.com",
+    "headline": "Saudi crown prince, US CENTCOM chief discuss developments after Houthi escalation - Reuters",
+    "summary": "Saudi crown prince, US CENTCOM chief discuss developments after Houthi escalation  Reuters",
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUE0yT0k4SlJJNFduaEtFbDdjOGdPdXhfMnU4OF9za1FnVFBJV01ZMnFlMGVfNVJWbDJSYnVjU2JsOWxuZjg2VU51WVRhQzczaVpNdFVwWnVVT2tkb20tcjFkR3VqcGlOVm1sU3BBSjdIVE1teFJ0MW5OZ1FPQk1MZ0NRWkN6S1Q5cE9yQjU2MldMTjJaTERLaXFNd091SE96UFd2YTVNZjRaZlBCaU1SOWFYTG9KTXBNXzV3SGpQRHdYWHNnbVFIWUY2Uy1QOUk?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1346,19 +1481,9 @@
     }
   },
   {
-    "id": "8494520",
-    "headline": "Celebrities spotted at the U.S. Open - reuters.com",
-    "summary": "Celebrities spotted at the U.S. Open  reuters.com",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBCd1pveHI0YzZIZ3VwTjNJVVA0WmU3OTVERGozejk4TXd6QVFINFp5azV1Sk1sNjJIalVyRFBRVDc4eUJCUVo2SDNINlIwWXJISEJCUE9EdVBENlF6V2psSzZZQWxkS0Rac055YVcxaDRZNGdNSWZLQTZ5UVk?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1789369200
-  },
-  {
     "id": "8476483",
-    "headline": "How Anthropic says Claude was used for weapons, spying and cyber operations - reuters.com",
-    "summary": "How Anthropic says Claude was used for weapons, spying and cyber operations  reuters.com",
+    "headline": "How Anthropic says Claude was used for weapons, spying and cyber operations - Reuters",
+    "summary": "How Anthropic says Claude was used for weapons, spying and cyber operations  Reuters",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ2o0V3htdFZCT1R5VFoxR0JHNDk3QzRxOHdlYXdzdUE4c2hXbUI2WFVLUmM0RFRwN2V2TUdUVlFEcy0tY0Z6eEVySHhaN213M29CdTIwYmJyNjBqU1BkYUhOQVpVYTlXam9jbnNvTV9LVS0zd2xodVBvdVlsRThtcTVCeDExdGRKYnA5S3o0bjllMk1WMFc1NXVCYS1JSFNCNkFfX09ZY1NscGNORFEzTW0xZFc?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1413,8 +1538,8 @@
   },
   {
     "id": "8491531",
-    "headline": "ECB's Kazaks sees growing case for more tightening - reuters.com",
-    "summary": "ECB's Kazaks sees growing case for more tightening  reuters.com",
+    "headline": "ECB's Kazaks sees growing case for more tightening - Reuters",
+    "summary": "ECB's Kazaks sees growing case for more tightening  Reuters",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS096UGRhVERKb0haNDg3WFQyQkJDaC03MVdTWG9GUk4zckVfMXo0WEJiZzhOU0lENktmanNZRFdwRDM1dHVmOW9XS1g3RDNXYUxLSFEzTWhGc3dhYkZlOHFtTWxLSGtLQldUMkQ3d09mbUpHSkNweGw1bEtjSXp1bDJ2cE5kdTE5TVdLV3ljRlBFVzBPMmxVOGhzV3g2WkE?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1433,8 +1558,8 @@
   },
   {
     "id": "8488144",
-    "headline": "Morning Bid: Shipping oil gets ever harder, costlier - reuters.com",
-    "summary": "Morning Bid: Shipping oil gets ever harder, costlier  reuters.com",
+    "headline": "Morning Bid: Shipping oil gets ever harder, costlier - Reuters",
+    "summary": "Morning Bid: Shipping oil gets ever harder, costlier  Reuters",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYmJCUUMxaW05Wm0yazVud3pVRFlHLTJKai13QUcxaUhtX2dlTEJPcV9XOWZGSnRzdFRXejctZE1sUGZrcEd3Sy1JOUZxVktnQW9hVl9vbTVSdEhldXBEaUxQTlJRanQyWDFpQXNaTlE1UWUwaVgzMU8yTmF2dzFGYUNuUQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1463,8 +1588,8 @@
   },
   {
     "id": "8486790",
-    "headline": "Trump downplays report China entities helped Iran before attack that killed US troops - reuters.com",
-    "summary": "Trump downplays report China entities helped Iran before attack that killed US troops  reuters.com",
+    "headline": "Trump downplays report China entities helped Iran before attack that killed US troops - Reuters",
+    "summary": "Trump downplays report China entities helped Iran before attack that killed US troops  Reuters",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZF9XUXZXZ0J5UzkzN2pGQlpxQkI3dklSRmIyMDUzYWZqdzhZQXdYMlF5djdTNjAzcGUxRUVDdHdOU3hXWGlGb0J5bVAzTWRlWjNYaWV3eUczcHB2R3dudTBYZmRtZ3lOVy00ZUJycDJtZUlJMTZNaHRRVEFVRHdPUEpjSVhyTUpOd2Q4R2Z5ZGlscTdSNzd6VHRLSXJWMTc4NUlaZzAydWhRekFJdDF4R19nMmJhSVNsLWRLMUJTc2xOT0pU?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1486,8 +1611,8 @@
   },
   {
     "id": "8491012",
-    "headline": "Saudi Civil Defense lifts warnings of potential danger in four cities - reuters.com",
-    "summary": "Saudi Civil Defense lifts warnings of potential danger in four cities  reuters.com",
+    "headline": "Saudi Civil Defense lifts warnings of potential danger in four cities - Reuters",
+    "summary": "Saudi Civil Defense lifts warnings of potential danger in four cities  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLWRfcGNib2loTk5pSkNKLTJtWTRoTFlPWmdpcWNteE0teUdNNkptN0JNbnlzX3llTVA3MXRJM2preVp1Y1BHWmt6OGYzc25mSHBxNG45bjBxUEVmcWxkR3JZdlFmRzBxR19XR2EwU0F3UjM3QnpiQ0RQX3NUTy1oQ1JPME5Uck4xQzBBMVBfNE9Hb0xNRV9NTWZnYUlaWEpHUVAtWE1LOTJqV3dCUlA3akVWblVBT3Q0?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1496,8 +1621,8 @@
   },
   {
     "id": "8487102",
-    "headline": "COMMENTARY: Oil markets survived the Iran war sprint. Now comes the marathon - reuters.com",
-    "summary": "COMMENTARY: Oil markets survived the Iran war sprint. Now comes the marathon  reuters.com",
+    "headline": "COMMENTARY: Oil markets survived the Iran war sprint. Now comes the marathon - Reuters",
+    "summary": "COMMENTARY: Oil markets survived the Iran war sprint. Now comes the marathon  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYkNyZjhwWkFHcjR0aVV2b3lPNFROSy0tNDZBQVJpWE9JelJyVWhtNFJjWlY3OW56NmdXY2s3Q0luV1h1cGZnRXJiM0VzMWxqVDFROENnOEFFMHpPN2VfWXJYTjZ3TW1EWlZLdU16clZBN28wVlI4SXJYeWR1U3kzZlAyempIWXVhaC1LdWNKbVo3QS1YMjZucjZnd3FTdnNaWmpNd2phODkxTlFwcng2aWo3WjZhdUdCOXZBejRyaW5kdw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1518,32 +1643,9 @@
     }
   },
   {
-    "id": "8487000",
-    "headline": "Houthis attack Saudi Arabia as Gulf-Iran talks are postponed - reuters.com",
-    "summary": "Houthis attack Saudi Arabia as Gulf-Iran talks are postponed  reuters.com",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUmxSZmUzZzdYUkJrQ2l3RzRTQklHdjFOWmVYZ2NDcmZmOW9UUVBoZkk0bC0wcHhveWNHNldiU2E0WV9PYkFtWGVaUUdMVUlieFBZMVRjVHFkTTZ6YjVWXzVLUlA2QXE2LURQczRJN010RGR1Y3Jkb0JpS1lhdF9fZVdJT0hMV3A5QXNNcllfalNoem0wS3VMNUlNQUgwbG9sUU1XN2R1aUpkaXZDekZ6bnlqN2RiN0t3X3d3?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1789340520,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1789369821,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "The postponement of a meeting to discuss the Strait of Hormuz proposal has caused a setback in diplomatic efforts to resolve the ongoing tensions in the region. The proposal, aimed at ensuring safe passage through the Strait, has been a key point of contention between the US and Iran. The delay is seen as a sign of the difficulties in reaching a consensus, which may lead to continued uncertainty and volatility in the region. The Strait of Hormuz is a critical waterway for global oil exports, and any disruptions could have significant economic implications. The delay in the meeting is likely to exacerbate concerns about the potential for a conflict in the region.",
-      "impact": "The postponement of the meeting is likely to have a negative impact on energy-related stocks, particularly those with exposure to the Middle East region. The increased tensions and uncertainty may lead to a decline in investor sentiment, causing a short-term sell-off in stocks such as oil majors and shipping companies. In the medium term, the prolonged uncertainty may lead to a re-evaluation of the earnings outlook for companies with significant operations in the region, potentially resulting in a decrease in stock prices.",
-      "risks": [
-        "Increased tensions and conflict risk",
-        "Disruption to global oil supplies risk",
-        "Uncertainty and volatility risk"
-      ]
-    }
-  },
-  {
     "id": "8485673",
-    "headline": "Oman meeting between Gulf states and Iran postponed, Omani foreign minister says - reuters.com",
-    "summary": "Oman meeting between Gulf states and Iran postponed, Omani foreign minister says  reuters.com",
+    "headline": "Oman meeting between Gulf states and Iran postponed, Omani foreign minister says - Reuters",
+    "summary": "Oman meeting between Gulf states and Iran postponed, Omani foreign minister says  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT01mN2pHSkgtLWNGSFhGWm9vSDBvNjlLVVB5N2lFRnczZ012SW1pZDdxTXRmY2NZWmw2MmRiOEJPZ1ZNdklvMkgxbXlEQXd6a3ozbWNrLTNaLWlMekNhalBBQjZTSXhEZEItM0s5WUM2cGN5akN6SXRVZVJseUR1M2Q1X2RoM2VBMEFMZHNrdVU0VUZyU2k5eWEtalNvbGVjQk5sS1NkbUV1QThfaUxocWV5NkVmRDBLQmdrNXJBQmp1ckhHTDBOdQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1588,8 +1690,8 @@
   },
   {
     "id": "8485272",
-    "headline": "Houthis' Yemen advance leaves Gulf states with uncomfortable choice - reuters.com",
-    "summary": "Houthis' Yemen advance leaves Gulf states with uncomfortable choice  reuters.com",
+    "headline": "Houthis' Yemen advance leaves Gulf states with uncomfortable choice - Reuters",
+    "summary": "Houthis' Yemen advance leaves Gulf states with uncomfortable choice  Reuters",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX0JoY2VGb08xV0N2bWR6cnNzaFZoVm9MMGZ4WW1aa292SHNWTVBoVERfLW96ZVllX2thQjdUU1RMOTBvRkRoMGpDd2ZyMXVyb0t2bEFabVBJczM2SnhwM0w5c3diVnZiT1E4QnBxZ3YxaEVnYjE1cVJndExhaUloWENHQjlWdmtvUHRmNG1sSWtWQ3ZIRTJQUU5wQTFDaEw0MDVIdThHdnl5NnVCSTdHUmUwR3RPU0tXalFfSA?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1634,8 +1736,8 @@
   },
   {
     "id": "8484769",
-    "headline": "Trump says US could stay in Iran and keep oil, like Venezuela deal - reuters.com",
-    "summary": "Trump says US could stay in Iran and keep oil, like Venezuela deal  reuters.com",
+    "headline": "Trump says US could stay in Iran and keep oil, like Venezuela deal - Reuters",
+    "summary": "Trump says US could stay in Iran and keep oil, like Venezuela deal  Reuters",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc3NKNXdjMkx2Q2ZXOWVWU25Oa1hXRGFZcWJLRktNQWdoclBWVEJQdXhLMS1ZQV9TWHhmNlZSMTlIVXlSZWlWRGdrWXN2a2gxNzZiOWJlTUtVd2xIbW5tb0pJVVNGNFdmNWdEZktuV0JuT3pmaUF3VHYtZXotVklQWGt2YlEzN2Uwa21ac1I1bjlHRi1iM1VpMF90bFhJZk5wNl9aaG9rVmNsVkpUUUdF?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1677,8 +1779,8 @@
   },
   {
     "id": "8483849",
-    "headline": "Turkey detains dozens after sweeping raids targeting LGBTQ+ groups - reuters.com",
-    "summary": "Turkey detains dozens after sweeping raids targeting LGBTQ+ groups  reuters.com",
+    "headline": "Turkey detains dozens after sweeping raids targeting LGBTQ+ groups - Reuters",
+    "summary": "Turkey detains dozens after sweeping raids targeting LGBTQ+ groups  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSmw3N3gxSDF1TmZtV1BQY2s3cVUxZGRjbW1FdlBMelhLbUYtblpJc3dDa2thTjNUUkJCdXFINm96VVl3dlh5QWFYVlp2cjVnUnowTVJYWmhlUGlOZEtYUzNBOUlpM3o2MUJPNDBySDh5VFBic2Mta3R1YTJKNFkyUFBMcXZOd1hVaXZDMTVHaGxVZW96WkJzem8wR3pSY3EwQzBVTEVhUi1waTlfQl9KQVVfYw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1753,8 +1855,8 @@
   },
   {
     "id": "8479623",
-    "headline": "Houthi advance in Yemen puts U.S. in a new bind - reuters.com",
-    "summary": "Houthi advance in Yemen puts U.S. in a new bind  reuters.com",
+    "headline": "Houthi advance in Yemen puts U.S. in a new bind - Reuters",
+    "summary": "Houthi advance in Yemen puts U.S. in a new bind  Reuters",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNkd2T3JFYkQtX1BpRFMwdUY5V0tXY0xuX1JpY3cwa2hEZmxKRWVSdGtNQkR5dFBIT2JPanlxM0N3WjA5YVVpZExUOFJIWG1MZTNLUXNrTXZaZDRLRnFac2Vkclp3eWhkaTFUNEZrdGk4RzBYTmVVV1kwMHRJWHdXbGs3Z3U5VlZ1eldGOGJXLTU5d3B2NUE?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1777,8 +1879,8 @@
   },
   {
     "id": "8482443",
-    "headline": "New attacks in Hormuz and Saudi test nerves as war's spread worsens oil disruption - reuters.com",
-    "summary": "New attacks in Hormuz and Saudi test nerves as war's spread worsens oil disruption  reuters.com",
+    "headline": "New attacks in Hormuz and Saudi test nerves as war's spread worsens oil disruption - Reuters",
+    "summary": "New attacks in Hormuz and Saudi test nerves as war's spread worsens oil disruption  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUGctZFpGTW5Zd0h2OFl3V0FMR3o0MHVxNW5uSmN6cHpfNWRYRS1Sd0dibnUwUDRCY3VHejJlbUdNVkx6VmN3WTJQVGYtRjRHX1dWQllyQWl3TzEyWWoxY0JRaU45U0RMUTd0SHBvYmRLZmN4bjl3VF82emtKY1JiQzlsN3NqLThWcDk0UEdmaTlHWjJWd0k1b1VtVmVVUFpSZnFhSEZPUk9oeFlTeU5ZcTJKUlJUZjd6d3d2QWJiYmR2UQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1800,8 +1902,8 @@
   },
   {
     "id": "8479729",
-    "headline": "Xi urges BRICS peace role in Middle East, courts Modi on India visit - reuters.com",
-    "summary": "Xi urges BRICS peace role in Middle East, courts Modi on India visit  reuters.com",
+    "headline": "Xi urges BRICS peace role in Middle East, courts Modi on India visit - Reuters",
+    "summary": "Xi urges BRICS peace role in Middle East, courts Modi on India visit  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb2hwaW9IeTRsWlZUMXI0TnRSYUhSM0ZNZVRXUHpQM0NKMHJIMlhJaFZZUUJYRE5PbEpvSjg4bDFxT0FVQUp1X0hHSUhOcXJjOFZpaDY3RmRMeFpFT0VaZVlQWG12ZlZJQ3BjdF9MMVJXYUxHV0xwQjVJWGstZWpJYWxlM2pmMzBCdFc5d1NCeE5IWENOUC1Id1ZfZGJDMkMwckY5Y082T2NLOEk?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -20348,99 +20450,6 @@
         "Dependence on commodity prices",
         "Volatility in global economic conditions",
         "Potential for a sharp decline in the rand if global risk aversion increases"
-      ]
-    }
-  },
-  {
-    "id": "8387517",
-    "headline": "Traders are bracing for an increasingly hawkish ECB - Reuters",
-    "summary": "Traders are bracing for an increasingly hawkish ECB  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZUt4YkUxMjR5N050eGJjdnVxRDJJV0ZYSGFsVkJmaldxdWZaOXBMbV9rTkpYMnRGbXllLW1SbHc0c0dOWVV1WkNoUVE2anBDRVBpaHJkb0RvYm51T24tYXBULVRmSHA5dVg2U3lYSnRoQkdac0pUTnA5MUhmMG5TWTFGSzlrTFo4ckZ6blZXMmp6WjVqZDhON1ZZazI?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1787315787,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1787432442,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Traders are preparing for an increasingly hawkish European Central Bank (ECB) due to growing concerns about inflation. The ECB has been under pressure to tighten monetary policy to combat rising prices. This shift in stance is expected to lead to higher interest rates, which could negatively impact European banks and other financial institutions. The hawkish tilt is also seen as a sign of a potential economic slowdown, which could further weigh on the region's economic growth.",
-      "impact": "The potential impact on European banks and financial institutions could be significant, with higher interest rates reducing their profitability. This could lead to a decline in their stock prices, particularly for banks with high exposure to interest rate risk. In the short term, traders may take a cautious approach, reducing their exposure to these stocks. In the medium term, the impact on economic growth could lead to a decline in earnings for companies across various sectors.",
-      "risks": [
-        "Interest rate risk",
-        "Economic slowdown risk",
-        "Decline in profitability risk"
-      ]
-    }
-  },
-  {
-    "id": "8381071",
-    "headline": "Wall Street's existential crisis over perpetual futures — the 24/7 security on steroids — just got urgent",
-    "summary": "Perpetual futures, or perps, are shaking up exchanges as investors seek continuous access to trading.",
-    "url": "https://www.cnbc.com/2026/08/21/wall-streets-existential-crisis-over-perpetual-futures-the-24/7-security-on-steroids-just-got-urgent.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108341785-17853378942026-07-29t150859z_29779515_rc2pnmaq6tsf_rtrmadp_0_usa-stocks.jpeg?v=1785338016&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1787315552,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1787319163,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "Perpetual futures, also known as perps, are a type of 24/7-traded, never-expiring futures contract that are disrupting traditional exchanges. The growth of perps, particularly on decentralized platforms like Hyperliquid, has raised concerns among traditional exchanges that their business model may be threatened. The recent comments by President Trump suggesting regulated perp trading may soon be available on traditional asset classes like stocks and commodities have added urgency to the issue. This could lead to a shift in the competitive landscape of the financial industry.",
-      "impact": "The potential disruption to traditional exchanges could lead to a decline in their revenue, particularly from the 'roll' in derivatives. This could negatively impact the earnings outlook for companies like CME Group, Cboe Global Markets, and Intercontinental Exchange. The increased competition from perps could also lead to a decrease in valuation for these companies. Additionally, the shift towards decentralized platforms like Hyperliquid could reduce liquidity for traditional exchanges.",
-      "risks": [
-        "regulatory approval risk",
-        "integration risk",
-        "demand slowdown risk",
-        "disruption to traditional exchange business model risk"
-      ]
-    }
-  },
-  {
-    "id": "8390939",
-    "headline": "India's forex pile rises to six-month peak on sustained capital inflows - Reuters",
-    "summary": "India's forex pile rises to six-month peak on sustained capital inflows  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR1p3TGs1MUgzOEpmdmxrZFgxa2tBb3lRODJJOVZUZExPdnRvQ2N5V0pqMUwycGhtS1RLRTZ0Z01BUXJuaFhra3piU2RQNzdCSmZFWEFlT1lxS2pIRzFvSUhLVVJ4WnJXUVFySjEwd2xjc3pZcnBZNmwwUFZ6aHlWS0lpdFZmcHFXMmNrcDFxbFpGLTFsaFh1ZlMzQzJJTTlnSFVJQmVVVGcwUkRkQ2RWVWZ3?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1787314064,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1787493740,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "India's foreign exchange reserves have reached a six-month high due to sustained capital inflows, a positive sign for the country's economy. The increase in reserves indicates a stable financial situation, which can attract more foreign investment and boost economic growth. This development is attributed to the country's growing economy, attractive investment opportunities, and a stable government. The sustained capital inflows are expected to continue, supporting the rupee and boosting investor confidence.",
-      "impact": "The sustained capital inflows and increased forex reserves are likely to have a positive impact on the Indian economy and potentially boost the earnings outlook for companies with significant exposure to the country. This could lead to a re-rating of these companies, making them more attractive to investors. The increased investor confidence may also lead to higher liquidity, making it easier for companies to raise capital. In the short-term, the rupee's stability may also lead to lower import costs for companies, which can improve their profit margins.",
-      "risks": [
-        "Potential volatility in global markets may impact the sustained capital inflows",
-        "Rising interest rates in the US may attract investors away from India",
-        "Economic slowdown in India may lead to a decrease in capital inflows"
-      ]
-    }
-  },
-  {
-    "id": "8380859",
-    "headline": "Gold rebounds as bond jitters, debt fears and weaker dollar revive bullion demand",
-    "summary": "Gold is rebounding as investors weigh U.S. debt concerns, a weaker dollar and stubbornly high Treasury yields.",
-    "url": "https://www.cnbc.com/2026/08/21/gold-prices-us-debt-dollar.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108195329-1757299467872-gettyimages-2207845047-20090101250404-99-437442.jpeg?v=1759891627&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1787312146,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1787313792,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Gold prices are rebounding due to concerns over US debt, a weaker dollar, and high Treasury yields. The US Treasury's plan to double liquidity-support buybacks for 10- to 30-year government debt has pushed Treasury yields lower and weakened the dollar, boosting gold prices. This move is seen as a signal that the debt load's cost and duration will be a key factor shaping policy, supporting gold demand. Central banks are also expected to increase their gold reserves, with 89% of respondents in the World Gold Council's survey expecting an increase over the next year.",
-      "impact": "The rebound in gold prices is likely to have a positive impact on gold mining stocks, particularly those with strong fundamentals and diversified operations. Companies like Hycroft Mining and Neo Energy Metals may benefit from the increased demand for gold, potentially leading to higher earnings and valuations. The medium-term outlook for these stocks is positive, driven by the structural drivers of gold demand, including central banks' increasing gold reserves and the growing concern over US debt.",
-      "risks": [
-        "Short-term market volatility risk",
-        "Currency fluctuations risk",
-        "Interest rate changes risk"
       ]
     }
   }
