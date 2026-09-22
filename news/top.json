@@ -1,13 +1,82 @@
 [
   {
+    "id": "8528581",
+    "headline": "Royal Caribbean nears $3 billion deal to take 50% equity stake in Sandals",
+    "summary": "Royal Caribbean has been trying to diversify beyond cruises and become a leader overall in vacations.",
+    "url": "https://www.cnbc.com/2026/09/22/royal-caribbean-sandals.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108366440-1790105281800-gettyimages-2161029164-AFP_363W4FY.jpeg?v=1790105475&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1790105617,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1790108987,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Royal Caribbean is nearing a $3 billion deal to acquire a 50% stake in Sandals, valuing the Caribbean resort chain at $6 billion. This move is part of Royal Caribbean's strategy to diversify beyond cruises and become a leader in vacations. The company has been working to expand its land offerings, and this acquisition would give it a foothold in the all-inclusive market. However, the deal is still in talks and may not result in a final agreement.",
+      "impact": "The news has led to a 6% decline in Royal Caribbean's shares, and the stock is already down 25% over the past year. If the deal is completed, it could boost growth for both companies, but in the short term, the market may be concerned about the dilution of earnings per share and the increased debt burden. The deal could also lead to increased competition in the all-inclusive market, potentially affecting other players in the industry.",
+      "risks": [
+        "integration risk",
+        "regulatory approval risk",
+        "debt burden risk"
+      ]
+    }
+  },
+  {
+    "id": "8528475",
+    "headline": "Cisco stock sinks 5% after Piper Sandler cuts price target on growth concerns",
+    "summary": "Cisco stock hit a record over the summer, but Piper Sandler analysts expressed concerns that growth is peaking in the industry.",
+    "url": "https://www.cnbc.com/2026/09/22/cisco-stock-piper-sandler-price-target.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108291985-1776277173996-gettyimages-2270936890-AFP_A7XF2FB.jpeg?v=1776277198&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1790104871,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1790109039,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Cisco Systems' stock has dropped 5% after Piper Sandler cut its price target to $125 from $132, citing concerns that growth is peaking in the industry. The company's stock had reached a record high in June and has surged 56% over the past 12 months, driven by the artificial intelligence boom and strong revenue growth. However, analysts have expressed skepticism about Cisco's guidance for FY2027, which they see as conservative in the context of greater market demand. This has led to a decline in the stock price, despite the company's strong fourth-quarter earnings and revenue growth.",
+      "impact": "The price target cut and bearish sentiment from Piper Sandler may lead to a short-term decline in Cisco's stock price, potentially affecting its valuation and liquidity. In the medium term, the company's earnings outlook and growth prospects may be impacted by the industry's peaking growth concerns, leading to a reevaluation of its stock price. The market's perception of Cisco's growth potential may also be influenced by the company's guidance for FY2027, which may be seen as overly cautious by some analysts.",
+      "risks": [
+        "peaking growth risk",
+        "valuation risk",
+        "guidance risk"
+      ]
+    }
+  },
+  {
+    "id": "8528046",
+    "headline": "Trump at UN: Threats, diplomacy and 'super intelligence' - Reuters",
+    "summary": "Trump at UN: Threats, diplomacy and 'super intelligence'  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb05jNXUydzFHZ2tRUzBGUndIZFAxTW1jYUtVU3U5NzI1ZjRsckp2YXJuOG9KRE9hOTg1Q3B3b3U1ZC1jWmN1d2J0VU1OMkVfbElFRGhONElJd3I4UklnbVZHTExmT1g2dHFESmJhQWplNWlYUzZsU1ctMW9HRVBXVDJGazNhd1JDbWltQ0hEYmttU2hh?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1790104182,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1790109084,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "US President Trump's speech at the UN General Assembly emphasized the need for diplomacy and international cooperation to address global challenges. He also made threats against countries that do not comply with US demands. The speech did not contain any specific policy announcements or economic data. The focus on diplomacy and cooperation may be seen as a positive sign for international relations, but the threats could be perceived as a negative development. The speech did not have any direct implications for the US economy or specific industries.",
+      "impact": "The speech is unlikely to have a significant impact on the US stock market in the short term. However, it may lead to increased volatility in the markets as investors react to the tone and content of the speech. The focus on diplomacy and cooperation could lead to a positive sentiment shift in the medium term if it leads to increased international cooperation and stability.",
+      "risks": [
+        "geopolitical risk",
+        "trade war risk",
+        "macroeconomic uncertainty"
+      ]
+    }
+  },
+  {
     "id": "8527509",
-    "headline": "Trump urges complete isolation of Iran, expects deal after election - Reuters",
-    "summary": "Trump urges complete isolation of Iran, expects deal after election  Reuters",
+    "headline": "Trump says Iran deal nearing, Tehran offers Hormuz reopening - Reuters",
+    "summary": "Trump says Iran deal nearing, Tehran offers Hormuz reopening  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMHFVWHVmRkJDV09JMHNSQ2RvNk5zS2NwN3lwZ3lNOFNLd0tUdjZHS09lMUhZdHBCWXZUQ1NJUHh5cUxmYlU4NjNTRGRtWDJ3UkFpb05jS1U2R2huempndzFvVEtqZmV1RjN2cTRJWWYybEpQSkptR2NjLWFySUtUeDdXMmdBd0N4dktqeGN6WjdTOGVfQXZJLVgyX2k1RTlzbDZncmktWlI?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1790095421,
+    "publishedAt": 1790100359,
     "analysis": {
       "version": 2,
       "generatedAt": 1790097574,
@@ -21,6 +90,82 @@
         "potential diplomatic fallout with other countries"
       ]
     }
+  },
+  {
+    "id": "8526296",
+    "headline": "Trump warns in UN speech he could 'annihilate' Iran without peace deal - Reuters",
+    "summary": "Trump warns in UN speech he could 'annihilate' Iran without peace deal  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOFdkQk9aWHdzT0hrcFhDNDZPSmlwQVBUUm12TGd4SUVPUURUMVo4Y3I0WHZBSTIxdjdKTWZ4WkF3cVUzUnlrWmNrbTA5T21UN3R0Z0JnekdrZm5ReC1ZS2JmUWVQRXRVNzhaYmNucDI5YVh6d2JxeHp5Yi00Y3p2d0loRTY5YXNiWGRHTlJZb1ZiX1paMVh3UU1XVThfUXR2NHF3T0pod3BBS3VpU3AyTDB3?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1790100313,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1790078763,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "US President Trump is set to attend a series of high-level meetings at the UN, with key discussions centered around the ongoing conflicts in Iran and Ukraine. The meetings are expected to be intense and may lead to increased tensions between the US and its global counterparts. The situation in Iran has been a major point of contention in recent months, with the US imposing sanctions and Iran retaliating with military actions. The conflict in Ukraine has also been ongoing, with the US providing military aid to Ukraine in its fight against Russian-backed separatists. The meetings may lead to a shift in US foreign policy, which could have significant implications for global markets and the companies operating in these regions.",
+      "impact": "The potential impact on related stocks is unclear, but the increased tensions and uncertainty surrounding the US's foreign policy could lead to short-term volatility in the markets. This may result in a decrease in investor sentiment and a subsequent decrease in stock prices. Medium-term, the impact on earnings outlook for companies operating in the affected regions may be significant, particularly for those with exposure to the energy and defense sectors. Companies with a high degree of exposure to these regions may see their valuations decrease due to the increased uncertainty.",
+      "risks": [
+        "Increased geopolitical tensions and conflict risk",
+        "Decreased investor sentiment and market volatility risk",
+        "Earnings outlook risk for companies with exposure to the energy and defense sectors"
+      ]
+    }
+  },
+  {
+    "id": "8528585",
+    "headline": "EU renews Russia sanctions, drops Russian billionaires Usmanov and Fridman - Reuters",
+    "summary": "EU renews Russia sanctions, drops Russian billionaires Usmanov and Fridman  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMnhFeHB1dlJzNUFaZkYzM0d3cFNyaDI3bFo3VjJFYW5wc0dhandneXlLVkstbVhfd0REaXJrUmx2TF9tRTd0QzdoTExocDNHSFhwVTlVRkZ6RzhKMU4yckMwNzEzS0xtalhQQl9vSkpBdjRxbUFVczFVc1NEQVJQM3R0NEdaQThjX0owTkdxbUcxb3JuM1c3XzNCVGN4dXV4OTNBeEQ3bURQWGxnRmdaVw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1790098657
+  },
+  {
+    "id": "8528261",
+    "headline": "Trump says talks with Iran continue and he thinks settlement will be reached - Reuters",
+    "summary": "Trump says talks with Iran continue and he thinks settlement will be reached  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN3J1Q19pcFNqX1dZdk1GNllCTzNBWWlmWHB3bF9nMGNrcEdvUjc2anM1bndiLWFOYlVjRl9qeTBKby1qaW1zaWY1ZEU1ZEFnM3RTWXB5WUFwNTczcjlOT2ZXc3pfdW1nNFJzY185Wkkxc0UzcEstaHhxNVhHMk0zbERBc2lQTGtKY0dyaGhTWHg5LW5TZUZITXFwTklFcmZadVh4eks3Q1VZeGFGUm1QTW5yV3MzOVZBeFp6SGp1U09NNThl?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1790096983,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1790109150,
+      "sentiment": "bullish",
+      "confidence": 0.7,
+      "summary": "US President Trump stated that talks with Iran continue, and he believes a settlement will be reached. This news suggests a potential de-escalation of tensions between the US and Iran, which could positively impact the global energy market. The background is that the US has imposed sanctions on Iran, which has led to increased tensions and volatility in the region. If a settlement is reached, it could lead to a decrease in tensions and potentially lower oil prices, benefiting energy companies.",
+      "impact": "The news could have a positive impact on energy companies such as ExxonMobil (XOM) and Chevron (CVX), as lower oil prices could increase demand for their products. Additionally, a decrease in tensions could lead to increased investor confidence and sentiment, potentially driving up stock prices in the short-term. However, the medium-term impact is uncertain and will depend on the specifics of the settlement and its implementation.",
+      "risks": [
+        "Uncertainty around the specifics of the settlement and its implementation",
+        "Potential for increased competition from other energy companies",
+        "Dependence on global economic growth and oil demand"
+      ]
+    }
+  },
+  {
+    "id": "8528042",
+    "headline": "Nvidia options are doing something unusual ahead of two catalysts. Here's how one trader is playing it",
+    "summary": "A curious dynamic is happening in shares of Nvidia ahead of two potential catalysts this month.",
+    "url": "https://www.cnbc.com/2026/09/22/nvidia-options-are-doing-something-unusual-ahead-of-two-catalysts-heres-how-one-trader-is-playing-it.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108364527-1789665953765-gettyimages-2294936867-2026_sep_14_dreamforce_2974.jpeg?v=1789665981&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1790096308
+  },
+  {
+    "id": "8527614",
+    "headline": "Nasdaq hits intraday record high on tech boost, Mideast negotiation hopes - Reuters",
+    "summary": "Nasdaq hits intraday record high on tech boost, Mideast negotiation hopes  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOUI2bTZ5ZFhnZUozYjg5LXM1WHhuT24xUS0zYmRRZkViWVBreE05ZTNMWFBDSGhHTXUyQ3ZyMWhsUFdxSUlxUXVUUXVHWGRVelg3Z2RuVXo3bndwaXJfRXhEUEFERFNSUVZoaDNERnFxdnhuNkxLdVhnNDRpRGhxYndETzVJdVNnZXJESmpMNmw5QVFQODFGY2w2NzVCcFl0bXBSNjRaTQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1790094420
   },
   {
     "id": "8527510",
@@ -69,27 +214,14 @@
     }
   },
   {
-    "id": "8526296",
-    "headline": "Trump warns in UN speech he could 'annihilate' Iran without peace deal - Reuters",
-    "summary": "Trump warns in UN speech he could 'annihilate' Iran without peace deal  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOFdkQk9aWHdzT0hrcFhDNDZPSmlwQVBUUm12TGd4SUVPUURUMVo4Y3I0WHZBSTIxdjdKTWZ4WkF3cVUzUnlrWmNrbTA5T21UN3R0Z0JnekdrZm5ReC1ZS2JmUWVQRXRVNzhaYmNucDI5YVh6d2JxeHp5Yi00Y3p2d0loRTY5YXNiWGRHTlJZb1ZiX1paMVh3UU1XVThfUXR2NHF3T0pod3BBS3VpU3AyTDB3?oc=5",
+    "id": "8528045",
+    "headline": "Saudi Arabia restarts East-West oil pipeline, sources say - Reuters",
+    "summary": "Saudi Arabia restarts East-West oil pipeline, sources say  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNmJidHFzNHlscWlnT2hsWFdKc1hNRFMxOWRnTTRQRHVHbV9tRTJySFJoOGFoZXdNdTIwMngxZlczRmY3dWJxWkNiWTRYclVyT0JoWXQyUHJpNThicmpUNDMwWjNqREdrYmw3Ty1peU9oaEtRdC1GWXE1S0o1eGlrWDZONDhqS0FDbWotZXV1LXBvTEhUWHdlT1BzYU5udjNKTTFXdk1hX0wwVk1yczRTdV94R0p4UUQ1bEViTXJ2S2pEaTVLTFlvdw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1790090154,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1790078763,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "US President Trump is set to attend a series of high-level meetings at the UN, with key discussions centered around the ongoing conflicts in Iran and Ukraine. The meetings are expected to be intense and may lead to increased tensions between the US and its global counterparts. The situation in Iran has been a major point of contention in recent months, with the US imposing sanctions and Iran retaliating with military actions. The conflict in Ukraine has also been ongoing, with the US providing military aid to Ukraine in its fight against Russian-backed separatists. The meetings may lead to a shift in US foreign policy, which could have significant implications for global markets and the companies operating in these regions.",
-      "impact": "The potential impact on related stocks is unclear, but the increased tensions and uncertainty surrounding the US's foreign policy could lead to short-term volatility in the markets. This may result in a decrease in investor sentiment and a subsequent decrease in stock prices. Medium-term, the impact on earnings outlook for companies operating in the affected regions may be significant, particularly for those with exposure to the energy and defense sectors. Companies with a high degree of exposure to these regions may see their valuations decrease due to the increased uncertainty.",
-      "risks": [
-        "Increased geopolitical tensions and conflict risk",
-        "Decreased investor sentiment and market volatility risk",
-        "Earnings outlook risk for companies with exposure to the energy and defense sectors"
-      ]
-    }
+    "publishedAt": 1790089939
   },
   {
     "id": "8527835",
@@ -146,16 +278,6 @@
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
     "publishedAt": 1790088573
-  },
-  {
-    "id": "8527614",
-    "headline": "Nasdaq hits intraday record high on Alphabet boost, Mideast negotiation hopes - Reuters",
-    "summary": "Nasdaq hits intraday record high on Alphabet boost, Mideast negotiation hopes  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOUI2bTZ5ZFhnZUozYjg5LXM1WHhuT24xUS0zYmRRZkViWVBreE05ZTNMWFBDSGhHTXUyQ3ZyMWhsUFdxSUlxUXVUUXVHWGRVelg3Z2RuVXo3bndwaXJfRXhEUEFERFNSUVZoaDNERnFxdnhuNkxLdVhnNDRpRGhxYndETzVJdVNnZXJESmpMNmw5QVFQODFGY2w2NzVCcFl0bXBSNjRaTQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1790087542
   },
   {
     "id": "8527508",
@@ -218,6 +340,16 @@
     "publishedAt": 1790081939
   },
   {
+    "id": "8528044",
+    "headline": "Putin and Saudi crown prince call for safe passage via Hormuz, Bab el-Mandeb - Reuters",
+    "summary": "Putin and Saudi crown prince call for safe passage via Hormuz, Bab el-Mandeb  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVFBDYXJEV2FiaVcyUWduWFIyWjJSRVlFb2NBRTJzX2ozOTFiUk5famtnNDFoRUUzRHNKZDFrNU5wM1JvSlliOEJNNGFzS2FIcWFBTlcxU201ZkdKdndlMngtaVg1N2hrUTFvZnZvcHFxVnFNNEJsVDZLZjl1RXlVUHlyWVI3YWY1WTRGdW5DbUhZWnRmTWhuNjdIdU1KVWpzTnQ3YVYyMUZFQXVLZW5MSVNHUjBSWmpkSGRZckJR?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1790081836
+  },
+  {
     "id": "8527247",
     "headline": "Flight disruptions ease at Newark, Philadelphia following equipment outage",
     "summary": "Flight delays continued Tuesday but were far fewer compared with Monday, when an FAA flight data system failed and a damaged cable severed a backup system.",
@@ -278,6 +410,16 @@
         "Supply chain disruptions and reduced earnings for shipping companies"
       ]
     }
+  },
+  {
+    "id": "8528481",
+    "headline": "Istanbul stock exchange to remove over a quarter of main index, as regulators tackle liquidity crisis - Reuters",
+    "summary": "Istanbul stock exchange to remove over a quarter of main index, as regulators tackle liquidity crisis  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNlpBOWItUmYySnY3S2NraDdlRzdNZGRyR3VLQ1I5ZDlyLUl6YTVveFhtTHVRdEU4ZlE3QnFkQmZmQXE2NEVDRlIwNXcwX0hFRVh2YThoQW1RRWpiQXZtYTdob1ZQaDU5VUFWRGJkVk1sb3o3T3pJUHVRTHBLVmw3V0hJZDcyLU9naDFmMzNRcWRSVXdVS3BYLURyekF0bVRsaUY0M0p2WWVPTkhUaGVHWmd6MEVRU3VrRFZ0X2FzWFlTWnFl?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1790074066
   },
   {
     "id": "8527147",
@@ -506,8 +648,8 @@
   },
   {
     "id": "8526093",
-    "headline": "Binance under US scrutiny over possible Iran sanctions violations, Bloomberg News reports - Reuters",
-    "summary": "Binance under US scrutiny over possible Iran sanctions violations, Bloomberg News reports  Reuters",
+    "headline": "Binance faces US scrutiny over possible Iran sanctions violations, source says - Reuters",
+    "summary": "Binance faces US scrutiny over possible Iran sanctions violations, source says  Reuters",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWTZ2N0lkRzA4d1VKa1E1SS1nUW5nTzlqTTBfaUx4eVlPVGlsTGFEOF94Q3YteWI1aTB4R0xZSV9sUjFpbnpWTl9yNHloekltZkxvZVVYeDBaYTNHX0tPa3JCVWZiV0tWOG84QTIyeGxwTm5OWl92N1p0YnFyOWxueFpIYmpPMUptVElHYmJHdEJOYWsxbHdELWFmNy1BZl9xU2pEWjNTX2VIUUhQNEREXzVRaTVoRFpXWlRseXNWRG9hQ1hQVUIzblZQS1RUZw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -529,8 +671,8 @@
   },
   {
     "id": "8527389",
-    "headline": "Dollar choppy as investors weigh oil drop against Fed rate path - Reuters",
-    "summary": "Dollar choppy as investors weigh oil drop against Fed rate path  Reuters",
+    "headline": "Dollar rises in choppy trading as investors weigh inflation prospects - Reuters",
+    "summary": "Dollar rises in choppy trading as investors weigh inflation prospects  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUFUzRjA0NWVBcXQ2Z1Z3WGVOdGQ0XzNQbll4OGRTbnd4T1dxRnFXSzB1d19zNDM1dWFKdE9JTHRDZzlVYlpWT3FpUFFqNUVWVlFmMDM5eXE0UGZXUnpmWjh3SnpWMzJaSTEtUmJMNmZzTGpMODNYNUFlQm5pMXR1VU9fVlZNUEZQOUpMUEVzc2pVcXA0bEQ5amdQUUEzT2VLWXc?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -20053,160 +20195,5 @@
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
     "publishedAt": 1787875728
-  },
-  {
-    "id": "8422752",
-    "headline": "US officials weigh plan to shield farmers from expansion of refinery biofuel waivers, sources say - Reuters",
-    "summary": "US officials weigh plan to shield farmers from expansion of refinery biofuel waivers, sources say  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTk9aaDNITHZ1ajlMOHZmVUdIcFYtMHZoN3gzY05oenBQSlIxOEFYdmNpT0RSSTlEMjREQmxyWnptU2wwTWV6ZWNzSnR2UlFEVjZpRG9kNDlMUHp4V2lTakRYcU5IbXhnM1NrWkZoZXNFeGN5NkhVbWJZbkZRbFQzSERSVU9MNjJydENueldxaVJodksxWWdZeDY1VjdOS1JFRkJXN0NfYmEzbUZYYUd2eWlnZ3VDZXc?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1787874343
-  },
-  {
-    "id": "8426485",
-    "headline": "Virgin Australia to trim domestic capacity in line with Qantas, expects revenue gains - Reuters",
-    "summary": "Virgin Australia to trim domestic capacity in line with Qantas, expects revenue gains  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTU5zSkdadEN4VHBsSXR5V2p2d1B6SkE4a1dtZFd0Uk5ITG1xbnVTZnpobVBucy1QTmhIOGN3ckNBOGxkNXFIalJCNzAyTDJUT3JWcjZLdHpXS0dta2ttUlpNV1FCT2ZVYnhncVdwaFBsUjljREhmWjF3RVFqQjV1bzhBNDFoS2NaQ1FBWUNPTmMwZzZhdHBzUFpIUlJCTmN5bTQxX1E0YWFHYTJqZGRaLUVvR0JOWmlldllBNEY2anUtQ2pvYVAzLXZEcUhaZw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1787872620
-  },
-  {
-    "id": "8411849",
-    "headline": "Trump to meet refiners, fuel retailers as Iran war boosts gas prices ahead of midterms, sources say - Reuters",
-    "summary": "Trump to meet refiners, fuel retailers as Iran war boosts gas prices ahead of midterms, sources say  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUTVfLVZrNnM2eTJJcmZaVjN5Ym83a094ZUYxR3RqenVKVUxyWGpIaldFZTJpZUVaRFJ4TkpJUkctd0VIc1Nzb05qamt6cnZVU3lqSkw3NUdUYmE3WXpXNTUyTjNnLUFUZERfYXp6SjMzV2hrOV9nN1FDWTI4QUxSWGpIMnhwUURoeWRoOUNsYVRMOGx3d1BwdFF1LVNYejhVSjJpT201YWxKTWNBeEdJNm5nZjEyNE1zMWg4TTN4QXNORzN1akNuVEgyWQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1787871329,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1787872023,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "US President Trump is set to meet with refiners and fuel retailers to discuss the recent surge in gas prices, which has been driven by the escalating tensions with Iran. The meeting is likely a response to the growing concern among Americans about the rising fuel costs ahead of the midterm elections. The US has imposed sanctions on Iran, which has led to a reduction in oil exports and a subsequent increase in global oil prices. This has resulted in higher gas prices, which could impact consumer spending and potentially affect the US economy. The meeting is seen as an attempt by the Trump administration to address the issue and potentially mitigate its impact on the US economy.",
-      "impact": "The potential impact on the US energy sector could be significant, with higher gas prices likely to lead to lower consumer spending and potentially affect the earnings outlook for companies in the sector. In the short term, this could lead to a decline in the stock prices of refiners and fuel retailers, as investors may become risk-averse and sell their shares. However, in the medium term, the meeting could lead to increased investment in alternative energy sources and infrastructure, which could have a positive impact on companies that specialize in these areas. The impact on the overall economy could be significant, with higher gas prices potentially affecting consumer spending and economic growth.",
-      "risks": [
-        "Higher gas prices could lead to a decline in consumer spending and economic growth",
-        "Increased volatility in the energy market due to the ongoing tensions with Iran",
-        "Potential for a decline in the stock prices of refiners and fuel retailers"
-      ]
-    }
-  },
-  {
-    "id": "8408335",
-    "headline": "Oil settles up 2% after Trump rejects return to Iran ceasefire deal terms - Reuters",
-    "summary": "Oil settles up 2% after Trump rejects return to Iran ceasefire deal terms  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS3BzVVdsbG9iUHJoaGxwVFYzR256VFBDQnlQRlh1YVZfVnZmUE1jeXQzRXFHRDhuSnpyanlNZ1NHR0RHUy1TSm8teHRiVHJ1cTZSMDRJaW1MMFJXQ2ZpTmZrN081Y3V4OUM0Qk9lRXJMY2ZONzVZN0J4eWtZT1d4TTR1Uzg1bjR5NU9TRGFQdmpZb2RPQUpYbWI4NzdyVVhsczZkOWVjTzV1ZTRKbHV3RDMwcUJ5U2xTT1M2VFhrMlVpQQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1787871243
-  },
-  {
-    "id": "8412577",
-    "headline": "Jim Cramer says Nvidia and Salesforce earnings upended two bear narratives",
-    "summary": "CNBC’s Jim Cramer said strong earnings from Nvidia and Salesforce shattered two major bear cases that had weighed on the tech stocks.",
-    "url": "https://www.cnbc.com/2026/08/27/cramer-nvidia-salesforce-earnings-upended-two-bear-narratives.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/107109968-NUP_198430_00193r.jpg?v=1696632386&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1787869214,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1787871872,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Nvidia and Salesforce reported better-than-expected quarterly results, shattering bear narratives surrounding their stocks. Specifically, both companies have addressed concerns about AI-related threats to their business models. Nvidia's diversified customer base, on-track Vera Rubin platform, and strong demand from hyperscalers and sovereign AI projects have alleviated concerns about slowing demand and competition. Salesforce's strong sales growth, low customer attrition, and expanding partnership with Anthropic have also undercut bear cases.",
-      "impact": "The strong earnings reports and positive outlook from Nvidia and Salesforce are likely to boost their stock prices in the short term, driven by improved sentiment and reduced bearish narratives. Medium-term, the companies' strong fundamentals and growing demand for their products could lead to increased investor confidence and potentially higher valuations. The news may also have a positive impact on the broader tech sector, as investors reevaluate their expectations for other companies in the space.",
-      "risks": [
-        "Potential delays or challenges in the development and adoption of new AI technologies",
-        "Increased competition from other tech companies developing similar products or services",
-        "Regulatory risks associated with the growing use of AI and cloud computing"
-      ]
-    }
-  },
-  {
-    "id": "8415108",
-    "headline": "Photos of the week - Reuters",
-    "summary": "Photos of the week  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOOU5JcnJvZ1ZIYm9JYmU2WXdqSVlTRVUxeW41bzk3b2RtVExRUUJCd3YzanFOb0FqejRJWWZtRGRKRjJTQ3YzdjN3OGpkTlBCQ1d2RTVGRGl2Y2Y4cXJpaFAxLU9vTU0?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1787864100
-  },
-  {
-    "id": "8412477",
-    "headline": "Iran sets conditions for reopening Strait of Hormuz, top security official Rezaei says - Reuters",
-    "summary": "Iran sets conditions for reopening Strait of Hormuz, top security official Rezaei says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcmkxelpGUFVScGp3akpHZlFURmRaaF9haHpzOVVkdnphX3pDd2hhUTIzZk9UeEJqd3RwOUU3cXc4b0hITEpkY1pkbjZWTVpaRzZVWnZyZi1wa3l4UjVfa0NDNlNQNGtFYk5QbU5wc2VTVkdYbENjc093UW84bE9mTE9DNEJkRFIzdC1Hc1JlSS1hZVUzME9KVTBmeDlUVi1fTXlMaF94RW1aU2NNS3JKUGIwMURObWs5cVhtbXVYcTZpUTZwY01GQVVYd1o?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1787863857,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1787871921,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Iran's top security official, Rezaei, has set conditions for reopening the Strait of Hormuz, a critical waterway for global oil trade. The Strait's closure would significantly impact oil exports from the region, including those from Saudi Arabia, the UAE, and Iraq. The Strait's reopening would be a positive development for oil-producing countries and related industries. However, the conditions set by Iran may lead to further tensions with the US and its allies, potentially affecting the region's stability.",
-      "impact": "The news is likely to have a short-term positive impact on oil prices, potentially benefiting oil-producing companies such as Saudi Aramco and the National Iranian Oil Company. However, the medium-term impact is uncertain, as the conditions set by Iran may lead to further tensions and instability in the region, affecting the global oil market and related industries. The news may also lead to increased volatility in the oil price, which could impact the earnings outlook of oil-related companies.",
-      "risks": [
-        "Regional instability risk",
-        "Oil price volatility risk",
-        "Tensions with the US and its allies risk"
-      ]
-    }
-  },
-  {
-    "id": "8410133",
-    "headline": "After six months, the Iran war has reached its endgame — a costly stalemate - Reuters",
-    "summary": "After six months, the Iran war has reached its endgame — a costly stalemate  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPanlhWGJGcHdKencyMnlRUHBUejVOZlByMTJjWm8wSVVOdWRZV3FBQUlFNFI1WXVqTUdQaEtFeEJkeHl4aTEwaXJmd0MwTFY4VmJOMS02cWJ6ZGZzVEczaGFNelFqdmJoeFNhMGlzNzVzQ3hQOVFtejNvRXZqcVBQek5zY2l2VERfVlk4aHd3WXQ4YTc0MVhIdXF6ZHA4bFVBRlNNWXlKS0ZnbU1JdFo3MWFzMDg?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1787862856,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1787836179,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "The Iran war has reached a stalemate after six months, with neither side able to gain a decisive advantage. The conflict has been costly for all parties involved, with significant economic losses and humanitarian toll. The stalemate is likely due to the complex geopolitical dynamics and the involvement of multiple regional and global powers. This development has significant implications for the global energy market, as Iran is a major oil producer. The endgame of the war is uncertain, but it is likely to have a lasting impact on the region and the global economy.",
-      "impact": "The news is likely to have a neutral impact on the energy sector in the short term, as the stalemate reduces the uncertainty surrounding oil prices. However, the medium-term impact could be significant, as the conflict's resolution will have a major impact on global energy supplies and prices. The news may lead to a temporary increase in oil prices due to the reduced supply, but it may also lead to a decrease in prices if the conflict is resolved quickly. The impact on individual stocks will depend on their exposure to the energy sector and their specific business models.",
-      "risks": [
-        "Oil price volatility risk",
-        "Global economic slowdown risk",
-        "Regional instability risk"
-      ]
-    }
-  },
-  {
-    "id": "8412169",
-    "headline": "Iran's security chief denies report about a potential plot against Trump's son - Reuters",
-    "summary": "Iran's security chief denies report about a potential plot against Trump's son  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMmxfUzFLX1V3NWtDWmZFZ3dsUGIzWV9VZmNZVUo1NjV6dUxQM1VpRTNPS3UtQzg3TWtPaHBuUDJ5STJNSGFnZlMwT2w4UHlpWjMtejRnbUllbWtFeVpXWUJSVkMyeGZjU1hwc1ZSU0xTdHN2eFlMNXd2SEFIWG9EeFlxNkh4TjBOM0J0dUFFV1FrYmp4NVJXZXZjbWM2UGtrRWYyMFlJeEJOb3lBSXdoRm03bmZucjhUN05yejhTRWV6cUpsV1lHVHBDZWJWdw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1787860544,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1787871970,
-      "sentiment": "neutral",
-      "confidence": 0.8,
-      "summary": "Iran's security chief has denied a report about a potential plot against Trump's son, which was likely a baseless rumor. There is no concrete evidence to support the claim, and the denial by the Iranian government suggests that the situation is under control. The report was likely a speculative piece of news designed to create uncertainty and attention. This denial should alleviate concerns about the potential impact on US-Iran relations, which could have affected the energy and defense sectors.",
-      "impact": "The denial of the plot should have a neutral to slightly positive impact on the energy sector, as it reduces the risk of increased tensions between the US and Iran. This could lead to a decrease in oil prices, benefiting energy companies such as ExxonMobil (XOM) and Chevron (CVX). However, the medium-term impact is uncertain, as the situation in the Middle East remains volatile and could escalate at any time. The defense sector, including companies like Lockheed Martin (LMT) and Raytheon (RTN), may also see a slight decrease in demand for their products if tensions ease.",
-      "risks": [
-        "Escalation of tensions between the US and Iran",
-        "Increased volatility in the energy market",
-        "Uncertainty about the long-term stability of the region"
-      ]
-    }
   }
 ]
