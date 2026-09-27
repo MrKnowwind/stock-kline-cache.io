@@ -1,13 +1,13 @@
 [
   {
     "id": "8549671",
-    "headline": "Men arrested in major incident at UK air base used by US - Reuters",
-    "summary": "Men arrested in major incident at UK air base used by US  Reuters",
+    "headline": "Trump says men arrested at US air base in UK were looking to do 'big damage' - Reuters",
+    "summary": "Trump says men arrested at US air base in UK were looking to do 'big damage'  Reuters",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOThaUHcwMHZuZEY2dldUNjhYQ29PeWRJdEYxWFBPV3NEUUdSc0l4MkdhN3liTGdyNG9XaEhwWG8xRk8xR29JVlA0ZEV2ZXM3RVZCRDlPSHhzU29Pek9tZVREdUdvOHRXS1ZuaTR0TXVGV253bkplU1lNbG85WXRjYzcwV2ZSekFCa1gtR1RtV09zM3NYeF93?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1790502935,
+    "publishedAt": 1790522663,
     "analysis": {
       "version": 2,
       "generatedAt": 1790507399,
@@ -22,6 +22,39 @@
         "security risk"
       ]
     }
+  },
+  {
+    "id": "8550481",
+    "headline": "At NFL games this season, drone defense tech aims to bring down disruptions",
+    "summary": "The NFL told CNBC it recorded 10,852 drone violations over stadiums between 2021 and 2025. The Jaguars became the first team to sign a drone defense firm.",
+    "url": "https://www.cnbc.com/2026/09/27/nfl-drone-defense-tech-game-disruptions.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/102978971-GettyImages-458697482.jpg?v=1789181305&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1790510401,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1790524191,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The NFL has been experiencing a rise in drone disruptions, with 10,852 incidents recorded between 2021 and 2025. To address this issue, the Jacksonville Jaguars became the first team to partner with drone defense firm Sentrycs, which will provide a system to control and intercept drones near the stadium. This move is part of a growing trend, with the federal government providing funding for drone defense and other events like the FIFA World Cup also implementing similar measures. The increasing accessibility of drones has led to a shift from detection to mitigation, with technology now allowing for the interception of drone communication links and landing of aerial vehicles.",
+      "impact": "The partnership between the Jaguars and Sentrycs could lead to increased demand for drone defense services, potentially benefiting companies like Ondas, the parent company of Sentrycs. This could also lead to a shift in the NFL's security strategy, with other teams potentially following suit. In the short term, this may not have a significant impact on the earnings outlook for related stocks, but it could lead to increased investor interest and sentiment in the medium term. As the use of drones becomes more widespread, the demand for drone defense services is likely to increase, driving growth for companies in this space.",
+      "risks": [
+        "Regulatory approval risk for drone defense services",
+        "Competition from other drone defense providers",
+        "Potential for drone-related incidents to decrease as mitigation measures become more effective"
+      ]
+    }
+  },
+  {
+    "id": "8550377",
+    "headline": "Wall Street money takes back over from small investors as driving force of the stock market",
+    "summary": "One firm sees a \"reasonably constructive signal for risk appetite\" among institutional investors.",
+    "url": "https://www.cnbc.com/2026/09/27/institutional-investors-stocks-treaurys-retail-traders.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108364036-17895893572026-09-16t200737z_126985946_rc2iknasv7pe_rtrmadp_0_usa-fed-stocks.jpeg?v=1789589422&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1790508755
   },
   {
     "id": "8550073",
@@ -116,6 +149,29 @@
     }
   },
   {
+    "id": "8550687",
+    "headline": "US 30-year yield tops 5.5% in ‘Vacuum’ after sentiment gauge",
+    "summary": "US 30-year yield hits multiyear highs above 5.5% as consumer sentiment beats estimates, with 10-year also rising, amid ongoing rate expectations.",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-25/us-30-year-yield-tops-5-5-in-vacuum-after-sentiment-gauge",
+    "source": "Bloomberg",
+    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+    "relatedSymbols": [],
+    "publishedAt": 1790435460,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1790524254,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The US 30-year yield has surpassed 5.5% for the first time in years, driven by a stronger-than-expected consumer sentiment reading. This development is significant as it suggests that interest rates are expected to remain high for an extended period, which can negatively impact borrowing costs and economic growth. The 10-year yield has also risen, further indicating a hawkish tone from the market. This news is a reflection of the ongoing rate expectations and the market's perception of the economy's trajectory.",
+      "impact": "The rise in interest rates is likely to weigh on the earnings outlook for companies with high debt levels or those that rely heavily on borrowing, such as consumer discretionary and housing-related stocks. In the short-term, this may lead to a decline in housing market activity and consumer spending. In the medium-term, the higher interest rates may impact the valuations of these stocks, making them less attractive to investors.",
+      "risks": [
+        "higher interest rates risk",
+        "economic slowdown risk",
+        "valuation risk"
+      ]
+    }
+  },
+  {
     "id": "8546349",
     "headline": "Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics",
     "summary": "A federal jury awarded Taction Technology more than $5.7 billion after finding Apple infringed claims from two haptics patents. Apple plans to appeal.",
@@ -146,7 +202,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1790432208,
+    "publishedAt": 1790432160,
     "analysis": {
       "version": 2,
       "generatedAt": 1790507495,
@@ -181,29 +237,6 @@
         "Regulatory backlash against data centers",
         "Potential slowdown in demand due to public perception of AI",
         "Increased labor costs for companies that are not well-positioned to absorb them"
-      ]
-    }
-  },
-  {
-    "id": "8544016",
-    "headline": "Saudi coalition says it intercepts Houthi missiles, drones - Reuters",
-    "summary": "Saudi coalition says it intercepts Houthi missiles, drones  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdndqUFdtd2J6b19yZlhhZjlOZXVBYkNvYjVtTjQzYUxlRTVldkZHbjdQdDQtMGI0ZFEwSEY2MTc1OHNTcWJHUXJCbFJjSlpFb0o3blUxMTRBQWZncEVZaEZiMEdJbU9ZOGZIbUFxQzB3SGduZFZ2ZGFDYWNoZEtqVTd0QXRVZUc2UHRXMnpjUi1XM0d0a3dXcDg3ZFRqd2xsWHdzVXlhOXhMMDlQeHlpcEFXWjNncEZWbnBxZ0NaLXI?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1790428842,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1790426696,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The Saudi-led coalition has intercepted Houthi missiles and drones, indicating ongoing conflict in the region. The Houthi rebels, based in Yemen, have been targeting Saudi Arabia and its allies. This development is a continuation of the long-standing conflict in Yemen, with no clear resolution in sight. The conflict has been ongoing for years, with various parties involved, including the Saudi-led coalition, the Houthi rebels, and other regional actors. The situation remains volatile, with potential for escalation.",
-      "impact": "The news is unlikely to have a significant impact on the stock market in the short term, as the conflict has been ongoing for years and is not directly related to the earnings outlook or valuation of specific stocks. However, the situation may lead to increased volatility in the oil market, which could have a medium-term impact on energy stocks. The conflict also highlights the ongoing geopolitical risks in the region, which may affect investor sentiment and liquidity in the market.",
-      "risks": [
-        "geopolitical risk",
-        "oil price volatility risk",
-        "investor sentiment risk"
       ]
     }
   },
@@ -257,7 +290,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1790399504,
+    "publishedAt": 1790399340,
     "analysis": {
       "version": 2,
       "generatedAt": 1790409652,
@@ -365,9 +398,55 @@
     }
   },
   {
+    "id": "8544016",
+    "headline": "Saudi coalition says it intercepts Houthi missiles, drones - Reuters",
+    "summary": "Saudi coalition says it intercepts Houthi missiles, drones  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdndqUFdtd2J6b19yZlhhZjlOZXVBYkNvYjVtTjQzYUxlRTVldkZHbjdQdDQtMGI0ZFEwSEY2MTc1OHNTcWJHUXJCbFJjSlpFb0o3blUxMTRBQWZncEVZaEZiMEdJbU9ZOGZIbUFxQzB3SGduZFZ2ZGFDYWNoZEtqVTd0QXRVZUc2UHRXMnpjUi1XM0d0a3dXcDg3ZFRqd2xsWHdzVXlhOXhMMDlQeHlpcEFXWjNncEZWbnBxZ0NaLXI?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1790385900,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1790426696,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The Saudi-led coalition has intercepted Houthi missiles and drones, indicating ongoing conflict in the region. The Houthi rebels, based in Yemen, have been targeting Saudi Arabia and its allies. This development is a continuation of the long-standing conflict in Yemen, with no clear resolution in sight. The conflict has been ongoing for years, with various parties involved, including the Saudi-led coalition, the Houthi rebels, and other regional actors. The situation remains volatile, with potential for escalation.",
+      "impact": "The news is unlikely to have a significant impact on the stock market in the short term, as the conflict has been ongoing for years and is not directly related to the earnings outlook or valuation of specific stocks. However, the situation may lead to increased volatility in the oil market, which could have a medium-term impact on energy stocks. The conflict also highlights the ongoing geopolitical risks in the region, which may affect investor sentiment and liquidity in the market.",
+      "risks": [
+        "geopolitical risk",
+        "oil price volatility risk",
+        "investor sentiment risk"
+      ]
+    }
+  },
+  {
+    "id": "8539130",
+    "headline": "Saudi Grand Mufti tells troops to be ready to sacrifice their lives fighting Houthis - Reuters",
+    "summary": "Saudi Grand Mufti tells troops to be ready to sacrifice their lives fighting Houthis  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTXZJVk41ZE5xYUdhR0dIQjd0eVNzaWlmNVd3VmNNZTEyc2dZOWlnZm1nYW9xU19UNTNia0ZLaDUya2xYcXpYRW1tcUJVa0phSUlfOU82SXJHZjc1WHJTUFV5MkNRZUJ0LXFOSG8zRUswZGtJbHktVkZPeGJKd1lUMVBldUlwbGlXOW5qYm1VbnhJVU9QQ0x3Z1ZtNVpjMTVRNXZOZTJvbHZyNjZINzBYc3hvYVpWRndIbldwWjBCUDhJMnhyWVNmTkhxVUU?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1790385587,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1790319072,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The Saudi Grand Mufti's statement urging troops to be ready to sacrifice their lives fighting the Houthis suggests an escalation of the conflict in Yemen. This development increases the risk of further instability in the region, which could negatively impact Saudi Arabia's economy and the global oil market. Saudi Aramco, the state-owned oil company, is a key player in the global oil market and a major contributor to the Saudi economy. The conflict in Yemen has already disrupted oil production and exports, and further escalation could lead to a decrease in oil prices, negatively impacting Saudi Aramco's earnings and the Saudi economy.",
+      "impact": "The potential impact on Saudi Aramco's stock could be negative in the short term due to the increased risk of conflict and potential disruption to oil production and exports. This could lead to a decrease in oil prices, negatively impacting the company's earnings and the Saudi economy. In the medium term, a prolonged conflict could lead to a decrease in investor confidence in Saudi Aramco and the Saudi economy, potentially leading to a decline in the stock price.",
+      "risks": [
+        "Escalation of conflict in Yemen",
+        "Disruption to oil production and exports",
+        "Decrease in oil prices"
+      ]
+    }
+  },
+  {
     "id": "8542800",
-    "headline": "Battered bonds draw support from falling oil prices - reuters.com",
-    "summary": "Battered bonds draw support from falling oil prices  reuters.com",
+    "headline": "Battered bonds draw support from falling oil prices - Reuters",
+    "summary": "Battered bonds draw support from falling oil prices  Reuters",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSXl3a0V4VjdBS1ZlOENTNmpGcmdEa1BNaDh3N21xanZ2Q1JYRGEwbV9QTGdMN21oV1N5Ukw3SEhEa1ZLUENNNTFuVWV3cjQ1RFR2cWtCdlJBNVp2bDBsZTExZWYzVW44eGtJMHFiUkVyOG9xU3c3Z2Y5THFDWDNLMA?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -503,6 +582,29 @@
     }
   },
   {
+    "id": "8539233",
+    "headline": "Oil prices slide about 2% as US, Iran explore path out of war - Reuters",
+    "summary": "Oil prices slide about 2% as US, Iran explore path out of war  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV3EzX3oydnQxRk5Ld1BKbk82ek14ZVdyLVpTdldjdEpqeDJfTVZ2Q0F1TnhvaWlhR1p0Z3hScDV0S2Z1UFR5OXhKSWk3NmtqTzd0SkJfa2RLRFpOOUlEcE5mR1d4Z21Td2FCQVZqNHV1eDloQkplT1NHaHhyTDlqOG5DYlFFdnRERThxNU0yX29LcTRyal9pMHQ4ZzNoU0VKZkdHN2hFYjhCZUpZZ3d2am11SDJYYVBiN0JxWVBtczNRYkh1?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1790367184,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1790318975,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Oil prices have fallen as markets look to a potential truce between the US and Iran, reducing concerns about disruptions to global oil supplies. However, the threat of attacks on oil facilities remains a concern, keeping prices volatile. The truce, if achieved, could lead to a decrease in tensions and a subsequent decrease in oil prices. This could negatively impact oil-related stocks, particularly those with high exposure to global oil prices.",
+      "impact": "The potential decrease in oil prices could negatively impact oil-related stocks, particularly those with high exposure to global oil prices. This could lead to a short-term decrease in earnings for these companies, as lower oil prices reduce their revenue. In the medium term, a sustained decrease in oil prices could lead to a decrease in exploration and production activities, further impacting the earnings of oil-related companies. This could also lead to a decrease in the valuation of these companies, making them less attractive to investors.",
+      "risks": [
+        "Decrease in oil prices",
+        "Volatility in global oil markets",
+        "Potential for renewed tensions between the US and Iran"
+      ]
+    }
+  },
+  {
     "id": "8542590",
     "headline": "What we want to see next week from one of Jim Cramer's 6 stocks to buy",
     "summary": "Micron has all the leverage heading into earnings as memory supply constraints persist. But how long will this favorable cycle last?",
@@ -526,25 +628,25 @@
     }
   },
   {
-    "id": "8539233",
-    "headline": "Oil prices slide about 2% as US, Iran explore path out of war - Reuters",
-    "summary": "Oil prices slide about 2% as US, Iran explore path out of war  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV3EzX3oydnQxRk5Ld1BKbk82ek14ZVdyLVpTdldjdEpqeDJfTVZ2Q0F1TnhvaWlhR1p0Z3hScDV0S2Z1UFR5OXhKSWk3NmtqTzd0SkJfa2RLRFpOOUlEcE5mR1d4Z21Td2FCQVZqNHV1eDloQkplT1NHaHhyTDlqOG5DYlFFdnRERThxNU0yX29LcTRyal9pMHQ4ZzNoU0VKZkdHN2hFYjhCZUpZZ3d2am11SDJYYVBiN0JxWVBtczNRYkh1?oc=5",
+    "id": "8541760",
+    "headline": "Trump warns Xi over Chinese support for Iran, receives assurances, US envoy says - Reuters",
+    "summary": "Trump warns Xi over Chinese support for Iran, receives assurances, US envoy says  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS3NaNENZd05ESDQwSFdrTGwyLUtGX3NzT1NiR0tzbWwtM282dHRxbkxLYTk2b1Rkd01xQldYM2ItTlNRV01wbnhDMWpZVkliRnBhMlFWYVg1VHh6bjRCVkQwVGFFamhhWWpJa0p5aHlVRkJpblI1UUZJeDN6VFg1Z1hhdGFBSklFN2ZyVjZ0b1IyNUpoMU5GN0tmTlZPMExVNFppU2ZSRGFwcW1QSElZaktmS3pXSElm?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1790364532,
+    "publishedAt": 1790364082,
     "analysis": {
       "version": 2,
-      "generatedAt": 1790318975,
+      "generatedAt": 1790357748,
       "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Oil prices have fallen as markets look to a potential truce between the US and Iran, reducing concerns about disruptions to global oil supplies. However, the threat of attacks on oil facilities remains a concern, keeping prices volatile. The truce, if achieved, could lead to a decrease in tensions and a subsequent decrease in oil prices. This could negatively impact oil-related stocks, particularly those with high exposure to global oil prices.",
-      "impact": "The potential decrease in oil prices could negatively impact oil-related stocks, particularly those with high exposure to global oil prices. This could lead to a short-term decrease in earnings for these companies, as lower oil prices reduce their revenue. In the medium term, a sustained decrease in oil prices could lead to a decrease in exploration and production activities, further impacting the earnings of oil-related companies. This could also lead to a decrease in the valuation of these companies, making them less attractive to investors.",
+      "confidence": 0.7,
+      "summary": "US President Trump told Chinese President Xi that China's support for Iran is unacceptable, escalating tensions between the two nations. This development is a continuation of the ongoing trade tensions between the US and China. The US has been critical of China's economic and military ties with Iran, and this statement is a further indication of the deteriorating relationship. The news is unlikely to improve the already strained relations between the two countries, which could have broader implications for global trade and economic stability.",
+      "impact": "The news is likely to have a negative impact on Chinese stocks, particularly those with exposure to the US market, such as those in the technology and consumer sectors. The escalating tensions could lead to a decline in investor sentiment, causing a short-term sell-off in these stocks. In the medium term, a prolonged trade war could negatively impact Chinese economic growth, which could be reflected in the earnings outlook for these companies. This could also lead to a decrease in liquidity for these stocks as investors become more risk-averse.",
       "risks": [
-        "Decrease in oil prices",
-        "Volatility in global oil markets",
-        "Potential for renewed tensions between the US and Iran"
+        "trade war risk",
+        "economic slowdown risk",
+        "geopolitical risk"
       ]
     }
   },
@@ -637,6 +739,29 @@
         "Changing workforce dynamics and shifting expectations may lead to increased regulatory scrutiny of hiring practices",
         "Companies may face increasing pressure to prioritize diversity, equity, and inclusion initiatives",
         "The debate may reflect a broader issue of a tight labor market, potentially leading to increased competition for talent and higher labor costs"
+      ]
+    }
+  },
+  {
+    "id": "8536013",
+    "headline": "Saudi Arabia says it intercepted Houthi missiles; group claims strikes on Riyadh, Aramco - Reuters",
+    "summary": "Saudi Arabia says it intercepted Houthi missiles; group claims strikes on Riyadh, Aramco  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLW1IRmRaem1xSHEwTjd1VldSMmNqZk55VmdmZkh4QnNhU21SM0ZtWGg4RDdxSkNOM1F6ZUJ4LUYybUlzcWx6S01zbzd5N3BRSWRTc0N6eExNa2RFQXVTYlM3RmtXOFlDUk1Yc2Q0LXNkTEFPQlpCNjgzZHNlbkZXWGtXT1NRNFZ3a2lvWWNxVkk1Rng0Q2ZtNUk4TzZ0YXpNdDFaRUZQa2lBVHpnV05pV1QtZVlJSjJpTFFPTA?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1790356069,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1790252341,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Yemeni government forces have successfully repelled a Houthi push on the key Taiz-Aden route, a significant development in the ongoing conflict. The route is crucial for the transportation of goods and people between the two cities, and its control is vital for the stability of the region. The Houthi rebels have been trying to capture the route for months, but the government's victory is a significant setback for them. The news is a positive development for the Yemeni government and its allies, and it may lead to a stabilization of the region.",
+      "impact": "The news is likely to have a positive impact on the Yemeni government's stocks, particularly those of companies involved in the transportation and logistics sector. The stabilization of the region may lead to an increase in economic activity, which could boost the earnings outlook for these companies. The news may also improve the sentiment towards the Yemeni market, leading to increased investor confidence and liquidity. However, the conflict is ongoing, and the situation remains uncertain, posing a risk to the stability of the region and the economy.",
+      "risks": [
+        "Ongoing conflict risk",
+        "Regional instability risk",
+        "Economic slowdown risk"
       ]
     }
   },
@@ -776,29 +901,6 @@
         "Market volatility risk",
         "Economic data disappointment risk",
         "Interest rate hike risk"
-      ]
-    }
-  },
-  {
-    "id": "8541760",
-    "headline": "Trump warns Xi over Chinese support for Iran, receives assurances, US envoy says - Reuters",
-    "summary": "Trump warns Xi over Chinese support for Iran, receives assurances, US envoy says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS3NaNENZd05ESDQwSFdrTGwyLUtGX3NzT1NiR0tzbWwtM282dHRxbkxLYTk2b1Rkd01xQldYM2ItTlNRV01wbnhDMWpZVkliRnBhMlFWYVg1VHh6bjRCVkQwVGFFamhhWWpJa0p5aHlVRkJpblI1UUZJeDN6VFg1Z1hhdGFBSklFN2ZyVjZ0b1IyNUpoMU5GN0tmTlZPMExVNFppU2ZSRGFwcW1QSElZaktmS3pXSElm?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1790341680,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1790357748,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "US President Trump told Chinese President Xi that China's support for Iran is unacceptable, escalating tensions between the two nations. This development is a continuation of the ongoing trade tensions between the US and China. The US has been critical of China's economic and military ties with Iran, and this statement is a further indication of the deteriorating relationship. The news is unlikely to improve the already strained relations between the two countries, which could have broader implications for global trade and economic stability.",
-      "impact": "The news is likely to have a negative impact on Chinese stocks, particularly those with exposure to the US market, such as those in the technology and consumer sectors. The escalating tensions could lead to a decline in investor sentiment, causing a short-term sell-off in these stocks. In the medium term, a prolonged trade war could negatively impact Chinese economic growth, which could be reflected in the earnings outlook for these companies. This could also lead to a decrease in liquidity for these stocks as investors become more risk-averse.",
-      "risks": [
-        "trade war risk",
-        "economic slowdown risk",
-        "geopolitical risk"
       ]
     }
   },
@@ -1002,29 +1104,6 @@
         "Regulatory risks associated with AI adoption and development",
         "Integration risks for companies implementing AI solutions",
         "Potential for a slowdown in AI adoption if the technology fails to deliver on its promises"
-      ]
-    }
-  },
-  {
-    "id": "8539130",
-    "headline": "Saudi Grand Mufti tells troops to be ready to sacrifice their lives fighting Houthis - Reuters",
-    "summary": "Saudi Grand Mufti tells troops to be ready to sacrifice their lives fighting Houthis  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTXZJVk41ZE5xYUdhR0dIQjd0eVNzaWlmNVd3VmNNZTEyc2dZOWlnZm1nYW9xU19UNTNia0ZLaDUya2xYcXpYRW1tcUJVa0phSUlfOU82SXJHZjc1WHJTUFV5MkNRZUJ0LXFOSG8zRUswZGtJbHktVkZPeGJKd1lUMVBldUlwbGlXOW5qYm1VbnhJVU9QQ0x3Z1ZtNVpjMTVRNXZOZTJvbHZyNjZINzBYc3hvYVpWRndIbldwWjBCUDhJMnhyWVNmTkhxVUU?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1790328048,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1790319072,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The Saudi Grand Mufti's statement urging troops to be ready to sacrifice their lives fighting the Houthis suggests an escalation of the conflict in Yemen. This development increases the risk of further instability in the region, which could negatively impact Saudi Arabia's economy and the global oil market. Saudi Aramco, the state-owned oil company, is a key player in the global oil market and a major contributor to the Saudi economy. The conflict in Yemen has already disrupted oil production and exports, and further escalation could lead to a decrease in oil prices, negatively impacting Saudi Aramco's earnings and the Saudi economy.",
-      "impact": "The potential impact on Saudi Aramco's stock could be negative in the short term due to the increased risk of conflict and potential disruption to oil production and exports. This could lead to a decrease in oil prices, negatively impacting the company's earnings and the Saudi economy. In the medium term, a prolonged conflict could lead to a decrease in investor confidence in Saudi Aramco and the Saudi economy, potentially leading to a decline in the stock price.",
-      "risks": [
-        "Escalation of conflict in Yemen",
-        "Disruption to oil production and exports",
-        "Decrease in oil prices"
       ]
     }
   },
@@ -1465,7 +1544,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1790280900
+    "publishedAt": 1790280900,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1790524301,
+      "sentiment": "neutral",
+      "confidence": 0.5,
+      "summary": "This article is a collection of photos from various events around the world, including a hurricane, a royal wedding, and a protest. There is no specific mention of any company or industry. The article is a general news piece and does not provide any information that would be directly relevant to the business fundamentals or industry context of any stock. The photos are a visual representation of current events and do not have a direct impact on the stock market.",
+      "impact": "This article is unlikely to have any impact on the stock market or related stocks. The photos are a visual representation of current events and do not provide any concrete information that would influence the stock price or earnings outlook of any company. However, the article may be seen as a reflection of the current state of the world and could potentially influence investor sentiment in the short term.",
+      "risks": [
+        "general market volatility risk",
+        "sentiment-driven market risk",
+        "macroeconomic uncertainty risk"
+      ]
+    }
   },
   {
     "id": "8536455",
@@ -2048,7 +2140,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1790255384
+    "publishedAt": 1790255384,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1790524355,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "A Croatian court has allowed the extradition of a suspect in the Nord Stream pipeline blast to Germany. The suspect is believed to be involved in the sabotage of the pipeline, which has been a major geopolitical event affecting energy markets. The incident has already led to increased tensions between Russia and Europe, and the extradition is seen as a significant development in the investigation. The suspect's extradition is expected to provide more information about the incident and potentially shed light on the motivations behind the sabotage.",
+      "impact": "The news is unlikely to have a direct impact on the energy sector's earnings outlook in the short term, but it may lead to increased volatility in energy prices due to the ongoing tensions between Russia and Europe. This could benefit companies with diversified energy portfolios or those with exposure to alternative energy sources. However, the medium-term impact on the sector's valuation and sentiment may be more pronounced if the investigation reveals significant evidence of state-sponsored sabotage, which could lead to increased regulatory scrutiny and potential changes in energy policies.",
+      "risks": [
+        "Increased regulatory scrutiny and potential changes in energy policies",
+        "Volatility in energy prices due to ongoing tensions between Russia and Europe",
+        "Potential escalation of the conflict and its impact on global energy markets"
+      ]
+    }
   },
   {
     "id": "8537432",
@@ -2107,29 +2212,6 @@
       "summary": "Stephen Curry, a prominent investor in women's sports and NBA star, expressed his desire for the WNBA's next commissioner to focus on basketball, rather than political and cultural controversies. This statement comes as WNBA Commissioner Cathy Engelbert is set to retire at the end of 2026. Curry praised the WNBA and its players, highlighting the league's record attendance and television ratings. He also discussed his own brand, Curry Brand, and his efforts to recruit top female basketball talent.",
       "impact": "The news is unlikely to have a direct impact on the stocks of companies related to the WNBA, as it is a statement from a prominent investor rather than a concrete business decision. However, it may have a positive impact on the WNBA's brand and reputation, potentially leading to increased interest and investment in the league. This could be a positive catalyst for companies that have exposure to the WNBA, such as Nike, which has a partnership with the league. In the short term, the news is unlikely to move the needle for these companies, but it may contribute to a more positive sentiment in the medium term.",
       "risks": []
-    }
-  },
-  {
-    "id": "8536013",
-    "headline": "Saudi Arabia says it intercepted Houthi missiles; group claims strikes on Riyadh, Aramco - Reuters",
-    "summary": "Saudi Arabia says it intercepted Houthi missiles; group claims strikes on Riyadh, Aramco  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLW1IRmRaem1xSHEwTjd1VldSMmNqZk55VmdmZkh4QnNhU21SM0ZtWGg4RDdxSkNOM1F6ZUJ4LUYybUlzcWx6S01zbzd5N3BRSWRTc0N6eExNa2RFQXVTYlM3RmtXOFlDUk1Yc2Q0LXNkTEFPQlpCNjgzZHNlbkZXWGtXT1NRNFZ3a2lvWWNxVkk1Rng0Q2ZtNUk4TzZ0YXpNdDFaRUZQa2lBVHpnV05pV1QtZVlJSjJpTFFPTA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1790242380,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1790252341,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Yemeni government forces have successfully repelled a Houthi push on the key Taiz-Aden route, a significant development in the ongoing conflict. The route is crucial for the transportation of goods and people between the two cities, and its control is vital for the stability of the region. The Houthi rebels have been trying to capture the route for months, but the government's victory is a significant setback for them. The news is a positive development for the Yemeni government and its allies, and it may lead to a stabilization of the region.",
-      "impact": "The news is likely to have a positive impact on the Yemeni government's stocks, particularly those of companies involved in the transportation and logistics sector. The stabilization of the region may lead to an increase in economic activity, which could boost the earnings outlook for these companies. The news may also improve the sentiment towards the Yemeni market, leading to increased investor confidence and liquidity. However, the conflict is ongoing, and the situation remains uncertain, posing a risk to the stability of the region and the economy.",
-      "risks": [
-        "Ongoing conflict risk",
-        "Regional instability risk",
-        "Economic slowdown risk"
-      ]
     }
   },
   {
@@ -19974,71 +20056,6 @@
         "Investor sentiment risk",
         "Macroeconomic uncertainty risk"
       ]
-    }
-  },
-  {
-    "id": "8432248",
-    "headline": "US military says it completed latest wave of strikes on Iran - Reuters",
-    "summary": "US military says it completed latest wave of strikes on Iran  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPekNsWEt4cEh2RVhBNk5nQXJSczQ2QjJlU2hONHpGLXRBSVg1bi1wdWljNXZOd0lvS0toX0ZiZmpaNUVpaG9QbmMtTHBkdzRBUXZMVjU0al9iQUFVQWRvZzFTek5MOGhyME9Ea3Y4a0ZiUVNOUXR1VDRZQi1Td09pT1ZpanoxQ1BKVVp2NWc5WlZPT3hVSDJ2aWZZMExHU1J4aUhKSjFEZ3JWdmo3?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1788314160,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1788653847,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The US military has completed its latest wave of strikes on Iran, which is a significant development in the ongoing conflict. The strikes are a response to Iran's recent actions, and the US military's goal is to deter further aggression. The situation is complex, with multiple parties involved, including the US, Iran, and other regional players. The strikes may lead to increased tensions in the region and potentially disrupt global oil markets. The news is a significant event, but its impact on the stock market is uncertain and may be limited to specific sectors such as defense and energy.",
-      "impact": "The news may have a short-term impact on defense stocks, such as Lockheed Martin (LMT) and Raytheon Technologies (RTN), as they are likely to benefit from increased defense spending. However, the medium-term impact will depend on the escalation of the conflict and the response of the Iranian government. The news may also have a negative impact on oil prices, which could affect energy stocks such as ExxonMobil (XOM) and Chevron (CVX).",
-      "risks": [
-        "Escalation of the conflict and potential for further military action",
-        "Disruption to global oil markets and potential price volatility",
-        "Uncertainty about the long-term impact on the region and the global economy"
-      ]
-    }
-  },
-  {
-    "id": "8432551",
-    "headline": "US energy secretary says 17 million barrels of oil transited Strait of Hormuz on Monday - Reuters",
-    "summary": "US energy secretary says 17 million barrels of oil transited Strait of Hormuz on Monday  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaFltYnJHT0FhRU01WHEzZXFFdGp4TUdid0tFLVRaTmlqLUFaenRWWXZJNzBfb054NFRnUGs3N01lVXc1WGFwWjF1dUV5QS1QVHZjSVhtVjZNRDhPSGpJNDVkcVZaRWU4ZG1rQThOQzc4TnJZTGVCLS1lNk9wQXNfUk43eUZ5akEydndGTGJpS01OUmtyR0hYM05nMkxORklXTXpHanpqSDJ0QXItSVEzUDZKWEZhMGM0SE1sYUpHdEpZdHFtZ0NpdWhB?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1788310020,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1788687881,
-      "sentiment": "bullish",
-      "confidence": 0.7,
-      "summary": "The news that 17 million barrels of oil transited the Strait of Hormuz on Monday is a positive indicator for the energy sector. The Strait of Hormuz is a critical waterway for global oil exports, and increased oil transit volumes suggest a rise in global oil demand. This, in turn, is likely to benefit oil-producing companies, particularly those with significant exposure to the global market. The news is also a positive signal for the overall economy, as increased oil demand typically leads to higher economic activity.",
-      "impact": "The news is likely to have a positive impact on oil-related stocks in the short term, as increased oil demand and transit volumes suggest a higher earnings outlook for oil producers. This could lead to a short-term increase in stock prices for companies such as ExxonMobil (XOM), Chevron (CVX), and Royal Dutch Shell (RDS.A). In the medium term, the news could also lead to increased investment in the energy sector, as companies look to capitalize on the rising demand for oil.",
-      "risks": [
-        "geopolitical risk",
-        "supply chain disruption risk",
-        "price volatility risk"
-      ]
-    }
-  },
-  {
-    "id": "8432264",
-    "headline": "Global bonds extend selloff, oil prices surge on renewed US-Iran strikes - Reuters",
-    "summary": "Global bonds extend selloff, oil prices surge on renewed US-Iran strikes  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUzRjcDczTGxqaGRleWZNeUwtZnpOTjRjNWhmSEt2YkQtY1ZwaDdhZ2RxX0hCWEZZdXpPSmlWZW45ZVBHM2lsMU9XalYtNEl1cGxpWjVhVTR2cDU1ajlNMzRJb3FZaGZ4akprMWhPNmd4cmJFOFI1Q29iWlI0ZnFXNXljcw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1788305786,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1788700374,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Global bond yields have increased as investors seek safe-haven assets due to the renewed US-Iran tensions. This surge in bond yields has led to a selloff in the bond market. Meanwhile, oil prices have risen as a result of the increased tensions, with the US-Iran conflict potentially disrupting global oil supplies. The tensions between the US and Iran have escalated, with the US imposing new sanctions on Iran. The renewed conflict has raised concerns about global economic stability and security.",
-      "impact": "The increased bond yields and oil prices may negatively impact the earnings outlook for companies in the energy and industrials sectors, particularly those with high debt levels or significant exposure to oil prices. The renewed tensions may also lead to a decrease in investor sentiment, causing a short-term selloff in the stock market. In the medium term, the increased oil prices may benefit energy companies, but this may be offset by the potential negative impact on economic growth and consumer spending. The increased bond yields may also lead to a decrease in the valuation of companies with high debt levels or those that rely heavily on debt financing.",
-      "risks": []
     }
   }
 ]
