@@ -1,24 +1,93 @@
 [
   {
-    "id": "8563686",
-    "headline": "Passengers foil bid to crash Dubai-Tel Aviv flight, Israel says, after co-pilot stabs pilot - Reuters",
-    "summary": "Passengers foil bid to crash Dubai-Tel Aviv flight, Israel says, after co-pilot stabs pilot  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWnpLNmZJUXN6UzQ0RlhKSFhxT2xYMWZ1R1VwYVdZX3ZuZWFTYUZyV1VYTVhralA5Y0ROVjlNVl9XOGpTSWhEcGM3UE01WVA3clNKcm5KdDZ2dUY1U3FyODdsWkkzSWs2VW5NZUJWQXFYQ0dxamNudlljZl92REs3SnFXSEUzTEswdjh4NnRia2VWZGd2TGE2SmZ6VDBQTXpiRDM0SDZSZ29ubUZUd3Zsa0E4LTBoRmxpSDRjd0JkcmhYbkNV?oc=5",
+    "id": "8567998",
+    "headline": "Netanyahu says Israel will get to the 'root' of co-pilot in foiled bid to crash flydubai flight - Reuters",
+    "summary": "Netanyahu says Israel will get to the 'root' of co-pilot in foiled bid to crash flydubai flight  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPU2FsbDhfazlDOEhsVF9mZ0ZCMDdDdlNOYURfSWxTV2ZkVm8tckN0dmo1Q0QtUEtxQmJpQUZKTWVjNzBJZzdKSHkzWTVuaFJsY2U2a2xhWlRXbERyNXBkZms1VExTeEdDSFRuT0hJbmxTSE94bjN0dnRic1Jjd1BITXlRT0k4TnNpazlpOXVFY3pjM2tJNzZkT1BIXzBNU1lJbEJoZjdpdEgwQUZhLTNSS2FjN19CSENnWkRzVGZ0dmN5RmRIcmZhS0NjYw?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1790806378,
+    "publishedAt": 1790823420,
     "analysis": {
       "version": 2,
-      "generatedAt": 1790758914,
+      "generatedAt": 1790836839,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "Israeli Prime Minister Benjamin Netanyahu has stated that Israel will investigate the foiled attempt to crash a flydubai flight. The incident occurred on a flight from Dubai to Tel Aviv, where a co-pilot allegedly attempted to intentionally crash the plane. The investigation is expected to focus on the co-pilot's motivations and whether there were any security lapses. This incident highlights the ongoing concerns about aviation security and the potential for insider threats. The investigation's outcome may lead to changes in security protocols or regulations, which could impact the aviation industry as a whole.",
+      "impact": "The incident is unlikely to have a direct impact on the stock prices of flydubai or its parent company, Dubai's Emirates airline, in the short term. However, if the investigation reveals significant security lapses, it could lead to increased scrutiny of the aviation industry, potentially affecting the earnings outlook and valuation of airlines in the region. The incident may also lead to a temporary increase in security measures, which could be a positive for companies that provide security services to the aviation industry.",
+      "risks": [
+        "regulatory changes risk",
+        "aviation security risk",
+        "industry reputation risk"
+      ]
+    }
+  },
+  {
+    "id": "8568102",
+    "headline": "India shares open lower as foreign outflows dent risk sentiment - reuters.com",
+    "summary": "India shares open lower as foreign outflows dent risk sentiment  reuters.com",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa2lpSGdlN0dhOTM3eUw3MlQtN183dHZydW95WXVWM2MyTEFaeTlvRUllR29aLWJxT3dvdVNmNlpzTGVldkpIMFNScVVhVEJ5TTU5TDhoVTZZWlpXbENCUHlKMWx3MmJ4bWkyU1E1OGF6Sk9YakxYcHRyM0tWdnlrX0NpQktmLU90VkRRVG5FQXdPZ3c3dFV0N0xndUdrTl9lY0xKZUJsNmY4LS1BYndDNENRZC0?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1790821500,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1790836886,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Indian shares opened lower due to foreign outflows denting risk sentiment. This is likely a result of investors pulling out of emerging markets in response to global economic uncertainty. The outflows have led to a decline in the Indian rupee, making imports more expensive and potentially impacting the country's economic growth. The Indian market is highly sensitive to global economic trends, and this development may signal a shift in investor sentiment towards riskier assets.",
+      "impact": "The potential impact on Indian stocks is likely to be negative in the short-term, with a decline in investor sentiment and a weakening rupee making it more expensive for companies to import raw materials and finance their operations. This may lead to a decline in earnings for companies with high import costs, such as those in the manufacturing and consumer goods sectors. In the medium-term, the impact may be more pronounced if the outflows continue, potentially leading to a decline in liquidity and a further depreciation of the rupee.",
+      "risks": [
+        "foreign exchange risk",
+        "earnings risk",
+        "liquidity risk"
+      ]
+    }
+  },
+  {
+    "id": "8567484",
+    "headline": "Oil dips as recovering Gulf exports ease supply fears, US-Iran diplomacy in focus - Reuters",
+    "summary": "Oil dips as recovering Gulf exports ease supply fears, US-Iran diplomacy in focus  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcGNFYVVqQ0xkMTkyblJkMU5mMnJ6Y1RhTEhBWjJyWEhDaXdCVzg3aF9pWTFYdVkyN3d5WmpIRDdHQ283dUJhVlV4WTJzSEMwTy1uZkhwS2NNNndEZlhJY2lGTHgtRng1TjQ0XzRWdUNnUjRPQ2ZoaDg2UlJ1cTgtRGZHbTNVcUVFenI1SlIxREdDbWJJX25kWFY2ZWxxVzRyOFl3SGZzbjZUWEk2NklWOUR2UzEwanpPSzU1TnJyXzVveDRoX2c?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1790817000,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1790836936,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "Oil prices dipped as the recovery of oil exports from the Gulf region eased supply fears. The news comes as the US and Iran engage in diplomatic efforts, which may lead to a potential easing of tensions and increased oil supply. The Gulf region is a major oil-producing area, and any changes in its exports can significantly impact global oil markets. The diplomatic efforts between the US and Iran may lead to increased oil supply, which could put downward pressure on oil prices.",
+      "impact": "The news is likely to have a short-term negative impact on oil prices, which could lead to a decrease in earnings for oil-related companies. However, if the diplomatic efforts between the US and Iran lead to increased oil supply, it could have a medium-term positive impact on the industry, as it would ease supply fears and potentially lead to lower oil prices. This could make oil-related companies more attractive to investors in the medium term.",
+      "risks": [
+        "Supply chain disruptions due to ongoing tensions in the Gulf region",
+        "Uncertainty around the outcome of US-Iran diplomacy",
+        "Potential for increased oil prices if diplomatic efforts fail to increase supply"
+      ]
+    }
+  },
+  {
+    "id": "8567588",
+    "headline": "What is red-dyed diesel and can it help lower prices, as Trump wants? - Reuters",
+    "summary": "What is red-dyed diesel and can it help lower prices, as Trump wants?  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUGNBOHFnRTAzOVBWcVhfSEhfcWRHbFNBZzRVZzJtQ0twTi03QTloRmhLWTNrVzZzeE9jLWROWlBsNUwzNTlrdlZRaGU5SWJXTFJleEV2a2Y3VWx4dVNLMkRRV1NDNS1jRkdnVFZ4bmNUUjhUaU52NTI3aHVmV1RMRlhJb0tVdkRBUjMwYWg3dXhOWkwwdjNHbWZDOVpPQnNFRzhNdm52LV9XamotRlFHR2V3?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1790804177,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1790836994,
       "sentiment": "neutral",
       "confidence": 0.6,
-      "summary": "A flight from Tel Aviv to Israel was diverted to Saudi Arabia due to a brawl between the pilots. The incident occurred on a flight operated by a private Israeli airline. The brawl is currently being investigated by Israeli authorities. The incident highlights the potential risks and challenges faced by airlines operating in the region. The incident is not directly related to any specific company or industry, but it may impact the overall sentiment towards the airline industry.",
-      "impact": "The incident may lead to a short-term increase in insurance costs for airlines operating in the region, potentially affecting their profitability. In the medium term, the incident may lead to a decrease in passenger confidence in the airline industry, potentially impacting ticket sales and revenue. The impact on specific airlines is still unclear, but it may be more pronounced for airlines with operations in the region.",
+      "summary": "The article discusses the concept of red-dyed diesel, a type of diesel fuel that is dyed red to distinguish it from regular diesel fuel. The U.S. Environmental Protection Agency (EPA) allows the use of red-dyed diesel for non-road use, such as in construction equipment and generators. President Trump has suggested that the use of red-dyed diesel could help lower fuel prices. The article notes that the EPA has not yet taken any action to allow the use of red-dyed diesel for on-road use. The article also mentions that the use of red-dyed diesel could have environmental implications, as it could lead to increased emissions.",
+      "impact": "The potential impact on the oil and gas industry is unclear, as the use of red-dyed diesel could potentially increase demand for diesel fuel, but it could also lead to increased emissions and environmental concerns. In the short term, the news may have a neutral impact on oil prices, as the EPA has not yet taken any action to allow the use of red-dyed diesel for on-road use. However, if the EPA were to allow the use of red-dyed diesel for on-road use, it could potentially lead to increased demand for diesel fuel, which could drive up prices in the medium term. This could be a positive for companies that produce diesel fuel, such as ExxonMobil (XOM) and Chevron (CVX).",
       "risks": [
-        "increased insurance costs",
-        "decreased passenger confidence",
-        "reduced ticket sales"
+        "regulatory approval risk",
+        "environmental concerns",
+        "increased emissions risk"
       ]
     }
   },
@@ -69,29 +138,6 @@
     }
   },
   {
-    "id": "8562538",
-    "headline": "Joy mixed with fear as US forces quit Iraq leaving potential security vacuum - Reuters",
-    "summary": "Joy mixed with fear as US forces quit Iraq leaving potential security vacuum  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOemFDVTJ6blJhRFNIeVgzYzJoRzUtcG45RURTckFyYzJZb2RlX0g5TndKd1lqbmdSOG1HREZRTFZaM3dSTFZaQ3ZrQTg3a2xSZ2YyRldVT2JCMDZlVmVJOVFHTjI3TnExSktyZ25ZMjU5cXZrdDlITjVTOC11a2sxbmRjd2pvZC10UlRDQlRYclVTREt3S2c5TXRLc1NkdUxJcGFz?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1790794648,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1790735151,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The US forces' exit from Iraq has emboldened Iran's proxies and the Islamic State, potentially destabilizing the region. This development is a result of the US withdrawal from the region, which has created a power vacuum. The Islamic State has been known to target US interests and allies in the region, and the group's resurgence could lead to increased security risks for US companies operating in the region. The situation in Iraq is complex, with various factions vying for power, which could lead to further instability.",
-      "impact": "The potential resurgence of the Islamic State could negatively impact companies with operations in the Middle East, particularly those in the energy and defense sectors. Companies such as Halliburton (HAL) and Schlumberger (SLB) could see a decline in their operations in Iraq, leading to a decrease in earnings. Additionally, defense contractors such as Lockheed Martin (LMT) and Boeing (BA) could experience a decrease in demand for their services as the US reduces its military presence in the region. The increased security risks could also lead to a decrease in investor sentiment, making it more challenging for these companies to raise capital.",
-      "risks": [
-        "Increased security risks for US companies operating in the region",
-        "Decreased demand for defense services",
-        "Potential disruption to energy operations in Iraq"
-      ]
-    }
-  },
-  {
     "id": "8566099",
     "headline": "Wall Street is closing out a strong quarter. Plus, Lilly's mixed obesity drug trial data",
     "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
@@ -138,6 +184,29 @@
     }
   },
   {
+    "id": "8567485",
+    "headline": "EU's emergency diesel stocks are mainly in Germany and France - Reuters",
+    "summary": "EU's emergency diesel stocks are mainly in Germany and France  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdGFTWGFNZ2Rtd1d3UkVxTE1EQ2FxbW0wdGw3ZENrZnhNMllrVm9MeHhuTFk3c0o5VjZ6TTJZQThOSTJCOVMyZTd2SXBNMlRYd2JNODVRRGpqWU85dFlsTG5MbExxUlVEMHBBZmVjSVlxcHdwTFdteHd5UlVTOVVhS1FqblRPNXBKeVM4OWFPeVo5U0VoZUpsQldJNkdTdDU4bENvM0JRcmQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1790791664,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1790837046,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The European Union's emergency diesel stockpiles are primarily located in Germany and France, according to recent reports. This development is a response to the ongoing energy crisis and supply chain disruptions caused by the Ukraine-Russia conflict. The stockpiles are intended to provide a buffer against potential future supply shortages. The EU's diesel stockpiles are a key component of the region's energy security strategy. The focus on Germany and France suggests that these countries are likely to be at the forefront of the EU's energy security efforts.",
+      "impact": "The news is likely to have a neutral impact on the related stocks in the short term, as it does not directly affect the earnings outlook or valuation of any specific company. However, the medium-term implications could be more significant, as the EU's energy security strategy may lead to increased demand for diesel and other energy products, benefiting companies involved in the energy sector. The focus on Germany and France may also lead to increased investment in the energy infrastructure of these countries, potentially benefiting companies involved in the construction and energy sectors.",
+      "risks": [
+        "regulatory risks associated with the EU's energy security strategy",
+        "supply chain disruptions due to the ongoing conflict in Ukraine and Russia",
+        "increased competition for energy resources in the region"
+      ]
+    }
+  },
+  {
     "id": "8564812",
     "headline": "Israeli strikes kill seven people in Gaza, medics say - Reuters",
     "summary": "Israeli strikes kill seven people in Gaza, medics say  Reuters",
@@ -171,28 +240,14 @@
     "publishedAt": 1790790649
   },
   {
-    "id": "8566432",
-    "headline": "Saudi Arabia turned down Israeli request to allow its planes to pick up Israeli passengers, security sources say - Reuters",
-    "summary": "Saudi Arabia turned down Israeli request to allow its planes to pick up Israeli passengers, security sources say  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbFpGNk5ZNkpKU3hHQ0JreW1HOGw0bzZhNVpoTXM3SnV5cmh3ZFBhNTctYUJVc3FXT3FzNUZHWmpfdlotRU9PdV8xQVZMZTRhMmhiNkZKcUcxa1QyT1FFYWwxWS1DaVRVZ01oSzJzaldkckNRTEl5M2Q3S1dPaERfcnVlemdwaDhTWUJhZGh4LXhaZVo1T3VfeTRZMmtaYmY4WnJmWUhfOTUzcjlfbE1aYUMtakIwNThoTkxldnlBWWZKZ1AxckE?oc=5",
+    "id": "8567381",
+    "headline": "US oil, gas output up in Q3, producers wary of price outlook, Dallas Fed says - Reuters",
+    "summary": "US oil, gas output up in Q3, producers wary of price outlook, Dallas Fed says  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONkJmckhvcEF2eGlycEZxakpEWU9PdGhueEptR25MUXlsbkJMN0tiS2piSUlkeGtlNkxyaldDNUFNWjFlVGFIU1QzbnU1R1pXSWJnWTh2dDFhS1drZ0JRSHBLaTNJY0hwTXZ2c09hYXI4VlI0ZEhDdFpHRERnMWRTSDQxMHBXVWo1cVRVekpSSVkzQ0ZWMkhyWVRKNTRYc3U0X0pfY2VYNjFHZ0QwdGZQYWZjVENzUmt6MnI3ZlAyNzJpLWdQbDQ1NGd3?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1790785253,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1790815922,
-      "sentiment": "bearish",
-      "confidence": 0.7,
-      "summary": "Saudi Arabia's decision to deny Israeli planes permission to pick up Israeli passengers may heighten tensions between the two nations, exacerbating the already strained relationship. This development may have implications for the aviation industry, particularly for airlines operating in the region. The decision is likely driven by Saudi Arabia's stance on the Israeli-Palestinian conflict. The move may also impact the global airline industry, particularly those with significant operations in the Middle East.",
-      "impact": "This news may negatively impact the earnings outlook for Israeli airlines, such as El Al Airlines (TASE: ELAL) and Arkia Israeli Airlines (TASE: ARK), as they may face increased operational challenges and potential revenue losses due to the restricted access to Saudi airspace. In the short term, the news may lead to a decline in investor sentiment towards the Israeli airline industry, potentially affecting stock prices. In the medium term, the strained relations between Saudi Arabia and Israel may have a broader impact on the global airline industry, particularly those with significant operations in the Middle East, such as Emirates (DFM: EMAIR) and Qatar Airways (QAT: QCOM).",
-      "risks": [
-        "heightened tensions between Saudi Arabia and Israel",
-        "restricted access to Saudi airspace",
-        "negative impact on Israeli airline industry earnings",
-        "broader impact on global airline industry sentiment"
-      ]
-    }
+    "publishedAt": 1790786042
   },
   {
     "id": "8565363",
@@ -261,6 +316,40 @@
         "liquidity risks for investors who are overly cautious"
       ]
     }
+  },
+  {
+    "id": "8566432",
+    "headline": "Saudi Arabia turned down Israeli request to allow its planes to pick up Israeli passengers, security sources say - Reuters",
+    "summary": "Saudi Arabia turned down Israeli request to allow its planes to pick up Israeli passengers, security sources say  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbFpGNk5ZNkpKU3hHQ0JreW1HOGw0bzZhNVpoTXM3SnV5cmh3ZFBhNTctYUJVc3FXT3FzNUZHWmpfdlotRU9PdV8xQVZMZTRhMmhiNkZKcUcxa1QyT1FFYWwxWS1DaVRVZ01oSzJzaldkckNRTEl5M2Q3S1dPaERfcnVlemdwaDhTWUJhZGh4LXhaZVo1T3VfeTRZMmtaYmY4WnJmWUhfOTUzcjlfbE1aYUMtakIwNThoTkxldnlBWWZKZ1AxckE?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1790780220,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1790815922,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Saudi Arabia's decision to deny Israeli planes permission to pick up Israeli passengers may heighten tensions between the two nations, exacerbating the already strained relationship. This development may have implications for the aviation industry, particularly for airlines operating in the region. The decision is likely driven by Saudi Arabia's stance on the Israeli-Palestinian conflict. The move may also impact the global airline industry, particularly those with significant operations in the Middle East.",
+      "impact": "This news may negatively impact the earnings outlook for Israeli airlines, such as El Al Airlines (TASE: ELAL) and Arkia Israeli Airlines (TASE: ARK), as they may face increased operational challenges and potential revenue losses due to the restricted access to Saudi airspace. In the short term, the news may lead to a decline in investor sentiment towards the Israeli airline industry, potentially affecting stock prices. In the medium term, the strained relations between Saudi Arabia and Israel may have a broader impact on the global airline industry, particularly those with significant operations in the Middle East, such as Emirates (DFM: EMAIR) and Qatar Airways (QAT: QCOM).",
+      "risks": [
+        "heightened tensions between Saudi Arabia and Israel",
+        "restricted access to Saudi airspace",
+        "negative impact on Israeli airline industry earnings",
+        "broader impact on global airline industry sentiment"
+      ]
+    }
+  },
+  {
+    "id": "8567695",
+    "headline": "German inflation hits highest level in almost 3 years - reuters.com",
+    "summary": "German inflation hits highest level in almost 3 years  reuters.com",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNazk0TXpBNWs4Tnc3V21JZFhFQkJFWk5TcmVBcnRyekFjYWtrTWx5MmpmcWdsb1hCaERvUjU2bkpoTWhpMWQtQ0ctRndEdk1lUmc2bXVvcHpFUC1BNy1ONDBieHZWcUE1bmxtX2x0bVZMdW5ueUZvSDNlUy1wZ2RmUlA3am5hb0x5TnZBZ2s0Vm0tTUtRdHktQXVwMXhoR0hxOWtuV0hoYw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1790779554
   },
   {
     "id": "8565145",
@@ -350,6 +439,29 @@
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
     "publishedAt": 1790775394
+  },
+  {
+    "id": "8563686",
+    "headline": "Passengers foil bid to crash Dubai-Tel Aviv flight, Israel says, after co-pilot stabs pilot - Reuters",
+    "summary": "Passengers foil bid to crash Dubai-Tel Aviv flight, Israel says, after co-pilot stabs pilot  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWnpLNmZJUXN6UzQ0RlhKSFhxT2xYMWZ1R1VwYVdZX3ZuZWFTYUZyV1VYTVhralA5Y0ROVjlNVl9XOGpTSWhEcGM3UE01WVA3clNKcm5KdDZ2dUY1U3FyODdsWkkzSWs2VW5NZUJWQXFYQ0dxamNudlljZl92REs3SnFXSEUzTEswdjh4NnRia2VWZGd2TGE2SmZ6VDBQTXpiRDM0SDZSZ29ubUZUd3Zsa0E4LTBoRmxpSDRjd0JkcmhYbkNV?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1790775240,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1790758914,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "A flight from Tel Aviv to Israel was diverted to Saudi Arabia due to a brawl between the pilots. The incident occurred on a flight operated by a private Israeli airline. The brawl is currently being investigated by Israeli authorities. The incident highlights the potential risks and challenges faced by airlines operating in the region. The incident is not directly related to any specific company or industry, but it may impact the overall sentiment towards the airline industry.",
+      "impact": "The incident may lead to a short-term increase in insurance costs for airlines operating in the region, potentially affecting their profitability. In the medium term, the incident may lead to a decrease in passenger confidence in the airline industry, potentially impacting ticket sales and revenue. The impact on specific airlines is still unclear, but it may be more pronounced for airlines with operations in the region.",
+      "risks": [
+        "increased insurance costs",
+        "decreased passenger confidence",
+        "reduced ticket sales"
+      ]
+    }
   },
   {
     "id": "8564912",
@@ -445,6 +557,16 @@
     "publishedAt": 1790753358
   },
   {
+    "id": "8568509",
+    "headline": "Apple will sell 6 million iPhone duos in 2026, Counterpoint says",
+    "summary": "The figure hinges on how quickly Apple ramps up production of the new foldable hardware, says Counterpoint senior analyst Ivan Lam",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-30/apple-will-sell-6-million-iphone-duos-in-2026-counterpoint-says",
+    "source": "Bloomberg",
+    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+    "relatedSymbols": [],
+    "publishedAt": 1790749200
+  },
+  {
     "id": "8566433",
     "headline": "UK economy grew faster than thought in second quarter, cementing G7 lead - Reuters",
     "summary": "UK economy grew faster than thought in second quarter, cementing G7 lead  Reuters",
@@ -476,6 +598,16 @@
         "geopolitical risk"
       ]
     }
+  },
+  {
+    "id": "8558903",
+    "headline": "Qatari mediators press peace deal between US and Iran - Reuters",
+    "summary": "Qatari mediators press peace deal between US and Iran  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPODNDSVp4Qi1GQVY3bEJ2d0dpZzVBbEU4NUpYQzBpV2QwaW9uVGdwdHJnQkstVFlUSTNRazRHaUVFOVFWOTJXRjhnS2dncDBNLVVsa0JiWC0zN3ktZXdvV0tWN3FrakF4aUZIX0w2RjMwVHJWc0lBZUpYU09SWmsyUmdQd3dJdXh1N3lTb1pDZ1ZEYkhOUTVPV0lhak9YM3ZxTm1vR1BmRnFnZjNUMWF0M1NabHhLblkxd05FM3dn?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1790736959
   },
   {
     "id": "8563057",
@@ -531,7 +663,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1790732759,
+    "publishedAt": 1790732743,
     "analysis": {
       "version": 2,
       "generatedAt": 1790631493,
@@ -570,6 +702,52 @@
     }
   },
   {
+    "id": "8557774",
+    "headline": "Oil prices settle down 2.5% on signs Middle East exports recovering - Reuters",
+    "summary": "Oil prices settle down 2.5% on signs Middle East exports recovering  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPalFIekNtR2pWcEdaNDNsUElsMTRodXZvOVBPbFJnSFlhbDlqbldRbE1TTGVUeTJGN2NRTk4zUGFlWG1NTl9PUkVjNHVzbnZ4YVJxbXg5aVZfZXJzYWhDa3FfZl92OG5Ic3ZNWEluX0N5ZV9aRlRYYXVYeUNUR3lXVGo1dHp4dmdzaF9pZDVGMjVCUGptMU5YcmlzcEhBa2t1NTZMMmsyeFVBWnNPLVJxS2NoM0FIUEQ0Q2ZF?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1790729286,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1790735321,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Oil prices have declined 2.5% as signs of recovering Middle East exports have reduced concerns about a potential supply shortage. The Middle East is a significant oil-producing region, and any changes in its production levels can impact global oil prices. The news suggests that oil prices may not face the same upward pressure as previously anticipated. This development may lead to a decrease in the earnings potential for companies involved in the oil industry.",
+      "impact": "The decline in oil prices may have a short-term positive impact on companies involved in the oil industry, such as oil producers and refiners, as reduced costs may boost their profitability. However, this may also lead to a decrease in the stock prices of companies that rely heavily on high oil prices, such as oil service companies. The medium-term impact will depend on the sustainability of the recovering Middle East exports and the overall demand for oil. The decline in oil prices may also lead to a decrease in the attractiveness of oil-related investments, affecting the sentiment and liquidity of related stocks.",
+      "risks": [
+        "Uncertainty about the sustainability of the recovering Middle East exports",
+        "Potential changes in global oil demand",
+        "Increased competition in the oil industry"
+      ]
+    }
+  },
+  {
+    "id": "8558696",
+    "headline": "Battered bond market braces for a new era of interest rates - Reuters",
+    "summary": "Battered bond market braces for a new era of interest rates  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUFJEcnNjUGNwM1N4MlNkdG1pZ0VwVmt4cWhUZ2t0UkN4aHlRNzVyR3hCd2dUMG1FRWszT05VOUN4MUhDSGhXQUhIamhNWWJJNUpGXzZWcFc2Mk5Hcl9yNXBaaWVDVDlZQWg0d2xIRGl0RFhqWjJlR1ZORGlrNXRmdGZxSF9URFQ3Zzc5d2dER1g4U3hvZDZXMHNKVlhFaGRBRmRKRVJR?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1790729257,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1790667191,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The article reports on the potential rise in interest rates, which could lead to a shift in the bond market. The current bond market has been battered, and investors are preparing for a new era of interest rates. This could be driven by the Federal Reserve's monetary policy decisions, which have a significant impact on interest rates. A rise in interest rates would make borrowing more expensive for companies and individuals, potentially affecting their earnings and cash flows.",
+      "impact": "The increase in interest rates could lead to a decline in bond prices in the short term, affecting the value of bond holdings for investors. In the medium term, this could impact the earnings of companies with high levels of debt, as higher interest expenses could reduce their profitability. The rise in interest rates could also lead to a decrease in consumer spending and economic growth, as borrowing becomes more expensive.",
+      "risks": [
+        "interest rate risk",
+        "debt burden risk",
+        "economic slowdown risk"
+      ]
+    }
+  },
+  {
     "id": "8563058",
     "headline": "US Senate blocks measure demanding report on rights violations in West Bank - Reuters",
     "summary": "US Senate blocks measure demanding report on rights violations in West Bank  Reuters",
@@ -599,6 +777,29 @@
         "Global demand slowdown risk",
         "Price volatility risk",
         "Geopolitical tensions risk"
+      ]
+    }
+  },
+  {
+    "id": "8562538",
+    "headline": "Joy mixed with fear as US forces quit Iraq leaving potential security vacuum - Reuters",
+    "summary": "Joy mixed with fear as US forces quit Iraq leaving potential security vacuum  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOemFDVTJ6blJhRFNIeVgzYzJoRzUtcG45RURTckFyYzJZb2RlX0g5TndKd1lqbmdSOG1HREZRTFZaM3dSTFZaQ3ZrQTg3a2xSZ2YyRldVT2JCMDZlVmVJOVFHTjI3TnExSktyZ25ZMjU5cXZrdDlITjVTOC11a2sxbmRjd2pvZC10UlRDQlRYclVTREt3S2c5TXRLc1NkdUxJcGFz?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1790726460,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1790735151,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The US forces' exit from Iraq has emboldened Iran's proxies and the Islamic State, potentially destabilizing the region. This development is a result of the US withdrawal from the region, which has created a power vacuum. The Islamic State has been known to target US interests and allies in the region, and the group's resurgence could lead to increased security risks for US companies operating in the region. The situation in Iraq is complex, with various factions vying for power, which could lead to further instability.",
+      "impact": "The potential resurgence of the Islamic State could negatively impact companies with operations in the Middle East, particularly those in the energy and defense sectors. Companies such as Halliburton (HAL) and Schlumberger (SLB) could see a decline in their operations in Iraq, leading to a decrease in earnings. Additionally, defense contractors such as Lockheed Martin (LMT) and Boeing (BA) could experience a decrease in demand for their services as the US reduces its military presence in the region. The increased security risks could also lead to a decrease in investor sentiment, making it more challenging for these companies to raise capital.",
+      "risks": [
+        "Increased security risks for US companies operating in the region",
+        "Decreased demand for defense services",
+        "Potential disruption to energy operations in Iraq"
       ]
     }
   },
@@ -720,29 +921,6 @@
         "geopolitical risk",
         "economic uncertainty risk",
         "COVID-19 pandemic impact"
-      ]
-    }
-  },
-  {
-    "id": "8557774",
-    "headline": "Oil prices settle down 2.5% on signs Middle East exports recovering - Reuters",
-    "summary": "Oil prices settle down 2.5% on signs Middle East exports recovering  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPalFIekNtR2pWcEdaNDNsUElsMTRodXZvOVBPbFJnSFlhbDlqbldRbE1TTGVUeTJGN2NRTk4zUGFlWG1NTl9PUkVjNHVzbnZ4YVJxbXg5aVZfZXJzYWhDa3FfZl92OG5Ic3ZNWEluX0N5ZV9aRlRYYXVYeUNUR3lXVGo1dHp4dmdzaF9pZDVGMjVCUGptMU5YcmlzcEhBa2t1NTZMMmsyeFVBWnNPLVJxS2NoM0FIUEQ0Q2ZF?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1790710244,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1790735321,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Oil prices have declined 2.5% as signs of recovering Middle East exports have reduced concerns about a potential supply shortage. The Middle East is a significant oil-producing region, and any changes in its production levels can impact global oil prices. The news suggests that oil prices may not face the same upward pressure as previously anticipated. This development may lead to a decrease in the earnings potential for companies involved in the oil industry.",
-      "impact": "The decline in oil prices may have a short-term positive impact on companies involved in the oil industry, such as oil producers and refiners, as reduced costs may boost their profitability. However, this may also lead to a decrease in the stock prices of companies that rely heavily on high oil prices, such as oil service companies. The medium-term impact will depend on the sustainability of the recovering Middle East exports and the overall demand for oil. The decline in oil prices may also lead to a decrease in the attractiveness of oil-related investments, affecting the sentiment and liquidity of related stocks.",
-      "risks": [
-        "Uncertainty about the sustainability of the recovering Middle East exports",
-        "Potential changes in global oil demand",
-        "Increased competition in the oil industry"
       ]
     }
   },
@@ -1169,16 +1347,6 @@
     "publishedAt": 1790665200
   },
   {
-    "id": "8558903",
-    "headline": "Qatari mediators press peace deal between US and Iran - Reuters",
-    "summary": "Qatari mediators press peace deal between US and Iran  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPODNDSVp4Qi1GQVY3bEJ2d0dpZzVBbEU4NUpYQzBpV2QwaW9uVGdwdHJnQkstVFlUSTNRazRHaUVFOVFWOTJXRjhnS2dncDBNLVVsa0JiWC0zN3ktZXdvV0tWN3FrakF4aUZIX0w2RjMwVHJWc0lBZUpYU09SWmsyUmdQd3dJdXh1N3lTb1pDZ1ZEYkhOUTVPV0lhak9YM3ZxTm1vR1BmRnFnZjNUMWF0M1NabHhLblkxd05FM3dn?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1790664300
-  },
-  {
     "id": "8558904",
     "headline": "Israel kills senior Hamas commander in Gaza strike - reuters.com",
     "summary": "Israel kills senior Hamas commander in Gaza strike  reuters.com",
@@ -1242,29 +1410,6 @@
     "publishedAt": 1790657409
   },
   {
-    "id": "8558696",
-    "headline": "Battered bond market braces for a new era of interest rates - Reuters",
-    "summary": "Battered bond market braces for a new era of interest rates  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUFJEcnNjUGNwM1N4MlNkdG1pZ0VwVmt4cWhUZ2t0UkN4aHlRNzVyR3hCd2dUMG1FRWszT05VOUN4MUhDSGhXQUhIamhNWWJJNUpGXzZWcFc2Mk5Hcl9yNXBaaWVDVDlZQWg0d2xIRGl0RFhqWjJlR1ZORGlrNXRmdGZxSF9URFQ3Zzc5d2dER1g4U3hvZDZXMHNKVlhFaGRBRmRKRVJR?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1790657220,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1790667191,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The article reports on the potential rise in interest rates, which could lead to a shift in the bond market. The current bond market has been battered, and investors are preparing for a new era of interest rates. This could be driven by the Federal Reserve's monetary policy decisions, which have a significant impact on interest rates. A rise in interest rates would make borrowing more expensive for companies and individuals, potentially affecting their earnings and cash flows.",
-      "impact": "The increase in interest rates could lead to a decline in bond prices in the short term, affecting the value of bond holdings for investors. In the medium term, this could impact the earnings of companies with high levels of debt, as higher interest expenses could reduce their profitability. The rise in interest rates could also lead to a decrease in consumer spending and economic growth, as borrowing becomes more expensive.",
-      "risks": [
-        "interest rate risk",
-        "debt burden risk",
-        "economic slowdown risk"
-      ]
-    }
-  },
-  {
     "id": "8563258",
     "headline": "Nothing debuts $399 ‘Pro’ headphones with glass, metal design",
     "summary": "Aimed at audio enthusiasts who want the most detailed and customizable listening experience, the new product’s biggest enhancements are performance-related",
@@ -1292,7 +1437,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1790651700,
+    "publishedAt": 1790652406,
     "analysis": {
       "version": 2,
       "generatedAt": 1790667238,
@@ -18861,190 +19006,6 @@
         "Increased costs for industries and companies",
         "Potential impact on earnings outlook",
         "Shift to more efficient fuel usage and potential investment in renewable energy"
-      ]
-    }
-  },
-  {
-    "id": "8455572",
-    "headline": "Gurman on Schiller’s Departure and Ternus’s Goals for the App Store",
-    "summary": "",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-09-06/apple-s-new-ceo-like-cook-pay-package-shows-he-s-going-nowhere-sept-9-event-mtpvpcj1?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODcwNTgwOCwiZXhwIjoxNzg5MzEwNjA4LCJhcnRpY2xlSWQiOiJUS1k0ODFLR0NURlEwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.VPVLP03ZWjEbH48efjq8Q7n0_vk4t7OynYeaUbOfYzU&leadSource=article-gifting",
-    "source": "Bloomberg",
-    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
-    "relatedSymbols": [],
-    "publishedAt": 1788714001,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1788822165,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "Apple's new CEO, Ternus, has outlined his goals for the App Store, including increasing revenue and improving the developer experience. This comes after the departure of John Schiller, a key figure in the App Store's development. The new CEO's goals are aimed at boosting the App Store's revenue, which has been a focus for Apple in recent years. The App Store has been a significant revenue driver for Apple, and any changes to its policies or operations could have a material impact on the company's earnings.",
-      "impact": "The potential impact on Apple's stock is minimal in the short-term, but the medium-term effects could be significant. The new CEO's goals for the App Store may lead to increased revenue and improved developer satisfaction, which could boost Apple's earnings and sentiment. However, there are risks associated with the App Store's revenue growth, including the potential for increased competition from alternative app stores and regulatory scrutiny. The impact on Apple's stock will depend on the company's ability to execute on its goals and navigate these risks.",
-      "risks": [
-        "Regulatory scrutiny of the App Store's policies and operations",
-        "Increased competition from alternative app stores",
-        "Potential for decreased developer satisfaction if changes to the App Store's policies are not well-received"
-      ]
-    }
-  },
-  {
-    "id": "8450155",
-    "headline": "'Everyone has an AI secret': This artist has spent a year collecting and sharing hundreds of anonymous AI confessions",
-    "summary": "Through her project \"What We Tell AI,\" Olivia Tai has collected over 350 handwritten secrets about how people use AI to navigate dating, work and life.",
-    "url": "https://www.cnbc.com/2026/09/06/artists-ai-secrets-project-collects-hundreds-of-anonymous-confessions.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108358633-1788464853723-confessions_spread.png?v=1788465351&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1788703201,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1788712111,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Olivia Tai's art project, 'What We Tell AI,' collects anonymous confessions about how people use AI in their daily lives. The project reveals that people are increasingly turning to AI chatbots for help with dating, breakups, and social interactions. This trend is reflected in a recent survey by Pew Research Center, which found that 1 in 4 American adults use AI chatbots daily. The project highlights the growing reliance on AI in everyday life, which may have implications for the tech industry and related stocks.",
-      "impact": "The increasing adoption of AI chatbots may lead to a boost in demand for companies that provide AI-related services, such as language processing and virtual assistants. This could positively impact stocks of companies like Microsoft, which offers Copilot, a popular AI chatbot. However, the growing reliance on AI may also raise concerns about data privacy and security, which could negatively impact stocks of companies that handle sensitive user data.",
-      "risks": [
-        "data privacy risk",
-        "security risk",
-        "increased competition risk"
-      ]
-    }
-  },
-  {
-    "id": "8449954",
-    "headline": "Parents who are really good at handling tantrums do 5 things—their kids become more emotionally intelligent, says psychologist",
-    "summary": "\"These kids become more emotionally intelligent, which helps them weather setbacks, embrace independence and try new things,\" says Juli Fraga.",
-    "url": "https://www.cnbc.com/2026/09/06/parents-who-are-really-good-at-handling-tantrums-do-things-psychologist.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108359193-1788550868025-gettyimages-2247827936-dsc07223.jpeg?v=1788551009&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1788701761,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1788712213,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "A psychologist suggests that parents who effectively handle tantrums by staying calm, acting like detectives to identify underlying emotions, and helping their children name their emotions can raise emotionally intelligent kids. This approach can lead to long-term success for children, enabling them to weather setbacks, embrace independence, and try new things. The article provides actionable advice for parents, which may indirectly influence consumer behavior and household spending patterns.",
-      "impact": "The news may have a positive impact on the consumer goods and services industry, as emotionally intelligent children may lead to increased demand for products and services that cater to their emotional well-being. However, the direct impact on stocks is limited, and the article does not mention any specific companies or industries. The medium-term effect could be a positive shift in consumer behavior and increased spending on emotional intelligence-related products and services.",
-      "risks": [
-        "Limited direct impact on stocks",
-        "Uncertainty around the effectiveness of the approach in real-world settings",
-        "Potential for increased spending on emotional intelligence-related products and services to be a short-term trend rather than a long-term shift"
-      ]
-    }
-  },
-  {
-    "id": "8451064",
-    "headline": "Gulf stocks end mixed as US-Iran tensions linger - Reuters",
-    "summary": "Gulf stocks end mixed as US-Iran tensions linger  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ0p3Z1BrSWNCTWNSWDZpV2wwa3BDeThuSENKVmViTkt6c2t6ZVBzTXM3VEh4R3VqVVVqajVseFFmMEZrcl9tc2Z4YkZFM0lNTi0ycGxpSlF3cTRyaFNMNnh4UjBjZjhLejdnYVcxdWRHMnRsVGQ3UjhzVm5MTl9Ya1BVdllnNU9ZS0NLdE9ETVF4c0ZfMTZDMXRWM0JPSk9L?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1788700063,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1788728037,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Gulf stocks ended the day in a mixed state as tensions between the US and Iran continued to linger. The news has no direct impact on the business fundamentals of Gulf-based companies, but it may affect investor sentiment and market volatility. The region's economies are heavily reliant on oil exports, and any escalation of tensions could lead to a decline in oil prices, negatively impacting the region's economic growth. However, the current situation is uncertain, and the impact on the region's economies is not yet clear.",
-      "impact": "The mixed sentiment in the Gulf stock market is likely to continue in the short term, with investors remaining cautious due to the ongoing tensions. This may lead to a decrease in trading volumes and a widening of bid-ask spreads, making it more challenging for investors to enter or exit positions. In the medium term, a prolonged period of tensions could lead to a decline in oil prices, negatively impacting the earnings outlook of oil-dependent companies in the region. This, in turn, could lead to a decline in stock prices and a decrease in investor sentiment.",
-      "risks": [
-        "Escalation of US-Iran tensions leading to a decline in oil prices",
-        "Decrease in investor sentiment and market volatility",
-        "Negative impact on oil-dependent companies' earnings outlook"
-      ]
-    }
-  },
-  {
-    "id": "8450055",
-    "headline": "Iran's Hormuz leverage wanes as US economic squeeze bites - Reuters",
-    "summary": "Iran's Hormuz leverage wanes as US economic squeeze bites  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORkdaTTdQcUYwZTFzUm1OdFRGTGpYN012MkM3R0ZzZVZnV2dfTUxLbmF3RGdzakZiNWhhVEpqQzhyemo0am1yaDRmMlRJenQ5VzNJWmxGeWhOWVo5bW5FT1laODBqUkhGRlNCaWNLTHROWEVyVlk2Tmtxa3laLVJ4LVUwWTFXWlZrby13Vl95NVo4VDNCQkNmdHkyeXhIWU54NlNQc0Q0WXc?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1788698880,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1788712162,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Iran's leverage to disrupt global oil markets by closing the Strait of Hormuz has waned due to the US economic squeeze, which has reduced the country's ability to fund its military and proxy forces. The US has imposed sanctions on Iran, limiting its access to international finance, and has also increased its military presence in the region. This has made it more difficult for Iran to carry out its threats to close the Strait of Hormuz, a crucial waterway that accounts for a significant portion of global oil exports. As a result, oil prices have stabilized, and the risk of a major disruption to global oil supplies has decreased.",
-      "impact": "The news is likely to have a negative impact on oil prices, which may lead to a decrease in the earnings of oil-producing companies. This could be a short-term positive for oil-related stocks, but in the medium term, it may lead to a decrease in investment in the oil sector as companies become less profitable. The news may also have a negative impact on companies that have exposure to Iran, such as those with investments in the country or that do business with Iranian companies.",
-      "risks": [
-        "Decrease in oil prices",
-        "Negative impact on oil-related stocks",
-        "Decrease in investment in the oil sector"
-      ]
-    }
-  },
-  {
-    "id": "8450157",
-    "headline": "At least 25 killed in bus crash on Cape Verde's Fogo island, agency says - Reuters",
-    "summary": "At least 25 killed in bus crash on Cape Verde's Fogo island, agency says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdS1pLU5lZ2t0OVdmLTlYbjA2QzlpOWhNOVdVampxQVNMWWhERU11UnB3RlBkWUtnUDhXVUhEX0t2SERmSjB2NnUxVTVaYzZ5SWZjZEFVRGREOVYzWlRTYndMSFZqX1VSa2dzMTVoZHlyVUM5elNKaXlCRmFndThaSGwyb2ZSYmlENHNxZUpUWEVPd25mWVZKZFd1MThJN2E5VHluVl9R?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1788697200,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1788712261,
-      "sentiment": "neutral",
-      "confidence": 0.5,
-      "summary": "A bus crash on Cape Verde's Fogo island resulted in at least 25 fatalities, according to an agency report. The incident occurred on a remote island with limited economic ties to the global market. The news does not directly relate to any specific company or industry, but it may have a broader impact on the sentiment towards African markets or emerging economies. The incident highlights the risks associated with traveling in developing regions. The economic impact is likely to be minimal.",
-      "impact": "The news may have a short-term negative impact on the sentiment towards Cape Verde's tourism industry, potentially affecting airlines and travel companies that operate in the region. However, the medium-term impact is expected to be limited, as the incident is an isolated event and not directly related to any specific company or industry. The incident may also have a broader impact on the sentiment towards African markets or emerging economies, but this is highly speculative and dependent on various macroeconomic factors.",
-      "risks": [
-        "sentiment risk",
-        "macroeconomic risk",
-        "event risk"
-      ]
-    }
-  },
-  {
-    "id": "8448439",
-    "headline": "Israeli strikes kill seven in southern Lebanon - Reuters",
-    "summary": "Israeli strikes kill seven in southern Lebanon  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNi1QZjVMMzI3QlpNZ2pKMVNjZFNqU2RWb093aGtUS3ZmZWdBNHNjbXFMdVZZS2NkMnd3cWlQZlVqenBlRGpQdkFJSjNuMU5wVlNCa1pqNXVzV0NIRVFGc3Z6bGpMZXp3dzc1Y3dfM2xTNnZCSi0weHFlMUtaZG0yS2p6S2ZhWXRUeS0xYkFOOE5vLUlYaFJnMy1KdGh0ejFDbEpzOFRlaEs2ZG1ZY09hUW05WjhYYVBndHBtVjFIQ0szMVVOVzc4?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1788697001,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1788687691,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "The Israeli military has launched a strike in southern Lebanon in response to Hezbollah launching drones. This incident is a continuation of the ongoing tensions between Israel and Hezbollah. The background is the long-standing conflict between the two entities. The strike is a military action, but it does not directly impact the business fundamentals of any specific company. However, it may have a broader impact on regional stability and the geopolitical landscape.",
-      "impact": "The incident is unlikely to have a significant short-term impact on the stock market, but it may lead to increased volatility in the region. In the medium term, the ongoing tensions could lead to increased military spending in Israel, potentially benefiting defense contractors such as Elbit Systems (ESLT) and Israel Aerospace Industries (ARSPY). However, the impact on these companies' stocks will depend on the specific nature and duration of the conflict.",
-      "risks": [
-        "Escalation of the conflict leading to increased military spending",
-        "Uncertainty in the region affecting investor sentiment",
-        "Potential impact on tourism and trade in the region"
-      ]
-    }
-  },
-  {
-    "id": "8449643",
-    "headline": "AI data centers are transforming rural land markets — and fueling a backlash",
-    "summary": "The data center buildout is driving up the price of rural land as some farmers and property owners buy in and others push back against development.",
-    "url": "https://www.cnbc.com/2026/09/06/ai-data-centers-are-transforming-rural-land-markets-fueling-backlash.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108354712-1787768514226-gettyimages-2292182187-dji_20260826130903_0048_d_q8u6ngun.jpeg?v=1787768547&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1788696001,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1788700281,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The rapid growth of AI data centers is driving up rural land prices, leading to a backlash from local residents and farmers who are being priced out of their land. This trend is fueled by the increasing demand for computing power and electricity to power and cool the servers. As a result, companies are racing to build data centers and related facilities in rural areas, transforming local land uses and economies. The surge in land purchases for data centers has reached $6 billion in the first half of 2026, a 79% increase from last year.",
-      "impact": "The potential impact on related stocks could be negative in the short term due to increased competition for land and resources, potentially leading to higher costs and decreased profitability. In the medium term, the growth of the data center industry could lead to increased demand for related industries such as power and water infrastructure, potentially benefiting companies in these sectors. However, the backlash from local residents and farmers could also lead to increased regulatory scrutiny and potential delays or cancellations of data center projects, negatively impacting stocks related to the industry.",
-      "risks": [
-        "regulatory approval risk",
-        "land acquisition and supply chain risk",
-        "increased competition for resources and talent"
       ]
     }
   }
