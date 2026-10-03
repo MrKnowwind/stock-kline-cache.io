@@ -459,7 +459,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1790943369
+    "publishedAt": 1790943369,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1791021902,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "UAE stocks fell due to the ongoing US-Iran deadlock, which has heightened tensions in the region. The conflict has led to concerns about the stability of the UAE's economy, particularly in the energy sector. The UAE is a significant oil producer, and any disruption in global oil supplies could negatively impact its economy. The market's reaction is also influenced by the uncertainty surrounding the US-Iran conflict, which has created a risk-off sentiment among investors.",
+      "impact": "The US-Iran conflict could lead to a short-term decline in oil prices, which would negatively impact the earnings of energy companies in the UAE. This could also lead to a medium-term decrease in investor confidence, resulting in lower stock prices. The UAE's economy is heavily reliant on oil exports, making it vulnerable to fluctuations in global oil prices. The ongoing conflict could also lead to a decrease in tourism and trade, further exacerbating the economic downturn.",
+      "risks": [
+        "Global oil price volatility risk",
+        "Economic instability risk",
+        "Decrease in investor confidence risk"
+      ]
+    }
   },
   {
     "id": "8574067",
@@ -469,7 +482,67 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/108370318-1790781020672-Traders-Photo-20260929-KK-PRESS-002.jpg?v=1790781195&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1790937446
+    "publishedAt": 1790937446,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1791021954,
+      "sentiment": "bullish",
+      "confidence": 0.7,
+      "summary": "A large options trade on the State Street Utilities Select Sector SPDR ETF (XLU) suggests that some traders believe the sector is done falling and that interest rates may have topped out. This is supported by a week-long change of pace in options flows around the sector, which has traded with a high correlation with the 10-year yield. The trade involves a bet that the sector will stop going down or rally, with a maximum payout between $39 and $42 by expiry. Additionally, a separate bond trade at the Chicago Mercantile Exchange also indicates a potential reversal in short-term rates.",
+      "impact": "The potential end of the bond sell-off could have a positive impact on utility stocks, particularly those with high dividend yields. This could lead to a short-term rally in the sector, as investors become more optimistic about the sector's prospects. Medium-term, a stabilization in interest rates could also lead to improved earnings outlook and valuation for utility stocks, as the sector faces reduced competition for its payouts from fixed income. This could lead to increased investor sentiment and liquidity in the sector.",
+      "risks": [
+        "Interest rate volatility risk",
+        "Economic slowdown risk",
+        "Regulatory changes risk"
+      ]
+    }
+  },
+  {
+    "id": "8574300",
+    "headline": "EXCLUSIVE: US tells France and Germany to release diesel stocks or face US export ban, sources say - Reuters",
+    "summary": "EXCLUSIVE: US tells France and Germany to release diesel stocks or face US export ban, sources say  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOGxXWEZnTW1hNUtCOXY4NTJTWHQ0ZkZoUEZsYkt3c3lQTVU1NDFVbHJnSkNJbXRTdzZCSlBWY2tsc0stTk5CSGk1Ymhpb0NwaG1WUEg5Ni1pVlFxQnRMc093VGllN0c5ektIdWYyN191ZW5ZX1lrUjhVODk2TUpsRXFQT3hQdGhVUzdjdklkSENrWm8yWmgwVkE1bEd6TTB2RHBsUHpZVExmTUhkbjhINTVrZ3ZpQnNsQW9wc0FBMWk4XzF0WEI1aXZBQQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1790931096,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1791022012,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The US government has issued a warning to France and Germany, threatening to impose an export ban on diesel fuel if they do not release their diesel stocks. This move is likely a response to concerns over diesel fuel shortages and potential price increases in the US. The US relies heavily on imports of diesel fuel, and a ban on exports from France and Germany could exacerbate these supply chain issues. The news highlights the ongoing tensions between the US and European countries over trade and energy policies. The US government's actions may be seen as a way to exert pressure on European countries to comply with its demands.",
+      "impact": "The potential export ban on diesel fuel from France and Germany could lead to short-term supply chain disruptions and increased prices in the US. This could negatively impact companies that rely on diesel fuel, such as transportation and logistics firms. In the medium term, the news could also lead to increased tensions between the US and European countries, potentially affecting trade agreements and global economic growth. The impact on US-based energy companies that import diesel fuel from Europe may be significant, potentially leading to a revaluation of their business models and operations.",
+      "risks": [
+        "supply chain disruption risk",
+        "price volatility risk",
+        "trade tensions risk",
+        "global economic slowdown risk"
+      ]
+    }
+  },
+  {
+    "id": "8578109",
+    "headline": "Russia's A7 payment platform denies links to Iran after US sanctions - Reuters",
+    "summary": "Russia's A7 payment platform denies links to Iran after US sanctions  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYkM5TERwVXJuSnNvbjkxdHRyeV93TnVWekJRby1OU3ZSRHAzSVVwajZGT2gyNl9MenVlZzB2bTNHNlFGQUdvc1Q1QkUtUTNZT1QxS0FiTi1VOV9VWUhYLXY3eFNzbmZsbnE1NkZQS1BhNl91X2VCMGd2NzlGeDlqQ1pRRC1ISE1WbEl6RmdfZk0xWHA1UWdaWWxxaG43R0Y2VXdhSEhudmlaQQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1790929423,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1791022068,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "Russia's A7 payment platform has denied any links to Iran following US sanctions. The statement comes after the US imposed sanctions on several Iranian entities, sparking concerns about potential connections to Russian companies. A7 payment platform is a Russian fintech company that provides payment services, and the denial suggests that the company is not directly involved with Iran. The news does not provide any concrete evidence of a link between A7 and Iran, and the company's statement appears to be a standard response to the sanctions. The background is that US sanctions on Iran have led to concerns about potential links to Russian companies, and A7's denial is an attempt to alleviate these concerns.",
+      "impact": "The denial by A7 payment platform is unlikely to have a significant impact on the company's stock price in the short-term, as the news is not concrete and the company's statement is standard. However, if the US were to impose sanctions on A7, it could lead to a significant decline in the company's stock price, as it would indicate a material risk to the business. The medium-term impact will depend on the company's ability to maintain its operations and reputation in the face of increasing US-Iran tensions.",
+      "risks": [
+        "US sanctions risk",
+        "Reputation risk",
+        "Operational disruption risk"
+      ]
+    }
   },
   {
     "id": "8573738",
@@ -479,7 +552,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1790927278
+    "publishedAt": 1790927278,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1791022127,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The recent surge in LNG shipments through the Hormuz Strait, the world's busiest oil chokepoint, is a positive sign for the global energy market. The uptick in LNG shipments since the start of the US-Iran war indicates increased demand for energy, particularly in Asia, where many countries rely heavily on imported LNG. This development is a result of the ongoing trade tensions and sanctions imposed on Iran, which have led to a decrease in Iranian oil exports. As a result, other countries have increased their LNG imports to meet their energy needs.",
+      "impact": "The increased LNG shipments through Hormuz are likely to have a positive impact on companies involved in the LNG industry, such as LNG producers, shipping companies, and energy traders. This is because higher demand for LNG can lead to increased revenue and earnings for these companies. In the short-term, we expect to see an increase in the stock prices of these companies as investors react to the positive news. In the medium-term, we expect the increased demand for LNG to lead to higher production and investment in the LNG industry, further driving growth and profitability for these companies.",
+      "risks": [
+        "Potential geopolitical tensions in the Middle East could disrupt LNG shipments and impact global energy markets",
+        "Increased demand for LNG may lead to higher production costs and reduced profit margins for companies",
+        "The global energy market is subject to fluctuations in demand and supply, which could impact LNG shipments and prices"
+      ]
+    }
   },
   {
     "id": "8573839",
@@ -569,6 +655,16 @@
         "Global economic slowdown risk"
       ]
     }
+  },
+  {
+    "id": "8574959",
+    "headline": "Chinese refiners suspend October fuel exports to bolster stocks, sources say - Reuters",
+    "summary": "Chinese refiners suspend October fuel exports to bolster stocks, sources say  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM1hVSHNzaElkOXlpSnE5VW5DTEx5a2Z4WWt3NDFHVTd6TEhKQ3JHeFJhZDBsZXBkYy1MV29ZNjdPTGtHNlpwUEVLNEpBMUowZEItTjBraElOaGQ1U3U4NUxvWnNNM0JWeUlMVllMZkF1aHNKanVkVElwcmctX003R2dja0RsTkNXcEtZaVk5WmYzWW5KWEZpODdwUWxWOWdYYTBqVUF4SUg4ZVduWV9YdFN1RlNyZVExTWV1SGlpTE5nZnpxS3d3SmNIWVE?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1790898657
   },
   {
     "id": "8570797",
@@ -972,6 +1068,29 @@
     }
   },
   {
+    "id": "8566104",
+    "headline": "Israel to ramp up pilot checks after flydubai scare - Reuters",
+    "summary": "Israel to ramp up pilot checks after flydubai scare  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX1J1a0RUdFZlOHpZY3RrM0FDaWVyamd4Rk5hUHZ4aVpMZHFwd0NpS1RYaGthT0NkOXNKRUlnam9PelFpUGM5V1RTN2hvMzY5X0EwWUlDa2xLUUp6SlNBRktQWE1JSERza004ellOTTFMaXR0N293VDl1WGxWRnd6eXVsN3BlZ1RwMkRNa1VJM05qc3RqS2k3OU15M1RrVEpTbnFwaA?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1790866235,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1790802220,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "Israel plans to increase pilot checks after a flydubai scare, which is expected to lead to increased costs and potential delays in the aviation industry. The move is a response to a recent incident involving a flydubai flight that experienced a technical issue. The increased pilot checks will be implemented to enhance safety measures. The aviation industry is a significant contributor to Israel's economy, with El Al Israel Airlines being a major player.",
+      "impact": "The increased pilot checks are likely to lead to higher costs for airlines operating in Israel, which could negatively impact their profitability. In the short term, this may lead to increased fares for passengers, potentially benefiting airlines with a strong brand reputation and loyal customer base. However, in the medium term, the increased safety measures could lead to improved investor sentiment and a potential increase in airline stocks, particularly those with a strong safety record.",
+      "risks": [
+        "Regulatory risk: Increased costs and potential delays may lead to regulatory scrutiny and potential fines.",
+        "Operational risk: Delays and increased costs could impact airline operations and passenger satisfaction.",
+        "Reputation risk: Airlines with a weak safety record may face reputational damage and potential loss of market share."
+      ]
+    }
+  },
+  {
     "id": "8570151",
     "headline": "Billionaire family offices bet on geothermal energy, brain implants in September",
     "summary": "Personal investment firms of John Arnold, Stanley Druckenmiller are investing in cutting-edge technology such as geothermal energy and brain implants.",
@@ -1220,16 +1339,6 @@
     }
   },
   {
-    "id": "8574300",
-    "headline": "EXCLUSIVE: US tells France and Germany to release diesel stocks or face US export ban, sources say - Reuters",
-    "summary": "EXCLUSIVE: US tells France and Germany to release diesel stocks or face US export ban, sources say  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOGxXWEZnTW1hNUtCOXY4NTJTWHQ0ZkZoUEZsYkt3c3lQTVU1NDFVbHJnSkNJbXRTdzZCSlBWY2tsc0stTk5CSGk1Ymhpb0NwaG1WUEg5Ni1pVlFxQnRMc093VGllN0c5ektIdWYyN191ZW5ZX1lrUjhVODk2TUpsRXFQT3hQdGhVUzdjdklkSENrWm8yWmgwVkE1bEd6TTB2RHBsUHpZVExmTUhkbjhINTVrZ3ZpQnNsQW9wc0FBMWk4XzF0WEI1aXZBQQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1790841060
-  },
-  {
     "id": "8573414",
     "headline": "India’s $133-billion cash deluge puts RBI on hawkish path",
     "summary": "In an effort to prevent excess liquidity from adding to price pressures, the RBI has drained more than 1 trillion rupees ($10.4 billion) through bond sales and other measures; market players expect it to announce further action",
@@ -1280,16 +1389,6 @@
     "publishedAt": 1790833800
   },
   {
-    "id": "8574959",
-    "headline": "Chinese refiners suspend October fuel exports to bolster stocks, sources say - Reuters",
-    "summary": "Chinese refiners suspend October fuel exports to bolster stocks, sources say  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM1hVSHNzaElkOXlpSnE5VW5DTEx5a2Z4WWt3NDFHVTd6TEhKQ3JHeFJhZDBsZXBkYy1MV29ZNjdPTGtHNlpwUEVLNEpBMUowZEItTjBraElOaGQ1U3U4NUxvWnNNM0JWeUlMVllMZkF1aHNKanVkVElwcmctX003R2dja0RsTkNXcEtZaVk5WmYzWW5KWEZpODdwUWxWOWdYYTBqVUF4SUg4ZVduWV9YdFN1RlNyZVExTWV1SGlpTE5nZnpxS3d3SmNIWVE?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1790830620
-  },
-  {
     "id": "8573094",
     "headline": "IPO valuations dip in India as local funds flex pricing muscle",
     "summary": "The median price-to-book ratio for IPOs that raised at least ₹1,000 crore has dropped to 7.4 times in 2026, compared to 10.2 times last year, according to data from fintech platform Chittorgarh",
@@ -1317,7 +1416,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1790823420,
+    "publishedAt": 1790823623,
     "analysis": {
       "version": 2,
       "generatedAt": 1790836839,
@@ -1555,29 +1654,6 @@
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
     "publishedAt": 1790790462
-  },
-  {
-    "id": "8566104",
-    "headline": "Israel to ramp up pilot checks after flydubai scare - Reuters",
-    "summary": "Israel to ramp up pilot checks after flydubai scare  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX1J1a0RUdFZlOHpZY3RrM0FDaWVyamd4Rk5hUHZ4aVpMZHFwd0NpS1RYaGthT0NkOXNKRUlnam9PelFpUGM5V1RTN2hvMzY5X0EwWUlDa2xLUUp6SlNBRktQWE1JSERza004ellOTTFMaXR0N293VDl1WGxWRnd6eXVsN3BlZ1RwMkRNa1VJM05qc3RqS2k3OU15M1RrVEpTbnFwaA?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1790788140,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1790802220,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "Israel plans to increase pilot checks after a flydubai scare, which is expected to lead to increased costs and potential delays in the aviation industry. The move is a response to a recent incident involving a flydubai flight that experienced a technical issue. The increased pilot checks will be implemented to enhance safety measures. The aviation industry is a significant contributor to Israel's economy, with El Al Israel Airlines being a major player.",
-      "impact": "The increased pilot checks are likely to lead to higher costs for airlines operating in Israel, which could negatively impact their profitability. In the short term, this may lead to increased fares for passengers, potentially benefiting airlines with a strong brand reputation and loyal customer base. However, in the medium term, the increased safety measures could lead to improved investor sentiment and a potential increase in airline stocks, particularly those with a strong safety record.",
-      "risks": [
-        "Regulatory risk: Increased costs and potential delays may lead to regulatory scrutiny and potential fines.",
-        "Operational risk: Delays and increased costs could impact airline operations and passenger satisfaction.",
-        "Reputation risk: Airlines with a weak safety record may face reputational damage and potential loss of market share."
-      ]
-    }
   },
   {
     "id": "8567381",
@@ -19037,29 +19113,6 @@
         "Increased operational risks for companies with significant business ties to Iran",
         "Decreased investor sentiment towards companies with exposure to Iran",
         "Potential decline in earnings for companies with significant business ties to Iran"
-      ]
-    }
-  },
-  {
-    "id": "8460801",
-    "headline": "25 years after 9/11, Americans fear domestic extremists more than foreign attacks, Reuters/Ipsos poll finds - reuters.com",
-    "summary": "25 years after 9/11, Americans fear domestic extremists more than foreign attacks, Reuters/Ipsos poll finds  reuters.com",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU0JwamE0MHdKdGs4ektXZm9NMlpXUXVsVG42aTdQVFA5YTZZam9qc1d2ZzNFRVZnMkQyazNjdkJQb181dHNsVjFaRFg4OURFNVZyMUs0Sy1NVjROT2prU0l3a3gxQnJuRzVuYWpJVTM4N1BvT1dzR253RTByTXJxQVZTd1E2UFZ1anNzN2xYN201cGphd3JRNFNiblBaZVhHcjlyREt2eWZmYU5ZMXI4TUZUWHlPaldBMlE2bHlZVmRWdw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1788882943,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1788910951,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "A Reuters/Ipsos poll found that 25 years after the 9/11 attacks, Americans fear domestic extremists more than foreign attacks. This shift in sentiment may be attributed to increased awareness and concern about domestic terrorism, as well as the rise of far-right and far-left extremist groups in the US. The poll results suggest a change in public perception, with 53% of respondents citing domestic extremism as a greater threat, compared to 29% who fear foreign attacks. This shift in sentiment may have implications for the US government's approach to counter-terrorism and national security policies.",
-      "impact": "The increased concern about domestic extremism may lead to increased spending on domestic security measures, potentially benefiting companies involved in the security and defense industries. However, this could also lead to increased scrutiny and regulation of these industries, potentially affecting their profitability. In the short term, this news may not have a significant impact on the stock market, but it may contribute to a longer-term shift in investor sentiment and preferences towards companies with a focus on domestic security and defense.",
-      "risks": [
-        "regulatory risk",
-        "increased competition in the security and defense industries",
-        "potential backlash against companies perceived as benefiting from increased domestic security spending"
       ]
     }
   }
