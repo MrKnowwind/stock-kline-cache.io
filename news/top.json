@@ -122,7 +122,20 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/108300006-1777561346540-gettyimages-2272481063-260425_sangas_044.jpeg?v=1790982120&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1791198001
+    "publishedAt": 1791198001,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1791246477,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Airlines are experiencing resilient travel demand despite high airfare prices, which are driven by volatile fuel costs and supply chain disruptions. Jet fuel prices have risen significantly, and airlines are passing these costs on to consumers by increasing fares and fees. This trend is expected to continue, with holiday travel demand potentially increasing further. As a result, airline profits will be challenging to come by.",
+      "impact": "The news is bearish for airlines in the short term, as high fuel costs and resilient demand will likely lead to further fare increases, potentially affecting earnings outlook and valuation. In the medium term, this trend may also impact airline sentiment and liquidity, as investors reassess the industry's profitability. The increasing demand for luxurious seats and pricier offerings may also lead to a shift in passenger behavior, potentially benefiting some airlines more than others.",
+      "risks": [
+        "Further fuel price increases",
+        "Supply chain disruptions and Strait of Hormuz risks",
+        "Slowing demand growth"
+      ]
+    }
   },
   {
     "id": "8580879",
@@ -2995,7 +3008,20 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/108370124-1790768679700-gettyimages-2297281354-visionhaus-mancityheadlines_0139.jpeg?v=1790768687&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1790769322
+    "publishedAt": 1790769322,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1791246527,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Manchester City has been found guilty of breaching Premier League financial rules, hiding a $1 billion funding stream through 'sham' sponsorship deals. The club has been accused of intentionally misrepresenting its finances, which could lead to severe sanctions. The case has geopolitical implications, with potential repercussions on the team's ownership and the Premier League's reputation. This development may raise concerns about the club's financial transparency and accountability.",
+      "impact": "The guilty verdict may lead to severe sanctions, including relegation to the Championship, fines, or title forfeiture. This could negatively impact the team's earnings outlook, as well as its valuation and sentiment. The uncertainty surrounding the outcome may also affect liquidity, as investors and fans wait for a resolution. The Premier League's reputation is also at stake, potentially affecting its ability to attract top talent and sponsors.",
+      "risks": [
+        "Regulatory risk: potential for severe sanctions and reputational damage",
+        "Financial risk: impact on earnings outlook, valuation, and liquidity",
+        "Reputational risk: damage to the Premier League's reputation and ability to attract top talent"
+      ]
+    }
   },
   {
     "id": "8564673",
@@ -3005,7 +3031,20 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/108368260-1790359531546-gettyimages-2295231797-INDIA_SEMICON.jpeg?v=1790359643&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1790768085
+    "publishedAt": 1790768085,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1791246578,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Micron Technology's upcoming earnings report is a key event for the market, with options traders positioning for a positive outcome. The market is expecting a smaller 7% move, which is slightly less than the four-quarter average move of 8%. This suggests a more measured rally, which may be welcome after the recent volatility in the AI bull market. Options flows indicate a bullish bias, with 61,000 calls bought versus 37,000 puts, and 75% of the total premium traded tied to calls.",
+      "impact": "The potential impact on Micron's stock could be significant, with a rally above the 1,150 strike level potentially leading to a further increase to the 1,300 level. However, higher bond yields and surging rates could eventually take their toll on the stock, particularly if the AI trade is affected. The earnings report will provide insight into Micron's performance and outlook, which could influence sentiment and valuation.",
+      "risks": [
+        "higher bond yields and surging rates",
+        "potential disappointment in earnings report",
+        "impact on the AI trade"
+      ]
+    }
   },
   {
     "id": "8564554",
@@ -3015,7 +3054,21 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/108367739-1790282022471-gettyimages-1408834057-1w3a0239.jpeg?v=1790282046&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1790767801
+    "publishedAt": 1790767801,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1791246629,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Holiday retail sales are expected to reach $1 trillion, driven by inflation and higher tax refunds, but with actual unit growth being thinner due to rising prices. Despite macroeconomic pressures, consumers are expected to continue spending, with 70% of growth coming from in-store sales and 30% from e-commerce. However, consumers are becoming more selective and value-seeking, looking for discounts and markdowns, and switching between brands and retailers. This trend is expected to shape holiday shopping this season.",
+      "impact": "The expected strong holiday sales may lead to a short-term boost in earnings for retailers, particularly those with a strong in-store presence. However, the medium-term impact may be muted as consumers become more price-sensitive and seek value, potentially affecting profit margins. The trend towards value-seeking behaviors and private-label brands may also impact the sales of premium brands. Additionally, the increasing use of buy now, pay later options may lead to a shift in consumer spending habits, potentially benefiting companies that offer these services.",
+      "risks": [
+        "inflation risk",
+        "consumer spending slowdown risk",
+        "disruption from changing consumer habits risk",
+        "valuation risk due to increased competition"
+      ]
+    }
   },
   {
     "id": "8563057",
@@ -3048,7 +3101,20 @@
     "source": "Bloomberg",
     "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
     "relatedSymbols": [],
-    "publishedAt": 1790764049
+    "publishedAt": 1790764049,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1791246678,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Coca-Cola is considering an initial public offering (IPO) for its Indian unit, with a valuation of about $10 billion. The IPO is expected to consist largely of shares sold by existing investors. This move suggests that Coca-Cola is optimistic about the growth prospects of its Indian business and is looking to tap into the country's expanding beverage market. The IPO is expected to be filed in December, indicating a potential listing in the first half of 2027.",
+      "impact": "The potential IPO could have a positive impact on the stock price of The Coca-Cola Company, as it may lead to a re-rating of the company's valuation and increased investor confidence. Additionally, the listing of the Indian unit could attract new investors to the company and increase liquidity in the stock. However, the success of the IPO is subject to various risks, including regulatory approval and market conditions.",
+      "risks": [
+        "Regulatory approval risk",
+        "Market volatility risk",
+        "Integration risk"
+      ]
+    }
   },
   {
     "id": "8566433",
