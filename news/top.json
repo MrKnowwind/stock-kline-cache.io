@@ -1,5 +1,97 @@
 [
   {
+    "id": "8581313",
+    "headline": "This startup wants to reduce liquidation risk from margin calls on prediction markets",
+    "summary": "Edge Markets' new infrastructure aims to support institutional trading for markets that operate around the clock.",
+    "url": "https://www.cnbc.com/2026/10/06/this-firm-aims-to-reduce-liquidation-risk-from-margin-calls-on-prediction-markets.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108270194-1772061798995-gettyimages-2263571474-l1049595_copy_qr8q5yqa.jpeg?v=1776174259&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1791291680,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1791294324,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Edge Markets is developing an automated system to support institutional trading on prediction markets, particularly for perpetual futures that trade 24/7. The system, called Edge Pro, allows institutions to pre-authorize capital for margin calls, reducing the risk of liquidation when traditional banking systems are closed. This infrastructure addresses a significant challenge in the prediction market industry, where perpetual futures trade continuously but traditional banking systems do not. Edge Markets is partnering with several companies to offer this service, which is expected to launch later this year.",
+      "impact": "The introduction of Edge Pro is likely to increase the adoption of perpetual futures and other 24/7 trading products, benefiting companies like Kalshi, River Markets, ParlayX, OpenMarkets, and Pikkit. This could lead to higher trading volumes and revenue growth for these companies in the short to medium term. The increased adoption of perpetual futures may also lead to a more efficient allocation of capital, reducing the need for costly margin calls and improving overall market resilience.",
+      "risks": [
+        "Regulatory approval risk",
+        "Integration risk with existing systems",
+        "Dependence on partnership with Edge Markets"
+      ]
+    }
+  },
+  {
+    "id": "8581307",
+    "headline": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+    "summary": "Stock futures are green across the board, with the Nasdaq posed to build on yesterday's all-time closing high.",
+    "url": "https://www.cnbc.com/investingclub/2026/10/06/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108315160-1780405505625-gettyimages-2279396876-042a7119_ivdimlpx.jpeg?v=1780405543&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1791290879,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1791294370,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Stock futures are trading in the green, with the Nasdaq poised to build on its all-time closing high from the previous day. This positive momentum is a reflection of investor optimism and confidence in the market. The article highlights Jim Cramer's top 10 things to watch in the stock market on Tuesday, but the specific stocks and events are not mentioned. However, the overall tone suggests a positive market sentiment.",
+      "impact": "The potential impact of this news is a short-term boost in stock prices, particularly for technology and growth-oriented stocks. This could be driven by increased investor sentiment and liquidity, which may lead to higher valuations. The medium-term effect may be a continuation of the current market trend, with the Nasdaq potentially reaching new highs.",
+      "risks": [
+        "valuation risk",
+        "sentiment shift risk",
+        "macroeconomic downturn risk"
+      ]
+    }
+  },
+  {
+    "id": "8581266",
+    "headline": "SpaceX stock is taking off again, but with one key difference this time",
+    "summary": "Traders are assigning less than a 50% chance SpaceX touches $225 at any point between now and July, according to options pricing.",
+    "url": "https://www.cnbc.com/2026/10/06/spacex-stock-is-taking-off-again-but-with-one-key-difference-this-time.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108371184-1790874420672-gettyimages-2298079426-_75a9319_usvcniwc.jpeg?v=1790874532&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1791287051,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1791294424,
+      "sentiment": "bullish",
+      "confidence": 0.7,
+      "summary": "SpaceX's stock has rallied 50% from its lows, reaching a new high of $171 and reclaiming its IPO price. The company's recent success, including a record-breaking rocket delivery, has led to increased optimism among traders. Morgan Stanley analyst Adam Jonas reiterated a $300 price target for the company. Implied volatility is lower than expected, suggesting a more gradual price increase. Options traders are assigning a less than 50% chance of SpaceX reaching $225 by July.",
+      "impact": "The rally in SpaceX's stock could have a positive impact on the overall market, particularly on other space-related stocks. The increased optimism and momentum could also benefit Tesla, with which SpaceX has a high correlation. However, the lower implied volatility suggests that the stock may not reach new highs as quickly as expected, which could lead to a longer-term investment horizon for traders. Additionally, the increased liquidity and trading volume may lead to a more stable stock price in the short term.",
+      "risks": [
+        "valuation risk: the stock may be overvalued given its recent price increase",
+        "earnings risk: SpaceX's future earnings may not meet expectations, leading to a decline in stock price",
+        "regulatory risk: changes in government regulations could impact SpaceX's business and stock price"
+      ]
+    }
+  },
+  {
+    "id": "8581257",
+    "headline": "A Harvard expert says this ‘sneaky’ communication mistake can lead to worse decisions",
+    "summary": "Harvard professor Leslie John explains why assuming you know what a partner thinks can undermine decisions — and what to do instead.",
+    "url": "https://www.cnbc.com/make-it/2026/10/06/communication-assumptions-decision-making.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108372921-1791238580650-david_ellison_and_ynon_kreiz.png?v=1791238675&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1791283610,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1791294474,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "Harvard professor Leslie John emphasizes the importance of clear communication in business partnerships, particularly when making difficult decisions. She advises setting clear rules of engagement, dividing decision rights, and embracing messy brainstorming moments. This approach can help partners avoid misunderstandings and make more effective decisions. The article highlights the challenges faced by co-CEOs David Ellison and Ynon Kreiz as they integrate Paramount Skydance and Warner Bros. Discovery, requiring them to divide responsibilities and determine decision-making processes.",
+      "impact": "The article's insights on effective communication in business partnerships may not have a direct impact on the stocks of Paramount Skydance and Warner Bros. Discovery in the short term. However, if the companies' leadership can successfully implement these strategies, it could lead to more effective decision-making and potentially improved earnings outlook in the medium term. This, in turn, could positively impact the stocks' valuation and sentiment.",
+      "risks": [
+        "integration risk",
+        "leadership effectiveness risk",
+        "communication breakdown risk"
+      ]
+    }
+  },
+  {
     "id": "8581100",
     "headline": "Wall Street rewards Microsoft's AI pivot. A longtime skeptic says it's just the beginning",
     "summary": "Melius Research's Ben Reitzes has warned about AI disrupting legacy software providers for years. Now, he loves Microsoft's place in the AI race.",
@@ -136,6 +228,39 @@
         "Slowing demand growth"
       ]
     }
+  },
+  {
+    "id": "8581221",
+    "headline": "BPCL plans $3 billion bond sale to fund Brazil offshore oil project",
+    "summary": "India’s second-biggest state-owned refiner plans several funding tranches as it expands overseas energy investments and seeks to diversify supply",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-05/india-s-bpcl-plans-3-billion-bond-sale-to-fund-brazil-oil-bet",
+    "source": "Bloomberg",
+    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+    "relatedSymbols": [],
+    "publishedAt": 1791190869,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1791294527,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "BPCL plans to raise $3 billion through a bond sale to fund its Brazilian offshore oil project, marking a significant expansion of its overseas energy investments. This move is part of the company's strategy to diversify its supply chain and reduce dependence on domestic oil production. The funding will be used to develop the Brazilian project, which is expected to increase BPCL's oil production and revenue. This development is a positive signal for the company's growth prospects and ability to execute its expansion plans.",
+      "impact": "The bond sale is likely to have a positive impact on BPCL's financials, with the company's debt-to-equity ratio expected to improve as a result of the new funding. This, in turn, could lead to an upgrade in the company's credit rating, making it more attractive to investors. The successful execution of the Brazilian project is also expected to boost BPCL's earnings growth, potentially leading to an increase in its stock price. The company's expansion into new markets and diversification of its supply chain are likely to improve its long-term growth prospects and sentiment towards the stock.",
+      "risks": [
+        "Execution risk: The success of the Brazilian project depends on the company's ability to execute the project on time and within budget.",
+        "Market volatility: The bond sale and the company's expansion plans may be affected by market volatility and changes in interest rates.",
+        "Regulatory risks: The project may be subject to regulatory approvals and changes in government policies that could impact the company's operations and profitability."
+      ]
+    }
+  },
+  {
+    "id": "8581209",
+    "headline": "Schneider Electric expands in AI with $22.6 billion PTC purchase",
+    "summary": "Schneider Electric to acquire PTC for $22.6 billion, expanding AI-driven industrial software amid a race in factory automation.",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-05/schneider-electric-to-acquire-ptc-for-more-than-20-billion",
+    "source": "Bloomberg",
+    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+    "relatedSymbols": [],
+    "publishedAt": 1791188364
   },
   {
     "id": "8581191",
@@ -19681,91 +19806,5 @@
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
     "publishedAt": 1788947789
-  },
-  {
-    "id": "8464160",
-    "headline": "Silicon Valley-backed Covenant unveils low-cost, mass-producible cruise missile - Reuters",
-    "summary": "Silicon Valley-backed Covenant unveils low-cost, mass-producible cruise missile  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZE5kcjA3d1MxbDhjSmJWd3U4N25rQ1dOMWZYVTl3T1BVZ3BIY2hLX1N4YkZpWmYtTS1Nc3BqUWxZOUlRaGVIRDRTancxU0hMMldsYURpRlQ3RF83R2hBODk2Nk03WG5HYUxTNE9zVHhTZ0FhQXpqeEk4N0d1dHFudXlRVkJ1b1hONnJmY2lKcHNHcG42a1RubllfZXZhOUdMUFgtUTFpY29FYm94RGNIeDIteUhZX1Z2VlJPWmptV1dwSnRfZ2xOdVpnM0JVS2xOQnhKZmNaYU0?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1788945161,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1788955029,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Covenant, a Silicon Valley-backed company, has unveiled a low-cost, mass-producible cruise missile. This development is significant as it addresses a key challenge in the defense industry: high production costs. The new missile's affordability and scalability could disrupt the market, potentially leading to increased adoption by military forces worldwide. This, in turn, could drive demand for related defense contractors' services and equipment. The company's partnership with Silicon Valley investors suggests a strong financial backing, which could aid in further development and production.",
-      "impact": "The unveiling of the low-cost cruise missile is likely to have a positive impact on the defense industry, particularly on companies involved in the production of similar missiles. In the short term, this could lead to increased demand for related services and equipment, potentially driving earnings growth for these companies. In the medium term, the adoption of this technology could lead to a shift in the market, with Covenant becoming a major player in the defense industry. This, in turn, could drive up the valuation of related stocks.",
-      "risks": [
-        "Regulatory approval risk: The new missile's production and deployment may be subject to regulatory hurdles, which could delay or even prevent its adoption.",
-        "Competition risk: Other defense contractors may respond to Covenant's innovation by developing their own low-cost, mass-producible missiles, potentially eroding Covenant's market share.",
-        "Technical risk: The missile's performance and reliability may be affected by technical issues, which could impact its adoption and reputation."
-      ]
-    }
-  },
-  {
-    "id": "8468765",
-    "headline": "Apple to unveil $2,000 foldable iPhone duo at high-stakes event",
-    "summary": "Apple unveils a $2,000 foldable iPhone Duo alongside the iPhone 18 Pro, new watches, and AirPods at a major event.",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-09/apple-event-details-2-000-iphone-duo-apple-watch-series-12-recording-feature",
-    "source": "Bloomberg",
-    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
-    "relatedSymbols": [],
-    "publishedAt": 1788944899
-  },
-  {
-    "id": "8465134",
-    "headline": "UK food price inflation to rise above 6% next year, industry says - Reuters",
-    "summary": "UK food price inflation to rise above 6% next year, industry says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMFVPRGRLS3ZXeGxNaTE3TUVSaDRINGRnUUtEMW5ibjNUWnJfaTZGUGs4QXB6a2tXM2ZhcEFsTW9jM1oyM1ZIMHYwek90a3hqTWFZMnBXVGxFMG1oMTNYS1RteDRUU2ZQRmcyNXVuWVJYcEtHVmN2UmdFMjFRYzhBM2hRaV8yS2JqU2N4SjdocnpzVWkzTUoycXUwNTVKcXk4Z2pjT3ZFaEo?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1788942336
-  },
-  {
-    "id": "8464599",
-    "headline": "Hungary loses court fight over frozen Russian asset profits for Ukraine - Reuters",
-    "summary": "Hungary loses court fight over frozen Russian asset profits for Ukraine  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeWFkZTlWaGVTNDVFbnZKYXhRR05uOEhVajJyMmV1akxrT29oWWk2Z1FzVEE3VzRYd3FiUGtKemlqQ1A1cEQyWVBmRmhBQnZ1R1RBUGh1RHpUSHhPMVlzRXBsSm1qSmNEREtuYi1pRXFCQ21uRkZKSGxvaHJGeUtoODV4QVdnUzZYOENld1hKbGc0UWtnZWVLU1d3blJFMEN5UE1ucEJLQWFRRXgwZ3c?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1788940911
-  },
-  {
-    "id": "8463829",
-    "headline": "Brent settles at over $100 a barrel as Middle East conflict intensifies - Reuters",
-    "summary": "Brent settles at over $100 a barrel as Middle East conflict intensifies  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcV81aHB4Z3dteWpsZGxOM01KRFFXZ3hhZlBUUlJUb3Y0QXVXaWpfSXJxRGx0R2Z2LXRrb25jYWJBTUNxc3llTFNVdmRoQzkxRjlLc0czRUxKczdyYU8temtJbXJRUXNOUGpuRkdXenNZTFVLX3ZhUkFQZ191cjV3amlwZ0RocHBoUHNZYzVfZy1pSlFNNGlma0NMMFVvRFIxSXNUOTRyYnNDWU1qc0JxWmpDRHMyTmVj?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1788939420,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1788954927,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Brent crude oil prices have surged above $100 a barrel due to the intensification of the Middle East conflict. The conflict has raised concerns about oil supply disruptions, leading to a sharp increase in prices. The Middle East is a significant oil-producing region, and any disruptions to production can have a ripple effect on the global oil market. This development is likely to benefit oil-related companies and potentially lead to higher earnings for oil producers.",
-      "impact": "The rise in oil prices is expected to positively impact oil-related stocks, particularly those with significant exposure to Brent crude. Companies with high oil production costs may benefit from higher oil prices, leading to improved earnings. In the short-term, oil stocks may experience a surge in trading activity and prices, driven by investor sentiment and the potential for higher earnings. Medium-term, the increased oil prices may lead to higher demand for oil-related services and equipment, benefiting companies in the oil services sector.",
-      "risks": [
-        "Global economic slowdown risk",
-        "Oil demand slowdown risk",
-        "Supply chain disruptions risk"
-      ]
-    }
-  },
-  {
-    "id": "8464158",
-    "headline": "Oil vessel transit costs through Hormuz escalated after Iran war, ENOC exec says - Reuters",
-    "summary": "Oil vessel transit costs through Hormuz escalated after Iran war, ENOC exec says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdHlPZEpNUC1MaWVNQWdvWmhnbFNmQTRITnd3T0RaVVhJUVJuUHZQMzAzLWcyWm9pS2l0dDd5aEFYWjREcnlQU3NTTGVMVk1OZVgteXNNdUlKYjJ0dnhSak9KRDhGNUh3UTgzcGI2SGU4cHdEa3VtaFhpZHZkOXJ3Sm8xYjZlOHgwdlY4T2dZUHczZ3ZCSmRPUGlTQjhRZmJscFNiNjNTYURvaVpvZEZpa2JJa0Jnakg2NGJsWlBpNWNUQkFoTVBJQ3JYZ1pDUQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1788934740
   }
 ]
