@@ -7,7 +7,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1792086627,
+    "publishedAt": 1792102401,
     "analysis": {
       "version": 2,
       "generatedAt": 1792092280,
@@ -19,6 +19,75 @@
         "Escalation of conflict leading to supply chain disruptions",
         "Increased production costs due to higher oil prices",
         "Reduced earnings for oil companies with operations in the region"
+      ]
+    }
+  },
+  {
+    "id": "8625932",
+    "headline": "KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in decades",
+    "summary": "KFC is switching from PepsiCo to Coca-Cola as its beverage supplier for U.S. restaurants.",
+    "url": "https://www.cnbc.com/2026/10/15/kfc-coca-cola-pepsi-switch.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108004225-1720646729678-gettyimages-2161532031-js1_7834_axvogotf.jpeg?v=1792092510&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1792094021,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1792104104,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "KFC is switching from PepsiCo to Coca-Cola as its beverage supplier in the US, a move that marks a significant change for the Yum Brands chain. This decision comes as KFC aims to win back US diners and compete with rivals like Chick-fil-A and Popeyes. The switch is expected to be completed by the end of the first quarter of 2027. This change is seen as a critical step in the Kentucky Fried Comeback, allowing KFC to innovate and offer new beverages to customers. KFC has been loyal to PepsiCo since 1986, but the company has been looking to refresh its offerings and attract new customers.",
+      "impact": "The switch to Coca-Cola is expected to have a positive impact on Yum Brands' earnings outlook, as KFC's new beverages and marketing efforts may attract new customers and increase sales. This could lead to increased revenue and profitability for Yum Brands. Additionally, the partnership with Coca-Cola may also provide Yum Brands with access to new distribution channels and marketing opportunities. The medium-term impact on the stock price may be driven by the success of KFC's new offerings and the company's ability to execute on its strategy.",
+      "risks": [
+        "integration risk: the successful integration of Coca-Cola's products and marketing efforts with KFC's existing operations and brand identity",
+        "execution risk: the ability of KFC to execute on its strategy and successfully launch new beverages and marketing campaigns",
+        "market competition risk: the competitive landscape of the fast-food industry and the potential for other chains to respond to KFC's changes"
+      ]
+    }
+  },
+  {
+    "id": "8625827",
+    "headline": "Nvidia and Cisco confirm multimillion-dollar donations to Trump's White House ballroom",
+    "summary": "Big Tech gave millions to Trump's White House ballroom, documents show",
+    "url": "https://www.cnbc.com/2026/10/15/trump-ballroom-nvidia-cisco-donations.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108356675-1788207196062-gettyimages-2291330125-ah704060.jpeg?v=1788207813&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1792093420,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1792104151,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Nvidia and Cisco have donated millions to President Trump's White House ballroom renovation project, with Nvidia donating $25 million. The donations were made through a nonprofit trust, and the companies stated that their support is nonpartisan. The news highlights the close relationships between tech companies and the Trump administration, particularly in the areas of antitrust and regulation. This has led to concerns over potential influence on policy decisions and federal contract awards. The donations were made in addition to hundreds of millions in contracts secured by tech companies during Trump's second term.",
+      "impact": "The news is likely to have a neutral impact on Nvidia and Cisco's stocks in the short term, as the donations are not directly related to their core business operations. However, the story may contribute to a negative sentiment shift towards the tech industry as a whole, potentially affecting the overall market. In the medium term, the story may influence the companies' relationships with the government and their ability to secure future contracts. This could have a positive impact on their earnings outlook if they are able to secure more contracts.",
+      "risks": [
+        "regulatory approval risk",
+        "influence on policy decisions",
+        "negative sentiment shift"
+      ]
+    }
+  },
+  {
+    "id": "8625934",
+    "headline": "Some 'classic' money advice is actually pretty new—and not all of it is worthwhile, says historian",
+    "summary": "A historian explains why housing, investing and budgeting advice has changed over time — and what that can teach you about money today.",
+    "url": "https://www.cnbc.com/make-it/2026/10/15/money-advice-history-joseph-moore.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108414832-1792079784425-gettyimages-2252191655-mage27207.jpeg?v=1792079818&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1792092653,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1792104199,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "A historian's research reveals that many common personal finance advice is not timeless, but rather a product of recent changes in the economy. Housing affordability issues, for instance, are not new and have been present throughout history, with solutions such as frequent moving and sharing housing being employed in the past. This challenges the notion that current financial wisdom is universally applicable. The historian's findings suggest that people should look to historical solutions to current problems rather than relying solely on recent advice.",
+      "impact": "The news may lead to a reevaluation of the housing market and the potential for increased mobility and sharing of housing, which could positively impact companies that provide services related to moving and short-term rentals. However, this may also lead to increased competition in these sectors, potentially affecting their profitability. In the short-term, the news may not have a significant impact on the broader market, but it could influence consumer behavior and sentiment in the medium-term.",
+      "risks": [
+        "Increased competition in the housing and moving services sectors",
+        "Potential disruption to traditional business models",
+        "Uncertainty around the effectiveness of historical solutions in addressing current housing affordability issues"
       ]
     }
   },
@@ -146,7 +215,43 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1792082023
+    "publishedAt": 1792082023,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1792104247,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Israel's decision to halt commercial goods entering Gaza due to merchants suspending coordination is a negative development. The move is likely a response to the economic blockade imposed on Gaza. This blockade has been in place since 2007, and its continuation may lead to increased economic hardship for Palestinians. The situation may lead to increased instability in the region, which could have broader implications for regional and global markets.",
+      "impact": "This news may have a negative impact on companies with exposure to the Israeli economy or those with operations in the region. The decision may lead to increased costs for companies operating in Israel, particularly those in the logistics and transportation sectors. In the short term, this may lead to a decrease in earnings for these companies, which could negatively impact their stock prices. Medium-term, the increased instability in the region may lead to a decrease in investor sentiment, making it more challenging for companies to access capital and potentially leading to a decrease in stock prices.",
+      "risks": [
+        "Increased costs for companies operating in Israel",
+        "Decreased investor sentiment in the region",
+        "Potential decrease in earnings for companies with operations in Israel"
+      ]
+    }
+  },
+  {
+    "id": "8625726",
+    "headline": "How are Yemen’s Houthis attacking Saudi Arabia so effectively? - Reuters",
+    "summary": "How are Yemen’s Houthis attacking Saudi Arabia so effectively?  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZWFHTEc0MTZnaUdvM3VtaW8zVFgyc2tmemRfV2l0N3VhaDVCc2hCb3N5UEtJZE84Qi1fTWFadXZfNm1WS092aW1heFM1YVlVQnp3aTd2dHQ4T2stMWVoTTJNMmRtcnNxbGdxMG9kNTV2QTFkeXFfcjhTVUxhTkVVNHBxTTBrSlA2QkpHcHVqUFNQNXp5UmlJb1JzQXBZZFlhSUNfTzRyS19zYXZNczJPUWhETDc?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1792080824,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1792104298,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Yemen's Houthis have been attacking Saudi Arabia effectively due to their ability to launch drone and missile strikes from the north, taking advantage of the rugged terrain and Saudi Arabia's limited air defenses. The Houthis have also been using Iranian-supplied drones and missiles, which have improved their capabilities. This has led to increased tensions between Saudi Arabia and Iran, with Saudi Arabia launching airstrikes against Houthi targets in Yemen. The conflict has resulted in a humanitarian crisis, with thousands of civilians affected.",
+      "impact": "The ongoing conflict may have a short-term negative impact on the oil and defense industries in Saudi Arabia, as the country's oil production and exports may be disrupted. The medium-term impact may be a shift in the regional balance of power, with the Houthis gaining more influence in the region. This could lead to increased tensions between Saudi Arabia and its neighbors, potentially affecting the country's economic and political stability.",
+      "risks": [
+        "Escalation of the conflict and potential disruption to oil production and exports",
+        "Increased tensions between Saudi Arabia and its neighbors, potentially affecting economic and political stability",
+        "Humanitarian crisis and potential long-term impact on the region"
+      ]
+    }
   },
   {
     "id": "8625187",
@@ -470,16 +575,6 @@
     }
   },
   {
-    "id": "8624000",
-    "headline": "Albania's Education Ministry catches fire as student protests turn violent - Reuters",
-    "summary": "Albania's Education Ministry catches fire as student protests turn violent  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcU10WXYxQ2VxSTZYcGJ4eUlDZzZnMVRDb2NRYS1VMFYzeDhWWFNpNXZFWFFjNTdYMnFYOUREb2FTa2V1bjRuY3BsalVQM3F3S00yUlpucGpET1lBUTdoZzRfVWZjSWVOS2lhc0tIT0FXY2JtSjUyOFR2ZUJyMENDUTRBeTFDV3lZbDR3Nm1OY0NtQ3hnMkd0eWRYSHlvZXRhXzZaV3lzT2VjbjNhMzBWbDdnR293QQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1792043971
-  },
-  {
     "id": "8624106",
     "headline": "Breakingviews - COMMENTARY: Gulf’s latest shock imperils a rapid recovery - Reuters",
     "summary": "Breakingviews - COMMENTARY: Gulf’s latest shock imperils a rapid recovery  Reuters",
@@ -653,8 +748,8 @@
   },
   {
     "id": "8622025",
-    "headline": "US considers easing sanctions on shadow fleet vessels to cut freight rates, official says - Reuters",
-    "summary": "US considers easing sanctions on shadow fleet vessels to cut freight rates, official says  Reuters",
+    "headline": "US considers removing sanctions on some shadow fleet vessels to cut freight rates, official says - Reuters",
+    "summary": "US considers removing sanctions on some shadow fleet vessels to cut freight rates, official says  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdC1hR0pwcGJWU2NSX0szSlhYNlBMYUc2Y1ktS0NseE5MeEVKdE9jUVVqUHlva3dxeDg4NXRTQXM0UlpyMWJlTHNSN1ZiOWFqcWdIX1NNcGRhYzBsak5iVnZrYnJaX2xGbkRLcjNrQmFkUUd2ejVHWm0ydVJ2RVJhS1VFbkRhTHg5MVJXbnJDQ3YtRmVLWWpKU2xwUXNZSzMtUWI4cjJfaXp4djM0V2lQQmc4X2VsaVkxMHFpVUZ2bWNLaldpQnBNZmNn?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1274,6 +1369,29 @@
     "publishedAt": 1791971373
   },
   {
+    "id": "8615826",
+    "headline": "EXCLUSIVE: Saudi Arabia to let executives attend FII conference remotely after attacks, sources say - Reuters",
+    "summary": "EXCLUSIVE: Saudi Arabia to let executives attend FII conference remotely after attacks, sources say  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUnMtSVRHNldwaFdHWWx4NlBQbHZLYjZvUVdHMWExSHFfVzNXLU9wQi1wblgwOE9jZlFaUjlzbDlxb2tFV085eUYwM2dyVkpkVHBVTjIzM2wtRlhUcjBmQ1I0YVNnUU53MEJTOGlWOE5SZ2xkdWRrVmlIZHNacjlfZWRJak51OWQ0OXFLWGlnWVpnd1haY3FRRXhfcGMtR3dlTVJTQ1FuOGxUaHZFY2NkcHVBMzFlcUV1WG5CTTVmM0F3dTlqam1qT2VvWQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1791968738,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1791938356,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Saudi Arabia plans to hold a hybrid format for its marquee Foreign Investors' Conference (FII) after recent attacks on the country's oil facilities. The decision comes as a response to the attacks, which have raised concerns about the country's security and stability. The hybrid format will allow for both in-person and virtual participation, providing flexibility for attendees. The conference is expected to attract foreign investors and promote Saudi Arabia's investment opportunities. The event aims to showcase the country's economic growth and investment potential.",
+      "impact": "The potential impact on stocks is neutral, as the news does not directly affect the earnings outlook or valuation of specific companies. However, the decision to hold a hybrid conference may increase investor interest in Saudi Arabia's economy and investment opportunities, potentially leading to a short-term increase in sentiment and liquidity. In the medium term, a successful conference could lead to increased foreign investment in the country, supporting economic growth and potentially benefiting companies with exposure to the Saudi market.",
+      "risks": [
+        "security risks associated with the attacks",
+        "uncertainty around the effectiveness of the hybrid conference format",
+        "potential impact on investor sentiment and confidence in Saudi Arabia's economy"
+      ]
+    }
+  },
+  {
     "id": "8623569",
     "headline": "Barclays plans to build from Ground Zero to tap India’s IPO boom",
     "summary": "The move would mark Barclays’ return to India’s ECM business after nearly a decade, allowing it to compete for underwriting mandates as the IPO pipeline stays strong after two straight years of unprecedented deals",
@@ -1325,6 +1443,16 @@
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
     "publishedAt": 1791961740
+  },
+  {
+    "id": "8624000",
+    "headline": "Albania's Education Ministry catches fire as student protests turn violent - Reuters",
+    "summary": "Albania's Education Ministry catches fire as student protests turn violent  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcU10WXYxQ2VxSTZYcGJ4eUlDZzZnMVRDb2NRYS1VMFYzeDhWWFNpNXZFWFFjNTdYMnFYOUREb2FTa2V1bjRuY3BsalVQM3F3S00yUlpucGpET1lBUTdoZzRfVWZjSWVOS2lhc0tIT0FXY2JtSjUyOFR2ZUJyMENDUTRBeTFDV3lZbDR3Nm1OY0NtQ3hnMkd0eWRYSHlvZXRhXzZaV3lzT2VjbjNhMzBWbDdnR293QQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1791961200
   },
   {
     "id": "8619722",
@@ -1813,29 +1941,6 @@
         "Increased defense spending risk",
         "Geopolitical tensions risk",
         "Decreased investor sentiment risk"
-      ]
-    }
-  },
-  {
-    "id": "8615826",
-    "headline": "EXCLUSIVE: Saudi Arabia to let executives attend FII conference remotely after attacks, sources say - Reuters",
-    "summary": "EXCLUSIVE: Saudi Arabia to let executives attend FII conference remotely after attacks, sources say  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUnMtSVRHNldwaFdHWWx4NlBQbHZLYjZvUVdHMWExSHFfVzNXLU9wQi1wblgwOE9jZlFaUjlzbDlxb2tFV085eUYwM2dyVkpkVHBVTjIzM2wtRlhUcjBmQ1I0YVNnUU53MEJTOGlWOE5SZ2xkdWRrVmlIZHNacjlfZWRJak51OWQ0OXFLWGlnWVpnd1haY3FRRXhfcGMtR3dlTVJTQ1FuOGxUaHZFY2NkcHVBMzFlcUV1WG5CTTVmM0F3dTlqam1qT2VvWQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1791913620,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1791938356,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Saudi Arabia plans to hold a hybrid format for its marquee Foreign Investors' Conference (FII) after recent attacks on the country's oil facilities. The decision comes as a response to the attacks, which have raised concerns about the country's security and stability. The hybrid format will allow for both in-person and virtual participation, providing flexibility for attendees. The conference is expected to attract foreign investors and promote Saudi Arabia's investment opportunities. The event aims to showcase the country's economic growth and investment potential.",
-      "impact": "The potential impact on stocks is neutral, as the news does not directly affect the earnings outlook or valuation of specific companies. However, the decision to hold a hybrid conference may increase investor interest in Saudi Arabia's economy and investment opportunities, potentially leading to a short-term increase in sentiment and liquidity. In the medium term, a successful conference could lead to increased foreign investment in the country, supporting economic growth and potentially benefiting companies with exposure to the Saudi market.",
-      "risks": [
-        "security risks associated with the attacks",
-        "uncertainty around the effectiveness of the hybrid conference format",
-        "potential impact on investor sentiment and confidence in Saudi Arabia's economy"
       ]
     }
   },
@@ -17143,71 +17248,5 @@
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
     "publishedAt": 1790073603
-  },
-  {
-    "id": "8527147",
-    "headline": "Iran ready to reopen Strait of Hormuz if US eases military pressure and lifts blockade - Reuters",
-    "summary": "Iran ready to reopen Strait of Hormuz if US eases military pressure and lifts blockade  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNEdfLVlEeU1GTjFkdDRlZ2NCN19kT0tNTEdKTnJBM29mNGk4OW9EMURHRm9WTEljdFBQY3Y1OTB6VnJBMFRMclpzV2xrV0M4NVMzZld6MlFJeHB1Rnp3Y01aVDJ4STB0Vk80bVE5X2JGaHRPeXlHM1h0WExNNHRlWEhuZkhjWWF0ajJYMGxsX0l1djRWYzRJbUZnbkpTM0k2LWZiT1AtWHA1QnhuajhwOVhjOExkWmNOcjkwXzJJTWJUWWlUazVtTDhR?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1790072983,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1790078813,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "Iran has stated its willingness to reopen the Strait of Hormuz if the US eases military pressure and lifts its blockade. The Strait is a critical waterway for global oil trade, with Iran being a major oil producer. The US has imposed economic sanctions on Iran, which has led to a decline in oil exports. If the US lifts the blockade, it could lead to an increase in Iranian oil exports, potentially benefiting oil-producing companies. However, this development is uncertain and dependent on the US's actions.",
-      "impact": "The potential reopening of the Strait of Hormuz could have a positive impact on oil prices, which could in turn benefit oil-producing companies. This could lead to an increase in earnings for companies such as ExxonMobil (XOM) and Chevron (CVX). However, the short-term impact is uncertain and dependent on the US's actions, and any potential benefits may be offset by increased tensions in the region.",
-      "risks": [
-        "US policy shift risk",
-        "Iranian oil production capacity risk",
-        "Global oil demand slowdown risk"
-      ]
-    }
-  },
-  {
-    "id": "8527156",
-    "headline": "ECB, EU central banks oppose stablecoin bank deposit rule - Reuters",
-    "summary": "ECB, EU central banks oppose stablecoin bank deposit rule  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSXByZ1dMUmEtUkNYT0FyXzRxTVhhUWZJS0RRYU54WlNnaDRFc2lqYWF0MllMOVp1OVVEUm5OQk9yV0FCcENvZldNN1p2MGJCNWlydVpCc3lqaWI3dkFITjFjLUY5d3d0anpSU2pQWVEycUJJMTRzaGNLOUt3c3dueXA0Q0RDbkI4cnVqa05fSFZQM1l3SXRUWUVtT3p1N2JTRy14c3lOaFRMSWYtd3c?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1790072453,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1790078864,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The European Central Bank (ECB) and EU central banks have opposed a proposed rule that would require banks to hold a minimum amount of deposits in traditional currencies for every stablecoin they issue. This decision is a significant development in the regulatory landscape for stablecoins, which are digital assets pegged to traditional currencies. The proposed rule was aimed at ensuring that banks maintain a stable financial system by limiting their exposure to stablecoins. However, the ECB and EU central banks have expressed concerns that this rule could stifle innovation in the financial sector. The opposition to the rule suggests that the ECB and EU central banks are open to finding alternative solutions that balance financial stability with innovation.",
-      "impact": "The opposition to the proposed rule is likely to have a positive impact on the stocks of companies involved in the development and issuance of stablecoins, such as Circle and Coinbase. This is because the rule change reduces the regulatory burden on these companies and allows them to continue innovating in the stablecoin space. The decision may also lead to increased adoption of stablecoins, as banks and financial institutions are more likely to participate in the market with reduced regulatory hurdles. In the short-term, we expect to see an increase in the price of stablecoin-related stocks as investors react positively to the news.",
-      "risks": [
-        "Regulatory changes can be unpredictable and may lead to further changes in the regulatory landscape",
-        "The ECB and EU central banks may still impose other regulations that could negatively impact stablecoin issuers",
-        "The stablecoin market may be subject to increased volatility due to the lack of clear regulations"
-      ]
-    }
-  },
-  {
-    "id": "8530137",
-    "headline": "Sterling steady after report says Iran may reopen Hormuz - Reuters",
-    "summary": "Sterling steady after report says Iran may reopen Hormuz  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdzFkOFFDTDdZZ1Qta1UxWVNXUGxyd2d2M083NUVaRk9ielJtTmZ6QXl2OUJ6V2FtRmprNV83ZWg0ejhxQVBCVlJRblJUc2sxNmtkYUsyaGVGRGNUTFNQVDM2UXRZQ2g0ZWxITjNGX3ZwQ3ZvLWJCenJnZ1BJcVp1WC1RQXdIaGpIVDlCT3Myc3dqaVp0NzBWVnh1Tnc3cGNZTmJF?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1790072428
-  },
-  {
-    "id": "8528045",
-    "headline": "Saudi Arabia restarts East-West oil pipeline, sources say - Reuters",
-    "summary": "Saudi Arabia restarts East-West oil pipeline, sources say  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNmJidHFzNHlscWlnT2hsWFdKc1hNRFMxOWRnTTRQRHVHbV9tRTJySFJoOGFoZXdNdTIwMngxZlczRmY3dWJxWkNiWTRYclVyT0JoWXQyUHJpNThicmpUNDMwWjNqREdrYmw3Ty1peU9oaEtRdC1GWXE1S0o1eGlrWDZONDhqS0FDbWotZXV1LXBvTEhUWHdlT1BzYU5udjNKTTFXdk1hX0wwVk1yczRTdV94R0p4UUQ1bEViTXJ2S2pEaTVLTFlvdw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1790071680
   }
 ]
