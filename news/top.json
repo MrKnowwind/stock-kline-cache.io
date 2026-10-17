@@ -7,7 +7,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1792208475,
+    "publishedAt": 1792224675,
     "analysis": {
       "version": 2,
       "generatedAt": 1792188792,
@@ -560,7 +560,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1792152721
+    "publishedAt": 1792152721,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1792230145,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Israeli settlers have attacked a Palestinian village in the West Bank, burning olive trees and injuring a journalist. This incident is part of a long-standing conflict between Israelis and Palestinians, with tensions running high in the region. The attack highlights the ongoing instability and potential for violence in the area, which could negatively impact the business environment and investor sentiment. The Israeli government's response to the incident may also influence the situation, with potential implications for the country's economy and international relations.",
+      "impact": "The attack may lead to a short-term decline in investor sentiment towards companies operating in Israel, particularly those with exposure to the West Bank or involved in the Israeli-Palestinian conflict. This could result in a decrease in stock prices and a reduction in investor appetite for Israeli assets. In the medium term, the ongoing conflict and instability may lead to a decline in tourism and economic activity in the region, negatively impacting companies with significant operations in Israel. The incident may also increase costs for companies operating in the region due to security measures and potential damage to infrastructure.",
+      "risks": [
+        "Decreased investor sentiment and potential stock price decline",
+        "Increased costs due to security measures and potential damage to infrastructure",
+        "Negative impact on tourism and economic activity in the region"
+      ]
+    }
   },
   {
     "id": "8629153",
@@ -570,7 +583,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1792152207
+    "publishedAt": 1792152207,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1792230193,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Iran has shipped some LPG and jet fuel despite the US blockade, according to data. This development is notable as it suggests that Iran may be finding ways to circumvent the blockade. The US blockade has been in place since January 2020, and its impact on Iran's oil exports has been significant. The news may indicate that Iran's oil exports are more resilient than expected, but it's unclear how sustainable this is. The data also highlights the complexity of the situation, with different types of fuel being allowed to pass through while others are blocked.",
+      "impact": "The news may have a mixed impact on oil-related stocks. In the short term, it could lead to a slight increase in oil prices as the news may be seen as a bullish signal for oil demand. However, in the medium term, the news may also increase concerns about the effectiveness of the US blockade, potentially leading to a decrease in oil prices as investors reassess the situation. This could have a negative impact on oil-related stocks, particularly those with high exposure to US sanctions.",
+      "risks": [
+        "US sanctions risk",
+        "Iran's ability to sustain oil exports risk",
+        "Global oil demand risk"
+      ]
+    }
   },
   {
     "id": "8629050",
@@ -580,7 +606,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1792152048
+    "publishedAt": 1792152048,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1792230244,
+      "sentiment": "bullish",
+      "confidence": 0.7,
+      "summary": "Illinois Governor JB Pritzker is actively courting farmers ahead of the 2024 presidential election, highlighting the importance of agriculture in the state's economy. Pritzker's efforts are seen as an attempt to boost his popularity among rural voters, who are crucial in Illinois' electoral landscape. The governor's focus on agriculture is also a nod to the state's agricultural sector, which is a significant contributor to the state's economy. By emphasizing his support for farmers, Pritzker aims to appeal to a key demographic and demonstrate his commitment to the industry.",
+      "impact": "The news is likely to have a positive impact on agricultural-related stocks, particularly those with exposure to the Illinois market. Companies such as Deere & Company (DE) and Archer Daniels Midland (ADM) may benefit from Pritzker's efforts to boost the agricultural sector. The increased focus on agriculture could lead to higher demand for related products and services, driving growth in the short to medium term. Additionally, the governor's popularity among rural voters may translate to increased support for pro-agriculture policies, further benefiting the industry.",
+      "risks": [
+        "regulatory risk",
+        "market volatility risk",
+        "election outcome uncertainty"
+      ]
+    }
   },
   {
     "id": "8629035",
@@ -590,7 +629,43 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/108418924-1792145442677-gettyimages-2295973596-widak-natodays260920_npCVI.jpeg?v=1792145547&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1792148207
+    "publishedAt": 1792148207,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1792230292,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The Norwegian sovereign wealth fund, the largest of its kind in the world, is set to reconsider its investment approach in the defense sector after a review of its ethical guidelines. The fund has been frozen out of major defense companies like Lockheed Martin and Boeing due to its rules prohibiting investments in nuclear weapons manufacturers. A new recommendation suggests relaxing the rules to allow investment in companies that produce components for nuclear weapons, as long as they are domiciled in a nuclear-weapon state allied with Norway. This change could potentially open up new investment opportunities for the fund in the defense sector.",
+      "impact": "The potential relaxation of investment rules could lead to increased demand for shares of defense companies that were previously excluded, such as Lockheed Martin and Boeing. This could drive up their stock prices in the short term, as the fund's significant investment could provide a boost to their market capitalization. However, the medium-term impact will depend on the specifics of the new investment approach and how it is implemented.",
+      "risks": [
+        "regulatory approval risk",
+        "valuation risk",
+        "sentiment risk"
+      ]
+    }
+  },
+  {
+    "id": "8622025",
+    "headline": "US considers removing sanctions on some shadow fleet vessels to cut freight rates, official says - Reuters",
+    "summary": "US considers removing sanctions on some shadow fleet vessels to cut freight rates, official says  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdC1hR0pwcGJWU2NSX0szSlhYNlBMYUc2Y1ktS0NseE5MeEVKdE9jUVVqUHlva3dxeDg4NXRTQXM0UlpyMWJlTHNSN1ZiOWFqcWdIX1NNcGRhYzBsak5iVnZrYnJaX2xGbkRLcjNrQmFkUUd2ejVHWm0ydVJ2RVJhS1VFbkRhTHg5MVJXbnJDQ3YtRmVLWWpKU2xwUXNZSzMtUWI4cjJfaXp4djM0V2lQQmc4X2VsaVkxMHFpVUZ2bWNLaldpQnBNZmNn?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1792147995,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1792041883,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The US government is considering easing sanctions on shadow fleet vessels to reduce freight rates. This move aims to alleviate supply chain disruptions caused by the ongoing Russia-Ukraine conflict. The decision would benefit shipping companies and industries reliant on international trade, such as logistics and retail. The easing of sanctions would increase the availability of vessels, leading to lower freight rates and reduced costs for importers and exporters. This development is a positive sign for the shipping industry, which has been affected by the conflict.",
+      "impact": "The easing of sanctions on shadow fleet vessels is likely to positively impact shipping companies and related industries, such as logistics and retail. Lower freight rates would reduce costs for importers and exporters, increasing their profit margins. This could lead to higher earnings for shipping companies and their customers in the short-term. In the medium-term, the increased availability of vessels could also lead to increased trade volumes and economic growth.",
+      "risks": [
+        "Regulatory uncertainty risk: The US government's decision may be subject to change or reversal, affecting the shipping industry.",
+        "Trade war risk: The easing of sanctions could be seen as a concession to Russia, potentially escalating trade tensions with other countries.",
+        "Supply chain disruption risk: The conflict in Ukraine may continue to disrupt supply chains, offsetting the benefits of lower freight rates."
+      ]
+    }
   },
   {
     "id": "8628730",
@@ -646,7 +721,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1792126860
+    "publishedAt": 1792126860,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1792230340,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "UK Chancellor Jeremy Hunt's first budget is expected to have a ripple effect on markets, with potential changes to tax rates, public spending, and economic policies. The budget aims to address the UK's economic challenges, including high inflation and a slow economy. The government's fiscal plans and economic forecasts will be closely watched for their impact on the pound and interest rates. The budget is expected to be announced on March 15, and its impact will depend on the specific policies and measures announced.",
+      "impact": "The budget's impact on related stocks is likely to be mixed, with some sectors benefiting from increased government spending and others facing higher taxes. The UK's FTSE 100 index may see a short-term boost if the budget is seen as supportive of the economy. However, the medium-term impact will depend on the specifics of the budget and the government's economic forecasts. The budget's impact on the pound and interest rates will also be a key driver of market sentiment.",
+      "risks": [
+        "uncertainty around tax rate changes",
+        "potential impact on public spending",
+        "economic growth slowdown risk"
+      ]
+    }
   },
   {
     "id": "8629052",
@@ -1458,6 +1546,16 @@
     "publishedAt": 1792058400
   },
   {
+    "id": "8623892",
+    "headline": "TotalEnergies flags quarterly profit surge as Iran war continues to drive energy prices - Reuters",
+    "summary": "TotalEnergies flags quarterly profit surge as Iran war continues to drive energy prices  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSjBJVjY0bVpoWDlsbGtrMnpFS0ZvcURsLUZMazd5S0o2Zmw2R2s0ZXc1NzBYb1YxUnNhdENBYzBfajVLVHZiWGJtdk5PbTRLb1BzaWdsNEJDY3lxUFV4TW1wTUpTRmZGTXVOb3JDdVFNeUFTcFZEbVNPcmJBMS1lazUtZVdJbENMMVAxQWRXallDRjZlQ3lINVBfaVppOXBPSHpmUkxqRVdNalVZWVZBcS01cEhWZnlTTDFnRFBoSTVxdkt5?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1792057299
+  },
+  {
     "id": "8624001",
     "headline": "Hormuz shipping disruption is starting to hit harvests, UN agency says - Reuters",
     "summary": "Hormuz shipping disruption is starting to hit harvests, UN agency says  Reuters",
@@ -1569,16 +1667,6 @@
     "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
     "relatedSymbols": [],
     "publishedAt": 1792044525
-  },
-  {
-    "id": "8623892",
-    "headline": "TotalEnergies flags quarterly profit surge as Iran war continues to drive energy prices - Reuters",
-    "summary": "TotalEnergies flags quarterly profit surge as Iran war continues to drive energy prices  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSjBJVjY0bVpoWDlsbGtrMnpFS0ZvcURsLUZMazd5S0o2Zmw2R2s0ZXc1NzBYb1YxUnNhdENBYzBfajVLVHZiWGJtdk5PbTRLb1BzaWdsNEJDY3lxUFV4TW1wTUpTRmZGTXVOb3JDdVFNeUFTcFZEbVNPcmJBMS1lazUtZVdJbENMMVAxQWRXallDRjZlQ3lINVBfaVppOXBPSHpmUkxqRVdNalVZWVZBcS01cEhWZnlTTDFnRFBoSTVxdkt5?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1792044360
   },
   {
     "id": "8624106",
@@ -1781,29 +1869,6 @@
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
     "publishedAt": 1792026780
-  },
-  {
-    "id": "8622025",
-    "headline": "US considers removing sanctions on some shadow fleet vessels to cut freight rates, official says - Reuters",
-    "summary": "US considers removing sanctions on some shadow fleet vessels to cut freight rates, official says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdC1hR0pwcGJWU2NSX0szSlhYNlBMYUc2Y1ktS0NseE5MeEVKdE9jUVVqUHlva3dxeDg4NXRTQXM0UlpyMWJlTHNSN1ZiOWFqcWdIX1NNcGRhYzBsak5iVnZrYnJaX2xGbkRLcjNrQmFkUUd2ejVHWm0ydVJ2RVJhS1VFbkRhTHg5MVJXbnJDQ3YtRmVLWWpKU2xwUXNZSzMtUWI4cjJfaXp4djM0V2lQQmc4X2VsaVkxMHFpVUZ2bWNLaldpQnBNZmNn?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1792022760,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1792041883,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The US government is considering easing sanctions on shadow fleet vessels to reduce freight rates. This move aims to alleviate supply chain disruptions caused by the ongoing Russia-Ukraine conflict. The decision would benefit shipping companies and industries reliant on international trade, such as logistics and retail. The easing of sanctions would increase the availability of vessels, leading to lower freight rates and reduced costs for importers and exporters. This development is a positive sign for the shipping industry, which has been affected by the conflict.",
-      "impact": "The easing of sanctions on shadow fleet vessels is likely to positively impact shipping companies and related industries, such as logistics and retail. Lower freight rates would reduce costs for importers and exporters, increasing their profit margins. This could lead to higher earnings for shipping companies and their customers in the short-term. In the medium-term, the increased availability of vessels could also lead to increased trade volumes and economic growth.",
-      "risks": [
-        "Regulatory uncertainty risk: The US government's decision may be subject to change or reversal, affecting the shipping industry.",
-        "Trade war risk: The easing of sanctions could be seen as a concession to Russia, potentially escalating trade tensions with other countries.",
-        "Supply chain disruption risk: The conflict in Ukraine may continue to disrupt supply chains, offsetting the benefits of lower freight rates."
-      ]
-    }
   },
   {
     "id": "8621615",
