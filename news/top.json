@@ -1,5 +1,28 @@
 [
   {
+    "id": "8651441",
+    "headline": "Oil rises on Middle East supply fears, US inventory drawdowns - Reuters",
+    "summary": "Oil rises on Middle East supply fears, US inventory drawdowns  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNTdIRmp3MTB3c3JZNGxXMUl1Wk5haXFwcjdJNXgtQnJkOEM4aWVVWG5tai03TmhHSWZidkliV1VlRkRvOVJCX3Q3QXhCWVdZeXlYQmViOUdOaU85anVWMXpSWFNCOHAtVU5id3Fad1BhX1BzVEt6S1A4N2s1YjJocFh6QXFTVXhHdDJJVzZBX21WUQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1792543800,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1792560084,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Oil prices have risen due to concerns over potential supply disruptions in the Middle East, following reports of increased tensions in the region. This news has been exacerbated by a drawdown in US oil inventories, which has further tightened the market. The Middle East is a significant oil-producing region, and any disruptions to supply could have a major impact on global oil prices. As a result, oil prices have increased in response to these concerns.",
+      "impact": "The increase in oil prices could have a positive impact on oil-related stocks, particularly those with a high exposure to the Middle East region. This could lead to a short-term increase in earnings for these companies, as well as a potential boost to their stock prices. However, the medium-term impact is uncertain, as the situation in the Middle East is volatile and could lead to further supply disruptions. The increased oil prices could also have a positive impact on the overall energy sector, potentially leading to a broader rally in energy stocks.",
+      "risks": [
+        "Geopolitical tensions in the Middle East could escalate and lead to further supply disruptions",
+        "Uncertainty around the duration and impact of the US inventory drawdown",
+        "Potential for oil prices to decline if the situation in the Middle East stabilizes"
+      ]
+    }
+  },
+  {
     "id": "8650414",
     "headline": "US coaxing refiners to produce more diesel as prices surge, energy officials say - Reuters",
     "summary": "US coaxing refiners to produce more diesel as prices surge, energy officials say  Reuters",
@@ -88,6 +111,29 @@
         "diplomatic risk",
         "regional instability risk",
         "unclear outcomes risk"
+      ]
+    }
+  },
+  {
+    "id": "8651138",
+    "headline": "Bank of England's Greene says inflation risks are bigger than thought - Reuters",
+    "summary": "Bank of England's Greene says inflation risks are bigger than thought  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbVNqRlM4X0NJV0Zma2RJY3FySGIwdFN6UlZpN1VtMTFzc3RkalpkMUxXQUZKbGpoTGNjTUtOaFNvYm5kc1F5UHl3ZVFVTU0wcTV0ckwyc3ZUeFlJYWhUanBSU2dmZHEwY3dmZTg4RzdkT1BQeGpJU05nZ3BfcUVWdmNhYXB1T01IdjA1ZDM3c0ZMMEYtblB1QUN3RlRIS00yaUp6amtjSFowOHg1ZVBr?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1792526938,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1792560135,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Bank of England's Chief Economist, Huw Pill, has expressed concerns that inflation risks are greater than previously thought. This statement suggests that the UK's economic growth may be slower than expected, which could lead to reduced consumer spending and lower corporate earnings. The Bank of England's inflation forecast is likely to be revised upwards, which could lead to increased interest rates and a stronger pound. This could have a negative impact on the UK's economic growth and corporate profits.",
+      "impact": "The potential impact on the UK's economy and corporate earnings could lead to a decrease in stock prices of companies exposed to the UK market. This could be particularly significant for companies with high debt levels or those with significant exposure to the UK consumer sector. In the short term, this could lead to a decrease in investor sentiment and a reduction in stock prices. In the medium term, this could lead to a decrease in earnings and a re-rating of valuations.",
+      "risks": [
+        "Increased interest rates risk",
+        "Weaker economic growth risk",
+        "Decreased consumer spending risk"
       ]
     }
   },
@@ -230,16 +276,6 @@
     }
   },
   {
-    "id": "8649482",
-    "headline": "Iran tells Pakistan army chief no talks with Washington until demands are met - Reuters",
-    "summary": "Iran tells Pakistan army chief no talks with Washington until demands are met  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVDRWMklOYkRvUmtPYU1tcnN0MVJCbzRxWlJzS3lSUFhsZzQ3SnQ2N0FKXzRsZFpmdmMwS1lVYWhKenNoNEF6UmhhcThrbVM1V0ZHQUk0aXFwWHlvbXFNWVhzQkV2aHVzM1I2am9fOHFHa19CQlN0Z3FqUG5nc2VwQUJxazBhbGZlSUhDMHExSWJLbDJNNXRjc3BOYkZrTThIUW1IUkE4QUI2azl6MzZHT0Nrb2M4aDZBQzZKYVp4OTg0VV9xWWllLUJGYkFkdw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1792519326
-  },
-  {
     "id": "8650211",
     "headline": "Albania formalises corruption charges against ex-deputy PM Balluku - Reuters",
     "summary": "Albania formalises corruption charges against ex-deputy PM Balluku  Reuters",
@@ -247,7 +283,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1792518955
+    "publishedAt": 1792518955,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1792560185,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Albania has formalized corruption charges against former Deputy Prime Minister Milena Arbenita Balluku. The charges stem from her alleged involvement in a corruption scandal related to the country's energy sector. Balluku, who served as Deputy Prime Minister from 2021 to 2022, is accused of embezzlement and abuse of power. The development is a significant blow to the government's reputation and may lead to further instability in the country. The case is expected to be heard in court soon.",
+      "impact": "The news is likely to have a negative impact on the Albanian stock market, particularly for companies operating in the energy sector. The charges against Balluku may lead to a decline in investor confidence and a decrease in stock prices. In the short term, this may result in a decrease in liquidity and a widening of bid-ask spreads. In the medium term, the scandal may lead to a re-evaluation of the government's policies and a potential shift in the country's economic direction.",
+      "risks": [
+        "Decrease in investor confidence",
+        "Potential instability in the Albanian government",
+        "Negative impact on the energy sector"
+      ]
+    }
   },
   {
     "id": "8648107",
@@ -257,7 +306,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1792518716
+    "publishedAt": 1792518716,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1792560238,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "A recent incident in Gaza has resulted in the deaths of four people, according to medics. This event is a continuation of the ongoing conflict between Israel and Palestine. The escalation of violence in the region may lead to increased tensions and instability, potentially affecting regional economic activity. The impact on the Israeli defense industry and related stocks may be significant, as the country's military actions are a major driver of its economy.",
+      "impact": "The short-term impact on Israeli defense stocks, such as Elbit Systems (ESLT) and Israel Aerospace Industries (ARSPF), may be negative due to the increased scrutiny and potential backlash from the international community. The medium-term impact may be more significant, as the ongoing conflict could lead to a decrease in defense spending and a negative impact on the Israeli economy. The escalation of violence may also lead to a decline in tourism and a negative impact on the Israeli economy, affecting stocks such as Israel Discount Bank (ISDSY) and Bank Hapoalim (BKHYY).",
+      "risks": [
+        "Escalation of violence and instability in the region",
+        "Decrease in defense spending and negative impact on the Israeli economy",
+        "Negative impact on tourism and the Israeli economy"
+      ]
+    }
   },
   {
     "id": "8650316",
@@ -267,7 +329,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1792518319
+    "publishedAt": 1792518319,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1792560288,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "The Eastern Libya parliament has approved a maritime deal with Turkey, which has been met with rejection from Greece. The deal grants Turkey exclusive rights to explore and exploit oil and gas resources in the Eastern Mediterranean. This move is likely to escalate tensions between Turkey and Greece, which have long-standing disputes over maritime borders and energy resources. The deal may also impact the global energy market, particularly in the context of the ongoing energy crisis. The approval of the deal by the Eastern Libya parliament is a significant development in the region's energy politics.",
+      "impact": "The approval of the deal may lead to increased tensions in the region, potentially affecting the earnings outlook for companies operating in the Eastern Mediterranean, such as energy companies with operations in the region. The deal may also impact the global energy market, potentially leading to increased volatility in oil and gas prices. This could have a negative impact on companies with significant exposure to energy commodities, such as airlines and other industries with high energy costs.",
+      "risks": [
+        "Escalation of regional tensions and potential conflict",
+        "Impact on global energy market and commodity prices",
+        "Increased volatility in oil and gas prices"
+      ]
+    }
   },
   {
     "id": "8648548",
@@ -353,6 +428,16 @@
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
     "publishedAt": 1792515429
+  },
+  {
+    "id": "8649482",
+    "headline": "Iran tells Pakistan army chief no talks with Washington until demands are met - Reuters",
+    "summary": "Iran tells Pakistan army chief no talks with Washington until demands are met  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVDRWMklOYkRvUmtPYU1tcnN0MVJCbzRxWlJzS3lSUFhsZzQ3SnQ2N0FKXzRsZFpmdmMwS1lVYWhKenNoNEF6UmhhcThrbVM1V0ZHQUk0aXFwWHlvbXFNWVhzQkV2aHVzM1I2am9fOHFHa19CQlN0Z3FqUG5nc2VwQUJxazBhbGZlSUhDMHExSWJLbDJNNXRjc3BOYkZrTThIUW1IUkE4QUI2azl6MzZHT0Nrb2M4aDZBQzZKYVp4OTg0VV9xWWllLUJGYkFkdw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1792514820
   },
   {
     "id": "8650105",
@@ -748,6 +833,16 @@
     "publishedAt": 1792471860
   },
   {
+    "id": "8651643",
+    "headline": "Trump open to Putin, Xi summit but would focus on nuclear arms",
+    "summary": "The US President is slated to visit China next month for the Asia-Pacific Economic Cooperation summit and for talks with Xi on the sidelines",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-19/trump-open-to-putin-xi-summit-but-would-focus-on-nuclear-arms",
+    "source": "Bloomberg",
+    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+    "relatedSymbols": [],
+    "publishedAt": 1792471083
+  },
+  {
     "id": "8649379",
     "headline": "Sea plans IPO for financial services arm Monee, memo says - Reuters",
     "summary": "Sea plans IPO for financial services arm Monee, memo says  Reuters",
@@ -790,6 +885,16 @@
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
     "publishedAt": 1792469100
+  },
+  {
+    "id": "8651541",
+    "headline": "RBI steps up overseas investment checks as rupee slides",
+    "summary": "The RBI issued a standardized checklist to major banks last week, requiring detailed information on overseas direct investments exceeding $1 billion and transactions above the regulatory limit",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-20/india-s-rbi-steps-up-overseas-investment-checks-as-rupee-slides",
+    "source": "Bloomberg",
+    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+    "relatedSymbols": [],
+    "publishedAt": 1792468929
   },
   {
     "id": "8649172",
@@ -1173,6 +1278,16 @@
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
     "publishedAt": 1792427532
+  },
+  {
+    "id": "8650826",
+    "headline": "Myanmar authorities release rare images of Aung San Suu Kyi - Reuters",
+    "summary": "Myanmar authorities release rare images of Aung San Suu Kyi  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVFdXV3JSQk1EQ1VxSWRjU3M0WU9OWHBRaVBtN3I5NDVQdnpJYzJaRHVlTmJpRUlCcVJVZUU2aFlEZ1U4UmVMRmkydTRQWUs5SUlOalVtX3dZUkpBaXYwRG9uT2FIVU5XV1hDZUpiRWcwMkx1SUppcWt0Wl9YUnluM2R0MGwzYzJuRlN4WXhUTkhKMWp0aVBBb0V1ajktU2hqejdFY1VjMUlCbXFRYlNKZQ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1792426849
   },
   {
     "id": "8643743",
@@ -17314,107 +17429,5 @@
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
     "publishedAt": 1790457915
-  },
-  {
-    "id": "8544217",
-    "headline": "Trump rejects Iranian proposal to open Hormuz and end fighting - Reuters",
-    "summary": "Trump rejects Iranian proposal to open Hormuz and end fighting  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZTlYWmNvWG9uODA3NXdWTTQ0d1EtNnFKczBKYThkcFExSmZGWjlqb2xmc0ZsUDNsYWxUWjhLNm1ocTRCcmJDMGdhUmZ1NC1WdjVJdWFxNDRzLTA0Mk11dUN6WHkyUUVpcFMxV1A1d2RFUXljR0xlY293UldHb2ZoUDAzT294ZmVUWVdCZUEzUTlGSkp4cEhTLTVqTllkU3lDNDREeXFqVlQzSUU1VGpnXzZYZ1ZSMXZ3dmU0Tg?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1790454385,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1790409709,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Iran is waiting for the US to make a move after a report by the Wall Street Journal stated that President Trump has rejected a peace plan. The plan, which aimed to ease tensions between the US and Iran, has been met with skepticism by Trump. This development is a setback for any hopes of a resolution to the ongoing conflict between the two nations. The background to this news is the long-standing tension between the US and Iran, which has led to increased military presence and economic sanctions. The logical chain from this news to the business fundamentals is that a prolonged conflict would likely lead to increased instability in the Middle East, affecting oil prices and global trade. This, in turn, would have a negative impact on companies with exposure to the region or those with high oil prices sensitivity.",
-      "impact": "The potential impact on related stocks is bearish, particularly for companies with exposure to the Middle East or those with high oil price sensitivity. This could lead to a short-term decrease in stock prices as investors become more cautious. In the medium term, a prolonged conflict could lead to increased costs and decreased earnings for companies in the energy and aerospace sectors. This could also lead to a decrease in investor sentiment and a reduction in liquidity for these stocks.",
-      "risks": [
-        "prolonged conflict risk",
-        "oil price volatility risk",
-        "decreased investor sentiment risk"
-      ]
-    }
-  },
-  {
-    "id": "8548466",
-    "headline": "China, US agree to AI dialogue, tariff cuts on $30 billion in goods during Xi visit - Reuters",
-    "summary": "China, US agree to AI dialogue, tariff cuts on $30 billion in goods during Xi visit  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2FRVWRwSDZuWUZPYTRXcmNuNTFDR0hrQkVUZnpSdV9RdGhpUjV5R0hwN2V6MUNUS2hiTHpENFhwUFVDODBIeDhBSm5SdUJOeU1qSUhjekl2RzBDd0VBYi0tdmNDblQwV1RMTF9QMGFHdlFRcDRmalE3dWlhX0l6aUJjSGtsVjlsZXNnbmZWY3JzMEtwY3hxNEZHT3JjWXJEQlVRSFpSM0haSUROOUFRaWJB?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1790452772,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1790488670,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "Chinese President Xi Jinping's visit to the US has led to a breakthrough in trade negotiations, with the two countries agreeing to initiate an AI dialogue and reduce tariffs on $30 billion in goods. This development is a positive step towards resolving the ongoing trade tensions between the two nations. The agreement is seen as a significant move towards de-escalating the trade war, which has been weighing on global markets. The AI dialogue is expected to focus on cooperation in areas such as artificial intelligence, 5G, and clean energy. This agreement is a win for both countries, as it opens up new opportunities for trade and investment.",
-      "impact": "The agreement is likely to have a positive impact on US and Chinese technology stocks, particularly those involved in AI, 5G, and clean energy. The reduction in tariffs on $30 billion in goods is expected to boost trade and investment between the two countries, leading to increased earnings for companies involved in these sectors. This development may also lead to a short-term increase in the stock prices of companies that are exposed to the US-China trade relationship, as investors become more optimistic about the prospects of a trade deal.",
-      "risks": [
-        "Risk of a last-minute snag in the trade talks",
-        "Potential backlash from US lawmakers who may oppose the agreement",
-        "Uncertainty around the implementation and enforcement of the tariff cuts"
-      ]
-    }
-  },
-  {
-    "id": "8546451",
-    "headline": "China pushes back against US on Iran and Cuba in UN speech - Reuters",
-    "summary": "China pushes back against US on Iran and Cuba in UN speech  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNmFyYk05dGVubEpsSTJ2dGwxcWtFNEx0ZDNybVVaMndCOUpzOTV5SHNjdmw0eHFCQzlsSHZONU91bHVjeU9lQ1RjSTJSM0pZRDhzUUNENHl1b1daMUxkajZ2QklCNTY5bXUxV0dEczRhZTJmU0VKWHhUeWN0OG5OYWRXdWRYUHJOaFJWbjlySGpEdUQtaDdDWThfTWk?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1790450077,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1790441227,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "China's pushback against the US on Iran and Cuba at the UN is a diplomatic escalation that may have limited direct impact on the global economy. The US-China trade tensions have been a major concern for investors, and this development may add to the uncertainty. However, the news is unlikely to have a significant impact on the business fundamentals of most companies, as it is primarily a diplomatic move. The US-China trade tensions have already been priced into the market, and investors may view this as a continuation of the existing narrative.",
-      "impact": "The potential impact on related stocks is limited, but investors may adjust their risk appetite and sentiment towards China-exposed companies. The news may lead to a short-term increase in volatility in the markets, particularly for companies with significant exposure to China. In the medium term, the escalation of tensions may lead to a revaluation of the US-China trade deal and its impact on corporate earnings.",
-      "risks": [
-        "escalating trade tensions",
-        "geopolitical uncertainty",
-        "US-China trade deal revaluation risk"
-      ]
-    }
-  },
-  {
-    "id": "8550687",
-    "headline": "US 30-year yield tops 5.5% in ‘Vacuum’ after sentiment gauge",
-    "summary": "US 30-year yield hits multiyear highs above 5.5% as consumer sentiment beats estimates, with 10-year also rising, amid ongoing rate expectations.",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-25/us-30-year-yield-tops-5-5-in-vacuum-after-sentiment-gauge",
-    "source": "Bloomberg",
-    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
-    "relatedSymbols": [],
-    "publishedAt": 1790435460,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1790524254,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The US 30-year yield has surpassed 5.5% for the first time in years, driven by a stronger-than-expected consumer sentiment reading. This development is significant as it suggests that interest rates are expected to remain high for an extended period, which can negatively impact borrowing costs and economic growth. The 10-year yield has also risen, further indicating a hawkish tone from the market. This news is a reflection of the ongoing rate expectations and the market's perception of the economy's trajectory.",
-      "impact": "The rise in interest rates is likely to weigh on the earnings outlook for companies with high debt levels or those that rely heavily on borrowing, such as consumer discretionary and housing-related stocks. In the short-term, this may lead to a decline in housing market activity and consumer spending. In the medium-term, the higher interest rates may impact the valuations of these stocks, making them less attractive to investors.",
-      "risks": [
-        "higher interest rates risk",
-        "economic slowdown risk",
-        "valuation risk"
-      ]
-    }
-  },
-  {
-    "id": "8553024",
-    "headline": "Swiss finance minister says unlikely UBS would leave its home base - Reuters",
-    "summary": "Swiss finance minister says unlikely UBS would leave its home base  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZFgweGtsLVY2MHBrWWI0MzRIOWFHc1lCNUVIZWNVczZnWnBFc2xsdUpJN2NSZGllLVNvajF6RXBGSWlyTUNpRThiV25ZRzFXamtzS3Bxdk1rUnB2M3ZBSFhLUjE5V2V6LUUyaW1sZHg2bFk3MFVqamVEY3dmX2ZmMWR4dGdpMkhfbjlldzZpeEREQ2NFYWJuZF9nRDZZWWc0SkoyYmMzRFRFamc4cWo2YzRSVDFxcTFSd2dN?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1790434952
   }
 ]
