@@ -1,5 +1,28 @@
 [
   {
+    "id": "8659048",
+    "headline": "A lesson from poker tells us not to fold on Meta after its earnings sell-off. Here’s why",
+    "summary": "Meta's in-house AI lab is not getting enough credit on Wall Street.",
+    "url": "https://www.cnbc.com/investingclub/2026/10/22/meta-stock-why-were-staying-bullish-after-the-post-earnings-sell-off.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108443816-1792619674334-gettyimages-2296213884-META_CONNECT.jpeg?v=1792619769&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1792699915,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1792709199,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Meta's in-house AI lab is receiving insufficient credit from Wall Street, leading to a potential undervaluation of the company's stock. The article highlights that Meta's AI lab is a significant contributor to its revenue and growth, but its impact is not fully reflected in the current market price. This is a classic case of 'not folding on Meta' after an earnings sell-off, as the company's long-term potential is not being accurately priced. The article suggests that investors should consider the company's AI capabilities and their potential for future growth.",
+      "impact": "The article's argument may lead to a short-term increase in Meta's stock price as investors reassess the company's valuation. In the medium term, the recognition of Meta's AI capabilities could lead to increased investor confidence and a re-rating of the stock. This could also lead to increased liquidity in the stock, making it more attractive to investors.",
+      "risks": [
+        "valuation risk",
+        "regulatory risk",
+        "AI adoption risk"
+      ]
+    }
+  },
+  {
     "id": "8658721",
     "headline": "The perfect storm behind the Nasdaq's rout — plus, some of the bright spots in the market",
     "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
@@ -42,6 +65,29 @@
     }
   },
   {
+    "id": "8659259",
+    "headline": "Gucci sales slip again in latest blow to Kering recovery plan - Reuters",
+    "summary": "Gucci sales slip again in latest blow to Kering recovery plan  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQanFCUlp6TWQxSndQajRmbDh4enluVk1XX2Rfc0VUeGd3bDlaQXVkcDRGLTk5LThSTk1OQS01RkZGSEV5RHVXZUxvY3lRQ2tMN1NSSHlVZnU3cGlXMkJ2Y0QxSnRsaF9mV0NldDRzNkRPQ3kxSlF5Yjl0dzlITDNzc3FYSjFEVkpVSVZFWFJCZXJzZW9fQ29LcThRQXNZbnlfb2NpcXRXVmZwZUY4OXhOYUdLeDA3cl9IelJhc2JvdV9sYlRBeVBMcG5BX3pHVUdyRzJJVGhR?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1792690665,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1792709246,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Kering, the parent company of Gucci, has reported another decline in Gucci's sales, which is a setback for the company's recovery plan. Gucci's sales have been struggling due to supply chain disruptions, high inflation, and a slowdown in consumer spending. This decline in sales is a concern for investors as it may impact Kering's earnings outlook and valuation. The luxury goods market is highly competitive, and Gucci's sales decline may be a sign of a broader industry trend.",
+      "impact": "The decline in Gucci's sales is likely to have a negative impact on Kering's stock price in the short-term, as investors may reassess their valuation of the company. In the medium-term, Kering may need to adjust its pricing strategy or product offerings to stay competitive in the luxury goods market. The company's earnings outlook may also be impacted, leading to a potential decline in investor sentiment and liquidity.",
+      "risks": [
+        "slowing consumer spending",
+        "supply chain disruptions",
+        "high inflation risk"
+      ]
+    }
+  },
+  {
     "id": "8658617",
     "headline": "We're dipping back into the AI trade with our first data center buy in weeks",
     "summary": "The stock is also getting an upgrade, with the expectation of a bounce ahead.",
@@ -65,22 +111,26 @@
     }
   },
   {
-    "id": "8657211",
-    "headline": "COMMENTARY: Asia buys more LNG despite surging prices, El Nino clouds outlook - Reuters",
-    "summary": "COMMENTARY: Asia buys more LNG despite surging prices, El Nino clouds outlook  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZEd6MUJ0RzZBWktFMGFuNkUzNVZKejZBX3EtdmdGUW5SQWpmM18yNEpWb212MzA5dENESGNJcHVWaXNBdTFNc2oyM1FNS2l5bmJLaWNCb3cwaG1WX3FYUXItdHo4cDhsV1Q1ZXNpVXZaVE1ReTVpY0hXN0V3NDFpYVJpWWY0OTk0MV85VHFJSmVNa001SVdnOF9EUkhieURyQjlfX1NzTGY2WmZZcVQxenhkZVBIMVVQdTBHTVZucWpONFdWOXBQQnRudFpEdw?oc=5",
+    "id": "8658947",
+    "headline": "US regulator is probing suspicious Iran oil trading, official says - Reuters",
+    "summary": "US regulator is probing suspicious Iran oil trading, official says  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPem1fOEZ2aU10cDBTVHhDUXFuN3ZTU1l3ZXR4dkpMUUNCazJDMEk4V0UxT01nZ2tNckxuTllmYXhNeUlhSTQzbzg5dHN2aVNjMUpnNnU0T2FJWmNtTGZ4ZTg0UXNjRFhReHlDbThZalczOHdVZFBKLU9pVEp3YTBTS096QUdKVm4tbTdlQzJSYWQ5eGhDZ05FSjJJWFhNYkt2dHZERzg1Zmltc2xKUkd1UjBXUEpTdjNC?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1792688449,
+    "publishedAt": 1792686632,
     "analysis": {
       "version": 2,
-      "generatedAt": 1792683735,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Asia's demand for liquefied natural gas (LNG) remains strong despite a surge in prices, driven by the region's growing energy needs. The International Energy Agency (IEA) reports that Asian countries are increasing their LNG imports, with China and Japan leading the way. This trend is expected to continue, with the IEA forecasting a 10% increase in global LNG demand by 2025. However, the outlook is clouded by the potential impact of El Nino, which could disrupt global energy markets and affect LNG prices.",
-      "impact": "The news is likely to have a mixed impact on the LNG industry, with some companies benefiting from the strong demand while others may struggle with higher production costs. In the short-term, the surge in prices may lead to higher earnings for companies with significant LNG production capacity, such as those in Australia and the US. However, the medium-term outlook is clouded by the potential impact of El Nino, which could lead to a decline in demand and lower prices. This could have a negative impact on the valuations of companies with high production costs or those with significant debt levels.",
-      "risks": []
+      "generatedAt": 1792709292,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "US regulators are investigating suspicious Iran oil trading, which could lead to increased scrutiny on companies involved in oil trading with Iran. This development is a response to recent reports of potential oil price manipulation and market volatility. The investigation may impact companies that have been doing business with Iran, potentially affecting their earnings and valuation. The US government's stance on Iran's oil trade has been strict, and any non-compliance could result in severe penalties.",
+      "impact": "The investigation may lead to a short-term decline in oil prices as investors become more cautious, which could negatively impact oil-related stocks. Medium-term, companies involved in oil trading with Iran may face increased regulatory scrutiny, potentially leading to higher compliance costs and decreased earnings. The sentiment towards these companies may also turn bearish, leading to lower stock prices.",
+      "risks": [
+        "regulatory risk",
+        "compliance risk",
+        "earnings slowdown risk"
+      ]
     }
   },
   {
@@ -103,6 +153,29 @@
         "regulatory approval risk",
         "integration risk",
         "macroeconomic downturn risk"
+      ]
+    }
+  },
+  {
+    "id": "8659160",
+    "headline": "US weekly jobless claims near 57-year lows, underscore labor market stability - Reuters",
+    "summary": "US weekly jobless claims near 57-year lows, underscore labor market stability  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY1lNaWxpcFZmNGx5cEFsQ25QUUNuM0ZkVzJXaGdxdDRFdXNpNGVyYlhhV3JLcnpoMHJKLTZhMWduY0hQYXFPM2xBRjl5TF8xaXAyNU40UUtnTl94TDl3eUVjSHlleXBtenZHVDNpUmw5LUxRMDJNNzF2VVlxYmVodVpWUE5PWEdtVHRSZmdzR2w?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1792684255,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1792709341,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "The US labor market continues to show signs of stability, with weekly jobless claims reaching near 57-year lows. This trend indicates a strong economy with low unemployment, which can lead to increased consumer spending and business investment. The stable labor market is a key driver of economic growth, and this news suggests that the US economy is likely to continue on a positive trajectory. The low unemployment rate also means that companies may face challenges in finding and retaining skilled workers, which could lead to increased wages and benefits. This, in turn, could drive up costs for businesses and potentially impact their profit margins.",
+      "impact": "The news is likely to have a positive impact on the US stock market, particularly for companies that are heavily reliant on consumer spending. The stable labor market and low unemployment rate could lead to increased demand for goods and services, driving up sales and revenue for companies in the retail, hospitality, and other consumer-facing industries. Additionally, the low unemployment rate could lead to increased wages and benefits, which could drive up costs for businesses and potentially impact their profit margins. This could lead to a short-term increase in stock prices for companies that are able to adapt to these changes and implement cost-saving measures.",
+      "risks": [
+        "Increased labor costs and potential impact on profit margins",
+        "Potential for inflationary pressures due to increased wages and benefits",
+        "Commodity price increases due to strong demand"
       ]
     }
   },
@@ -160,7 +233,30 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1792681652
+    "publishedAt": 1792681652,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1792709386,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The article discusses the continued support of white evangelicals for Donald Trump, despite his declining popularity. This demographic remains a crucial voting bloc for the Republican Party. The article highlights the importance of this group in the 2024 presidential election. Trump's relationship with white evangelicals is seen as a key factor in his political success. The article notes that Trump's support among white evangelicals has been relatively stable compared to his overall decline in popularity.",
+      "impact": "The news is unlikely to have a significant impact on the stock market in the short term. However, it may influence the 2024 presidential election, which could have medium-term implications for the Republican Party's policy agenda and, by extension, the earnings outlook for companies that benefit from Republican-friendly policies. This could lead to changes in the regulatory environment and industry trends, potentially affecting companies in the energy, healthcare, and financial sectors.",
+      "risks": [
+        "Election outcome risk",
+        "Policy uncertainty risk",
+        "Regulatory change risk"
+      ]
+    }
+  },
+  {
+    "id": "8659159",
+    "headline": "Dow forecasts profit above estimates on pricing gains and cost cuts - Reuters",
+    "summary": "Dow forecasts profit above estimates on pricing gains and cost cuts  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeko2eDV1REFETEVaR0x3Q0NsVVRjM3JFRUx0djk1dWJWRlNOT1lnNkctZlBtWHp4VG9vM1RoTkxzdzRWbHhKaWE2U0lXZDQyZHFRanlDY3I1LWNaNkVmX1dYZ0ZhNGxJUm8yLUF3R3RJdFhpeW90bUEzY2h5UURYQWZUS2Y1XzBPNC1ER3ExMmE2SGpXcndkdFhqN2FiNURRZ0dn?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1792680960
   },
   {
     "id": "8658620",
@@ -454,6 +550,25 @@
     "publishedAt": 1792643580
   },
   {
+    "id": "8657211",
+    "headline": "COMMENTARY: Asia buys more LNG despite surging prices, El Nino clouds outlook - Reuters",
+    "summary": "COMMENTARY: Asia buys more LNG despite surging prices, El Nino clouds outlook  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZEd6MUJ0RzZBWktFMGFuNkUzNVZKejZBX3EtdmdGUW5SQWpmM18yNEpWb212MzA5dENESGNJcHVWaXNBdTFNc2oyM1FNS2l5bmJLaWNCb3cwaG1WX3FYUXItdHo4cDhsV1Q1ZXNpVXZaVE1ReTVpY0hXN0V3NDFpYVJpWWY0OTk0MV85VHFJSmVNa001SVdnOF9EUkhieURyQjlfX1NzTGY2WmZZcVQxenhkZVBIMVVQdTBHTVZucWpONFdWOXBQQnRudFpEdw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1792639354,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1792683735,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Asia's demand for liquefied natural gas (LNG) remains strong despite a surge in prices, driven by the region's growing energy needs. The International Energy Agency (IEA) reports that Asian countries are increasing their LNG imports, with China and Japan leading the way. This trend is expected to continue, with the IEA forecasting a 10% increase in global LNG demand by 2025. However, the outlook is clouded by the potential impact of El Nino, which could disrupt global energy markets and affect LNG prices.",
+      "impact": "The news is likely to have a mixed impact on the LNG industry, with some companies benefiting from the strong demand while others may struggle with higher production costs. In the short-term, the surge in prices may lead to higher earnings for companies with significant LNG production capacity, such as those in Australia and the US. However, the medium-term outlook is clouded by the potential impact of El Nino, which could lead to a decline in demand and lower prices. This could have a negative impact on the valuations of companies with high production costs or those with significant debt levels.",
+      "risks": []
+    }
+  },
+  {
     "id": "8656280",
     "headline": "DeepSeek wrapping up $15 billion fundraising to fuel AI race - Reuters",
     "summary": "DeepSeek wrapping up $15 billion fundraising to fuel AI race  Reuters",
@@ -485,8 +600,8 @@
   },
   {
     "id": "8655352",
-    "headline": "Oil hits five-month high as Houthi attacks stoke supply fears - Reuters",
-    "summary": "Oil hits five-month high as Houthi attacks stoke supply fears  Reuters",
+    "headline": "Oil prices hit five-month high as Houthi attacks stoke Middle East supply fears - Reuters",
+    "summary": "Oil prices hit five-month high as Houthi attacks stoke Middle East supply fears  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYzBEdGVKYmZ3VVpJajg0TW5DN2VHVEM2aDVTcFJKQVduMnVMTU5NbVcyMGxBanBHY3VvMzJQR1VrQWM4b0hLeG1YaTFWcldTeU9yTlBXc3FiR1FtcUp0SmxhRkJkWmpmZ2x6X3VGZHZEUDNLTE9LTFZNSlBWWjNJVGtaV3YwWkc4QVhxbHozYkx5THpZMVlYVDAtd0dqbUMyOUcyVk91NEYxaFFCZklRWWhjQm5qN2NvVHdWdnZIQVJSMk0?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -17382,77 +17497,5 @@
         "Potential for increased supply from OPEC+ to offset the impact of the SPR loan"
       ]
     }
-  },
-  {
-    "id": "8560760",
-    "headline": "Cramer weighs in on Goldman amid CEO succession talks — plus, Boeing bounces back",
-    "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-    "url": "https://www.cnbc.com/2026/09/29/cramers-take-on-goldman-ceo-succession-plus-boeing-bounces-back.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108255732-1769094884456-JogLU8aw.jpg?v=1769094964&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1790698092,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1790723821,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Jim Cramer discussed Goldman Sachs' CEO succession talks and Boeing's bounce back in the market. Cramer mentioned that Goldman Sachs is undergoing CEO succession talks, which may lead to changes in the company's strategy and direction. Boeing, on the other hand, has seen a significant increase in its stock price after being downgraded by analysts earlier in the year. This is likely due to a combination of factors, including the company's efforts to address safety concerns and improve its operations.",
-      "impact": "The potential impact on Goldman Sachs is unclear, but the CEO succession talks may lead to a short-term volatility in the stock price. Boeing's bounce back may be short-lived if the company fails to address its underlying issues, potentially leading to a reversion to its previous downtrend. The market's sentiment towards Boeing has improved, which may lead to increased buying pressure and higher stock prices in the near term.",
-      "risks": []
-    }
-  },
-  {
-    "id": "8560652",
-    "headline": "Gina Raimondo thinks AI ultimately will create jobs. It's the initial mass layoffs wave that worries her",
-    "summary": "No one knows what AI will mean for jobs long-term, but the layoffs are likely to hit first without proper planning, says former US Commerce Sec. Gina Raimondo.",
-    "url": "https://www.cnbc.com/2026/09/29/ai-job-losses-layoffs.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108368771-1790604797543-gettyimages-1756958183-ln1_9011.jpeg?v=1790604839&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1790696208
-  },
-  {
-    "id": "8561505",
-    "headline": "Exxon veteran Liam Mallon joins TMC board ahead of seabed mining push - Reuters",
-    "summary": "Exxon veteran Liam Mallon joins TMC board ahead of seabed mining push  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb0cxSUFycjRrZ3l3TFJORGJaTUdFTWcteGlYVjBsYU1CSXhnZXlXWVlZeTVmeS1pbUNFNHZJUENGSFk2Mng3NE1OX1hZcVU2T1dBc243OVB3dDR5ZklSdVNqV00xUjR0dERCN2didjVqYzJGSHdVNnRUMHJEYjJCQXY5U0ZPZWxYYzBVUV80Vl9qWHFYaW42eDVtX2xNMTZNUWpZRXZ3RDBKb2hHNTJiNktRal8xeEEyUV9r?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1790695450
-  },
-  {
-    "id": "8561923",
-    "headline": "Israeli settlers attack West Bank village, blocking family's return home - Reuters",
-    "summary": "Israeli settlers attack West Bank village, blocking family's return home  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMmdKU3oyaktydTkxalgxVnVxZExQYnEzVzBUeUxtaDFGdE1SazhYMkdnS28wNTJXWWlLdkt1T3hJUmZURHRqZFdLNG4taEFLaWVCZUdxQ25Cb2c0U3FNX3M5THB1Nm40MXJvMkpsY29BUzg1WThIM3MyUldyY1Z6SHctYnczdTl6ZkYzeXdwYmNqQWZodmlrdGFBZFAzZnU0RjIzdklLSDlueDh6Q3k1NFZwNTJtX3VGNDRnT19JRE4xZw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1790692800,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1790723773,
-      "sentiment": "neutral",
-      "confidence": 0.5,
-      "summary": "A recent news article reports on an incident where Israeli settlers attacked a West Bank village, blocking a family's return home. This event is a localized conflict between Israeli settlers and Palestinians in the West Bank. The incident is not directly related to any specific company or industry, but it may have broader implications for the Israeli-Palestinian conflict and its impact on the global economy. The article does not provide any information on the financial performance of any company or the industry's overall performance.",
-      "impact": "The news may have a neutral impact on the Israeli economy in the short term, but it could lead to increased tensions and instability in the region, potentially affecting the country's economic growth in the medium term. The incident may also influence the sentiment of investors and consumers, potentially affecting the stock prices of companies operating in the region. However, the impact on specific stocks is difficult to determine without more information on the companies' exposure to the conflict.",
-      "risks": [
-        "Increased geopolitical tensions and instability in the region",
-        "Potential impact on investor sentiment and consumer confidence",
-        "Uncertainty surrounding the long-term resolution of the Israeli-Palestinian conflict"
-      ]
-    }
-  },
-  {
-    "id": "8560658",
-    "headline": "Iraqi Airways to resume Iran flights in October after securing 'special exemption' - Reuters",
-    "summary": "Iraqi Airways to resume Iran flights in October after securing 'special exemption'  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUmhrZmNPS2RtZVBMZVFTS1F5NXZkbFpybE1oQzVOWHN5aDh6clVJQk9CY0xnV21HUGotSHNFQmh3Z2NQOGVzU3RJZkhjaTVSYWNpNGs3MW96dk1DZ0w4eml6OUIzaWhnVThqWjR0azJfc0xaN3B4TGtYME9ya2dHWHUxcHcxZ081dEZfMzlXdkF0MW9iOHVnWHpWS3FUQ2pOOS10WHRIMTRERVpneTE3aVpjOFlvRWtKSHFzQkFab3hDUHlVWmV3?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1790690296
   }
 ]
