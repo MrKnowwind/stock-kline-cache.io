@@ -1,5 +1,38 @@
 [
   {
+    "id": "8667587",
+    "headline": "An ex-bookkeeper spent $375 to launch a sewing business: 'I hadn't felt so sure about something like that in a long time'",
+    "summary": "Eric Lugo runs Stitch Lab ATX, a sewing studio that offers group classes and events to teach basic sewing skills.",
+    "url": "https://www.cnbc.com/make-it/2026/10/24/sewing-workshop-business-stitch-lab-atx.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108416170-1792097745910-261015_Stitch_Lab_03.png?v=1792103535&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1792850401
+  },
+  {
+    "id": "8667487",
+    "headline": "Iran's Pezeshkian blames US for interim deal failure, urges new try - Reuters",
+    "summary": "Iran's Pezeshkian blames US for interim deal failure, urges new try  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd0xVa2UzLXppdXQ4c2xJaWNFcUlFWWswS3NYT0ZwQkZ3by1HNGJTakpQTDdUYzhSTUpwUHMzRnMtRzNEWmhieTJqTjZOdTlUN3c3YlNFMHVGd2V5RUZUcXNnbXFMMTlQLVBsRXNUT0ZndHM5SmswcFE5U0dCRlBnMndsNnRIQk00OXhIMnFzVDlSTWVVUjJGNkdnUFprRXBhY01RdnJFcnUzb1pzMDd4Ri1nUUdJdw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1792848432,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1792853702,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Iran's Pezeshkian, a key figure in the country's nuclear talks, has blamed the US for the failure of the interim deal. This development suggests that a new agreement may be difficult to reach, potentially prolonging tensions between Iran and the US. The US has imposed sanctions on Iran, which has limited the country's access to international trade and finance. This has had a significant impact on Iran's economy, particularly its oil exports. The failure of the interim deal may lead to further economic hardship for Iran, potentially affecting global oil prices.",
+      "impact": "The potential failure of a new deal may lead to increased tensions between Iran and the US, potentially impacting global oil prices and affecting energy-related stocks. This could lead to a short-term increase in oil prices, benefiting oil producers such as ExxonMobil (XOM) and Chevron (CVX). However, the medium-term impact may be negative for these companies if the conflict escalates and global demand for oil decreases. The situation may also lead to increased volatility in the oil market, affecting the liquidity of energy-related stocks.",
+      "risks": [
+        "Escalation of tensions between Iran and the US",
+        "Increased volatility in the oil market",
+        "Decreased global demand for oil"
+      ]
+    }
+  },
+  {
     "id": "8666879",
     "headline": "As winter nears, heating oil emerges as hurdle for Republicans in US Senate races - Reuters",
     "summary": "As winter nears, heating oil emerges as hurdle for Republicans in US Senate races  Reuters",
@@ -7,7 +40,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1792836823,
+    "publishedAt": 1792847260,
     "analysis": {
       "version": 2,
       "generatedAt": 1792842020,
@@ -23,14 +56,93 @@
     }
   },
   {
+    "id": "8667282",
+    "headline": "Fact vs. fiction: Doctors share whether peptides are safe and effective",
+    "summary": "As peptides gain popularity among some wellness influencers and federal government officials, doctors share what you need to know.",
+    "url": "https://www.cnbc.com/make-it/2026/10/24/peptides-safety-risks-benefits.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108453108-1792788316240-gettyimages-2276706586-dsc04717.jpeg?v=1792788351&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1792847101,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1792853751,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The article discusses the growing popularity of peptides among wellness influencers and consumers, despite some peptides being untested and potentially unsafe. The US Department of Health and Human Services is considering allowing specialty pharmacies to compound certain synthetic peptides, which could lead to increased sales and demand. However, this move is controversial due to safety concerns and the lack of evidence supporting the effectiveness of these peptides. The FDA has listed some peptides as posing significant safety risks, and experts are warning about the potential dangers of using untested injectables.",
+      "impact": "The potential approval of peptides by the US Department of Health and Human Services could lead to increased demand and sales, which could benefit companies involved in the peptide market. However, this could also lead to increased regulatory scrutiny and potential backlash from consumers and investors if safety concerns are not addressed. In the short-term, this news could lead to a surge in interest and trading activity in companies involved in the peptide market, but in the medium-term, the lack of evidence supporting the effectiveness and safety of peptides could lead to a decline in sales and revenue.",
+      "risks": [
+        "Regulatory approval risk",
+        "Safety and efficacy concerns",
+        "Potential backlash from consumers and investors"
+      ]
+    }
+  },
+  {
+    "id": "8667488",
+    "headline": "UAE's Ras Al Khaimah shuts all beaches as neighbours grapple with oil spill - Reuters",
+    "summary": "UAE's Ras Al Khaimah shuts all beaches as neighbours grapple with oil spill  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeDMwaHJxZFNJTlFkYnB5UDY2SEdRcnRvdGRMSUNDR0I3cmhHT0xkTHQ4QjR5d241bnMtTm44UFIzdTZJYUJwcXZTcVFwN2FSVm80aTBWNmpXQVhrSTdtMnZHbWJiZTV1WFl1cGVyOHlJSmZ2d3gxZ0ZpTkpVOW0xTWFrNEFlTDczUGY1TVl0SmVKSVQ5cnN3S2NhU2dwZGZuYldJZDB3WWpaQTYzQ1RQeUdqNS1acnNqY002emRQMHV0TFU?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1792845943,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1792853805,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Ras Al Khaimah, a member of the United Arab Emirates (UAE), has shut all its beaches due to an oil spill in the region. The oil spill is affecting neighboring countries, including the UAE, Oman, and Iran. The incident is believed to have originated from a leak at a ship off the coast of Iran. The UAE's decision to close its beaches is a precautionary measure to prevent potential environmental damage. The oil spill is expected to have a significant impact on the marine ecosystem and local tourism industry.",
+      "impact": "The oil spill and resulting beach closures may negatively impact the tourism industry in the UAE, potentially affecting companies that rely on beach-related activities and revenue. In the short term, this may lead to a decrease in earnings for these companies. In the medium term, the incident may also impact the UAE's reputation as a tourist destination, affecting the country's economic growth and overall business environment. The incident may also lead to increased regulatory scrutiny and potential changes in environmental policies, which could have a long-term impact on the industry.",
+      "risks": [
+        "Environmental damage and reputational risk for the UAE's tourism industry",
+        "Potential regulatory changes and increased scrutiny",
+        "Negative impact on local businesses and economic growth"
+      ]
+    }
+  },
+  {
+    "id": "8667078",
+    "headline": "Why popular airplanes are getting scrapped years early",
+    "summary": "Airplanes are getting dismantled for parts years ahead of schedule because engines and other components are in short supply.",
+    "url": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108372828-1791230504885-IMG_0608.jpeg?v=1792780839&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1792843201,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1792853859,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Airlines are scrapping planes years ahead of schedule due to a shortage of aircraft engines and other components. This trend is driven by the high cost and limited availability of replacement parts, making it more economical for airlines to dismantle and sell younger planes for their parts. The average retirement age for narrow-body airplanes is 21.7 years, but the current average is 6.4 years, indicating a significant acceleration of the scrapping process. This shift is expected to continue as airlines prioritize cost savings over maintaining their fleets.",
+      "impact": "The scrapping of planes years ahead of schedule is likely to negatively impact the earnings of aircraft manufacturers such as Airbus and Boeing, as they will need to write down the value of their unsold inventory and potentially face reduced demand for new aircraft sales. Additionally, the increased demand for used aircraft parts may drive up prices, benefiting companies that specialize in aircraft trading and recycling, such as AerSale and EirTrade Aviation. However, this trend may also lead to a decrease in the value of aircraft leasing companies, as they may struggle to maintain their fleets with the limited availability of replacement parts.",
+      "risks": [
+        "Supply chain disruptions risk",
+        "Increased costs for airlines due to parts shortages",
+        "Potential decline in aircraft manufacturing sales"
+      ]
+    }
+  },
+  {
+    "id": "8666978",
+    "headline": "Jordan church attack survivor says assailant pointed handgun at him - Reuters",
+    "summary": "Jordan church attack survivor says assailant pointed handgun at him  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZVhBcHBITVRDY2hGb1hueUEwVnhWbUhBc3dvc2NXTk5Yd3NybDQyUW15R3NfVnBmOHpJLVo5b2UyVmN5NjdURndGT2xQb05hSlE4UU52cnFYMDdjbnlQTm9LRHpBSkdLSDUtTlhKdGJYVjN1cGY3c2hEelZjN3FhRXM1X0ZYbVk1Q05lX3ZPdWtBRHE4U3BHUjJtNUpMemJTbXhRcEVERGFZTUt2QW1JbXlSWUpWOGZ6UWc?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1792837784
+  },
+  {
     "id": "8666473",
-    "headline": "Saudi civil defense says danger passed after brief alerts for Mecca, Jeddah, Taif and Yanbu - Reuters",
-    "summary": "Saudi civil defense says danger passed after brief alerts for Mecca, Jeddah, Taif and Yanbu  Reuters",
+    "headline": "Saudi-led coalition says it intercepted Houthi ballistic missiles targeting Saudi cities - Reuters",
+    "summary": "Saudi-led coalition says it intercepted Houthi ballistic missiles targeting Saudi cities  Reuters",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1JpTkpxd3RUSFgwb29mWkRuSmg5UFd5d1RMQkZMdE5tV3F4cEN6SXFOODhTQUZTbTZucHJGVnpxMWpGZVFuSXJzZ045Q0o1Uzh5NFNvVENFX1M2dFQ0NzRGYjUtWk9TYjBWcldGNS1hY21yS2IyOXBsX29hcFg5N2ZENUlIV2oyTE1OT3hJQUFaS1pjTHV3VnZUTkRWbVFnd0JqYV9iZmVwUW4xcGNVOUdUZmgtaWpkVGdsVzJ1SXR1U1hyWG5uWg?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1792830892,
+    "publishedAt": 1792836479,
     "analysis": {
       "version": 2,
       "generatedAt": 1792842067,
@@ -44,6 +156,16 @@
         "Potential escalation of hostilities"
       ]
     }
+  },
+  {
+    "id": "8667387",
+    "headline": "Four Philippine Air Force pilots killed in training accident - Reuters",
+    "summary": "Four Philippine Air Force pilots killed in training accident  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUkZPOHk1VnhKNVhxNUVsNzg1VGdBWG1lYUFmLUptalZfVlJkMjJfVWU5MTh5TmhaZmZvRmZDbVNnRjZSb01GcV8tZWg1YlY2OVhZanBoV0NRMTZQbnd6eUhoOGlVekhkTkVrbXFCN1ZWTTF3UHVFRWdWZXdsWGkxUXhybVBhMlV6VDhGZ1JjcG5HNHRoWGhvRGxQSWYyVklyUkVsS01ZMGxyY0t6UlpkT3J3?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1792824900
   },
   {
     "id": "8666675",
@@ -1462,6 +1584,16 @@
     }
   },
   {
+    "id": "8667287",
+    "headline": "UN expert urges Indonesia to reconsider involvement in Trump's Gaza board - Reuters",
+    "summary": "UN expert urges Indonesia to reconsider involvement in Trump's Gaza board  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeUtLZ2hFQm9fbGFmTTBVcUMxZ2YtYjF1UUtxR0dTWDRFXzhNUTFXcUEtZHNFRERCUGU1YWlQUm1KazN2Y2FHMVAxWnJiTGdkRmhCNkZsWE5FdFMtQ3l6T0FES1lKdEdYaVYzaGZhR0JfVGEyNVN4dU1oaTMzdFRyWEF0ZVdsSFFUaVNRbzJaODVodDN4bThVa0dZMDFQYUpfRWhTWmZobEZYWnowaWFKSE9yam8xdFh0RlU3S1ln?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1792673715
+  },
+  {
     "id": "8657550",
     "headline": "Saudi Aramco tells staff to evacuate Dhahran headquarters, sources say - Reuters",
     "summary": "Saudi Aramco tells staff to evacuate Dhahran headquarters, sources say  Reuters",
@@ -1692,6 +1824,25 @@
     }
   },
   {
+    "id": "8657211",
+    "headline": "COMMENTARY: Asia buys more LNG despite surging prices, El Nino clouds outlook - Reuters",
+    "summary": "COMMENTARY: Asia buys more LNG despite surging prices, El Nino clouds outlook  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZEd6MUJ0RzZBWktFMGFuNkUzNVZKejZBX3EtdmdGUW5SQWpmM18yNEpWb212MzA5dENESGNJcHVWaXNBdTFNc2oyM1FNS2l5bmJLaWNCb3cwaG1WX3FYUXItdHo4cDhsV1Q1ZXNpVXZaVE1ReTVpY0hXN0V3NDFpYVJpWWY0OTk0MV85VHFJSmVNa001SVdnOF9EUkhieURyQjlfX1NzTGY2WmZZcVQxenhkZVBIMVVQdTBHTVZucWpONFdWOXBQQnRudFpEdw?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1792666058,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1792683735,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Asia's demand for liquefied natural gas (LNG) remains strong despite a surge in prices, driven by the region's growing energy needs. The International Energy Agency (IEA) reports that Asian countries are increasing their LNG imports, with China and Japan leading the way. This trend is expected to continue, with the IEA forecasting a 10% increase in global LNG demand by 2025. However, the outlook is clouded by the potential impact of El Nino, which could disrupt global energy markets and affect LNG prices.",
+      "impact": "The news is likely to have a mixed impact on the LNG industry, with some companies benefiting from the strong demand while others may struggle with higher production costs. In the short-term, the surge in prices may lead to higher earnings for companies with significant LNG production capacity, such as those in Australia and the US. However, the medium-term outlook is clouded by the potential impact of El Nino, which could lead to a decline in demand and lower prices. This could have a negative impact on the valuations of companies with high production costs or those with significant debt levels.",
+      "risks": []
+    }
+  },
+  {
     "id": "8662057",
     "headline": "Premji family office leads ₹1,000 crore investment in Vegafin Capital",
     "summary": "Funds to build AI-based lending platform for MSMEs; deal includes acquisition of Bizloan with $25 million loan book",
@@ -1815,25 +1966,6 @@
         "Uncertainty about the sustainability of current oil prices",
         "Potential for speculative trading to drive market volatility"
       ]
-    }
-  },
-  {
-    "id": "8657211",
-    "headline": "COMMENTARY: Asia buys more LNG despite surging prices, El Nino clouds outlook - Reuters",
-    "summary": "COMMENTARY: Asia buys more LNG despite surging prices, El Nino clouds outlook  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZEd6MUJ0RzZBWktFMGFuNkUzNVZKejZBX3EtdmdGUW5SQWpmM18yNEpWb212MzA5dENESGNJcHVWaXNBdTFNc2oyM1FNS2l5bmJLaWNCb3cwaG1WX3FYUXItdHo4cDhsV1Q1ZXNpVXZaVE1ReTVpY0hXN0V3NDFpYVJpWWY0OTk0MV85VHFJSmVNa001SVdnOF9EUkhieURyQjlfX1NzTGY2WmZZcVQxenhkZVBIMVVQdTBHTVZucWpONFdWOXBQQnRudFpEdw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1792649520,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1792683735,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Asia's demand for liquefied natural gas (LNG) remains strong despite a surge in prices, driven by the region's growing energy needs. The International Energy Agency (IEA) reports that Asian countries are increasing their LNG imports, with China and Japan leading the way. This trend is expected to continue, with the IEA forecasting a 10% increase in global LNG demand by 2025. However, the outlook is clouded by the potential impact of El Nino, which could disrupt global energy markets and affect LNG prices.",
-      "impact": "The news is likely to have a mixed impact on the LNG industry, with some companies benefiting from the strong demand while others may struggle with higher production costs. In the short-term, the surge in prices may lead to higher earnings for companies with significant LNG production capacity, such as those in Australia and the US. However, the medium-term outlook is clouded by the potential impact of El Nino, which could lead to a decline in demand and lower prices. This could have a negative impact on the valuations of companies with high production costs or those with significant debt levels.",
-      "risks": []
     }
   },
   {
@@ -17062,190 +17194,6 @@
         "Increased scrutiny of the Bank of England's monetary policy",
         "Potential for more aggressive rate hikes to combat inflation",
         "Negative impact on the UK economy and the pound sterling"
-      ]
-    }
-  },
-  {
-    "id": "8568836",
-    "headline": "UK 30-year gilt yields top 6% for the first time since 1998 - Reuters",
-    "summary": "UK 30-year gilt yields top 6% for the first time since 1998  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQXzl0aUJ6RnJZWnVGVndiTDFQOTI5VkN0YzlJQnQ2VkloTy1lVWE5TWd4dHBoLVVmSUl3WE1vMF9XMTlGZmRrZXlEamVXU0ZJcU41SFgwdDdPVzV4OWVzc0pIaDNNN0VwSlZMR0pHT0xXUEhUdnVuUXB3TnExeDZXTThHYUJYZWFHOUhBdnZBWXlwb2RJYVBR?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1790853792,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1790863190,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The UK 30-year gilt yields have surpassed 6% for the first time since 1998, indicating a significant increase in borrowing costs for the UK government. This development is largely driven by the Bank of England's efforts to combat inflation and stabilize the economy. The rising gilt yields are a reflection of market concerns about the UK's economic prospects, particularly in the face of a potential recession. The UK government's increasing reliance on short-term debt and the uncertainty surrounding the Brexit process have contributed to the upward pressure on yields.",
-      "impact": "The rising gilt yields are likely to have a negative impact on the UK government's borrowing costs, potentially leading to increased costs for public sector projects and a reduction in government spending. This could have a short-term negative impact on the UK economy, particularly on sectors that rely heavily on government funding. In the medium term, the increased borrowing costs may lead to higher interest rates, further exacerbating the economic slowdown. The UK's already high inflation rate and the potential for a recession may lead to a decrease in consumer and business confidence, further weighing on the economy.",
-      "risks": [
-        "Increased government borrowing costs",
-        "Potential economic slowdown",
-        "Decreased consumer and business confidence"
-      ]
-    }
-  },
-  {
-    "id": "8569363",
-    "headline": "SpaceX set to launch Google AI chips into orbit in push toward space-based data centers",
-    "summary": "SpaceX plans to launch Google tensor processing units into orbit on Planet Labs satellites.",
-    "url": "https://www.cnbc.com/2026/10/01/spacex-to-launch-google-ai-chips-to-orbit-with-planet-labs-satellites.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108338210-1784673643083-gettyimages-2286491276-AFP_C2TQ4WF.jpeg?v=1784673712&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1790853615,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1791095152,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "SpaceX is launching Google's AI chips into orbit on Planet Labs satellites, a key step towards developing space-based data centers. Alphabet's Project Suncatcher aims to create reliable, solar-powered AI computing infrastructure in space. This initiative is part of a broader effort to escape the data center backlash on Earth and provide scalable machine learning infrastructure. SpaceX and Alphabet are close partners, with Alphabet holding an $82 billion stake in SpaceX. This collaboration could lead to significant advancements in AI computing and data storage.",
-      "impact": "This news is bullish for Alphabet's (GOOGL) stock, as it highlights the company's innovation and leadership in AI and space technology. The success of Project Suncatcher could also drive growth for SpaceX, potentially leading to increased demand for its launch services and satellite production. However, the development of space-based data centers is a long-term effort, and investors should be cautious of the significant technical and operational challenges involved. The partnership between Alphabet and SpaceX could also create synergies and opportunities for cost savings, which could positively impact both companies' bottom lines.",
-      "risks": [
-        "Technical challenges in developing reliable and scalable AI computing infrastructure in space",
-        "Competition from other players in the space-based data center market",
-        "Regulatory hurdles and uncertainty surrounding the development of space-based infrastructure"
-      ]
-    }
-  },
-  {
-    "id": "8574403",
-    "headline": "Why are world bond markets selling off again? - reuters.com",
-    "summary": "Why are world bond markets selling off again?  reuters.com",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbHlJS0dDUGUxQWFaeWpJX21IdEZqSmw1UFRBcmcxajlsZW1yNlVVRm1ZQUVHQ0huUGdIdnBRTU1id0k3dVl1SlJ0UkxmNFUwNy1nWTNDcWtZdVpqOHp3czVja1hNWnZfQ2RxZnNUNDJYdXlSdVluME5vTjlhNVlYOEhUVVZRNVd1RzU3NWJyb0Q5R1hxZ2NOVGdZSFBnQQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1790853420,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1791095203,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Global bond markets are experiencing a sell-off due to a combination of factors, including rising interest rates, inflation concerns, and a strong US dollar. The sell-off is being driven by investors seeking higher yields in a low-interest-rate environment, which is putting pressure on bond prices. Central banks' efforts to normalize monetary policies and reduce stimulus measures are also contributing to the decline. The sell-off is affecting various bond markets worldwide, including government and corporate bonds.",
-      "impact": "The sell-off in bond markets is likely to have a negative impact on the financial sector, particularly banks and insurance companies that have significant exposure to bond investments. In the short term, this could lead to a decline in their stock prices as investors reassess their valuations. In the medium term, the increased interest rates could lead to a decrease in borrowing costs, which could be beneficial for companies with high debt levels, but may also lead to a decrease in consumer spending and economic growth. The sell-off could also lead to a decrease in liquidity in the bond market, making it more difficult for companies to raise capital.",
-      "risks": [
-        "Interest rate risk",
-        "Inflation risk",
-        "Currency risk due to a strong US dollar"
-      ]
-    }
-  },
-  {
-    "id": "8569259",
-    "headline": "Japan's prime minister says her policies will boost confidence in the yen after U.S. intervention falls short",
-    "summary": "Japan's Prime Minister said her government's policies will lift confidence in the yen, following underwhelming success in prior efforts to boost the currency.",
-    "url": "https://www.cnbc.com/2026/10/01/japan-yen-dollar-trump-intervention.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108366590-1790123618446-gettyimages-2296054858-AFP_C92N3TA.jpeg?v=1790123674&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1790853205,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1791118393,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Japan's Prime Minister Sanae Takaichi stated that her government's policies will boost confidence in the yen, despite previous efforts to strengthen the currency, including US intervention, being underwhelming. The yen's weakness is a concern for policymakers as it increases import costs and inflation. Takaichi emphasized that her administration aims to boost Japan's growth potential through investment in crisis management and growth areas, which should strengthen the yen. This approach is expected to increase Japan's global competitiveness and market confidence in the yen. The Japanese government will also manage its debt-to-GDP ratio and bond issuances.",
-      "impact": "The announcement may have a neutral to slightly positive impact on the Japanese stock market in the short term, as investors may view the government's policies as a positive step towards strengthening the yen. However, the effectiveness of these policies remains uncertain, and the yen's weakness is likely to continue to be a concern for policymakers. The impact on the yen's value is also uncertain, as the market may be skeptical of the government's ability to implement these policies effectively. In the medium term, the government's focus on investment in crisis management and growth areas may lead to increased spending and potentially higher inflation, which could negatively impact corporate earnings and valuations.",
-      "risks": [
-        "Inflation risk",
-        "Earnings slowdown risk",
-        "Uncertainty around policy effectiveness"
-      ]
-    }
-  },
-  {
-    "id": "8573852",
-    "headline": "SpaceX set to launch new crew for NASA on retiring dragon craft",
-    "summary": "SpaceX prepares Crew-13 launch to the ISS, while Dragon nears retirement and Starship advances alongside Boeing’s Starliner.",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-01/spacex-set-to-launch-new-crew-for-nasa-on-retiring-dragon-craft",
-    "source": "Bloomberg",
-    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
-    "relatedSymbols": [],
-    "publishedAt": 1790848158,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1791118444,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "SpaceX is set to launch a new crew to the ISS on its retiring Dragon craft, marking a significant milestone in the company's reusable spacecraft program. The Crew-13 mission is a testament to SpaceX's progress in developing and reusing its Dragon spacecraft, which has been a key component of the company's success in the space industry. The news also highlights the increasing competition in the space industry, with Boeing's Starliner program advancing alongside SpaceX's Starship. This development is a natural progression in the evolution of space technology and is not expected to have a significant impact on the business fundamentals of SpaceX or its peers.",
-      "impact": "The launch of the Crew-13 mission is unlikely to have a significant impact on the stock prices of SpaceX or its peers in the short term. However, it may lead to increased investor interest in the space industry, potentially driving up valuations for companies involved in the sector. The development of reusable spacecraft is a key driver of innovation in the space industry, and the success of SpaceX's program may lead to increased demand for space-related services and products.",
-      "risks": [
-        "Regulatory risks associated with the development and launch of new spacecraft",
-        "Increased competition from other space companies, including Boeing and Blue Origin",
-        "Potential delays or setbacks in the development of SpaceX's Starship program"
-      ]
-    }
-  },
-  {
-    "id": "8569158",
-    "headline": "EXCLUSIVE: Syrian government officials and Hezbollah held secret talks in Turkey, sources say - Reuters",
-    "summary": "EXCLUSIVE: Syrian government officials and Hezbollah held secret talks in Turkey, sources say  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdzNSVk8xcS0weTJwZkdGVVR2OVJqSUlnRlhRaG9HVlUxVEs0dWs0R2VTSkpCUlV4alRiVENpNnc4M3ZCVF9VVVBmWW9CQzJLRzhOaC1SODlHNmNhRWdXZHBDZ0g5UEJ1c2Fkd3ltenFpSHcwRWp6VEt6YnBhX0pUdVUyMUdTTkRKV2FBRDNRb3dJdk9BQVBqdGRBd19RNHltTUtmMERiZEFYUHJ0d2dHel9CSEpYeWlmRlZWbE5uaVlWVF9MbjBj?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1790847420,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1790863139,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Syrian government officials and Hezbollah held secret talks in Turkey, according to sources. This development may indicate a shift in the regional dynamics, potentially affecting the balance of power in the Middle East. The talks could be related to the ongoing conflict in Syria or other regional issues. The involvement of Hezbollah, a Shia Islamist group, may also be seen as a sign of Iran's increasing influence in the region. The exact nature and outcome of the talks are unclear.",
-      "impact": "The news may have a neutral impact on the global market, but it could lead to increased tensions in the Middle East, potentially affecting oil prices and the demand for defense-related stocks. In the short term, the news may not have a significant impact on the stocks of companies operating in the region, such as Turkish banks or defense contractors. However, in the medium term, the shift in regional dynamics could lead to changes in government policies and investments, affecting the stocks of companies operating in the region.",
-      "risks": [
-        "Increased regional instability",
-        "Potential escalation of the conflict in Syria",
-        "Impact on oil prices and global energy markets"
-      ]
-    }
-  },
-  {
-    "id": "8572483",
-    "headline": "UAE's Fujairah restores some fuel oil supplies despite Hormuz disruption, boosts Asia exports - Reuters",
-    "summary": "UAE's Fujairah restores some fuel oil supplies despite Hormuz disruption, boosts Asia exports  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNXhSVGFZS2JHR2JkNzlYczU1Rk5UME9QN2ZZS3VlWXVYQVQwcE9XbTVBVFNPNERfOXJvOVhHMkhOVWc1U2ZmYjJVYzdlNVJxR0xrdWswR0NkVGJzSjlYWmRHb1l4REFpa29iRWNnMWowcG5KZGw5YkMzamc5TlRsTlU2ZlB6a21nRlBKUDJ3Y2JtUTNBMURldXpUQjlCVkdacmZDM1BoQTNJWkVVcW5qSTRxbWpQX0J5Q2t6b0hWbm1UV1VEZlVrZTJR?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1790847224,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1791118499,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The United Arab Emirates' Fujairah has restored some fuel oil supplies despite the disruption caused by the Hormuz Strait crisis. This development is a positive sign for the global energy market, as it indicates that the UAE is taking steps to mitigate the impact of the crisis. The restoration of fuel oil supplies is expected to boost Asia's exports, which could have a positive impact on the region's economy. The UAE's efforts to maintain its energy exports are crucial for the global economy, particularly for countries reliant on imported oil. The news is a neutral development for the energy sector as a whole, as it does not significantly alter the underlying fundamentals of the industry.",
-      "impact": "The restoration of fuel oil supplies is likely to have a positive impact on oil prices in the short-term, as it reduces the supply shortage caused by the Hormuz Strait crisis. This could lead to increased earnings for oil-producing companies, particularly those with significant exposure to the Middle East region. However, the medium-term impact on the energy sector is less clear, as the crisis is still ongoing and the global economy is facing various challenges. The news may also boost the sentiment of oil-related stocks, leading to increased liquidity and potentially higher valuations.",
-      "risks": [
-        "Continued disruption to Hormuz Strait trade",
-        "Global economic slowdown risk",
-        "Uncertainty around oil demand"
-      ]
-    }
-  },
-  {
-    "id": "8568946",
-    "headline": "Israel's Netanyahu: Co-pilot of flydubai plane underwent radical Islamist indoctrination - Reuters",
-    "summary": "Israel's Netanyahu: Co-pilot of flydubai plane underwent radical Islamist indoctrination  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT1RDU0l3eU5nTnBlVmRsYkpBYTdSTEVRRE1WRk1qbVZYT0MxVzVMSWJMbHk3OElRU1M5RHlGXzV6UWFSdVJiU0cydV9qMlZvSE9mV0ZCcEZSVzJyVGx4X2x2SFJYTUw4N2lialRSOFoxSElUSHVMQ3RHZHZBamNQU21WdWJhbmJHUG9mXzFPbGpfbDRkUzBMYlVOODBPMUc1TTZzSHJYc0d5ME5Ud1NGQjR3d0xSUzdz?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1790846460,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1790863088,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Israel has pledged to investigate the attack on flydubai, a Dubai-based airline, but no motive has been determined yet. The incident occurred at Ben Gurion Airport in Tel Aviv, Israel. The attack is being treated as a serious incident, and authorities are working to determine the cause and potential perpetrators. The incident may have implications for the airline industry, particularly for airlines operating in the Middle East region.",
-      "impact": "The incident may lead to increased security measures for airlines operating in the region, potentially increasing costs for airlines such as Emirates, which operates flydubai. This could negatively impact their short-term earnings outlook. However, the medium-term impact is uncertain and may depend on the outcome of the investigation and any resulting changes to security protocols. The incident may also affect sentiment towards the airline industry, potentially leading to a short-term decline in stock prices.",
-      "risks": [
-        "increased security costs risk",
-        "sentiment risk",
-        "regional instability risk"
       ]
     }
   }
