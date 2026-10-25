@@ -1,5 +1,85 @@
 [
   {
+    "id": "8672432",
+    "headline": "Here are 4 big things we're watching in the stock market this week",
+    "summary": "Peak earnings season, plus a Fed meeting and fresh inflation data.",
+    "url": "https://www.cnbc.com/investingclub/2026/10/25/here-are-4-big-things-were-watching-in-the-stock-market-this-week.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108373638-1791320679046-gettyimages-2298340629-AMAZON_PRIME.jpeg?v=1791320784&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1792940306,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1792947054,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "This week's stock market will be influenced by the peak earnings season, with many companies releasing their quarterly results. The Federal Reserve's interest rate decision will also be announced, which could impact market volatility. Additionally, fresh inflation data will be released, providing insight into the current economic conditions. These events will likely drive market sentiment and influence investor decisions.",
+      "impact": "The peak earnings season may lead to short-term volatility in the stock market, with companies that beat or miss expectations experiencing significant price movements. The Federal Reserve's interest rate decision could also impact the market, potentially leading to increased volatility in sectors such as financials and technology. The inflation data will provide insight into the current economic conditions, which may influence investor sentiment and drive market trends.",
+      "risks": [
+        "Earnings disappointment risk",
+        "Interest rate hike risk",
+        "Inflation surprise risk"
+      ]
+    }
+  },
+  {
+    "id": "8672430",
+    "headline": "I paid off $11,000 of credit card debt in 18 months while still traveling, shopping and living my life",
+    "summary": "I racked up over $11,000 in credit card debt traveling, shopping and dining out. Here's how I paid it all off in under two years.",
+    "url": "https://www.cnbc.com/make-it/2026/10/25/pay-off-credit-card-debt.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108438443-1792521182922-FullSizeRender_1.jpg?v=1792521226&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1792936801
+  },
+  {
+    "id": "8672431",
+    "headline": "Should you travel together? Ask these questions before booking: 'It'll save you time, money and disappointment'",
+    "summary": "Consider budget, accommodations, personal habits, alone time and more, say Anna Goldfarb and Nell McShane Wulfhart, experts in friendship, travel and decision-making.",
+    "url": "https://www.cnbc.com/make-it/2026/10/25/travel-compatibility-questions.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108452647-1792779252338-gettyimages-2042539291-jh_travelbuds_0009.jpeg?v=1792779385&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1792935481,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1792947113,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "A recent survey by Booking.com found that 35% of travelers reported being incompatible with their travel buddies, leading to potential relationship or friendship issues. Experts suggest asking compatibility questions before booking a trip to avoid stress and disappointment. These questions include accommodation preferences, luggage habits, and ideal vacation activities. Understanding these differences can save time, money, and relationships.",
+      "impact": "The article does not directly impact the stock market, but it may influence consumer behavior and spending habits. Travelers may become more cautious when choosing travel companions, potentially leading to increased demand for travel-related services that cater to solo travelers or offer flexible booking options. This could benefit companies like Expedia (EXPE), Booking.com's parent company, or Airbnb (ABNB), which offer alternative accommodations and travel experiences.",
+      "risks": [
+        "Changes in consumer behavior and spending habits",
+        "Increased competition from travel companies that offer solo-friendly options",
+        "Potential decline in group travel bookings"
+      ]
+    }
+  },
+  {
+    "id": "8671822",
+    "headline": "Most Gulf shares close lower as Saudi-Houthi fighting rages on - Reuters",
+    "summary": "Most Gulf shares close lower as Saudi-Houthi fighting rages on  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa3ZBWG5tbkZvcXJFc2xkcEs1SmhEcHAybDM1ZGN0T0ZCN3BIcTFyaF9laXlEYVA2N2ZsUmJjcmgxaS1aVW5jdFZSOFZrc2JnUWFJaFRwR25QS0pob0RTT0lONlJldzVxOFlidThrdm8zTVU4X1l4dFRPVUY5R0ZuX05aX2pibWg2VlNLUmlaVmFaWDg5bDlMQUVFWTh2bnZ3WFJ4MzA1RWVDMEtKOEE?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1792934432,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1792932563,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The ongoing conflict in Yemen has led to a decline in Saudi and Egyptian stocks. The conflict has escalated, causing concerns about regional stability and the potential impact on oil prices. The Saudi stock market, in particular, is sensitive to oil price fluctuations, which could further exacerbate the decline. The Egyptian stock market is also affected due to the country's close economic ties with Saudi Arabia and the potential for a broader regional economic slowdown.",
+      "impact": "The conflict in Yemen is likely to have a short-term negative impact on Saudi and Egyptian stocks, driven by concerns about regional stability and oil prices. In the medium term, the decline in oil prices could lead to a decrease in earnings for oil-dependent companies in Saudi Arabia, further weighing on the stock market. The Egyptian stock market may also experience a liquidity crunch due to reduced investor confidence and a potential decline in remittances from Egyptian workers in Saudi Arabia.",
+      "risks": [
+        "Regional stability risk",
+        "Oil price volatility risk",
+        "Economic slowdown risk",
+        "Liquidity risk"
+      ]
+    }
+  },
+  {
     "id": "8671823",
     "headline": "Jordan church attack survivor says her cousin died before her eyes - Reuters",
     "summary": "Jordan church attack survivor says her cousin died before her eyes  Reuters",
@@ -7,7 +87,7 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1792926251,
+    "publishedAt": 1792932327,
     "analysis": {
       "version": 2,
       "generatedAt": 1792932465,
@@ -42,30 +122,6 @@
         "uncertainty around trade policies and their impact on global trade",
         "potential volatility in the US dollar's value",
         "challenges in implementing and enforcing new policies"
-      ]
-    }
-  },
-  {
-    "id": "8671822",
-    "headline": "Saudi, Egyptian stocks sink as Yemen conflict intensifies - Reuters",
-    "summary": "Saudi, Egyptian stocks sink as Yemen conflict intensifies  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa3ZBWG5tbkZvcXJFc2xkcEs1SmhEcHAybDM1ZGN0T0ZCN3BIcTFyaF9laXlEYVA2N2ZsUmJjcmgxaS1aVW5jdFZSOFZrc2JnUWFJaFRwR25QS0pob0RTT0lONlJldzVxOFlidThrdm8zTVU4X1l4dFRPVUY5R0ZuX05aX2pibWg2VlNLUmlaVmFaWDg5bDlMQUVFWTh2bnZ3WFJ4MzA1RWVDMEtKOEE?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1792921445,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1792932563,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The ongoing conflict in Yemen has led to a decline in Saudi and Egyptian stocks. The conflict has escalated, causing concerns about regional stability and the potential impact on oil prices. The Saudi stock market, in particular, is sensitive to oil price fluctuations, which could further exacerbate the decline. The Egyptian stock market is also affected due to the country's close economic ties with Saudi Arabia and the potential for a broader regional economic slowdown.",
-      "impact": "The conflict in Yemen is likely to have a short-term negative impact on Saudi and Egyptian stocks, driven by concerns about regional stability and oil prices. In the medium term, the decline in oil prices could lead to a decrease in earnings for oil-dependent companies in Saudi Arabia, further weighing on the stock market. The Egyptian stock market may also experience a liquidity crunch due to reduced investor confidence and a potential decline in remittances from Egyptian workers in Saudi Arabia.",
-      "risks": [
-        "Regional stability risk",
-        "Oil price volatility risk",
-        "Economic slowdown risk",
-        "Liquidity risk"
       ]
     }
   },
@@ -117,8 +173,8 @@
   },
   {
     "id": "8670012",
-    "headline": "Saudi Arabia intercepts drones and missiles as fighting with Yemen's Houthis continues - Reuters",
-    "summary": "Saudi Arabia intercepts drones and missiles as fighting with Yemen's Houthis continues  Reuters",
+    "headline": "Saudi says Riyadh airport partly reopens despite renewed Houthi threats - Reuters",
+    "summary": "Saudi says Riyadh airport partly reopens despite renewed Houthi threats  Reuters",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT0JBTVByRUdVWnYzNWpyRUlfbGRFR2RnQzZpbTgzR05tX1AzU2VkVC10RUswYWthSGtJa2FZamVSa2E2ckdSeG5FN3VGTFU5SVJfbjY4NEZjR2tQSWJfZmxtbTJvUU5YSEpKWHRQQWpHMGRfR29xeFhkR1BwcHA5NlA3MnJmRnloYzF6Q0tBZG92ZDgzWmRubVNpNi1CajBmdXdNZmNTYnkzLWFnMldvaQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -1603,7 +1659,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1792743269
+    "publishedAt": 1792743269,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1792947160,
+      "sentiment": "neutral",
+      "confidence": 0.8,
+      "summary": "A recent incident involving a yacht off the coast of Yemen has resulted in the safety of all 14 Indian nationals on board being confirmed by the Indian embassy. The incident reportedly occurred on April 22, but the details are scarce. The news does not have any direct connection to the Indian economy or any specific industry. However, it may have a positive impact on the sentiment towards India as a safe destination for international travelers and business operations.",
+      "impact": "The news is unlikely to have a significant impact on the Indian economy or the stocks of companies operating in the country. However, it may lead to a short-term increase in tourism and business confidence, potentially benefiting companies in the hospitality and tourism sectors such as Indian Hotels, Taj GVK, and ITC. In the medium term, the news may also have a positive impact on the Indian rupee, as it may attract foreign investment and improve the country's image abroad.",
+      "risks": [
+        "short-term market volatility",
+        "currency fluctuations",
+        "geopolitical tensions"
+      ]
+    }
   },
   {
     "id": "8664768",
@@ -1613,7 +1682,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1792740876
+    "publishedAt": 1792740876,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1792947212,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Turkey has passed a law allowing for the liquidation of certain funds, which may provide relief to savers who have been waiting for access to their money. The law aims to address the ongoing issue of frozen assets and restore confidence in the financial system. This move is a response to the economic crisis in Turkey, which has led to a decline in the value of the lira and a freeze on certain bank accounts. The law is expected to have a positive impact on the financial sector, but its effectiveness remains to be seen.",
+      "impact": "The passing of this law may have a positive impact on the Turkish financial sector in the medium term, as it addresses a key source of uncertainty for savers. However, the short-term impact may be limited, as the law's effectiveness will depend on its implementation and the speed at which frozen assets are unlocked. The Turkish lira may experience some relief, but the currency's value is likely to remain volatile in the short term. The law may also have a positive impact on the earnings outlook for Turkish banks, as they may see an increase in deposits and a reduction in loan defaults.",
+      "risks": [
+        "Implementation risk: the law's effectiveness will depend on its implementation and the speed at which frozen assets are unlocked.",
+        "Currency volatility risk: the Turkish lira's value may remain volatile in the short term.",
+        "Economic recovery risk: the law may not be enough to address the underlying economic issues in Turkey, leading to continued economic instability."
+      ]
+    }
   },
   {
     "id": "8666273",
@@ -1727,6 +1809,16 @@
         "valuation risk"
       ]
     }
+  },
+  {
+    "id": "8664367",
+    "headline": "In Iowa stronghold, Trump urges Republicans to turn out and vote - Reuters",
+    "summary": "In Iowa stronghold, Trump urges Republicans to turn out and vote  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTWF4NG5RaXlKdHByTkd4a0JZeEV1Vk0wbHdpd0p3eWkxaExiQV9BalZ6Njh5TzVjV2ZvUkhMOUg3OURGYUxYYnlyYkhRTzJ0cU5KWFBHR3JrWFdNMzE4VlQwODIzeUJtLTFZdEROcU1FQVAyaFpEM3lCVW40TnljODVzT25SUXVUQ1IxbXl5UmpneUNiR2s0TlphRjk4VE1FTWR0S1VSQTk?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1792709856
   },
   {
     "id": "8661634",
@@ -2466,16 +2558,6 @@
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
     "publishedAt": 1792665180
-  },
-  {
-    "id": "8664367",
-    "headline": "In Iowa stronghold, Trump urges Republicans to turn out and vote - Reuters",
-    "summary": "In Iowa stronghold, Trump urges Republicans to turn out and vote  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTWF4NG5RaXlKdHByTkd4a0JZeEV1Vk0wbHdpd0p3eWkxaExiQV9BalZ6Njh5TzVjV2ZvUkhMOUg3OURGYUxYYnlyYkhRTzJ0cU5KWFBHR3JrWFdNMzE4VlQwODIzeUJtLTFZdEROcU1FQVAyaFpEM3lCVW40TnljODVzT25SUXVUQ1IxbXl5UmpneUNiR2s0TlphRjk4VE1FTWR0S1VSQTk?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1792663740
   },
   {
     "id": "8657551",
@@ -17343,75 +17425,6 @@
         "Regulatory risks associated with AI adoption",
         "Increased competition for workers with critical thinking and judgment skills",
         "Potential disruption to traditional education and training models"
-      ]
-    }
-  },
-  {
-    "id": "8574301",
-    "headline": "Putin says Russia won't supply diesel to global markets until sanctions are lifted - Reuters",
-    "summary": "Putin says Russia won't supply diesel to global markets until sanctions are lifted  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeERSQ3BpdEdRdW9yS05wbDZGOVBaY1hNZ3RNclV0U0NzYlFlVkhiQUU0MXhXc2MzQjFNWFlaLUlYbHdtSTBnaHN2NGFNY2pxOUFJN3RQdjBCMHhMRkNZYTY4emE2ZXBDNm01Q2NwQWxvOHBwWE9iNW1acVMwZzFyY0dEUFVhMG84S3MyaUlUcC05bGRicmtaNExkbk45bWoxdTdvdnpBaTc5cW0tOVJuX2FfbWlUTlB0M2hVSm9KX2E3aWE2M2NpeHB3?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1790876609,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1791072483,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Russian President Putin announced that Russia will not supply diesel to global markets until sanctions are lifted. This decision is a response to ongoing economic sanctions imposed on Russia due to its actions in Ukraine. The sanctions have already had a significant impact on Russia's economy, and this move is likely to exacerbate the situation. The lack of diesel supply will likely lead to higher prices and reduced demand for Russian oil, further weakening the country's economy.",
-      "impact": "The news is bearish for oil and energy-related stocks, particularly those with significant exposure to Russian oil exports. Companies such as Gazprom and Rosneft may see their earnings outlook and valuation decline as a result of reduced demand for their products. The medium-term impact will be felt in the global energy market, with potential price increases and supply chain disruptions. This may also lead to a shift in global energy supply chains, benefiting companies with diversified supply sources.",
-      "risks": [
-        "Reduced demand for Russian oil and gas",
-        "Price volatility in the global energy market",
-        "Economic instability in Russia"
-      ]
-    }
-  },
-  {
-    "id": "8572482",
-    "headline": "Saudi-led coalition says Houthis attacked power station for Prophet's Mosque in Medina - Reuters",
-    "summary": "Saudi-led coalition says Houthis attacked power station for Prophet's Mosque in Medina  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZnZXZzBwRDQtUGJYZWxuelowY3BQM2prQm43eC0yOTVELWRadi1GRmJWcXAtOU9RXzlrX3ctd3ZmckFmVEtNLXhtQzRhRDNSWkJyc1djUGJ0NFhPUTZPbDR6OVd4QTBlUDh6bEhqUlZEanMzUlRpOVdKeUtyVnRVaHJPT0ZCQy1jcEZwc05aZ0dPY2l3VF9fVmJCZ3BHNGIxUXppQUNlMGlGV1I1SUhPMXYyMHo?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1790873880,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1790908569,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The Saudi-led coalition has accused the Houthis of attacking a power station serving the Prophet's Mosque in Medina, a significant religious site in Saudi Arabia. This incident is a continuation of the ongoing conflict between the Saudi-led coalition and the Houthis in Yemen. The attack is likely to escalate tensions in the region and potentially disrupt the fragile peace process. The incident may also impact the reputation of Saudi Arabia's government, which could have implications for the country's economy and the stocks of companies operating in the region.",
-      "impact": "The attack may lead to a short-term increase in tensions and volatility in the Middle East, potentially affecting the stocks of companies with exposure to the region, such as Saudi Aramco (TADAWUL: 7010) and other Saudi-listed companies. In the medium term, the incident may lead to a reassessment of the risks associated with investing in the region, potentially weighing on the stocks of companies with significant operations in Saudi Arabia or Yemen. The attack may also impact the country's reputation, potentially affecting tourism and the economy, which could have a negative impact on the stocks of companies with significant exposure to these sectors.",
-      "risks": [
-        "Escalation of conflict in the region",
-        "Disruption to oil production and exports",
-        "Negative impact on Saudi Arabia's reputation and economy"
-      ]
-    }
-  },
-  {
-    "id": "8570588",
-    "headline": "Next OpenAIs and Anthropics may come straight to retail market. Here's what to know before investing",
-    "summary": "The SEC wants retail investors to access private markets, and with all the hype around tech darlings going public, there's plenty of potential reward and risk.",
-    "url": "https://www.cnbc.com/2026/10/01/sec-private-equity-hedge-funds-stock-investing.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108371136-1790870256539-gettyimages-2223557095-vault_gold.jpeg?v=1790870270&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1790873428,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1790897411,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The SEC plans to make private markets more accessible to retail investors, allowing them to participate in investments traditionally reserved for sophisticated investors. This move is driven by investor demand and aims to democratize access to private equity and venture capital. The SEC proposals include permitting performance fees of up to 20% on public funds and new ways for individual investors to qualify for access to private market investments. This trend is expected to accelerate with the introduction of new funds and ETFs that straddle the line between public stock holdings and private companies.",
-      "impact": "The potential impact on related stocks is positive, as increased access to private markets may lead to higher demand for private equity and venture capital investments. This could drive up valuations and earnings for companies in these sectors, particularly those with high-growth potential. The introduction of new funds and ETFs may also increase liquidity and attract more investors to the market, further driving growth. In the short-term, this may lead to increased trading volumes and volatility in the stocks of companies involved in private equity and venture capital.",
-      "risks": [
-        "Increased competition for private equity and venture capital investments may drive up valuations and reduce returns",
-        "Higher performance fees may erode investor returns",
-        "Illiquidity risk for private companies held within publicly traded funds"
       ]
     }
   }
