@@ -1,5 +1,74 @@
 [
   {
+    "id": "8713032",
+    "headline": "Election Day: Here is the No. 1 issue we're watching as a signal for stocks",
+    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+    "url": "https://www.cnbc.com/investingclub/2026/11/03/election-day-here-is-the-no-1-issue-were-watching-as-a-signal-for-stocks.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108504877-1793637178383-Traders-Photo-20261102-KK-PRESS-008.jpg?v=1793637286&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1793734181,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1793743449,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The Investing Club is highlighting Election Day as a key event to watch for signals on the stock market. The article emphasizes that the outcome of the elections can influence investor sentiment, leading to potential shifts in market trends. This, in turn, can impact the performance of various stocks, particularly those sensitive to economic policies and regulatory changes. The article does not specify which stocks are directly affected, but it implies that a clear understanding of the election results is crucial for investors to make informed decisions.",
+      "impact": "The potential impact of Election Day on stocks is likely to be short-term, with investors reacting to the immediate outcome of the elections. A shift in investor sentiment could lead to changes in stock prices, particularly for companies heavily reliant on government contracts or subject to regulatory changes. The medium-term impact may also be significant, as the outcome of the elections could influence the direction of economic policies and regulatory frameworks, affecting the earnings outlook and valuation of certain stocks.",
+      "risks": [
+        "uncertainty about the election outcome",
+        "potential shifts in investor sentiment",
+        "regulatory changes impacting specific industries"
+      ]
+    }
+  },
+  {
+    "id": "8713018",
+    "headline": "Ex-Amex CEO shares when business leaders need to speak up about politics: 'You should care about what happens in our society'",
+    "summary": "Ken Chenault, who served 17 years as American Express CEO, says some political situations call for a firm stance from business leaders.",
+    "url": "https://www.cnbc.com/make-it/2026/11/03/ken-chenault-ceo-politics-voting-rights.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108511265-1793717427351-gettyimages-2299299068-ecs26100864_web.jpeg?v=1793728522&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1793730872,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1793743498,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "Former American Express CEO Ken Chenault emphasized the importance of business leaders taking a public stance on issues that threaten democratic institutions, citing the preservation of voting rights as a key concern. Chenault, now chairman of General Catalyst, believes that CEOs should have a long-term perspective on risks and opportunities that could impact their companies. He pointed to the upcoming midterm elections and the potential for political instability as a reason for corporate leaders to speak out. Chenault's comments come as the Republican Party faces a potential loss of national and state-level seats, with President Trump refusing to commit to accepting the election results.",
+      "impact": "The potential for increased political instability and erosion of democratic institutions could negatively impact the overall business environment, leading to decreased investor confidence and a higher risk premium for companies. This could result in a short-term increase in volatility for the broader market, particularly for companies with high exposure to the US economy. In the medium term, a breakdown of the rule of law could lead to a decrease in foreign investment and a slowdown in economic growth, further impacting corporate earnings and stock prices.",
+      "risks": [
+        "Decreased investor confidence",
+        "Increased regulatory scrutiny",
+        "Economic instability"
+      ]
+    }
+  },
+  {
+    "id": "8713015",
+    "headline": "Ghosted after a job interview? There's a website for that—and thousands of frustrated job seekers have weighed in",
+    "summary": "Being ghosted during the hiring process can be frustrating and demoralizing for candidates. Gary Meyer created a space for them to vent.",
+    "url": "https://www.cnbc.com/make-it/2026/11/03/employer-ghosting-job-interviews.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108505827-1793651052634-gettyimages-2186613552-dscf3232.jpeg?v=1793651073&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1793728801,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1793743547,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "Gary Meyer created a website, Did They Ghost You, to track and rank companies that ghost job candidates, based on anonymous reports from thousands of frustrated job seekers. The website has become a platform for people to share their experiences of being ghosted by employers, including big names in the S&P 500. According to a recent report, 45% of job seekers who made it to the interview stage said they were ghosted by an employer afterward. This issue is not limited to small companies, but also affects large corporations. The website's creator aims to provide a platform for job seekers to share their experiences and to raise awareness about the issue of ghosting in the hiring process.",
+      "impact": "The news may have a negative impact on the reputation of companies that are listed on the website, potentially affecting their brand image and customer loyalty. However, it is unlikely to have a significant impact on their stock prices in the short term. In the medium term, companies may face increased scrutiny from investors and potential employees, which could lead to changes in their hiring practices and potentially affect their stock prices.",
+      "risks": [
+        "reputation risk",
+        "talent acquisition and retention risk",
+        "regulatory risk"
+      ]
+    }
+  },
+  {
     "id": "8712999",
     "headline": "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto 108511116",
     "summary": "Binance has replenished 98% of $6.34 billion in affected assets, according to a security report the crypto exchange issued Tuesday.",
@@ -7,7 +76,21 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/108486127-1793363861367-gettyimages-2302646786-vcg111678111006.jpeg?v=1793363876&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1793723189
+    "publishedAt": 1793723189,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1793743595,
+      "sentiment": "neutral",
+      "confidence": 0.7,
+      "summary": "Binance's co-CEO Richard Teng revealed that hackers used fake job interviews, AI tools, and malicious software to steal $6.3 billion in crypto assets from the exchange. The attackers spent months building their way in, compromising internal AI tools and breaching the system that authorized wallet transactions. Binance has replenished 98% of the affected assets and is still in the process of purchasing outstanding assets. The incident highlights the ongoing security risks in the crypto space and the importance of robust security measures.",
+      "impact": "The incident may lead to a short-term increase in risk aversion among investors, potentially impacting the stock prices of other crypto exchanges and related companies. However, Binance's ability to replenish 98% of the affected assets and its pledge to cover customer losses may help to mitigate the damage. The incident may also accelerate the adoption of decentralized finance (DeFi) solutions, which are less vulnerable to centralized exchange hacks. The long-term impact on Binance's business fundamentals remains uncertain.",
+      "risks": [
+        "reputation risk",
+        "security risk",
+        "regulatory scrutiny risk",
+        "increased competition from DeFi solutions"
+      ]
+    }
   },
   {
     "id": "8712975",
@@ -17504,48 +17587,5 @@
     "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
     "relatedSymbols": [],
     "publishedAt": 1791817437
-  },
-  {
-    "id": "8610791",
-    "headline": "Parenting in the digital age can be ‘a very anxiety provoking experience,’ says Emily Oster: How parents can lower that anxiety",
-    "summary": "For those parents overwhelmed by headlines about the dangers of new tech, try using it and getting informed, says Emily Oster.",
-    "url": "https://www.cnbc.com/make-it/2026/10/12/emily-oster-how-parents-can-lower-anxiety-.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108378239-1791490446819-Father_walking_with_his_son_in_a_city-1492599153-Getty.jpg?v=1791490657&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1791817388,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1791833161,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Emily Oster, a parenting expert and economics professor, suggests that parents can lower anxiety about the impact of technology on their children by educating themselves about the tools and taking control of their home environment. Oster recommends exploring online platforms and setting boundaries, such as no screens or phones at night, to create a stable and supportive home life. This approach can help parents feel more empowered and confident in their decision-making. The key takeaways are that education and control of one's environment are crucial in managing anxiety and setting a positive example for children.",
-      "impact": "This news is unlikely to have a direct impact on the stock market or specific companies, as it is focused on parenting advice rather than business or economic trends. However, the growing concern about the impact of technology on children may lead to increased demand for products and services that promote digital literacy and online safety, potentially benefiting companies in the education and cybersecurity sectors. The medium-term impact may be a shift in consumer behavior towards more mindful and responsible technology use, which could influence the demand for certain consumer goods and services.",
-      "risks": [
-        "regulatory risk in the education and cybersecurity sectors",
-        "increased competition in the education and cybersecurity markets",
-        "potential backlash against companies perceived as promoting excessive technology use"
-      ]
-    }
-  },
-  {
-    "id": "8610374",
-    "headline": "McDonald's is leaning into chicken and drinks to grow. New data shows it could be a tough task",
-    "summary": "McDonald's is targeting growth in chicken and beverages, but Consumer Edge data shows Chick-fil-A and coffee chains gaining in customer spending.",
-    "url": "https://www.cnbc.com/2026/10/12/mcdonalds-chicken-beverage-growth.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108382523-1791567898694-gettyimages-1316692189-dsc07975_2021050643341036.jpeg?v=1791579865&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1791817002
-  },
-  {
-    "id": "8611832",
-    "headline": "Delta pushes back Atlanta-Riyadh service after Riyadh airport attacks - Reuters",
-    "summary": "Delta pushes back Atlanta-Riyadh service after Riyadh airport attacks  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV2IxbVRMM1FQaTJjRjkzYldNOEtYS1FPLUhINTlNYUFiR1d6LVlLNkZsejYyOVFOTENmNmZVVVl6STRkZjREMzA4NGZ5aWZNcDRfOEJQYmZETTVFVU1EWXdKQWVPMjl0UkpZRkZFNFpZRXA5cXQ0T0ZuZ1ItSWFFY0o5bE41UEtLNGgwenpnMGF0OXRPWDNFRm9ubmRreXZSWUJMczFWYmNuSEhKZmNkTDd0cHcwME1VdFBKamhaS3I?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1791816702
   }
 ]
