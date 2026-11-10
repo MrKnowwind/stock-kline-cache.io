@@ -1,5 +1,58 @@
 [
   {
+    "id": "8737019",
+    "headline": "Skydance outlines its $6 billion in planned cost savings. Here's the breakdown",
+    "summary": "The updates came alongside a third-quarter earnings report for the legacy Paramount Skydance.",
+    "url": "https://www.cnbc.com/2026/11/09/skydance-cost-savings-breakdown.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108526744-1793897064016-gettyimages-2298602774-SKYDANCE_NYSE.jpeg?v=1793897093&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1794259720
+  },
+  {
+    "id": "8737003",
+    "headline": "Children’s Place files for bankruptcy protection, seeks buyer",
+    "summary": "The Children's Place has filed for chapter 11 bankruptcy protection and is seeking bids from potential new owners by Dec. 9.",
+    "url": "https://www.cnbc.com/2026/11/09/childrens-place-chapter-11-sale.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/103620328-GettyImages-528785996.jpg?v=1715618694&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1794257866,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1794277526,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "The Children's Place, a children's clothing retailer, has filed for chapter 11 bankruptcy protection and is seeking a buyer by December 9. The company's performance has been impacted by tariff hikes, slower consumer spending, and tough comparisons to prior-year periods. Despite support from investors, the company has not been able to improve its financial outlook, with net sales dropping nearly 19% in the second fiscal quarter of 2026. The company's stock has plummeted in recent years, trading around 18 cents per share on Monday.",
+      "impact": "The bankruptcy filing and potential sale of the company's assets may lead to a short-term decline in the stock price, as investors become increasingly bearish on the company's prospects. In the medium term, the sale of the company's assets could result in a significant devaluation of the brand and a potential loss of market share. The company's earnings outlook is uncertain, and the impact of the bankruptcy filing on the company's liquidity and ability to meet its debt obligations is a concern.",
+      "risks": [
+        "debt restructuring risk",
+        "brand devaluation risk",
+        "market share loss risk",
+        "debt default risk"
+      ]
+    }
+  },
+  {
+    "id": "8736976",
+    "headline": "This beaten-down data center stock could be worth a look, says Mike Khouw",
+    "summary": "United Rentals is trading at a below-market forward multiple. Effectively, one can buy superior, market-beating growth at a discounted market multiple.",
+    "url": "https://www.cnbc.com/2026/11/09/this-beaten-down-data-center-stock-could-be-worth-a-look-says-mike-khouw.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108546421-1794234883442-bulldozer.png?v=1794235014&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1794252237,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1794277575,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "United Rentals is trading at a below-market forward multiple, offering investors the opportunity to buy superior growth at a discounted price. The company's recent earnings beat and raise, driven by robust demand across its end markets, has led to positive estimate revisions and a sturdy macro backdrop. This growth is supported by a broader nonresidential construction recovery and improving rental rates. While there are risks, including a potential slowdown in data center construction, the stock's historical valuation provides a floor for its price.",
+      "impact": "The article suggests that United Rentals' stock could be worth a look, particularly for traders who believe in mean reversion. The stock's below-market valuation and improving earnings estimates make it an attractive option for those seeking to buy growth at a discounted price. This could lead to a short-term increase in the stock price as investors take advantage of the undervaluation. The article also highlights the potential for a defined-risk, moderately bullish options trade, which could provide a strategic entry mechanism for investors.",
+      "risks": []
+    }
+  },
+  {
     "id": "8736957",
     "headline": "Boeing to cut 5% of commercial airplane workforce as production increase is slower than expected",
     "summary": "Boeing said Monday that it plans to cut 5% of its commercial airplane workforce as its production ramp-up is moving at a slower pace than the company expected.",
@@ -69,6 +122,25 @@
     }
   },
   {
+    "id": "8737001",
+    "headline": "Why Jim Cramer believes Nvidia is still valuable despite the CEO affair controversy",
+    "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+    "url": "https://www.cnbc.com/investingclub/2026/11/09/why-jim-cramer-believes-nvidia-is-still-valuable-despite-the-ceo-affair-controversy.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108546533-1794240968014-gettyimages-2303800735-NVIDIA.jpeg?v=1794240990&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1794244184,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1794277622,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Jim Cramer, a well-known stock picker, expressed his support for Nvidia despite the controversy surrounding the CEO's affair. This controversy has led to a temporary decline in the stock price, but Cramer believes it won't have a lasting impact on the company's fundamentals. Nvidia's strong position in the AI and gaming markets, as well as its innovative products, are expected to drive growth. The company's earnings outlook remains solid, and its valuation is still reasonable compared to its peers.",
+      "impact": "The news is likely to have a short-term positive impact on Nvidia's stock price as investors reassess the company's fundamentals and value. In the medium term, Nvidia's earnings growth and innovation in AI and gaming will continue to drive the stock higher. The controversy may have created a buying opportunity for investors who believe in the company's long-term prospects.",
+      "risks": []
+    }
+  },
+  {
     "id": "8736940",
     "headline": "Honda to invest $3 billion in new vehicle assembly plant in Ohio",
     "summary": "The Japanese automaker said the plant will focus on hybrid vehicles and is expected to begin production in 2029.",
@@ -122,7 +194,20 @@
     "source": "CNBC",
     "image": "https://image.cnbcfm.com/api/v1/image/108338154-1784667114991-gettyimages-2163887955-GOODYEAR_EARNS.jpeg?v=1784667177&w=1920&h=1080",
     "relatedSymbols": [],
-    "publishedAt": 1794234575
+    "publishedAt": 1794234575,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1794277670,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Goodyear Tire & Rubber's CEO Mark Stewart has stepped down as the company continues its turnaround plan. The leadership change comes as the company has faced disappointing results, including a 2.3% decline in net sales and an adjusted net loss of $31 million in the third quarter. The company has not met its goal of achieving a 10% operating margin by the end of last year. The board has appointed Roger Wood as interim CEO and president, who will lead the company through a strategic review and search for a permanent replacement.",
+      "impact": "The news is likely to weigh on Goodyear's stock in the short term, as the leadership change and disappointing results may lead to a decline in investor confidence. The company's earnings outlook may be negatively impacted by the current headwinds, including tariffs, higher raw material costs, and increased competition from China. The medium-term impact will depend on the outcome of the strategic review and the effectiveness of the new leadership in driving the company's turnaround plan.",
+      "risks": [
+        "Earnings slowdown risk",
+        "Leadership transition risk",
+        "Increased competition from China risk"
+      ]
+    }
   },
   {
     "id": "8736927",
@@ -143,6 +228,16 @@
     "image": "https://image.cnbcfm.com/api/v1/image/108361248-1789053075790-gettyimages-2292907694-US_HOME_SALES.jpeg?v=1794232565&w=1920&h=1080",
     "relatedSymbols": [],
     "publishedAt": 1794232469
+  },
+  {
+    "id": "8736970",
+    "headline": "We're booking profits in a stock to reduce our data center exposure",
+    "summary": "The sale will lock in a sizable gain on stock purchased in December 2023.",
+    "url": "https://www.cnbc.com/investingclub/2026/11/09/were-booking-profits-in-a-stock-to-reduce-our-data-center-exposure.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108334892-1784052608096-gettyimages-2285453922-1562646-me-vernon-data-center-07-mjc.jpeg?v=1784052668&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1794231777
   },
   {
     "id": "8736814",
@@ -16435,95 +16530,6 @@
         "Difficulty in measuring the effectiveness of these lessons in real-world settings",
         "Potential for conflicting values or parenting styles among different demographics or cultures",
         "Uncertainty about the scalability and replicability of these lessons in various family settings"
-      ]
-    }
-  },
-  {
-    "id": "8643949",
-    "headline": "Ukraine 'regrets' possible diversion of its drones over Lithuania, foreign ministry says - Reuters",
-    "summary": "Ukraine 'regrets' possible diversion of its drones over Lithuania, foreign ministry says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRUpURy1lbVFTRFVVRWFmZzM5V0hkNWFKcmVwWlEwZUd3aW4tazhodWZaMHI0czNMVFJpOVlabmNSVXhVR3hHWVdWQS1INU5tb2pPTVRxY0RtOWwxVkt6M280SnBDaUVRb3Q2QWNNckM0UjhyaEFNa2l1ZVJkTGFBR1hWNkl6YTdfSHJTaDFZOWVoTjBQR3FrQ0NzaEc0QjBIUk52aHgtVHZIMlFWeFNXNVVYNWR3aWZ5dldZ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1792330056
-  },
-  {
-    "id": "8639909",
-    "headline": "Turkey will get some diesel from US-Russia supply deal, energy minister says - Reuters",
-    "summary": "Turkey will get some diesel from US-Russia supply deal, energy minister says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYjdhZ0V0TGxFRVBoQWVSMVBlOXFvdm1rcFlmWm45dVdYS3FJdm5ZdExGM2xRd3hhb1hvWUJYdnVlRG50bm1CbjJubjRnM2JtVFp3UkdiU0QxcVJEbnZyNC1HSDhOYUM1THhiTm9heG9tTV9FTHpwMW1BOEhxN0Q0WjlocVJMZV9TSUlIN0RMZDdkQmpPQUhUQk40bkNDdzdMSVhEa3U5eUZKd2R1OVBqajZYTDI5cDhTT3FaUk5uZw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1792324304,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1792352517,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Turkey's energy minister stated that the country will receive diesel from a US-Russia supply deal. This news is a development in the ongoing efforts to stabilize global energy markets. The deal aims to increase diesel supplies to Turkey, which has been facing energy shortages. The US-Russia agreement is a significant move in the energy sector, potentially affecting global oil prices and trade dynamics. The Turkish government has been seeking alternative energy sources to reduce its reliance on Russian gas imports.",
-      "impact": "The news may have a positive impact on oil prices, potentially benefiting oil-producing companies. However, the short-term effects on oil prices are uncertain, and the deal's implementation timeline is unclear. In the medium term, the increased diesel supply could lead to improved energy security for Turkey, potentially benefiting the country's economy and related industries. The deal may also have implications for the global energy market, influencing trade dynamics and prices.",
-      "risks": [
-        "uncertainty around deal implementation timeline",
-        "potential impact on global oil prices",
-        "Turkey's energy security risks"
-      ]
-    }
-  },
-  {
-    "id": "8642675",
-    "headline": "Albanian PM says protests pose threat to EU membership, not government - Reuters",
-    "summary": "Albanian PM says protests pose threat to EU membership, not government  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWlc3R0V2SVhwYWpQcDQzVnptVkptdkQtWHdGZUU0SUlYdUozS3ZFQmN2bmNTQUFKbUZ5UUNWR3RWQmlFVDZSU2daT0FMcXNVM0ZIaGtYbXFTTThzWjFqV3JkWkgzbWRxZWsyTGhhYU5wVTFRc01IV3ZRSkRlTlBlZ0p1YVQzMlZYUUxTSEV6WjUxMGNQb1R6Y3k0b0dZSDZIQlo3c1l2RUpTR0o3?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1792322100
-  },
-  {
-    "id": "8640412",
-    "headline": "EU condemns attacks by violent settlers, including on diplomats, spokesperson says - Reuters",
-    "summary": "EU condemns attacks by violent settlers, including on diplomats, spokesperson says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcG5pYTJCRkVpNVoxOTVPTVRoNUtwcTBYX2lhZ3ZmMVYxQjRjeG5kMHBHRnlpS1otNzZjWVNyaGJCNjhnU0ROclhuOWYwVGltT19POUY1Z0lOT2pJNDNCSUN0LTFHSkFxUW5iWW91T0ZiOVVTTm42TUpINVc2c1JVbEszT0hBQmhEUU5kemNPbFdqZndpTl9wTG1XeFRxd0JfTXhyam1zSDEzV2hXdWZ3X25xOXY4TkZwWThkLWVXTTBXREpWVFp0eC1XRQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1792320730,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1792360467,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "The European Union has condemned attacks by violent settlers, including on diplomats, in a statement. The attacks are believed to be related to the ongoing conflict in the region. The EU's condemnation comes as a response to the increasing tensions and violence in the area. The situation is likely to escalate further, potentially affecting the regional stability and security. The EU's stance may also impact its relationships with countries involved in the conflict.",
-      "impact": "The news is likely to have a short-term negative impact on stocks related to the conflict region, such as defense and aerospace companies. The increased tensions and instability may lead to a decline in investor sentiment and a decrease in stock prices. In the medium term, the situation may affect the earnings outlook of companies operating in the region, potentially leading to a decline in profitability and stock performance. The EU's stance may also lead to increased spending on defense and security, which could benefit companies involved in the defense industry.",
-      "risks": [
-        "Increased conflict risk",
-        "Regional instability risk",
-        "Decreased investor sentiment risk"
-      ]
-    }
-  },
-  {
-    "id": "8638689",
-    "headline": "Iran urges US to accept proposal to reopen Strait of Hormuz - Reuters",
-    "summary": "Iran urges US to accept proposal to reopen Strait of Hormuz  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWUh3Z1JyMmU4SkJ4ZXQ4Y0VaN3RMS1Vtcmg4S1lDMGlvUG1GeVY3Q1pkaWltSG5yOWhmcTBnNkk4U0ZiTVREVzd3RVRZNjZJTjhaTkg5bTFGX0J2Q0JzTUI4UlZIWmxHMmRDeVRRODZRYU1mbkNrVzFRX3piTnpDbllfUGc3NnJkSl9hWWRCQzlxZjFBYnE5bXJQMVBjMzNBUFlNcmRtcw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1792319340,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1792335122,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "Iran's proposal to reopen the Strait of Hormuz could be a positive development for global oil markets, as it would reduce the risk of a supply disruption and potentially lower oil prices. The Strait of Hormuz is a critical waterway for oil exports, and any disruption to it can have significant impacts on global oil prices. The US has previously imposed sanctions on Iran, which has led to tensions in the region. Iran's proposal is seen as a diplomatic effort to ease tensions and potentially lead to a relaxation of sanctions.",
-      "impact": "The potential reopening of the Strait of Hormuz could positively impact oil majors such as ExxonMobil (XOM) and Chevron (CVX) in the short term, as it would reduce the risk of supply disruptions and potentially lower oil prices. This could lead to higher earnings for these companies in the coming quarters. However, the medium-term impact is less clear, as any relaxation of sanctions could also lead to increased competition for these companies in the region.",
-      "risks": [
-        "sanctions risk",
-        "geopolitical risk",
-        "supply chain disruption risk"
       ]
     }
   }
