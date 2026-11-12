@@ -1,13 +1,175 @@
 [
   {
+    "id": "8748798",
+    "headline": "Without Jensen Huang, Nvidia's organizational structure isn't 'built to last,' management expert says",
+    "summary": "Nvidia's flat management structure could pose challenges for Huang's successor, according to experts.",
+    "url": "https://www.cnbc.com/make-it/2026/11/12/nvidia-jensen-huang-management-structure.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108546139-1794240325781-108546139-1794228912264-gettyimages-2301620664-20090101261026-99-66998.jpg?v=1794519843&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1794521168,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1794523977,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Nvidia's CEO Jensen Huang has resigned due to personal reasons, leaving behind a flat management structure that may pose challenges for his successor. Huang's direct involvement in the company's strategy and his central role in driving innovation will be difficult to replace. Experts suggest that the company may need to adopt a more traditional management structure, which could lead to a change in the company's leadership dynamics. This change may impact the company's ability to innovate and adapt to changing market conditions.",
+      "impact": "The resignation of Jensen Huang and the potential shift towards a more traditional management structure may lead to short-term uncertainty and potential earnings volatility for Nvidia. In the medium term, this could impact the company's ability to innovate and adapt to changing market conditions, potentially affecting its competitive advantage and valuation. The lack of a clear successor and the need for a new leadership structure may also lead to increased volatility in the stock price.",
+      "risks": [
+        "Leadership transition risk",
+        "Earnings volatility risk",
+        "Innovation stagnation risk",
+        "Valuation uncertainty risk"
+      ]
+    }
+  },
+  {
+    "id": "8748584",
+    "headline": "Cerebras surges 13% after beating on quarterly revenue and announcing Microsoft deal",
+    "summary": "Cerebras announced a new deal with Microsoft after partnering with major cloud providers Amazon and Oracle.",
+    "url": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108550490-1794515369096-gettyimages-2299540938-TECHCRUNCH_DISRUPT.jpeg?v=1794515427&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1794518613,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1794524026,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Cerebras Systems reported better-than-expected quarterly revenue and guidance, with core revenue growing 70% year-over-year. The company announced a new deal with Microsoft, one of the world's top cloud providers, which is expected to contribute to revenue starting in Q1 2027. Cerebras has also partnered with Amazon and Oracle, and is evaluating its financing options to meet ramping demand. The company aims to challenge Nvidia in the AI chip market. This news comes as Nvidia's CEO resigned amidst scandals, potentially creating an opportunity for Cerebras to gain market share.",
+      "impact": "The news is likely to have a positive impact on Cerebras' stock price in the short-term, driven by the better-than-expected earnings and the new deal with Microsoft. The company's revenue guidance for 2027 implies a significant increase, which could lead to a re-rating of the stock. However, investors should be cautious of the risks associated with the company's ability to execute on its growth plans and meet the increasing demand for AI chips. The deal with Microsoft may also lead to increased competition in the AI chip market, potentially affecting Nvidia's stock price.",
+      "risks": []
+    }
+  },
+  {
+    "id": "8748585",
+    "headline": "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal year",
+    "summary": "Cisco is trying to become a bigger player in AI after missing out on the early years of the boom.",
+    "url": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108264683-1770843445357-gettyimages-2256809517-DAVOS_WEF_2026.jpeg?v=1770843513&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1794518435,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1794524073,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Cisco Systems reported better-than-expected Q1 2027 earnings, with revenue increasing 24% year-over-year to $18.5 billion. The company also raised its AI infrastructure revenue guidance to $9 billion for the fiscal year, more than double the previous estimate. This growth is driven by Cisco's efforts to become a major player in the AI space, where it has historically lagged. The company's stock price has already gained 35% this year, outperforming the Nasdaq. Cisco's CEO, Chuck Robbins, highlighted the company's expertise in helping organizations scale, secure, and optimize their environments for the 'agentic AI era'.",
+      "impact": "The positive earnings surprise and raised guidance for AI infrastructure revenue are likely to boost Cisco's stock price in the short term, driven by improved sentiment and increased investor confidence. The medium-term impact could be a re-rating of the company's valuation, as investors reassess its growth prospects in the AI space. This could also lead to increased liquidity and trading volume, as more investors become interested in the stock.",
+      "risks": [
+        "Dependence on AI infrastructure revenue growth",
+        "Competition from other players in the AI space",
+        "Potential disruption from emerging technologies"
+      ]
+    }
+  },
+  {
+    "id": "8748479",
+    "headline": "Microsoft outage hits Outlook. AWS and Google users also report issues",
+    "summary": "Amazon Web Services and Google users also reported outages on Thursday",
+    "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108465628-17930473022026-10-26t203948z_25222247_rc28boaxmoul_rtrmadp_0_microsoft-buyouts.jpeg?v=1793047365&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1794517074,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1794524119,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Microsoft experienced a widespread outage affecting thousands of users, impacting Microsoft 365 services, Outlook, and Teams. Amazon Web Services and Google users also reported outages. Microsoft attributed the issue to a combination of factors, including elevated load across multiple regions and servers being unexpectedly unavailable. The company has taken steps to prevent further servers from being impacted and is working to return affected servers to service.",
+      "impact": "The outage may have a short-term impact on Microsoft's customer satisfaction and potentially its reputation, but it is unlikely to have a significant impact on its earnings outlook. In the medium term, the incident may lead to increased scrutiny on Microsoft's cloud infrastructure and potential investments in redundancy and disaster recovery systems. Microsoft's competitors, such as Amazon and Google, may also face increased scrutiny and potential reputational damage due to their own outages.",
+      "risks": [
+        "reputation risk",
+        "infrastructure resilience risk",
+        "increased competition and scrutiny"
+      ]
+    }
+  },
+  {
+    "id": "8748480",
+    "headline": "United Airlines won’t let AI agents book your flight. Expert says you shouldn't let a bot do that for you, anyway",
+    "summary": "AI agents can save you time, but an expert says decisions involving your health, wealth and privacy still need human input.",
+    "url": "https://www.cnbc.com/make-it/2026/11/12/ai-agents-human-in-loop.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108354100-1787685448125-gettyimages-2291484368-UNITED_NEWARK.jpeg?v=1794514770&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1794515099,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1794524170,
+      "sentiment": "neutral",
+      "confidence": 0.8,
+      "summary": "United Airlines restricts AI agents from accessing its digital platforms, citing security concerns. An expert advises against letting AI agents make decisions involving personal information, health, wealth, or privacy. AI agents can complete various tasks, but their capabilities are still limited and may lead to unintended consequences. The expert suggests that tasks requiring human judgment and nuance, such as financial transactions or sensitive decisions, should remain manual.",
+      "impact": "The news is unlikely to have a direct impact on the airline industry's earnings outlook or valuation in the short term. However, it may influence consumer behavior and sentiment towards AI-powered services, potentially affecting the adoption of AI agents in the financial sector, including trading platforms like Robinhood. The restriction may also set a precedent for other companies to follow, potentially leading to a more cautious approach to AI adoption in the industry.",
+      "risks": [
+        "Regulatory scrutiny of AI adoption in the financial sector",
+        "Potential backlash from consumers if AI agents are perceived as unreliable or insecure",
+        "Impact on the adoption of AI-powered services in the financial industry"
+      ]
+    }
+  },
+  {
+    "id": "8748379",
+    "headline": "Yemen's Houthis say they attacked pumping station on Saudi Arabia's East-West oil pipeline - Reuters",
+    "summary": "Yemen's Houthis say they attacked pumping station on Saudi Arabia's East-West oil pipeline  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOHNyWUhKaHR2QmJXUjJ6S0xNdDZnZmpKRzJQak9SWVc3cmttUGVfbk13NzBZclpqNnp5N1JFc0JYakw2Wl9hV3BYdm1mMnJQR3BKRFI2Zzh3cVRhTFFxejBSVWtTMkt2WTRGRUxFSkVocF83aFlIOU10Vk11d29TRERPcnFVWHRJYktFOUlGU0x4c0Q0UWVtT3JkUE91ZVNPQ09NTnhaMGxJajZxQnkwWTFvTzN4WnNpMTBYalNZOHFZdnUtX1VHeUVR?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1794514701
+  },
+  {
+    "id": "8748271",
+    "headline": "Alice Huang tied to Nvidia’s biggest Chinese competitor",
+    "summary": "The woman with whom Jensen Huang reportedly had a relationship also owned stakes in companies that provided computing power to Huawei, a key Nvidia competitor.",
+    "url": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108441789-1792586470134-gettyimages-2300709025-AFP_D3XH836.jpeg?v=1794505715&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1794514249
+  },
+  {
+    "id": "8748378",
+    "headline": "Jensen Huang is out and Nvidia stock is down—what market pros say about buying dips",
+    "summary": "Nvidia stock fell 5% on Thursday following the departure of CEO Jensen Huang. Some see it as a signal to sell, others an opportunity to buy.",
+    "url": "https://www.cnbc.com/make-it/2026/11/12/nvidia-what-market-pros-say-about-buying-dips.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108549916-1794487528395-gettyimages-2212776462-_d1_0371_ey3o2xbd.jpeg?v=1794510352&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1794513689
+  },
+  {
+    "id": "8748377",
+    "headline": "Who will replace Jensen Huang? Here's our early thoughts on the search for Nvidia's next CEO",
+    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+    "url": "https://www.cnbc.com/investingclub/2026/11/12/jensen-huang-ceo-replacement-jim-cramer.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108354637-1787762835529-gettyimages-2291592494-2026_aug_26_nvidia_0227.jpeg?v=1787762914&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1794513642
+  },
+  {
+    "id": "8748169",
+    "headline": "Donald Trump Jr. exits advisory role at Kalshi prediction market",
+    "summary": "The president's son will no longer serve as an advisor at Kalshi.",
+    "url": "https://www.cnbc.com/2026/11/12/donald-trump-jr-exits-kalshi-advisory-role.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108550396-1794509575881-gettyimages-2294603013-kbd75931_thplpp4l.jpeg?v=1794509636&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1794511178
+  },
+  {
     "id": "8747239",
-    "headline": "Trump says US does not \"need\" Iran deal, directs Vance to focus on domestic corruption - Reuters",
-    "summary": "Trump says US does not \"need\" Iran deal, directs Vance to focus on domestic corruption  Reuters",
+    "headline": "Trump says US does not need Iran deal, directs Vance to focus on domestic corruption - Reuters",
+    "summary": "Trump says US does not need Iran deal, directs Vance to focus on domestic corruption  Reuters",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTkdBWnZVWXZqcEFwdWFkTmw5XzVHVndjNzBhdW1GZVFfT2d2OFBzVDlLbC1pdmNvZTY5X01iRE01eGktRlh0b0s2bXJSTm9ZS19CZkdnVzR6bmEzOFJlQjNET2NvTl9yVGZjeHg5SkxVcmZ5UHFkLXcxQ1M3N1dRU3R5R05raV9VOVRsUDRFZE9sT1B6NmZ0ZTA4SFB0TlNYTUNhUHdMWVNKV0tDSmd4d19IRERyblE2QkgxSlpzSQ?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1794500933,
+    "publishedAt": 1794508013,
     "analysis": {
       "version": 2,
       "generatedAt": 1794503532,
@@ -21,6 +183,66 @@
         "Decrease in investor confidence"
       ]
     }
+  },
+  {
+    "id": "8747138",
+    "headline": "Two Iranian men found guilty in UK of assisting Iranian intelligence - Reuters",
+    "summary": "Two Iranian men found guilty in UK of assisting Iranian intelligence  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaWdPVmJKU0hSSFFKaHZqSjhkbmswNjdjN0V5ak1BZHdna1AzWk1YeXlsdHd0WEFxSEppRlpadHY4UTBQTWV1MVliRTVtN005WTdHNTdOWndramJPbXFCYnZQNmJTcldoM3FMbTFmU0RTcGt4TTBETnVqTGFiNDkxNnhYaUlZU2QyeTJPZ2QtR2FPaXFqR3MwamRKRkpON0VFR1NUN0dOaUFYRUxidWJ4M2F3?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1794507770
+  },
+  {
+    "id": "8747866",
+    "headline": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
+    "summary": "Fed Chair Kevin Warsh announced the move at his October news conference, though he did not set a date.",
+    "url": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108476204-1793214824844-gettyimages-2301908968-WARSH_FOMC.jpeg?v=1793214844&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1794507092
+  },
+  {
+    "id": "8747653",
+    "headline": "Here's what Colette Kress and Harvey Jones wrote to Nvidia employees",
+    "summary": "Interim CEO Colette Kress and board chair Harvey Jones emailed Nvidia employees, expressing gratitude for \"resilience, professionalism and continued dedication",
+    "url": "https://www.cnbc.com/2026/11/12/nvidia-kress-jones-employee-emails.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108550106-1794496355859-Untitled-2.jpg?v=1794496460&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1794503251
+  },
+  {
+    "id": "8747655",
+    "headline": "Sitting on big gains in Nvidia? Jim Cramer's advice on what to do next",
+    "summary": "Cramer has been an Nvidia bull long before the generative AI boom.",
+    "url": "https://www.cnbc.com/investingclub/2026/11/12/sitting-on-big-gains-in-nvidia-jim-cramers-advice-on-what-to-do-next.html",
+    "source": "CNBC",
+    "image": "https://image.cnbcfm.com/api/v1/image/108354002-1787676068167-gettyimages-2266718345-NVIDIA_GTC.jpeg?v=1787676090&w=1920&h=1080",
+    "relatedSymbols": [],
+    "publishedAt": 1794502792
+  },
+  {
+    "id": "8748067",
+    "headline": "Four died in military helicopter crash in eastern Turkey, defence ministry says - Reuters",
+    "summary": "Four died in military helicopter crash in eastern Turkey, defence ministry says  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZFRDcndTTjFHZDZsUWgwMnZZWXhNdmtEMjFaQTVVMWk4dTVqMEQwXzE0SXZZLXZXQ3d3dThPQjUyVkxiVmJIZjRMOEFSbC1BNmoyWDJjSERIYjIybEZjazVOTzcxYXNSV2VFTWVlTG5IQmgxMnBkeW9WQTFPTUVZVHRYQm13aDNLelVRalVMX3R5NU1GcFRfVFVma1JNMFpSZHViaW5LOTNsbUlrekpndFFNblVSNTFGd0E?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1794502469
+  },
+  {
+    "id": "8747867",
+    "headline": "Oil tanker struck off UAE's Ras Al-Khaimah, all crew reported safe - Reuters",
+    "summary": "Oil tanker struck off UAE's Ras Al-Khaimah, all crew reported safe  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeDlHRUduYXpITEh6ZXlxdm9Zc3hiVXlhZXhzbzUySkFvNkMyQ1pFYWlxbnZKUmR4T0tieF9rZHhWYnFzUXI2a0J4M2VOLUZPcGt3ckxrUzNrSFFfeXpXNDJjRzVIS2p6OWI5d1BhMHVzVVY4TktOaWJQYTJpenFZOXpISzBiUDZ5ZG5vVGE2U0U5RnFjQmlaRmNnUDk0YV9DRnl6UVRkOEtGR1RJdUF2VmxNRmVpN1lDeXRINVdYQ0xabGJkMTMwazNR?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1794501939
   },
   {
     "id": "8746073",
@@ -44,6 +266,16 @@
         "Decreased earnings risk for oil producers"
       ]
     }
+  },
+  {
+    "id": "8747659",
+    "headline": "Saudi Arabia puts pressure on EU to label Yemen's Houthis a terrorist group - Reuters",
+    "summary": "Saudi Arabia puts pressure on EU to label Yemen's Houthis a terrorist group  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSnl4RjlVd0VYeWFKTUM1eDh4Y1J4V2RsZXlIYTRDUjZGdzJoeHBJQnZXd0NCYTBXcVhUQjFYZ1JNUnk3SDhVWXBHZWJrbm1EQTREYWJzN2MxU1lkQUg1Y3JyWDV1bU1mN3Fha2VfejBDN3o5ZG5aZWdGMVdZT1NvbDBXM045V01GUHpvWEI5TmFTMTlyTkN6cDZhWmxsTVZxNE5mOW1Wb1lLMG04a0F3RXdRT1o1d0hld1h2Tg?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1794499491
   },
   {
     "id": "8747452",
@@ -92,29 +324,6 @@
     }
   },
   {
-    "id": "8746697",
-    "headline": "COMMENTARY: Just like the US, Iran has squandered its good options to end the war - Reuters",
-    "summary": "COMMENTARY: Just like the US, Iran has squandered its good options to end the war  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbjNkU1dtRi1ZR0lyQmplWGZON1QwakF5Wk82UzhRSzR6ZlJfVFlpTkJLWEVBdGFsc21GbEVNMURkRDhaWm9tRHhwZGhUclFxXzdzUlZUU0VUYi10U1MtVzF5djhHNFVCSEhUa1dMN0pvWjktV2JQVGJTa01lSl9lM1RkY1RGdmJmOWVGUkd6MUw2WjBDZ0NPQ3pfYzh2ZXkwNDF3YXppNlBIcEhIUWlQcVhoZXpEOUZpNXYzZHVrdlVybVYz?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1794497614,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1794503722,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Iran's failure to end the war has significant implications for the country's economy and its relations with the international community. The article highlights that Iran has squandered its good options to end the war, which could lead to further economic sanctions and isolation. This could negatively impact Iran's oil exports, a crucial source of revenue for the country. The article also mentions that the US has also squandered its good options to end the war, suggesting a stalemate in the conflict.",
-      "impact": "The potential impact on the oil and gas industry could be significant, with a possible decline in oil exports from Iran. This could lead to a short-term increase in oil prices, benefiting oil-producing companies such as those listed on the NYSE and NASDAQ. However, in the medium term, the increased tensions and potential for further sanctions could lead to a decline in oil prices, negatively impacting the earnings outlook for oil producers. Additionally, the article's focus on Iran's economic struggles could lead to a decline in investor sentiment towards the country's stocks, potentially affecting the overall market.",
-      "risks": [
-        "economic sanctions risk",
-        "decline in oil exports risk",
-        "negative investor sentiment risk"
-      ]
-    }
-  },
-  {
     "id": "8747451",
     "headline": "Mortgage rates were 7% in 1997, too—here’s why buying a home feels more expensive today",
     "summary": "Even at the same mortgage rate, buying a typical home today eats up a much bigger share of household income than it did 30 years ago.",
@@ -155,16 +364,6 @@
     "publishedAt": 1794492001
   },
   {
-    "id": "8747138",
-    "headline": "Two Iranian men found guilty in UK of assisting Iranian intelligence - Reuters",
-    "summary": "Two Iranian men found guilty in UK of assisting Iranian intelligence  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaWdPVmJKU0hSSFFKaHZqSjhkbmswNjdjN0V5ak1BZHdna1AzWk1YeXlsdHd0WEFxSEppRlpadHY4UTBQTWV1MVliRTVtN005WTdHNTdOWndramJPbXFCYnZQNmJTcldoM3FMbTFmU0RTcGt4TTBETnVqTGFiNDkxNnhYaUlZU2QyeTJPZ2QtR2FPaXFqR3MwamRKRkpON0VFR1NUN0dOaUFYRUxidWJ4M2F3?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1794490916
-  },
-  {
     "id": "8746909",
     "headline": "Unions helped Democrats win big in 2026. Now they want action",
     "summary": "Unions spent millions of dollars and mobilized thousands of members to get out the vote for Democrats in the midterm election. Now they want to see action.",
@@ -173,6 +372,16 @@
     "image": "https://image.cnbcfm.com/api/v1/image/108548436-1794344279694-gettyimages-2303690916-4075_48_po-2077-d.jpeg?v=1794344477&w=1920&h=1080",
     "relatedSymbols": [],
     "publishedAt": 1794488973
+  },
+  {
+    "id": "8747967",
+    "headline": "Can a new US Congress mean an end to the Iran war? - Reuters",
+    "summary": "Can a new US Congress mean an end to the Iran war?  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdmRaejBnMHp1QkhibDEzU1hQLVhZZWlaeXV2d1dGcHF5OU1CbGUzTWtVYXpLT1hFcUh5SzVJbWg2eHZpRy1oU1IxZzByY2hhQmpyTDNHTUh4U1NVVE1DWktWMlU1ZUMtNy1xZk1TN3dXVzBXY1dXVDV2aFhuNURkTWpteWpUblljY3p0QjN3?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1794483773
   },
   {
     "id": "8746589",
@@ -195,6 +404,29 @@
     "publishedAt": 1794473650
   },
   {
+    "id": "8746697",
+    "headline": "COMMENTARY: Just like the US, Iran has squandered its good options to end the war - Reuters",
+    "summary": "COMMENTARY: Just like the US, Iran has squandered its good options to end the war  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbjNkU1dtRi1ZR0lyQmplWGZON1QwakF5Wk82UzhRSzR6ZlJfVFlpTkJLWEVBdGFsc21GbEVNMURkRDhaWm9tRHhwZGhUclFxXzdzUlZUU0VUYi10U1MtVzF5djhHNFVCSEhUa1dMN0pvWjktV2JQVGJTa01lSl9lM1RkY1RGdmJmOWVGUkd6MUw2WjBDZ0NPQ3pfYzh2ZXkwNDF3YXppNlBIcEhIUWlQcVhoZXpEOUZpNXYzZHVrdlVybVYz?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1794459272,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1794503722,
+      "sentiment": "bearish",
+      "confidence": 0.8,
+      "summary": "Iran's failure to end the war has significant implications for the country's economy and its relations with the international community. The article highlights that Iran has squandered its good options to end the war, which could lead to further economic sanctions and isolation. This could negatively impact Iran's oil exports, a crucial source of revenue for the country. The article also mentions that the US has also squandered its good options to end the war, suggesting a stalemate in the conflict.",
+      "impact": "The potential impact on the oil and gas industry could be significant, with a possible decline in oil exports from Iran. This could lead to a short-term increase in oil prices, benefiting oil-producing companies such as those listed on the NYSE and NASDAQ. However, in the medium term, the increased tensions and potential for further sanctions could lead to a decline in oil prices, negatively impacting the earnings outlook for oil producers. Additionally, the article's focus on Iran's economic struggles could lead to a decline in investor sentiment towards the country's stocks, potentially affecting the overall market.",
+      "risks": [
+        "economic sanctions risk",
+        "decline in oil exports risk",
+        "negative investor sentiment risk"
+      ]
+    }
+  },
+  {
     "id": "8747347",
     "headline": "Gold drops 3% to over one-year low as fading Middle East peace hopes fan inflation fears - Reuters",
     "summary": "Gold drops 3% to over one-year low as fading Middle East peace hopes fan inflation fears  Reuters",
@@ -206,8 +438,8 @@
   },
   {
     "id": "8744736",
-    "headline": "Oil prices rise as geopolitical risks offset rising crude output - Reuters",
-    "summary": "Oil prices rise as geopolitical risks offset rising crude output  Reuters",
+    "headline": "Oil settles $3 higher on attacks on Saudi energy sites, Strait of Hormuz disruptions - Reuters",
+    "summary": "Oil settles $3 higher on attacks on Saudi energy sites, Strait of Hormuz disruptions  Reuters",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSVNfOWE4dnhlMzA3cExiOE1nR0FNQXFJejNsQTExRExKTlVKNjNjcFRGMWQxMGNmYnNOWFdLaUp0OUo2SHFlNVoxMUo0Y21WazFhVmhZU1VxYlRuWVRfZEtiQ0NGWENEejFpMFRzaUtNbVV3TEhKUHp2aUc0SHJ2VkNzM1BHNU5VeGNNbnRldWZaZUFkTWdDNm9ibk5kQXlOQlRRWHRhdGk5ZEtPZjVjMjE1Q1BJaTZ1NmplRWJVSDlvRFBUQnc?oc=5",
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
@@ -862,6 +1094,29 @@
     }
   },
   {
+    "id": "8737680",
+    "headline": "PODCAST: Hegseth, FBI Nvidia probe, Anthropic valuation (Updated) - Reuters",
+    "summary": "PODCAST: Hegseth, FBI Nvidia probe, Anthropic valuation (Updated)  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMTlXR0tMQllpNEJzNGk1WktuZXlPNHBFTERDM1NidThtQmVpM0U3T3FXb2ljR0JtUkpQVTlBdFloMHJEdGpsS0VPclEySHlvWWFzZkVSZ3NPeTF5QmV6WUs2MHE0UGF2V2ZwMnpNUVNJWWVOTkh6RTJZM0JwRWY2cGI1T24tRmlIQmJvbnByNG1qaHc0dlIwejRGMVV2blU1QWczZGlRclpsdG8?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1794346342,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1794423225,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "The article discusses a podcast by Pete Hegseth, a Fox News host, where he mentions an FBI probe into Nvidia, a leading technology company. Additionally, the article touches on the valuation of Anthropic, a company developing artificial intelligence models. The podcast also mentions a potential connection between Nvidia and the FBI probe. The background is that Nvidia is a major player in the AI and semiconductor industries, and any potential issues could impact its business. The article does not provide concrete details about the FBI probe or its potential impact on Nvidia.",
+      "impact": "The news may have a short-term negative impact on Nvidia's stock price due to the potential FBI probe, which could lead to increased regulatory scrutiny and potential fines. However, the medium-term impact is uncertain and may be mitigated by Nvidia's strong position in the AI and semiconductor industries. The article's mention of Anthropic's valuation does not directly impact Nvidia's stock price, but it may be seen as a related event in the AI space.",
+      "risks": [
+        "regulatory scrutiny risk",
+        "reputation risk",
+        "valuation risk"
+      ]
+    }
+  },
+  {
     "id": "8737568",
     "headline": "Wall St ends lower as hot inflation data, Fed comments heighten rate worries - Reuters",
     "summary": "Wall St ends lower as hot inflation data, Fed comments heighten rate worries  Reuters",
@@ -1043,6 +1298,16 @@
     }
   },
   {
+    "id": "8737058",
+    "headline": "Oil prices ease to two-month lows as US downplays further Iran strikes - Reuters",
+    "summary": "Oil prices ease to two-month lows as US downplays further Iran strikes  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYWIxdHFYZXdDLUkyNjhxSklldE1kTVJUMXBHOENVUUF0YWVXRmhpbGhvSDdJSUtSUG9ZUk5FVGxZdExQa0c0WmJFZDd2QXFNUnJUV0ZuZ0x3eHZCTFBiVXY3b0lVMVA0RkVaVllFRHJHSjJaUmlpSjNOQThxOGhoN05LelBtdjE4Qk5PbnRoTThFVWc3NE91WlE2WHJKbG5kWEVkeF9SS20wSGs?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1794340199
+  },
+  {
     "id": "8737676",
     "headline": "Rubio says no need for major combat operations against Iran given US economic campaign - Reuters",
     "summary": "Rubio says no need for major combat operations against Iran given US economic campaign  Reuters",
@@ -1205,6 +1470,16 @@
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
     "publishedAt": 1794321308
+  },
+  {
+    "id": "8747766",
+    "headline": "Italy says EU nations failed to commit to Red Sea security - Reuters",
+    "summary": "Italy says EU nations failed to commit to Red Sea security  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWXhYTjBLNXBVeWw2Y051RklaUDRGYVNpNmM4cUE4VnR2WkFpZnhrZnItNjVYcXhuTEtrWHJ4YndHV1YtRUdpZENDTnRqOVZuWWU4dU1xYUxlNWRYOXRhbmZ1eUNONnJrN1dfbjlJTThxQlpfODBSOS1wbzRjUFhFUFhLdThyQ1k1VDRWMHZJNWlDeUFoS2VCcTV3?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1794321103
   },
   {
     "id": "8737665",
@@ -1383,29 +1658,6 @@
     "publishedAt": 1794308545
   },
   {
-    "id": "8737680",
-    "headline": "PODCAST: Hegseth, FBI Nvidia probe, Anthropic valuation (Updated) - Reuters",
-    "summary": "PODCAST: Hegseth, FBI Nvidia probe, Anthropic valuation (Updated)  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMTlXR0tMQllpNEJzNGk1WktuZXlPNHBFTERDM1NidThtQmVpM0U3T3FXb2ljR0JtUkpQVTlBdFloMHJEdGpsS0VPclEySHlvWWFzZkVSZ3NPeTF5QmV6WUs2MHE0UGF2V2ZwMnpNUVNJWWVOTkh6RTJZM0JwRWY2cGI1T24tRmlIQmJvbnByNG1qaHc0dlIwejRGMVV2blU1QWczZGlRclpsdG8?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1794308400,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1794423225,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "The article discusses a podcast by Pete Hegseth, a Fox News host, where he mentions an FBI probe into Nvidia, a leading technology company. Additionally, the article touches on the valuation of Anthropic, a company developing artificial intelligence models. The podcast also mentions a potential connection between Nvidia and the FBI probe. The background is that Nvidia is a major player in the AI and semiconductor industries, and any potential issues could impact its business. The article does not provide concrete details about the FBI probe or its potential impact on Nvidia.",
-      "impact": "The news may have a short-term negative impact on Nvidia's stock price due to the potential FBI probe, which could lead to increased regulatory scrutiny and potential fines. However, the medium-term impact is uncertain and may be mitigated by Nvidia's strong position in the AI and semiconductor industries. The article's mention of Anthropic's valuation does not directly impact Nvidia's stock price, but it may be seen as a related event in the AI space.",
-      "risks": [
-        "regulatory scrutiny risk",
-        "reputation risk",
-        "valuation risk"
-      ]
-    }
-  },
-  {
     "id": "8737678",
     "headline": "Canada reimposes sanctions on 11 Iranian entities for contributing to nuclear activities - Reuters",
     "summary": "Canada reimposes sanctions on 11 Iranian entities for contributing to nuclear activities  Reuters",
@@ -1549,16 +1801,6 @@
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
     "publishedAt": 1794277380
-  },
-  {
-    "id": "8737058",
-    "headline": "Oil prices ease to two-month lows as US downplays further Iran strikes - Reuters",
-    "summary": "Oil prices ease to two-month lows as US downplays further Iran strikes  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYWIxdHFYZXdDLUkyNjhxSklldE1kTVJUMXBHOENVUUF0YWVXRmhpbGhvSDdJSUtSUG9ZUk5FVGxZdExQa0c0WmJFZDd2QXFNUnJUV0ZuZ0x3eHZCTFBiVXY3b0lVMVA0RkVaVllFRHJHSjJaUmlpSjNOQThxOGhoN05LelBtdjE4Qk5PbnRoTThFVWc3NE91WlE2WHJKbG5kWEVkeF9SS20wSGs?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1794274980
   },
   {
     "id": "8734842",
@@ -16057,260 +16299,5 @@
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
     "publishedAt": 1792572410
-  },
-  {
-    "id": "8656793",
-    "headline": "HDFC Bank probe finds two senior executives shared confidential information with outsiders",
-    "summary": "HDFC Bank’s internal probe found evidence that two senior executives shared confidential business strategies and possible market-sensitive information with outsiders.",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-21/hdfc-bank-probe-finds-that-senior-executives-leaked-secrets",
-    "source": "Bloomberg",
-    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
-    "relatedSymbols": [],
-    "publishedAt": 1792572148
-  },
-  {
-    "id": "8656790",
-    "headline": "Carlsberg said to near public filing for $700 million India IPO",
-    "summary": "Carlsberg India, the country’s second-largest brewer, is expected to begin investor roadshows next week and could launch the IPO as early as December",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-21/carlsberg-said-to-near-public-filing-for-700-million-india-ipo",
-    "source": "Bloomberg",
-    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
-    "relatedSymbols": [],
-    "publishedAt": 1792570854
-  },
-  {
-    "id": "8656482",
-    "headline": "Apple announces October 28 ‘Pro and tell’ event for touch-screen MacBook Pro",
-    "summary": "Apple will host an event in Los Angeles dubbed “Pro and tell,” teasing a MacBook Pro refresh. The company is also set to unveil a lower-end MacBook Pro with an M6 chip, a refreshed iMac and a revamped iPad mini with a sharper display",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-19/apple-announces-oct-28-event-for-touch-screen-macbook-pro",
-    "source": "Bloomberg",
-    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
-    "relatedSymbols": [],
-    "publishedAt": 1792566472
-  },
-  {
-    "id": "8652940",
-    "headline": "Fighter jet crashes in northeast France, at least one person dead - Reuters",
-    "summary": "Fighter jet crashes in northeast France, at least one person dead  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbjRieTdHWUNzMHlHelpvbDNtSE91c1Z2LWVjNlN5djlBQWVraHByNkRRSEpZOE5raDloOE40ZWxUWXNDMmRoQXFEZVNwYzBmSEliSmo0eWxfam5SZ1FpdWFGZXpTWGRRMlJRZDlpRnBaUkdCTVExeXNFaFQtRkhBUS1aY0xGR3dBdjBJdFF2OEVnNGxZcGVkMlpwYnBhblF1YWRMOQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1792565580
-  },
-  {
-    "id": "8652072",
-    "headline": "Iraq closes Sheeb border crossing with Iran to review security, sources say - Reuters",
-    "summary": "Iraq closes Sheeb border crossing with Iran to review security, sources say  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSXVnY3hDdkhUd05mS1J1MFR3RHdnX09veTI2UXB3a0ZlOVNPU1NDa184ZXhWMmpFMTFmYjFYb1ZORGlzb2FtZWdET2txWUtUUEZhTHc5MWp0YUY0ck1jcVlWc21RTWt0a0hHd1VfOG5fdVZLNmV2NmpVQzJWY0UwaHQ2c2NhUlZFMVpTejI4aE84OUNNUmNsLURqMVcyVEtJNEJOdGpxbWV6UGtJYU0wMnFvMWhVdDl3M2ZrWFRtdDItSTlvbGJLaGVqZ2xOUQ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1792564860,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1792579021,
-      "sentiment": "neutral",
-      "confidence": 0.7,
-      "summary": "Iraq has closed the Sheeb border crossing with Iran to check security, citing sources. The move is likely a precautionary measure in response to regional tensions between Iraq and Iran. The closure may impact trade and economic activity between the two countries, but the long-term implications are unclear. The Sheeb border crossing is a key trade route for goods and commodities, including oil, which is a significant contributor to Iraq's economy. The closure may also have implications for regional security and stability.",
-      "impact": "The closure of the Sheeb border crossing may have a short-term impact on the earnings outlook for companies involved in trade and logistics between Iraq and Iran. However, the medium-term effects are uncertain and will depend on the duration of the closure and the response of the Iraqi government. The closure may also lead to increased costs and delays for companies operating in the region, potentially affecting their profitability and valuation. The impact on oil prices and the global energy market is also a potential concern, although the closure of a single border crossing is unlikely to have a significant impact on global oil supplies.",
-      "risks": []
-    }
-  },
-  {
-    "id": "8656481",
-    "headline": "Getty files for bankruptcy in process that will take it private",
-    "summary": "Getty Images files for prepackaged Chapter 11 bankruptcy to privatize with new equity and $533 million from Getty/Koch affiliates.",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-21/getty-files-for-bankruptcy-in-process-that-will-take-it-private",
-    "source": "Bloomberg",
-    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
-    "relatedSymbols": [],
-    "publishedAt": 1792564514
-  },
-  {
-    "id": "8656480",
-    "headline": "Ambani’s Jio has record India IPO fully subscribed within hours",
-    "summary": "Jio Platforms’ IPO attracts rapid demand, signaling India’s largest listing yet, amid a cautious valuation shift and growth optimism.",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-21/ambani-s-jio-seeks-historic-ipo-a-decade-after-disrupting-india-telecom",
-    "source": "Bloomberg",
-    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
-    "relatedSymbols": [],
-    "publishedAt": 1792564059
-  },
-  {
-    "id": "8651967",
-    "headline": "UK inflation jumps to highest in nearly a year at 3.5% - Reuters",
-    "summary": "UK inflation jumps to highest in nearly a year at 3.5%  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOURnbmVSYmVXLUUxTlpGWGFUbXplMlVvWTlhVlpKTkZKb1E1Q0pSTGthMmVLRkt0VTc0ZHllSnd0X2J6c1M2ajRXWGEzbUgyUHhLWlF5RVk2QktQWHU5eXFKQmxzVWdnQ0N3RkhXZXlKemNkZ3hWd2JIR1N1SW5ZeW4wWjAyOVBNLXVDWklIZEZaeHVHM1lzOUNHN2x1aEk?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1792562640,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1792579074,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "UK inflation has surged to 3.5%, the highest level in nearly a year, driven by rising energy and food prices. This unexpected increase in inflation may lead to further interest rate hikes by the Bank of England, which could negatively impact consumer spending and economic growth. The higher inflation rate may also erode purchasing power and reduce disposable income for households, potentially affecting consumer-facing companies. The Bank of England's decision to raise interest rates could also lead to higher borrowing costs for businesses, which may impact their profitability and valuations.",
-      "impact": "The potential impact on the UK economy and related stocks could be significant, with higher interest rates leading to reduced consumer spending and economic growth. This may negatively affect consumer-facing companies, such as retailers and restaurants, in the short-term. In the medium-term, the higher interest rates could lead to a stronger pound, making exports more expensive and potentially impacting companies that rely heavily on international trade. The increased borrowing costs may also lead to reduced investment and hiring by businesses, further exacerbating the economic slowdown.",
-      "risks": [
-        "higher interest rates risk",
-        "reduced consumer spending risk",
-        "economic slowdown risk",
-        "currency volatility risk"
-      ]
-    }
-  },
-  {
-    "id": "8652073",
-    "headline": "UK approves long-delayed Jackdaw gas field on energy security grounds - Reuters",
-    "summary": "UK approves long-delayed Jackdaw gas field on energy security grounds  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMVhqQWZMc3FMQ2lhTXRCMm92QVlKRlk3Y2lNenRKRTJmWWxHUlNWc3pTZWJyOU92aHlVTmtwLXVTeE01WFZxU3NpQ19Eazh6TkM5VWZaaUpqRFo5SFZJbmRHeFVvYkRiZGJUYUpza0ZyMWZ1NThlMFpEM1U5dlRZeUNJQVBqN0VpbTFscWViMFNHdm84T1FhMWxB?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1792562280,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1792579125,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "The UK government has approved the long-delayed Jackdaw gas field project on energy security grounds. This decision is a positive development for the energy sector, as it will increase the UK's gas supply and reduce reliance on imports. The project has been delayed for several years due to regulatory and environmental concerns. The approval is a significant milestone for the project's developers, Harbour Energy, which had been seeking to bring the field online since 2020. The project is expected to produce around 3.9 billion barrels of oil equivalent over its lifetime.",
-      "impact": "The approval of the Jackdaw gas field is likely to have a positive impact on Harbour Energy's stock price in the short-term, as it removes a major regulatory hurdle and allows the company to move forward with the project. In the medium-term, the increased gas supply is expected to benefit the UK's energy security and potentially lead to a decrease in gas prices, which could be positive for energy companies with exposure to the UK market. However, the project's development and production costs, as well as the current high inflation and interest rates, may weigh on the company's earnings outlook and valuation.",
-      "risks": [
-        "Regulatory risks associated with the project's development and operation",
-        "Inflation and interest rate risks impacting the company's earnings and valuation",
-        "Uncertainty around global energy demand and prices"
-      ]
-    }
-  },
-  {
-    "id": "8656171",
-    "headline": "Oil shipping costs surge sevenfold to over $20 a barrel amid war: Goldman Sachs",
-    "summary": "Higher war-risk premiums, fuel expenses and ship-to-ship transfers are driving freight rates up, potentially reshaping crude trade and refinery sourcing.",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-21/goldman-sachs-says-war-spurs-sevenfold-jump-in-oil-freight-rates",
-    "source": "Bloomberg",
-    "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
-    "relatedSymbols": [],
-    "publishedAt": 1792558110
-  },
-  {
-    "id": "8656176",
-    "headline": "Bangladesh yet to receive Saudi response on execution of two nationals - Reuters",
-    "summary": "Bangladesh yet to receive Saudi response on execution of two nationals  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb0h1UHUxMTlhdjg5T3hlQTRrLWhueTVDRmtCWmt6TzF2U2Jib3RweXNUZmQwVEZKQkN4RnR4ejYxcnYxR0xSZ3ZYaU9Cb2d4VlhrQlU1OWhmRlBUZWwxNlB6THVwWHdKaUZsS1dBcUxsR2E2SmZvdktIdzVnSW14N1pIQk00VC16Y3l3dHN4SGh3c19ZVFMyYkZsQ3NQTEN1ZWxjVFVqWFlRV1NCLXhLX0ZBUEMxS0U?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1792556400
-  },
-  {
-    "id": "8653055",
-    "headline": "Trump, in North Carolina, says Republicans will defy midterm odds - Reuters",
-    "summary": "Trump, in North Carolina, says Republicans will defy midterm odds  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc0VzbUJHdVl3eEtoMVBmbmo2cUk2cUNmR29kVG9sc2NHenE1NkVGY2txM3pNX0QydXVjSWRqb0FSNGdSY1hKX3REeVpZcmJ5REVBYWxNNnUzMmhpeVQ1dGI3WDFNLWdLYTUzYTN1aFhjQTV2RGRZa0pINE1UdHpYX25STVMyeUJ4Y21UcENsWFNYUmpaZHlndGhRWVF5ZjRXSUpYUlkwNkM?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1792553640
-  },
-  {
-    "id": "8652279",
-    "headline": "Half of India's coal plants run critically low on fuel as power demand surges - Reuters",
-    "summary": "Half of India's coal plants run critically low on fuel as power demand surges  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOazNuSjVoOWdWeU9fY0hvSjV6UEpBQjNpVTZhaFg1Y3NXZUdobzk4Wk54a0ZMdHAtTk1CV1Z6OWstTlJ1dDdoSzV6aFZlRFpsVjRjdExPVDNrS2x3WTBSR3N2NThhRnRnYVJZdmkzN0ttNzFOdE9rTnkwS2pYdTNBWDFOcVZyb2xYRF9IU0F3S25fczdoWElJaFh3ajVndWF2bTFMeEVVLUlxbllnQUhxbjJBemxGS1MybXlZ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1792545900,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1792579174,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "India's coal-fired power plants are facing a critical fuel shortage due to a surge in power demand, with half of the country's coal plants running low on fuel. This shortage is attributed to a combination of factors, including a sharp increase in power consumption and a decline in coal production. The situation is exacerbated by the fact that many coal mines have been shut down due to environmental concerns and regulatory issues. The power shortage is expected to continue in the short term, with potential disruptions to the supply chain and increased costs for power generation. This development has significant implications for the energy sector in India, particularly for companies that rely on coal as a primary source of fuel.",
-      "impact": "The coal shortage is likely to have a negative impact on the earnings of companies that rely on coal as a primary source of fuel, such as thermal power plants and coal mining companies. In the short term, these companies may experience a decline in revenue and profitability due to increased fuel costs and reduced production. In the medium term, the shortage may lead to a shift towards alternative energy sources, which could negatively impact the valuation of coal-dependent companies. The liquidity of these stocks may also be affected due to the uncertainty surrounding the coal shortage and its impact on the energy sector.",
-      "risks": [
-        "Fuel supply risk",
-        "Regulatory risk",
-        "Earnings volatility risk"
-      ]
-    }
-  },
-  {
-    "id": "8652938",
-    "headline": "Japan shifting to wage-driven inflation phase, finance minister says - Reuters",
-    "summary": "Japan shifting to wage-driven inflation phase, finance minister says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM0Fielo1REtWUHdnb2xnMDZvaHhmc1BWQjg4NS1YYlZJYWJLelVpTUQ1a2xuRk8yNkw2R1RiSE5kbVVEMW84ZjZMQmlxalZ3WG02ODJBb1BsSXR3b2tiUlNVc3dGV1ZWZF8yM2Z4SUhqRURzTGNqcC1BcHdacG1fV1NLQnpVOXZFTVRQWVdlWUdyV1k2Zmh2ZDlKWlNHZU03MDA0RjhZeDBwWnF6bFpQS1dzWmJYdEx0NTJJ?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1792544040
-  },
-  {
-    "id": "8653052",
-    "headline": "COMMENTARY: China uses crude stockpiles, but rising oil imports may curtail draws - Reuters",
-    "summary": "COMMENTARY: China uses crude stockpiles, but rising oil imports may curtail draws  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMXlFU3FvdEtaU3AxTmhWTm5iUHV1R1pLeWhhM3JFR0FUSm9ua3pod2x4WUdUWHZXMW5Mc1FaY0RMakFzNkN3akV5OE0tODVVRHp4QWlMS0ZiUTg3NkhuODdNVkdkR3RHRGh0Mkhaa2QzNl9aUEl0bVlvSWRoTjJfTnhxeEVpU0pzbE5lcjFUS0R5b2xTSTB2ZkdGX1VtcUxyOTRhejdLWmxVUmRFTElxV01JZXUtaUZWb2s1cTNlM1hyZ1ltUF82NkxVV3RZdw?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1792542660,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1792665592,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "China's crude oil stockpiles have been increasing, but rising oil imports may limit the drawdown of these stockpiles. This is a commentary piece from Reuters, highlighting the complex dynamics of China's oil market. The article suggests that China's oil imports are expected to rise, which could offset the effects of the stockpiles. This development is significant for the global oil market, as China is one of the world's largest oil consumers. The article does not mention any specific companies or stocks, but the impact on the oil market as a whole could have implications for oil-related stocks.",
-      "impact": "The potential impact on oil-related stocks could be significant, as rising oil imports may limit the drawdown of crude oil stockpiles. This could lead to a decrease in oil prices, which could negatively impact the earnings outlook for oil producers and refiners. In the short-term, this could lead to a decrease in stock prices for oil-related companies. In the medium-term, this could lead to a re-evaluation of the sector's valuation and potentially impact investor sentiment.",
-      "risks": [
-        "decrease in oil prices",
-        "negative impact on earnings outlook",
-        "reduced investor sentiment"
-      ]
-    }
-  },
-  {
-    "id": "8650105",
-    "headline": "Canada, Turkey to agree during Carney visit to deepen defence and energy ties, source says - Reuters",
-    "summary": "Canada, Turkey to agree during Carney visit to deepen defence and energy ties, source says  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObWlTeVJJYUVSSnEtekFFRGpHdkdVSVgwczVsS3NSeEdESkYxYWZoVkFJUmNuSUtmcC1ybXB3bFFFTlhDSjhYOFVxblVXZ3dYcHE3MzVYRHJieVYxQXd6VWtQWklwbjRkZzJGMkZnZkhpSzQ4UjI5ZTV4ZUxsUEpHQkhNcVNQczhsaWVLM3c5cUsxblJaMWVMN3diM1p3NWh6UUd2ZzNpQWdUdU5lOG9nN1RoMWFEdXdndzdOdzJMWjB5alFHcWFHNV9R?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1792538679
-  },
-  {
-    "id": "8650414",
-    "headline": "US coaxing refiners to produce more diesel as prices surge, energy officials say - Reuters",
-    "summary": "US coaxing refiners to produce more diesel as prices surge, energy officials say  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQczBsMElXTmU3MHktOU91QkR4MWE3TkFnNjZ2OWNZakp6bFIzY1NGZk1nQWJ6T1h0VjExcUlBOUVHSW9KekVmVW54X25HNjBZM1oxOWUxN05pLXRZOENWOG53QnBqTEwwODlIWGVseU1PQjlHU1VzdERwclZGS0JxSi1PdFlmd2RjbE56c0E1RER2VzhYTExoY0gzaFdZUmdsb1REMHRCNTBERFYyT1NDNlZJWFg2enJvaV9rOEtoeDZqSXl6a2JRX3hR?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1792535902,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1792541644,
-      "sentiment": "neutral",
-      "confidence": 0.6,
-      "summary": "US energy officials are urging refiners to increase diesel production to meet rising demand, driven by high prices. The move aims to address supply chain disruptions and ensure adequate fuel availability. The US has been experiencing a surge in diesel prices, leading to concerns about potential shortages. Refiners are expected to respond to the call, but it's unclear how quickly they can scale up production. The situation highlights the impact of global events on the energy sector, particularly the ongoing conflict in Ukraine and its effects on fuel prices.",
-      "impact": "The news is likely to have a neutral impact on the oil refining sector in the short term, as refiners are expected to respond to the call to increase production. However, the medium-term impact may be more significant, as the increased production could lead to higher earnings for refiners, potentially driving up their stock prices. The news may also boost sentiment in the sector, attracting investors and increasing liquidity. The impact on individual stocks will depend on their specific exposure to the diesel market and their ability to capitalize on the increased demand.",
-      "risks": [
-        "Supply chain disruptions risk",
-        "Price volatility risk",
-        "Regulatory risk"
-      ]
-    }
-  },
-  {
-    "id": "8648859",
-    "headline": "EXCLUSIVE: Trump's approval falls to record low of 31% as midterms near, Reuters/Ipsos poll finds - Reuters",
-    "summary": "EXCLUSIVE: Trump's approval falls to record low of 31% as midterms near, Reuters/Ipsos poll finds  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT2FjX0hUODU4WlBWVWtBbDJwVTBPdHVBTFpGTEpTcDhUYjQyaEZ2aE1RQkE1YjZlREp5ZkRFMXU2czFFVFFaQWQ2NmlJNzJVNGtQM0R0YW5fWDZ1Xzh3b0FBWHBfWVA5UFkwRUFic0FMQWJRTnRmY2xuU3N2dXZFai1ydGtVTC13QjdVM2txNTIyN1UzaGhPMFA4OG80dl8xbHFsUE90bmViTkdtSVNtRFhWakZkWWtH?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1792535138
   }
 ]
