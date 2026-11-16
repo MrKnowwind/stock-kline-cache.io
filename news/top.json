@@ -514,7 +514,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1794636960
+    "publishedAt": 1794636960,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1794788695,
+      "sentiment": "bullish",
+      "confidence": 0.8,
+      "summary": "Canada and the US have made progress on a trade deal, according to Mark Carney, the Governor of the Bank of England. The news suggests that the two nations are nearing a resolution to their trade disputes, which has been a major point of contention in recent months. This development is a positive sign for the global economy, as a trade deal between the two countries would reduce uncertainty and increase trade flows. The progress on the trade deal is also a boon for the Canadian and US economies, as it would increase economic cooperation and potentially boost economic growth.",
+      "impact": "The news is likely to have a positive impact on the Canadian and US stock markets, particularly for companies that have been affected by the trade tensions. The removal of trade uncertainty could lead to an increase in investor confidence, resulting in higher stock prices for companies that have been impacted by the trade disputes. Additionally, a trade deal could also lead to increased economic growth, which would positively impact companies in various sectors, including manufacturing and services.",
+      "risks": [
+        "trade deal collapse risk",
+        "tariff uncertainty risk",
+        "economic growth slowdown risk"
+      ]
+    }
   },
   {
     "id": "8761933",
@@ -524,7 +537,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1794630762
+    "publishedAt": 1794630762,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1794788751,
+      "sentiment": "neutral",
+      "confidence": 0.5,
+      "summary": "The article provides background information on APEC, a forum for Asia-Pacific Economic Cooperation, and mentions the upcoming APEC summit. The event will bring together leaders from 21 member economies to discuss trade and economic issues. The article does not provide any specific details on the agenda or outcomes of the summit. The event is a significant gathering of regional leaders, but its impact on the stock market is uncertain and may be limited to general sentiment shifts.",
+      "impact": "The potential impact of the APEC summit on related stocks is minimal, as the event is more focused on diplomatic and economic discussions rather than concrete policy decisions. However, the summit may influence regional sentiment and market mood, potentially affecting stocks with exposure to the Asia-Pacific region. In the short term, the event may lead to increased volatility in the market, but this is likely to be short-lived. Medium-term implications are uncertain and may depend on the specific outcomes of the summit.",
+      "risks": [
+        "uncertainty about the summit's outcomes",
+        "potential shifts in regional sentiment",
+        "short-term market volatility"
+      ]
+    }
   },
   {
     "id": "8756381",
@@ -672,7 +698,20 @@
     "source": "Reuters",
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
-    "publishedAt": 1794607491
+    "publishedAt": 1794607491,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1794788806,
+      "sentiment": "bearish",
+      "confidence": 0.7,
+      "summary": "Irish police discovered an explosive device near the location where world leaders dined the previous day. The incident occurred in a high-security area, and the motive behind the discovery is unclear. The event highlights the potential for increased global security concerns and potential disruptions to international relations. This may lead to a heightened sense of uncertainty and risk aversion among investors. The incident is not directly related to any specific company or industry, but it may influence investor sentiment and market volatility.",
+      "impact": "The news may lead to a short-term increase in investor risk aversion, potentially impacting the valuation of companies with high exposure to global events or international relations. In the medium term, the incident may lead to increased security spending and a shift towards more secure infrastructure, benefiting companies in the security and defense sectors. However, the impact on the broader market may be limited, and the incident's effects may be short-lived.",
+      "risks": [
+        "Increased security concerns and potential disruptions to international relations",
+        "Heightened investor risk aversion and market volatility",
+        "Potential shift towards more secure infrastructure and increased security spending"
+      ]
+    }
   },
   {
     "id": "8755674",
@@ -740,6 +779,16 @@
     }
   },
   {
+    "id": "8763447",
+    "headline": "Son of ex-CIA chief Brennan charged in child pornography case, official says - Reuters",
+    "summary": "Son of ex-CIA chief Brennan charged in child pornography case, official says  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOWIxYU8tU1JGa2RPSlRfOU53RFhjWm44NEtBYlRnM2h2RjJlQlVUVlNaMWhoVVIta0ZNYjNES0gzdEw0T0tEcjhnQUEwaDRSNjBrTmlSNHcyYURIRllBOVRPT2gxQ1RQbndCR0VKLVlBVnU2am1aMUlFQWZScnA2MWxKbVpQeWphOFhpb285YWp0SE5KOGdRb1l0UUwtSVBfTmpXZXJVR0FTQnZTNE1xdENfUlE?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1794604962
+  },
+  {
     "id": "8753654",
     "headline": "Iran's IRGC says two tankers hit sea mines in Hormuz - Reuters",
     "summary": "Iran's IRGC says two tankers hit sea mines in Hormuz  Reuters",
@@ -801,6 +850,29 @@
         "Escalation of conflict risk",
         "Oil price volatility risk",
         "Earnings outlook risk for Saudi Aramco and other oil-related companies"
+      ]
+    }
+  },
+  {
+    "id": "8763446",
+    "headline": "Pope Leo thanks God as 1.5 million cheer in Peru city he served as bishop - Reuters",
+    "summary": "Pope Leo thanks God as 1.5 million cheer in Peru city he served as bishop  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRUsxbGhoNzZ3TEh0eUlza0lFUTZVbXRTRkpJT19aLWNiWkVieDN6eHZZSFBYNnhmemhUVExZYjd4THZsR0pIRnRfUmtUUnVkbUVoUnV5VFVteFdxQ1ZucDlGSjRDUjR2OEVMTWN6NUJHQUlNWUNwRU0zSHRmN3g3YkxxRVlBdEhxN2hYWDJjSUNDcDZNOWxGR3g3MjdKR0xKakpJ?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1794600400,
+    "analysis": {
+      "version": 2,
+      "generatedAt": 1794788928,
+      "sentiment": "neutral",
+      "confidence": 0.6,
+      "summary": "Pope Leo, the head of the Catholic Church, recently visited a city in Peru where he previously served as a bishop. The city's residents turned out in large numbers to greet him, with 1.5 million people attending the event. The visit is seen as a significant event for the local community, with many residents expressing gratitude for the Pope's past service. The news is largely ceremonial and does not have any direct impact on the business world.",
+      "impact": "The news is unlikely to have any significant impact on the stocks of companies related to the Catholic Church or the tourism industry in Peru. However, the event may have a positive effect on the local economy in the short-term, as the influx of visitors and tourism-related activities can boost local businesses. In the medium-term, the visit may also contribute to increased visibility and interest in the region, potentially benefiting local businesses and the economy.",
+      "risks": [
+        "no direct impact on earnings outlook",
+        "no significant valuation changes expected",
+        "no notable liquidity effects"
       ]
     }
   },
@@ -1032,6 +1104,16 @@
         "security risk"
       ]
     }
+  },
+  {
+    "id": "8762840",
+    "headline": "UK police investigate allegations against best-selling children's author Walliams - Reuters",
+    "summary": "UK police investigate allegations against best-selling children's author Walliams  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ3c1WDVKOVNJcWZEc3BZamtibGpDaVJSU1hnUnhnWkFMTUlCcUpYSVg0Zm1iV1N5d2ptcm9VM2x6OTBMMUxkdV9peG4wc2x6WXZrWUdXREhDZzBpUEhSSVNPakVVVUxyeHQ3VlVxNmszLVZOVzJwa19SSEZQUU5Gckh3ZVhPc1I5LW9HYXVVSDBWblhWWmhQODdEcnBHTHJiU3pHeUs2RDR5cHNLWkYyOHVzb290Vl9hSGR5bW93aE9YM3M?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1794591467
   },
   {
     "id": "8760519",
@@ -1709,6 +1791,16 @@
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
     "publishedAt": 1794506320
+  },
+  {
+    "id": "8763245",
+    "headline": "US labor market resilient; existing home sales hit more than 16-year low in October - Reuters",
+    "summary": "US labor market resilient; existing home sales hit more than 16-year low in October  Reuters",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUTZla1JsS2tMLXNSZGhQOXg4VnpnUkQxelh0RVlFQnl5b0ZGYXBwTXNVd3hWMVM1c0d5WjhPR3hGbnRPV3dDSloxV2w2Wm83a24wSUNHdTN0UmpHbzlTSHJ4VnVRNTBVdUlHTkdrZ21SdkFIZ09VMnRWZ1ZSU3ZFbk1SQnA4ZUJBVWxzSWpVTjRodDFqQlRiQzRRWHRzdzU3?oc=5",
+    "source": "Reuters",
+    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+    "relatedSymbols": [],
+    "publishedAt": 1794505746
   },
   {
     "id": "8747653",
@@ -16376,84 +16468,5 @@
     "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
     "relatedSymbols": [],
     "publishedAt": 1792691979
-  },
-  {
-    "id": "8659259",
-    "headline": "Gucci sales slip again in latest blow to Kering recovery plan - Reuters",
-    "summary": "Gucci sales slip again in latest blow to Kering recovery plan  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQanFCUlp6TWQxSndQajRmbDh4enluVk1XX2Rfc0VUeGd3bDlaQXVkcDRGLTk5LThSTk1OQS01RkZGSEV5RHVXZUxvY3lRQ2tMN1NSSHlVZnU3cGlXMkJ2Y0QxSnRsaF9mV0NldDRzNkRPQ3kxSlF5Yjl0dzlITDNzc3FYSjFEVkpVSVZFWFJCZXJzZW9fQ29LcThRQXNZbnlfb2NpcXRXVmZwZUY4OXhOYUdLeDA3cl9IelJhc2JvdV9sYlRBeVBMcG5BX3pHVUdyRzJJVGhR?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1792690665,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1792709246,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "Kering, the parent company of Gucci, has reported another decline in Gucci's sales, which is a setback for the company's recovery plan. Gucci's sales have been struggling due to supply chain disruptions, high inflation, and a slowdown in consumer spending. This decline in sales is a concern for investors as it may impact Kering's earnings outlook and valuation. The luxury goods market is highly competitive, and Gucci's sales decline may be a sign of a broader industry trend.",
-      "impact": "The decline in Gucci's sales is likely to have a negative impact on Kering's stock price in the short-term, as investors may reassess their valuation of the company. In the medium-term, Kering may need to adjust its pricing strategy or product offerings to stay competitive in the luxury goods market. The company's earnings outlook may also be impacted, leading to a potential decline in investor sentiment and liquidity.",
-      "risks": [
-        "slowing consumer spending",
-        "supply chain disruptions",
-        "high inflation risk"
-      ]
-    }
-  },
-  {
-    "id": "8658617",
-    "headline": "We're dipping back into the AI trade with our first data center buy in weeks",
-    "summary": "The stock is also getting an upgrade, with the expectation of a bounce ahead.",
-    "url": "https://www.cnbc.com/investingclub/2026/10/22/were-dipping-back-into-the-data-center-trade-with-small-buy.html",
-    "source": "CNBC",
-    "image": "https://image.cnbcfm.com/api/v1/image/108432675-1792420159361-gettyimages-2300478197-AFP_D3QN9WW.jpeg?v=1792420206&w=1920&h=1080",
-    "relatedSymbols": [],
-    "publishedAt": 1792690099,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1792697625,
-      "sentiment": "bullish",
-      "confidence": 0.8,
-      "summary": "We're re-entering the AI trade with a small buy in data centers, driven by an upgrade and expectation of a bounce. This move suggests a renewed optimism in the AI sector, particularly in the infrastructure supporting it. The data center upgrade indicates a growing demand for cloud and AI services, which should positively impact the earnings outlook for companies in this space. This development is a positive signal for the industry, as it indicates increasing adoption and growth.",
-      "impact": "This news is likely to have a positive impact on data center stocks, particularly those with a high exposure to AI and cloud services. The upgrade and expectation of a bounce may lead to a short-term increase in stock prices, driven by improved sentiment and liquidity. In the medium term, this could result in higher earnings expectations and potentially higher valuations for companies in this space.",
-      "risks": [
-        "Overestimation of AI adoption and demand growth",
-        "Increased competition in the data center market",
-        "Potential delays in infrastructure upgrades"
-      ]
-    }
-  },
-  {
-    "id": "8660813",
-    "headline": "US airlines struggle to offset soaring fuel costs with big fare hikes - Reuters",
-    "summary": "US airlines struggle to offset soaring fuel costs with big fare hikes  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQalVWOWpxTXAwZ1M0cmFmTFRxZ2dMRzU0SEIxcVhPVVR4T1I1OUd3MGVtb0d6alVyd2pJakpUUUQxQ1FlMVc2eWVtWHVTQWlIaW84RUhBU0twdnpmTkZfUkxiQlVJWE1TeDNVMk90ZjI2NGNpU2F2Um1TSVJEck91cXZ1OHZmVnpLdWR3SnVicVJNMklNRGdLaXZybHRZYTFTTTNZak9IZEtKRGxPQTFVQUF3?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1792689591,
-    "analysis": {
-      "version": 2,
-      "generatedAt": 1792734307,
-      "sentiment": "bearish",
-      "confidence": 0.8,
-      "summary": "US airlines are facing significant challenges in offsetting soaring fuel costs with large fare hikes. The rising fuel prices are putting pressure on airline profitability, which is already under strain due to increased competition and capacity growth. Despite efforts to raise fares, airlines are struggling to maintain profitability, leading to a decline in earnings expectations. This development is a concern for investors, as it may lead to a decline in airline stocks.",
-      "impact": "The news is likely to have a negative impact on airline stocks in the short term, as investors may reassess their earnings expectations and adjust their valuations accordingly. The increased fuel costs and reduced profit margins may lead to a decline in stock prices, particularly for airlines with high fuel exposure. In the medium term, the industry's ability to adapt to rising fuel costs and maintain profitability will be closely watched, and any signs of weakness may lead to further stock price declines.",
-      "risks": [
-        "Reduced profitability due to high fuel costs and increased competition",
-        "Decline in earnings expectations and subsequent stock price drop",
-        "Increased risk of airline consolidation or bankruptcies"
-      ]
-    }
-  },
-  {
-    "id": "8663543",
-    "headline": "UAE, Greece announce €12.75 billion in deals, Abu Dhabi plans further €15 billion investment - Reuters",
-    "summary": "UAE, Greece announce €12.75 billion in deals, Abu Dhabi plans further €15 billion investment  Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZ1pwXzZBNGRLX2NWa3I0R2wwQU9fUmV5cjhSWVVVcHJISFNOMTd5UDBrck5DS2xqZFJidnRIdGpocEMyTHA5TlJoZ3BURndlVHM0RlNVbHlmejNtaTRacmZyYkZIQmRqd1RBdC1xeHh1SXZGdlVVOTlPS09mLUNNa2dSOG12SDRCWl9mRmZJV1JmQVRUd0lidnhBWndHVlo4Ql9neFRsYUZ0T1phUXFXM182ME5PS1FtYnE2ZVF5OERRWTl2Ync?oc=5",
-    "source": "Reuters",
-    "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-    "relatedSymbols": [],
-    "publishedAt": 1792688623
   }
 ]
